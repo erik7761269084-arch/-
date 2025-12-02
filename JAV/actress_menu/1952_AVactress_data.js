@@ -36,8 +36,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240808/7fcdf88c-21e3-43a1-bd9c-2b7078f89367.jpg"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
+    {
+      "id": 8309,
+      "IDcode": "PPBD-302",
+      "title": "最佳軟綿爆乳騎乘超爽大賞 BEST 合集 ~ 吉根柚莉愛, 佐山愛, 椿りか, Hitomi, 緒川春, JULIA",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-02-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250214/20250214051857569569.jpg",
+      "actress": [
+        "椿莉香",
+        "吉根柚莉爱",
+        "JULIA",
+        "佐山爱",
+        "仓多真央",
+        "春菜华",
+        "谷梓",
+        "浅田結梨",
+        "緒川春",
+        "星咲ひな",
+        "桐谷茉莉",
+        "川村晴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-302"
+    },
     {
       "id": 93811,
       "IDcode": "PPBD-282",
@@ -45,7 +72,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2024-06-18",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/e45ef253f89c25418a2563ec18b775ba.jpg",
@@ -63,27 +90,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-282"
     },
     {
-      "id": 90599,
-      "IDcode": "PPBD-269",
-      "title": "巨乳を押し付けながらムニュムニュ接吻！唾液を飲ませて交わる密着ベロキス中出し性交",
+      "id": 91477,
+      "IDcode": "EBOD-796",
+      "title": "酔うとお股ゆるゆる女 飲み屋で引っ掛けた爆乳ボディ（20代前半）と俺んち直行、朝まで生ハメあんあん（ハート）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2023-11-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240122-1/0a9780a88cd7d5132d54265849c70532.jpg",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "2021-01-13",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/40770be1d622e255bd57f8b0377239eb.jpg",
       "actress": [
-        "沙月芽衣",
-        "藤井蘭々",
-        "永井瑪麗亞",
-        "桐谷茉莉",
-        "川村晴",
-        "安倍亜沙美",
-        "黑川纱里奈",
-        "飞鸟りいな"
+        "川村晴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-796"
+    },
+    {
+      "id": 156768,
+      "IDcode": "JUL-430",
+      "title": "嫂子的照顾-川村晴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fqjpg4.top/upload/vod/20241004-1/ca9775215d55cecf6fe07746570266a5.jpg",
+      "actress": [
+        "川村晴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-430"
     },
     {
       "id": 90619,
@@ -92,10 +128,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2023-10-17",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240122-1/a16de9c99d4a80838015312c606b3e2a.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/39959f579c99f16e9c4ff5f91493dbf4.jpg",
       "actress": [
         "乙愛麗絲",
         "大浦真奈美",
@@ -110,39 +146,27 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-267"
     },
     {
-      "id": 88324,
-      "IDcode": "DOCP-281",
-      "title": "G●t●トラベルナンパ！～Tokyoに何しに来たの？～STAYHOMEで性欲の溜まった素人娘たちをおチ○ポで大解放！？",
+      "id": 90599,
+      "IDcode": "PPBD-269",
+      "title": "巨乳を押し付けながらムニュムニュ接吻！唾液を飲ませて交わる密着ベロキス中出し性交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-03-19",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/72d0ac8947f4db0b16ef4264331f0b7b.jpg",
       "actress": [
-        "小栗操",
+        "沙月芽衣",
+        "藤井蘭々",
+        "永井瑪麗亞",
+        "桐谷茉莉",
         "川村晴",
-        "及川大智",
-        "香乃萌音"
+        "安倍亜沙美",
+        "黑川纱里奈",
+        "飞鸟りいな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-281"
-    },
-    {
-      "id": 91477,
-      "IDcode": "EBOD-796",
-      "title": "酔うとお股ゆるゆる女 飲み屋で引っ掛けた爆乳ボディ（20代前半）と俺んち直行、朝まで生ハメあんあん（ハート）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2021-01-13",
-      "cover_url": "",
-      "actress": [
-        "川村晴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-796"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-269"
     },
     {
       "id": 88362,
@@ -151,14 +175,33 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2020-12-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/332a30eb8c8d145b664136f67d8ed695.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b3e9c99959e5c7f69008c24923a34ade.jpg",
       "actress": [
         "川村晴"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-933"
+    },
+    {
+      "id": 88324,
+      "IDcode": "DOCP-281",
+      "title": "G●t●トラベルナンパ！～Tokyoに何しに来たの？～STAYHOMEで性欲の溜まった素人娘たちをおチ○ポで大解放！？",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/c2ff15e9ed7c95f3a042dd9288374267.jpg",
+      "actress": [
+        "小栗操",
+        "川村晴",
+        "及川大智",
+        "香乃萌音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-281"
     }
   ]
 };

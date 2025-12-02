@@ -4,7 +4,7 @@ window.actressData = {
   "name": "天美しおり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,53 +19,53 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 106959,
-      "IDcode": "EBWH-010",
-      "title": "初めて出来た彼女を脱がしたら… 着衣から想像できない物凄い色白スリム美巨乳 大興奮の僕は性欲尽きるまでハメまくった 天美しおり",
+      "id": 107494,
+      "IDcode": "MIFD-245",
+      "title": "新人20岁脱掉衣服之后…超绝品模特儿身材！笑容甜美敏感奶头美少女AV出道 天美诗织",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-09-19",
-      "cover_url": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/b0e54397864ee5cab9b794c50b240d54.jpg",
       "actress": [
+        "ハメ鳥の人",
         "天美しおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-245"
     },
     {
       "id": 107239,
       "IDcode": "HMN-460",
-      "title": "超・絶・品！！スレンダー 田舎出身の素朴で純粋な地味女子大生 はじめてのナマ中出し 天美しおり 生写真2枚付き",
+      "title": "超・絕・品！！苗條 鄉下出身的純樸純粹土氣女大生 初次的無套中出 天美詩織",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2023-08-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/04/68400eb841a147ed1a55c8a2/cover.jpg",
       "actress": [
         "天美しおり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-460"
     },
     {
-      "id": 107494,
-      "IDcode": "MIFD-245",
-      "title": "新人 20歳 こう見えて、脱いだら超絶品スレンダーちゃん！ 笑顔が可愛い敏感ピンク美乳赤毛の美少女AVdebut 天美しおり （ブルーレイディスク） （BOD）",
+      "id": 106959,
+      "IDcode": "EBWH-010",
+      "title": "初次交到的女友脱下衣服后-天美诗织",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-08-01",
-      "cover_url": "https://tutu1.space/images/2023/08/29/241322c4d6696977f0f384571739b9a7.jpg",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "ハメ鳥の人",
         "天美しおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-010"
     }
   ]
 };

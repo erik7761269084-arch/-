@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
+      "type": "",
+      "company": "宇宙企畫",
       "publish_date": "2020-02-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/76143c9509b579d0d075e062c34e1348.jpg",
+      "cover_url": "",
       "actress": [
         "日向澪",
         "星奈爱",

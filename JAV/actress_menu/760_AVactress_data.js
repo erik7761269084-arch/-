@@ -39,24 +39,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241017/3da9b139-5f77-4977-8419-77a952bd1e70.jpg",
     "https://picture.yoshiclub.xyz/20241017/60d034ef-ce95-48db-ab9f-330e54799f91.jpg"
   ],
-  "works_count": 2,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 9484,
-      "IDcode": "SSNI-550",
-      "title": "毫無防備的妹妹每天都在誘惑着我 ~ 伊賀真子",
+      "id": 10200,
+      "IDcode": "SSNI-480",
+      "title": "體液互換，激烈性愛，完全未剪特別 ~ 伊賀真子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-08-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20250101/20250101030951894894.jpg",
+      "publish_date": "2019-05-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/202412050124305353.jpg",
       "actress": [
-        "伊贺真子",
-        "伊贺まこ"
+        "伊贺真子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-480"
+    },
+    {
+      "id": 11236,
+      "IDcode": "SSNI-419",
+      "title": "新人報到！ NO.1 STYLE 首次亮相 AV DEBUT ~ 伊賀真子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-03-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017063430747747.jpg",
+      "actress": [
+        "伊贺真子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-419"
     },
     {
       "id": 9796,
@@ -65,15 +80,80 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-06-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218001815307307.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/66f55a6cb36e49eebebf30722626f61d.jpg",
       "actress": [
         "伊贺真子",
         "伊贺まこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-501"
+    },
+    {
+      "id": 9515,
+      "IDcode": "SSNI-524",
+      "title": "女學生徒淫濕調教強暴 持續被中年制服愛好者侵犯… 伊賀真子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241230/202412300247043838.jpg",
+      "actress": [
+        "伊贺真子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-524"
+    },
+    {
+      "id": 9484,
+      "IDcode": "SSNI-550",
+      "title": "毫無防備的妹妹每天都在誘惑着我 ~ 伊賀真子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/01c4842a77bf6ae5f5fc9eb5890adb63.jpg",
+      "actress": [
+        "伊贺真子",
+        "伊贺まこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-550"
+    },
+    {
+      "id": 8163,
+      "IDcode": "SSNI-573",
+      "title": "目標是制服少女。恥辱到頂的集團癡漢猥褻。被中年男人的扭曲愛情所玷污…… ~ 伊賀真子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782920dc179ffb1db75fdba/cover.jpg",
+      "actress": [
+        "伊贺真子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-573"
+    },
+    {
+      "id": 7615,
+      "IDcode": "SSNI-597",
+      "title": "巨汉肉棒压迫子宫高潮开发子宫颈伊贺真子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250312/20250312045407348348.jpg",
+      "actress": [
+        "伊贺真子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-597"
     }
   ]
 };

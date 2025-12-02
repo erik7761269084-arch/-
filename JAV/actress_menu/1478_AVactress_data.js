@@ -41,7 +41,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/杉浦花音.jpg",
     "https://picture.yoshiclub.xyz/20231109/5296caa9-8946-4876-80e0-6c8aa78d5620.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 71736,
@@ -50,10 +50,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-06-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/8ecf0a0190be1494d7c9df478ead6cef.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/bf90357651bd6134ca2aba6e1337ba0e.jpg",
       "actress": [
         "葵百合香",
         "真木今日子",
@@ -65,6 +65,22 @@ window.actressData = {
         "新堂有望"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-096"
+    },
+    {
+      "id": 1078,
+      "IDcode": "HEYZO-1519",
+      "title": "我要去廁所了～在辦公室自慰的淫乱OL～ - 杉浦花音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-06-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20231212/6bfeb9c5-fb66-4771-a32a-cef26d7551fe.jpg",
+      "actress": [
+        "杉浦花音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1519"
     }
   ]
 };

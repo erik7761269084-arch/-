@@ -38,83 +38,116 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240616/682aa8dd-f28c-4c72-ad74-a32de01c69fa.jpg",
     "https://picture.yoshiclub.xyz/20240616/a91f9b7b-3de7-487d-9374-d97745cc4d47.jpg"
   ],
-  "works_count": 6,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 6943,
-      "IDcode": "MIDA-121",
-      "title": "「廢柴小弟弟還硬成這樣！」 叛逆小惡女用發育爆乳挑釁，把我這廢物家教搞崩潰…小惡魔乳交榨汁…騎乘打樁SEX再榨…被當玩具玩到蛋蛋空空 ~ 優木とあ",
+      "id": 12027,
+      "IDcode": "MIDV-849",
+      "title": "我會讓你在我的大奶子乳交中大量射精！ ~ 優木とあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410173047211211.jpg",
+      "publish_date": "2024-09-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912104958719719.jpg",
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-849"
     },
     {
-      "id": 7524,
-      "IDcode": "MIDA-084",
-      "title": "癡漢的手指太會玩了…發不出聲愛液卻溢到拉絲的我徹底墮落 ~ 優木とあ",
+      "id": 13349,
+      "IDcode": "MIDV-785",
+      "title": "H罩杯大奶子優木とあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084452148148.jpg",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712002742427427.jpg",
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-785"
     },
     {
-      "id": 8310,
-      "IDcode": "MIDA-045",
-      "title": "闊別10年未歸的父母家的再次姐弟風呂同浴，童貞的可愛弟弟突然化身色狼！ 姐弟之間有着驚人的化學反應，連續一周每天都進行溼身性愛 ~ 優木とあ",
+      "id": 96421,
+      "IDcode": "MIDV-817",
+      "title": "一次非常激烈的性爱约会-优木とあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/202502130748339999.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/8d7aba69ce3f6f785966eae815daeecf.jpg",
       "actress": [
-        "優木友愛"
+        "優木友愛",
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-817"
     },
     {
-      "id": 9091,
-      "IDcode": "MIDA-005",
-      "title": "穿着俱樂部制服的女孩的超大乳房被放鬆並接受絕頂媚藥按摩 ~ 優木とあ",
+      "id": 95513,
+      "IDcode": "MIDV-885",
+      "title": "一年中最热的日子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075330925925.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/819b884d1cf89cbe286cab609ea54627.jpg",
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-885"
+    },
+    {
+      "id": 13917,
+      "IDcode": "MIDV-764",
+      "title": "新人出道，在當地被議論的巨乳 ，身高：146cm 柔軟的乳房：100cm 小而自信的身體 ~ 優木とあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0d60ccf22ae3e04a02437/cover.jpg",
+      "actress": [
+        "優木友愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-764"
+    },
+    {
+      "id": 10579,
+      "IDcode": "MIDV-920",
+      "title": "巨乳生徒のおっぱい誘惑とエグい小悪魔ベロキスで13発寝取られた 接吻NTR 優木とあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67888b6a5d57b64bfd2c2dda/cover.jpg",
+      "actress": [
+        "優木友愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-920"
     },
     {
       "id": 9938,
       "IDcode": "MIDV-961",
-      "title": "不忍心扔下住在隔壁笨手笨腳的叔叔獨自一人的巨乳天使，帶着對中年無能廢物鄰居的同情和愛來而獻出自己的身體，中年廢男的大雞巴終於站起來了！ 復活的20發射精 ~ 優木とあ",
+      "title": "隔壁那个废柴大叔简直让人受不了",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/202412110742349090.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241231-1/e3aedf4dd5c4fb213e91c8a598cc627a.jpg",
       "actress": [
         "優木友愛",
         "大岛丈"
@@ -122,20 +155,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-961"
     },
     {
-      "id": 10579,
-      "IDcode": "MIDV-920",
-      "title": "小惡魔巨乳生徒的乳首誘惑 13發寢取 接吻NTR ~ 優木とあ",
+      "id": 9091,
+      "IDcode": "MIDA-005",
+      "title": "社团活动制服少女特大乳房按摩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114101241231231.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab6f0d5f03a092cf71d2a2/cover.jpg",
       "actress": [
         "優木友愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-920"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-005"
+    },
+    {
+      "id": 8310,
+      "IDcode": "MIDA-045",
+      "title": "快十年未有过的姐弟入浴-柚木友爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250303-1/838224732d73863c4afa67bc8bd90fbb.jpg",
+      "actress": [
+        "優木友愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-045"
+    },
+    {
+      "id": 7524,
+      "IDcode": "MIDA-084",
+      "title": "痴女的指交太过刺激-優木とあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/16/67d6ad2ecf22ae3e044145ff/cover.jpg",
+      "actress": [
+        "優木友愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-084"
+    },
+    {
+      "id": 6943,
+      "IDcode": "MIDA-121",
+      "title": "面对小恶魔的巨乳挑衅-優木とあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410173047211211.jpg",
+      "actress": [
+        "優木友愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-121"
+    },
+    {
+      "id": 6125,
+      "IDcode": "MIDA-158",
+      "title": "作为班主任我被学生勾引-優木とあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515053410408408_thumbnail.webp",
+      "actress": [
+        "優木友愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-158"
     }
   ]
 };

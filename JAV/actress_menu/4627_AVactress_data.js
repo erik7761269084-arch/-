@@ -4,7 +4,7 @@ window.actressData = {
   "name": "七海ひさ代",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-13",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20230922/6c1amEjr/1.jpg",
       "actress": [
         "村上涼子",
         "绪方泰子",
@@ -39,32 +39,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-897"
     },
     {
-      "id": 76359,
-      "IDcode": "NASH-043",
-      "title": "本当にあったエッチなお話 1",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-04-12",
-      "cover_url": "",
-      "actress": [
-        "小早川怜子",
-        "汐河佳奈",
-        "远藤しおり",
-        "七海ひさ代"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-043"
-    },
-    {
       "id": 86939,
       "IDcode": "VEC-137",
       "title": "人妻教師痴漢電車 七海ひさ代",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
       "publish_date": "2015-01-19",
       "cover_url": "",
@@ -72,6 +53,25 @@ window.actressData = {
         "七海ひさ代"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-137"
+    },
+    {
+      "id": 76359,
+      "IDcode": "NASH-043",
+      "title": "本当にあったエッチなお話 1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/02284ee6d59b74bbded41b9201c4a8b6.jpg",
+      "actress": [
+        "小早川怜子",
+        "汐河佳奈",
+        "远藤しおり",
+        "七海ひさ代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-043"
     }
   ]
 };

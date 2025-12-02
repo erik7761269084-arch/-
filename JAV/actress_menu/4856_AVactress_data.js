@@ -4,7 +4,7 @@ window.actressData = {
   "name": "有栖いおり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,18 +16,34 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 78793,
-      "IDcode": "PPPD-814",
-      "title": "「中出ししてくれませんか？」僕達はかくれ巨乳の文系女子に精子を搾り取られた 有栖いおり",
+      "id": 102847,
+      "IDcode": "MMND-178",
+      "title": "『AV無理』有栖いおり 19才 Hカップの軟体グラビアで話題だった制服ア",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2019-12-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有栖いおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMND-178"
+    },
+    {
+      "id": 78793,
+      "IDcode": "PPPD-814",
+      "title": "隐藏痴女属性巨乳文学系女子-有栖いおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "有栖いおり"

@@ -27,8 +27,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230611/71e1b27b-50d6-4332-878e-c4d8d64ae530.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 1442,
+      "IDcode": "HEYZO-2816",
+      "title": "與自慰到溼透的女孩絶頂性交Vol.25",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2022-07-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20230611/1f17bd4d-ebcb-4632-8e0e-ff9cb604fff3.jpg",
+      "actress": [
+        "沢田美波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2816"
+    },
     {
       "id": 1439,
       "IDcode": "HEYZO-2805",
@@ -36,7 +52,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2022-05-21",
       "cover_url": "https://picture.yoshiclub.xyz/20230615/20230615001249444444.jpg",

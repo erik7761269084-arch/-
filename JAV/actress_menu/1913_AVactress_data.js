@@ -32,39 +32,23 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/7-未満/AI-Fix-長澤あずさ.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
-      "id": 1982,
-      "IDcode": "MKBD-S01",
-      "title": "KIRARI 01 : 長澤梓",
+      "id": 159054,
+      "IDcode": "HEYZO-0109",
+      "title": "ワリキリハミ乳娘降臨 前編 –",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2013-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/bb866bcd-a5bd-4b95-a11e-52304f3d36c3.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/Zl8DsY6r/1.jpg",
       "actress": [
         "長澤梓"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S01"
-    },
-    {
-      "id": 1892,
-      "IDcode": "CWPBD-49-1",
-      "title": "CATWALK POISON 49 : 長澤梓",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2011-09-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/450cb45c-bb8a-411e-a373-498e79c53c0c.webp",
-      "actress": [
-        "長澤梓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-49-1"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0109"
     }
   ]
 };

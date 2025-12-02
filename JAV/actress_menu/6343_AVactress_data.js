@@ -4,7 +4,7 @@ window.actressData = {
   "name": "春川月姫",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,19 +20,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 100337,
-      "IDcode": "PS007",
+      "IDcode": "PS-007",
       "title": "Pussy killer 搭訕巨乳美少女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "素人Only",
       "publish_date": "2013-09-20",
       "cover_url": "",
       "actress": [
         "春川月姫"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-007"
     }
   ]
 };

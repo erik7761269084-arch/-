@@ -40,23 +40,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241222/e39ff960-44a1-4920-b1a3-4b453f6be660.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 60092,
-      "IDcode": "SXLF-002",
-      "title": "エロ系Yout●berの生ハメSEX配信中！かなのとSEXしたい人、今からおいで！本田かなの",
+      "id": 91586,
+      "IDcode": "ALDN-253",
+      "title": "我實在受不了-本田かなの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://tutu1.space/images/2025/09/13/7790d23d686414ac154c7886b9480440.jpg",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/49f7c0c0772677ac78b518380b4f84cd.jpg",
       "actress": [
         "最上もも"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXLF-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-253"
+    },
+    {
+      "id": 91559,
+      "IDcode": "ALDN-285",
+      "title": "因为町内会而-本田加奈野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/d425ec4e99f8d0dcc331c3ddd480369a.jpg",
+      "actress": [
+        "最上もも"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-285"
     },
     {
       "id": 62294,
@@ -65,9 +81,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2025-07-26",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "月野香澄",
@@ -78,16 +94,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-537"
     },
     {
+      "id": 60092,
+      "IDcode": "SXLF-002",
+      "title": "エロ系Yout●berの生ハメSEX配信中！かなのとSEXしたい人、今からおいで！本田かなの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "最上もも"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXLF-002"
+    },
+    {
       "id": 5242,
       "IDcode": "DVMM-252",
       "title": "魔鏡顏出MM號 美豔人妻限定 和閨蜜大PK！童貞男的逆搭訕射精對決 5 ~ 月見伊織 二宮和香 最上もも 逢阪瞳 鈴木真夕",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062429286286_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/21/d50377418e4ec5d9d958b9b9af166a03.jpg",
       "actress": [
         "鈴木真夕",
         "二宮和香",
@@ -96,22 +128,6 @@ window.actressData = {
         "最上もも"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-252"
-    },
-    {
-      "id": 91586,
-      "IDcode": "ALDN-253",
-      "title": "辛抱堪らん 義理の娘でもおじさんは 本田かなの",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2023-12-26",
-      "cover_url": "",
-      "actress": [
-        "最上もも"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-253"
     }
   ]
 };

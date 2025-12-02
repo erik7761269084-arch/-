@@ -22,7 +22,7 @@ window.actressData = {
     "Sasaki Elly"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 83724,
@@ -31,16 +31,50 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-06",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/eba957c611045f66af814df281bf27d0.jpg",
       "actress": [
         "富田优衣",
         "夏川海",
         "佐佐木艾丽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-230"
+    },
+    {
+      "id": 78855,
+      "IDcode": "TIKC-040",
+      "title": "【盗撮】制服娘とナマパコしたので隠し撮り動画を販売します。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-12-19",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230318-1/2f8835d0bd7215b9b513742c24ebafea.jpg",
+      "actress": [
+        "七海雛",
+        "佐佐木艾丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKC-040"
+    },
+    {
+      "id": 97942,
+      "IDcode": "BLK-420",
+      "title": "吉原で指名率No.1の超人気ソープ嬢！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/blk420/blk420pl.jpg",
+      "actress": [
+        "イセドン内村",
+        "佐佐木艾丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-420"
     }
   ]
 };

@@ -52,7 +52,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2014-12-20",
       "cover_url": "",

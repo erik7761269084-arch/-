@@ -45,25 +45,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230923/e5bf8821-5d9b-41d6-be3a-d8159b9c3c08.jpg",
     "https://picture.yoshiclub.xyz/20230923/73998fa9-d2d2-4256-b1f0-af1472945887.jpg"
   ],
-  "works_count": 15,
+  "works_count": 21,
   "related_dramas": [
-    {
-      "id": 13238,
-      "IDcode": "SONE-316",
-      "title": "讓淫蕩的巨乳侄女理解成年人的大雞巴，教育性的活塞做愛 ~ 安達夕莉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719003735526526.jpg",
-      "actress": [
-        "安達夕莉",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-316"
-    },
     {
       "id": 13816,
       "IDcode": "SONE-233",
@@ -71,7 +54,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
       "publish_date": "2024-06-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621002754344344.jpg",
@@ -82,70 +65,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-233"
     },
     {
-      "id": 14483,
-      "IDcode": "SONE-206",
-      "title": "天真危險正妹無意識衣乳緊緻G罩杯無胸罩放蕩誘惑",
+      "id": 15304,
+      "IDcode": "SONE-159",
+      "title": "模擬體驗將你的雞巴夾在這些美麗的大奶之間！ [磨胸聲 x 瘀傷和髒話 x ASMR x  設備拍攝] 安達夕莉的乳交支持",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-05-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524032705675675.jpg",
-      "actress": [
-        "安達夕莉",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-206"
-    },
-    {
-      "id": 16688,
-      "IDcode": "SONE-033",
-      "title": "「和爸爸一起洗澡真好！」和被寵壞的繼女長成了只有大奶子的美女，非常刺激的特寫洗澡時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-01-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119082710777777.jpg",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418235821738738.jpg",
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-033"
-    },
-    {
-      "id": 17130,
-      "IDcode": "SSIS-990",
-      "title": "安達夕莉巨乳的诱惑，打工时看见姐姐安達夕莉的巨乳，如此的诱惑",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20231222/73895423-87ff-4b5b-ac0d-ece68932205d.jpg",
-      "actress": [
-        "安達夕莉",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-990"
-    },
-    {
-      "id": 17670,
-      "IDcode": "SSIS-957",
-      "title": "嫉妒沉迷於女僕的男友......她穿著極端的女僕服裝最好的乳交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231125/35da44ec-4606-4d83-bc00-b6c9f4b1970e.jpg",
-      "actress": [
-        "安達夕莉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-159"
     },
     {
       "id": 18244,
@@ -154,7 +87,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
       "publish_date": "2023-10-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231021/2666ec2d-d257-42e5-8c3b-ef394973c984.jpg",
@@ -164,48 +97,48 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-918"
     },
     {
-      "id": 18602,
-      "IDcode": "SSIS-880",
-      "title": "對於早熟學生的泳裝時而顯露的白白的大奶子的誘惑來說 老師的尊嚴和出軌都不重要了",
+      "id": 171755,
+      "IDcode": "SSIS-692",
+      "title": "知道以自己胸部為武器的少女對因為巨乳喪失理性的失格教師甘甜爆擼逆體罰 安達夕莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-09-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230923/6c255cea-1bbb-4156-a09d-6ddf89717e4d.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-692"
     },
     {
-      "id": 107251,
-      "IDcode": "SSIS-845",
-      "title": "乳だけは大人に実った彼女の妹が学校で習った‘SEX’に興味津々すぎて無邪気に僕をムラムラさせてきます！ 安達夕莉 生写真3枚付き",
+      "id": 167768,
+      "IDcode": "SSIS-592",
+      "title": "想被這樣的爆乳夾…男人對這個奶炮無法忍耐 讓老二溶化的奶子破婊 安達夕莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-08-23",
-      "cover_url": "https://tutu1.space/images/2023/09/10/4eec2a6658b80a96881bc346f1c16cfd.jpg",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20231020/ssis592pl.jpg!320x216.jpg",
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-845"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-592"
     },
     {
       "id": 107562,
       "IDcode": "SSIS-808",
-      "title": "常に揉みしゃぶりOKのあざとい美乳ポロリ服 ロリ巨乳嬢と巡る王道風俗ツアー 安達夕莉 （ブルーレイディスク） （BOD）",
+      "title": "時常揉捏口交OK的聰明美乳蘿莉服 和蘿莉巨乳娘巡迴的王道風俗旅行 安達夕莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-07-25",
-      "cover_url": "https://tutu1.space/images/2023/08/24/5dac0ac28ec80c52f0c1ca6150c7c336.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "安達夕莉",
         "Qべぇ"
@@ -213,47 +146,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-808"
     },
     {
-      "id": 87711,
-      "IDcode": "SSIS-728",
-      "title": "出張先で軽蔑している中年セクハラ上司とまさかの相部屋に…朝まで続く絶倫性交に不覚にも絶頂を繰り返すGカップ童顔新入社員 安達夕莉 （ブルーレイディスク） （BOD）",
+      "id": 107251,
+      "IDcode": "SSIS-845",
+      "title": "胸部已經是個大人！女友的妹妹在學校學的性愛…天真的誘惑我！ 安達夕莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-06-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683b119015dec3d802a98790/cover.jpg",
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-728"
-    },
-    {
-      "id": 96988,
-      "IDcode": "SSIS-566",
-      "title": "激イキ141回！痙攣5500回！イキ潮1910cc！ミニマムGcup美巨乳エロス覚醒 はじめての大・痙・攣スペシャル 安達夕莉 （ブルーレイディスク）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-12-23",
-      "cover_url": "",
-      "actress": [
-        "安達夕莉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-845"
     },
     {
       "id": 106998,
       "IDcode": "SSIS-538",
-      "title": "交わる体液、濃密セックス 完全ノーカットスペシャル 安達夕莉 （ブルーレイディスク） （BOD）",
+      "title": "激烈的性爱-安達夕莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2022-09-27",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安達夕莉",
@@ -262,16 +179,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-538"
     },
     {
-      "id": 68693,
-      "IDcode": "SSIS-507",
-      "title": "ちっちゃくて可愛くて巨乳！安達夕莉のも～っとめちゃイキ！初体験3本番 （ブルーレイディスク） 生写真3枚付き",
+      "id": 96988,
+      "IDcode": "SSIS-566",
+      "title": "141次强烈的高潮-安達夕莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2022-08-24",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "安達夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-566"
+    },
+    {
+      "id": 87711,
+      "IDcode": "SSIS-728",
+      "title": "沒想到在出差處和輕蔑的性騷擾上司共處一室... 直到早晨的絕倫性交 不知不覺連續絕頂的G CUP童顏新入社員 安達夕莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安達夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-728"
+    },
+    {
+      "id": 87183,
+      "IDcode": "SSIS-476",
+      "title": "新人NO.1STYLE-安達夕莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/9fe516290b11c7eb3ed66d5f260a6b47.jpg",
+      "actress": [
+        "安達夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-476"
+    },
+    {
+      "id": 68693,
+      "IDcode": "SSIS-507",
+      "title": "足立的射精-安達夕莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/2bd054c062308c0b75504548f6544a38.jpg",
       "actress": [
         "安達夕莉",
         "鲛岛"
@@ -279,20 +244,156 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-507"
     },
     {
-      "id": 87183,
-      "IDcode": "SSIS-476",
-      "title": "新人NO.1STYLE 安達夕莉AVデビュー",
+      "id": 18602,
+      "IDcode": "SSIS-880",
+      "title": "教職工作和妻子都不怎麼樣 早熟學生的美白胸部和學校泳衣的W誘惑 安達夕莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2022-07-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230923/6c255cea-1bbb-4156-a09d-6ddf89717e4d.jpg",
       "actress": [
         "安達夕莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-880"
+    },
+    {
+      "id": 17670,
+      "IDcode": "SSIS-957",
+      "title": "男友愛上女僕咖啡廳-安達夕莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231125/35da44ec-4606-4d83-bc00-b6c9f4b1970e.jpg",
+      "actress": [
+        "安達夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-957"
+    },
+    {
+      "id": 17130,
+      "IDcode": "SSIS-990",
+      "title": "隐藏巨乳-安达夕莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231222/73895423-87ff-4b5b-ac0d-ece68932205d.jpg",
+      "actress": [
+        "安達夕莉",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-990"
+    },
+    {
+      "id": 16688,
+      "IDcode": "SONE-033",
+      "title": "想要跟爸爸一起洗澡-安達夕莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119082710777777.jpg",
+      "actress": [
+        "安達夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-033"
+    },
+    {
+      "id": 16116,
+      "IDcode": "SONE-077",
+      "title": "用我的大肉棒猛烈插入大奶妹子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240223/20240223091518579579.jpg",
+      "actress": [
+        "安達夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-077"
+    },
+    {
+      "id": 15934,
+      "IDcode": "SONE-124",
+      "title": "无法拒绝新人巨乳护士的过激介护乳交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240322/20240322080340755755.jpg",
+      "actress": [
+        "安達夕莉",
+        "ハカー",
+        "安达夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-124"
+    },
+    {
+      "id": 14483,
+      "IDcode": "SONE-206",
+      "title": "害羞又危險的少女-安達夕莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524032705675675.jpg",
+      "actress": [
+        "安達夕莉",
+        "鲛岛",
+        "安达夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-206"
+    },
+    {
+      "id": 13238,
+      "IDcode": "SONE-316",
+      "title": "用肉棒让傲慢的巨乳侄女明白道理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719003735526526.jpg",
+      "actress": [
+        "安達夕莉",
+        "大岛丈",
+        "安达夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-316"
+    },
+    {
+      "id": 12487,
+      "IDcode": "SONE-269",
+      "title": "G罩杯2人组在我家合宿",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822214741882882.jpg",
+      "actress": [
+        "宇野美玲",
+        "安達夕莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-269"
     }
   ]
 };

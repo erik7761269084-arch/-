@@ -34,8 +34,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240903/b5cffe1d-6eee-44e4-ba15-c8b1358bde7b.jpg",
     "https://picture.yoshiclub.xyz/20240903/9d6a57c0-695e-4be1-b5db-d1c398f0f87a.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 12269,
+      "IDcode": "SDNM-484",
+      "title": "36 歲中學生的母親，在不知不覺中發散的性吸引力。Vol.2：中午在家與男孩們做愛 ~ 灰原かほ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240903/5edabd67-d3a3-47ac-a174-94323c37f299.jpg",
+      "actress": [
+        "灰原かほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-484"
+    },
     {
       "id": 13273,
       "IDcode": "SDNM-482",
@@ -43,14 +59,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-07-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20240716/2aa4cfc2-ac3c-4a44-a008-e6ad32b004dc.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d04263eb67774efbac67fe/cover.jpg",
       "actress": [
         "灰原かほ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-482"
+    },
+    {
+      "id": 11556,
+      "IDcode": "SDNM-486",
+      "title": "無自覚な色気を振り撒く中1男子のお母さん 灰原かほ 36歳 最終章 ‘今日だけは主人と息子たちの事は忘れさせて’1泊2日でナマの快楽に溺れる中出し不倫温泉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/161694046f58020cd2b189b7ab3786e8.jpg",
+      "actress": [
+        "灰原かほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-486"
     }
   ]
 };

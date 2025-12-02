@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桜じゅり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GAS",
-      "publish_date": "2025-06-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250618-1/0f04d7c6feaa89b6a0ef8cc04496e842.jpg",
       "actress": [
         "桜じゅり"
       ],

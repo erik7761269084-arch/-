@@ -37,8 +37,43 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/宮村恋.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 98962,
+      "IDcode": "BBAN-023",
+      "title": "人妻看護師監禁アナルレズビアン高梨あゆみ朝倉ことみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2014-12-07",
+      "cover_url": "",
+      "actress": [
+        "黒木歩",
+        "高梨步",
+        "朝仓ことみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-023"
+    },
+    {
+      "id": 100042,
+      "IDcode": "IPTD-802",
+      "title": "秘密女捜査官～淫謀に囚われし恥辱と快姦～ 木下柚花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-11-01",
+      "cover_url": "",
+      "actress": [
+        "黒木歩",
+        "木下柚花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-802"
+    },
     {
       "id": 76661,
       "IDcode": "AUKS-151",
@@ -46,10 +81,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-12-17",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/5f4b4775/vod.jpg",
       "actress": [
         "佐倉陽菜",
         "明里友香",

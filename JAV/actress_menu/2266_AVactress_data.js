@@ -44,7 +44,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230816/ebee4e7d-0b6a-4d4d-9da5-799382be323d.jpg",
     "https://picture.yoshiclub.xyz/20230816/0314ff33-2077-4a02-af1d-209b39a37dae.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 79656,
@@ -53,8 +53,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-09-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/49f3cb8bf8657469ac265e52781df453.jpg",
       "actress": [
@@ -64,6 +64,22 @@ window.actressData = {
         "生田みく"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-105"
+    },
+    {
+      "id": 18978,
+      "IDcode": "IPX-476",
+      "title": "适合穿露脐装的美臀的时尚关西模特",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230816/20230816223115275275.jpg",
+      "actress": [
+        "宇佐美雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-476"
     }
   ]
 };

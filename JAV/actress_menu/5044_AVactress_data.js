@@ -4,7 +4,7 @@ window.actressData = {
   "name": "成宫ほのか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
       "publish_date": "2020-04-13",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/Hwy1EqS6/1.jpg",
       "actress": [
         "桐香悠裡",
         "桃尻かのん",
@@ -40,20 +40,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-432"
     },
     {
-      "id": 82950,
-      "IDcode": "LUXU-1249",
-      "title": "ラグジュTV 1231 アニメ声のほんわか癒し系お姉さんがAV初登場！元彼と別れて以来の久しぶりのセックスで敏感なツルスベボディを震わせて絶頂を繰り返す！",
+      "id": 479476,
+      "IDcode": "259LUXU-1249",
+      "title": "喜欢看AV的美容师穿着高跟鞋情趣内衣被爆操 凉海みさ -C",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-03-09",
-      "cover_url": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f0e51d1378d4dea5d3083c0c5bce8897.jpg",
       "actress": [
         "成宫ほのか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1249"
     }
   ]
 };

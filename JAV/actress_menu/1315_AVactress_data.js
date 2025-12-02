@@ -32,36 +32,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 1084,
+      "IDcode": "HEYZO-1539",
+      "title": "幹我青梅竹馬的愛乃真幌",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-08-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20231206/f41fca9f-51d9-4623-8a40-850cba97291c.jpg",
+      "actress": [
+        "愛乃真幌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1539"
+    },
+    {
       "id": 1778,
       "IDcode": "LAFBD-80",
       "title": "林間少女80 巨乳女僕 : 愛乃真幌",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2016-12-29",
       "cover_url": "https://picture.yoshiclub.xyz/20230124/e496c8dc-7c69-4f8b-8f34-48f7e79d3741.webp",
       "actress": [
         "愛乃真幌"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-80"
-    },
-    {
-      "id": 1766,
-      "IDcode": "CWPBD-151",
-      "title": "CATWALK POISON 151 : 愛乃真幌",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2016-12-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/66151647-6053-44d7-8e21-f177f3d38cd5.webp",
-      "actress": [
-        "愛乃真幌"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-151"
     }
   ]
 };

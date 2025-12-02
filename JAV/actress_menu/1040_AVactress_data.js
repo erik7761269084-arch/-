@@ -28,18 +28,51 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240615/b91c68b3-2a56-49ee-819c-634eb302e012.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 64013,
-      "IDcode": "LVSC-009",
-      "title": "フェチアルバム 超、舐め顔～巧みな舌技で絶頂に導く！絶景ディルドフェラチオ！",
+      "id": 4866,
+      "IDcode": "DVMM-247",
+      "title": "全新實拍街頭素人摸胸大作戰！用歐派力量讓日本嗨起來！羞澀臉紅的100位妹子，各種形狀大小的生猛歐派隨便揉隨便抓！vol.11 ！~ 岡本莉裏 本田瞳 葉山小百合 天晴乃愛 天晴乃愛 小阪ひまり 足立るい 等",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-05-12",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031326654654_thumbnail.webp",
+      "actress": [
+        "小坂ひまり",
+        "浜辺栞帆",
+        "本田瞳",
+        "黒木奈美",
+        "葉山小百合",
+        "天晴乃愛",
+        "白石渚",
+        "月見若葉",
+        "岡本莉里",
+        "如月りいさ",
+        "依本詩織",
+        "天野花乃",
+        "赤城穂波",
+        "矢澤なの",
+        "白崎水麗",
+        "足立るい",
+        "水川かえで",
+        "沢北あんな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-247"
+    },
+    {
+      "id": 64013,
+      "IDcode": "LVSC-009",
+      "title": "フェチアルバム 超、舐め顔～巧みな舌技で絶頂に導く！絶景ディルドフェラチオ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "鈴木真夕",
@@ -53,34 +86,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LVSC-009"
     },
     {
-      "id": 8361,
-      "IDcode": "HUNTC-145",
-      "title": "啊，你一直在偷看我，喜歡的話那就請....沒關系。 被大嫂的巨乳誘惑 ~ 辻井ほのか 足立るい 若宮葉月",
+      "id": 13933,
+      "IDcode": "EBWH-126",
+      "title": "色情广播事故引起网络轰动-安住昙",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206081012629629.jpg",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614020842607607.jpg",
       "actress": [
-        "辻井穗乃果",
-        "有岡みう",
-        "若宮葉月",
         "足立るい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-126"
     },
     {
       "id": 9015,
       "IDcode": "MKCK-377",
-      "title": "獻給那些喜歡大奶子的巨乳迷們，這是只有AV用戶才能看到的壯觀的100番爆乳連發絕景",
+      "title": "フェラ中もおっぱいが見たい巨乳フェチのアナタへ捧げる AVユーザーしか見ることのできない唯一の絶景 爆乳ローアングルフェラチオラッシュ100連発",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071447277277.jpg",
       "actress": [
         "天月梓",
@@ -128,6 +158,44 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
+    },
+    {
+      "id": 8635,
+      "IDcode": "DVMM-199",
+      "title": "巨乳女子大生さん！タオル一枚男湯でチ○ポ洗ってもらえませんか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250201/20250201035131659659.jpg",
+      "actress": [
+        "宮西光",
+        "仲川空",
+        "沙優七羽",
+        "足立るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-199"
+    },
+    {
+      "id": 8361,
+      "IDcode": "HUNTC-145",
+      "title": "「ずっと見てたでしょ？そんなに気になるなら気が済むまで…良いよ」胸元へのエッチな視線に実は興奮していた義姉が巨乳密着耳元囁きで弟を誘惑！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206081012629629.jpg",
+      "actress": [
+        "辻井穗乃果",
+        "有岡みう",
+        "若宮葉月",
+        "足立るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-145"
     }
   ]
 };

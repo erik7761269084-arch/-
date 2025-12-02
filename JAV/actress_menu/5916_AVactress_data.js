@@ -4,7 +4,7 @@ window.actressData = {
   "name": "妹尾真衣",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 95478,
       "IDcode": "MARAA-199",
-      "title": "ヌード未満/妹尾真衣 チェキ付き",
+      "title": "妹尾真衣 ヌード未満",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2024-11-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/b57c724a982cf5d2e567b28e6122ac77.jpg",
       "actress": [
         "妹尾真衣"
       ],

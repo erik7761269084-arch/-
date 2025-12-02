@@ -40,14 +40,14 @@ window.actressData = {
     {
       "id": 6802,
       "IDcode": "FFT-026",
-      "title": "新人出道！人妻漫畫家超辣登場！全靠親身經歷畫出最色劇情 30歲 AV DEBUT ~ 新井伊織",
+      "title": "この人妻、現役エロ漫画家。※漫画のネタは全て自分のHな体験。新井いおり 30歳 AV デビュー！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-04-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/58f9ecad-df37-4d92-8569-de09d758f737_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6fea68cce1a927afe8c0a/cover.jpg",
       "actress": [
         "新井伊織",
         "鲛岛"

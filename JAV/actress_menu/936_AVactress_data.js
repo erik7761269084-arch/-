@@ -43,15 +43,83 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
-      "id": 2903,
-      "IDcode": "HUNTC-455",
-      "title": "高密度焦點式顏面騎乘按摩，調理自律神經就是這麼爽 ~ 小鬆杏 西尾真裏奈 園田ひなの 瀧川蓳",
+      "id": 7018,
+      "IDcode": "IPZZ-513",
+      "title": "新人出道！10代目柔肌巨乳姐姐 首次亮相 AV DEBUT ~ 瀧川蓳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/e2f1b5cddcf820126dbbc8d0b2c79d5d.jpg",
+      "actress": [
+        "瀧川蓳",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-513"
+    },
+    {
+      "id": 6284,
+      "IDcode": "IPZZ-535",
+      "title": "被最讨厌的上司灌下媚药-滝川すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/05/18/9ecce9e9ef140c03149324823e8680aa.jpg",
+      "actress": [
+        "瀧川蓳",
+        "鲛岛",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-535"
+    },
+    {
+      "id": 5534,
+      "IDcode": "IPZZ-583",
+      "title": "想随意发泄性欲的全身嫩滑丰满美巨乳身材随叫随到的合适女人-滝川すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/22/c4daee49f86eb124ab6f69dd153be5c3.jpg",
+      "actress": [
+        "瀧川蓳",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-583"
+    },
+    {
+      "id": 3197,
+      "IDcode": "FOCS-271",
+      "title": "超敏感ボディが大量おもらし ダイエットエステで体質改善したら脱水注意のエンドレス潮吹き！！ 滝川す",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828042102456456_52512_thumbnail.webp",
+      "actress": [
+        "瀧川蓳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-271"
+    },
+    {
+      "id": 2903,
+      "IDcode": "HUNTC-455",
+      "title": "とボクの顔に跨り施術するエステティシャン！更にそのまま鼠径部なんてやられたら、自律神経とリンパが整い過ぎてバキバキフル勃起！そしたら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-09-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904035143743743_66018_thumbnail.webp",
       "actress": [
         "小松杏",
@@ -64,14 +132,14 @@ window.actressData = {
     {
       "id": 2894,
       "IDcode": "HSODA-091",
-      "title": "時間靜止健身房！神器操控時間想插就插想停就停 ~ 小鬆杏 西尾真裏奈 園田ひなの 花衣つばき 瀧川蓳 若宮葉月",
+      "title": "時間停止ジム。時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021835533533_35496_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdcc66ce3e366423d34075/cover.jpg",
       "actress": [
         "若宮葉月",
         "小松杏",
@@ -82,74 +150,6 @@ window.actressData = {
         "トイボーイ相沢"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
-    },
-    {
-      "id": 3197,
-      "IDcode": "FOCS-271",
-      "title": "超敏感肉體狂噴水 減肥按摩院體質改造後小心脫水無止境潮吹 沉迷特殊快感NTR按摩的G杯正妹 ~ 瀧川蓳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828042102456456_52512_thumbnail.webp",
-      "actress": [
-        "瀧川蓳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-271"
-    },
-    {
-      "id": 5534,
-      "IDcode": "IPZZ-583",
-      "title": "隨意發洩慾望的柔嫩肉感美巨乳尤物 隨叫隨到的極品炮友 ~ 瀧川蓳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605045210374374_thumbnail.webp",
-      "actress": [
-        "瀧川蓳",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-583"
-    },
-    {
-      "id": 6284,
-      "IDcode": "IPZZ-535",
-      "title": "被討厭的上司灌媚藥穿上淫蕩內衣高潮不停的巨乳眼鏡OL ~ 瀧川蓳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508070834203203_thumbnail.webp",
-      "actress": [
-        "瀧川蓳",
-        "鲛岛",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-535"
-    },
-    {
-      "id": 7018,
-      "IDcode": "IPZZ-513",
-      "title": "新人出道！10代目柔肌巨乳姐姐 首次亮相 AV DEBUT ~ 瀧川蓳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/202504030919036262.jpg",
-      "actress": [
-        "瀧川蓳",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-513"
     }
   ]
 };

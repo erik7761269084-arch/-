@@ -29,18 +29,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240424/d5555c0f-7b05-46ec-b54a-672bbbd9b027.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 14554,
-      "IDcode": "SUWK-020",
-      "title": "大樓內是禁止開按摩店的！按摩店女主人天川しずく被無良業主釣魚當場正法！",
+      "id": 15175,
+      "IDcode": "SPLY-019",
+      "title": "來到東京追求事業的巨乳正妹！受邀來到出租把妹達人家裏，被一羣大屌男人的連續活塞吹爆，達到高潮！天川しずく",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-06-01",
+      "publish_date": "2024-05-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240423/20240423050447293293.jpg",
+      "actress": [
+        "天川しずく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-019"
+    },
+    {
+      "id": 14554,
+      "IDcode": "SUWK-020",
+      "title": "每天被要求上垒的无证沙龙店女店长",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240521/2659e8d0-5a4b-414d-94b9-e195ee975d92.jpg",
       "actress": [
         "天川しずく"

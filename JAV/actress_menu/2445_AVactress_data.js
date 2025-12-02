@@ -52,19 +52,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 1740,
-      "IDcode": "SMBD-79",
+      "IDcode": "SMBD-079",
       "title": "S Model 79 ～超可愛的女孩。中出伺候性愛～ : 日向優梨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2013-06-25",
       "cover_url": "https://picture.yoshiclub.xyz/20230212/c2a4dad0-2d0e-45ea-8dc7-64afb3c5dcf2.webp",
       "actress": [
         "日向優梨"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-79"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-079"
     }
   ]
 };

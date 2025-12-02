@@ -33,14 +33,14 @@ window.actressData = {
     {
       "id": 16785,
       "IDcode": "MIFD-466",
-      "title": "新人出道！ 武藤志帆 ~ 想成爲一名女播音員，但最終改變了夢想，因爲喜歡做愛！身材修長的妹子，清爽可愛的臉蛋，相當調皮的AV女优 首次亮相 AV DEBUT",
+      "title": "想當女主播-武藤志帆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-01-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240112/20240112084600305305.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240203-1/e768b3ede0c1006f017edba25b23a53b.jpg",
       "actress": [
         "武藤志帆",
         "鲛岛",

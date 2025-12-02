@@ -31,18 +31,105 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-白城リサ.jpg",
     "https://picture.yoshiclub.xyz/20230330/59749729-75ff-4f25-a9b4-556870f6f214.jpg"
   ],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 5946,
-      "IDcode": "IENF-386",
-      "title": "後庭紋路看得清清楚楚！無碼連續高潮後庭展示自慰33 ~ 相坂すみれ 天美めあ 绫濑心 一色さら 乙愛麗絲 白石なぎさ 白城梨紗 瀬那瑠美奈",
+      "id": 6161,
+      "IDcode": "KTRA-717",
+      "title": "順從抖M小妹被狂灌滿！第二彈4小時合集 ~ 冬愛琴音 夏目涼子 白城梨紗 本田さとみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510102505966966_thumbnail.webp",
+      "actress": [
+        "冬愛琴音",
+        "白城梨紗",
+        "本田さとみ",
+        "夏目りょうこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-717"
+    },
+    {
+      "id": 86812,
+      "IDcode": "APKH-162",
+      "title": "「汚されたいの…変態にして…」アイドル並みの制服娘が、学校帰りにパパと同年代のチ○ポと戯れてイキ狂う禁断ハメ撮り 白城リサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/bac2a21c3f8728f48819850770b488ee.jpg",
+      "actress": [
+        "白城梨紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-162"
+    },
+    {
+      "id": 83162,
+      "IDcode": "SDAB-122",
+      "title": "問題:本物アイドル（私）はスケベでしょうか？ 白城リサ SOD専属 AVデビュー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "白城梨紗",
+        "市川润"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-122"
+    },
+    {
+      "id": 81976,
+      "IDcode": "SDAB-125",
+      "title": "和男朋友做爱很快结束的学生妹白城梨纱每个月都期待拍摄这天能被干个爽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "白城梨紗",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-125"
+    },
+    {
+      "id": 64080,
+      "IDcode": "IENF-381",
+      "title": "想要狭窄浴室里的密着混浴体验吗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "IENERGY",
-      "publish_date": "2025-05-22",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "白石渚",
+        "相坂すみれ",
+        "白城梨紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-381"
+    },
+    {
+      "id": 5946,
+      "IDcode": "IENF-386",
+      "title": "アナルのシワの数までハッキリわかる！ノーモザイク連続絶頂アナル見せオナニー33相坂すみれ 天然美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014533548548_thumbnail.webp",
       "actress": [
         "乙愛麗絲",
@@ -61,88 +148,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-386"
     },
     {
-      "id": 64080,
-      "IDcode": "IENF-381",
-      "title": "素人女子大生限定！狭いお風呂で密着混浴体験してもらえませんか！？火照る身体！おっぱいポロリ！ウブな女子は恥ずかし過ぎて赤面涙目！あちこち舐めてキレイにしたらそのまま生中出しSEXしちゃいました！6",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://tutu1.space/images/2025/05/25/ea20951b3f0a7fdddb2fac735019224b.jpg",
-      "actress": [
-        "白石渚",
-        "相坂すみれ",
-        "白城梨紗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-381"
-    },
-    {
-      "id": 86812,
-      "IDcode": "APKH-162",
-      "title": "「汚されたいの…変態にして…」アイドル並みの制服娘が、学校帰りにパパと同年代のチ○ポと戯れてイキ狂う禁断ハメ撮り 白城リサ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-01-25",
-      "cover_url": "",
-      "actress": [
-        "白城梨紗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-162"
-    },
-    {
       "id": 1663,
       "IDcode": "SDAB-129",
-      "title": "汁液、汗水、潮汐、精液從一身青春汁液覆蓋的鮮嫩身體裡迸發出來！ ~ 白城梨紗",
+      "title": "真正的偶像-白城リサ",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2020-05-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230330/e289bc0a-fa46-46a7-bf3c-a3b31d961229.jpg",
       "actress": [
         "白城梨紗"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-129"
-    },
-    {
-      "id": 81976,
-      "IDcode": "SDAB-125",
-      "title": "理性ブッ壊れキメセク 媚薬で覚醒したスレンダー女子○生 白城リサ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-04-09",
-      "cover_url": "",
-      "actress": [
-        "白城梨紗",
-        "Qべぇ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-125"
-    },
-    {
-      "id": 83162,
-      "IDcode": "SDAB-122",
-      "title": "問題:本物アイドル（私）はスケベでしょうか？ 白城リサ SOD専属 AVデビュー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-03-12",
-      "cover_url": "",
-      "actress": [
-        "白城梨紗",
-        "市川润"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-122"
     }
   ]
 };

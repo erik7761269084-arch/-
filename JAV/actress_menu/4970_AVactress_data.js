@@ -4,7 +4,7 @@ window.actressData = {
   "name": "早川ひな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2012-02-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220913-1/7e528af06688832ce87174923a348e38.jpg",
+      "cover_url": "",
       "actress": [
         "早川ひな"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "澄川鲇",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,19 +16,57 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 9554,
-      "IDcode": "ID-038",
-      "title": "望月蕾 SPECIAL BEST 4小時 合集",
+      "id": 99797,
+      "IDcode": "LOVE-379",
+      "title": "女子校生革命！夏なんてぶっ飛ばせ！5人の美少女が制服大改造スーパークールビズで登校してきた！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-08-11",
+      "cover_url": "",
+      "actress": [
+        "一色さゆり",
+        "山川由奈",
+        "矢泽美々",
+        "姬川优奈",
+        "澄川鲇"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOVE-379"
+    },
+    {
+      "id": 87943,
+      "IDcode": "HAR-063",
+      "title": "父・祖父のすぐ側でイタズラされても抵抗出来ない男湯ギリギリOK娘 3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d3cac05396c7030b51429f6bc5587ae2.jpg",
+      "actress": [
+        "矢泽美々",
+        "苑田あゆり",
+        "澄川鲇"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-063"
+    },
+    {
+      "id": 9554,
+      "IDcode": "ID-038",
+      "title": "护士的医院射精管理生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2024-12-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20241227/20241227030041463463.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "望月蕾",
         "藤咲紫",
@@ -42,24 +80,6 @@ window.actressData = {
         "须藤あいく"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ID-038"
-    },
-    {
-      "id": 87943,
-      "IDcode": "HAR-063",
-      "title": "父・祖父のすぐ側でイタズラされても抵抗出来ない男湯ギリギリOK娘 3",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2017-04-07",
-      "cover_url": "",
-      "actress": [
-        "矢泽美々",
-        "苑田あゆり",
-        "澄川鲇"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-063"
     }
   ]
 };

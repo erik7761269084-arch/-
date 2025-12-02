@@ -57,8 +57,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SOD",
+      "type": "",
+      "company": "",
       "publish_date": "2011-10-20",
       "cover_url": "https://picture.yoshiclub.xyz/20230404/3cee35a5-d240-4e55-a7b3-7a8da02118af.jpg",
       "actress": [

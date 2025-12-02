@@ -44,14 +44,14 @@ window.actressData = {
     {
       "id": 2377,
       "IDcode": "SDAB-339",
-      "title": "新人出道！娃娃臉看上去超清純的蘿莉實際上已經偷偷自慰10年了？至高級反差萌娘，專業調教後淫蕩覺醒，瘋狂潮噴！愛知縣 名古屋市在住 18歲 AV DEBUT ~ 佐野葉月",
+      "title": "将来もエッチもまだ模索中の、ベビーフェイス×しっかり者なギャップ美少女。プロの手ほどきで快感に目覚め、大量潮吹き！ 愛知県 名古屋市在住 佐野葉月 18歳AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210852375375_89363_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "佐野葉月"
       ],

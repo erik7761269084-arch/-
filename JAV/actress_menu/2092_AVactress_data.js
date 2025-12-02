@@ -55,37 +55,14 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 76561,
-      "IDcode": "MIZD-160",
-      "title": "本番禁止のお店でまさかまさかのこっそり過激30本番サービスBEST",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2019-11-01",
-      "cover_url": "",
-      "actress": [
-        "大槻响",
-        "JULIA",
-        "小島南",
-        "栄川乃亜",
-        "緒川春",
-        "美国沙耶",
-        "桐岛莉乃",
-        "柏木もも"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-160"
-    },
-    {
       "id": 82659,
       "IDcode": "HND-543",
       "title": "俺を裏切った妻を危険日に働かせる寝取らせ中出しソープランド 美国沙耶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
+      "type": "",
+      "company": "",
       "publish_date": "2018-07-25",
       "cover_url": "",
       "actress": [
@@ -100,7 +77,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2017-09-23",
       "cover_url": "https://picture.yoshiclub.xyz/20230512/20230512212121287287.jpg",
@@ -109,6 +86,29 @@ window.actressData = {
         "森林原人"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-012"
+    },
+    {
+      "id": 76561,
+      "IDcode": "MIZD-160",
+      "title": "本番禁止のお店でまさかまさかのこっそり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/71b932c7d16cca96049b85ad6802e808.jpg",
+      "actress": [
+        "大槻响",
+        "JULIA",
+        "小島南",
+        "栄川乃亜",
+        "緒川春",
+        "美国沙耶",
+        "桐岛莉乃",
+        "柏木もも"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-160"
     }
   ]
 };

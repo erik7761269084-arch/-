@@ -38,46 +38,46 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-07-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/a835f4de311dd8aadef625541a90cd99.jpg",
       "actress": [
         "千早麻里亞"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-022"
     },
     {
-      "id": 16215,
-      "IDcode": "EBWH-072",
-      "title": "嫂子的肉體太吸引人了...春藥與淫液混合，在女強人的身體上確認懷孕。中出性交 NTR",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2024-02-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218061112542542.jpg",
-      "actress": [
-        "千早麻里亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-072"
-    },
-    {
       "id": 16751,
       "IDcode": "EBWH-065",
-      "title": "新人出道！千早麻里亞 ~ 現役關西私人健身房工的人氣教練。體態美與巨乳並存。身材VS猛男演員。運動員有血有肉的性愛 首次亮相 AV DEBUT",
+      "title": "人气私人教练-千早玛利亚",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2024-01-23",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240114/20240114065731501501.jpg",
       "actress": [
         "千早麻里亞"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-065"
+    },
+    {
+      "id": 16215,
+      "IDcode": "EBWH-072",
+      "title": "大嫂的身材太有魅力了-千早麻里亚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218061112542542.jpg",
+      "actress": [
+        "千早麻里亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-072"
     }
   ]
 };

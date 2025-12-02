@@ -37,7 +37,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-10-29",
       "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113233049894894.jpg",

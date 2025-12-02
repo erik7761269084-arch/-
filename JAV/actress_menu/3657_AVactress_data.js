@@ -4,7 +4,7 @@ window.actressData = {
   "name": "若叶くるみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 66875,
-      "IDcode": "FSET-318",
-      "title": "家族に見つからないように受験生の娘とやっちゃった家庭教師の僕。",
+      "id": 78919,
+      "IDcode": "ATID-167",
+      "title": "女拳法家-若葉くるみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2011-07-07",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "若叶くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-167"
+    },
+    {
+      "id": 66875,
+      "IDcode": "FSET-318",
+      "title": "家庭教師",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/725f118d94b6bbdd3a1e22568ed260dd.jpg",
       "actress": [
         "大沢美加",
         "秋本ゆいか",
@@ -36,22 +52,6 @@ window.actressData = {
         "桃色バンビ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-318"
-    },
-    {
-      "id": 78919,
-      "IDcode": "ATID-167",
-      "title": "- 女拳法家レイプ 犯されたプライド 凌辱遊戯 若葉くるみ - JAV目錄大全javmenu.com",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "若叶くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-167"
     }
   ]
 };

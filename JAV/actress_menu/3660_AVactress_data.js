@@ -4,7 +4,7 @@ window.actressData = {
   "name": "テツロー",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 66886,
       "IDcode": "CAWD-449",
-      "title": "CAWD-449",
+      "title": "直到乳头来唤醒-沙月恵奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2023-02-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250505-1/e0bf582ed4308c58d1371ae24a4b50b3.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/f51c7bd0a57f2acbdc13a48105e66ddc.jpg",
       "actress": [
         "沙月惠奈",
         "テツロー"

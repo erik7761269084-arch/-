@@ -34,25 +34,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250228/0c009077-4783-4d33-8c84-1e0158cd89fb.jpg",
     "https://picture.yoshiclub.xyz/20250228/9bf1603e-e482-475c-b3ec-e5efdb48fc22.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 3071,
-      "IDcode": "GVH-776",
-      "title": "重機辣妹的另一面：帶點受虐癖的變態小甜心 ~ 小倉和葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/202508312106332323_73445_thumbnail.webp",
-      "actress": [
-        "小倉和葉",
-        "タクト"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-776"
-    },
     {
       "id": 61810,
       "IDcode": "PYM-527",
@@ -60,9 +43,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-15",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "吉泽友贵",
@@ -78,34 +61,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
-      "id": 4675,
-      "IDcode": "NGHJ-020",
-      "title": "可愛部下和已婚上司爲高額獎金玩野球拳對決！誰輸誰脫光 ~ 小倉和葉 柏木小夏 靜河 倉木詩織",
+      "id": 7871,
+      "IDcode": "CAWD-816",
+      "title": "擅長應付男人卻脫衣後很色情的肉感BODY",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-07-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/202507060928388181_61009_thumbnail.webp",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071120566566.jpg",
       "actress": [
-        "柏木小夏",
-        "静河",
-        "倉木詩織",
         "小倉和葉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-816"
     },
     {
       "id": 6366,
       "IDcode": "SDMM-197",
-      "title": "魔鏡一號！感謝支持第三彈！10人出演6小時 保健體育課外教學 在現役女學生面前秀出成人濃烈性愛！點燃青春期性好奇心 首次體驗杭打騎乘位直達高潮體驗3",
+      "title": "【おかげさまで第3弾！10名出演6時間】マジックミラー号 保健体育の課外授業 現役女子〇生の目の前でオトナの濃厚SEXを見せつける！思春期の性的好奇心に火を点けて初めての杭打ち騎乘位で中イキ体験3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/13185a29-5fff-4348-9ef6-03eda06a2da8_thumbnail.webp",
       "actress": [
         "千川とわ",
@@ -118,6 +98,42 @@ window.actressData = {
         "白穂乃愛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
+    },
+    {
+      "id": 4675,
+      "IDcode": "NGHJ-020",
+      "title": "可愛部下和已婚上司爲高額獎金玩野球拳對決！誰輸誰脫光 ~ 小倉和葉 柏木小夏 靜河 倉木詩織",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/202507060928388181_61009_thumbnail.webp",
+      "actress": [
+        "柏木小夏",
+        "静河",
+        "倉木詩織",
+        "小倉和葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-020"
+    },
+    {
+      "id": 3071,
+      "IDcode": "GVH-776",
+      "title": "バイク女子（ガチ勢）の裏の顔はちょいマゾっ気のある変態ちゃん 小倉かずは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/202508312106332323_73445_thumbnail.webp",
+      "actress": [
+        "小倉和葉",
+        "タクト"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-776"
     }
   ]
 };

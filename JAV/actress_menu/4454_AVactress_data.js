@@ -4,7 +4,7 @@ window.actressData = {
   "name": "成宫つばさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2019-07-26",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/685e69a8c5bf9e26eb9324e478158faf.jpg",
       "actress": [
         "成宫つばさ"
       ],
@@ -41,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2019-07-12",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250101-1/cfa4bc1b9eb6a219c87f79048cb70aaa.jpg",
@@ -51,20 +51,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-027"
     },
     {
-      "id": 74612,
-      "IDcode": "LUXU-1120",
-      "title": "ラグジュTV 1127 「旦那以外の男性と肌を重ねてみたくて…」日頃のセックスレスから男の温もりに飢えた人妻が意を決してAV出演！恥ずかしさと日常では味わえない快楽の波に恍惚の表情を浮かべ、力強い男根の刺激に酔いしれる！",
+      "id": 567517,
+      "IDcode": "259LUXU-1120",
+      "title": "ラグジュTV 1127 “旦那以外の男性と肌を重ねてみたくて…”日顷のセックスレスから男の温もりに饥えた人妻が意を决してAV出演！耻ずかしさと日常では味わえない快楽の波に恍惚の表情を浮かべ、力强い男根の刺激に酔いしれる！1",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
+      "type": "",
+      "company": "蚊香社",
       "publish_date": "2019-07-10",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/22f1de9861b420845984d7df5fe56fce.jpg",
       "actress": [
         "成宫つばさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1120"
     }
   ]
 };

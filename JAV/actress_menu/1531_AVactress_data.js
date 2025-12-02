@@ -31,23 +31,59 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241202/d7b01792-0d32-4032-9028-79929a63de33.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 10232,
       "IDcode": "SAN-295",
-      "title": "淫貨書法家 ~ 藍澤りく",
+      "title": "エッチな書道の先生 藍澤りく",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
-      "publish_date": "2024-11-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20241202/3eb85823-1a68-411b-a29c-f1bcd1887c52.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7dc3edc101930b4b65bf/cover.jpg",
       "actress": [
         "藍澤りく"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-295"
+    },
+    {
+      "id": 7483,
+      "IDcode": "MMGH-008",
+      "title": "なつき（20）女子大生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f271c0cf22ae3e04e1f874/cover.jpg",
+      "actress": [
+        "姫咲華",
+        "藍澤りく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-008"
+    },
+    {
+      "id": 5751,
+      "IDcode": "TCHB-046",
+      "title": "タダマンFiles BEST SELECTION 03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250528/20250528060736816816_thumbnail.webp",
+      "actress": [
+        "新井里真",
+        "菜月光",
+        "二宮和香",
+        "藍澤りく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-046"
     }
   ]
 };

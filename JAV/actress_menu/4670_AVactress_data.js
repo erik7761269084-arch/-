@@ -22,7 +22,7 @@ window.actressData = {
     "Uchikawa Kaho"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 87082,
@@ -31,7 +31,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-06-02",
       "cover_url": "",
@@ -43,22 +43,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-369"
     },
     {
-      "id": 76862,
-      "IDcode": "SCPX-277",
-      "title": "人妻デリヘル呼んだら上司の奥さん！しかも超清楚美人！初出勤の彼女に、素股を教えるフリしてそのままヌルリと挿入！若くて固い部下ち●ぽにイキまくる不貞妻！「もうやめて！」失神寸前の痙攣ま●こに容赦なく何度も挿入して連続生中出し！",
+      "id": 96503,
+      "IDcode": "NNPJ-208",
+      "title": "人气AV男优的欲求不满的少妇出轨SEX的全过程",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2018-06-08",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "蓮実クレア",
-        "池内凉子",
-        "内川桂帆"
+        "南佳也",
+        "内川桂帆",
+        "西内るな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-208"
     },
     {
       "id": 77667,
@@ -67,10 +67,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2018-03-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/91e1ca78461702c626143dc3f21a5e04.jpg",
       "actress": [
         "水谷心音",
         "坂咲美穗",
@@ -79,6 +79,24 @@ window.actressData = {
         "长瀬望美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-019"
+    },
+    {
+      "id": 76862,
+      "IDcode": "SCPX-277",
+      "title": "人妻デリヘル呼んだら上司の奥さん！しかも超清楚美人！初出勤の彼女に、素股を教えるフリしてそのままヌルリと挿入！若くて固い部下ち●ぽにイキまくる不貞妻！「もうやめて！」失神寸前の痙攣ま●こに容赦なく何度も挿入して連続生中出し！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/27fb261d1ede5e4e13558c5a7385b04a.jpg",
+      "actress": [
+        "蓮実クレア",
+        "池内凉子",
+        "内川桂帆"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-277"
     }
   ]
 };

@@ -57,10 +57,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/cc475320a4ab608ccac82925454c7635.jpg",
       "actress": [
         "長峰志保",
         "玉木玲"

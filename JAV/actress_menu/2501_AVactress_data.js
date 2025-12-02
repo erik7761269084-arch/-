@@ -42,13 +42,13 @@ window.actressData = {
     {
       "id": 6407,
       "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "title": "巨尻熟女ベストセレクション52人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",

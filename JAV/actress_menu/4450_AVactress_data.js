@@ -4,7 +4,7 @@ window.actressData = {
   "name": "朝仓桃菜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/f059b4439f9aef930e53645149fe8a67.jpg",
       "actress": [
@@ -36,20 +36,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GCF-013"
     },
     {
-      "id": 74716,
-      "IDcode": "LUXU-1144",
-      "title": "ラグジュTV 1125 拘束されることに興奮を覚えた美人獣医！男を狂わすそのグラマラスなボディにローションを塗りたくればその魅力は倍増！眼下に広がる街並みにまるで見せつけるかのようなセックスは必見！",
+      "id": 538762,
+      "IDcode": "259LUXU-1144",
+      "title": "ラグジュTV 1125 拘束されることに兴奋を覚えた美人獣医！男を狂わすそのグラマラスなボディにローションを涂りたくればその魅力は倍増！眼下に広がる街并みにまるで见せつけるかのようなセックスは必见！1",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
+      "type": "",
+      "company": "蚊香社",
       "publish_date": "2019-07-05",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/570d198567b1056a950abb280660aec6.jpg",
       "actress": [
         "朝仓桃菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1144"
     },
     {
       "id": 91290,
@@ -58,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
       "publish_date": "2019-03-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240426-1/838ef0a59da000ee845874ecbaee7bf4.jpg",

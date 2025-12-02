@@ -41,20 +41,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1829,
-      "IDcode": "SKYHD-018",
-      "title": "SKY ANGEL 18 19歲美少女天使降臨 ~ 石川鈴華",
+      "id": 1193,
+      "IDcode": "S2MBD-004",
+      "title": "安可 Vol.4：石川鈴香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2011-01-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/e66cabbd-0c15-4c87-a606-7d2fb147e00b.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2019-08-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20231005/20231005013542769769.jpg",
       "actress": [
         "石川鈴華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-004"
     }
   ]
 };

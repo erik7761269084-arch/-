@@ -52,151 +52,294 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240406/cdffdbd5-8650-4d0a-875e-35971b651bb1.jpg",
     "https://picture.yoshiclub.xyz/20240406/2ce37182-1c86-4d92-9a9e-4d9a865ae6a9.jpg"
   ],
-  "works_count": 18,
+  "works_count": 28,
   "related_dramas": [
     {
-      "id": 2778,
-      "IDcode": "MANX-019",
-      "title": "一起玩乳頭捏爆爽翻天 乳首狂熱 ~ 海老咲碧",
+      "id": 105123,
+      "IDcode": "REBD-843",
+      "title": "Ao First steps！！・海老咲あお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2024-11-22",
+      "cover_url": "",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-843"
+    },
+    {
+      "id": 14865,
+      "IDcode": "IPZZ-290",
+      "title": "新一代口交女王誕生！接吻、口交、射精、沾滿精液並再次口交 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2024-05-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510022551632632.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-290"
+    },
+    {
+      "id": 73005,
+      "IDcode": "YUJ-028",
+      "title": "最棒的内射-海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c6d35d57b64bfd0ed5b0/cover.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-028"
+    },
+    {
+      "id": 68976,
+      "IDcode": "NIMA-054",
+      "title": "当我在应用程序上遇到一个工作女孩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020003787787_47263_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-054"
+    },
+    {
+      "id": 15586,
+      "IDcode": "IPZZ-284",
+      "title": "來自九州的G罩杯大奶子美女 海老咲あお 首次亮相！ ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/2937ef8a588880fbf1084c5e04fbc757.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-284"
+    },
+    {
+      "id": 14160,
+      "IDcode": "IPZZ-312",
+      "title": "神圣BODY肥皂女-海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/12/67f96e0f4e7d663df4b7f547/cover.jpg",
+      "actress": [
+        "海老咲碧",
+        "七尾神"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-312"
+    },
+    {
+      "id": 13581,
+      "IDcode": "IPZZ-355",
+      "title": "通过SEX来练肌肉的痴女-海老咲碧",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240801-1/659beb30166075c66c8dc415f8a0ff4b.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-355"
+    },
+    {
+      "id": 12822,
+      "IDcode": "IPZZ-378",
+      "title": "出差地下起了创纪录的暴雨-海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/4f32a6568c99863d5fe7a2f8d8e2a1c2.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-378"
+    },
+    {
+      "id": 12204,
+      "IDcode": "IPZZ-398",
+      "title": "超级柔软乳房的白丝小护士-海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/a1bbb68929cc70a82366ba3bb63c3ae6.jpg",
+      "actress": [
+        "海老咲碧",
+        "鲛岛",
+        "大村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-398"
+    },
+    {
+      "id": 11502,
+      "IDcode": "IPZZ-417",
+      "title": "和老板同住一间温泉旅馆-海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/a47e6e8153436b9f6796ff01d8189d9f.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-417"
+    },
+    {
+      "id": 10766,
+      "IDcode": "IPZZ-437",
+      "title": "リピーター続出！ 巷で噂の本番できちゃう逆バニーおっパブ嬢 美乳Gカップ！！ 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/e6647560b661e92bb26cc687b73f9a48.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-437"
+    },
+    {
+      "id": 9052,
+      "IDcode": "FPRE-130",
+      "title": "与梦寐以求的女上司出差同居一室",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072557469469.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-130"
+    },
+    {
+      "id": 8680,
+      "IDcode": "ATID-625",
+      "title": "想要让艺术老师帮我口交的梦想-海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/07/67cac2bacf22ae3e04269422/cover.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-625"
+    },
+    {
+      "id": 8282,
+      "IDcode": "FPRE-148",
+      "title": "比誰都更愛我弟弟的巨乳姊姊的母乳手淫",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074424376376.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-148"
+    },
+    {
+      "id": 7857,
+      "IDcode": "YUJ-034",
+      "title": "焦らされて焦らされて、脳汁が出るほど焦らされまくった後に狂うほど射精させられた僕はもう女上司の事しか考えられない。 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc51174e7d663df4db8399/cover.jpg",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-034"
+    },
+    {
+      "id": 7519,
+      "IDcode": "FPRE-163",
+      "title": "究極のフェラチオ！！海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f507fdcf22ae3e04efe750/cover.jpg",
       "actress": [
         "海老咲碧",
         "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-019"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-163"
     },
     {
-      "id": 3169,
-      "IDcode": "ATID-640",
-      "title": "人妻愛人祕書的淫語性交日常 ~ 海老咲碧",
+      "id": 7220,
+      "IDcode": "ADN-680",
+      "title": "人妻将继父的全身舔舐吸吮殆尽",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023650900900_27359_thumbnail.webp",
-      "actress": [
-        "海老咲碧",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-640"
-    },
-    {
-      "id": 3541,
-      "IDcode": "FPRE-191",
-      "title": "M男是我的食物 絕對癡女的性感開發全套大餐 ~ 海老咲碧",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034349662662_37503_thumbnail.webp",
-      "actress": [
-        "海老咲碧",
-        "ようく"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-191"
-    },
-    {
-      "id": 3974,
-      "IDcode": "ADN-719",
-      "title": "被住在垃圾堆裏的公公用幹得滿臉滿身都是精液的絕美人妻 ~ 海老咲碧",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085247263263_92226_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/0471ba62eb726f74ae8198cd12e98191.jpg",
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-719"
-    },
-    {
-      "id": 4510,
-      "IDcode": "FPRE-187",
-      "title": "惡魔般的慢節奏射精控制 肉感痴女玩弄肉棒寵物 ~ 海老咲碧",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032429560560_45022_thumbnail.webp",
-      "actress": [
-        "海老咲碧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-187"
-    },
-    {
-      "id": 4934,
-      "IDcode": "ADN-714",
-      "title": "口口聲聲說絕不允許不倫的人妻調查員竟然被寝取了 ~ 海老咲碧",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/202506260316268585_thumbnail.webp",
-      "actress": [
-        "海老咲碧",
-        "日森一"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-714"
-    },
-    {
-      "id": 5322,
-      "IDcode": "FPRE-178",
-      "title": "童貞男優開葷拍攝翻車了！被超猛持久男追着狂幹，巨乳女神高潮連連 ~ 海老咲碧",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062111365365_thumbnail.webp",
-      "actress": [
-        "海老咲碧",
-        "ラヴズ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-178"
-    },
-    {
-      "id": 5699,
-      "IDcode": "ADN-695",
-      "title": "夜班後累到不行卻硬得要命，被隔壁人妻看上，三天沒闔眼狂被榨取 ~ 海老咲碧",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075743473473_thumbnail.webp",
-      "actress": [
-        "海老咲碧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-680"
     },
     {
       "id": 6500,
       "IDcode": "ADN-690",
-      "title": "還想要這份工作的話，就把你老婆給我操一個月唄！無法拒絕的情況下老婆最終被上司睡了 ~ 海老咲碧",
+      "title": "把你老婆借我一个月-海老咲碧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-05-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041633701701_thumbnail.webp",
       "actress": [
         "海老咲碧",
@@ -205,149 +348,169 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-690"
     },
     {
-      "id": 68976,
-      "IDcode": "NIMA-054",
-      "title": "【FANZA限定】実写版！シンママパパカツ 職場の女子とアプリで出会ったら 海老咲あお 生写真付き",
+      "id": 6101,
+      "IDcode": "MANX-013",
+      "title": "エグいオナニー特化アングルで国宝級の美ヒップを味わい尽くす 肉感巨尻マニアックス 海老咲あお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-04-16",
-      "cover_url": "https://tutu1.space/images/2025/04/24/60b295a4315e38395851cd6508c3b7f3.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/202505150446382525_thumbnail.webp",
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-054"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-013"
     },
     {
-      "id": 7220,
-      "IDcode": "ADN-680",
-      "title": "被公公舔遍全身的人妻 ~ 海老咲碧",
+      "id": 5699,
+      "IDcode": "ADN-695",
+      "title": "夜勤明けの僕の『疲れマラ』を見た隣に住んでる人妻が、僕のカラダで欲求不満を解消しにくるのでここ三日間一睡もしてません…。 海老咲あお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327082805334334.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075743473473_thumbnail.webp",
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-680"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-695"
     },
     {
-      "id": 7519,
-      "IDcode": "FPRE-163",
-      "title": "究極的口交！！用嘴診療男性器的真空吸引診所 ~ 海老咲碧",
+      "id": 5322,
+      "IDcode": "FPRE-178",
+      "title": "童貞筆おろし撮影のはずが…まさかの逆転！超絶倫男に追われてハメられまくり追撃巨乳イキ 海老咲あお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084216907907.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062111365365_thumbnail.webp",
+      "actress": [
+        "海老咲碧",
+        "ラヴズ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-178"
+    },
+    {
+      "id": 4934,
+      "IDcode": "ADN-714",
+      "title": "绝对无法原谅不伦的不伦调查员人妻被寝取-海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/202506260316268585_thumbnail.webp",
+      "actress": [
+        "海老咲碧",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-714"
+    },
+    {
+      "id": 4510,
+      "IDcode": "FPRE-187",
+      "title": "悪魔的スローな射精コントロール じっくり肉棒ペットを弄ぶ肉感痴女 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032429560560_45022_thumbnail.webp",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-187"
+    },
+    {
+      "id": 3974,
+      "IDcode": "ADN-719",
+      "title": "ゴミ屋敷で暮らす義父の汚精子で顔も子宮もぐちゃぐちゃにされた人妻。 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085247263263_92226_thumbnail.webp",
+      "actress": [
+        "海老咲碧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-719"
+    },
+    {
+      "id": 3541,
+      "IDcode": "FPRE-191",
+      "title": "M男は飲み物 絶対痴女の性感開発フルコース 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034349662662_37503_thumbnail.webp",
+      "actress": [
+        "海老咲碧",
+        "ようく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-191"
+    },
+    {
+      "id": 3169,
+      "IDcode": "ATID-640",
+      "title": "人妻愛人秘書のおねだり淫語奴● 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023650900900_27359_thumbnail.webp",
+      "actress": [
+        "海老咲碧",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-640"
+    },
+    {
+      "id": 2778,
+      "IDcode": "MANX-019",
+      "title": "チクビで一緒に気持ち良くなりましょう 乳首マニアックス 海老咲あお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020003787787_47263_thumbnail.webp",
       "actress": [
         "海老咲碧",
         "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-163"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-019"
     },
     {
-      "id": 8282,
-      "IDcode": "FPRE-148",
-      "title": "巨乳姐姐最愛我這個弟弟了，她會用她的巨乳給我打飛機 ~ 海老咲あお",
+      "id": 2313,
+      "IDcode": "YUJ-048",
+      "title": "毎日君の事を1分間だけ寸止め焦らししてあげる。 海老咲あお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074424376376.jpg",
-      "actress": [
-        "海老咲碧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-148"
-    },
-    {
-      "id": 8680,
-      "IDcode": "ATID-625",
-      "title": "這就像一場夢，我們的美術老師如此淫蕩的吮吸我們的雞巴 ~ 海老咲あお",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/2025013008085911.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "海老咲碧"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-625"
-    },
-    {
-      "id": 9052,
-      "IDcode": "FPRE-130",
-      "title": "W專屬決定！出差時與我夢想的OL系女上司相部屋！ 用口水舔幹淨，連續性愛不拔SEX ~ 海老咲あお",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072557469469.jpg",
-      "actress": [
-        "海老咲碧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-130"
-    },
-    {
-      "id": 73005,
-      "IDcode": "YUJ-028",
-      "title": "最高の愛人、最高の中出し。 海老咲あお",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://tutu1.space/images/2025/01/30/8e40651a4851ff49c327e31e2302dd92.jpg",
-      "actress": [
-        "海老咲碧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-028"
-    },
-    {
-      "id": 10766,
-      "IDcode": "IPZZ-437",
-      "title": "很多回頭客！ 傳言可以本番的美乳G罩杯兔女郎！！ ~ 海老咲あお",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107100805598598.jpg",
-      "actress": [
-        "海老咲碧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-437"
-    },
-    {
-      "id": 105123,
-      "IDcode": "REBD-843",
-      "title": "Ao First steps！！・海老咲あお チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2024-05-16",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/04/49c86994/vod.jpg",
-      "actress": [
-        "海老咲碧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-843"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-048"
     }
   ]
 };

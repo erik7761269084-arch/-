@@ -4,7 +4,7 @@ window.actressData = {
   "name": "東籬夕佳",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/27/a2fb330f/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/7b469e46a9b131340d05b94355f0c10f.jpg",
       "actress": [
         "東籬夕佳"
       ],

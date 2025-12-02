@@ -4,7 +4,7 @@ window.actressData = {
   "name": "川北すずね",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 62216,
       "IDcode": "MBRAZ-064",
-      "title": "白昼夢/川北すずね チェキ付き",
+      "title": "川北すずね 白昼夢",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-07-30",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "川北すずね"

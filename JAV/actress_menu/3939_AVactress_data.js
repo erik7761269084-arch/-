@@ -4,7 +4,7 @@ window.actressData = {
   "name": "新垣百合子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-10-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250322-1/1c8854cbcf2538df04ca99d2d4ad6b1a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/988a4e0e54a39ff86f6f0feefcdbf88e.jpg",
       "actress": [
         "汐河佳奈",
         "新垣百合子"

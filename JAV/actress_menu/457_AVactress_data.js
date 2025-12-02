@@ -51,7 +51,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230329/4a7788c3-e8be-4956-aeca-f7d0a667152d.jpg",
     "https://picture.yoshiclub.xyz/20230329/7ccb6501-c6f9-49cb-a7dd-7f54346c9820.jpg"
   ],
-  "works_count": 19,
+  "works_count": 36,
   "related_dramas": [
     {
       "id": 88916,
@@ -60,8 +60,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/62aae863e99d98b9e8051454697bd2dc.jpg",
       "actress": [
@@ -80,16 +80,251 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
+      "id": 86918,
+      "IDcode": "ABP-578",
+      "title": "ヲタサーの姫。06あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-03-24",
+      "cover_url": "",
+      "actress": [
+        "彩美旬果",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-578"
+    },
+    {
+      "id": 97404,
+      "IDcode": "ABP-557",
+      "title": "ストロングポイント・セックス 専属女優のエロぉ～い長所を徹底解剖＆徹底紹介します！！ File.01 あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "2017-01-20",
+      "cover_url": "https://sha.lashayu.com/dderwmzw-pic/image_20190222164045165419.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-557"
+    },
+    {
+      "id": 19567,
+      "IDcode": "ABP-449",
+      "title": "從午夜做愛到早上~ 彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20230406/027d6110-2bb5-4be1-b7ab-4047f9a35144.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-449"
+    },
+    {
+      "id": 104223,
+      "IDcode": "ABP-313",
+      "title": "絶頂ランジェリーナ 2 あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-06-19",
+      "cover_url": "",
+      "actress": [
+        "彩美旬果",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-313"
+    },
+    {
+      "id": 105356,
+      "IDcode": "MMND-166",
+      "title": "彩美旬果引退前的各种尝试",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240413-1/1699853c93cfd23f9cb10f7163f4b7aa.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMND-166"
+    },
+    {
+      "id": 104471,
+      "IDcode": "ABP-706",
+      "title": "彩美旬果在蚊香社的最后一作",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240512-1/fcf5fd5fd580f0bcced12bcc78bcc563.jpg",
+      "actress": [
+        "彩美旬果",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-706"
+    },
+    {
+      "id": 101086,
+      "IDcode": "ABP-064",
+      "title": "黑丝巨乳情人契约-彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240113-1/be7daf7f00587e2006aa1bf58bc82639.jpg",
+      "actress": [
+        "彩美旬果",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-064"
+    },
+    {
+      "id": 97763,
+      "IDcode": "ABP-201",
+      "title": "女機密工作員-あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/14/67864e7630833b4bf59945be/cover.jpg",
+      "actress": [
+        "彩美旬果",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-201"
+    },
+    {
+      "id": 97697,
+      "IDcode": "ABP-112",
+      "title": "痴汉专用肉玩具-彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240118-1/f9098f44fe9fc4506ba7cb23479388a4.jpg",
+      "actress": [
+        "彩美旬果",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-112"
+    },
+    {
+      "id": 96735,
+      "IDcode": "ABP-040",
+      "title": "激烈高潮性爱-彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240807-1/ef98700468942eb2591eae37f54181dc.jpg",
+      "actress": [
+        "彩美旬果",
+        "森林原人",
+        "沢井亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-040"
+    },
+    {
+      "id": 96619,
+      "IDcode": "ABP-246",
+      "title": "あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/794ae4d516015f9f77f0785c32906f55.jpg",
+      "actress": [
+        "彩美旬果",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-246"
+    },
+    {
+      "id": 96322,
+      "IDcode": "DOM-045",
+      "title": "巨乳放題-彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOM-045"
+    },
+    {
+      "id": 96046,
+      "IDcode": "INU-050",
+      "title": "顺从候补生-彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INU-050"
+    },
+    {
+      "id": 95786,
+      "IDcode": "ABP-027",
+      "title": "夏日逃亡-あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/2ab994d2a7519094911d1f923a5e0311.jpg",
+      "actress": [
+        "彩美旬果",
+        "森林原人",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-027"
+    },
+    {
       "id": 88173,
       "IDcode": "OFJE-231",
       "title": "優し過ぎて本番までご奉仕ハッスルしちゃうルックスもサービスも120点の大当たりおっパブ嬢全8名36指名24本番ベスト",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-01-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/484a990c64000007f73253758dbfb72c.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/da433d7dfac3e6b68c09ca4ad7015e28.jpg",
       "actress": [
         "夕美紫苑",
         "小野夕子",
@@ -103,31 +338,213 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-231"
     },
     {
-      "id": 11757,
-      "IDcode": "SSNI-384",
-      "title": "姬野2 FANZA同人銷量第一真實CG漫畫真人版！！ ~ 彩美旬果",
+      "id": 87975,
+      "IDcode": "ABP-677",
+      "title": "色鬼的妄想奶果都能实现-あやみ旬果",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240923/202409230304549090.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b6c4e5ddfc6c6543d7a85324490d80de.jpg",
       "actress": [
         "彩美旬果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-677"
+    },
+    {
+      "id": 82851,
+      "IDcode": "ABP-499",
+      "title": "无视演技纯粹的做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240521-1/9e8d57bb327d484b6be040f59daf10a3.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-499"
+    },
+    {
+      "id": 78751,
+      "IDcode": "ABP-356",
+      "title": "巨乳女优-あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/52236e374fc2ea16d2c9fb764213e861.jpg",
+      "actress": [
+        "彩美旬果",
+        "森林原人",
+        "沢井亮",
+        "黒澤透"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-356"
+    },
+    {
+      "id": 77846,
+      "IDcode": "ABP-050",
+      "title": "浓密的接吻和情欲的接吻性交-彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241130-1/53c16d2eb479288bf5fe3e393200095f.jpg",
+      "actress": [
+        "彩美旬果",
+        "小田切ジュン",
+        "沢井亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-050"
+    },
+    {
+      "id": 75705,
+      "IDcode": "ABP-402",
+      "title": "発情誘惑インストラクター 02 あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/15a9e6189c7c25b2139e1c858bc6d999.jpg",
+      "actress": [
+        "彩美旬果",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-402"
+    },
+    {
+      "id": 14941,
+      "IDcode": "SSNI-227",
+      "title": "彩美旬果交缠浓密做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1c4c20ee96f00347fa3aca0494b262b9.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-227"
+    },
+    {
+      "id": 14534,
+      "IDcode": "SSNI-252",
+      "title": "在丈夫面前连续被侵犯的彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522223758277277.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-252"
+    },
+    {
+      "id": 14029,
+      "IDcode": "SSNI-276",
+      "title": "完全束缚强奸侵犯巨乳女大学生彩美旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240613/20240613033336791791.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-276"
+    },
+    {
+      "id": 13609,
+      "IDcode": "SSNI-298",
+      "title": "彩美旬果移籍后被设计搭讪偷拍视频",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240703/20240703013240295295.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-298"
+    },
+    {
+      "id": 13260,
+      "IDcode": "SSNI-318",
+      "title": "满员电车内面对痴汉无法抵抗-あやみ旬果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250401-1/4f67697ef77deba484e0604e6cbf9ffd.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-318"
+    },
+    {
+      "id": 13123,
+      "IDcode": "SSNI-340",
+      "title": "女朋友不穿胸罩的巨乳姐姐全力诱惑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b70edc91c4c23f69c93588c3187cfacc.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-340"
+    },
+    {
+      "id": 12703,
+      "IDcode": "SSNI-362",
+      "title": "彩美旬果用小穴大方接待贵客",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240813/20240813231832512512.jpg",
+      "actress": [
+        "彩美旬果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-362"
     },
     {
       "id": 12068,
       "IDcode": "SSNI-378",
-      "title": "S-1 15周年特別大共演第3彈 超豪華S1女優齊聚 素人雞巴操都要斷掉的夢幻大亂交 粉絲大感謝祭之旅！",
+      "title": "超豪华S1女优大集合粉丝感谢",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-12-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240911/20240911015656143143.jpg",
       "actress": [
         "新有菜",
@@ -141,253 +558,118 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-378"
     },
     {
-      "id": 13123,
-      "IDcode": "SSNI-340",
-      "title": "女友的巨乳姐姐不戴胸罩極力秀胸，而我這個最慘的人，經不住誘惑 ~ 彩美旬果",
+      "id": 11757,
+      "IDcode": "SSNI-384",
+      "title": "人气动漫改编秘密女友彩美旬果",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240723/20240723221735528528.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9642f56d85997a0079072141ce2cd0a6.jpg",
       "actress": [
         "彩美旬果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-340"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-384"
     },
     {
-      "id": 13260,
-      "IDcode": "SSNI-318",
-      "title": "滿員車內抵抗不能，被癡漢無理猥褻的美巨乳OL ~ 彩美旬果",
+      "id": 11542,
+      "IDcode": "SSNI-404",
+      "title": "彩美旬果被完全约束极限高潮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-10-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240717/20240717011919907907.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241003/202410030138028787.jpg",
       "actress": [
-        "彩美旬果"
+        "彩美旬果",
+        "鲛岛",
+        "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-404"
     },
     {
-      "id": 14941,
-      "IDcode": "SSNI-227",
-      "title": "體液交換，激烈性愛，一刀未剪特別版 ~ 彩美旬果",
+      "id": 11233,
+      "IDcode": "SSNI-426",
+      "title": "秘密捜査官の女-あやみ旬果",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240507/20240507202226832832.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/14/678652995d57b64bfd93f5f1/cover.jpg",
       "actress": [
         "彩美旬果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-426"
     },
     {
-      "id": 87975,
-      "IDcode": "ABP-677",
-      "title": "あやみ旬果 ラッキースケベ 3 空想できる全てのエロい事は現実に起こりうる！！",
+      "id": 11064,
+      "IDcode": "SSNI-446",
+      "title": "あやみ旬果AV引退5時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-12-22",
-      "cover_url": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241026/20241026011736817817.jpg",
       "actress": [
         "彩美旬果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-446"
     },
     {
       "id": 1690,
       "IDcode": "ABP-664",
-      "title": "超豪華背部水療療愈沙龍 02 療愈密語 x 最佳護送性愛 彩美旬果",
+      "title": "abp-664 超高級裏-あやみ旬果",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
-      "publish_date": "2017-11-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230329/00d477ab-3fac-4c5c-a744-e9f2033eff34.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/9596046ec9bca28a17a298420ded44c7.jpg",
       "actress": [
         "彩美旬果"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-664"
     },
     {
-      "id": 1580,
-      "IDcode": "ABP-652",
-      "title": "跟我住在一起的女朋友有多重性格！ ？ VOL.02 充滿主觀影片和Shunka Ayami的日常虛擬性愛 Shunka Ayami",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
-      "publish_date": "2017-10-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230329/9d637cd7-708c-4874-ba48-e21f9448a6a0.jpg",
-      "actress": [
-        "彩美旬果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-652"
-    },
-    {
-      "id": 86918,
-      "IDcode": "ABP-578",
-      "title": "ヲタサーの姫。06あやみ旬果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-03-24",
-      "cover_url": "",
-      "actress": [
-        "彩美旬果",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-578"
-    },
-    {
       "id": 1643,
       "IDcode": "ABP-566",
-      "title": "絕對熱板風雲2 綾美俊香",
+      "title": "彩美旬果完全主观绝对的铁板务",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
-      "publish_date": "2017-02-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230329/eeac15dd-b12e-4bc0-89be-73fba7e9bee8.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250305-1/960fc34b3a65aa246c71e4966cc946f7.jpg",
       "actress": [
         "彩美旬果"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-566"
     },
     {
-      "id": 82851,
-      "IDcode": "ABP-499",
-      "title": "1VS1【※演技一切無し】本能剥き出しタイマン4本番 あやみ旬果",
+      "id": 1580,
+      "IDcode": "ABP-652",
+      "title": "同居的彩美旬果是多重人格",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-07-22",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/04/26/7914c1afd0967a8dc563b377bde5b20d.jpg",
       "actress": [
         "彩美旬果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-499"
-    },
-    {
-      "id": 19567,
-      "IDcode": "ABP-449",
-      "title": "從午夜做愛到早上~ 彩美旬果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2016-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230406/027d6110-2bb5-4be1-b7ab-4047f9a35144.jpg",
-      "actress": [
-        "彩美旬果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-449"
-    },
-    {
-      "id": 75705,
-      "IDcode": "ABP-402",
-      "title": "発情誘惑インストラクター 02 あやみ旬果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-12-10",
-      "cover_url": "",
-      "actress": [
-        "彩美旬果",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-402"
-    },
-    {
-      "id": 78751,
-      "IDcode": "ABP-356",
-      "title": "48小時巨根連續高潮耐久賽 彩美旬果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-09-10",
-      "cover_url": "",
-      "actress": [
-        "彩美旬果",
-        "森林原人",
-        "沢井亮",
-        "黒澤透"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-356"
-    },
-    {
-      "id": 96619,
-      "IDcode": "ABP-246",
-      "title": "僅限此片無套中出 彩美旬果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-01-21",
-      "cover_url": "https://tutu1.space/images/2024/08/07/5ff1b2dfdd50ebf63cb6f44c44bb0b94.jpg",
-      "actress": [
-        "彩美旬果",
-        "南佳也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-246"
-    },
-    {
-      "id": 97763,
-      "IDcode": "ABP-201",
-      "title": "以身體為武器、女機密工作員性感司令 彩美旬果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-10-10",
-      "cover_url": "",
-      "actress": [
-        "彩美旬果",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-201"
-    },
-    {
-      "id": 95786,
-      "IDcode": "ABP-027",
-      "title": "プレステージ夏祭り2013 SUMMER ESCAPE あやみ旬果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2013-08-09",
-      "cover_url": "",
-      "actress": [
-        "彩美旬果",
-        "森林原人",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-652"
     }
   ]
 };

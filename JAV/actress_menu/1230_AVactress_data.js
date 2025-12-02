@@ -40,48 +40,31 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 4340,
-      "IDcode": "FFT-028",
-      "title": "你媽在風俗店上班啊！哥們 ~ 鷲見蓳",
+      "id": 6498,
+      "IDcode": "ADN-677",
+      "title": "唾液混合的密室接吻社長室-鷲見堇",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033701644644_91938_thumbnail.webp",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/05/13/ac0824f3ed366600747806ed03273d0c.jpg",
       "actress": [
         "鷲見蓳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-028"
-    },
-    {
-      "id": 4953,
-      "IDcode": "SAME-178",
-      "title": "未亡人的悲傷妊娠報告 ~ 鷲見蓳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032205976976_thumbnail.webp",
-      "actress": [
-        "鷲見蓳",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-677"
     },
     {
       "id": 5729,
       "IDcode": "ADN-685",
-      "title": "回家撞見老媽和友人滿頭大汗…被兒子朋友擁入懷的母親 ~ 鷲見蓳",
+      "title": "家に帰ると母と友人が汗だくで…。 ー息子の友人に抱かれた母ー 鷲見すみれ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-05-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172252121121_thumbnail.webp",
       "actress": [
         "鷲見蓳",
@@ -90,20 +73,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-685"
     },
     {
-      "id": 6498,
-      "IDcode": "ADN-677",
-      "title": "密室濕吻總裁辦公室的禁忌激情 ~ 鷲見堇",
+      "id": 4953,
+      "IDcode": "SAME-178",
+      "title": "未亡人在丈夫的遗像面前被儿子干到怀孕-鷲見すみれ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042156192192_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032205976976_thumbnail.webp",
+      "actress": [
+        "鷲見蓳",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-178"
+    },
+    {
+      "id": 4340,
+      "IDcode": "FFT-028",
+      "title": "「お前の母ちゃん、メンエスで働いてたぞ」 鷲見すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d7d355337d7f7bbc259d/cover.jpg",
       "actress": [
         "鷲見蓳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-677"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-028"
     }
   ]
 };

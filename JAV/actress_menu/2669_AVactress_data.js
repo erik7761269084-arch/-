@@ -50,13 +50,13 @@ window.actressData = {
     {
       "id": 5795,
       "IDcode": "UMSO-597",
-      "title": "完美身材零瑕疵！極品美女中出狂歡！精選9人第三彈 ~ 永澤雪乃 早田菜々子 百瀬凜花 安西天 黒川晴美 廣瀨裏緒菜 夜空亞美 市川愛茉 田中奈奈實",
+      "title": "無駄なものなど何もない！スリムボディの美女に中出し！厳選9人VOL.03",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-05-24",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031425559559_thumbnail.webp",
       "actress": [
         "廣瀨里緒菜",

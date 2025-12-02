@@ -33,35 +33,54 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231211/336e32cd-e628-4e93-86b8-7a864ec2b8cb.png",
     "https://picture.yoshiclub.xyz/20231211/dcb56470-351a-4a2e-91a5-d909b00acce0.png"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 9917,
-      "IDcode": "BLK-649",
-      "title": "「中出，心情、場景、氣氛都OK」我在約炮APP上認識的女孩，是一個簡單直接、無與倫比的癡女！Vol.7 ~ 有星青理",
+      "id": 7767,
+      "IDcode": "IENF-369",
+      "title": "素人女大學生受兼職高薪誘惑，成為藝術課裸模！連陰唇都仔細地畫出來，羞恥感浸濕了小穴！他將其生生地插入並一次又一次地射精！ 8",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211075005857857.jpg",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "2025-03-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20250306/6c7fd7de-67e8-4fdf-b658-8ca35b25933f.jpg",
       "actress": [
+        "宮城理惠",
+        "有村希",
         "有星青理"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-369"
+    },
+    {
+      "id": 17323,
+      "IDcode": "GDRD-012",
+      "title": "紅龍 Aori Arisei",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240410-1/11ba8ccaaf2aac9e9cb5a36d3544cbe7.jpg",
+      "actress": [
+        "有星青理",
+        "宫名初季"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-012"
     },
     {
       "id": 10408,
       "IDcode": "HUNTC-126",
-      "title": "去看一部很想看的電影，整個電影院只有我一個人，然後走進來了一個漂亮的女人",
+      "title": "平日昼間の映画館で客はボクとギャルだけ…。あんなに観たかった映画なのに…ずっと服の上からボクの乳首とチ〇ポをいじくり倒してくるギャルの…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003333742742.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "椿莉香",
         "蘭々",
@@ -72,21 +91,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
     },
     {
-      "id": 17323,
-      "IDcode": "GDRD-012",
-      "title": "紅龍 Aori Arisei",
+      "id": 9917,
+      "IDcode": "BLK-649",
+      "title": "「ノリと場面と雰囲気で中出しOK」マッチングアプリで待ち合わせたギャルは即マン型の都合のいい絶倫ヤリマンだった！vol.7",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-12-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20231211/d4dd24f1-0a6a-424b-baae-218c15d8db37.jpg",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211075005857857.jpg",
       "actress": [
-        "有星青理",
-        "宫名初季"
+        "有星青理"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-649"
     }
   ]
 };

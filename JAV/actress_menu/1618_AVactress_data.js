@@ -34,35 +34,52 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/白葉りこ.jpg"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 69772,
-      "IDcode": "SSNI-775",
-      "title": "RQのお痴事 このお尻、この脚でお仕事いただいてます 白葉りこ",
+      "id": 8924,
+      "IDcode": "SSNI-565",
+      "title": "6場景初體驗！性欲絕對開發！ 3本番 180分鍾 ~ 白葉莉子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-05-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250317-1/47624afb1131adaae5ffd431f6af8382.jpg",
+      "publish_date": "2019-09-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250122/20250122014204875875.jpg",
+      "actress": [
+        "白葉莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-565"
+    },
+    {
+      "id": 73781,
+      "IDcode": "SSNI-541",
+      "title": "新人NO.1STYLE 白葉りこAVデビュー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-08-07",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/7a555996a5bfda7b0efe8cccca25e931.jpg",
       "actress": [
         "白葉莉子",
-        "鲛岛"
+        "鲛岛",
+        "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-541"
     },
     {
       "id": 107524,
       "IDcode": "SSNI-749",
-      "title": "見習い従順メイドをじっくりねっとりワシ好みに育てる数日間の調教日記 白葉りこ",
+      "title": "[中文调教]SSNI-749 调教日记，把顺从的女仆培养成自己喜欢的人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-04-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "白葉莉子",
@@ -73,14 +90,14 @@ window.actressData = {
     {
       "id": 97701,
       "IDcode": "SSNI-724",
-      "title": "デカ尻りこの尻コス杭打ち騎乗位SEX 全編コスプレ！シチュエーションに合ったドハマり騎乗位！！ 白葉りこ",
+      "title": "牛仔女郎的位置-白葉りこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-03-07",
-      "cover_url": "https://tutu1.space/images/2023/01/08/d1c5944cc5ecffc7a98d768699eaf374.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "白葉莉子",
         "森林原人",
@@ -97,9 +114,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-02-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "白葉莉子",
@@ -110,14 +127,14 @@ window.actressData = {
     {
       "id": 75889,
       "IDcode": "SSNI-668",
-      "title": "敏感スレンダー美少女のドキドキビックビク風俗フルコース 全5店舗真心込めておもてなし！ 白葉りこ",
+      "title": "敏感苗条美少女-白葉りこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-01-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9945f5879dc8887fd9be8df70bd924b1.jpg",
       "actress": [
         "白葉莉子",
         "鲛岛"
@@ -125,22 +142,38 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-668"
     },
     {
-      "id": 73781,
-      "IDcode": "SSNI-541",
-      "title": "新人NO.1STYLE 白葉りこAVデビュー",
+      "id": 69772,
+      "IDcode": "SSNI-775",
+      "title": "用圆润美臀肉丝大长脚-白葉りこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-08-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b09107e97fb4ec9bd47910e3c235956.jpg",
       "actress": [
         "白葉莉子",
-        "鲛岛",
-        "玉木玲"
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-541"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-775"
+    },
+    {
+      "id": 7624,
+      "IDcode": "SSNI-587",
+      "title": "交わる体液、濃密セックス完全ノーカットスペシャル白葉りこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250312/202503120441217373.jpg",
+      "actress": [
+        "白葉莉子",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-587"
     }
   ]
 };

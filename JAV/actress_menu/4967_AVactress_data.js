@@ -4,7 +4,7 @@ window.actressData = {
   "name": "みのり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,34 +21,34 @@ window.actressData = {
     {
       "id": 81249,
       "IDcode": "SIRO-4903",
-      "title": "【未開発JD×隠れ巨乳】「イッたことあるのかわからないです..」ウブなJDが学費返済の為にAV出演。初潮吹き&amp;初イキして敏感になった体は… ネットでAV応募→AV体験撮影 1838",
+      "title": "未开发的JDx隐藏的巨乳不知道有没有过..UbuJD出现在AV上偿还学费第一次喷amp第一次后变得敏感的身体......网上的AV应用AV体验拍摄1838",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-05-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220907-1/b1e8965133d9d7b43b6fea02c1094116.jpg",
+      "cover_url": "",
       "actress": [
         "みのり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4903"
     },
     {
-      "id": 89364,
-      "IDcode": "GANA-2266",
-      "title": "マジ軟派、初撮。 1465 『スナップ撮影中に勃起チ●ポを見せつけたらオンナはヤりたくなるのか？』をナマ足ショートパンツが激エロなアパレル店員を使って検証実験！「これから仕事なんで…」と先を急ぐ彼女を、新しいスニーカーをエサにホテルまで連れ込み撮影を進め、いざ検証してみた結果…！？",
+      "id": 495991,
+      "IDcode": "200GANA-2266",
+      "title": "认真的心柔软，第一张照片。 1465「如果您在快照时向直立的公鸡展示，女 河东実里 -C",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-03-28",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "みのり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2266"
     }
   ]
 };

@@ -30,14 +30,14 @@ window.actressData = {
     {
       "id": 78747,
       "IDcode": "SIRO-4929",
-      "title": "【初撮り】【人妻×欲求不満】すぐにち●こをまさぐりだす程欲求不満の人妻。乳首だけでビクビク感じてハスキーボイスで喘ぎまくり！ ネットでAV応募→AV体験撮影 1863",
+      "title": "第一枪已婚女人x挫败感马上已挫败到开始四处挖掘的已婚女人只用乳头就感到紧张用沙哑的声音喘著粗气网络上的AV应用AV体验拍摄1863",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-06-29",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/44c91c50ae25af5b7255a5077ecbd374.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "あずみ"
       ],

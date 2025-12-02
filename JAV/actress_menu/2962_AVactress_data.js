@@ -4,7 +4,7 @@ window.actressData = {
   "name": "石原あゆむ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 1943,
       "IDcode": "CWPBD-84",
-      "title": "CATWALK POISON 84 ～羞澀的現役女大學生中出出道～ : 石原步美",
+      "title": "猫步毒药-石原步",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-06-20",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/8208db59-ddcd-40d0-a336-96a1eb261ff2.webp",
       "actress": [
         "石原あゆむ"

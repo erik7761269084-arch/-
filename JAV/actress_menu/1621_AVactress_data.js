@@ -32,8 +32,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-生島涼.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 1112,
+      "IDcode": "HEYZO-1595",
+      "title": "6點下班後～痛苦的白肌OL～ - 生島涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-12-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20231122/20231122005751787787.jpg",
+      "actress": [
+        "生島涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1595"
+    },
     {
       "id": 1111,
       "IDcode": "HEYZO-1594",
@@ -41,7 +57,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-11-18",
       "cover_url": "https://picture.yoshiclub.xyz/20231122/20231122010028628628.jpg",

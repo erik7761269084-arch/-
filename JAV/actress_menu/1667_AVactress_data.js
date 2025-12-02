@@ -37,32 +37,28 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240513/c00bd943-ea31-4beb-bf01-2c19b3e6ef23.jpg"
   ],
-  "works_count": 7,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 95192,
-      "IDcode": "KSBJ-344",
-      "title": "クチュクチュ音を立て、ビクビクとイキまくる美熟女のオナニー21連発！！VOL.04",
+      "id": 9619,
+      "IDcode": "NSFS-345",
+      "title": "會讓丈夫妒忌的激烈性愛 NTR 8位人妻大合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2024-11-19",
-      "cover_url": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/dee022e6-2cad-4a9a-8f02-a575808c6b87.jpg",
       "actress": [
-        "佐々木咲和",
-        "青木玲",
-        "山口珠理",
+        "仓多真央",
+        "卯水咲流",
+        "葵千恵",
+        "姫川礼子",
         "木村穂乃香",
-        "安倍亜沙美",
-        "北川真由香",
-        "今藤雾子",
-        "君岛美绪",
-        "柏木舞子",
-        "黒川珠美"
+        "櫻井美保"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-345"
     },
     {
       "id": 14757,
@@ -71,7 +67,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2024-05-14",
       "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512220912223223.jpg",
@@ -95,32 +91,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2021-10-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/3e5b3251ccb883dc3cd5a7bd1197a96d.jpg",
       "actress": [
         "木村穂乃香",
         "水川由里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-295"
-    },
-    {
-      "id": 81351,
-      "IDcode": "AUKG-521",
-      "title": "禁断オフィスレズビアン ～新人OLを舐めつくすお局上司～ 竹内夏希 木村穂乃香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2021-09-07",
-      "cover_url": "",
-      "actress": [
-        "竹内夏希",
-        "木村穂乃香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-521"
     },
     {
       "id": 79388,
@@ -129,7 +108,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
       "publish_date": "2021-08-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ae8c2d1e03ea6f0ad5f8a5d260307b7e.jpg",
@@ -146,23 +125,65 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
       "publish_date": "2021-05-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/5bc54dffed6fe96a2aa9e9173626e5a1.jpg",
+      "cover_url": "",
       "actress": [
         "木村穂乃香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-034"
     },
     {
-      "id": 79165,
-      "IDcode": "NACR-437",
-      "title": "- セレブ生活の裏側 青木玲 木村穂乃香 - JAV目錄大全javmenu.com",
+      "id": 95192,
+      "IDcode": "KSBJ-344",
+      "title": "クチュクチュ音を立て、ビクビクとイキまくる美熟女のオナニー21連発！！VOL.04",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251002-1/64ccaff7a172b348606107326d297c00.jpg",
+      "actress": [
+        "佐々木咲和",
+        "青木玲",
+        "山口珠理",
+        "木村穂乃香",
+        "安倍亜沙美",
+        "北川真由香",
+        "今藤雾子",
+        "君岛美绪",
+        "柏木舞子",
+        "黒川珠美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-344"
+    },
+    {
+      "id": 81351,
+      "IDcode": "AUKG-521",
+      "title": "禁断オフィスレズビアン ～新人OLを舐めつくすお局上司～ 竹内夏希 木村穂乃香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4a7c2e4a73d4f15c1c6ae/cover.jpg",
+      "actress": [
+        "竹内夏希",
+        "木村穂乃香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-521"
+    },
+    {
+      "id": 79165,
+      "IDcode": "NACR-437",
+      "title": "生活の裏側-青木玲 木村穂乃香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "PLANETPLUS",
       "publish_date": "",
       "cover_url": "",

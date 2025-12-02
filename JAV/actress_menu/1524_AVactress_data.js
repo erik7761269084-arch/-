@@ -36,16 +36,32 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231117/348ce1a4-8a77-43a2-8957-bbe38e056e48.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 17182,
-      "IDcode": "SDDE-712",
-      "title": "「制服、內衣、全裸」跨界貓咪航空 2023 新 CA 大型訓練版 共 11 人 + 1 位特約教練 團體貓咪艙課程 6 節 165 分鐘 雅子裡菜，黒木逢夢..........",
+      "id": 16139,
+      "IDcode": "KANO-024",
+      "title": "愛喝酒的天然G杯妹有阪唯 被中出",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "月刊彼女",
+      "publish_date": "2024-02-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20240222/55c1e787-ee6c-47c8-9108-faffea7f8b63.jpg",
+      "actress": [
+        "有坂唯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-024"
+    },
+    {
+      "id": 17182,
+      "IDcode": "SDDE-712",
+      "title": "「制服、內衣、全裸」跨界貓咪航空 2023 新 CA 大型訓練版 共 11 人 + 1 位特約教練 團體貓咪艙課程 6 節 165 分鐘 雅子裡菜，黒木逢夢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231219/c408f55c-05ae-4243-a474-529803cab372.jpg",
@@ -65,16 +81,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
-      "id": 106505,
-      "IDcode": "HBAD-669",
-      "title": "中出し以外はなんでもOKの旦那公認ヤリマン美人妻 有坂 唯",
+      "id": 17791,
+      "IDcode": "MTALL-091",
+      "title": "僕、肉便器。酩酊大醉的风俗娘我可以操100万次",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MATERIALL",
+      "publish_date": "2023-11-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116095717720720.jpg",
+      "actress": [
+        "夏希栗",
+        "有坂唯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-091"
+    },
+    {
+      "id": 106505,
+      "IDcode": "HBAD-669",
+      "title": "公認的愛打炮美人妻-有坂唯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HIBINO",
-      "publish_date": "2023-11-09",
-      "cover_url": "https://tutu1.space/images/2023/12/16/5af08f5d91a88c6c47eb9533366b7a01.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "有坂唯"
       ],

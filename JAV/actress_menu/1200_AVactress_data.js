@@ -37,43 +37,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/7-S1/有賀ゆあ.jpg",
     "https://picture.yoshiclub.xyz/20230207/908ac32f-f493-4c68-a11c-768e1b4271ec.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 94965,
-      "IDcode": "DAVK-043",
-      "title": "切実SEXレス告白タレント級美貌セレブ若妻「優しい夫、裕福な生活、なにひとつ不満などありません。ただ…わたしの人生、もうこのままエッチしないで終わるのかもと思うと…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2019-05-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241115-1/7cbb0f81ce5b16d92a439111f0177c9a.jpg",
-      "actress": [
-        "有賀遊空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-043"
-    },
-    {
-      "id": 78445,
-      "IDcode": "DNW-015",
-      "title": "ラブホテル完全盗撮 浮気ドキュメント 禁断の関係 2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-01-04",
-      "cover_url": "",
-      "actress": [
-        "百合川紗羅",
-        "有賀遊空",
-        "爱乃零",
-        "佐々木れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-015"
-    },
     {
       "id": 86915,
       "IDcode": "HUNTA-161",
@@ -81,8 +46,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2016-06-07",
       "cover_url": "",
       "actress": [
@@ -95,29 +60,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-161"
     },
     {
-      "id": 104396,
-      "IDcode": "WANZ-496",
-      "title": "窈窕正妹肏翻天 有賀遊空",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2016-06-01",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/wanz496/wanz496pl.jpg",
-      "actress": [
-        "有賀遊空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-496"
-    },
-    {
       "id": 1820,
       "IDcode": "MKBD-S119",
       "title": "KIRARI 119 情人節來相幹！ : 有賀遊空",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2016-02-08",
       "cover_url": "https://picture.yoshiclub.xyz/20230207/83230e4b-6736-432b-8b1c-727604f162c9.webp",
@@ -125,6 +74,90 @@ window.actressData = {
         "有賀遊空"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S119"
+    },
+    {
+      "id": 104396,
+      "IDcode": "WANZ-496",
+      "title": "细长型模特-有賀ゆあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/wanz496/wanz496pl.jpg",
+      "actress": [
+        "有賀遊空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-496"
+    },
+    {
+      "id": 94965,
+      "IDcode": "DAVK-043",
+      "title": "切実SEXレス告白タレント級美貌セレブ若妻「優しい夫、裕福な生活、なにひとつ不満などありません。ただ…わたしの人生、もうこのままエッチしないで終わるのかもと思うと…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c8d07074bf1f8ca5e7ebc57058bc3f36.jpg",
+      "actress": [
+        "有賀遊空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAVK-043"
+    },
+    {
+      "id": 88508,
+      "IDcode": "SNIS-490",
+      "title": "分享女友之和有贺由爱不穿内裤的约会",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有賀遊空",
+        "ゆうき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-490"
+    },
+    {
+      "id": 78445,
+      "IDcode": "DNW-015",
+      "title": "ラブホテル完全盗撮 浮気ドキュメント 禁断の関係 2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "百合川紗羅",
+        "有賀遊空",
+        "爱乃零",
+        "佐々木れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-015"
+    },
+    {
+      "id": 902,
+      "IDcode": "HEYZO-1130",
+      "title": "有贺由爱野外直接脱光干出白浆内射好几次",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有賀遊空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1130"
     }
   ]
 };

@@ -37,34 +37,18 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241205/d9171a2f-ed77-4c03-a70a-2cdb22e83756.jpg",
     "https://picture.yoshiclub.xyz/20250108/56f5af68-8c61-4355-9bd2-c52085adc3cf.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
-    {
-      "id": 4625,
-      "IDcode": "VENX-327",
-      "title": "兒子是欲火焚身的肉食野獸：首絞玩法、強制口暴、固定震動棒讓母親徹底淪爲玩物 ~ 若槻いろは",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707040951262262_78660_thumbnail.webp",
-      "actress": [
-        "若槻いろは"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-327"
-    },
     {
       "id": 69783,
       "IDcode": "VENZ-048",
-      "title": "酔うとキス魔になって滅茶苦茶エロい美人秘書 しゃぶったら射精するまで離さない口マ●コ 欲情したら止まらないおチ●ポ思い出しオナニー 終電逃してお泊まり中出し性交 若槻いろは",
+      "title": "喝醉后成为亲吻魔的好色美人秘书",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-03-18",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "若槻いろは"
@@ -72,31 +56,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-048"
     },
     {
-      "id": 8630,
-      "IDcode": "VENX-308",
-      "title": "心靈上是家人，身體上卻是他人的微妙關系。與繼母單獨相處的一周 發生了很多不該發生的事 ~ 若槻いろは",
+      "id": 10189,
+      "IDcode": "VEO-080",
+      "title": "本物素人妻AV Debut！！身長170cmOVER 海外モデル顔負けの9.5頭身グラマラス妻は大量潮吹きしちゃう超敏感体質 若槻いろは",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130083503195195.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/d02a5470-c1ac-4389-a93f-17db8c68e7c3.jpg",
       "actress": [
         "若槻いろは"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-080"
     },
     {
       "id": 9312,
       "IDcode": "VOD-033",
-      "title": "本物素人妻 覺醒編 愛液飛散的性欲絕頂開發 ~ 若槻いろは",
+      "title": "真正素人妻觉醒篇-若槻彩叶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-01-07",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250108/7343baa9-b6e2-4b4e-a7ae-635fcdb4faef.jpg",
       "actress": [
         "若槻いろは"
@@ -104,20 +88,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-033"
     },
     {
-      "id": 10189,
-      "IDcode": "VEO-080",
-      "title": "新人報到！身長超過170cm，堪比外國模特的9.5頭身，超敏感體質大量潮吹 本物素人妻AV DEBUT! ~ 若槻いろは",
+      "id": 8630,
+      "IDcode": "VENX-308",
+      "title": "心は家族でも体は他人の微妙な関係―。過ちが起こらないはずがない義理の母親と二人だけの1週間 若槻いろは",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/d02a5470-c1ac-4389-a93f-17db8c68e7c3.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa26c331eb0592de602a7a/cover.jpg",
       "actress": [
         "若槻いろは"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-308"
+    },
+    {
+      "id": 4625,
+      "IDcode": "VENX-327",
+      "title": "息子は煩悩まみれの肉食獣―。首絞め・イラマ・固定バイブで完全メス堕ちする母親 若槻いろは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b5c1a98bc99dfddd8aac0/cover.jpg",
+      "actress": [
+        "若槻いろは"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-327"
+    },
+    {
+      "id": 4149,
+      "IDcode": "GOUL-015",
+      "title": "卑猥すぎるデカ尻くびれ…トレーニング姿が理性を狂わす新婚妻 マッチョトレーナーと汗だく汁だく中出しジム不倫SEX 若槻いろは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724035826965965_82000_thumbnail.webp",
+      "actress": [
+        "若槻いろは"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOUL-015"
     }
   ]
 };

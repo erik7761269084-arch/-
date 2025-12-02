@@ -4,7 +4,7 @@ window.actressData = {
   "name": "百瀬まひる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 76786,
       "IDcode": "GS-298",
-      "title": "妊娠中の奥さんのお見舞い帰り、ソソる看護師と背徳浮気セックス！前からエロそうで気になっていた担当看護師が夜勤明けで疲れているせいか、空いている病室に喰い込みパンツで寝ている！？ソソられて我慢の限界と悪戯するが余程疲れているのか気付かない…",
+      "title": "妊娠中の奥さんのお見舞い帰り、ソソる看護師と背",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GOGOS",
-      "publish_date": "2019-11-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/6b0bdc7ac6401f71a9acd9390e863f5e.jpg",
       "actress": [
         "百瀬まひる"
       ],

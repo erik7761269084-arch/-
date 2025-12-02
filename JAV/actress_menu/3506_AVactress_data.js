@@ -4,7 +4,7 @@ window.actressData = {
   "name": "蒼宮菜緒",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 63525,
       "IDcode": "MBRBI-007",
-      "title": "三峯/蒼宮菜緒 チェキ付き",
+      "title": "蒼宮菜緒 三峯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-05-28",
-      "cover_url": "https://tutu1.space/images/2025/06/05/f58edfd0e94f3b410efca7e9fb65c54a.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "蒼宮菜緒"
       ],

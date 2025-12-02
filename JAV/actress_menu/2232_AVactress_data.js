@@ -35,13 +35,13 @@ window.actressData = {
     {
       "id": 3713,
       "IDcode": "RVG-242",
-      "title": "母子姦BEST VOL.7 ~ 成咲優美 米倉穂香 加藤ツバキ 武藤彩香 小笠原留衣 一之瀨綾乃",
+      "title": "母子姦BEST VOL.7",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809081414829829_25720_thumbnail.webp",
       "actress": [
         "武藤彩香",

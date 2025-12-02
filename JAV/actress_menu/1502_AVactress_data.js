@@ -25,34 +25,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 3940,
-      "IDcode": "PFAS-035",
-      "title": "熟女的熱吻與激情 舌尖上的黏膜地獄 舔吸纏綿 ~ 香澄麗子 姬川禮子 桃井靜香",
+      "id": 9176,
+      "IDcode": "ALDN-411",
+      "title": "全裸义母-桃井静香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FAプロ",
-      "publish_date": "2025-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032446746746_62364_thumbnail.webp",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acbd5531eb0592de65b702/cover.jpg",
       "actress": [
-        "姫川礼子",
         "桃井しずか",
-        "香澄麗子",
-        "香澄丽子"
+        "ナイアガラ翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-411"
     },
     {
       "id": 8391,
       "IDcode": "ALDN-424",
-      "title": "妻子閨蜜突然在我面前褲掉了褲子 ... ~ 桃井しずか",
+      "title": "妻友突然说生插是可以什么的",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TAKARA",
-      "publish_date": "2025-02-11",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250208/7183be6c-7d85-4826-950e-079a61011884.jpg",
       "actress": [
         "桃井しずか",
@@ -61,21 +59,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-424"
     },
     {
-      "id": 9176,
-      "IDcode": "ALDN-411",
-      "title": "全裸嶽母 ~ 桃井しずか",
+      "id": 3940,
+      "IDcode": "PFAS-035",
+      "title": "おばさんの接吻＆セックス ベロツバ粘膜地獄 なめる吸うからめ合う",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250112/26ae5282-4814-4535-abe8-97ed566752d7.jpg",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032446746746_62364_thumbnail.webp",
       "actress": [
+        "姫川礼子",
         "桃井しずか",
-        "ナイアガラ翔"
+        "香澄麗子",
+        "香澄丽子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-035"
     }
   ]
 };

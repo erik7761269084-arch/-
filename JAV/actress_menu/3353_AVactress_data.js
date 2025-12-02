@@ -4,7 +4,7 @@ window.actressData = {
   "name": "百合良",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 62022,
       "IDcode": "BANK-214",
-      "title": "いいなり美人妻 塩対応な美形極細くびれボディ りょう28歳 百合良 タペストリーセット",
+      "title": "いいなり美人妻 塩対応な美形極細くびれボディ りょう28歳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ま○こ銀行",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "百合良"

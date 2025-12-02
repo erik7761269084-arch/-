@@ -4,7 +4,7 @@ window.actressData = {
   "name": "星崎未来",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2003-08-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220913-1/84325a4d3d46fa29b2c3a6e3f2478fbf.jpg",
+      "cover_url": "",
       "actress": [
         "星崎未来"
       ],

@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2015-05-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/d2dfa536b161bae491b21edd03512332.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b1516efefddf4d6ce288856b119ad2c8.jpg",
       "actress": [
         "河西希"
       ],

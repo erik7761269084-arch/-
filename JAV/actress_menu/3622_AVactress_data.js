@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ニナ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 66727,
-      "IDcode": "GANA-3021",
-      "title": "マジ軟派、初撮。 2033 【衝撃スクープ！】元アイドルの現役芸能マネージャーが衝撃告白！「芸○人は、性欲強くてみんなエッチが大好き。」週刊誌に書かれている記事もあながち間違っていなかった！？(笑) 汗だくになりながら、溜まっていた性欲を思いっきりぶちまけている姿は必見！！性欲がお強い女性は、やっぱり素敵。",
+      "id": 486629,
+      "IDcode": "200GANA-3021",
+      "title": "マジ軟派、初撮。 2033 【衝撃スクープ！】元アイドルの現役芸能マネージャーが衝",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2024-04-22",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "ニナ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-3021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-3021"
     }
   ]
 };

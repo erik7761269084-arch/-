@@ -36,19 +36,19 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250527/3324daf7-30d4-4bac-a6a4-34809f7d4ea1_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250527/591ebc4d-0d1d-41f7-a7cf-ca7e5410598d_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 17253,
       "IDcode": "JUFE-542",
-      "title": "在丈夫面前輪姦我！虐待我，刺激的影片！春藥，失禁高潮體內射精墜落",
+      "title": "她看起來很開心，也很煩人，請在她先生面前轉一圈吧！噁心的影片！春藥 Gangimari 失禁高潮中出秋天森澤佳奈 - 森澤佳奈 (飯岡佳奈子)",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2023-12-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20231215/ba059886-7f8f-47e3-973e-9fb931873a8c.jpg",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4e55ac813dc779d9625d/cover.jpg",
       "actress": [
         "森澤佳奈",
         "朝日奈みお"
@@ -62,10 +62,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-06-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240126-1/21f1f006da272dd16a5157f05217b0d0.jpg",
       "actress": [
         "朝日奈みお"
       ],
@@ -78,14 +78,34 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2022-03-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/93238916f998f2f3e78f3717a17488c6.jpg",
       "actress": [
         "朝日奈みお"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-753"
+    },
+    {
+      "id": 5760,
+      "IDcode": "TDAN-008",
+      "title": "SEXY DANCING GIRL DANCE FUCK STYLE",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527115302508508_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "春陽萌花",
+        "千石もなか",
+        "仲川空",
+        "朝日奈みお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TDAN-008"
     }
   ]
 };

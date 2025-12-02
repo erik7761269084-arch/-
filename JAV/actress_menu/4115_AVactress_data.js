@@ -4,7 +4,7 @@ window.actressData = {
   "name": "香坂のあ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,40 +19,40 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 71116,
-      "IDcode": "NTR-022",
-      "title": "被下藥成為陌生肉棒俘虜妻 橘花音",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-07-29",
-      "cover_url": "https://tutu1.space/images/2025/03/20/59c6d901848727a1e244a07125833444.jpg",
-      "actress": [
-        "市川润",
-        "橘花音",
-        "香坂のあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-022"
-    },
-    {
       "id": 88379,
       "IDcode": "JUL-207",
-      "title": "イイブランドには比例して、イイオンナが働いている-。 超有名高級ブランド店勤務 香坂のあ 25歳 AVデビュー！！",
+      "title": "已经两年的人妻-香坂のあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-05-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/adb3222c50949ce61e20916cf6fc965f.jpg",
       "actress": [
         "イセドン内村",
         "しみけん",
         "香坂のあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-207"
+    },
+    {
+      "id": 71116,
+      "IDcode": "NTR-022",
+      "title": "原以为是依赖富豪男友的傲娇系尤物",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "市川润",
+        "橘花音",
+        "香坂のあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-022"
     }
   ]
 };

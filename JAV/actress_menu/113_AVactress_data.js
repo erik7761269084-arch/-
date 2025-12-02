@@ -49,214 +49,611 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230910/37dbbc64-cb20-45d0-b23d-e15b1d19d6f6.jpg",
     "https://picture.yoshiclub.xyz/20230910/93733008-5154-4854-8cc2-6958ce270666.jpg"
   ],
-  "works_count": 25,
+  "works_count": 46,
   "related_dramas": [
     {
-      "id": 3151,
-      "IDcode": "SAME-186",
-      "title": "老媽再婚帶來的超機車但臉蛋絕美的傲嬌妹妹被我硬上後竟變兄控 ~ 齋藤亞美里",
+      "id": 6168,
+      "IDcode": "RVG-238",
+      "title": "隨時都能上的超放蕩姊姊們 ~ 齋藤亞美里 流川莉央 尾崎惠梨香 月乃雛 三田櫻",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030525152152_50661_thumbnail.webp",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101839510510_thumbnail.webp",
       "actress": [
+        "尾崎惠梨香",
         "齋藤亞美里",
-        "斋藤亚美里"
+        "流川莉央",
+        "三田櫻",
+        "月乃雛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-186"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-238"
     },
     {
-      "id": 3543,
-      "IDcode": "BLK-656",
-      "title": "忍不住了！精液爆射 纖細苗條身體，小惡魔騷話連發榨汁的辣妹癡女回春按摩 ~ 齋藤亞美裏",
+      "id": 7343,
+      "IDcode": "DAZD-234",
+      "title": "無底性欲狂插不停，騎乘位榨精到天亮蛋蛋空空，超嗨辣妹FUCK精選集 ~ 乙愛麗絲 有村希 鬆本一香 天馬唯 新井裏真",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034347744744_87662_thumbnail.webp",
-      "actress": [
-        "齋藤亞美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-656"
-    },
-    {
-      "id": 3851,
-      "IDcode": "MMPB-087",
-      "title": "顏值爆棚身材頂級性技逆天！令和最新超火辣苗條女優大亂鬥 ~ 夢莉梨花 齋藤亞美里 森日向子 柊有希 天馬唯 倉本菫 靜河",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2025-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802034851844844_61372_thumbnail.webp",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2025-03-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250322/20250322014436233233.jpg",
       "actress": [
         "天馬唯",
-        "倉本菫",
+        "乙愛麗絲",
+        "松本一香",
+        "木下日葵",
+        "春陽萌花",
+        "新井里真",
+        "有村希",
+        "渚光希",
+        "齋藤亞美里",
+        "栄川乃亜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-234"
+    },
+    {
+      "id": 8149,
+      "IDcode": "KIBD-327",
+      "title": "忘掉劇本，忘掉監督，完全投入本能的舌吻！體液交換會欲望MAX！67發超暴交尾 大合集 ~ 逢見梨花 浜崎真緒 乙愛麗絲 北野未奈 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-02-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
+      "actress": [
+        "乙愛麗絲",
         "森日向子",
-        "静河",
+        "新村朱里",
+        "北野未奈",
+        "浜崎真緒",
+        "姫咲華",
+        "新井里真",
+        "東條夏",
         "齋藤亞美里",
+        "宝田萌奈美",
+        "沙月芽衣",
         "加藤桃香",
-        "柊有希",
-        "夢莉梨花",
-        "斋藤亚美里"
+        "水川蓳",
+        "推川悠里",
+        "逢見梨花",
+        "七草千歲",
+        "夏希栗",
+        "藤井蘭々",
+        "永井瑪麗亞",
+        "小栗操",
+        "神坂朋子",
+        "永野司",
+        "枢木葵",
+        "浅田結梨",
+        "皇柚子",
+        "三尾惠",
+        "河南実里",
+        "渋谷華",
+        "吉岡日和",
+        "南条一香",
+        "貓宮美結",
+        "一色さゆり",
+        "花園茉莉花",
+        "加藤蘿絲",
+        "ERINA"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-327"
     },
     {
-      "id": 3888,
-      "IDcode": "HZGD-314",
-      "title": "老公不在的午後...自慰日常被鄰居偷窺，天天被猛男狂插到爽翻天的人妻 ~ 齋藤亞美里",
+      "id": 9383,
+      "IDcode": "NACR-898",
+      "title": "COSPLAYER 變態調教攝影會 ~ 齋藤亞美里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "人妻花園劇場",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094756253253_34873_thumbnail.webp",
-      "actress": [
-        "齋藤亞美里",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-314"
-    },
-    {
-      "id": 4586,
-      "IDcode": "IENF-384",
-      "title": "素人女大學生被高額兼職費誘惑當裸體素描模特！私密處被細致描繪羞恥爆棚直接溼透！無套中出內射瘋狂高潮！9 ~ 有棲奏羽 五十嵐清華 齋藤亞美裏 ~ 有棲奏羽 齋藤亞美裏 五十嵐清華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-07-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709030329669669_40984_thumbnail.webp",
-      "actress": [
-        "五十嵐清華",
-        "齋藤亞美里",
-        "有棲奏羽",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-384"
-    },
-    {
-      "id": 5331,
-      "IDcode": "BLK-653",
-      "title": "超騷辣妹亂交Party ~ 齋藤亞美裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612072843346346_thumbnail.webp",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "2025-01-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20250105/7bbe7f2a-bacc-49a4-913f-cfe87cdf81e1.jpg",
       "actress": [
         "齋藤亞美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-653"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-898"
     },
     {
-      "id": 6934,
-      "IDcode": "MIAB-472",
-      "title": "「我幫你舔雞巴，你假裝我男友行不行…？」爲了躲避爸媽催婚壓力，平時超冷淡的打工辣妹讓我當她一天男友 ~ 齋藤亞美裏",
+      "id": 9604,
+      "IDcode": "DAZD-220",
+      "title": "64名美女4小時60次連續強暴，暴力活塞接連襲來，高潮不斷。強暴大合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410184520553553.jpg",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/20241225032906842842.jpg",
+      "actress": [
+        "森澤佳奈",
+        "天馬唯",
+        "倉本菫",
+        "都月楓",
+        "椿莉香",
+        "松本一香",
+        "沙月惠奈",
+        "五日市芽依",
+        "木下日葵",
+        "美咲佳奈",
+        "吉根柚莉爱",
+        "白石桃",
+        "田中寧寧",
+        "美谷朱里",
+        "藤森里穂",
+        "皆瀨明里",
+        "辻井穗乃果",
+        "黑川堇",
+        "月野江翠",
+        "百永纱里奈",
+        "渚光希",
+        "小花暖",
+        "東條夏",
+        "尾崎惠梨香",
+        "優梨舞奈",
+        "冬愛琴音",
+        "月乃露娜",
+        "齋藤亞美里",
+        "沙月芽衣",
+        "花狩舞",
+        "加藤桃香",
+        "水原みその",
+        "篠田優",
+        "水川蓳",
+        "根尾朱里",
+        "向井藍",
+        "夏希栗",
+        "弓乃凜夢",
+        "仓多真央",
+        "前乃菜菜",
+        "日泉舞香",
+        "小栗操",
+        "加藤ツバキ",
+        "君島美緒",
+        "蘭々",
+        "初川南",
+        "藤野つかさ",
+        "浅田結梨",
+        "天然美月",
+        "水谷梨明日",
+        "星宮菜奈",
+        "七海るな",
+        "丹羽すみれ",
+        "愛沢さら",
+        "七瀬るい",
+        "かわきためいさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-220"
+    },
+    {
+      "id": 15713,
+      "IDcode": "PED-041",
+      "title": "我們單獨相處了 7 個小時，最後發生了 10 次性行爲。齋藤亞美裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "2024-04-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401022229686686.jpg",
+      "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PED-041"
+    },
+    {
+      "id": 15917,
+      "IDcode": "HRSM-042",
+      "title": "流竄強奸便利店女店員",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2024-03-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20240323/02579464-b880-4d0d-a237-7c65bc27266d.jpg",
+      "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-042"
+    },
+    {
+      "id": 17222,
+      "IDcode": "MXGS-1315",
+      "title": "突破極限！春藥讓齋藤亞美里出水太多，以至於她失去知覺，在性交中達到高潮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GOGOS",
+      "publish_date": "2023-12-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20231216/f5f6def0-9763-4a07-b307-1f3ae3256b2b.jpg",
+      "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1315"
+    },
+    {
+      "id": 17305,
+      "IDcode": "MKMP-540",
+      "title": "妄想 H 高中三重蕩婦學校性活動，與完全赤裸的女老師，用她迷人的身體和技術輕輕地教我做愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2023-12-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20231211/8f4d3c73-6ef4-481b-8c89-e944f03fc66d.jpg",
+      "actress": [
+        "美園和花",
+        "百永纱里奈",
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-540"
+    },
+    {
+      "id": 17447,
+      "IDcode": "WAAA-319",
+      "title": "你要是能扛住齋藤亞美里的口交 她答應給你無套中出內射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "2023-12-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20231203/a515a628-07ad-46ad-b7d0-cce37b3f9ae7.jpg",
       "actress": [
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-319"
     },
     {
-      "id": 7537,
-      "IDcode": "MIAB-432",
-      "title": "幹一炮給你打氣怎麼樣？ 對宅男超溫柔的同級令和辣妹，讓失落的陰沉我生幹20發 ~ 齋藤亞美裏",
+      "id": 17965,
+      "IDcode": "XVSR-731",
+      "title": "無限射精 小恶魔痴女油压按摩会所",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083416842842.jpg",
-      "actress": [
-        "齋藤亞美里",
-        "トイボーイ相沢",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-432"
-    },
-    {
-      "id": 7516,
-      "IDcode": "PPPE-316",
-      "title": "斯賓斯乳腺開發診所 ~ 齋藤亞美裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083313793793.jpg",
-      "actress": [
-        "齋藤亞美里",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-316"
-    },
-    {
-      "id": 8574,
-      "IDcode": "XVSR-796",
-      "title": "我們做愛一整天吧！從早到晚，隨時隨地享受性愛，按照您的本能決定！ ！~ 齋藤亞美里",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250203/e9cb078d-7de5-46d3-bba5-3826eb2ceb2b.jpg",
+      "publish_date": "2023-11-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20231106/20231106050420582582.jpg",
       "actress": [
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-796"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-731"
     },
     {
-      "id": 8808,
-      "IDcode": "CJOD-450",
-      "title": "她們爲了不留級……W女和J系美人在誘惑我的後宮做愛裏被操了15發 ~ 春陽モカ 齋藤亞美裏",
+      "id": 18694,
+      "IDcode": "BLK-632",
+      "title": "被漂亮女孩誘惑失去理性 忍不住出手壓在她身上一次又一次",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072210987987.jpg",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "2023-09-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20230916/efc11d01-8b34-485e-81d5-5dd85e12816e.jpg",
       "actress": [
-        "春陽萌花",
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-632"
+    },
+    {
+      "id": 18754,
+      "IDcode": "GVH-578",
+      "title": "【FANZA限定】我夢寐以求的風俗妹 無情淫蕩的口交和中出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2023-09-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20230910/284b131b-9198-4f16-8c90-00b09e1e236d.jpg",
+      "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-578"
+    },
+    {
+      "id": 18351,
+      "IDcode": "IPX-785",
+      "title": "美麗大姊唾液交織激吻性交 齋藤亞美里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2021-12-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20231013/20231013014255831831.jpg",
+      "actress": [
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-785"
+    },
+    {
+      "id": 155412,
+      "IDcode": "DASS-185",
+      "title": "口交咖啡廳 保證成為熟客 下流口交 小惡魔聯誼咖啡廳 齋藤亞美里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/27/683581efd6dba34575113b78/cover.jpg",
+      "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-185"
+    },
+    {
+      "id": 106977,
+      "IDcode": "DASS-219",
+      "title": "因為男友去旅行2天家裡沒人 被男友的朋友用盡二個晚上就算太陽升起也還繼續痴女的記錄 齋藤亞美里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-219"
+    },
+    {
+      "id": 69175,
+      "IDcode": "XVSR-801",
+      "title": "淫嘴含万株鸡巴-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-801"
+    },
+    {
+      "id": 18481,
+      "IDcode": "CAWD-577",
+      "title": "又色又可爱的苗条秘书神级奉仕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002222127738738.jpg",
+      "actress": [
+        "胡桃櫻花",
+        "齋藤亞美里",
+        "星宮菜奈",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-577"
+    },
+    {
+      "id": 18375,
+      "IDcode": "IPX-767",
+      "title": "别再让我进去了-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231011/202310110055225353.jpg",
+      "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-767"
+    },
+    {
+      "id": 18213,
+      "IDcode": "DASS-248",
+      "title": "在男士按摩被搞直到中出的痴女大姊真正戀愛營業中 齋藤亞美里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022035706383383.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "ニック",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-248"
+    },
+    {
+      "id": 18154,
+      "IDcode": "IPX-820",
+      "title": "女上司-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231026/20231026231234640640.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-820"
+    },
+    {
+      "id": 18107,
+      "IDcode": "IPX-839",
+      "title": "変態上司-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029213736621621.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-839"
+    },
+    {
+      "id": 18085,
+      "IDcode": "IPX-858",
+      "title": "小恶魔妹妹甜美的淫声浪语-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031234631615615.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "中尾芽衣子",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-858"
+    },
+    {
+      "id": 17499,
+      "IDcode": "MIMK-138",
+      "title": "入迷的辣妹-斋藤艾米丽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/37e1aea14bc30ab3ab29aff4b6f7d1e0.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "ようく",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-138"
+    },
+    {
+      "id": 17294,
+      "IDcode": "DASS-286",
+      "title": "一名優等生齋藤亞美里與一名不良女孩倉本菫陷入了女同性戀關係，在教室體驗絕頂高潮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce2d089def9b1b8bebeb3/cover.jpg",
+      "actress": [
+        "倉本菫",
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-286"
+    },
+    {
+      "id": 17195,
+      "IDcode": "NOSKN-064",
+      "title": "超级无敌性工作者 齋藤亞美里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NOSKINS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/3a31bdd4a93fc388b212e8eb7a4c07dc.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-064"
+    },
+    {
+      "id": 16964,
+      "IDcode": "CAWD-627",
+      "title": "年輕女同事-沙月芽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044054256256.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "齋藤亞美里",
+        "沙月芽衣",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-627"
+    },
+    {
+      "id": 13807,
+      "IDcode": "ROYD-182",
+      "title": "【水果派】极致欲感!乱伦堕落姐妹花!!",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce70589def9b1b8bebeee/cover.jpg",
+      "actress": [
+        "胡桃櫻花",
+        "齋藤亞美里",
+        "タイ",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-182"
+    },
+    {
+      "id": 9780,
+      "IDcode": "HODV-21927",
+      "title": "想干什么都完全同意-斎藤あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241219/0b9088b6-e046-46f3-8784-aa37fe582b50.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21927"
     },
     {
       "id": 9534,
       "IDcode": "MIZD-424",
-      "title": "子宮突擊，大力操到馬上就要高潮的狀態下不斷的追擊 BEST 3",
+      "title": "子宮をグイグイ突きまくり「もうイッてるってばぁ！」状態で追撃突き上げピストンBEST3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-31",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241228/20241228041647399399.jpg",
       "actress": [
         "森澤佳奈",
@@ -289,234 +686,305 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
-      "id": 9780,
-      "IDcode": "HODV-21927",
-      "title": "完全同意你的任何要求，馬上就可以開始做愛的漂亮女僕 ~ 齋藤亞美裏",
+      "id": 9391,
+      "IDcode": "MRHP-047",
+      "title": "部屋の内見に付き添ってくれた不動産屋のOLさん ブリンブリンの巨尻が気になって部屋が目に入りません！ 斎藤あみり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2024-12-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20241219/0b9088b6-e046-46f3-8784-aa37fe582b50.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bea1e0ce3e366423d41917/cover.jpg",
       "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRHP-047"
+    },
+    {
+      "id": 8808,
+      "IDcode": "CJOD-450",
+      "title": "留年回避のため…WギャルJ系の淫語ハァハァ囁き奪い合いハーレムで15発ブッコ抜かれたボク。 春陽モカ 斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072210987987.jpg",
+      "actress": [
+        "春陽萌花",
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21927"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-450"
     },
     {
-      "id": 13807,
-      "IDcode": "ROYD-182",
-      "title": "被兩個巨乳繼妹的誘惑侵蝕而陷入快感的兄妹們 ~ 胡桃櫻花 齋藤亞美裏",
+      "id": 8574,
+      "IDcode": "XVSR-796",
+      "title": "1日中セックスしよッ！ 朝から晩まで、いつでもどこでも本能のままSEX三昧！！ 斎藤あみり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2024-06-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621002238915915.jpg",
-      "actress": [
-        "胡桃櫻花",
-        "齋藤亞美里",
-        "タイ",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-182"
-    },
-    {
-      "id": 16964,
-      "IDcode": "CAWD-627",
-      "title": "公司出差，和女同事合住一個房間！晚上，我作爲一個很正常的男人沉迷於這幾個辣妹，被大奶子吞噬。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044054256256.jpg",
-      "actress": [
-        "乙愛麗絲",
-        "齋藤亞美里",
-        "沙月芽衣",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-627"
-    },
-    {
-      "id": 17195,
-      "IDcode": "NOSKN-064",
-      "title": "超级无敌性工作者 齋藤亞美里",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NOSKINS",
-      "publish_date": "2023-12-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20231218/598fbe0b-9b7c-4642-87ef-4d70e641b262.jpg",
-      "actress": [
-        "齋藤亞美里",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-064"
-    },
-    {
-      "id": 17499,
-      "IDcode": "MIMK-138",
-      "title": "【漫改】那本女孩痴迷漫畫而陷入出賣小穴不能自拔的真人実寫版 同人売上15萬部突破！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231202/dbfe4f5e-e27a-485d-b4cb-14769a1c3e19.jpg",
-      "actress": [
-        "齋藤亞美里",
-        "ようく",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-138"
-    },
-    {
-      "id": 17447,
-      "IDcode": "WAAA-319",
-      "title": "你要是能扛住齋藤亞美里的口交 她答應給你無套中出內射",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WANZ FACTORY",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231203/a515a628-07ad-46ad-b7d0-cce37b3f9ae7.jpg",
-      "actress": [
-        "齋藤亞美里",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-319"
-    },
-    {
-      "id": 17965,
-      "IDcode": "XVSR-731",
-      "title": "無限射精 小恶魔痴女油压按摩会所",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231106/20231106050420582582.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250203/e9cb078d-7de5-46d3-bba5-3826eb2ceb2b.jpg",
       "actress": [
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-731"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-796"
     },
     {
-      "id": 18213,
-      "IDcode": "DASS-248",
-      "title": "美容院裡可以讓你中出的淫蕩姐姐",
+      "id": 7537,
+      "IDcode": "MIAB-432",
+      "title": "我要和你做爱所以你要保持健康-斎藤あみり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2023-10-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022035706383383.jpg",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f271ac4e7d663df48f06fe/cover.jpg",
       "actress": [
         "齋藤亞美里",
-        "ニック",
+        "トイボーイ相沢",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-432"
     },
     {
-      "id": 18481,
-      "IDcode": "CAWD-577",
-      "title": "高身長！ 腰細腰窄！ 漂亮的腿！ 穿著色情可愛的暴露服裝的苗條秘書們！",
+      "id": 7516,
+      "IDcode": "PPPE-316",
+      "title": "一家可以让乳房发育的按摩诊所",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2023-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002222127738738.jpg",
+      "type": "",
+      "company": "OPPAI",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083313793793.jpg",
       "actress": [
-        "胡桃櫻花",
         "齋藤亞美里",
-        "星宮菜奈",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-577"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-316"
     },
     {
-      "id": 18085,
-      "IDcode": "IPX-858",
-      "title": "完全輸給女友小惡魔姊姊的甘聲淫語與乳頭玩弄外遇中出 齋藤亞美里",
+      "id": 6934,
+      "IDcode": "MIAB-472",
+      "title": "你可以假装我一天男朋友吗-斎藤あみり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-04-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031234631615615.jpg",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250421-1/5ee99b8a731ca9a5993037e72f818311.jpg",
       "actress": [
         "齋藤亞美里",
-        "中尾芽衣子",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-858"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-472"
     },
     {
-      "id": 18107,
-      "IDcode": "IPX-839",
-      "title": "被討厭到死的上司巨根持續高潮屈辱強暴 被變態上司盯上的齋藤亞美里",
+      "id": 5331,
+      "IDcode": "BLK-653",
+      "title": "エグいほど下品な舐めしゃぶりギャル Amiri",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-03-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029213736621621.jpg",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612072843346346_thumbnail.webp",
       "actress": [
-        "齋藤亞美里",
-        "斋藤亚美里"
+        "齋藤亞美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-839"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-653"
     },
     {
-      "id": 18154,
-      "IDcode": "IPX-820",
-      "title": "形勢逆轉！叫傳播妹結果來的是公司的高傲女上司！ 希島愛理",
+      "id": 4586,
+      "IDcode": "IENF-384",
+      "title": "素人女子大生が高額バイト代につられてヌードデッサンモデルに！マ〇コのビラビラまで丁寧に描かれる羞恥にマ〇コはグッショリ！生で挿入されてイキまくり！ 9",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-02-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20231026/20231026231234640640.jpg",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709030329669669_40984_thumbnail.webp",
       "actress": [
+        "五十嵐清華",
         "齋藤亞美里",
+        "有棲奏羽",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-820"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-384"
     },
     {
-      "id": 18351,
-      "IDcode": "IPX-785",
-      "title": "美麗大姊唾液交織激吻性交 齋藤亞美里",
+      "id": 3888,
+      "IDcode": "HZGD-314",
+      "title": "夫のいない昼下がり…日課のオナニーを見られ隣人の絶倫生チ〇ポで毎日ガン突きされ快楽堕ちした人妻 斎藤あみり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2021-12-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231013/20231013014255831831.jpg",
+      "type": "",
+      "company": "人妻花園劇場",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094756253253_34873_thumbnail.webp",
       "actress": [
         "齋藤亞美里",
         "斋藤亚美里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-314"
+    },
+    {
+      "id": 3851,
+      "IDcode": "MMPB-087",
+      "title": "顔面最強！スタイル最強！セックス最強！令和最新版 激エロスレンダー女優たち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802034851844844_61372_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "倉本菫",
+        "森日向子",
+        "静河",
+        "齋藤亞美里",
+        "加藤桃香",
+        "柊有希",
+        "夢莉梨花",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-087"
+    },
+    {
+      "id": 3543,
+      "IDcode": "BLK-656",
+      "title": "辣妹淫乱复兴按摩院-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034347744744_87662_thumbnail.webp",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-656"
+    },
+    {
+      "id": 3450,
+      "IDcode": "NACX-157",
+      "title": "前戯で高まった興奮を抑えきれずオチ〇ポにしゃぶりつく！フェラチオ20人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/202508200827344343_78720_thumbnail.webp",
+      "actress": [
+        "小花暖",
+        "東條夏",
+        "齋藤亞美里",
+        "宝田萌奈美",
+        "上坂芽衣",
+        "神坂朋子",
+        "青田悠華",
+        "月見伊織",
+        "安部未華子",
+        "安西天",
+        "朝日凜",
+        "野咲美桜",
+        "三舩美鈴",
+        "夜空亞美",
+        "堀沢茉由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-157"
+    },
+    {
+      "id": 3151,
+      "IDcode": "SAME-186",
+      "title": "母亲再婚后出现的那个令人火大却脸蛋绝顶可爱的嚣张妹妹被侵犯后变成了兄控-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030525152152_50661_thumbnail.webp",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-186"
+    },
+    {
+      "id": 2457,
+      "IDcode": "CKCK-026",
+      "title": "カノジョ志願のギャルの寝取り囁き手コキでいつでもどこでも20発精子ブッコ抜かれて僕は困ってます… 斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-026"
+    },
+    {
+      "id": 2272,
+      "IDcode": "XVSR-842",
+      "title": "有名女優のガチSEX見せて下さい！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2dffddbf24d4ed31ff0b1/cover.jpg",
+      "actress": [
+        "波多野结衣",
+        "天馬唯",
+        "浜崎真緒",
+        "大槻响",
+        "月野香澄",
+        "AIKA",
+        "前田美波",
+        "皆瀨明里",
+        "優梨舞奈",
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-842"
+    },
+    {
+      "id": 2175,
+      "IDcode": "MIAB-545",
+      "title": "无意中被姐姐碰到鸡巴射精了被她知道我是早泄男后-斎藤あみり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/a78c749d/vod.jpg",
+      "actress": [
+        "齋藤亞美里",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-545"
     }
   ]
 };

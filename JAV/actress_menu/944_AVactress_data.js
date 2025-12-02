@@ -37,18 +37,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240428/3c617d69-bba0-4ed7-8fb2-f1d0d5efd3a0.jpg",
     "https://picture.yoshiclub.xyz/20240428/3877ade3-ab5b-4a63-8eb9-f603bba8ad75.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 9641,
-      "IDcode": "WWMM-003",
-      "title": "[台灣女優]濃密中出的不倫旅行 犯下不可饒恕的背德罪行 ~ 艾熙",
+      "id": 9148,
+      "IDcode": "WWMM-004",
+      "title": "臺灣最大時尚勝地信◯區的女人，隨便就可以跟男人上牀的賤人！ ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-12-24",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250113/20250113104447634634.jpg",
+      "actress": [
+        "艾熙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WWMM-004"
+    },
+    {
+      "id": 9641,
+      "IDcode": "WWMM-003",
+      "title": "濃密中出し不倫旅行 背徳の罪を重ねる私 アイシー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241221/20241221083058950950.jpg",
       "actress": [
         "艾熙",

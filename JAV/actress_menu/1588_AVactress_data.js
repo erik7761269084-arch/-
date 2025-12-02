@@ -33,18 +33,113 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250504/966c50a1-85bd-47ab-adc5-9c330f9cee8f_l.webp"
   ],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 6407,
-      "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "id": 93747,
+      "IDcode": "PFAS-018",
+      "title": "やっぱりこれがたまらねぇ むすめ/幼なじみ/愛しき妻 乳房おっぱい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "2024-08-13",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241015-1/15f02df773f10ffd35fe1274bb72265e.jpg",
+      "actress": [
+        "宮ノ木しゅんか",
+        "西山あさひ",
+        "岡江みどり",
+        "后藤さなえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-018"
+    },
+    {
+      "id": 81832,
+      "IDcode": "NACX-051",
+      "title": "お尻を突き出すポーズがエロすぎる！後背位ばかりの動画集51人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-04-01",
+      "cover_url": "https://tuaskbgnekr.com/20231228/q6eU3kEU/1.jpg",
+      "actress": [
+        "西山あさひ",
+        "蒼空なつき",
+        "乃木遥",
+        "桃田香織",
+        "新垣智江",
+        "雪染ちな",
+        "青木りん",
+        "结白まさき",
+        "高司奏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
+    },
+    {
+      "id": 83692,
+      "IDcode": "NASH-247",
+      "title": "本当にあったエッチなお話 9",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-02-28",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/7c9ec143998fe445a62b6c6410cc03b5.jpg",
+      "actress": [
+        "二宮和香",
+        "西山あさひ",
+        "森下美绪",
+        "とみの伊织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-247"
+    },
+    {
+      "id": 91181,
+      "IDcode": "GVH-560",
+      "title": "【FANZA限定】姑の卑猥過ぎる巨乳を狙う娘婿 西山あさひ パンティとチェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/b137534a3ee3cd956678f9d620b7cfd4.jpg",
+      "actress": [
+        "西山あさひ",
+        "みっちー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-560"
+    },
+    {
+      "id": 69448,
+      "IDcode": "SY-213",
+      "title": "前略四畳半の奥様 あさひさん 34歳 ●素人四畳半生中出しシリーズ 西山あさひ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西山あさひ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-213"
+    },
+    {
+      "id": 6407,
+      "IDcode": "KSBJ-378",
+      "title": "巨尻熟女ベストセレクション52人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -96,99 +191,25 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
-      "id": 93747,
-      "IDcode": "PFAS-018",
-      "title": "やっぱりこれがたまらねぇ むすめ/幼なじみ/愛しき妻 乳房おっぱい",
+      "id": 4640,
+      "IDcode": "HDKA-321",
+      "title": "全裸主婦 巨臀誘惑精選VOL.02 ~ 杏美月 葉月奈穗 青木琳 西山朝日 春菜華 響琳 篠崎環奈 藤白桃羽 篠原千歲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FAプロ",
-      "publish_date": "2024-08-13",
-      "cover_url": "",
-      "actress": [
-        "宮ノ木しゅんか",
-        "西山あさひ",
-        "岡江みどり",
-        "后藤さなえ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-018"
-    },
-    {
-      "id": 91181,
-      "IDcode": "GVH-560",
-      "title": "【FANZA限定】姑の卑猥過ぎる巨乳を狙う娘婿 西山あさひ パンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2023-07-12",
-      "cover_url": "",
-      "actress": [
-        "西山あさひ",
-        "みっちー"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-560"
-    },
-    {
-      "id": 81832,
-      "IDcode": "NACX-051",
-      "title": "お尻を突き出すポーズがエロすぎる！後背位ばかりの動画集51人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2020-04-01",
-      "cover_url": "",
-      "actress": [
-        "西山あさひ",
-        "蒼空なつき",
-        "乃木遥",
-        "桃田香織",
-        "新垣智江",
-        "雪染ちな",
-        "青木りん",
-        "结白まさき",
-        "高司奏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
-    },
-    {
-      "id": 83692,
-      "IDcode": "NASH-247",
-      "title": "本当にあったエッチなお話 9",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-28",
-      "cover_url": "",
-      "actress": [
-        "二宮和香",
-        "西山あさひ",
-        "森下美绪",
-        "とみの伊织"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-247"
-    },
-    {
-      "id": 69448,
-      "IDcode": "SY-213",
-      "title": "- 前略四畳半の奥様 あさひさん 34歳 ●素人四畳半生中出しシリーズ 西山あさひ - JAV目錄大全javmenu.com",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d6f555337d7f7bbc2531/cover.jpg",
       "actress": [
-        "西山あさひ"
+        "春菜华",
+        "篠崎環奈",
+        "藤白桃羽",
+        "杏美月",
+        "西山あさひ",
+        "響りん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-213"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-321"
     }
   ]
 };

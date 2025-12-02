@@ -40,34 +40,15 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 4172,
-      "IDcode": "DOA-126",
-      "title": "豐滿巨乳 緊縛調教 特輯 四個巨乳娘監禁調教成順從性奴 ~ 清巳麗乃 乃木蛍 夏目藍果 有岡みう",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220109400400_17798_thumbnail.webp",
-      "actress": [
-        "有岡みう",
-        "清巳麗乃",
-        "乃木蛍",
-        "夏目藍果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-126"
-    },
-    {
       "id": 5742,
       "IDcode": "DOA-117",
-      "title": "同人AV 巨乳死宅COSER被套路成功拍下超色情片",
+      "title": "同人AV 巨乳ガチオタレイヤー上手くハメてまんまとエロ撮影",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-05-24",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529085215514514_thumbnail.webp",
       "actress": [
         "美園和花",
@@ -77,6 +58,25 @@ window.actressData = {
         "夏目藍果"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-117"
+    },
+    {
+      "id": 4172,
+      "IDcode": "DOA-126",
+      "title": "むっちり巨乳 緊縛育成 Special 4人のデカパイ女が監禁され従順奴●に！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220109400400_17798_thumbnail.webp",
+      "actress": [
+        "有岡みう",
+        "清巳麗乃",
+        "乃木蛍",
+        "夏目藍果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-126"
     }
   ]
 };

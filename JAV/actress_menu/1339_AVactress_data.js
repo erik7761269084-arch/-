@@ -39,31 +39,31 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 5297,
-      "IDcode": "JUTA-170",
-      "title": "極品人妻三十路初脫AV紀錄片 ~ 高石あやめ",
+      "id": 8110,
+      "IDcode": "JUR-027",
+      "title": "爽健美人-天ヶ瀬ゆか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "熟女JAPAN",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612071224857857_thumbnail.webp",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093636820820.jpg",
       "actress": [
         "天瀬由花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-027"
     },
     {
       "id": 7238,
       "IDcode": "OTIN-014",
-      "title": "肉欲甜蜜偷情 平靜微笑下藏不住的超溼人妻白天自拍生中出 性感Cos裝欲望爆棚大屁股大奶抖不停高潮臉射 ~ 天瀨由花",
+      "title": "肉欲イチャラブ不倫 穏やかな微笑みとは裏腹に溜め込んでいた性欲で濡れすぎ人妻と日中ハメ撮り生中出し セクシーコスチュームで欲望のテンションが上がりデカケツと乳を揺らし絶頂顔射 天ヶ瀬ゆか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2025-03-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250327/f3de9919-3ac9-4e01-a837-749756d83ee8.jpg",
       "actress": [
         "天瀬由花"
@@ -71,20 +71,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OTIN-014"
     },
     {
-      "id": 8110,
-      "IDcode": "JUR-027",
-      "title": "新人出道！爽鍵美人。自然之美、自然性感的已婚人妻。32歲 首次亮相 AV DEBUT ~! 天瀨由花",
+      "id": 5297,
+      "IDcode": "JUTA-170",
+      "title": "極品人妻三十路初脫AV紀錄片 ~ 高石あやめ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093636820820.jpg",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612071224857857_thumbnail.webp",
       "actress": [
         "天瀬由花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-170"
     }
   ]
 };

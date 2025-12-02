@@ -31,42 +31,28 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250331/6dd783b2-f893-4523-a4f1-822d85db1fe9.jpg",
     "https://picture.yoshiclub.xyz/20250331/e4a4f384-e237-4f77-ad30-2a7cb9b0794e.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 3294,
-      "IDcode": "SCPX-536",
-      "title": "突然走紅桃花運，女閨蜜無邪氣和我一起擠被窩，貼身睡太誘惑，熬不住啊！根本忍不了！ ~ 有加裏乃乃花 香椎佳穂 市井結夏 千葉彩芽",
+      "id": 5396,
+      "IDcode": "FNEO-092",
+      "title": "微乳美少女中出精選：7位小隻馬蘿莉的甜蜜激戰300分鐘 ~ 千葉彩芽 菜月光 市川りく 北山憂 姫野らん 竹內美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SCOOP",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033343865865_47861_thumbnail.webp",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "2025-06-12",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120903234848_thumbnail.webp",
       "actress": [
-        "有加里乃乃花",
-        "市井結夏",
-        "香椎佳穂",
+        "市川りく",
+        "菜月光",
+        "姫野らん",
+        "北山憂",
+        "竹内美涼",
         "千葉彩芽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-536"
-    },
-    {
-      "id": 88841,
-      "IDcode": "TENN-009",
-      "title": "【FANZA限定】贖罪 万引き○女を学校や家に言わないかわりに緊縛凌●輪● 千葉あやめ パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-09-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/5dfba019dc47a48e41b1f43b4ba170e5.jpg",
-      "actress": [
-        "千葉彩芽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-092"
     },
     {
       "id": 88824,
@@ -75,7 +61,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FIRST STAR",
       "publish_date": "2023-08-27",
       "cover_url": "",
@@ -91,7 +77,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
       "publish_date": "2022-09-06",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/420eb2f8a8733ecd2892488fe1f69d4b.jpg",
@@ -99,6 +85,58 @@ window.actressData = {
         "千葉彩芽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-424"
+    },
+    {
+      "id": 88841,
+      "IDcode": "TENN-009",
+      "title": "【FANZA限定】贖罪 万引き○女を学校や家に言わないかわりに緊縛凌●輪● 千葉あやめ パンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789475c89def9b1b809626b/cover.jpg",
+      "actress": [
+        "千葉彩芽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-009"
+    },
+    {
+      "id": 7118,
+      "IDcode": "SAN-337",
+      "title": "自分の意に反してあっさりと寝取られてしまった幼妻たち260分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250331/f1fc2f29-3638-4304-922e-a5a0586c3bbb.jpg",
+      "actress": [
+        "千石もなか",
+        "千葉彩芽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-337"
+    },
+    {
+      "id": 3294,
+      "IDcode": "SCPX-536",
+      "title": "突然訪れたモテ期の僕宅に無邪気に泊まりに来て布団に入ってくる女友達との川の字＆添い寝密着は、眠れない！！絶対ガマン出来ない！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033343865865_47861_thumbnail.webp",
+      "actress": [
+        "有加里乃乃花",
+        "市井結夏",
+        "香椎佳穂",
+        "千葉彩芽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-536"
     }
   ]
 };

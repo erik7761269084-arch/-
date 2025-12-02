@@ -26,8 +26,26 @@ window.actressData = {
     "Ito Rina"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 98408,
+      "IDcode": "AP-127",
+      "title": "女子校生通学路連れ回し痴漢 お嬢様女子校の通学路でウブそうなお嬢様女子校生に声をかけ道を聞くフリをして路地に連れ込みお漏らしするほど感じさせろ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-06-19",
+      "cover_url": "",
+      "actress": [
+        "通野未帆",
+        "小西真理繪",
+        "橘咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-127"
+    },
     {
       "id": 88359,
       "IDcode": "HUNTA-354",
@@ -35,10 +53,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-10-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/dec95f420cfb1564e8852f06a97fe8a1.jpg",
       "actress": [
         "南真悠",
         "若菜奈央",
@@ -55,10 +73,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2014-12-06",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/13df0d325c1dc682ed90825b3440d201.jpg",
       "actress": [
         "水玉檸檬",
         "橘咲良",
@@ -70,12 +88,12 @@ window.actressData = {
     {
       "id": 69339,
       "IDcode": "SGRS-021",
-      "title": "- 騙される女 - JAV目錄大全javmenu.com",
+      "title": "被骗的女人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "",
       "cover_url": "",
       "actress": [

@@ -34,8 +34,28 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/y-WANZ/AI-Fix-光乃ひかり.jpg"
   ],
-  "works_count": 13,
+  "works_count": 16,
   "related_dramas": [
+    {
+      "id": 7659,
+      "IDcode": "KTRA-704",
+      "title": "光溜溜的小穴中出！！無毛美少女合集 4小時 ~ 皆瀨明裏 早美憐夢 佐倉陽菜 池內遙 平花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250309/32ae1c43-9db5-4e79-8f01-d1dff85cc769.jpg",
+      "actress": [
+        "皆瀨明里",
+        "佐倉陽菜",
+        "池内遥",
+        "早美怜夢",
+        "平花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-704"
+    },
     {
       "id": 88941,
       "IDcode": "UMSO-508",
@@ -43,7 +63,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-07-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/1fb7ac216180a0bf52998030661a7ba2.jpg",
@@ -68,10 +88,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BROLLE",
+      "type": "",
+      "company": "Big Morkal",
       "publish_date": "2020-03-28",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230111-1/37fe6c7b7394e518710a69d522414756.jpg",
       "actress": [
         "皆月光",
         "泉莉音",
@@ -82,31 +102,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-439"
     },
     {
-      "id": 83167,
-      "IDcode": "ROOM-011",
-      "title": "「私だって必死でイクのガマンしたんだよ…」普通のSEX（ゴム有）しかした事ない女子●生が出会って間もない男に何度もイカされまくり「ナマで膣（なか）内をいっぱいにして♪」なんかイキまくっちゃう件について",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-01-25",
-      "cover_url": "",
-      "actress": [
-        "平花",
-        "须崎まどか",
-        "诗音乃らん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-011"
-    },
-    {
       "id": 81997,
       "IDcode": "SQTE-281",
       "title": "もし内緒でHしようと誘われたら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-01-13",
       "cover_url": "",
@@ -120,40 +122,27 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-281"
     },
     {
-      "id": 76253,
-      "IDcode": "EKDV-610",
-      "title": "ボクだけのご奉仕メイド 想真花",
+      "id": 99205,
+      "IDcode": "SQTE-279",
+      "title": "超絶美少女の舐めつくし真心フェラチオ31連発 S-Cuteフェラチオコレクション2020",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "水晶映像",
-      "publish_date": "2020-01-10",
-      "cover_url": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2020-01-01",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20200317-1/572952c86babe3ce3d0888ae18e5b1be.jpg",
       "actress": [
-        "平花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-610"
-    },
-    {
-      "id": 77257,
-      "IDcode": "NHDTB-329",
-      "title": "媚薬射精ペニバン襲激4 女の中出しピストンの快感で助けも呼べず理性を失いレズ覚醒する女子○生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2019-10-10",
-      "cover_url": "",
-      "actress": [
-        "夢乃愛華",
+        "渚光希",
+        "枢木葵",
+        "八乃翼",
+        "佐倉陽菜",
         "平花",
-        "星奈爱",
-        "椎木くるみ",
-        "御坂莉亚"
+        "山井すず",
+        "逢泽真里亚",
+        "千夏丽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-329"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-279"
     },
     {
       "id": 73791,
@@ -162,10 +151,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "",
       "publish_date": "2019-09-13",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/9150432bf4ce60bd4c9ca0aadc26737e.jpg",
       "actress": [
         "葵玲奈",
         "阿部乃美久",
@@ -185,10 +174,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
       "publish_date": "2019-08-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221121-1/36a855017907ca3ae4e786e623090390.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8f59f3a6c45cea0705cef9eabc2b9e86.jpg",
       "actress": [
         "渚光希",
         "平花"
@@ -202,10 +191,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-07-05",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/c79657692b3b69885af77ce6f0d72f8c.jpg",
       "actress": [
         "佐倉陽菜",
         "平花",
@@ -215,16 +204,88 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-040"
     },
     {
-      "id": 75072,
-      "IDcode": "APNS-129",
-      "title": "レズカップル山ガール 輪姦凌辱＆強制懐妊 壊されてゆく極上女子大生 汗と愛液に咽び泣く淫極の山荘 星奈あい 平花",
+      "id": 99039,
+      "IDcode": "BDA-091",
+      "title": "檻中悲劇 -星奈あい 平花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c76d8f9a2e9b1d45c06a5/cover.jpg",
+      "actress": [
+        "平花",
+        "星奈爱",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-091"
+    },
+    {
+      "id": 83167,
+      "IDcode": "ROOM-011",
+      "title": "「私だって必死でイクのガマンしたんだよ…」普通のSEX（ゴム有）しかした事ない女子●生が出会って間もない男に何度もイカされまくり「ナマで膣（なか）内をいっぱいにして♪」なんかイキまくっちゃう件について",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "平花",
+        "须崎まどか",
+        "诗音乃らん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROOM-011"
+    },
+    {
+      "id": 77257,
+      "IDcode": "NHDTB-329",
+      "title": "媚薬射精ペニバン襲激4 女の中出しピストンの快感で助けも呼べず理性を失いレズ覚醒する女子○生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "夢乃愛華",
+        "平花",
+        "星奈爱",
+        "椎木くるみ",
+        "御坂莉亚"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-329"
+    },
+    {
+      "id": 76253,
+      "IDcode": "EKDV-610",
+      "title": "ボクだけのご奉仕メイド 想真花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/360dfb634f1808a85c955c8f4443487e.jpg",
+      "actress": [
+        "平花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-610"
+    },
+    {
+      "id": 75072,
+      "IDcode": "APNS-129",
+      "title": "崩坏的极品女大学生凌辱轮奸强制怀孕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2019-06-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/d184be9de606d908fcda0f5d99c085fb.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677fce84c179ffb1db5fe1c5/cover.jpg",
       "actress": [
         "平花",
         "星奈爱",
@@ -239,32 +300,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2019-06-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/7d8e2d6d19b1de9dff6ebb754a3d1f11.jpg",
       "actress": [
         "平花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-242"
-    },
-    {
-      "id": 99039,
-      "IDcode": "BDA-091",
-      "title": "女囚強姦 檻の中の悲劇 星奈あい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2019-05-19",
-      "cover_url": "",
-      "actress": [
-        "平花",
-        "星奈爱",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-091"
     },
     {
       "id": 69738,
@@ -273,15 +316,41 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-03-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250322-1/4902aa6deb607601d2b081c7a6018778.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a2fa0676f1b2da9b9f78e37f46b230aa.jpg",
       "actress": [
         "平花",
         "イセドン内村"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-840"
+    },
+    {
+      "id": 3263,
+      "IDcode": "UMSO-607",
+      "title": "セーラー美少女BEST11人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d308e2d6fbef4e90c10d5f/cover.jpg",
+      "actress": [
+        "渚光希",
+        "中城葵",
+        "南梨央奈",
+        "迹美珠里",
+        "八尋麻衣",
+        "早美怜夢",
+        "如月真白",
+        "友利ほのか",
+        "桃尻かのん",
+        "平花",
+        "山井鈴香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-607"
     }
   ]
 };

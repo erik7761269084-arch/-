@@ -23,8 +23,24 @@ window.actressData = {
     "Aoi sola"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 97898,
+      "IDcode": "XV-239",
+      "title": "BEST OF SKY 蒼井そら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2005-04-29",
+      "cover_url": "",
+      "actress": [
+        "苍井空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XV-239"
+    },
     {
       "id": 72894,
       "IDcode": "SOE-586",
@@ -32,10 +48,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2011-05-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9116e3f61f5cbbe491357d9b4605cc02.jpg",
       "actress": [
         "苍井空"
       ],

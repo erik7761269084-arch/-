@@ -42,19 +42,160 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240805/2f827216-4dfc-4112-915a-16b20a5dd7b3.jpg",
     "https://picture.yoshiclub.xyz/20240805/87cbf4b1-547c-4221-80bc-9611239f940f.jpg"
   ],
-  "works_count": 6,
+  "works_count": 9,
   "related_dramas": [
     {
-      "id": 8340,
-      "IDcode": "GNS-113",
-      "title": "緊急拘捕！不要拍照！ ！廢墟中回蕩着女性的悲鳴 被強奸的女人 x 20名",
+      "id": 12268,
+      "IDcode": "SDDE-735",
+      "title": "「制服、下着、全裸」淫蕩航空 17",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240903/e56084d0-4c60-413d-8930-c80a69e47162.jpg",
+      "actress": [
+        "末広純",
+        "友田彩也香",
+        "流川莉央",
+        "七瀨華蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-735"
+    },
+    {
+      "id": 12921,
+      "IDcode": "PKPD-317",
+      "title": "中出部屋！模特級美麗新人女優 ~ 七瀨華蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-08-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240805/f42fbd46-07fd-4436-99cf-9721b6611dc1.jpg",
+      "actress": [
+        "七瀨華蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-317"
+    },
+    {
+      "id": 81619,
+      "IDcode": "HUNTA-754",
+      "title": "教室内のブラ透け度200％で目のやり場に困る！登校中のゲリラ豪雨でズブ濡れになった女子たちはみんなブラ透け透け状態！その中に男はボク1人！2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-04-07",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/d2bb29ef53e5c54e23debdb9f5f9f323.jpg",
+      "actress": [
+        "七瀨華蓮",
+        "如月夏希",
+        "逢澤理衣奈",
+        "海空花",
+        "叶芽ゆきな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-754"
+    },
+    {
+      "id": 82009,
+      "IDcode": "SQTE-289",
+      "title": "快楽に溺れ、イキまくるセックス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2020-03-13",
+      "cover_url": "",
+      "actress": [
+        "七瀨華蓮",
+        "如月夏希",
+        "胡桃圓",
+        "高树あすか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-289"
+    },
+    {
+      "id": 84777,
+      "IDcode": "IENF-157",
+      "title": "有名進学校の女子校生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/4XIpiFtW.jpg",
+      "actress": [
+        "天馬唯",
+        "七瀨華蓮",
+        "神野雛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-157"
+    },
+    {
+      "id": 8395,
+      "IDcode": "GDRD-042",
+      "title": "Red Dragon 永瀬かれん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250208/20250208121503889889.jpg",
+      "actress": [
+        "七瀨華蓮",
+        "七尾神"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-042"
+    },
+    {
+      "id": 8341,
+      "IDcode": "GNS-114",
+      "title": "尊嚴侵害，無恥性侵犯！被討厭的上司以出差的名義在溫泉旅館裏寢取",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "GooNiES",
-      "publish_date": "2025-02-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa34879550e292a785c867/cover.jpg",
+      "actress": [
+        "千石もなか",
+        "天美めあ",
+        "木野野葉惠里香",
+        "真白みのり",
+        "祈山愛",
+        "涼花くるみ",
+        "皇柚子",
+        "上野真奈美",
+        "楽園ミナ",
+        "七瀨華蓮",
+        "天海一華",
+        "東城ゆい",
+        "永瀬愛菜",
+        "美音夢",
+        "堀麻美子",
+        "汐見唯",
+        "加賀美真里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-114"
+    },
+    {
+      "id": 8340,
+      "IDcode": "GNS-113",
+      "title": "【緊急逮×！】「撮らないで！！」廃墟に響き渡る女性の悲鳴 女たちのヤリすて廃棄場強× 20名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GooNiES",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/d382b06a4ba683ca1c390f593ad31314.jpg",
       "actress": [
         "千石もなか",
         "天美めあ",
@@ -77,94 +218,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
-      "id": 8395,
-      "IDcode": "GDRD-042",
-      "title": "Red Dragon ~ 七瀨華蓮",
+      "id": 3353,
+      "IDcode": "HUNTC-330",
+      "title": "酔った姉を利用して勝手に黒パンスト素股で大量発射！普段は真面目な姉なのに…酔うとゼロ距離密着で胸やお尻が当たってボクのチンポはもう限界",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250208/20250208121503889889.jpg",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025754875875_97676_thumbnail.webp",
       "actress": [
-        "七瀨華蓮",
-        "七尾神"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-042"
-    },
-    {
-      "id": 12921,
-      "IDcode": "PKPD-317",
-      "title": "中出部屋！模特級美麗新人女優 ~ 七瀨華蓮",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20240805/f42fbd46-07fd-4436-99cf-9721b6611dc1.jpg",
-      "actress": [
+        "五十嵐清華",
+        "岡本莉里",
+        "二宮桃",
         "七瀨華蓮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-317"
-    },
-    {
-      "id": 84777,
-      "IDcode": "IENF-157",
-      "title": "有名進学校の女子校生が初めてのオナニー鑑賞！ 至近距離でのガマン汁臭とシコシコ音にグッチョリ膣キュン！頬を赤らめて求めて来たので生挿入、中出ししちゃいました！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2021-08-12",
-      "cover_url": "",
-      "actress": [
-        "天馬唯",
-        "七瀨華蓮",
-        "神野雛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-157"
-    },
-    {
-      "id": 81619,
-      "IDcode": "HUNTA-754",
-      "title": "教室内のブラ透け度200％で目のやり場に困る！登校中のゲリラ豪雨でズブ濡れになった女子たちはみんなブラ透け透け状態！その中に男はボク1人！2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-04-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/d2bb29ef53e5c54e23debdb9f5f9f323.jpg",
-      "actress": [
-        "七瀨華蓮",
-        "如月夏希",
-        "逢澤理衣奈",
-        "海空花",
-        "叶芽ゆきな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-754"
-    },
-    {
-      "id": 82009,
-      "IDcode": "SQTE-289",
-      "title": "快楽に溺れ、イキまくるセックス",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S-CUTE",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
-      "actress": [
-        "七瀨華蓮",
-        "如月夏希",
-        "胡桃圓",
-        "高树あすか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-330"
     }
   ]
 };

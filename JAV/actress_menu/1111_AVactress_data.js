@@ -35,31 +35,31 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 1924,
-      "IDcode": "LAFBD-38",
-      "title": "拉佛雷女孩 Vol.38：安娜莉卡",
+      "id": 1144,
+      "IDcode": "HEYZO-1786",
+      "title": "一個又一個-深入滲透美膚少女-Rika Anna",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2015-01-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/c8b85411-97e7-4e76-9d9b-159e7bfb58d8.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2018-07-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20231101/20231101232056365365.jpg",
       "actress": [
         "杏奈莉香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-38"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1786"
     },
     {
       "id": 97796,
       "IDcode": "RBD-627",
-      "title": "社員寮の性奴隷 杏奈りか",
+      "title": "社員寮の性奴-杏奈りか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2014-10-07",
+      "publish_date": "",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/rbd627/rbd627pl.jpg",
       "actress": [
         "杏奈莉香"

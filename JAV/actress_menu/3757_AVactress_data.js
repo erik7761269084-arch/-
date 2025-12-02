@@ -4,7 +4,7 @@ window.actressData = {
   "name": "西高真澄",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,36 +19,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 67758,
-      "IDcode": "RENU-002",
-      "title": "豔美體 西高真澄",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-11-01",
-      "cover_url": "",
-      "actress": [
-        "西高真澄"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RENU-002"
-    },
-    {
       "id": 106560,
       "IDcode": "RENU-001",
-      "title": "デビュー西高真澄47歳「決心」―奇跡の美人妻が挑む限界エロス。",
+      "title": "位奇迹般美丽的妻子-西高真澄",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-09-30",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/renu001/renu001pl.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/23/688051783ed39b57c087d6b6/cover.jpg",
       "actress": [
         "西高真澄"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RENU-001"
+    },
+    {
+      "id": 67758,
+      "IDcode": "RENU-002",
+      "title": "艶美体-西高真澄",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/964517c0876de1fab67c8090fa65a32a.jpg",
+      "actress": [
+        "西高真澄"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RENU-002"
     }
   ]
 };

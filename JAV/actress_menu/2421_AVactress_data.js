@@ -44,13 +44,13 @@ window.actressData = {
     {
       "id": 8116,
       "IDcode": "NAIAD-005",
-      "title": "AI新人慄林愛，26歲，世界上最性感的人妻 ~ 慄林藍",
+      "title": "这世上最色情的人妻-栗林藍",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DASDAS",
-      "publish_date": "2025-02-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220191739896896.jpg",
       "actress": [
         "栗林藍"

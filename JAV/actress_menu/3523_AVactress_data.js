@@ -4,7 +4,7 @@ window.actressData = {
   "name": "佐藤爱琉",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,58 +16,23 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 14,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 63784,
-      "IDcode": "SVS-086",
-      "title": "四つん這い限界イカせ！ 逃げたくても逃げられない回避不能の淫膣に強●極限刺激",
+      "id": 78508,
+      "IDcode": "JUFE-127",
+      "title": "第一人称视角感受长腿痴女淫语控制主观支配射精",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-05-27",
-      "cover_url": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3341fe9d28eb9536607321cf5ad3f9b3.jpg",
       "actress": [
-        "波多野结衣",
-        "森澤佳奈",
-        "渚光希",
-        "月乃露娜",
-        "桐岛莉乃",
-        "新村晶",
-        "安倍亜沙美",
-        "纱々原ゆり",
-        "若宫はずき",
-        "管野静香",
         "佐藤爱琉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVS-086"
-    },
-    {
-      "id": 78587,
-      "IDcode": "CJOB-167",
-      "title": "知ってしまうと快感好きになるNo.1エロプレイ痴女足コキで何度も射精されたボクベスト",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2024-11-26",
-      "cover_url": "",
-      "actress": [
-        "波多野结衣",
-        "乙愛麗絲",
-        "大槻响",
-        "AIKA",
-        "蓮実クレア",
-        "佐佐木明希",
-        "桐岛莉乃",
-        "安倍亜沙美",
-        "篠田优",
-        "佐藤爱琉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-127"
     },
     {
       "id": 88285,
@@ -76,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2020-11-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250114-1/6864dade77587b51861e19fc405ed2f6.jpg",
       "actress": [
         "AIKA",
         "渚光希",
@@ -99,10 +64,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "",
       "publish_date": "2020-08-01",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/22b15b907364bf50db7b317d7beefe6b.jpg",
       "actress": [
         "泉百合",
         "泉麻里香",
@@ -112,96 +77,66 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-204"
     },
     {
-      "id": 70202,
-      "IDcode": "VEC-416",
-      "title": "その義母、過去あり。～知られざる美人継母奴●調教～ 佐藤エル",
+      "id": 98117,
+      "IDcode": "BBAN-277",
+      "title": "タトゥーがバリバリ入ったレズビアン女脱獄犯が逃げた先はこれ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
+      "type": "",
+      "company": "BIBIAN",
       "publish_date": "2020-05-07",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/30/6902899979f1ac4ec4c9fd4e/poster2.jpg",
+      "actress": [
+        "佐藤爱琉",
+        "久远れいら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-277"
+    },
+    {
+      "id": 103376,
+      "IDcode": "DASD-634",
+      "title": "向かい部屋の秘密。 ドSなはずの彼女が真向かいの家で輪●凌●されて悦んでました。 佐藤エル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-01-25",
       "cover_url": "",
       "actress": [
+        "南佳也",
         "佐藤爱琉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-416"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-634"
     },
     {
       "id": 107470,
       "IDcode": "BLK-451",
-      "title": "都合のいい愛人ギャル オヤジ大好きねっちょりSEXを求めるビッチと朝まで中出し不倫03",
+      "title": "和纹身辣妹情妇的不伦内射旅行",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KIRAKIRA",
-      "publish_date": "2020-04-19",
-      "cover_url": "https://tutu1.space/images/2023/03/14/5d0fba880569e33b3dd9bb29e487e6c6.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "佐藤爱琉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-451"
     },
     {
-      "id": 82132,
-      "IDcode": "VENU-918",
-      "title": "親族相姦 きれいな叔母さん 佐藤エル",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2020-04-01",
-      "cover_url": "",
-      "actress": [
-        "佐藤爱琉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-918"
-    },
-    {
-      "id": 81786,
-      "IDcode": "MIAA-245",
-      "title": "180cm高身長タトゥー美女媚薬オイルマッサージで悶絶中出し堕とし 佐藤エル",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2020-04-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/d5987d21ee4b7c2d2de1ee1bd0aee88e.jpg",
-      "actress": [
-        "佐藤爱琉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-245"
-    },
-    {
-      "id": 81492,
-      "IDcode": "BLK-449",
-      "title": "クソ生意気下着売り制服娘を監禁生姦キメパコ中出し（BLK-449）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2020-03-19",
-      "cover_url": "",
-      "actress": [
-        "佐藤爱琉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-449"
-    },
-    {
       "id": 83670,
       "IDcode": "JUL-148",
-      "title": "義父に覗かれた人妻のタトゥー 帰省中の3日間―。 佐藤エル",
+      "title": "陪老公回家探亲的人妻-佐藤エル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-02-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/93ee1e09660ec697181290f0e1625224.jpg",
       "actress": [
         "佐藤爱琉"
       ],
@@ -210,13 +145,13 @@ window.actressData = {
     {
       "id": 82331,
       "IDcode": "CJOD-230",
-      "title": "有名ヤンキーな彼女のお姉さんに鼓膜を●すじっとり誘惑＆スローな騎乗位で中出し地獄に引きずり込まれたボク 佐藤エル",
+      "title": "女朋友强势的纹身太妹姐姐-佐藤エル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-25",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "Qべぇ",
@@ -227,13 +162,13 @@ window.actressData = {
     {
       "id": 82214,
       "IDcode": "NGOD-118",
-      "title": "黒人外資NTR LA現地法人から来日した黒人投資家の漆黒の巨根でずっぽりベンチャーされた経理妻 佐藤エル",
+      "title": "黒人投資家-佐藤エル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2020-01-07",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "佐藤爱琉"
@@ -241,36 +176,135 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-118"
     },
     {
-      "id": 78508,
-      "IDcode": "JUFE-127",
-      "title": "絶対的上から目線で長身痴女が淫語コントロール 射精を支配される究極主観JOI 佐藤エル",
+      "id": 82132,
+      "IDcode": "VENU-918",
+      "title": "美女阿姨发现我是处男-佐藤エル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2019-12-13",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "佐藤爱琉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-918"
+    },
+    {
+      "id": 81786,
+      "IDcode": "MIAA-245",
+      "title": "180cm高身長刺青美女春藥油壓按摩悶絶中出墮落佐惠藤琉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240923-1/d20ea1477786a43b94771e5398a92376.jpg",
+      "actress": [
+        "佐藤爱琉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-245"
+    },
+    {
+      "id": 81492,
+      "IDcode": "BLK-449",
+      "title": "碰到态度超差的援交妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "佐藤爱琉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-449"
+    },
+    {
+      "id": 78587,
+      "IDcode": "CJOB-167",
+      "title": "知ってしまうと快感好きになるNo.1エロプレイ痴女足コキで何度も射精されたボクベスト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251011-1/17d25f94c18e8e58fcd8cd2117678f3e.jpg",
+      "actress": [
+        "波多野结衣",
+        "乙愛麗絲",
+        "大槻响",
+        "AIKA",
+        "蓮実クレア",
+        "佐佐木明希",
+        "桐岛莉乃",
+        "安倍亜沙美",
+        "篠田优",
+        "佐藤爱琉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-167"
     },
     {
       "id": 71760,
       "IDcode": "CJOD-217",
-      "title": "汗だく性欲まみれ痴女！脱獄犯に強制中出しで犯されちゃったボク…4 佐藤エル",
+      "title": "被女逃犯强制侵犯内射的我不仅要给她食物还要上交精液",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250221-1/10867c43465c15a04ee137066da9c316.jpg",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/68720a2bc2c7bea0831897696833fc3c.jpg",
       "actress": [
         "佐藤爱琉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-217"
+    },
+    {
+      "id": 70202,
+      "IDcode": "VEC-416",
+      "title": "その義母、過去あり。～知られざる美人継母奴●調教～ 佐藤エル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5dad950c85e488761d8a5c1a99a18d18.jpg",
+      "actress": [
+        "佐藤爱琉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-416"
+    },
+    {
+      "id": 63784,
+      "IDcode": "SVS-086",
+      "title": "逃げたくても逃げられない回避不能の淫膣に強極限刺激渚みつき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250701-1/a6327ed096e69f6b0acb7296870545b6.jpg",
+      "actress": [
+        "波多野结衣",
+        "森澤佳奈",
+        "渚光希",
+        "月乃露娜",
+        "桐岛莉乃",
+        "新村晶",
+        "安倍亜沙美",
+        "纱々原ゆり",
+        "若宫はずき",
+        "管野静香",
+        "佐藤爱琉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVS-086"
     }
   ]
 };

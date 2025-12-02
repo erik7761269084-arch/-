@@ -31,7 +31,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240117/84e76e3c-7dc5-4552-8164-15a3412cab82.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 13879,
@@ -40,8 +40,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "",
       "publish_date": "2024-07-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240618/6664cc96-83ac-454d-8f38-d2c0396a7e05.jpg",
       "actress": [
@@ -52,20 +52,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-029"
     },
     {
-      "id": 89690,
-      "IDcode": "SDAB-282",
-      "title": "放課後整体マッサージ 元気な敏感少女をピックピクさせる凄イキ開発 空野きら",
+      "id": 16731,
+      "IDcode": "SDAB-294",
+      "title": "「中出的感覺好嗎？」迷你女孩的第一次嘗試，第一次沒有避孕套的性愛 空野きら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-12-12",
-      "cover_url": "",
+      "publish_date": "2024-02-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20240116/20240116064114978978.jpg",
       "actress": [
         "空野きら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-294"
     },
     {
       "id": 89683,
@@ -74,7 +74,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-11-14",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/026b1be1537d01ab13f4ccabdeb5331d.jpg",
@@ -82,6 +82,22 @@ window.actressData = {
         "空野きら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-277"
+    },
+    {
+      "id": 89690,
+      "IDcode": "SDAB-282",
+      "title": "元气十足的敏感少女-空野绮良",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "空野きら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-282"
     }
   ]
 };

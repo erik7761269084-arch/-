@@ -4,7 +4,7 @@ window.actressData = {
   "name": "植木翔子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": "157cm",
@@ -19,32 +19,16 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 93411,
-      "IDcode": "NATR-728",
-      "title": "まるまる！植木翔子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2024-06-11",
-      "cover_url": "",
-      "actress": [
-        "植木翔子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-728"
-    },
-    {
       "id": 93415,
       "IDcode": "NASK-064",
       "title": "本当にあったエッチなお話46",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2024-05-14",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/53359431113ed491b457fd7fe6e2d545.jpg",
       "actress": [
         "夏树カオル",
         "铃木きあら",
@@ -54,16 +38,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-064"
     },
     {
-      "id": 70722,
-      "IDcode": "ITSR-071",
-      "title": "本気になるおばさん。「からかうのはやめて」と最初は笑っていたけど、リアルにSEX突入の気配！？最後はおばさんなのに、本気の中出しまで！？ 2 植木さん（43）山口さん（46）",
+      "id": 93411,
+      "IDcode": "NATR-728",
+      "title": "まるまる！植木翔子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-08-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250306-1/77c328802beb1ad1dad993cf38aa86a6.jpg",
+      "type": "",
+      "company": "Nadeshiko",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/d86ee31be52b5eb591a9a70ee776dd37.jpg",
+      "actress": [
+        "植木翔子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-728"
+    },
+    {
+      "id": 70722,
+      "IDcode": "ITSR-071",
+      "title": "本気になるおばさん。「からかうのはやめて」",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/824a4a2d8f8aa2cc8b85716e57c6143f.jpg",
       "actress": [
         "山口椿",
         "植木翔子"

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "かんな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 79795,
-      "IDcode": "NTK-640",
-      "title": "【えちえちG乳JD×拗らせエチョナ美乳JDが露天で夢の競演！！】ずぶ濡れWマ○コで露天風呂絶賛水位&amp;水温上昇！！えちあち大乱交SP！！ストレート淫乱で感度びんびんG乳ギャルが汗も潮もマン汁もびしょで激イキ！！おかわりソロSEXもどどんとスペシャル！！どちゃしこ汗ダク3pで連続中出し2搾精！！",
+      "id": 519835,
+      "IDcode": "300NTK-640",
+      "title": "【Echi Echi G 美乳JD x Sorrow Echona 美乳JD 是一场露天梦想大赛！ ！！ ]",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-10-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/444fd0c242a784c5b237be99dd183ea5.jpg",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/444fd0c242a784c5b237be99dd183ea5.jpg",
       "actress": [
         "かんな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTK-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-640"
     }
   ]
 };

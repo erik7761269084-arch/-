@@ -40,39 +40,103 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250313/200e4533-0a7f-4922-ab57-df87f4035797.jpg",
     "https://picture.yoshiclub.xyz/20250313/3fa72567-d2ab-45b3-be8d-d363891457d1.jpg"
   ],
-  "works_count": 2,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 4549,
-      "IDcode": "KBR-027",
-      "title": "溼吻纏綿口淫性交大作戰 ~ 斎木香住",
+      "id": 5401,
+      "IDcode": "KBR-025",
+      "title": "年下素人小哥哥被我玩到爽翻天，突襲素人粉絲家的SEX紀錄片 ~ 斎木香住",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031002124124_55513_thumbnail.webp",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2025-06-20",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612035455975975_thumbnail.webp",
+      "actress": [
+        "斎木香住"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-025"
+    },
+    {
+      "id": 7593,
+      "IDcode": "KBR-020",
+      "title": "新人出道！能把所有人都迷住的原賽車女郎 30歲 KANBi專屬 首次亮相 AV DEBUT ~ 斎木香住",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2025-03-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/ba415d61-3761-4a24-b114-83f2433e330a.jpg",
+      "actress": [
+        "斎木香住"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-020"
+    },
+    {
+      "id": 68954,
+      "IDcode": "KBR-021",
+      "title": "ど痴女な元レースクイーンと行く 濃密中出しデート。 斎木香住【限定特典映像20分付き】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "斎木香住"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-021"
+    },
+    {
+      "id": 6340,
+      "IDcode": "KBR-023",
+      "title": "前賽車女王用性感美腿甜蜜調教，癡女四場景本番大爆發 ~ 斎木香住",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd49f40069396376789b03/cover.jpg",
+      "actress": [
+        "斎木香住"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-023"
+    },
+    {
+      "id": 4549,
+      "IDcode": "KBR-027",
+      "title": "ぐっちょり舌で愛し合う口淫性交 斎木香住",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a52cad8cce1a927afca0e2/cover.jpg",
       "actress": [
         "斎木香住"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-027"
     },
     {
-      "id": 68954,
-      "IDcode": "KBR-021",
-      "title": "ど痴女な元レースクイーンと行く 濃密中出しデート。 斎木香住",
+      "id": 3803,
+      "IDcode": "KBR-029",
+      "title": "RQナイトクルーズ 斎木香住",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://tutu1.space/images/2025/07/04/2737e4c856d0ff2bf76776f5c6a62b61.jpg",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030005587587_61782_thumbnail.webp",
       "actress": [
         "斎木香住"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-021"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-029"
     }
   ]
 };

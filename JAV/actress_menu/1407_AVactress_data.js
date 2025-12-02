@@ -43,31 +43,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 3591,
-      "IDcode": "EBWH-251",
-      "title": "這奶子這身體，真想立馬就和她生娃 被繼父賣身的美巨乳娘被油膩大叔們瘋狂種付 ~ 天宮鈴",
+      "id": 5337,
+      "IDcode": "EBWH-240",
+      "title": "「男子が超苦手、ボクが守りたくなるほどに。」経験の少なさと裏腹に誰よりも性知識が豊富で…実は男子とエッチなコトがしたくてたまらない【妄想モンスター】Hcupロリ制服美少女 天宮すず AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030603496496_40381_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892f5a4c92318f97d87f957/cover.jpg",
       "actress": [
-        "天宮鈴"
+        "天宮鈴",
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-240"
     },
     {
       "id": 4500,
       "IDcode": "EBWH-249",
-      "title": "內向蘿莉巨乳學生妹被逼穿超羞恥衣服直接開幹，下面夾得超緊直接高潮啦 ~ 天宮鈴",
+      "title": "陰キャでロリ爆乳の教え子に死ぬほど恥ずかしい恰好させて生でハメてやったらめちゃくちゃ膣が締まってイキやがるww 天宮すず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-07-11",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031543904904_85226_thumbnail.webp",
       "actress": [
         "天宮鈴"
@@ -75,21 +76,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-249"
     },
     {
-      "id": 5337,
-      "IDcode": "EBWH-240",
-      "title": "蘿莉新人出道！男生超苦手，卻讓人忍不住想保護她！經驗少卻性知識爆棚，內心超想和男生開車的小可愛，H杯蘿莉制服美少女 AV DEBUT ~ 天宮鈴",
+      "id": 3591,
+      "IDcode": "EBWH-251",
+      "title": "もう赤ちゃん作れそうな体だね 義父に売られた ロケットおっぱい娘は 今日も脂ぎり買春おやじ共にドロッドロに種付けされる 天宮すず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061409459459_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030603496496_40381_thumbnail.webp",
       "actress": [
-        "天宮鈴",
-        "イセドン内村"
+        "天宮鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-251"
     }
   ]
 };

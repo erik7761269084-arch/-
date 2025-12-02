@@ -4,7 +4,7 @@ window.actressData = {
   "name": "長谷川ゆかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 85166,
       "IDcode": "KIRE-081",
-      "title": "超希少!NTR好きで濡れる女 現役エステティシャン「私、嫉妬でしか興奮できないんです…」 長谷川ゆかり 34歳 AV DEBUT",
+      "title": "喜欢NTR并被弄湿的女人-長谷川ゆかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "NEXT",
-      "publish_date": "2022-08-11",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/0ea339564f04106eff02057ab8c3ce4a.jpg",
       "actress": [
         "長谷川ゆかり"
       ],

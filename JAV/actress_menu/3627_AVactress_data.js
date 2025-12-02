@@ -24,23 +24,90 @@ window.actressData = {
     "Karen"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 66755,
-      "IDcode": "GANA-2897",
-      "title": "マジ軟派、初撮。 1946 【ホントにFカップ？？】【世界を股にかける美女】ラップ越しキスチャレンジに参加してくれたノリの良いお姉さん♪ワールドワイドなおっぱいと名器で男を沼らせる！！",
+      "id": 520714,
+      "IDcode": "200GANA-3007",
+      "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 338 仕事热心なバリキャリ清楚美女を连れ込み！スレンダーな色白ボディを好き胜手しちゃいます！クールな彼女もドMに开眼！拘束されても腰だけは动いてチ●ポを离さない！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2023-08-15",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-03-26",
       "cover_url": "",
       "actress": [
         "かれん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-3007"
+    },
+    {
+      "id": 103629,
+      "IDcode": "300MAAN-0938",
+      "title": "【極上F乳タトゥーギャル降臨】神スタイルは瞬き厳禁！！今回の裏垢美女は【生中出しもOKなパリピギャル】昼からお酒で乾杯→そのままの勢いでヤリ基地へGO！くびれ×美巨乳×プリ尻×高感度のまさにパーフェクトボディ！！舌ピアスで擦り上げるフェラテクも神レベル！！徐々に従順になっていき可愛く喘ぐ姿にギャップ萌え！おかわり生挿入アゲインで、小麦肌のマ●コに映える大量中出し2連発ッ！！【撮影OK #裏垢タダマン】【カレン】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2024-01-06",
+      "cover_url": "",
+      "actress": [
+        "かれん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0938"
+    },
+    {
+      "id": 495930,
+      "IDcode": "200GANA-2897",
+      "title": "マジ軟派、初撮。 1946 【ホントにFカップ？？】【世界を股にかける美女】ラップ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "かれん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2897"
+    },
+    {
+      "id": 101633,
+      "IDcode": "SIRO-5235",
+      "title": "一位才华洋溢才华洋溢的网页设计师来了虽然工作很充实但我已经很久没有性生活了当她吞下许久不见的鸡巴时她的阴户发出粗俗的声音一道猥琐的声音响起初拍AV线上申请AV体验拍摄2122",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "響かれん",
+        "かれん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5235"
+    },
+    {
+      "id": 14889,
+      "IDcode": "IPZZ-281",
+      "title": "人妻自宅沙龙-枫可怜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/de8a1a1dd191354ba1a29e3a7766259a.jpg",
+      "actress": [
+        "楓花戀",
+        "枫可怜",
+        "かれん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-281"
     }
   ]
 };

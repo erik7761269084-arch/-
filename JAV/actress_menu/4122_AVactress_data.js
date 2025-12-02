@@ -22,8 +22,46 @@ window.actressData = {
     "Izumi Nonoka"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 164708,
+      "IDcode": "HFD-198",
+      "title": "夜勤明け看護師の寝不足むらむらオマ●コは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-06-28",
+      "cover_url": "",
+      "actress": [
+        "森澤佳奈",
+        "春日野结衣",
+        "葵こはる",
+        "泉ののか",
+        "长谷川ゆり",
+        "前泽あきな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HFD-198"
+    },
+    {
+      "id": 98815,
+      "IDcode": "BBAN-166",
+      "title": "義母娘 接吻レズ調教 ～姑のカラダを貪り尽くす美嫁のヘビ舌～ 新堂有望 泉ののか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2018-01-25",
+      "cover_url": "",
+      "actress": [
+        "泉ののか",
+        "新堂有望"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-166"
+    },
     {
       "id": 71134,
       "IDcode": "HUNTA-590",
@@ -31,10 +69,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-05-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250228-1/2b031c205c23d37e8e447c2452e66dc4.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/cf834a4da11cd0467ad89960cd3251d9.jpg",
       "actress": [
         "緒川春",
         "タツ",

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "美咲あかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2012-09-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231010-1/c7c13f42e39ff37fb2acd86ea7a29a9c.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fd392a19e02a339a5d02f76390b917bc.jpg",
       "actress": [
         "美咲あかり"
       ],

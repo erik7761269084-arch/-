@@ -50,23 +50,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/ce2f9241-1815-4336-b55c-1bbd3ba79fa5.jpg",
     "https://picture.yoshiclub.xyz/20230124/add97b8d-a5bc-4cda-b303-e1619aeab0fe.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1985,
-      "IDcode": "MCBD-10",
-      "title": "Merci Beaucoup 10 連續中出惡魔吊帶：西川千尋",
+      "id": 142102,
+      "IDcode": "051518-666",
+      "title": "连续暨敏感的身体",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2015-12-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/591e809a-ba24-448b-baa9-4205603a9023.webp",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250130-1/598062b03d63f017665787fdc4632fd6.jpg",
       "actress": [
         "西川千寻"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-10"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=051518-666"
+    },
+    {
+      "id": 142019,
+      "IDcode": "040718-637",
+      "title": "如果我的女朋友是西川千寻西川千寻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250130-1/cc0cb76289b0a71460b994f0bad3580c.jpg",
+      "actress": [
+        "西川千寻"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=040718-637"
     }
   ]
 };

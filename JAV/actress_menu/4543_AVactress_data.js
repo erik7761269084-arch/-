@@ -4,7 +4,7 @@ window.actressData = {
   "name": "紅音そら",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 9496,
       "IDcode": "SAN-305",
-      "title": "新人出道！AV首次初撮 AV DEBUT ~ 紅音そら",
+      "title": "AV初撮りデビュー 紅音そら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
-      "publish_date": "2024-12-31",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241231/8e726ca6-ea46-4934-a11b-3ec49fc1ce21.jpg",
       "actress": [
         "紅音そら"

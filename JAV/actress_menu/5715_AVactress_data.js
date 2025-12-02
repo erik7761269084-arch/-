@@ -4,7 +4,7 @@ window.actressData = {
   "name": "長原あきな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106778,
       "IDcode": "JURA-078",
-      "title": "初撮り人妻、みたび。 長原あきな",
+      "title": "初攝人妻再次見面-長原秋菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-08-17",
-      "cover_url": "https://tutu1.space/images/2023/11/05/136d6538919510f7fcb9a4c79deb339f.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "長原あきな"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 91962,
       "IDcode": "JURA-073",
-      "title": "初撮り人妻、ふたたび。 長原あきな",
+      "title": "初次拍摄人妻-长原秋奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-07-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240620-1/d1693f604ac24c883dfd78e21ce952f2.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/5165dd2296352637be33289dcf087276.jpg",
       "actress": [
         "長原あきな"
       ],
@@ -53,14 +53,14 @@ window.actressData = {
     {
       "id": 91095,
       "IDcode": "JRZE-152",
-      "title": "初撮り人妻ドキュメント 長原あきな",
+      "title": "初次拍摄人妻-长原秋奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-06-22",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/09cd55d2c98fe54bb857baff90182f6d.jpg",
       "actress": [
         "長原あきな"
       ],

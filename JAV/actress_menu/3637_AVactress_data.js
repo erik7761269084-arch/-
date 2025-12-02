@@ -4,7 +4,7 @@ window.actressData = {
   "name": "篠宮花音",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2023-05-25",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240801/OzYEK4ce/1.jpg",
       "actress": [
         "雅子裡菜",
         "篠宮花音"
@@ -42,31 +42,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "",
       "publish_date": "2023-05-25",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240720/fzm6GeIb/1.jpg",
       "actress": [
         "八乃翼",
         "篠宮花音"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-008"
-    },
-    {
-      "id": 66788,
-      "IDcode": "FOCS-097",
-      "title": "清楚般文學少女是小惡魔癡女 拘束中年大蛇盡情玩弄貪求精子中出性交 篠宮花音",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2022-11-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/c1eb170dedd7bc4bc3f99d281bffeb69.jpg",
-      "actress": [
-        "篠宮花音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-097"
     },
     {
       "id": 85595,
@@ -75,15 +59,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
       "publish_date": "2022-09-27",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ebf4494c5fb1f6f786cdddff241a193e.jpg",
       "actress": [
         "鲛岛",
         "篠宮花音"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-251"
+    },
+    {
+      "id": 66788,
+      "IDcode": "FOCS-097",
+      "title": "小悪魔痴女-篠宮花音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/c1eb170dedd7bc4bc3f99d281bffeb69.jpg",
+      "actress": [
+        "篠宮花音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-097"
     }
   ]
 };

@@ -31,8 +31,54 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250226/ac0465bf-6e91-4512-a857-e6613867cf84.jpg"
   ],
-  "works_count": 1,
+  "works_count": 7,
   "related_dramas": [
+    {
+      "id": 5744,
+      "IDcode": "KTRA-720",
+      "title": "調皮小惡魔的種付狂操 4小時 ~ 雙葉胡桃 朝日滴 泉莉音 加賀美さら 永作ねね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-24",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529084855706706_thumbnail.webp",
+      "actress": [
+        "泉莉音",
+        "加賀美さら",
+        "雙葉胡桃",
+        "永作ねね",
+        "朝日滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-720"
+    },
+    {
+      "id": 7937,
+      "IDcode": "UMSO-586",
+      "title": "真實密室做愛：和可愛笑顏的美少女進行的無套中出性愛！ 共收錄11人 ~ 有村希 鬆本一香 朝日凜 笠木いちか 天野碧 中條あおい 紺野美衣奈 八尋麻衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2025-02-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250226/9c34e4b5-1a61-4148-9943-cc2024fa306b.jpg",
+      "actress": [
+        "松本一香",
+        "有村希",
+        "葵玲奈",
+        "笠木いちか",
+        "朝日凜",
+        "雙葉胡桃",
+        "八尋麻衣",
+        "天野碧",
+        "紺野美衣奈",
+        "夏目愛莉",
+        "中条あおい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-586"
+    },
     {
       "id": 90470,
       "IDcode": "OMHD-030",
@@ -40,14 +86,119 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-08-15",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240122-1/d9ba408c824e90d22c6e3ba179ecaf08.jpg",
       "actress": [
         "雙葉胡桃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OMHD-030"
+    },
+    {
+      "id": 84576,
+      "IDcode": "HMN-241",
+      "title": "腦袋發瘋被瘋狂家族盯上的制服少女不想讓母親被侵犯的話就快脫下衣服垃圾房間綁架監禁連發中出也無法回家的7日間懷孕追姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240924-1/9199eeecb77e93f2ec542b0ec2f7b0f4.jpg",
+      "actress": [
+        "雙葉胡桃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-241"
+    },
+    {
+      "id": 68112,
+      "IDcode": "MIAA-672",
+      "title": "被我讨厌的公公强行强奸-双葉くるみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/71ad7f51a2e627cfd71ac24747b127b2.jpg",
+      "actress": [
+        "雙葉胡桃",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-672"
+    },
+    {
+      "id": 7157,
+      "IDcode": "MIZD-446",
+      "title": "我也想擁有這種甜蜜青春！被超色激萌制服J系多次癡女榨精的我BEST ~ 新有菜 石川澪 小野六花 鬆本一香 美園和花 等40人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f2706a0063c92fb9fa243/cover.jpg",
+      "actress": [
+        "美園和花",
+        "天馬唯",
+        "倉本菫",
+        "乙愛麗絲",
+        "柏木小夏",
+        "松本一香",
+        "森日向子",
+        "末広純",
+        "沙月惠奈",
+        "白石桃",
+        "新井里真",
+        "新有菜",
+        "皆瀨明里",
+        "宍戸里帆",
+        "绫濑心",
+        "渚光希",
+        "東條夏",
+        "星乃夏月",
+        "七泽美亚",
+        "響乃詩",
+        "石原希望",
+        "五芭",
+        "希咲那奈",
+        "花狩舞",
+        "宮下玲奈",
+        "小野六花",
+        "八木奈々",
+        "葵伊吹",
+        "水原みその",
+        "石川澪",
+        "水卜櫻",
+        "円井萌華",
+        "蘭華",
+        "琴音華",
+        "広瀬みつき",
+        "早見奈奈",
+        "雙葉胡桃",
+        "堀北わん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-446"
+    },
+    {
+      "id": 2205,
+      "IDcode": "BMW-343",
+      "title": "全員、キメセク。強化合宿中に媚薬を盛られた陸上選手たち。 被害映像240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "松本一香",
+        "末広純",
+        "雙葉胡桃",
+        "本田のえる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-343"
     }
   ]
 };

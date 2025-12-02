@@ -40,89 +40,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/c249eabc-a143-4617-ae23-9f6188f9810f.jpg",
     "https://picture.yoshiclub.xyz/20230210/7a547d7d-b832-4ff7-baf7-f3127c4c3c55.jpg"
   ],
-  "works_count": 5,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 88253,
-      "IDcode": "GANA-2750",
-      "title": "マジ軟派、初撮。 1827 浮気なんて一度もしたことのない真面目美人にAVの撮影交渉！謝礼に流され男優のテクと巨根に翻弄されまん汁ダラダラで喘ぎまくる！「優しいSEXより激しい方が好きかも…♪」",
+      "id": 491715,
+      "IDcode": "200GANA-2750",
+      "title": "【有码高清】 マジ软派、初撮。 1827 浮気なんて一度もしたことのない真面目",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2022-07-17",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "中野亚梨沙"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2750"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2750"
     },
     {
-      "id": 1911,
-      "IDcode": "SKYHD-100",
-      "title": "SKY ANGEL 100 中野亞里沙",
+      "id": 103565,
+      "IDcode": "SIRO-5183",
+      "title": "用男人来填补男人的伤口喜欢情境AV的丰满美女用应用程式获得一晚伴侣当我看到她在她最喜欢的睡袋里气喘吁吁时我无法抑制自己的兴奋初拍AV线上申请AV体验拍摄2076",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-10-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/9a98065c-00d1-4c9e-8a4c-472e09bae720.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "中野亚梨沙"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-100"
-    },
-    {
-      "id": 1791,
-      "IDcode": "SKYHD-113",
-      "title": "SKY ANGLE 113 三大超人氣SEX美乳美女齊上陣潮吹 ~ 上原保奈美, 中野亞里沙, 星咲優菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-09-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/245a80a0-3318-4187-b20d-edce4a013253.webp",
-      "actress": [
-        "星咲優菜",
-        "中野亚梨沙",
-        "上原保奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-113"
-    },
-    {
-      "id": 1925,
-      "IDcode": "SKYHD-088",
-      "title": "SKY ANGEL 88 黄金天使 ~ 中野亞里沙",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-11-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/10dab78e-cde5-4a8f-b4fc-1e9b6ca66a06.webp",
-      "actress": [
-        "中野亚梨沙"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-088"
-    },
-    {
-      "id": 1812,
-      "IDcode": "SKYHD-084",
-      "title": "SKY ANGEL 84 無毛美鮑大量潮吹 ~ 中野亞里沙",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-11-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/0b5b1460-0841-43d5-961e-fa63202f7814.webp",
-      "actress": [
-        "中野亚梨沙"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5183"
     }
   ]
 };

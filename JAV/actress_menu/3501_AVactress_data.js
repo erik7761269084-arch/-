@@ -4,7 +4,7 @@ window.actressData = {
   "name": "塩見剣人",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO TUBE",
-      "publish_date": "2025-06-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250618-1/926173a0f39093585df34c122e18891f.jpg",
       "actress": [
         "青沼",
         "塩見剣人"

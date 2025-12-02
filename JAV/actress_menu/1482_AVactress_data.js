@@ -32,20 +32,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1849,
-      "IDcode": "SMBD-130",
-      "title": "S Model 130 興奮的飢渴已婚女子：杉咲繪裡奈",
+      "id": 831,
+      "IDcode": "HEYZO-1032",
+      "title": "校內寫生射精素描 杉崎繪里奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-06-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/1136f07e-09be-4836-b882-889a4741aca8.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-12-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240529/1e5749bc-e5a9-4ab6-965b-c5a260e15937.jpg",
       "actress": [
         "杉崎絵里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1032"
     }
   ]
 };

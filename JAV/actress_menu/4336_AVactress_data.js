@@ -24,8 +24,47 @@ window.actressData = {
     "Ichinose Yuki"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 103365,
+      "IDcode": "HUNTA-036",
+      "title": "都會の女は超エロいっす！この夏一番暑い日！攜帯の電波",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-08-06",
+      "cover_url": "",
+      "actress": [
+        "川村真矢",
+        "高山えみり",
+        "リリィ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-036"
+    },
+    {
+      "id": 99312,
+      "IDcode": "BBAN-047",
+      "title": "妹の友達をノーパンとマンチラで誘惑するレズビアンお姉さん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-07-07",
+      "cover_url": "",
+      "actress": [
+        "神ユキ",
+        "篠田优",
+        "逢沢るる",
+        "高山えみり",
+        "夏目优希",
+        "须藤あいく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-047"
+    },
     {
       "id": 73055,
       "IDcode": "SVDVD-489",
@@ -33,10 +72,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Sadistic Village",
-      "publish_date": "2015-09-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/8aeb7332e752a16d15b056b0537756d6.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2d2053ebce083e5fde9372a5f9cd75be.jpg",
       "actress": [
         "早乙女ゆい",
         "大桥依织",

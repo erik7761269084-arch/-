@@ -4,7 +4,7 @@ window.actressData = {
   "name": "七海ひかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 107167,
       "IDcode": "HOKS-156",
-      "title": "おじちゃんたちが夢想するイケナイお遊び 性的いたずら",
+      "title": "玩艺性恶作剧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2023-08-15",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "七海ひかり"

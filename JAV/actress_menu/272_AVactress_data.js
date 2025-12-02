@@ -37,7 +37,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230413/0c4d230a-46f5-4c59-bef1-3a22aeb60135.jpg",
     "https://picture.yoshiclub.xyz/20230413/87feed9d-c29e-4c19-ad4e-1188ea0dac69.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 14798,
@@ -46,14 +46,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "",
       "publish_date": "2024-05-14",
       "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512054337942942.jpg",
       "actress": [
         "仙兒媛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RATW-011"
+    },
+    {
+      "id": 11257,
+      "IDcode": "WWMM-001",
+      "title": "『ヤリもく！！』台湾ローカルスポットで疑似ナンパ体験！？ Hでノリの良い台湾美女達とのハッピーSEXツアーガイド",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/bb92b4628b12fe5c0ef666ca0eadb6bc.jpg",
+      "actress": [
+        "仙兒媛",
+        "孟若羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WWMM-001"
     }
   ]
 };

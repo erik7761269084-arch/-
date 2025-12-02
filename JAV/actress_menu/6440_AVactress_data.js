@@ -4,7 +4,7 @@ window.actressData = {
   "name": "坂上友香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2003-12-15",
-      "cover_url": "https://tutu1.space/images/2024/02/12/c8ca954830ca0bade1a39c40e8f00d48.jpg",
+      "cover_url": "",
       "actress": [
         "坂上友香"
       ],

@@ -31,7 +31,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
       "publish_date": "2023-11-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231207-1/cf1f79a54eb5e5c873ce267ee3278be8.jpg",
@@ -53,13 +53,13 @@ window.actressData = {
     {
       "id": 82924,
       "IDcode": "XVSR-444",
-      "title": "ついに就職！？相変わらずだらしなくて可愛い彩乃ななとイチャイチャにゃんにゃん同棲性活",
+      "title": "同棲性活-彩乃なな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
-      "publish_date": "2019-01-25",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "彩乃奈奈"

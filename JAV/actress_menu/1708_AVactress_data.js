@@ -22,27 +22,61 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231120/312a5722-f781-4be8-87d9-42dcedb52431.jpg"
   ],
-  "works_count": 8,
+  "works_count": 9,
   "related_dramas": [
     {
-      "id": 13132,
-      "IDcode": "SDDE-730",
-      "title": "現已推廣至全國車站、機關、事業單位等！ 每月 2,980 日元，隨時享受無限量泡泡！ 成人便利保育沙龍 Chocobub！",
+      "id": 11779,
+      "IDcode": "AGMX-196",
+      "title": "屈辱性的自慰指示 ~ 有棲舞衣 新山ちなつ 朝野りる 愛寶鈴 音羽美鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240723/726d5c5e-0f04-44ac-bc00-4422fe5f7dc7.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-09-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20240922/9ff8a9c2-a4e0-498d-8fab-b41d4f8eaa3f.jpg",
       "actress": [
-        "白浜美羽",
-        "東雲はる",
-        "新山ちなつ",
-        "椎叶みくる",
-        "弥生美月"
+        "有栖舞衣",
+        "愛寶鈴",
+        "音羽美鈴",
+        "朝野りる",
+        "新山ちなつ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-730"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-196"
+    },
+    {
+      "id": 91581,
+      "IDcode": "EBOD-960",
+      "title": "肉便器-新山ちなつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829bda9ae3235deaa297838/cover.jpg",
+      "actress": [
+        "新山ちなつ",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-960"
+    },
+    {
+      "id": 91579,
+      "IDcode": "EBOD-956",
+      "title": "超级可爱的小姑娘-新山ちなつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/9e6dd42a9d4b32ee38bcbcfa295dab58.jpg",
+      "actress": [
+        "新山ちなつ",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-956"
     },
     {
       "id": 89981,
@@ -51,30 +85,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-09-15",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/c296912df972f35a520a816c2d254c7f.jpg",
       "actress": [
         "新山ちなつ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTU-005"
-    },
-    {
-      "id": 89060,
-      "IDcode": "VEC-605",
-      "title": "セックス覚えたてで性欲爆発中の息子の友達に延々イカされ続けた母 新山ちなつ （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2023-08-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231212-1/5bd67a485e902f0ec60027a53394d98f.jpg",
-      "actress": [
-        "新山ちなつ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-605"
     },
     {
       "id": 89661,
@@ -83,10 +101,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-06-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/4e15b7caf9d6be1d39b4ae81cfec4051.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a203eadb8c77d79bb694fd/cover.jpg",
       "actress": [
         "新山ちなつ",
         "富岡亞里沙",
@@ -96,49 +114,48 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-073"
     },
     {
+      "id": 89060,
+      "IDcode": "VEC-605",
+      "title": "儿子的朋友们性欲爆发中-新山千夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/01/683c36bd41a147ed1a3a71e2/cover.jpg",
+      "actress": [
+        "新山ちなつ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-605"
+    },
+    {
       "id": 87028,
       "IDcode": "PAIS-043",
       "title": "渋谷で有名な逆ナン爆乳痴女とアポ取り成功。スタッフを食い尽す想像以上のドスケベビッチでした。RIO（I-cup）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2023-05-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/464c49836c61b038d1e98d25338f1542.jpg",
       "actress": [
         "新山ちなつ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAIS-043"
     },
     {
-      "id": 91581,
-      "IDcode": "EBOD-960",
-      "title": "【FANZA限定】裸同然のド変態エロコスを嫌な顔せず着てくれる卑猥ムチムチHcupいいなり肉便器 新山ちなつ 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-03-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/1c7c5292d06830b8ed87096f5937af57.jpg",
-      "actress": [
-        "新山ちなつ",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-960"
-    },
-    {
       "id": 67161,
       "IDcode": "EBOD-957",
-      "title": "EBOD-957",
+      "title": "来自农村的善良女孩-新山ちなつ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2023-02-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/0272e5af0738c351831bf88bd743935e.jpg",
       "actress": [
         "新山ちなつ",
         "鲛岛"
@@ -146,21 +163,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-957"
     },
     {
-      "id": 91579,
-      "IDcode": "EBOD-956",
-      "title": "上京したての超優しいちょいギャルちゃんが脱いだらHカップ！ AVデビュー 新山ちなつ 生写真3枚付き",
+      "id": 13132,
+      "IDcode": "SDDE-730",
+      "title": "現已推廣至全國車站機關事業單位等每月2980日元隨時享受無限量泡泡成人便",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-01-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240516-1/09f9bae54f4a20cd2bd96f10b0af8189.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd6dae006939637678dad6/cover.jpg",
       "actress": [
+        "白浜美羽",
+        "東雲はる",
         "新山ちなつ",
-        "小田切ジュン"
+        "椎叶みくる",
+        "弥生美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-730"
     }
   ]
 };

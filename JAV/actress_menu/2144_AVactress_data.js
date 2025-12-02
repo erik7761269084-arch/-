@@ -53,19 +53,58 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250722/202507222159062828_60568_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250722/20250722215906655655_64351_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 18261,
-      "IDcode": "ABF-037",
-      "title": "鈴村愛理和素人粉丝兩人獨處的一天，徹底連賢者時間都不顧的8次射精。 超越極限的性慾榨取。",
+      "id": 135,
+      "IDcode": "HEYZO-0099",
+      "title": "教訓一下囂張的小騷妹 ~ 吉崎美帆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231020/5711f9da-420e-4c16-8cac-de6a8d0de274.jpg",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2012-08-31",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722214740212212_96461_thumbnail.webp",
+      "actress": [
+        "吉崎美帆"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0099"
+    },
+    {
+      "id": 98835,
+      "IDcode": "CRPD-364",
+      "title": "レズビアン集団痴漢バス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-09-19",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/crpd364/crpd364pl.jpg",
+      "actress": [
+        "吉崎美帆",
+        "京野七香",
+        "柳田やよい",
+        "风见渚",
+        "尾上ライナ",
+        "芹沢まゆら",
+        "早坂爱梨",
+        "成岛りゅう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRPD-364"
+    },
+    {
+      "id": 18261,
+      "IDcode": "ABF-037",
+      "title": "素人一泊二日8发射精-铃村爱理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/ab8a6efb741f2fbc903ff498d6235255.jpg",
       "actress": [
         "鈴村愛里",
         "村上涼子",

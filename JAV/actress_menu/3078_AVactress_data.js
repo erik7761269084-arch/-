@@ -4,7 +4,7 @@ window.actressData = {
   "name": "西山紗奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 59698,
       "IDcode": "JRZE-264",
-      "title": "- 初撮り人妻ドキュメント 西山紗奈 - JAV目錄大全javmenu.com",
+      "title": "初撮り人妻ドキュメント 西山紗奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/f21237bb/vod.jpg",
       "actress": [
         "西山紗奈"
       ],

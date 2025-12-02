@@ -55,8 +55,26 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250617/202506170841575050_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250617/20250617084158157157_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 98976,
+      "IDcode": "BBAN-036",
+      "title": "レズビアンに囚われた女潜入捜査官～地下キャットファイトクラブ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-04-07",
+      "cover_url": "",
+      "actress": [
+        "真木今日子",
+        "蓮実クレア",
+        "希咲エマ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-036"
+    },
     {
       "id": 101428,
       "IDcode": "DW-009",
@@ -64,7 +82,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2014-09-21",
       "cover_url": "",

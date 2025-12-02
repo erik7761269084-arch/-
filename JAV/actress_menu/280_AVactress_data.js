@@ -46,137 +46,325 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231003/32147505-c9e5-49dd-9d31-5c89e1de5432.jpg",
     "https://picture.yoshiclub.xyz/20231003/f5fc863e-c664-4794-ae71-a36257eb5a54.jpg"
   ],
-  "works_count": 12,
+  "works_count": 28,
   "related_dramas": [
     {
-      "id": 2461,
-      "IDcode": "CKCK-012",
-      "title": "我是夏的專屬玩具嗎？~ 日向夏",
+      "id": 15025,
+      "IDcode": "CAWD-647",
+      "title": "日向夏的屁股洞好吃嗎？小惡魔婊子炫耀她的肛門，讓她的屁股抽動並在菊花舔陰的痛苦中射精 ~ 日向夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-09-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250925/20250925032103428428_50871_thumbnail.webp",
-      "actress": [
-        "日向夏",
-        "トイボーイ相沢"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-012"
-    },
-    {
-      "id": 3999,
-      "IDcode": "CAWD-861",
-      "title": "爲我還債而被迫淪爲黑幫大佬的肉奴 女友被玩弄後竟沉迷AV拍攝 ~ 日向夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093948766766_79453_thumbnail.webp",
+      "publish_date": "2024-05-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503094239283283.jpg",
       "actress": [
         "日向夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-647"
     },
     {
-      "id": 4972,
-      "IDcode": "CAWD-854",
-      "title": "敢搶老娘的男人，復仇輪奸計劃狠狠幹翻小三 ~ 日向夏",
+      "id": 16476,
+      "IDcode": "CAWD-605",
+      "title": "顏射淫蕩母狗多汁制服蕩婦日向夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031333937937_thumbnail.webp",
+      "publish_date": "2024-02-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240204/20240204040100150150.jpg",
       "actress": [
-        "日向夏",
-        "大村"
+        "日向夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-605"
     },
     {
-      "id": 5679,
-      "IDcode": "CAWD-846",
-      "title": "別叫我廢柴，小賤貨！繼父用巨根把你這小穴狠狠調教，讓你知道誰才是老大 ~ 日向夏",
+      "id": 18484,
+      "IDcode": "CAWD-566",
+      "title": "強暴睡夢中的女學生 讓她絕頂高潮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171529192192_thumbnail.webp",
+      "publish_date": "2023-10-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002221346770770.jpg",
       "actress": [
-        "日向夏",
-        "田渊正浩"
+        "日向夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-846"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-566"
     },
     {
-      "id": 6449,
-      "IDcode": "CAWD-818",
-      "title": "女用風俗狂熱愛好者潛入體驗！常客獨家玩法大公開 本番NG卻忍不住瘋狂開幹 私密偷拍×自拍映像 ~ 日向夏",
+      "id": 84147,
+      "IDcode": "CAWD-368",
+      "title": "巨漢教師-日向なつ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043411279279_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "日向夏",
-        "青木りょう"
+        "日向夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-818"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-368"
     },
     {
-      "id": 7208,
-      "IDcode": "CAWD-809",
-      "title": "班長被白濁玷污～制服美少女變態妄想精液恍惚～濃稠黏稠大量精液狂野羣交顏射59發 ~ 日向夏",
+      "id": 67602,
+      "IDcode": "CAWD-441",
+      "title": "邻家制服妹误入大叔房 日向なつ毫无防备的诱惑让人血脉贲张-日向なつ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081419331331.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/eece71608f048a942ec3eebebea22ea5.jpg",
       "actress": [
-        "日向夏",
-        "ひょたん"
+        "日向夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-809"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-441"
     },
     {
-      "id": 7865,
-      "IDcode": "CAWD-800",
-      "title": "「日向夏，你是我的知道嗎！」爲安全選擇了和男生合租 自戀室友卻把我當成了他的女友來控制 趕走後他怒闖復仇強暴 ~ 日向夏",
+      "id": 18022,
+      "IDcode": "CAWD-583",
+      "title": "和小恶魔新入社员-日向夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071913334334.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231105/2389c46d-c374-45aa-b3b9-89bff45f12d1.jpg",
       "actress": [
         "日向夏",
-        "ニック"
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-800"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-583"
+    },
+    {
+      "id": 16965,
+      "IDcode": "CAWD-622",
+      "title": "处男的臭味-日向夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e8c39279f1ac4ec49bfd32/cover.jpg",
+      "actress": [
+        "日向夏",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-622"
+    },
+    {
+      "id": 15996,
+      "IDcode": "CAWD-629",
+      "title": "和回老家的姐姐商量处男毕业的事之后",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301093227397397.jpg",
+      "actress": [
+        "日向夏",
+        "まーち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-629"
+    },
+    {
+      "id": 15777,
+      "IDcode": "CAWD-640",
+      "title": "长得超像某个人气萝莉偶像-日向夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bdd62a47ebb1a8b4bfc3/cover.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-640"
+    },
+    {
+      "id": 14318,
+      "IDcode": "CAWD-657",
+      "title": "三年來再次與沉迷於性的蘿莉炮友重逢，她一如既往的年輕，仍然有變態的性習慣，我的興奮又被點燃了……日向夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcb98ece5a404e9bc35455/cover.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-657"
+    },
+    {
+      "id": 12980,
+      "IDcode": "CAWD-707",
+      "title": "内向图书委员的性爱浸渍-日向夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802001724406406.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-707"
+    },
+    {
+      "id": 12975,
+      "IDcode": "CAWD-701",
+      "title": "AV界最美制服10人大亂交！拔出陰莖享受青春！3團體對抗修學旅行！VOL 1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a93ee4a73d4f159aaee4/cover.jpg",
+      "actress": [
+        "天馬唯",
+        "柏木小夏",
+        "沙月惠奈",
+        "望月蕾",
+        "沙月芽衣",
+        "小野寺舞",
+        "日向夏",
+        "設樂夕日",
+        "觀月愛菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-701"
+    },
+    {
+      "id": 12974,
+      "IDcode": "CAWD-702",
+      "title": "AV界最美制服10人大亂交！拔出陰莖享受青春！3團體對抗修學旅行！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a711e4a73d4f159aa8fb/cover.jpg",
+      "actress": [
+        "天馬唯",
+        "柏木小夏",
+        "沙月惠奈",
+        "望月蕾",
+        "沙月芽衣",
+        "小野寺舞",
+        "日向夏",
+        "觀月愛菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-702"
+    },
+    {
+      "id": 12257,
+      "IDcode": "CAWD-722",
+      "title": "外表看上去很正经的日向前辈-日向夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830000834654654.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-722"
+    },
+    {
+      "id": 11659,
+      "IDcode": "CAWD-731",
+      "title": "「俺のチ●ポ舐めさせてやるよ」テク不足で彼氏に戦力外通告された幼馴染の練習台に…フェラビッチに育つまで口マ●コに中出しし放題で俺得なんですが？ 日向なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240926/202409260903381717.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-731"
+    },
+    {
+      "id": 10903,
+      "IDcode": "CAWD-735",
+      "title": "可愛い子にモノみたいに雑に扱われたい…見下されながら賢者タイム無視してドシャクソ抜かれまくる 日向なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031083216562562.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-735"
+    },
+    {
+      "id": 10317,
+      "IDcode": "CAWD-744",
+      "title": "SEXガチ勢‘日向なつ’のいっちばんエロいプライベートSEXを覗く1ヶ月禁欲×相性抜群男優と1週間同棲×生々しいハメ撮りドキュメント",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128095010424424.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-744"
+    },
+    {
+      "id": 9432,
+      "IDcode": "CAWD-763",
+      "title": "比全裸更丢脸的青少年泳装模特-日向なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678791fd8daf6b1db43c2d51/cover.jpg",
+      "actress": [
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-763"
     },
     {
       "id": 8686,
       "IDcode": "CAWD-804",
-      "title": "2年經驗的化妝師 牧野憐奈 20歲 第2章 現役女優們必須遵守的無理指令讓她們絕對高潮！！全身開發特輯 Special ~ 牧野憐奈 川上しずく 望月蕾 日向夏",
+      "title": "ヘアメイク歴2年目 牧野怜奈 20歳 第2章 現役女優たちからの絶頂イクイク無茶ぶり指令！！全身開発アクメspecial",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080430541541.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec25d152c12b4e6846ed89/cover.jpg",
       "actress": [
         "望月蕾",
         "日向夏",
@@ -188,68 +376,153 @@ window.actressData = {
     {
       "id": 8668,
       "IDcode": "CAWD-781",
-      "title": "噪音騷擾狂暴強奸。隔壁惡心的肥宅男一直在看AV，聲音很大。當我敲了他的門後... 連續3日3夜不間斷的騎在我身上操我 ~ 日向夏",
+      "title": "騒音トラブル逆上レ×プ 大音量でAVを垂れ流す隣部屋のデブオヤジに騒音に紛れ三日三晩犯●れ馬乗り種付けプレスされ続けた私… 日向なつ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080308303303.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8e8b8cf22ae3e04db547e/cover.jpg",
       "actress": [
         "日向夏"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-781"
     },
     {
-      "id": 9432,
-      "IDcode": "CAWD-763",
-      "title": "已經23歲了卻還要被逼去當女童泳裝模特，比裸體還尷尬，因爲我長着一張娃娃臉…… ~ 日向夏",
+      "id": 7902,
+      "IDcode": "SSPD-176",
+      "title": "大親友と夢の初共演＆日向なつ緊縛解禁。 縛られた媚肉の団地妻",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "五芭",
+        "日向夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-176"
+    },
+    {
+      "id": 7865,
+      "IDcode": "CAWD-800",
+      "title": "「なつは俺の所有物なんだよ？」防犯対策で男女共同シェアハウスに入居したのに...イタい勘違い同居人が彼氏面してきて束縛ストーカー化…強●退去させたら大逆上して合鍵侵入報復レ●プ 日向なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102075902404404.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c6d56ecf22ae3e041b820d/cover.jpg",
+      "actress": [
+        "日向夏",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-800"
+    },
+    {
+      "id": 7208,
+      "IDcode": "CAWD-809",
+      "title": "大量精液浓厚黏糊糊的射到脸上-日向夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/05/67f087c14e7d663df483516d/cover.jpg",
+      "actress": [
+        "日向夏",
+        "ひょたん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-809"
+    },
+    {
+      "id": 6449,
+      "IDcode": "CAWD-818",
+      "title": "深爱女性专用风俗的日向夏潜入",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043411279279_thumbnail.webp",
+      "actress": [
+        "日向夏",
+        "青木りょう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-818"
+    },
+    {
+      "id": 5679,
+      "IDcode": "CAWD-846",
+      "title": "「ざぁ～こ」じゃねぇよ、ナメ腐ったメスガキが！お義父さんの巨根で雑魚マンずぼずぼ調教して立場分からせてあげようね ひなたなつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171529192192_thumbnail.webp",
+      "actress": [
+        "日向夏",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-846"
+    },
+    {
+      "id": 4972,
+      "IDcode": "CAWD-854",
+      "title": "私の旦那と不倫したムスメを、本格的に犯します。本格的に踏みつけます。本格的に殴りセックスします。本格的に孕ませます。本格的に肉体壊します。【本格的に恐怖なリベンジ猥褻映像】 ひなたなつbatch",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031333937937_thumbnail.webp",
+      "actress": [
+        "日向夏",
+        "大村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-854"
+    },
+    {
+      "id": 3999,
+      "IDcode": "CAWD-861",
+      "title": "因欠巨额高利贷只能出卖肉身给债主当性奴隶供其玩弄-日向なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093948766766_79453_thumbnail.webp",
       "actress": [
         "日向夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-763"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-861"
     },
     {
-      "id": 16965,
-      "IDcode": "CAWD-622",
-      "title": "「童貞的味道很危險！我離家出走了。」我被臭妹妹的搞的煩死了，青春期警報不停地響着，我一次又一次地和妹妹做愛亂倫",
+      "id": 2461,
+      "IDcode": "CKCK-012",
+      "title": "寂しくなると都合良くカラダを求めてきた友達以上、恋人未満だった君とすべてを犠牲にしてまで、けものがった一生消えることのない青春タトゥー ひなたなつ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102044005135135.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daf617d6fbef4e90d2259f/cover.jpg",
       "actress": [
         "日向夏",
-        "Qべぇ"
+        "トイボーイ相沢"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-622"
-    },
-    {
-      "id": 18022,
-      "IDcode": "CAWD-583",
-      "title": "柔弱溫馴的日向なつ每次喝醉的時候就會以騎乘式的姿勢跨坐在我身上",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231105/2389c46d-c374-45aa-b3b9-89bff45f12d1.jpg",
-      "actress": [
-        "日向夏",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-583"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-012"
     }
   ]
 };

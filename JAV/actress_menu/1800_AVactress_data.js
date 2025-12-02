@@ -33,7 +33,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240324/84c41467-caf0-43c3-be43-d8ded1108eba.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 15897,
@@ -42,14 +42,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2024-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323065402449449.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/f4e38075abd57a8b0d21aecdb3336e1a.jpg",
       "actress": [
         "真白さら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-436"
+    },
+    {
+      "id": 11530,
+      "IDcode": "RKI-689",
+      "title": "看不起大人的美少女們",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/ceacd6ac3c91019fe87ece43ffbddb5a.jpg",
+      "actress": [
+        "北岡果林",
+        "真白さら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-689"
     }
   ]
 };

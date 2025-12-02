@@ -4,7 +4,7 @@ window.actressData = {
   "name": "夏海葵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 69032,
       "IDcode": "SDMU-004",
-      "title": "処女喪失 夏海葵",
+      "title": "処女喪失-夏海葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2013-10-10",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250402-1/82a78a57416858f90663b45e4afb6477.jpg",
       "actress": [
         "夏海葵"
       ],

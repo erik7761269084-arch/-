@@ -39,13 +39,13 @@ window.actressData = {
     {
       "id": 19088,
       "IDcode": "IPX-361",
-      "title": "出道 琴宮里緒菜 下流的真正價值！這就是天然的性愛天才！",
+      "title": "天生淫荡-琴宮リオナ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2019-08-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721215533235235.jpg",
       "actress": [
         "琴宮リオナ",

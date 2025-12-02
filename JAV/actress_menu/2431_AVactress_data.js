@@ -48,72 +48,271 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230407/da1b25a5-f11c-48b6-8a29-1f89233a50cb.jpg",
     "https://picture.yoshiclub.xyz/20230407/c07911b9-9939-4963-8900-52643fe7fdba.jpg"
   ],
-  "works_count": 12,
+  "works_count": 30,
   "related_dramas": [
     {
-      "id": 35603,
-      "IDcode": "IPZ-215",
-      "title": "和女友的姐姐无法告诉别人的关系-希志爱野 友田彩也香",
+      "id": 107502,
+      "IDcode": "IPTD-705",
+      "title": "帮助你自慰-希志あいの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-06-17",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/331adba7/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "友田彩也香",
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-705"
+    },
+    {
+      "id": 105479,
+      "IDcode": "IPTD-626",
+      "title": "美女家庭教师 希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-626"
+    },
+    {
+      "id": 105478,
+      "IDcode": "IPTD-971",
+      "title": "突袭AV女优瞬间出现插入-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-971"
+    },
+    {
+      "id": 105476,
+      "IDcode": "IPZ-009",
+      "title": "自宅性爱 希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240413-1/5e0c0e2d91f8cb18fc8c1c7c19adf260.jpg",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-009"
+    },
+    {
+      "id": 105384,
+      "IDcode": "IPTD-799",
+      "title": "希志家的三胞胎姐妹花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-799"
+    },
+    {
+      "id": 105382,
+      "IDcode": "IPZ-025",
+      "title": "用身体施展美人计的极品美女-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240415-1/1d39838ee4b85c5dc22641fc89e106c6.jpg",
+      "actress": [
+        "希志爱野",
+        "小田切ジュン",
+        "しみけん",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-025"
+    },
+    {
+      "id": 105371,
+      "IDcode": "IPTD-722",
+      "title": "学生会长是女仆-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-722"
+    },
+    {
+      "id": 105270,
+      "IDcode": "IPZ-296",
+      "title": "偷偷摸摸到野外打炮-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/04/26/1575942065642fe0cdbea0d642eb239a.jpg",
+      "actress": [
         "希志爱野",
         "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-296"
     },
     {
-      "id": 77349,
-      "IDcode": "IPZ-650",
-      "title": "【希志愛野引退前最後一片】肏翻能幹女上司！",
+      "id": 105262,
+      "IDcode": "IPTD-858",
+      "title": "不会拒绝的被动女-希志爱野",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-11-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241122-1/f129034f2d082e3054df2a59f0ef1106.jpg",
-      "actress": [
-        "希志爱野",
-        "南佳也",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-650"
-    },
-    {
-      "id": 104366,
-      "IDcode": "IPZ-594",
-      "title": "噂のエレベーターガールの昇天（上）への誘い 希志あいの",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-07-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "希志爱野",
+        "小田切ジュン",
+        "南佳也",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-858"
+    },
+    {
+      "id": 105241,
+      "IDcode": "IPTD-888",
+      "title": "成人限定幼儿园可爱的美女教师-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野",
+        "小田切ジュン",
+        "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-594"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-888"
+    },
+    {
+      "id": 105235,
+      "IDcode": "IPZ-043",
+      "title": "和最爱的异地恋的女友久别重逢-希志あいの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240502-1/aff25fe1faef5efcec53bfadc13685b1.jpg",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-043"
+    },
+    {
+      "id": 105216,
+      "IDcode": "IPZ-236",
+      "title": "不停高潮-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240505-1/a7611ea4c1972907fc201b0bcd6eb65e.jpg",
+      "actress": [
+        "希志爱野",
+        "田渊正浩",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-236"
+    },
+    {
+      "id": 105191,
+      "IDcode": "IPZ-501",
+      "title": "瞒着老公和情人去温泉旅行疯狂做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240505-1/404257e3812db95e6af71a637ac44084.jpg",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-501"
+    },
+    {
+      "id": 105177,
+      "IDcode": "SOE-540",
+      "title": "在丈夫面前被侵犯的人妻-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-540"
+    },
+    {
+      "id": 105083,
+      "IDcode": "IPZ-358",
+      "title": "我的专属女仆-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240521-1/d52dbdc5da32523a23a81fd7259e18b9.jpg",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-358"
     },
     {
       "id": 104954,
       "IDcode": "IPZ-580",
-      "title": "曇花一現女捜査官 希志愛野",
+      "title": "为了破案不惜出卖色相-希志あいの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-06-19",
-      "cover_url": "https://tutu1.space/images/2024/05/30/f32832645157b4d2209014570c57df5a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240601-1/a426cd9df346c0b365d8d9f8e8d08fae.jpg",
       "actress": [
         "希志爱野",
         "森林原人",
@@ -123,32 +322,82 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-580"
     },
     {
-      "id": 105083,
-      "IDcode": "IPZ-358",
-      "title": "我的專用家政婦 希志愛野",
+      "id": 104737,
+      "IDcode": "IPTD-935",
+      "title": "双重人格的身体里同时住着天使和恶魔",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-04-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-935"
+    },
+    {
+      "id": 104366,
+      "IDcode": "IPZ-594",
+      "title": "公司内部的传说超美的电梯小姐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/e80329f393ddc1e518878647eb84bee3.jpg",
+      "actress": [
+        "希志爱野",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-594"
+    },
+    {
+      "id": 101826,
+      "IDcode": "SOE-507",
+      "title": "住在我楼上的好色美女大姐姐-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/soe507/soe507pl.jpg",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-507"
+    },
+    {
+      "id": 101825,
+      "IDcode": "SOE-472",
+      "title": "各种角色扮演都能用骑乘位榨出精液",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "希志爱野"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-472"
     },
     {
       "id": 101794,
       "IDcode": "IPZ-264",
-      "title": "食べ歩き！？ No No！ヤリ歩きSEX 希志あいの",
+      "title": "露出特殊企划在公共场合人前性交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-12-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240427-1/c3ac3a68b13ba440c0b1e25628448c7b.jpg",
       "actress": [
         "希志爱野",
         "大岛丈",
@@ -157,67 +406,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-264"
     },
     {
-      "id": 105216,
-      "IDcode": "IPZ-236",
-      "title": "快感スパイラル あいのをイカせてイカせてイカせまくり！ 希志あいの",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-11-19",
-      "cover_url": "",
-      "actress": [
-        "希志爱野",
-        "田渊正浩",
-        "しみけん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-236"
-    },
-    {
-      "id": 19593,
-      "IDcode": "IPZ-127",
-      "title": "我和Rio與小愛的超甜蜜同居性生活 Rio 希志愛野",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-06-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/58cb98f1-bc1c-4892-a586-446c0e23c0d3.jpg",
-      "actress": [
-        "柚木緹娜",
-        "希志爱野",
-        "柚木蒂娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-127"
-    },
-    {
-      "id": 105235,
-      "IDcode": "IPZ-043",
-      "title": "和希志愛野的擬真約會",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-02-19",
-      "cover_url": "https://tutu1.space/images/2024/04/29/e47a965f27a7c37074ad2a38ac9a17c9.jpg",
-      "actress": [
-        "希志爱野"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-043"
-    },
-    {
       "id": 101751,
       "IDcode": "SOE-571",
-      "title": "ものすごい顔射 希志あいの",
+      "title": "顔射 希志あいの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2011-04-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "希志爱野"
@@ -225,36 +422,140 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-571"
     },
     {
-      "id": 107502,
-      "IDcode": "IPTD-705",
-      "title": "ゴージャスオナニーサポート アナタのオナニーをお手伝いします 希志あいの",
+      "id": 99969,
+      "IDcode": "IPZ-485",
+      "title": "被侵犯的图书管理员-希志あいの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2011-03-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240512-1/b8bce1b4e47e8cfaf1fa09b2120ee861.jpg",
       "actress": [
         "希志爱野"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-705"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-485"
     },
     {
-      "id": 101825,
-      "IDcode": "SOE-472",
-      "title": "希志愛野的騎乘位特別版",
+      "id": 99737,
+      "IDcode": "IPTD-779",
+      "title": "在男朋友面前被侵犯轮奸的美女-希志爱野",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2010-10-07",
-      "cover_url": "https://tutu1.space/images/2023/02/17/fa73d56f48c7d7cf194c9e746034b563.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志爱野",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-779"
+    },
+    {
+      "id": 97770,
+      "IDcode": "IPZ-092",
+      "title": "被侵犯的超美女教师-希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/ef0b013100f70ef84643af0b9653254e.jpg",
+      "actress": [
+        "希志爱野",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-092"
+    },
+    {
+      "id": 82568,
+      "IDcode": "IPTD-902",
+      "title": "在丈夫面前被侵犯的希志爱野",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6784d77bc179ffb1db85278c/cover.jpg",
       "actress": [
         "希志爱野"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-472"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-902"
+    },
+    {
+      "id": 77349,
+      "IDcode": "IPZ-650",
+      "title": "敏腕オンナ上司を犯ル-希志あいの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c2c861b9c504ea03b2b26025cfd8351f.jpg",
+      "actress": [
+        "希志爱野",
+        "南佳也",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-650"
+    },
+    {
+      "id": 74303,
+      "IDcode": "IPZ-522",
+      "title": "被监禁侵犯的空姐-希志あいの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250111-1/c3c6e67c62133315212dc02a208243fc.jpg",
+      "actress": [
+        "希志爱野"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-522"
+    },
+    {
+      "id": 35603,
+      "IDcode": "IPZ-215",
+      "title": "和女友的姐姐无法告诉别人的关系-希志爱野 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/331adba7/vod.jpg",
+      "actress": [
+        "友田彩也香",
+        "希志爱野",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-215"
+    },
+    {
+      "id": 19593,
+      "IDcode": "IPZ-127",
+      "title": "与RIO和希志爱野的幸福同居生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/40d9283352edc4c9f53e511f10a39aa4.jpg",
+      "actress": [
+        "柚木緹娜",
+        "希志爱野",
+        "柚木蒂娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-127"
     }
   ]
 };

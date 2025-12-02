@@ -28,36 +28,51 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231009/12a42768-494f-465a-a231-77635e78eeda.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 17903,
-      "IDcode": "IPIT-045",
-      "title": "兼職的性感美女，在討厭的經理的脅迫下，穿上下流的齊逼小短裙",
+      "id": 18412,
+      "IDcode": "IPIT-043",
+      "title": "逸材発掘 新人女優「彩乃せいら」令人興奮的第一場超激烈性愛 從早到晚根本停不下來",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111071732275275.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-10-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20231008/202310082201023737.jpg",
+      "actress": [
+        "彩乃聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-043"
+    },
+    {
+      "id": 107345,
+      "IDcode": "IPIT-038",
+      "title": "漂亮到不行的神秘美女-彩乃聖羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "彩乃聖羅",
-        "小田切ジュン",
-        "七尾神×"
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-038"
     },
     {
       "id": 107002,
       "IDcode": "IPIT-040",
-      "title": "「こんなの初めて…」初快感尽くしでぶっ飛び大潮！！《Gスポット追撃Sex》 逸材発掘プロジェクト 噴きすぎ！イキ過ぎ！逸材美女。 彩乃せいら",
+      "title": "G点追击SEX-彩乃星罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-09-12",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "彩乃聖羅",
@@ -66,21 +81,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-040"
     },
     {
-      "id": 107345,
-      "IDcode": "IPIT-038",
-      "title": "The美女- 美人過ぎる謎の逸材美女AVデビュー 4 SEX 210分SPECIAL 彩乃せいら 生写真3枚付き",
+      "id": 17903,
+      "IDcode": "IPIT-045",
+      "title": "打工地點的性感美女因為超厭惡的店長指示穿上超短的迷你短裙 被欺負插入快樂墮落 彩乃星羅",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-08-09",
-      "cover_url": "https://tutu1.space/images/2023/09/16/cb2f2a23d99d4cb7804ea43b31685da6.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa708ac813dc779d963af/cover.jpg",
       "actress": [
         "彩乃聖羅",
-        "小田切ジュン"
+        "小田切ジュン",
+        "七尾神×"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-045"
     }
   ]
 };

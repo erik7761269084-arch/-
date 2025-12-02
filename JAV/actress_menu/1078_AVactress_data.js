@@ -33,8 +33,145 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240124/e51bdf64-e0c3-4ab7-b0f3-f4bb3b797493.jpg"
   ],
-  "works_count": 10,
+  "works_count": 13,
   "related_dramas": [
+    {
+      "id": 13146,
+      "IDcode": "AARM-242",
+      "title": "想要姐姐色色的大屁股壓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "2024-07-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240722/06f1113d-0628-4856-abdb-7ea93990007e.jpg",
+      "actress": [
+        "岬櫻",
+        "豊岡さつき",
+        "弘中優",
+        "百咲未色",
+        "宗像れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-242"
+    },
+    {
+      "id": 93579,
+      "IDcode": "NSM-057",
+      "title": "媚薬オイルマッサージ 痴●盗撮＆中出し素人娘VOL.57 超強力媚薬を配合したマッサージオイルを施術中に知らずに塗りこまれたオンナは、身体の火照りに驚き、チ〇ポを欲しがる自分に戸惑い、垂れ出したマン汁に恥ずかしがりながらも生ハメ中出しまで欲してしまう！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-06-27",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241013-1/b7022210c6c61323d865997b32b58b56.jpg",
+      "actress": [
+        "希咲那奈",
+        "春原未来",
+        "宗像れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-057"
+    },
+    {
+      "id": 16631,
+      "IDcode": "MOOR-009",
+      "title": "一個被關在籠子裏的蕩婦，一個沮喪的女人被玩弄，宗像玲奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-01-30",
+      "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123071953737737.jpg",
+      "actress": [
+        "宗像れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-009"
+    },
+    {
+      "id": 101217,
+      "IDcode": "HOKS-173",
+      "title": "欠债人妻-被老公知道的话一切都破灭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "宗像れな",
+        "汐河佳奈",
+        "汐見唯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-173"
+    },
+    {
+      "id": 101085,
+      "IDcode": "AARM-207",
+      "title": "敏感的臀部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/56a5c173232366a1dba62a12a94a659a.jpg",
+      "actress": [
+        "宗像れな",
+        "优梨まいな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-207"
+    },
+    {
+      "id": 91362,
+      "IDcode": "CHUC-043",
+      "title": "元読者モデルの25歳ドMアパレル店員 れな 宗像れな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/f082f784331a0506ed6ff263bfacb22a.jpg",
+      "actress": [
+        "宗像れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-043"
+    },
+    {
+      "id": 90402,
+      "IDcode": "PKPL-033",
+      "title": "素人セフレドキュメント 高身長170cmのハイブランドアパレル店員25歳れな 宗像れな （ブルーレイディスク） （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/973206b40fd16fcc8ea4e9aecb3da33a.jpg",
+      "actress": [
+        "宗像れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPL-033"
+    },
+    {
+      "id": 89121,
+      "IDcode": "VENX-237",
+      "title": "被突然到家里来的小姨子-宗像怜奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240617-1/4cc9f5b426284fbdcf7ec50a5a10cf29.jpg",
+      "actress": [
+        "宗像れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-237"
+    },
     {
       "id": 62667,
       "IDcode": "AARM-304",
@@ -42,10 +179,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/images/2025/07/19/258942bf40655f6be1ecc1c2858522e4.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/7d04fdd4604d93ba3cadda1a06d4458a.jpg",
       "actress": [
         "黒木奈美",
         "宗像れな",
@@ -61,10 +198,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/ddc9eff3658f76e73b2066f27ec60a04.jpg",
       "actress": [
         "瀬那瑠美奈",
         "安野由美",
@@ -75,52 +212,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
     },
     {
-      "id": 5863,
-      "IDcode": "JUR-314",
-      "title": "時間暫停神卡：遲到王的逆襲，把嚴厲女上司玩弄於股掌之間 ~ 愛弓涼 宗像れな 乃木ちはる 須崎美羽",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075752355355_thumbnail.webp",
-      "actress": [
-        "愛弓涼",
-        "乃木ちはる",
-        "須崎美羽",
-        "宗像れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-314"
-    },
-    {
-      "id": 93579,
-      "IDcode": "NSM-057",
-      "title": "媚薬オイルマッサージ 痴●盗撮＆中出し素人娘VOL.57 超強力媚薬を配合したマッサージオイルを施術中に知らずに塗りこまれたオンナは、身体の火照りに驚き、チ〇ポを欲しがる自分に戸惑い、垂れ出したマン汁に恥ずかしがりながらも生ハメ中出しまで欲してしまう！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-06-27",
-      "cover_url": "",
-      "actress": [
-        "希咲那奈",
-        "春原未来",
-        "宗像れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-057"
-    },
-    {
       "id": 13730,
       "IDcode": "NSFS-293",
-      "title": "在我妻子不在的三天裏，我和來照顧我們孩子的妻子的姐姐發生了很多次性行爲。 宗像れな",
+      "title": "妻子不在的三天-宗像玲奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2024-06-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240624/be503a69-6374-467a-b721-f72fe9066af1.jpg",
       "actress": [
         "宗像れな"
@@ -128,87 +228,49 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-293"
     },
     {
-      "id": 101217,
-      "IDcode": "HOKS-173",
-      "title": "借金妻 旦那にバレたら身の破滅",
+      "id": 5863,
+      "IDcode": "JUR-314",
+      "title": "报复对我严厉的迟到克星女上司的恶魔卡片-爱弓凉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FAプロ",
-      "publish_date": "2024-01-16",
-      "cover_url": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075752355355_thumbnail.webp",
       "actress": [
+        "愛弓涼",
+        "乃木ちはる",
+        "須崎美羽",
         "宗像れな",
-        "汐河佳奈",
-        "汐見唯"
+        "爱弓凉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-173"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-314"
     },
     {
-      "id": 101085,
-      "IDcode": "AARM-207",
-      "title": "フルバックパンティの敏感すぎる着衣尻やマ○コのワレメにチ○ポを擦りつけて射精する",
+      "id": 3156,
+      "IDcode": "MIRD-260",
+      "title": "天月あず 椿りか 一色さら 柏木こなつ 安堂はるの 伊織ひなの 乃木ちはる 宮ノ木しゅんか 宗像れな 岸永みりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-12-19",
-      "cover_url": "https://tutu1.space/images/2024/01/12/a8f810018e5f0707ae933f660322a22f.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/11/22015878f4d602f716f803aae78d0c23.jpg",
       "actress": [
+        "柏木小夏",
+        "椿莉香",
+        "天月梓",
+        "伊織雛乃",
+        "一色さら",
+        "安堂はるの",
+        "乃木ちはる",
+        "宮ノ木しゅんか",
         "宗像れな",
-        "优梨まいな"
+        "岸永みりな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-207"
-    },
-    {
-      "id": 89121,
-      "IDcode": "VENX-237",
-      "title": "突然押しかけてきた嫁の姉さんに抜かれっぱなしの1泊2日 宗像れな （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2023-10-10",
-      "cover_url": "",
-      "actress": [
-        "宗像れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-237"
-    },
-    {
-      "id": 90402,
-      "IDcode": "PKPL-033",
-      "title": "素人セフレドキュメント 高身長170cmのハイブランドアパレル店員25歳れな 宗像れな （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-09-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240118-1/b314a5706897c6c343059460d40c0b6d.jpg",
-      "actress": [
-        "宗像れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPL-033"
-    },
-    {
-      "id": 91362,
-      "IDcode": "CHUC-043",
-      "title": "元読者モデルの25歳ドMアパレル店員 れな 宗像れな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-08-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240430-1/9bfaac7d4e490842579de8e1965a4e3e.jpg",
-      "actress": [
-        "宗像れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-260"
     }
   ]
 };

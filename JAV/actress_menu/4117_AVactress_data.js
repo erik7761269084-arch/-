@@ -4,7 +4,7 @@ window.actressData = {
   "name": "谷花纱耶",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,33 +19,16 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 71117,
-      "IDcode": "NTR-021",
-      "title": "快來輪姦我老婆 森川涼花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-06-24",
-      "cover_url": "",
-      "actress": [
-        "森川凉花",
-        "谷花纱耶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-021"
-    },
-    {
       "id": 81398,
       "IDcode": "ARA-432",
-      "title": "【実はスケベ美女】32歳【女盛り過ぎる】さやさん参上！結婚3年目の彼女の応募理由は『他の男性に抱かれてみたくて…』【エッチな人妻】『ちょっぴりエスカレートしたいなぁ～♪』夫婦関係を拗らせAV出演！結婚後、初めて他人とSEXする美人妻は感度が高まり過ぎて【絶頂の嵐】何度も繰り返す【大量潮吹き】エスカレートし過ぎたスケベ妻のSEX見逃すな！",
+      "title": "結婚3年目",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-03-31",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/10/28/bc52a7e7e65cc7ce14e02b11f59dc7d4.jpg",
       "actress": [
         "谷花纱耶"
       ],
@@ -54,19 +37,37 @@ window.actressData = {
     {
       "id": 78958,
       "IDcode": "JUL-073",
-      "title": "- 某有名ドラマ出演―。元子役タレントの人妻 谷花紗耶32歳 AV Debut！！ - JAV目錄大全javmenu.com",
+      "title": "电视剧的美女人妻-谷花紗耶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/d7ef62fe706e2cd21c56693ba6b06095.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/428fde0b3c4fdf9a83b1a4d0b61e5e0e.jpg",
       "actress": [
+        "伊澄知世",
         "しみけん",
         "谷花纱耶"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-073"
+    },
+    {
+      "id": 71117,
+      "IDcode": "NTR-021",
+      "title": "劲爆禁忌夫妻NTR篇",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "森川凉花",
+        "谷花纱耶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-021"
     }
   ]
 };

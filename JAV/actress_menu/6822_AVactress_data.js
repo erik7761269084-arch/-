@@ -4,7 +4,7 @@ window.actressData = {
   "name": "鮫島.",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,15 +19,15 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 106783,
+      "id": 572456,
       "IDcode": "STARS-735",
-      "title": "3年目で初出勤!無制限発射OKで連続ナマ中出しさせてくれる完全会員制ソープ 夏目響",
+      "title": "3年目で初出勤无制限発射OKで连続ナマ中出しさせてくれる完全会员制ソー… new",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-01-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "小田切ジュン",

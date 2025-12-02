@@ -4,7 +4,7 @@ window.actressData = {
   "name": "松田优",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 79266,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-07-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/0237607d368de6cf3b4ffceacc11616c.jpg",
       "actress": [
@@ -34,6 +34,23 @@ window.actressData = {
         "松田优"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-044"
+    },
+    {
+      "id": 519697,
+      "IDcode": "259LUXU-1356",
+      "title": "【有码】、冈山亜美28歳家庭科教员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2020-12-30",
+      "cover_url": "",
+      "actress": [
+        "森林原人",
+        "松田优"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1356"
     }
   ]
 };

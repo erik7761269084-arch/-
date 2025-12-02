@@ -4,7 +4,7 @@ window.actressData = {
   "name": "佐東さな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 60223,
       "IDcode": "AIAV-031",
-      "title": "【AI同人】彼女の代わりに何でも叶えてくれる従順巨乳メイド【3.1次元】 佐東さな",
+      "title": "彼女の代わりに何でも叶えてくれる従順巨乳メイド佐東さな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "NOSKINS",
-      "publish_date": "2025-09-04",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "佐東さな"

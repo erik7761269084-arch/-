@@ -27,25 +27,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/小野静香.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1754,
-      "IDcode": "MCBD-07",
-      "title": "MERCIBOKU 07 妹系＆模特兒系 雙卡斯 : 安城安娜,秋野早苗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2015-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/1aefa750-0a9f-426d-82a1-3ddedf4becee.webp",
-      "actress": [
-        "安城安娜",
-        "秋野早苗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-07"
-    },
     {
       "id": 1974,
       "IDcode": "MKBD-S100",
@@ -53,7 +36,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2015-06-25",
       "cover_url": "https://picture.yoshiclub.xyz/20230207/6a2b3a83-72f0-49fc-bc81-454da0086842.webp",

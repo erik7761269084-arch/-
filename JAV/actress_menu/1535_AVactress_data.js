@@ -32,18 +32,57 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-花宮レイ.jpg",
     "https://picture.yoshiclub.xyz/20230331/3c0d3092-943f-4b26-9175-dd98e0cea32c.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1619,
-      "IDcode": "SDDE-618",
-      "title": "一邊主播新聞節目一邊不斷被幹竟然像沒事一樣",
+      "id": 11714,
+      "IDcode": "ONEX-062",
+      "title": "就職活動IN 03",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
+      "company": "ONE MORE",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/ecd0bbf292f0ed64b9e0919158be3725.jpg",
+      "actress": [
+        "彌生美月",
+        "有栖露露",
+        "咲々原リン",
+        "花宮レイ",
+        "夏目りょうこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEX-062"
+    },
+    {
+      "id": 9284,
+      "IDcode": "SILK-174",
+      "title": "この愛し方しか、知らない。 Case1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/01/bbde9ad8d3637992ee97a584fc721b30.jpg",
+      "actress": [
+        "宇流木沙羅",
+        "緒川春",
+        "広瀬結香",
+        "花宮レイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-174"
+    },
+    {
+      "id": 1619,
+      "IDcode": "SDDE-618",
+      "title": "新手女播音员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-04-23",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230403/38cc4605-18c3-42a0-a17a-345545ec05a0.jpg",
       "actress": [
         "百永纱里奈",

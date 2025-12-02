@@ -26,8 +26,28 @@ window.actressData = {
     "Minami Sayaka"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 100088,
+      "IDcode": "HUNT-634",
+      "title": "不運な巡り合わせで娘とは気付かずにセックスしてしまった最低な父 2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2012-11-22",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "篠惠美",
+        "荒木ありさ",
+        "有沢りさ",
+        "小滝みい菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNT-634"
+    },
     {
       "id": 77628,
       "IDcode": "RS-020",
@@ -35,8 +55,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2012-09-15",
       "cover_url": "",
       "actress": [

@@ -53,131 +53,259 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230831/4fd75ac9-a139-4e41-a2bd-d681d8e11e55.jpg",
     "https://picture.yoshiclub.xyz/20230831/97d186d2-880c-41c5-9609-654cad516ae0.jpg"
   ],
-  "works_count": 17,
+  "works_count": 25,
   "related_dramas": [
     {
-      "id": 3079,
-      "IDcode": "MMKZ-156",
-      "title": "大姊姊的巨臀太色情了，秒殺誘惑讓人招架不住 ~ 十束流羽",
+      "id": 5251,
+      "IDcode": "AQMB-038",
+      "title": "會員制 人妻玄關口暴店 讓我用小嘴爽翻你 11 ~ 月見伊織 葵百合香 恵沙也香 一條美緒 十束流羽 堀北実來 美波汐裏 森澤佳奈 月本海咲 岬櫻 小那海綾 及川海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MARRION",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210202216216_88742_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-14",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617120953461461_thumbnail.webp",
       "actress": [
-        "十束流羽"
+        "森澤佳奈",
+        "小那海綾",
+        "一条美緒",
+        "葵百合香",
+        "堀北実来",
+        "美波汐里",
+        "十束流羽",
+        "岬櫻",
+        "恵沙也香",
+        "月本海咲",
+        "及川海",
+        "月見伊織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQMB-038"
     },
     {
-      "id": 3946,
-      "IDcode": "XVSR-826",
-      "title": "NUKI-Heaven 射精無制限的極樂風俗按摩店 ~ 十束流羽",
+      "id": 7436,
+      "IDcode": "NPS-458",
+      "title": "硬核搭訕！只限正經清純又憋得慌的酒店妹和美容員！首次逆向撩漢挑戰！10分鍾內射出來就給100萬！大屌面前臉紅發騷，興奮過頭制服都不脫連射不停！壓力滿滿的小穴爽到不行，懷孕級無限高潮！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2025-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032747639639_65580_thumbnail.webp",
-      "actress": [
-        "十束流羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-826"
-    },
-    {
-      "id": 4880,
-      "IDcode": "MMUS-099",
-      "title": "小惡魔誘惑美少女 ~ 十束流羽",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MARRION",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224341516516_thumbnail.webp",
-      "actress": [
-        "十束流羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-099"
-    },
-    {
-      "id": 5139,
-      "IDcode": "NACR-973",
-      "title": "夢裡那男人太撩人，再戰一場不夠爽 ~ 十束流羽",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/202506190918473939_thumbnail.webp",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "2025-03-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20250319/9b88ec3b-59ac-4ddf-8234-61b06e31bc79.jpg",
       "actress": [
         "十束流羽",
-        "ロダン富士"
+        "花里明理",
+        "一色さら",
+        "白雪美月",
+        "渋谷夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-458"
     },
     {
-      "id": 6080,
-      "IDcode": "AQSH-123",
-      "title": "鄰居人妻的淫蕩報恩 透視裝Cosplay誘惑不斷 ~ 十束流羽",
+      "id": 16529,
+      "IDcode": "STARS-988",
+      "title": "十束流羽是一位私人健身教練，用性感的桃臀誘惑男性會員，並用她的嘴和桃臀爲雞巴釋放性欲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-05-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517053254672672_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-02-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240131/5d15df9e-f90a-45a2-ba09-9bbf0f9ca3a0.jpg",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-988"
     },
     {
-      "id": 6279,
-      "IDcode": "RKI-709",
-      "title": "公司邊緣小職員的唯一救贖！超絕美女同事用軟糯大胸全方位寵溺我的神器，挽留我別辭職的內射健康護理 ~ 十束流羽",
+      "id": 18079,
+      "IDcode": "STARS-939",
+      "title": "好漂亮的寫真偶像十束るう小姐姐，我真想被她從上到下舔個夠。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROOKIE",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065924967967_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2023-11-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20231101/1dd0245e-83ae-4390-b103-86b68c3359f9.jpg",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-709"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-939"
     },
     {
-      "id": 6396,
-      "IDcode": "NACR-952",
-      "title": "快樂按摩風俗SPA 被猥瑣大叔的手感搞到欲罷不能 ~ 十束流羽",
+      "id": 18865,
+      "IDcode": "STARS-901",
+      "title": "決意的全裸 然後性愛解禁 現役寫真偶像十束流羽 AV出道 十束流羽",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-05-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504213432179179_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831011614805805.jpg",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-952"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-901"
+    },
+    {
+      "id": 18550,
+      "IDcode": "STARS-925",
+      "title": "絕頂開發 純白BODY震盪激潮！ 初次巨根大絕頂SEX 十束流羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926034637789789.jpg",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-925"
+    },
+    {
+      "id": 17561,
+      "IDcode": "STARS-949",
+      "title": "外拍結束後的同房NTR-十束流羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787e8dac179ffb1db907e70/cover.jpg",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-949"
+    },
+    {
+      "id": 17057,
+      "IDcode": "STARS-967",
+      "title": "美乳新人教師-十束るう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787dad3f9a2e9b1d4a5302d/cover.jpg",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-967"
+    },
+    {
+      "id": 15864,
+      "IDcode": "START-026",
+      "title": "被女友閨蜜告白-十束流羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240326/20240326023524787787.jpg",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-026"
+    },
+    {
+      "id": 13004,
+      "IDcode": "ADN-578",
+      "title": "老公请原谅我-十束露",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/967e0d3446aa9f1082442e4ac383fb94.jpg",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-578"
+    },
+    {
+      "id": 11599,
+      "IDcode": "ADN-607",
+      "title": "凝视著女人的湿润目光-十束るう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/df782338e44cebd8c7d4397aa938fd60.jpg",
+      "actress": [
+        "十束流羽",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-607"
+    },
+    {
+      "id": 10961,
+      "IDcode": "ADN-602",
+      "title": "我这个有前科的人-十束るう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/da96cd839f48d0434edcaf597fe35a36.jpg",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-602"
+    },
+    {
+      "id": 10296,
+      "IDcode": "RBK-102",
+      "title": "潜入捜査官ハルカ 偽りの服従 十束るう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128092803748748.jpg",
+      "actress": [
+        "十束流羽",
+        "カワム"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-102"
+    },
+    {
+      "id": 9402,
+      "IDcode": "SAME-144",
+      "title": "身为酒店服务生的我，居然被要求提供那种色色的服务 十束流羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873d3389def9b1b801ba3b/cover.jpg",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-144"
     },
     {
       "id": 6405,
       "IDcode": "XVSR-813",
-      "title": "精液控妹子的色色生活口活對決4 ~ 九十九梅 市川陸 天晴乃愛 藤田柚 十束流羽 西野繪美 星空萌愛 倉木詩織",
+      "title": "精子好き女子のエロ活フェラ抜きマッチング4",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105422951951_thumbnail.webp",
       "actress": [
         "西野絵美",
@@ -194,149 +322,165 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-813"
     },
     {
-      "id": 9402,
-      "IDcode": "SAME-144",
-      "title": "被要求給顧客提供本番服務 ~ 十束流羽",
+      "id": 6396,
+      "IDcode": "NACR-952",
+      "title": "从恐怖老头的惊人技巧中学习到快感-十束るう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102075243793793.jpg",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504213432179179_thumbnail.webp",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-144"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-952"
     },
     {
-      "id": 10296,
-      "IDcode": "RBK-102",
-      "title": "潛入搜查官 僞裝的服從 ~ 十束流羽",
+      "id": 6279,
+      "IDcode": "RKI-709",
+      "title": "唯一的同伴是公司内第一的超绝美女-十束るう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128092803748748.jpg",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065924967967_thumbnail.webp",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-709"
+    },
+    {
+      "id": 6268,
+      "IDcode": "NGOD-265",
+      "title": "虽然很烦人但是比我老公的大-十束るう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065726192192_thumbnail.webp",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-265"
+    },
+    {
+      "id": 6080,
+      "IDcode": "AQSH-123",
+      "title": "隣人妻の淫らな恩返し スケ透けコスプレで誘惑されて… 十束るう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517053254672672_thumbnail.webp",
+      "actress": [
+        "十束流羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AQSH-123"
+    },
+    {
+      "id": 5139,
+      "IDcode": "NACR-973",
+      "title": "渴望再次被梦中遇见的那个人拥抱-十束るう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/202506190918473939_thumbnail.webp",
       "actress": [
         "十束流羽",
-        "カワム"
+        "ロダン富士"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-973"
     },
     {
-      "id": 15864,
-      "IDcode": "START-026",
-      "title": "一段不純潔的肉體關系始於她最好的朋友向她表白。他們的第一次中出性愛感覺非常好 ~ 十束流羽",
+      "id": 4880,
+      "IDcode": "MMUS-099",
+      "title": "小惡魔挑逗美少女-十束流羽",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240326/20240326023524787787.jpg",
+      "type": "",
+      "company": "MARRION",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/cadf6bdad3a8c3473c89caab24432978.jpg",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-099"
     },
     {
-      "id": 16529,
-      "IDcode": "STARS-988",
-      "title": "十束流羽是一位私人健身教練，用性感的桃臀誘惑男性會員，並用她的嘴和桃臀爲雞巴釋放性欲",
+      "id": 3946,
+      "IDcode": "XVSR-826",
+      "title": "射精天堂无限射精按摩-十束るう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-02-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240131/5d15df9e-f90a-45a2-ba09-9bbf0f9ca3a0.jpg",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032747639639_65580_thumbnail.webp",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-826"
     },
     {
-      "id": 17057,
-      "IDcode": "STARS-967",
-      "title": "十束流羽 新任女教師，與同事的戀情被學生發現而成为了性玩具",
+      "id": 3119,
+      "IDcode": "XVSR-832",
+      "title": "イカセ狂い メス堕ち調教 十束るう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-01-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226060804772772.jpg",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/20250830120126576576_17230_thumbnail.webp",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-967"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-832"
     },
     {
-      "id": 17561,
-      "IDcode": "STARS-949",
-      "title": "下大雪無法回家的新人女優 被油膩的中年叔叔導演操了一晚上",
+      "id": 3079,
+      "IDcode": "MMKZ-156",
+      "title": "お姉さんの巨尻が猥褻過ぎて秒殺で悩殺！！ 十束るう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231128/20231128023038882882.jpg",
+      "type": "",
+      "company": "MARRION",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/37e72455/vod.jpg",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-949"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-156"
     },
     {
-      "id": 18079,
-      "IDcode": "STARS-939",
-      "title": "好漂亮的寫真偶像十束るう小姐姐，我真想被她從上到下舔個夠。",
+      "id": 2273,
+      "IDcode": "MRSS-173",
+      "title": "妻との子どもが欲しいが僕が男性不妊だったので、精子提供者に直接中出ししてもらうことになった 十束るう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20231101/1dd0245e-83ae-4390-b103-86b68c3359f9.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "十束流羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-939"
-    },
-    {
-      "id": 18550,
-      "IDcode": "STARS-925",
-      "title": "絕頂開發的純白BODY激烈的顫抖著！ 第一次與巨根的絕頂SEX",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-10-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926034637789789.jpg",
-      "actress": [
-        "十束流羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-925"
-    },
-    {
-      "id": 18865,
-      "IDcode": "STARS-901",
-      "title": "決心全裸和性禁令活躍偶像 Ruu Totsuka AV DEBUT",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-09-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831011614805805.jpg",
-      "actress": [
-        "十束流羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-901"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-173"
     }
   ]
 };

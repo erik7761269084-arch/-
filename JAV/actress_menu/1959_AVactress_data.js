@@ -36,27 +36,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Nanairo/大谷翔子.jpg"
   ],
-  "works_count": 5,
+  "works_count": 9,
   "related_dramas": [
-    {
-      "id": 89546,
-      "IDcode": "AARM-151",
-      "title": "身長差のすごい腿こき！！ 高身長女性×低身長男",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-01-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/329a9b9e4e63ff6a702f2f4a1801da81.jpg",
-      "actress": [
-        "泉麻里香",
-        "今藤雾子",
-        "希望美",
-        "久美木マリア"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-151"
-    },
     {
       "id": 81361,
       "IDcode": "MIRD-204",
@@ -64,10 +45,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "",
       "publish_date": "2020-08-01",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/22b15b907364bf50db7b317d7beefe6b.jpg",
       "actress": [
         "泉百合",
         "泉麻里香",
@@ -77,20 +58,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-204"
     },
     {
-      "id": 83071,
-      "IDcode": "DNJR-022",
-      "title": "高身長痴女のチビ男イジメ 大谷翔子",
+      "id": 99428,
+      "IDcode": "LZPL-046",
+      "title": "身長差レズビアン ミニマム女子は高身長美人がお好き？！ 冬愛ことね 大谷翔子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-02-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-12-19",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/lzpl046/lzpl046pl.jpg",
       "actress": [
-        "泉麻里香"
+        "泉麻里香",
+        "冬爱琴音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZPL-046"
     },
     {
       "id": 81993,
@@ -99,7 +81,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2019-12-13",
       "cover_url": "",
@@ -111,20 +93,106 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-277"
     },
     {
+      "id": 439348,
+      "IDcode": "HEYZO-3333",
+      "title": "Marika Izumi 的足交让你很酷！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/09/68466fc243d697271669e7e6/cover.jpg",
+      "actress": [
+        "泉麻里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3333"
+    },
+    {
+      "id": 438079,
+      "IDcode": "HEYZO-3523",
+      "title": "和泉麻理香 (Marika Izumi) 徹底舔舐和吮吸！ - 和泉麻理香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b55e182cbbe464027f7b8b/cover.jpg",
+      "actress": [
+        "泉麻里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3523"
+    },
+    {
+      "id": 89546,
+      "IDcode": "AARM-151",
+      "title": "高身長女性低身長男",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "泉麻里香",
+        "今藤雾子",
+        "希望美",
+        "久美木マリア"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-151"
+    },
+    {
+      "id": 83071,
+      "IDcode": "DNJR-022",
+      "title": "高身長痴女のチビ男イジメ 大谷翔子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/fcee499d229d64b4a81f383e32b10025.jpg",
+      "actress": [
+        "泉麻里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-022"
+    },
+    {
       "id": 69981,
       "IDcode": "SDMU-938",
       "title": "身長180cm 新人 大谷翔子 AV debut",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-06-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/3fc07abbce048dc22ebad3f75aa7a776.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6fc01747eb9ce035dff09c7944fd153f.jpg",
       "actress": [
         "泉麻里香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-938"
+    },
+    {
+      "id": 11532,
+      "IDcode": "STSK-144",
+      "title": "新娘婚紗攝影 花嫁NTR ~ 泉麻裏香 逢月ひまり みなも吹雪 片寄しゅうか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/7938b16a24fc5b5f33ed8b545b81a102.jpg",
+      "actress": [
+        "逢月日葵",
+        "片寄しゅうか",
+        "みなも吹雪",
+        "泉麻里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-144"
     }
   ]
 };

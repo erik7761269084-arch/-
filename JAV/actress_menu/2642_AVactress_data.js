@@ -44,14 +44,14 @@ window.actressData = {
     {
       "id": 6626,
       "IDcode": "FAYS-001",
-      "title": "Only One 絕美一片流女優 ~ 星海マリン",
+      "title": "Only One 星海マリン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424211724978978_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-2/a5dcecc7c41a3280e20b83660db4b819.jpg",
       "actress": [
         "星海マリン"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ななせ麻衣",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 93969,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2024-07-23",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241020-1/d7c24f93c0fd00e845fbe9dbb1eac25e.jpg",
       "actress": [
         "天馬唯",
         "沙月芽衣",
@@ -43,20 +43,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-857"
     },
     {
-      "id": 70576,
-      "IDcode": "TIKB-040",
-      "title": "【人間失格】胸糞変態おじさんと激カワ娘の中出しハメログ動画 ななせ麻衣",
+      "id": 82322,
+      "IDcode": "DASD-512",
+      "title": "被大屁股的青梅竹马诱惑后-ななせ麻衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-03-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "ななせ麻衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-512"
     },
     {
       "id": 77637,
@@ -65,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2018-04-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/4883cc309e39d4d6634ccfa23d8f36e4.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/027e595a154bbad7fcfcecaca5ab1974.jpg",
       "actress": [
         "星奈爱",
         "神宫寺奈绪",
@@ -84,14 +84,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-01-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "ななせ麻衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-409"
+    },
+    {
+      "id": 70576,
+      "IDcode": "TIKB-040",
+      "title": "【人間失格】胸糞変態おじさんと激カワ娘の中出しハメログ動画 ななせ麻衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6087d07cdc7b140b3f723bb91e85ef05.jpg",
+      "actress": [
+        "ななせ麻衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-040"
     }
   ]
 };

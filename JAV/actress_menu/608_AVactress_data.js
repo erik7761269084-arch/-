@@ -40,36 +40,159 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250110/ad61338d-eb2e-468e-8cfa-eb0bc282d904.jpg",
     "https://picture.yoshiclub.xyz/20250110/a1622abe-d2ba-40be-87ab-736d873358e3.jpg"
   ],
-  "works_count": 9,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 2932,
-      "IDcode": "IPZZ-663",
-      "title": "升天絕頂，潮吹狂泄1205ml，不會停止的高潮FUCK ~ 愛才莉亞",
+      "id": 9256,
+      "IDcode": "IPZZ-492",
+      "title": "第一印象178自然之美-愛才りあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020843682682_52795_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68beb204ce3e366423d45e4a/cover.jpg",
       "actress": [
         "愛才莉亞",
-        "鲛岛"
+        "鲛岛",
+        "タイ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-492"
+    },
+    {
+      "id": 8441,
+      "IDcode": "IPZZ-497",
+      "title": "革命的美少女がイクイク連発！！初体験絶頂4本番スペシャル 愛才りあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/cbcdd25d23e7b68638c4ac526e7b5ebe.jpg",
+      "actress": [
+        "愛才莉亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-497"
+    },
+    {
+      "id": 7724,
+      "IDcode": "IPZZ-520",
+      "title": "第一次尝试成为泡​​泡公主-愛才りあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250325-1/5205d3cdb9ad10d65b58466f0fa5758d.jpg",
+      "actress": [
+        "愛才莉亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-520"
+    },
+    {
+      "id": 7071,
+      "IDcode": "IPZZ-570",
+      "title": "革命的美少女的追擊高潮超覺醒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250415-1/99c2f58a8e882dc2cf1d553cbd329cfe.jpg",
+      "actress": [
+        "愛才莉亞",
+        "鲛岛",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-570"
+    },
+    {
+      "id": 6297,
+      "IDcode": "IPZZ-590",
+      "title": "出差降雨导致与处女下属同住一室",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/05/19/7181e109d86cc51a1617d024f41aca67.jpg",
+      "actress": [
+        "愛才莉亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-590"
+    },
+    {
+      "id": 5559,
+      "IDcode": "IPZZ-565",
+      "title": "从小就喜欢的青梅竹马让她禁欲一个月-爱才莉亚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042719495495_thumbnail.webp",
+      "actress": [
+        "愛才莉亞",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-565"
+    },
+    {
+      "id": 5500,
+      "IDcode": "IPZZ-586",
+      "title": "日本よ、これがアイポケだーもう絶対に揃わない夢の究極共演桜空もも 長浜みつり 西宮ゆめ 古川ほのか愛才りあ 佐々木さき さくらわかな 役野満里奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/40492e6af9b48a92e048e57a1c766c93.jpg",
+      "actress": [
+        "桜空桃",
+        "西宮夢",
+        "古川穗花",
+        "長濱蜜璃",
+        "佐佐木紗希",
+        "櫻若菜",
+        "役野満里奈",
+        "愛才莉亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-586"
+    },
+    {
+      "id": 4778,
+      "IDcode": "IPZZ-613",
+      "title": "超爱口交的痴女护士-爱才莉亚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040521997997_thumbnail.webp",
+      "actress": [
+        "愛才莉亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-613"
     },
     {
       "id": 3788,
       "IDcode": "IPZZ-643",
-      "title": "修學旅行踩點出差被迫跟猥瑣教練同房…被最討厭的惡心男人弄到高潮不斷的屈辱性愛 ~ 愛才莉亞",
+      "title": "和性骚扰老师出乎意料地同房-爱才莉亚",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030013209209_19235_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/55b73e6ea685e23e6c353c1b28853b94.jpg",
       "actress": [
         "愛才莉亞"
       ],
@@ -78,13 +201,13 @@ window.actressData = {
     {
       "id": 3756,
       "IDcode": "IPZZ-623",
-      "title": "BEAUTY VENUS THE HARLEM-episode3 24小時強制勃起！肉棒爭奪戰！五位發情姐妹輪番榨汁的同居生活 ~ 西宮夢 古川穗花 櫻若菜 佐佐木紗希 愛才莉亞",
+      "title": "年中発情期の美人5姉妹に痴女られて賢者タイム無しのハメっぱなし同棲生活 西宮ゆめ 古川ほのか さくらわかな 佐々木さき 愛才りあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-08-07",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030127996996_76641_thumbnail.webp",
       "actress": [
         "西宮夢",
@@ -96,105 +219,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-623"
     },
     {
-      "id": 4778,
-      "IDcode": "IPZZ-613",
-      "title": "手機護士鈴一響，24小時隨時口內解放！超愛即尺的痴女護士 ~ 愛才莉亞",
+      "id": 2932,
+      "IDcode": "IPZZ-663",
+      "title": "连续不断的高潮性爱-愛才りあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040521997997_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/12/815fc0f2614fefef71f702ffd2e92edc.jpg",
+      "actress": [
+        "愛才莉亞",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-663"
+    },
+    {
+      "id": 2096,
+      "IDcode": "IPZZ-684",
+      "title": "滴下唾液和用舌头让她勃起的天然美少女-愛才りあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "愛才莉亞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-613"
-    },
-    {
-      "id": 5559,
-      "IDcode": "IPZZ-565",
-      "title": "從小暗戀我的青梅竹馬禁慾一個月，趁女友不在瘋狂纏綿的三天 ~ 愛才莉亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042719495495_thumbnail.webp",
-      "actress": [
-        "愛才莉亞",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-565"
-    },
-    {
-      "id": 6297,
-      "IDcode": "IPZZ-590",
-      "title": "出差遇暴雨被迫與處男下屬共處一室...濕身誘惑讓他獸性大發一夜七次狂幹 ~ 愛才莉亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508063540446446_thumbnail.webp",
-      "actress": [
-        "愛才莉亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-590"
-    },
-    {
-      "id": 7071,
-      "IDcode": "IPZZ-570",
-      "title": "革命性美少女的極限高潮超覺醒！子宮口追擊！狂插猛幹！真爽到炸裂SPECIAL ~ 愛才莉亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092252813813.jpg",
-      "actress": [
-        "愛才莉亞",
-        "鲛岛",
-        "日森一"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-570"
-    },
-    {
-      "id": 7724,
-      "IDcode": "IPZZ-520",
-      "title": "初次泡姬挑戰 即口即插！天然美少女的甜蜜泡泡浴服務 ~ 愛才莉亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123843996996.jpg",
-      "actress": [
-        "愛才莉亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-520"
-    },
-    {
-      "id": 9256,
-      "IDcode": "IPZZ-492",
-      "title": "新人出道！FIRST IMPRESSION 178 天然美的不可方物 首次亮相 AV DEBUT ~ 愛才莉亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109073934338338.jpg",
-      "actress": [
-        "愛才莉亞",
-        "鲛岛",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-684"
     }
   ]
 };

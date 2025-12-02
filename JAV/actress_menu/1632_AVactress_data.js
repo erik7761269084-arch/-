@@ -33,19 +33,36 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241031/c5aa8372-d065-44d1-9f86-a2658a854746.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 106822,
-      "IDcode": "NSPS-087",
-      "title": "私を好きにしてください… 純情メイド物語 第二章",
+      "id": 98446,
+      "IDcode": "CRPD-370",
+      "title": "ケツマンコ激使用レズビアン 辻本りょう 美咲結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2010-08-25",
-      "cover_url": "https://tutu1.space/images/2023/11/08/0e25a9da52478580384dac3a4496f648.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-11-19",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/crpd370/crpd370pl.jpg",
+      "actress": [
+        "辻本亮",
+        "美咲结衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRPD-370"
+    },
+    {
+      "id": 106822,
+      "IDcode": "NSPS-087",
+      "title": "纯情女仆物语",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "辻本亮"
       ],
@@ -58,16 +75,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2010-04-07",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/0e4153801cd6213a097b67306e3bc80d.jpg",
       "actress": [
         "辻本亮",
         "さくら姫",
         "田中美久"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-145"
+    },
+    {
+      "id": 58109,
+      "IDcode": "042416-144",
+      "title": "接AV回家的隔壁老婆",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/c5e7adc9a46ed89f4e162101b95c3705.jpg",
+      "actress": [
+        "辻本亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=042416-144"
     }
   ]
 };

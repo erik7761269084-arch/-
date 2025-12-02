@@ -38,7 +38,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250921/f6aba3b3-0feb-4245-8426-74d4c8f35360_l.webp"
   ],
-  "works_count": 13,
+  "works_count": 15,
   "related_dramas": [
     {
       "id": 81653,
@@ -47,7 +47,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOGMA",
       "publish_date": "2020-03-19",
       "cover_url": "",
@@ -57,162 +57,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-068"
     },
     {
-      "id": 75662,
-      "IDcode": "VENU-913",
-      "title": "父が出かけて2秒でセックスする母と息子 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2020-03-07",
-      "cover_url": "",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-913"
-    },
-    {
-      "id": 76788,
-      "IDcode": "JUL-104",
-      "title": "アナタの全てが、欲しいの-。年上の人妻に溺れる、甘噛み性交。 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-01-07",
-      "cover_url": "",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-104"
-    },
-    {
-      "id": 70699,
-      "IDcode": "JUL-069",
-      "title": "男子生徒を虜にする新任女教師誘惑筆下ろし性指導 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/c1aea92b1dca08ccec9ee8a0fcf3a57c.jpg",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-069"
-    },
-    {
-      "id": 78211,
-      "IDcode": "JUL-033",
-      "title": "羞恥に濡れた、ランジェリー。 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-11-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241116-1/d2c88a4471eaf68c9e5402bd340e46e2.jpg",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-033"
-    },
-    {
-      "id": 77963,
-      "IDcode": "JUY-931",
-      "title": "四六時中、娘婿のデカチ○ポが欲しくて堪らない義母の誘い 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-08-07",
-      "cover_url": "",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-931"
-    },
-    {
-      "id": 74802,
-      "IDcode": "JUY-898",
-      "title": "ドM一家の嫁 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-07-07",
-      "cover_url": "",
-      "actress": [
-        "遥彩音",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-898"
-    },
-    {
-      "id": 74874,
-      "IDcode": "JUY-867",
-      "title": "妻には口が裂けても言えません、義母さんを孕ませてしまったなんて…。-1泊2日の温泉旅行で、我を忘れて中出ししまくった僕。- 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-06-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/899e15f9f3ca8de96161fc6496b1f0a7.jpg",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-867"
-    },
-    {
-      "id": 72153,
-      "IDcode": "ADN-213",
-      "title": "あなた、許して…。 女の本能2 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2019-05-07",
-      "cover_url": "",
-      "actress": [
-        "遥彩音",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-213"
-    },
-    {
-      "id": 78062,
-      "IDcode": "JUY-722",
-      "title": "転職先の女上司に勤務中ずっと弄ばれ続けている新人の僕 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-01-07",
-      "cover_url": "",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-722"
-    },
-    {
       "id": 106034,
       "IDcode": "JUY-703",
-      "title": "マドンナ15周年記念超大作！！ジャンボドリーム大共演！！ 100億を拾った男と10人の美熟女 人生逆転ハーレム豪遊生活",
+      "title": "臭乞丐捡了十亿后人生逆转后宫佳丽无数",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2018-12-25",
-      "cover_url": "https://tutu1.space/images/2025/03/27/75294733eb74c48d8f99282825519e97.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250327-1/b254d002f4b4818a79f90330e3e88127.jpg",
       "actress": [
         "風間由美",
         "白木優子",
@@ -228,31 +82,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-703"
     },
     {
-      "id": 77916,
-      "IDcode": "JUY-452",
-      "title": "人妻は、甘く淫らに誘惑する。 遥あやね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2018-04-07",
-      "cover_url": "",
-      "actress": [
-        "遥彩音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-452"
-    },
-    {
       "id": 88268,
       "IDcode": "JUY-332",
       "title": "新人 遥あやね35歳 マドンナ史上最高学歴 偏差値70越え 秀才人妻AVデビュー！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2017-12-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231001-1/1e9d08afa2a20850cb3c18f21e597378.jpg",
       "actress": [
         "遥彩音",
@@ -260,6 +98,228 @@ window.actressData = {
         "小田切ジュン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-332"
+    },
+    {
+      "id": 86963,
+      "IDcode": "AVOP-464",
+      "title": "破产后背负100亿负债的我被十个美女调教",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3268d9270b6fb1e61a879fe49117e369.jpg",
+      "actress": [
+        "風間由美",
+        "白木優子",
+        "水户香奈",
+        "一色桃子",
+        "友田真希",
+        "佐佐木明希",
+        "遥彩音",
+        "高坂ますみ",
+        "三浦恵理子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-464"
+    },
+    {
+      "id": 78211,
+      "IDcode": "JUL-033",
+      "title": "被隔壁的邻居侵犯到生出快感主动穿上情趣内衣求干的人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7263af6c9a64a5ec7a0ff67c72a25070.jpg",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-033"
+    },
+    {
+      "id": 78062,
+      "IDcode": "JUY-722",
+      "title": "転職先の女上司に勤務中ずっと弄ばれ続けている新人の僕 遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/db27acf3a6749d8cc211c52cae545522.jpg",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-722"
+    },
+    {
+      "id": 77963,
+      "IDcode": "JUY-931",
+      "title": "義母の誘い-遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-931"
+    },
+    {
+      "id": 77916,
+      "IDcode": "JUY-452",
+      "title": "人妻は、甘く淫らに誘惑する。 遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/17407d58a6532daa94dbca45a6cdfda3.jpg",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-452"
+    },
+    {
+      "id": 76788,
+      "IDcode": "JUL-104",
+      "title": "未经世事的我被隔壁的美女人妻-遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3b9ad674284d4fc0cca16dbe1d04da51.jpg",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-104"
+    },
+    {
+      "id": 75662,
+      "IDcode": "VENU-913",
+      "title": "父が出かけて2秒でセックスする母と息子 遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20241217-1/e4a86dbdc99a6602e01970bc9770f333.jpg",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-913"
+    },
+    {
+      "id": 74874,
+      "IDcode": "JUY-867",
+      "title": "妻には口が裂けても言えません、義母さんを孕ませてしまったなんて…。-1泊2日の温泉旅行で、我を忘れて中出ししまくった僕。- 遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/718d42122cddcc1ce054a6e5a148dbca.jpg",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-867"
+    },
+    {
+      "id": 74802,
+      "IDcode": "JUY-898",
+      "title": "主家的妻子-遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/4b077c20dfc0a5af0f4fcebf2d1decc5.jpg",
+      "actress": [
+        "遥彩音",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-898"
+    },
+    {
+      "id": 72153,
+      "IDcode": "ADN-213",
+      "title": "女性本能-遥あやね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/635938471d8e70fe01bd972f8ee2ea76.jpg",
+      "actress": [
+        "遥彩音",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-213"
+    },
+    {
+      "id": 70699,
+      "IDcode": "JUL-069",
+      "title": "偷看黄书被人妻老师抓住后我的校园生活只剩下了每天和她做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250308-1/c1aea92b1dca08ccec9ee8a0fcf3a57c.jpg",
+      "actress": [
+        "遥彩音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-069"
+    },
+    {
+      "id": 2541,
+      "IDcode": "NACX-158",
+      "title": "中出し＆顔射をキメる不倫人妻ハメ撮り25人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "木下日葵",
+        "藤森里穂",
+        "黑川堇",
+        "水原みその",
+        "鈴木真夕",
+        "七草千歲",
+        "塚田詩織",
+        "夏希栗",
+        "紗紗原百合",
+        "八乃翼",
+        "川菜美铃",
+        "黒川晴美",
+        "如月夏希",
+        "若槻みづな",
+        "神ユキ",
+        "大橋里緒",
+        "東希美",
+        "飞鸟铃",
+        "遥彩音",
+        "川原かなえ",
+        "水穀葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-158"
     }
   ]
 };

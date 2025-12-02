@@ -28,8 +28,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240430/0c1b91c6-b828-4763-b09b-03f29bfb3959.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 15107,
+      "IDcode": "SDNM-450",
+      "title": "平時是媽媽團裏開心果的美貌素人妻 宮田裏奈 29 歲 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240430/f21d1bac-0549-4af7-aba6-6ec38aec644e.jpg",
+      "actress": [
+        "宮多里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-450"
+    },
     {
       "id": 14548,
       "IDcode": "SDNM-468",
@@ -37,7 +53,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-05-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240521/f9524a71-959d-4085-980c-974e3fcfebba.jpg",
@@ -53,7 +69,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-05-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240618/461d83c5-4b5b-4c2d-abec-0ba75c828616.jpg",

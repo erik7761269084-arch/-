@@ -33,39 +33,215 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231126/a886f2b5-0a4e-4216-888b-c4f4ae4992ed.jpg",
     "https://picture.yoshiclub.xyz/20231126/518affa3-534d-43f0-9d6e-1e7d821e3955.jpg"
   ],
-  "works_count": 6,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 2946,
-      "IDcode": "IENF-414",
-      "title": "和女子校生妹妹們玩王樣遊戲，我是唯一男主 ~ 美咲音 藤田梢 天野花乃 久和原聖羅 東雲梓",
+      "id": 17586,
+      "IDcode": "YST-308",
+      "title": "默默地吞噬喜歡玩COSPLAY的妹妹",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212944931931_44799_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-12-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20231126/a01f03df-e849-4985-8807-db22b53dcb7e.jpg",
       "actress": [
-        "久和原聖羅",
-        "藤田梢",
-        "美咲音",
-        "東雲梓",
-        "天野花乃"
+        "東雲梓"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-308"
+    },
+    {
+      "id": 63096,
+      "IDcode": "SAME-044",
+      "title": "在我女儿面前",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa6df89def9b1b80e5600/cover.jpg",
+      "actress": [
+        "美咲佳奈",
+        "東雲梓",
+        "大岛丈",
+        "美咲環"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-044"
+    },
+    {
+      "id": 9865,
+      "IDcode": "MUKD-520",
+      "title": "W喉奥肉便器 残酷非道イラマレ×プの標的にされ奴●堕ちした女子水泳部員",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787aa0d8daf6b1db43c2fd4/cover.jpg",
+      "actress": [
+        "雅子裡菜",
+        "東雲梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-520"
+    },
+    {
+      "id": 7581,
+      "IDcode": "MUDR-306",
+      "title": "剛毛マン毛の純粋少女 初アナルSEX お尻までびっしり生えた業界一のマン毛フサフサ美少女、満を持してアナル解禁。 東雲あずさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f26fc24e7d663df48f06c3/cover.jpg",
+      "actress": [
+        "東雲梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-306"
+    },
+    {
+      "id": 7512,
+      "IDcode": "MUCD-324",
+      "title": "女子●生鬼畜レ×プ210分 ボロ雑巾のように性処理肉便器として犯●れた美少女13選",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-2/4ce1f470fbe0f44a00a0b9c9ce728025.jpg",
+      "actress": [
+        "沙月惠奈",
+        "逢月日葵",
+        "雅子裡菜",
+        "市井結夏",
+        "天乃のあ",
+        "菊池春",
+        "栄川乃亜",
+        "広瀬みつき",
+        "東雲梓",
+        "百咲未色"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-324"
+    },
+    {
+      "id": 6910,
+      "IDcode": "MUKD-527",
+      "title": "IMAGE VIDEO ~ 東雲梓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68994cf555337d7f7bcfa888/cover.jpg",
+      "actress": [
+        "東雲梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-527"
+    },
+    {
+      "id": 6163,
+      "IDcode": "CEMD-679",
+      "title": "ケツ穴までびっちり剛毛‘2穴姦’限界・絶叫アナルSEX 東雲あずさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c332ad5f13d063bcdf91aa/cover.jpg",
+      "actress": [
+        "東雲梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-679"
+    },
+    {
+      "id": 6052,
+      "IDcode": "MUDR-315",
+      "title": "久々に再会した幼馴染みが、緊縛調教されるマゾ雌になっていた。 元担任に縛られ、喉奥までチ〇ポ挿し込まれて絶頂するドM肉便器 東雲あずさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515095504610610_thumbnail.webp",
+      "actress": [
+        "東雲梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-315"
+    },
+    {
+      "id": 4454,
+      "IDcode": "MUKD-545",
+      "title": "脚踏两条船的男友和修罗场哈莱姆两人在眼前相遇",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a52dca8cce1a927afca738/cover.jpg",
+      "actress": [
+        "松井日奈子",
+        "東雲梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-545"
+    },
+    {
+      "id": 4362,
+      "IDcode": "DVMM-269",
+      "title": "一般男女モニタリングAV 素人女子大生限定企画 アナルの中身はなんだろな？異物当てゲーム中にお尻の穴にこっそりデカチン生挿入！肛門を拡張されて腸内をかき回される未体験の感覚に恥ずかしいけどイキまくり！初めてのアナル生ハメ生中出し！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031844843843_70777_thumbnail.webp",
+      "actress": [
+        "東雲梓",
+        "美雲そら",
+        "生田りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-269"
+    },
+    {
+      "id": 3920,
+      "IDcode": "DVMM-270",
+      "title": "顔出しMM号 受験生限定 ザ・マジックミラー 難関大学への合格を目指す女子○生にじゅぼじゅぼフェラ面接試験",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084721323323_11354_thumbnail.webp",
+      "actress": [
+        "廣瀬好美",
+        "五十嵐美月",
+        "東雲梓",
+        "有馬美月",
+        "星乃蓳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-270"
     },
     {
       "id": 3517,
       "IDcode": "MUCD-336",
-      "title": "純情少女的深喉調教 又痛又爽的4小時大合集 ~ 倉本菫 東條夏 笠木いちか 東雲梓 久和原聖羅 天乃のあ 響乃詩 逢月日葵 皆瀨明里 有加里乃乃花 広瀬みつき 花狩舞 日向ひかげ 橘ひなの 日泉舞香 雅子裡菜",
+      "title": "無垢な女の子のイラマチオ とってもくるしくてきもちぃ4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040540261261_67540_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "倉本菫",
         "皆瀨明里",
@@ -89,75 +265,49 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
     },
     {
-      "id": 3920,
-      "IDcode": "DVMM-270",
-      "title": "顏出MM號 受驗生限定專屬 魔鏡面接 衝刺名校的女學生口暴大考驗！自我介紹時被滿嘴射爆，精液狂漏！激烈面試後羞澀小穴被大肉棒狂插，精液滿身SEX！全員中出特別篇！ ~ 有馬美月 東雲梓 五十嵐美月 星乃蓳 廣瀬好美",
+      "id": 2946,
+      "IDcode": "IENF-414",
+      "title": "和我家的女高中生妹妹以及她的朋友玩只有我一个男人的国王游戏-美咲音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084721323323_11354_thumbnail.webp",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212944931931_44799_thumbnail.webp",
       "actress": [
-        "廣瀬好美",
-        "五十嵐美月",
+        "久和原聖羅",
+        "藤田梢",
+        "美咲音",
         "東雲梓",
-        "有馬美月",
-        "星乃蓳"
+        "天野花乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-414"
     },
     {
-      "id": 4454,
-      "IDcode": "MUKD-545",
-      "title": "渣男劈腿修羅場後宮大亂鬥 ~ 東雲梓 鬆井日奈子",
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032821422422_10424_thumbnail.webp",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
       "actress": [
-        "松井日奈子",
-        "東雲梓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-545"
-    },
-    {
-      "id": 4362,
-      "IDcode": "DVMM-269",
-      "title": "一般男女監控 素人女大學生限定企劃：你後庭怎麼了猜猜看！遊戲中偷偷塞入巨根生插爆菊 ~ 東雲梓 生田りん 美雲そら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031844843843_70777_thumbnail.webp",
-      "actress": [
+        "绫濑心",
+        "泉莉音",
         "東雲梓",
-        "美雲そら",
-        "生田りん"
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
+        "下川紬"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-269"
-    },
-    {
-      "id": 17586,
-      "IDcode": "YST-308",
-      "title": "默默地吞噬喜歡玩COSPLAY的妹妹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
-      "publish_date": "2023-12-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20231126/a01f03df-e849-4985-8807-db22b53dcb7e.jpg",
-      "actress": [
-        "東雲梓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
     }
   ]
 };

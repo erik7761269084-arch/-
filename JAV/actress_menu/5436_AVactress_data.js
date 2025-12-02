@@ -4,7 +4,7 @@ window.actressData = {
   "name": "松本りおな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-07-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/e3c9bc7def3236eac1ac41c84fb48a1b.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/689f053c50cac7a837f5793c8d15c4cc.jpg",
       "actress": [
         "松本りおな"
       ],

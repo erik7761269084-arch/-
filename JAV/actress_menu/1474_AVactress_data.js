@@ -35,43 +35,54 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250326/4c9faa66-7ad2-4096-a9da-51e469c429f3.jpg",
     "https://picture.yoshiclub.xyz/20250326/8dc4f122-d78d-4a0a-93bb-30ee4aed4fcb.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 5307,
-      "IDcode": "MUDR-318",
-      "title": "擁有超大雞巴的陰鬱男被全班女生圍着求幹，瘋狂開幹的後宮大亂交 ~ 有加裏乃乃花 早見奈奈 泉莉音 伊織雛乃 雪奈真冬 香月えりさ 須崎美羽 天乃のあ 宮ノ木しゅんか 木之內奈々葉",
+      "id": 70187,
+      "IDcode": "AGMX-220",
+      "title": "マ〇コぶっかけザーメンオナニー狂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061939367367_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250704-1/09508b52ae02a84a51b3b9c18fa10db1.jpg",
       "actress": [
-        "泉莉音",
-        "有加里乃乃花",
-        "伊織雛乃",
         "天乃のあ",
-        "須崎美羽",
-        "宮ノ木しゅんか",
-        "早見奈奈",
-        "香月えりさ",
-        "雪奈真冬",
+        "七藤優亜",
+        "乃木ちはる",
+        "木之内奈々葉",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-220"
+    },
+    {
+      "id": 7259,
+      "IDcode": "AGAV-134",
+      "title": "輕蔑女忍着高潮不叫！在無盡快感地獄裏掙扎卻被強行開發小穴墮落的女人 ~ 木之內奈奈葉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7a20d79f1ac4ec45a462c/cover.jpg",
+      "actress": [
         "木之内奈々葉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-134"
     },
     {
       "id": 6610,
       "IDcode": "PFES-101",
-      "title": "內褲誘惑後宮學園 就我一個男生！？學校女子全員誘惑中出大亂鬥SEX ~ 天馬唯 五芭 小阪ひまり 沙月惠奈 香月えりさ 早見奈奈 木之內奈々葉 望月蕾 須崎美羽 千川とわ",
+      "title": "パンチラハーレム学園 男は僕1人！？クラスの女子全員と誘惑チラリズム中出しSEX！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-25",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423042352330330_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -88,24 +99,29 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-101"
     },
     {
-      "id": 70187,
-      "IDcode": "AGMX-220",
-      "title": "マ〇コぶっかけザーメンオナニー狂",
+      "id": 5307,
+      "IDcode": "MUDR-318",
+      "title": "擁有大吉肉棒的陰沉男生讓班上的女生為了升級效果而群聚-有加里ののか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-22",
-      "cover_url": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/05/6891905cc92318f97d7ffd26/cover.jpg",
       "actress": [
+        "泉莉音",
+        "有加里乃乃花",
+        "伊織雛乃",
         "天乃のあ",
-        "七藤優亜",
-        "乃木ちはる",
-        "木之内奈々葉",
-        "蓝芽水月"
+        "須崎美羽",
+        "宮ノ木しゅんか",
+        "早見奈奈",
+        "香月えりさ",
+        "雪奈真冬",
+        "木之内奈々葉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-220"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
     }
   ]
 };

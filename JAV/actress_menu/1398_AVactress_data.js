@@ -40,40 +40,60 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250703/0edb0952-63ee-4b81-bed7-bd1d63e4308e_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250703/97ba5610-d482-411f-a67c-532582f81497_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3890,
-      "IDcode": "NPJS-206",
-      "title": "夢想當主播的清純大學生初次下海：從爲網絡紅人的夢碎到沉迷性愛的變態小美人 ~ 神樂阪愛琉",
+      "id": 4768,
+      "IDcode": "IPSE-013",
+      "title": "就读东京名门大学的准女主播-神楽坂める",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6cb958cce1a927afdfc3e/cover.jpg",
+      "actress": [
+        "神樂坂愛琉",
+        "羽田貴史"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-013"
+    },
+    {
+      "id": 3890,
+      "IDcode": "NPJS-206",
+      "title": "梦想成为女主播的漂亮可爱大学生-神楽坂める",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "NAPA-JAPAN",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101302902902_51398_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7b8ca682e2e9281999012/cover.jpg",
       "actress": [
         "神樂坂愛琉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-206"
     },
     {
-      "id": 4768,
-      "IDcode": "IPSE-013",
-      "title": "新人出道！東京都內名校女大學生放棄主播內定工作，轉身投入AV界大放光芒 AV DEBUT ~ 神樂阪芽瑠",
+      "id": 3525,
+      "IDcode": "DVMM-277",
+      "title": "マジックミラー便 一流百貨店に勤務する清楚で品格漂う美容部員さん 初めてのじゅぼじゅぼバキュームノーハンドフェラ編 vol.05",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703034628661661_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b149df15c08d63a9907ad8/cover.jpg",
       "actress": [
+        "南條彩",
+        "五芭",
+        "斉藤帆夏",
         "神樂坂愛琉",
-        "羽田貴史"
+        "夏芽さき"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-277"
     }
   ]
 };

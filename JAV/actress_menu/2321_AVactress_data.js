@@ -37,13 +37,13 @@ window.actressData = {
     {
       "id": 5071,
       "IDcode": "BAB-161",
-      "title": "新人出道！反差萌女神 ~ 京名れん",
+      "title": "ギャップの女神 京名れん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623085841232232_thumbnail.webp",
       "actress": [
         "京名れん"

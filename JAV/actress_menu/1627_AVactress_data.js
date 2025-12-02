@@ -40,36 +40,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3594,
-      "IDcode": "MIKR-027",
-      "title": "綺麗大姐姐被幹到理智崩盤 潮吹愛液亂噴的3本番 ~ 知良美佳",
+      "id": 4525,
+      "IDcode": "MIKR-026",
+      "title": "新人 きれいなお姉さんは好きですか？ 専属 知良みかAV Debut！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-08-14",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "知良美佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-026"
+    },
+    {
+      "id": 3594,
+      "IDcode": "MIKR-027",
+      "title": "綺麗なお姉さんの理性とバルトリン腺決壊 アクメ覚醒 淫らな汁と潮吹きダダ漏れ3本番 知良みか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030425593593_56054_thumbnail.webp",
       "actress": [
         "知良美佳"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-027"
-    },
-    {
-      "id": 4525,
-      "IDcode": "MIKR-026",
-      "title": "新人出道！ 喜歡性感大姐姐嗎？MOODYZ 專屬新人火辣出道 AV DEBUT ~ 知良美佳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100313337979_25799_s.webp",
-      "actress": [
-        "知良美佳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-026"
     }
   ]
 };

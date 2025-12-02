@@ -50,37 +50,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/409b82f8-06fb-4f96-8129-d4c2a914b0c6.jpg",
     "https://picture.yoshiclub.xyz/20230210/83f2c605-7e2b-4550-942f-ee3b4d2ca937.jpg"
   ],
-  "works_count": 13,
+  "works_count": 17,
   "related_dramas": [
-    {
-      "id": 4864,
-      "IDcode": "KSBJ-386",
-      "title": "精選！身材纖細卻擁有巨乳的美熟女TOP14 ~ 真木今日子 君島美緒 朝桐光 篠田步美 小早川憐子 谷梓 吹石玲奈 北條麻妃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224753113113_thumbnail.webp",
-      "actress": [
-        "真木今日子",
-        "小早川怜子",
-        "北条麻妃",
-        "吹石玲奈",
-        "君島美緒",
-        "朝桐光",
-        "篠田步美",
-        "谷梓",
-        "安倍亜沙美",
-        "君岛美绪",
-        "瀬崎彩音",
-        "芦名ユリア",
-        "白川千织",
-        "高槻れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
-    },
     {
       "id": 88930,
       "IDcode": "UMSO-507",
@@ -88,10 +59,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240830/RKpEuDfN/1.jpg",
       "actress": [
         "波多野结衣",
         "森澤佳奈",
@@ -113,10 +84,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2022-08-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/b648c57bd56d3bcfae0f855408e69612.jpg",
+      "cover_url": "",
       "actress": [
         "AIKA",
         "通野未帆",
@@ -139,7 +110,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "NEXT",
       "publish_date": "2021-12-20",
       "cover_url": "",
@@ -157,62 +128,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "RUBY",
       "publish_date": "2020-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/8c02da5622cbb6676a73855073202f87.jpg",
+      "cover_url": "",
       "actress": [
         "朝桐光"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCD-177"
-    },
-    {
-      "id": 75799,
-      "IDcode": "HDKA-193",
-      "title": "はだかの主婦 世田谷区在住 朝桐光（35）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
-      "actress": [
-        "朝桐光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-193"
-    },
-    {
-      "id": 77109,
-      "IDcode": "NACR-279",
-      "title": "もしも…「朝桐光」が○○だったら…。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2019-11-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/a7378ec7a6e8aea5f9fd8c22ab335819.jpg",
-      "actress": [
-        "朝桐光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-279"
-    },
-    {
-      "id": 72880,
-      "IDcode": "VEC-383",
-      "title": "夫の前でマッサージ師に絶頂（いか）された妻 朝桐光",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2019-09-13",
-      "cover_url": "",
-      "actress": [
-        "朝桐光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-383"
     },
     {
       "id": 1049,
@@ -221,7 +144,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-04-21",
       "cover_url": "https://picture.yoshiclub.xyz/20231227/b17a4da6-45be-40ce-8eab-1792ab830928.jpg",
@@ -231,15 +154,125 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1465"
     },
     {
+      "id": 99045,
+      "IDcode": "BBAN-103",
+      "title": "帰省妻レズ調教～夫の生家に一人きり…嫁姑レズビアン～ 早川瀬里奈 小早川怜子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2016-08-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban103/bban103pl.jpg",
+      "actress": [
+        "小早川怜子",
+        "朝桐光",
+        "早川瀬里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-103"
+    },
+    {
+      "id": 99168,
+      "IDcode": "DVDES-635",
+      "title": "淫猥キャットファイト3 女子校生と美人女教師！美闘タイマンガチバトル！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-06-06",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dvdes635/1dvdes635pl.jpg",
+      "actress": [
+        "朝桐光",
+        "南梨央奈",
+        "小司杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-635"
+    },
+    {
+      "id": 102938,
+      "IDcode": "IENE-245",
+      "title": "アナル性感レズオイルエステ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-03-23",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1iene245/1iene245pl.jpg",
+      "actress": [
+        "朝桐光",
+        "小司杏",
+        "美咲结衣",
+        "铃木ありす",
+        "梦実あくび",
+        "莲美恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-245"
+    },
+    {
+      "id": 144935,
+      "IDcode": "CARIBBEANCOMPR-092322_006",
+      "title": "月刊朝日朝雾2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250210-1/3aaec04ea33220f7afe094940008af96.jpg",
+      "actress": [
+        "朝桐光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOMPR-092322_006"
+    },
+    {
+      "id": 105020,
+      "IDcode": "SSPD-105",
+      "title": "奴隶馆调教姐妹花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上優",
+        "朝桐光",
+        "吉田花",
+        "绫瀬みなみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-105"
+    },
+    {
+      "id": 104677,
+      "IDcode": "RBD-386",
+      "title": "家族恩怨把姐妹三人送上奴隶的舞台",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "朝桐光",
+        "水无瀬优夏",
+        "大森美玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-386"
+    },
+    {
       "id": 88020,
       "IDcode": "ERM-003",
       "title": "バレたら即離婚！！究極のスリルを味わいたくて家族が間近にいるのにいつでもどこでもSEXしたがる人妻たちの家庭内不倫！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2014-09-10",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "朝桐光",
@@ -249,52 +282,97 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ERM-003"
     },
     {
-      "id": 509,
-      "IDcode": "HEYZO-0608",
-      "title": "他人妻味 - 完美身材中滿滿溢出的濃厚蜜液 ~ 朝桐光",
+      "id": 77109,
+      "IDcode": "NACR-279",
+      "title": "もしも…「朝桐光」が○○だったら…。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/d0f9914afd440b09d87c34ef96b44bf0.jpg",
+      "actress": [
+        "朝桐光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-279"
+    },
+    {
+      "id": 75799,
+      "IDcode": "HDKA-193",
+      "title": "はだかの主婦 世田谷区在住 朝桐光（35）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/84360699abb04394ab4998f599185b2f.jpg",
+      "actress": [
+        "朝桐光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-193"
+    },
+    {
+      "id": 72880,
+      "IDcode": "VEC-383",
+      "title": "和老公一起去按摩店的人妻-朝桐光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240831-1/7b97ae6419af4f9deef5fc8f9cb8eacd.jpg",
+      "actress": [
+        "朝桐光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-383"
+    },
+    {
+      "id": 4864,
+      "IDcode": "KSBJ-386",
+      "title": "厳選！！細身なのに巨乳な美熟女BEST14人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224753113113_thumbnail.webp",
+      "actress": [
+        "真木今日子",
+        "小早川怜子",
+        "北条麻妃",
+        "吹石玲奈",
+        "君島美緒",
+        "朝桐光",
+        "篠田步美",
+        "谷梓",
+        "安倍亜沙美",
+        "君岛美绪",
+        "瀬崎彩音",
+        "芦名ユリア",
+        "白川千织",
+        "高槻れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
+    },
+    {
+      "id": 509,
+      "IDcode": "HEYZO-0608",
+      "title": "诬陷隔壁的美熟女人妻朝桐光买情趣玩具然后然后就可以内射她了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2014-05-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20241223/ce08d074-19be-41b5-bf50-d1ccc5f78a79.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cd707f4e7d663df4db88ba/cover.jpg",
       "actress": [
         "朝桐光"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0608"
-    },
-    {
-      "id": 2017,
-      "IDcode": "SKYHD-078",
-      "title": "SKY ANGEL 78 超爆美乳天使 潮汁全開二穴中出 ~ 朝桐光",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-10-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/3035a35c-47ad-4623-aa4f-0906960d6f77.webp",
-      "actress": [
-        "朝桐光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-078"
-    },
-    {
-      "id": 1872,
-      "IDcode": "SKYHD-071",
-      "title": "天空天使藍 Vol.71 朝霧光 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/87385d9c-0812-4075-bece-b9c350fd45aa.webp",
-      "actress": [
-        "朝桐光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-071"
     }
   ]
 };

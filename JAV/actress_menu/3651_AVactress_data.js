@@ -4,7 +4,7 @@ window.actressData = {
   "name": "宫沢ゆかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,33 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 12,
+  "works_count": 13,
   "related_dramas": [
-    {
-      "id": 91219,
-      "IDcode": "EVIS-489",
-      "title": "濃厚口臭鼻舐めレズ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-10-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240415-1/f527e9009db60be0a5571ff2ed3ef88e.jpg",
-      "actress": [
-        "阿部乃美久",
-        "雨村梨花",
-        "安倍亜沙美",
-        "三吉菜々",
-        "宫沢ゆかり",
-        "斉藤みゆ",
-        "瀬戸すみれ",
-        "NIMO",
-        "夏日风",
-        "小春"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-489"
-    },
     {
       "id": 87060,
       "IDcode": "OKAX-909",
@@ -50,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231018/YcWzENr8/1.jpg",
       "actress": [
         "森日向子",
         "上田紗奈",
@@ -76,8 +51,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/f68b463bd0e34df014559c094a7d4b17.jpg",
       "actress": [
@@ -86,57 +61,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-021"
     },
     {
-      "id": 74997,
-      "IDcode": "OVG-121",
-      "title": "尻穴絶頂！アナルオナニー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241224-1/737683ade7aab3cc104c056dc89e525f.jpg",
-      "actress": [
-        "推川悠里",
-        "妃月るい",
-        "新村晶",
-        "管野静香",
-        "宫沢ゆかり",
-        "山井すず",
-        "七海ゆあ",
-        "咲坂花恋"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-121"
-    },
-    {
-      "id": 99649,
-      "IDcode": "SDDE-544",
-      "title": "女○校生がアニマル化する学園生活",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-10-24",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdde544/1sdde544pl.jpg",
-      "actress": [
-        "宫沢ゆかり",
-        "生田みく",
-        "相泽ゆりな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-544"
-    },
-    {
       "id": 73707,
       "IDcode": "MIZD-152",
       "title": "「もうイってるってばぁ～！」状態の制服美少女を突きまくる射精直前の激ピストンBEST50SEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "DEEP'S",
       "publish_date": "2019-09-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/3466ba908a0fc1d9ef2fc3da3516a6ae.jpg",
       "actress": [
         "栄川乃亜",
         "初川南",
@@ -150,23 +84,65 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-152"
     },
     {
-      "id": 77898,
-      "IDcode": "MDB-982",
-      "title": "部活帰りの女子校生に生中出し2",
+      "id": 99713,
+      "IDcode": "MDTM-482",
+      "title": "さらば青春の光 ～女子校生たちの放課後とセックス事情～ 蒼風とわ・森下美玲・宮沢ゆかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-01-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/e57394bf76afb1459cd1f5ab72120b61.jpg",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1303c15c08d63a9901e48/cover.jpg",
       "actress": [
-        "安部未華子",
-        "有坂深雪",
-        "篠宫ゆり",
-        "宫沢ゆかり"
+        "相沢夏帆",
+        "宫沢ゆかり",
+        "苍风とわ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-482"
+    },
+    {
+      "id": 99649,
+      "IDcode": "SDDE-544",
+      "title": "学園生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "宫沢ゆかり",
+        "生田みく",
+        "相泽ゆりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-544"
+    },
+    {
+      "id": 91219,
+      "IDcode": "EVIS-489",
+      "title": "濃厚口臭鼻舐めレズ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240415-1/bdfe89aa429a3a598f9b1d37ad6c74ee.jpg",
+      "actress": [
+        "阿部乃美久",
+        "雨村梨花",
+        "安倍亜沙美",
+        "三吉菜々",
+        "宫沢ゆかり",
+        "斉藤みゆ",
+        "瀬戸すみれ",
+        "NIMO",
+        "夏日风",
+        "小春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-489"
     },
     {
       "id": 88124,
@@ -175,14 +151,33 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Mr.Michiru",
-      "publish_date": "2018-11-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230908-1/b64e4b72e2aa5852446161603c0921fa.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ec6e522d246c70ee139606c8b4c23db7.jpg",
       "actress": [
         "宫沢ゆかり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-234"
+    },
+    {
+      "id": 86955,
+      "IDcode": "SDDE-490",
+      "title": "被催眠光线支配失去了最基本伦理道德的一家人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上優",
+        "若月玛丽亚",
+        "宫沢ゆかり",
+        "夏希みなみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-490"
     },
     {
       "id": 77960,
@@ -191,9 +186,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-03-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "森春流",
@@ -205,16 +200,58 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-418"
     },
     {
+      "id": 77898,
+      "IDcode": "MDB-982",
+      "title": "部活帰りの女子校生に生中出し2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/92ce340809c2791b69648caba16cc8ba.jpg",
+      "actress": [
+        "安部未華子",
+        "有坂深雪",
+        "篠宫ゆり",
+        "宫沢ゆかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-982"
+    },
+    {
+      "id": 74997,
+      "IDcode": "OVG-121",
+      "title": "尻穴絶頂！アナルオナニー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241201-1/118497e7a8cd3e8ee9b498344e4fb8f6.jpg",
+      "actress": [
+        "推川悠里",
+        "妃月るい",
+        "新村晶",
+        "管野静香",
+        "宫沢ゆかり",
+        "山井すず",
+        "七海ゆあ",
+        "咲坂花恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-121"
+    },
+    {
       "id": 73015,
       "IDcode": "SQTE-191",
       "title": "彼女はピュアでスケベ過ぎる。無垢な美少女の本気SEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
-      "publish_date": "2017-12-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9d0d078a7fbd045168eaff1ca0171fae.jpg",
       "actress": [
         "枢木葵",
         "一色さゆり",
@@ -228,38 +265,19 @@ window.actressData = {
     {
       "id": 66840,
       "IDcode": "AVOP-381",
-      "title": "夏のひめごと。実写版",
+      "title": "夏天的淫秽故事-あべみかこ 宮沢ゆかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-09-01",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/e6e628edad4e26a7cd67f6a1766bba81.jpg",
       "actress": [
         "安部未華子",
         "宫沢ゆかり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-381"
-    },
-    {
-      "id": 86955,
-      "IDcode": "SDDE-490",
-      "title": "催眠光線で支配された家族",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-05-03",
-      "cover_url": "",
-      "actress": [
-        "川上優",
-        "若月玛丽亚",
-        "宫沢ゆかり",
-        "夏希みなみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-490"
     }
   ]
 };

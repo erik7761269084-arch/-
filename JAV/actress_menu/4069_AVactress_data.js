@@ -25,38 +25,38 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 70766,
-      "IDcode": "SDSI-055",
-      "title": "現役客室乗務員 逢坂優 24歳 SOD独占デビュー 世界を股にかける国際線CAの卑猥なカラダとセックス",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-08-18",
-      "cover_url": "",
-      "actress": [
-        "鲛岛",
-        "逢坂优"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSI-055"
-    },
-    {
       "id": 77169,
       "IDcode": "MILD-932",
       "title": "潜入捜査官 星美りかwithクリスティーン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2014-09-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "逢坂优",
         "星美りか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILD-932"
+    },
+    {
+      "id": 70766,
+      "IDcode": "SDSI-055",
+      "title": "現役客室乗務員 逢坂優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/329b351f9a8bd995c461dae5ec219255.jpg",
+      "actress": [
+        "鲛岛",
+        "逢坂优"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSI-055"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "伊东玲美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,37 +19,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 85403,
-      "IDcode": "MIDV-022",
-      "title": "スレンダーGカップすべすべ肌美白ボディで濃厚ご奉仕 専属第3弾！！神乳Yo●Tu●e●のドキドキ初体験ソープ 明日見未来",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2022-01-04",
-      "cover_url": "",
-      "actress": [
-        "Qべぇ",
-        "夏目ミュウ",
-        "寺泽しのぶ",
-        "爱川咲树",
-        "大冢千秋",
-        "伊东玲美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-022"
-    },
-    {
       "id": 85411,
       "IDcode": "MIDV-021",
-      "title": "昔の地味な教え子に再会したら綺麗な人妻になっていた… 旦那に浮気された彼女を誘ったら何度も何度も中出しできた。 つぼみ",
+      "title": "美丽的已婚妇女-つぼみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2021-12-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230124-1/5a97021596a0b045b90805a15fca6438.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/12/26/252d63e14260f8c41f27225c36006c88.jpg",
       "actress": [
         "深田詠美",
         "蕾",
@@ -59,6 +38,27 @@ window.actressData = {
         "长瀬あずさ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-021"
+    },
+    {
+      "id": 85403,
+      "IDcode": "MIDV-022",
+      "title": "苗条的G罩杯-明日見未来",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-12/67503a2566e31b0f95a01bfa7b2c1b52.jpg",
+      "actress": [
+        "Qべぇ",
+        "夏目ミュウ",
+        "寺泽しのぶ",
+        "爱川咲树",
+        "大冢千秋",
+        "伊东玲美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-022"
     }
   ]
 };

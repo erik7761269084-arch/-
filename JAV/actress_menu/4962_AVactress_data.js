@@ -4,7 +4,7 @@ window.actressData = {
   "name": "和泉ありさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2006-09-29",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220914-1/71c5d951b7e7971b9ac0a71b101632fa.jpg",
+      "cover_url": "",
       "actress": [
         "和泉ありさ"
       ],

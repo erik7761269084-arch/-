@@ -29,174 +29,76 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231022/5b64d364-169d-4cae-9d3f-d743cc0286a3.jpeg",
     "https://picture.yoshiclub.xyz/20231022/1bc3e0dc-c29e-4970-ba5f-e7c506cc5efd.jpg"
   ],
-  "works_count": 11,
+  "works_count": 21,
   "related_dramas": [
     {
-      "id": 3328,
-      "IDcode": "ROE-385",
-      "title": "繼女每天叫來男同學把我一次又一次的輪⬤ ~ 大島優香",
+      "id": 16654,
+      "IDcode": "JUQ-511",
+      "title": "片廠Madonna成立20周年紀念！ 全世界最奢華紀念之作！巨大的狂歡感謝祭 無限量的中出内射！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023633818818_84576_thumbnail.webp",
-      "actress": [
-        "大島優香",
-        "ラヴズ",
-        "太刀茜祢",
-        "磯山道"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-385"
-    },
-    {
-      "id": 5109,
-      "IDcode": "ROE-354",
-      "title": "暗戀的阿姨被下媚藥10天後，淪為我的中出專屬肉便器 ~ 大島優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064857556556_thumbnail.webp",
-      "actress": [
-        "大島優香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-354"
-    },
-    {
-      "id": 6774,
-      "IDcode": "JUR-235",
-      "title": "身體燙得停不下來啦！失控高潮噴水不停 迷上美容保健品的人妻汁液狂泄 ~ 大島優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417085130457457_thumbnail.webp",
-      "actress": [
-        "大島優香",
-        "左慈半造"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-235"
-    },
-    {
-      "id": 8802,
-      "IDcode": "JUR-149",
-      "title": "兒子的大雞巴壞朋友給我喂了媚藥，反復抽搐、痛苦和高潮。親愛的媽媽變成了野獸 ~ 大島優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072940752752.jpg",
-      "actress": [
-        "大島優香",
-        "ナイアガラ翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-149"
-    },
-    {
-      "id": 9711,
-      "IDcode": "JUQ-978",
-      "title": "和兒子的朋友保持性關系已五年了……我還沉浸在和年輕人的性愛中 ~ 大島優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218102256962962.jpg",
-      "actress": [
-        "大島優香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-978"
-    },
-    {
-      "id": 10411,
-      "IDcode": "JUQ-942",
-      "title": "被困在密室裏眼淚流了下來.. 我強奸了平時高高在上的女上司 ~ 大島優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/202411220037512828.jpg",
-      "actress": [
-        "大島優香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-942"
-    },
-    {
-      "id": 16112,
-      "IDcode": "JUQ-536",
-      "title": "我親眼目睹了我朋友的母親大島優香的祕密一面，並接受了用祕密中出振動器以騎乘位姿勢保守她祕密的訓練......",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-02-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20240224/20240224065713269269.jpg",
-      "actress": [
-        "大島優香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-536"
-    },
-    {
-      "id": 16669,
-      "IDcode": "JUQ-490",
-      "title": "一次溫泉之旅，整個部門繼續輪奸一名職業生涯中期的已婚女員工大島優香，直到她變成一個肉便池。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
+      "type": "",
+      "company": "",
       "publish_date": "2024-01-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121031712710710.jpg",
+      "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121090720147147.jpg",
       "actress": [
+        "葉山小百合",
+        "栗山莉緒",
+        "椎名由奈",
+        "竹内有紀",
+        "向井藍",
+        "愛弓涼",
+        "沖宮那美",
+        "多田有花",
+        "一乃葵",
+        "風間由美",
+        "水户香奈",
+        "白石茉莉奈",
+        "藤環奈",
+        "木下凜々子",
+        "上羽絢",
+        "流川はる香",
+        "水野優香",
+        "一色桃子",
         "大島優香",
-        "日森一"
+        "佐田茉莉子",
+        "友田真希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-490"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-511"
     },
     {
-      "id": 17104,
-      "IDcode": "JUQ-454",
-      "title": "大奶子的宿舍管理员被我幹了",
+      "id": 106853,
+      "IDcode": "ACHJ-021",
+      "title": "時には勝手に痴女りたい…。 Madonna専属 究極美熟女『大島優香』お貸しします―。 大島優香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2023-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224010038212212.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/ba34a5ef202fb90a57dd752f2bb92fe6.jpg",
       "actress": [
         "大島優香",
-        "Qべぇ"
+        "ハカー"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-021"
     },
     {
-      "id": 17619,
-      "IDcode": "JUQ-418",
-      "title": "和儿子朋友制御不能的絶倫交尾内射",
+      "id": 95005,
+      "IDcode": "JUL-086",
+      "title": "家庭主夫的我被隔壁的太太玩弄每次上来就直接攻击我的肉棒让我无法反抗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231126/87f78ed7-06e9-4275-8100-e44fb5f57e25.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d42e586e56cbea0c3d77c201344b6f1f.jpg",
       "actress": [
         "大島優香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-418"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-086"
     },
     {
       "id": 18225,
@@ -205,14 +107,304 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-10-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022031027320320.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240308-1/cd39206abb89ebfd2b1f8c053296123f.jpg",
       "actress": [
         "大島優香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-389"
+    },
+    {
+      "id": 17619,
+      "IDcode": "JUQ-418",
+      "title": "无法抵御儿子朋友们的绝伦交尾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240308-1/133e130934b3051851ea77eb3a99324e.jpg",
+      "actress": [
+        "大島優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-418"
+    },
+    {
+      "id": 17104,
+      "IDcode": "JUQ-454",
+      "title": "为了去高级SOAP-大岛优香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240308-1/2351986e6421ff7e2dbb9e3d109afc52.jpg",
+      "actress": [
+        "大島優香",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-454"
+    },
+    {
+      "id": 16669,
+      "IDcode": "JUQ-490",
+      "title": "一次溫泉之旅，整個部門繼續輪奸一名職業生涯中期的已婚女員工大島優香，直到她變成一個肉便池。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f38ed2cf22ae3e04e6f2fc/cover.jpg",
+      "actress": [
+        "大島優香",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-490"
+    },
+    {
+      "id": 16112,
+      "IDcode": "JUQ-536",
+      "title": "我亲眼目睹了朋友母亲由香的秘密一面",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240224/20240224065713269269.jpg",
+      "actress": [
+        "大島優香",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-536"
+    },
+    {
+      "id": 15908,
+      "IDcode": "JUQ-582",
+      "title": "俯瞰視角看美乳人妻-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323033858462462.jpg",
+      "actress": [
+        "大島優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-582"
+    },
+    {
+      "id": 15277,
+      "IDcode": "JUQ-622",
+      "title": "已婚妇女在脱衣舞剧场跳舞-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c329375f13d063bcdf6464/cover.jpg",
+      "actress": [
+        "大島優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-622"
+    },
+    {
+      "id": 14461,
+      "IDcode": "JUQ-692",
+      "title": "中出的日子永远不会结束-大岛由香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a152cac813dc779d95fea/cover.jpg",
+      "actress": [
+        "大島優香",
+        "大村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-692"
+    },
+    {
+      "id": 13803,
+      "IDcode": "JUQ-708",
+      "title": "突发人妻NTR-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621010828460460.jpg",
+      "actress": [
+        "大島優香",
+        "左慈半造",
+        "大岛丈",
+        "池谷佳纯",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-708"
+    },
+    {
+      "id": 12455,
+      "IDcode": "JUQ-802",
+      "title": "朋友介紹工作的健康美容院竟然是風俗店……人妻接受了遵守風俗店店經理調教課程的培訓 ~大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67895f7b5d57b64bfd9bcfc3/cover.jpg",
+      "actress": [
+        "大島優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-802"
+    },
+    {
+      "id": 11220,
+      "IDcode": "ACHJ-049",
+      "title": "貴方のアナルを舐めじゃくり痴女 大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/9579b39f77ff28d1e11742707f31c10e.jpg",
+      "actress": [
+        "大島優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-049"
+    },
+    {
+      "id": 10411,
+      "IDcode": "JUQ-942",
+      "title": "傲慢强势的女上司-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7c34edc101930b4b57a1/cover.jpg",
+      "actress": [
+        "大島優香",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-942"
+    },
+    {
+      "id": 9711,
+      "IDcode": "JUQ-978",
+      "title": "跟儿子朋友当炮友已经5年了-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218102256962962.jpg",
+      "actress": [
+        "大島優香",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-978"
+    },
+    {
+      "id": 8802,
+      "IDcode": "JUR-149",
+      "title": "被大阴茎的恶友下了媚药-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072940752752.jpg",
+      "actress": [
+        "大島優香",
+        "ナイアガラ翔",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-149"
+    },
+    {
+      "id": 8094,
+      "IDcode": "JUR-017",
+      "title": "デビュー10周年記念 大島優香 初緊縛！！ 麻縄に溺れた人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/28/67c139f24e7d663df4b734b8/cover.jpg",
+      "actress": [
+        "大島優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-017"
+    },
+    {
+      "id": 6774,
+      "IDcode": "JUR-235",
+      "title": "撒尿和药物引起的高潮-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417085130457457_thumbnail.webp",
+      "actress": [
+        "大島優香",
+        "左慈半造",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-235"
+    },
+    {
+      "id": 5109,
+      "IDcode": "ROE-354",
+      "title": "對憧憬的阿姨持續餵食媚藥10天後-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064857556556_thumbnail.webp",
+      "actress": [
+        "大島優香",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-354"
+    },
+    {
+      "id": 3328,
+      "IDcode": "ROE-385",
+      "title": "義理の娘は男友達を呼び出して毎日、私を輪●させています―。 大島優香 須崎美羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023633818818_84576_thumbnail.webp",
+      "actress": [
+        "大島優香",
+        "ラヴズ",
+        "太刀茜祢",
+        "磯山道"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-385"
     }
   ]
 };

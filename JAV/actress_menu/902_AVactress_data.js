@@ -29,24 +29,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230122/8a34d4ed-a490-4318-babd-7c65735f08a7.jpg",
     "https://picture.yoshiclub.xyz/20230122/afd222a4-ff06-4c45-8924-f4d5c1b15d8e.jpg"
   ],
-  "works_count": 5,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1780,
-      "IDcode": "MKBD-S64",
-      "title": "KIRARI 64 與黑髪美乳娘的中出性愛 : 美波愛梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2014-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/aedb3b22-bcdc-4d2f-b946-fc87bcc6d36e.webp",
-      "actress": [
-        "美波愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S64"
-    },
     {
       "id": 410,
       "IDcode": "HEYZO-0484",
@@ -54,7 +38,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2013-12-20",
       "cover_url": "https://picture.yoshiclub.xyz/20250210/55c9c9ef-82b6-4631-8788-d8e7ae4077b8.jpg",
@@ -62,62 +46,6 @@ window.actressData = {
         "美波愛梨"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0484"
-    },
-    {
-      "id": 2064,
-      "IDcode": "CWPBD-91",
-      "title": "Catwalk Catwalk Poison 91 中出海灘亂交：綾香、一之瀨瑠花、愛野奈美，共7人。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/05c3b181-edbd-4c05-9061-72291cbce5fa.webp",
-      "actress": [
-        "新山枫",
-        "愛乃娜美",
-        "一ノ瀬ルカ",
-        "美波愛梨",
-        "浅之美波",
-        "滝川ソフィア",
-        "北田千夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
-    },
-    {
-      "id": 1947,
-      "IDcode": "LAFBD-09",
-      "title": "Laforet Girl Vol.9 : 光、淺野南、南愛理",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-10-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/39b5137a-4566-4b42-a28d-5c8a5c9300a6.webp",
-      "actress": [
-        "美波愛梨",
-        "HIKARI",
-        "浅之美波"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-09"
-    },
-    {
-      "id": 1978,
-      "IDcode": "LAFBD-03",
-      "title": "Laforet Girl Vol.3：南愛理",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/d1ddb3f7-951c-4705-a132-ae1355d48873.webp",
-      "actress": [
-        "美波愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-03"
     }
   ]
 };

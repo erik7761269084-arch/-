@@ -4,7 +4,7 @@ window.actressData = {
   "name": "陈美恵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
+      "type": "",
+      "company": "",
       "publish_date": "2017-10-13",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221022-1/d481582e6a709575f4144eb8436dbe7d.jpg",
       "actress": [
         "陈美恵"
       ],

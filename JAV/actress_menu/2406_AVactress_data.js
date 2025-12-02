@@ -52,11 +52,11 @@ window.actressData = {
     {
       "id": 1718,
       "IDcode": "S2MBD-033",
-      "title": "Encore Vol.33 - 絕對看著鏡頭 - : Yuka Kokoro : Part.1 (HD)",
+      "title": "Encore Vol.33 - 絕對看著鏡頭 - : Yuka Kokoro : Part.1",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2011-09-08",
       "cover_url": "https://picture.yoshiclub.xyz/20230208/f9f05be6-795c-402b-b5a9-68a2b0f660b7.webp",

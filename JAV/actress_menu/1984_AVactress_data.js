@@ -34,23 +34,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250711/4f58bd29-86be-4b81-be38-d5b6c3e9b578_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 4504,
       "IDcode": "MIFD-639",
-      "title": "新人出道！在SNS上向數千人公開菊花大戰的狠角色！發獸性後庭高潮視頻被永久封號的肛交上癮妹子AVDEBUT ~ 本田凜",
+      "title": "SNSで千人とアナルFUCKした女！！獣のようなケツ穴絶頂動画を上げて永久垢BANされた肛門中毒裏アカ女子AVデビュー 本田凛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710033058247247_30850_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889f61898bc99dfddcdd5fb/cover.jpg",
       "actress": [
         "本田凛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-639"
+    },
+    {
+      "id": 3548,
+      "IDcode": "MVSD-659",
+      "title": "ケツ穴病棟24時 急増する肛門性交中毒患者や喉奥凌●中毒患者や強●精飲依存患者を救う為、昼夜、奮闘する新米ナースの3穴ごっくん治療37発 本田凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030427915915_67358_thumbnail.webp",
+      "actress": [
+        "本田凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-659"
     }
   ]
 };

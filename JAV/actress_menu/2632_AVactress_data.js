@@ -51,8 +51,57 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241126/c1afeb04-57de-4712-a1e0-c88eafa73895.jpg",
     "https://picture.yoshiclub.xyz/20241126/0f3fef8b-118e-453a-8cf8-8a9d3a82565f.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 144131,
+      "IDcode": "111911-863",
+      "title": "温泉美女房东",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2fd632bf6047297c0718942ca9a69893.jpg",
+      "actress": [
+        "美智子小夜曲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=111911-863"
+    },
+    {
+      "id": 142737,
+      "IDcode": "040412-985",
+      "title": "最佳女明星Vol.5",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250202-1/37f138e000909b1adcc444314d469e1a.jpg",
+      "actress": [
+        "美智子小夜曲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=040412-985"
+    },
+    {
+      "id": 79580,
+      "IDcode": "PPPD-329",
+      "title": "巨乳潜入捜査官-めぐり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "藤浦惠",
+        "美智子小夜曲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-329"
+    },
     {
       "id": 69048,
       "IDcode": "VNDS-3316",
@@ -60,10 +109,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-07-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250322-1/799e715df3bbbf90133ee245cacab56a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3e9a962aad9e80b210aa66caa01965f3.jpg",
       "actress": [
         "村上涼子",
         "美智子小夜曲",
@@ -75,23 +124,6 @@ window.actressData = {
         "响京香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3316"
-    },
-    {
-      "id": 79580,
-      "IDcode": "PPPD-329",
-      "title": "巨乳潜入捜査官 めぐり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2014-11-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/890f93901588d575ba990fa6d9193ba3.jpg",
-      "actress": [
-        "藤浦惠",
-        "美智子小夜曲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-329"
     }
   ]
 };

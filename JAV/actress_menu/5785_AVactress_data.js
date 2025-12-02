@@ -4,7 +4,7 @@ window.actressData = {
   "name": "藤本香澄",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 92334,
       "IDcode": "MIFD-236",
-      "title": "新人 現在、膣トレにドハマり中 サバゲ―、バレエ、ダンスetc...趣味活大好きお姉さん エッチを趣味にしたくてAV DEBUT！！ 藤本香澄 （ブルーレイディスク） （BOD）",
+      "title": "现在对阴道锻炼有二次沉迷-藤本香澄",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-05-02",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/733630fb934c4a54bc91e62e861aa6f9.jpg",
       "actress": [
         "タイ",
         "藤本香澄"

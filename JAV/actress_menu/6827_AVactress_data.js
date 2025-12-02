@@ -4,7 +4,7 @@ window.actressData = {
   "name": "あいかりん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106957,
       "IDcode": "EBWH-019",
-      "title": "芸能人NTR 大嫌いな新人マネージャーとまさかの相部屋 性格の相性は最悪なのに身体の相性は最高で一晩中イカされ続けた地方ロケの夜 あいかりん",
+      "title": "艺能人NTR-AIKARIN",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2023-09-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/27/68358540d6dba345751165b5/cover.jpg",
       "actress": [
         "あいかりん"
       ],

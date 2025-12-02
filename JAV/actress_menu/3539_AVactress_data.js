@@ -4,7 +4,7 @@ window.actressData = {
   "name": "内山まい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 64053,
-      "IDcode": "VNDS-5222",
-      "title": "兄嫁の卑猥な肉体 180分",
+      "id": 83499,
+      "IDcode": "DDT-629",
+      "title": "淫語パイズラーベストVol2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2025-05-20",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/3843cc17/vod.jpg",
+      "publish_date": "2020-03-19",
+      "cover_url": "",
+      "actress": [
+        "七草千歲",
+        "塚田詩織",
+        "内山まい",
+        "叶月美音",
+        "青木りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDT-629"
+    },
+    {
+      "id": 64053,
+      "IDcode": "VNDS-5222",
+      "title": "兄嫁の卑猥な肉体 180分小日向まい 加藤ツバキ（夏樹カオル） 染谷さとみ 柏原友美恵 夜空奈歩 さくら悠 筒井まりか 水澤まお（永沢まおみ） 高島恭子 郡司結子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "水澤真央",
         "夏树カオル",
@@ -40,26 +60,6 @@ window.actressData = {
         "高岛恭子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5222"
-    },
-    {
-      "id": 83499,
-      "IDcode": "DDT-629",
-      "title": "淫語パイズラーベストVol2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
-      "publish_date": "2020-03-19",
-      "cover_url": "",
-      "actress": [
-        "七草千歲",
-        "塚田詩織",
-        "内山まい",
-        "叶月美音",
-        "青木りん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDT-629"
     }
   ]
 };

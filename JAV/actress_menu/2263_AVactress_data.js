@@ -35,33 +35,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/5-Ebody/桃田香織.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/9-AVDBS/AI-Fix-藤谷真帆.jpg"
   ],
-  "works_count": 11,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 67205,
-      "IDcode": "HDKA-319",
-      "title": "はだかの主婦 巨尻特化セレクションVOL.01 （BOD）",
+      "id": 13335,
+      "IDcode": "MKCK-363",
+      "title": "享受從胸部到頸部的最佳體驗！ 騎乘式做愛 Best 56 本番大合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-05-05",
-      "cover_url": "https://tutu1.space/images/2025/06/27/90c3bff99e867ced5cfb29a16ed4bad7.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712011500373373.jpg",
       "actress": [
-        "小早川怜子",
-        "風間由美",
-        "村上涼子",
-        "寺島志保",
+        "柏木小夏",
+        "天月梓",
+        "北野未奈",
+        "羽月乃蒼",
+        "姫咲華",
+        "楪可憐",
+        "绫濑心",
+        "小花暖",
+        "天晴乃愛",
+        "星乃夏月",
+        "瀬田一花",
+        "水原みその",
+        "愛瀬優里",
+        "逢見梨花",
+        "花柳杏奈",
+        "莉莉遙香",
+        "菊乃らん",
+        "深田詠美",
+        "弓乃凜夢",
+        "雨宮響",
+        "小梅惠奈",
+        "鈴木心春",
+        "希咲愛莉絲",
+        "藤子未央",
+        "森下ことの",
+        "矢野沙衣",
         "桃田香織",
-        "松坂美纪",
-        "加山なつ子",
-        "安倍亜沙美",
-        "樱井夕树",
-        "折原ゆかり",
-        "朝雾ゆう"
+        "岩瀨里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-363"
     },
     {
       "id": 81832,
@@ -70,10 +87,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-01",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231228/q6eU3kEU/1.jpg",
       "actress": [
         "西山あさひ",
         "蒼空なつき",
@@ -94,10 +111,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/ee1051279bb92fc94e44e7f91b3fe013.jpg",
+      "cover_url": "",
       "actress": [
         "北条麻妃",
         "吹石玲奈",
@@ -117,7 +134,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-02",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/d38ec59fa4a0625c8c56492a5b3116fc.jpg",
@@ -133,10 +150,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-05",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/55fc004a43b93f99802fa3183572467a.jpg",
       "actress": [
         "桃田香織",
         "沢井亮",
@@ -146,20 +163,87 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-055"
     },
     {
-      "id": 70708,
-      "IDcode": "JUFD-895",
-      "title": "じっくり甘えさせた後に激変！言葉で僕を犯す変態淫語ママ KAORI",
+      "id": 99769,
+      "IDcode": "DVDES-936",
+      "title": "一般男女モニタリングAV 禁断の歳の差筆おろし企画 マジックミラーの向こうには実の息子！いまだ童貞の男子大学生と巨乳の「友達のお母さん」が素股でセックスの予行演習に挑戦！二人っきりの密室でずっと揉んでみたかった友人母の大きなおっぱいに童貞ち○ぽは… 2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2018-04-10",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-02-18",
+      "cover_url": "",
+      "actress": [
+        "加藤あやの",
+        "桃田香織",
+        "桐岛美奈子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-936"
+    },
+    {
+      "id": 98471,
+      "IDcode": "ATID-224",
+      "title": "潜入捜査官、堕ちるまで… KAORI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2013-06-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid224/atid224pl.jpg",
+      "actress": [
+        "桃田香織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-224"
+    },
+    {
+      "id": 98257,
+      "IDcode": "JUX-362",
+      "title": "親父の女 KAORI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/02/20/717dcbae23e3efa600cb900de05d29b9.jpg",
+      "actress": [
+        "桃田香織",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-362"
+    },
+    {
+      "id": 82425,
+      "IDcode": "GVG-367",
+      "title": "母子姦-KAORI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "桃田香織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-367"
+    },
+    {
+      "id": 77234,
+      "IDcode": "SHKD-530",
+      "title": "被虐の家庭教師6 KAORI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a763f3b20a90cbc0807561ec830386e6.jpg",
+      "actress": [
+        "桃田香織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-530"
     },
     {
       "id": 72883,
@@ -168,10 +252,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2017-10-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/624d29df6a1cc3765a2f126aab6b02ec.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9abfeedab8378ad43eded46322f3c5e7.jpg",
       "actress": [
         "吹石玲奈",
         "篠田步美",
@@ -189,67 +273,60 @@ window.actressData = {
     {
       "id": 72300,
       "IDcode": "AVSA-032",
-      "title": "淫語で誘惑エロ美BODY KAORI",
+      "title": "引诱色情的美丽BODY-KAORI",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2017-03-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/80e60ec0875ce9b4d16c948cf5a052f1.jpg",
       "actress": [
         "桃田香織"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-032"
     },
     {
-      "id": 82425,
-      "IDcode": "GVG-367",
-      "title": "母子姦 KAORI",
+      "id": 70708,
+      "IDcode": "JUFD-895",
+      "title": "じっくり甘えさせた後に激変！言葉で僕を犯す変態淫語ママ KAORI",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2016-10-06",
-      "cover_url": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/43dc72caa0f79a7d542e4e62ca07a40c.jpg",
       "actress": [
         "桃田香織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-895"
     },
     {
-      "id": 98257,
-      "IDcode": "JUX-362",
-      "title": "親父の女 KAORI",
+      "id": 67205,
+      "IDcode": "HDKA-319",
+      "title": "はだかの主婦 巨尻特化セレクションVOL.01",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2014-07-07",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
+        "小早川怜子",
+        "風間由美",
+        "村上涼子",
+        "寺島志保",
         "桃田香織",
-        "小田切ジュン"
+        "松坂美纪",
+        "加山なつ子",
+        "安倍亜沙美",
+        "樱井夕树",
+        "折原ゆかり",
+        "朝雾ゆう"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-362"
-    },
-    {
-      "id": 77234,
-      "IDcode": "SHKD-530",
-      "title": "被虐の家庭教師6 KAORI",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/cbf0fe4c8c7ee8d9cc4c17647ae198b5.jpg",
-      "actress": [
-        "桃田香織"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-530"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-319"
     }
   ]
 };

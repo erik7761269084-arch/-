@@ -33,34 +33,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-上原志織.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1741,
-      "IDcode": "SMBD-77",
-      "title": "S Model 77 ～粉領族密藏的性癖～ : 上原結衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2013-05-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/08610697-796f-437f-9c89-a69d62142acb.jpg",
-      "actress": [
-        "上原結衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-77"
-    },
     {
       "id": 1915,
       "IDcode": "CWPBD-79",
-      "title": "CATWALK POISON 79 ～我們愛的特別寵物 ＠美少女～ : 上原結衣",
+      "title": "お漏らし＠美少女-上原結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-02-20",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/8978d412-61d7-478a-9289-0e81d1bb96f9.webp",
       "actress": [
         "上原結衣"

@@ -51,8 +51,26 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230329/1799c0e4-c8c7-4685-b730-92294ebfd45b.jpg",
     "https://picture.yoshiclub.xyz/20230329/e1ac5456-0b56-4455-962b-dfab1e72b494.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 140398,
+      "IDcode": "RBD-533",
+      "title": "为了保护作为病人的我被变态侵犯内射的女护士们和我的老婆",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "波多野结衣",
+        "児島奈央",
+        "水無瀬優夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-533"
+    },
     {
       "id": 1637,
       "IDcode": "EBOD-185",
@@ -60,10 +78,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2012-01-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230330/670bf15a-f6e0-48d5-8837-f617511cb8b9.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/20/67b623becf22ae3e04d3e259/cover.jpg",
       "actress": [
         "水無瀬優夏"
       ],

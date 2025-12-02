@@ -28,39 +28,23 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/w-Attackers/AI-Fix-花井メイサ.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 1888,
       "IDcode": "CWPBD-22",
-      "title": "秀場毒藥 22：花井明紗",
+      "title": "猫步毒药-花井美纱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-06-11",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/aacea6ca-a2fe-4b9e-9cef-2ccbac21b23a.webp",
       "actress": [
         "花井芽衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-22"
-    },
-    {
-      "id": 1885,
-      "IDcode": "SMBD-09",
-      "title": "S 型號 09 : 花井明紗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2010-04-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/c3ff0fc7-fb8f-44ae-ba02-49f2058f806d.webp",
-      "actress": [
-        "花井芽衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-09"
     }
   ]
 };

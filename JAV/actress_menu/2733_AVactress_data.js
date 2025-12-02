@@ -36,7 +36,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250511/e4ca3fe6-8e83-48ad-b968-9156a536031b_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250511/a3f9101e-fcd1-43ee-99b7-7551a60b770b_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 83518,
@@ -45,7 +45,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
       "publish_date": "2020-01-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/71cfc6e9f4b6a2c45d4b12cc234c797c.jpg",
@@ -53,6 +53,23 @@ window.actressData = {
         "有村麻衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-288"
+    },
+    {
+      "id": 6240,
+      "IDcode": "BASJ-024",
+      "title": "無理矢理犯●れた僕を見て嫁が突然痴女発症。その瞬間から僕は二人の肉バイブ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c3312a5f13d063bcdf8bb3/cover.jpg",
+      "actress": [
+        "広瀬結香",
+        "有村麻衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASJ-024"
     }
   ]
 };

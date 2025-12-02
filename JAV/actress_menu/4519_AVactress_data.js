@@ -4,7 +4,7 @@ window.actressData = {
   "name": "新美诗织",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 75193,
       "IDcode": "MIFD-097",
-      "title": "大学卒業間近！ 春から小学校の女教師がAVデビュー 某国立大卒業間近の現役大学4年生は可愛い笑顔の超スレンダーボディー！！ 新美詩織",
+      "title": "担任小学教师的超可爱女大学生-新美詩織",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2020-02-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/a0961974312e9742b802ad510376c6b6.jpg",
       "actress": [
         "玉木玲",
         "新美诗织"

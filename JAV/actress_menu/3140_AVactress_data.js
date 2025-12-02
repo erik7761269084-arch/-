@@ -4,7 +4,7 @@ window.actressData = {
   "name": "荒木ゆあ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 59927,
       "IDcode": "DASS-762",
-      "title": "金曜夜は、絶対的男の娘で決まり。荒木ゆあ、お貸しします。",
+      "title": "每周五的夜晚绝对是男娘的天下-荒木ゆあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DASDAS",
-      "publish_date": "2025-09-23",
-      "cover_url": "https://tutu1.space/images/2025/10/01/e448cbbfdf1b1448e84d66598e917097.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "岩下たろう",
         "荒木ゆあ"

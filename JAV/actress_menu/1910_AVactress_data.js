@@ -47,10 +47,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2022-08-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/04f5e905bcad916d0ad7d47ec7cfb05e.jpg",
       "actress": [
         "天然美月",
         "美里麻衣",

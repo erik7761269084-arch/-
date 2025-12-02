@@ -26,18 +26,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-雨音わかな.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 102726,
-      "IDcode": "HCM-003",
-      "title": "クギづけ！ 目が奪われる瞬間 病院編",
+      "id": 988,
+      "IDcode": "HEYZO-1375",
+      "title": "美麗蕩婦～淫蕩女人的美的女上位後腰部運用～ - 奧野光香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-01-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240129/ac5c8e5f-d496-428b-9b6e-10192386c947.jpg",
+      "actress": [
+        "奥野光香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1375"
+    },
+    {
+      "id": 102726,
+      "IDcode": "HCM-003",
+      "title": "医院里引人注目的时刻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2016-08-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安斉愛結",

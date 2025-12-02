@@ -39,18 +39,229 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250712/fc0d5e9e-d541-4962-b6ec-ec4144ce5960_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250712/bb8fea6e-ed05-4b85-824e-97c09961520b_l.webp"
   ],
-  "works_count": 12,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 6039,
-      "IDcode": "PBD-493",
-      "title": "陷入性感大姐姐的極致口暴服務沼澤無法自拔 ~ 楪可憐 月乃露娜 竹內有紀 長谷川夕奈 希島愛理 尾崎惠梨香 鬆本梨穂 橫宮七海",
+      "id": 156170,
+      "IDcode": "ATID-508",
+      "title": "第一次被黑粗棒搞的很爽-香椎花乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/06/68426fc3bea44e0606183bb0/cover.jpg",
+      "actress": [
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-508"
+    },
+    {
+      "id": 90371,
+      "IDcode": "PBD-428",
+      "title": "綺麗なお姉さん達に囲まれ犯●れハーレム 30コーナーBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/e84684d19d2a9264711d6d2a85715a26.jpg",
+      "actress": [
+        "波多野结衣",
+        "希島愛理",
+        "AIKA",
+        "山岸逢花",
+        "蓮実クレア",
+        "星奈爱",
+        "香椎花乃",
+        "安倍亜沙美",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-428"
+    },
+    {
+      "id": 90354,
+      "IDcode": "PBD-445",
+      "title": "美女の唾液ねっとり濃厚すぎる接吻中出しセックスで何度もイカされちゃったボクBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/00f90e02d2566675648ab1efcd022bb9.jpg",
+      "actress": [
+        "希島愛理",
+        "月乃露娜",
+        "山岸逢花",
+        "深田詠美",
+        "星奈爱",
+        "香椎花乃",
+        "安倍亜沙美",
+        "篠田优"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-445"
+    },
+    {
+      "id": 86082,
+      "IDcode": "SAME-015",
+      "title": "办公室女士-香椎花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/99c4f83d1ede3ca1e86cbda5c08993ad.jpg",
+      "actress": [
+        "香椎花乃",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-015"
+    },
+    {
+      "id": 86059,
+      "IDcode": "SAME-022",
+      "title": "禁闭和强奸社长的女儿-香椎花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/3c08e9b82fbd54617d260bcf472e51a7.jpg",
+      "actress": [
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-022"
+    },
+    {
+      "id": 85910,
+      "IDcode": "PRED-365",
+      "title": "丈夫的老板-香椎花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2025-05-16",
+      "publish_date": "",
+      "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/5113ddc7ec927ccd527ce3698937a9aa.jpg",
+      "actress": [
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-365"
+    },
+    {
+      "id": 80038,
+      "IDcode": "PRED-345",
+      "title": "三重淫荡的OL后宫",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ce6e71aab260d3e939bfd0dc19a780cd.jpg",
+      "actress": [
+        "波多野结衣",
+        "木下日葵",
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-345"
+    },
+    {
+      "id": 79226,
+      "IDcode": "PRED-322",
+      "title": "淫乱的女权主义-香椎花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-322"
+    },
+    {
+      "id": 77052,
+      "IDcode": "PRED-296",
+      "title": "失去了我的处女之身-香椎花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/358bda5436e21c1540567b96fe0e5eb7.jpg",
+      "actress": [
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-296"
+    },
+    {
+      "id": 73535,
+      "IDcode": "ADN-407",
+      "title": "我希望这是个梦-椎花乃 広仲みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/02728eecb4c763bea3080d193d8e810f.jpg",
+      "actress": [
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-407"
+    },
+    {
+      "id": 68126,
+      "IDcode": "ADN-419",
+      "title": "被强奸的夫妇还有未来吗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/14204921d37495632cb2212bf1a56fb0.jpg",
+      "actress": [
+        "香椎花乃",
+        "樱井まみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-419"
+    },
+    {
+      "id": 67401,
+      "IDcode": "HMN-322",
+      "title": "誘惑女上司-香椎花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/25/6833235435d00134fb8c8161/cover.jpg",
+      "actress": [
+        "香椎花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-322"
+    },
+    {
+      "id": 6039,
+      "IDcode": "PBD-493",
+      "title": "綺麗なお姉さんの最高すぎるご奉仕フェラチオ沼にハマってしまったボク。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063814809809_thumbnail.webp",
       "actress": [
         "希島愛理",
@@ -67,199 +278,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-493"
     },
     {
-      "id": 90354,
-      "IDcode": "PBD-445",
-      "title": "美女の唾液ねっとり濃厚すぎる接吻中出しセックスで何度もイカされちゃったボクBEST",
+      "id": 4452,
+      "IDcode": "PBD-498",
+      "title": "衣服凌亂不堪還拚命反抗的妹子被強行著衣中出BEST ~ 楪可憐 木下日葵 森日向子 三咲美憂 竹内有紀 深田詠美 かしいかの 吉良鈴 向井藍",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2023-07-18",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240117-1/1bbadfda5d09a2e11b7c92002827fbc5.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c19f4c92318f97d35b74e/cover.jpg",
       "actress": [
-        "希島愛理",
-        "月乃露娜",
-        "山岸逢花",
-        "深田詠美",
-        "星奈爱",
-        "香椎花乃",
-        "安倍亜沙美",
-        "篠田优"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-445"
-    },
-    {
-      "id": 67401,
-      "IDcode": "HMN-322",
-      "title": "囁き淫語とにやにや挑発パンチラでオフィスで中出しをせがんでくる誘惑女上司 香椎花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2023-02-28",
-      "cover_url": "",
-      "actress": [
-        "香椎花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-322"
-    },
-    {
-      "id": 86059,
-      "IDcode": "SAME-022",
-      "title": "誘拐犯 社長大小姐贖金誘拐監禁凌辱事件簿 香椎花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-10-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/199a9ae603408c9df8d7bcc9a8d2f180.jpg",
-      "actress": [
-        "香椎花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-022"
-    },
-    {
-      "id": 90371,
-      "IDcode": "PBD-428",
-      "title": "綺麗なお姉さん達に囲まれ犯●れハーレム 30コーナーBEST",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
-      "actress": [
-        "波多野结衣",
-        "希島愛理",
-        "AIKA",
-        "山岸逢花",
-        "蓮実クレア",
-        "星奈爱",
-        "香椎花乃",
-        "安倍亜沙美",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-428"
-    },
-    {
-      "id": 68126,
-      "IDcode": "ADN-419",
-      "title": "犯●れたふたりに未来はあるのか！？",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-09-06",
-      "cover_url": "",
-      "actress": [
-        "香椎花乃",
-        "樱井まみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-419"
-    },
-    {
-      "id": 86082,
-      "IDcode": "SAME-015",
-      "title": "オフィスレディの湿ったパンスト 香椎花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-08-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/cb6a4239984f88dd9f2e64ddb77ab1b8.jpg",
-      "actress": [
-        "香椎花乃",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-015"
-    },
-    {
-      "id": 73535,
-      "IDcode": "ADN-407",
-      "title": "想要讓夢成真…想要逃避現實般背叛做愛的我。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-07-05",
-      "cover_url": "",
-      "actress": [
-        "香椎花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-407"
-    },
-    {
-      "id": 85910,
-      "IDcode": "PRED-365",
-      "title": "不貞的接吻輕視過頭… 被老公上司深吻中出調教身心都墮落的我。 香椎花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2021-12-21",
-      "cover_url": "",
-      "actress": [
-        "香椎花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-365"
-    },
-    {
-      "id": 80038,
-      "IDcode": "PRED-345",
-      "title": "トリプル痴女OLハーレム 欲求不満お姉さんたちの3点責めコンビネーションで何度も何度も中出しさせられる！ 香椎花乃 波多野結衣 木下ひまり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2021-10-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ce6e71aab260d3e939bfd0dc19a780cd.jpg",
-      "actress": [
-        "波多野结衣",
+        "森日向子",
         "木下日葵",
-        "香椎花乃"
+        "辻井穗乃果",
+        "楪可憐",
+        "宝田萌奈美",
+        "山岸逢花",
+        "竹内有紀",
+        "向井藍",
+        "深田詠美",
+        "岬梓沙",
+        "八乃翼",
+        "吉良鈴",
+        "加濑七穗",
+        "水野朝陽",
+        "三咲美憂",
+        "相沢夏帆",
+        "香椎花乃",
+        "望月憧"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-345"
-    },
-    {
-      "id": 79226,
-      "IDcode": "PRED-322",
-      "title": "禁欲1ヶ月で性・欲・暴・走。ヤリたがり痴女化ドキュメント！ 香椎花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2021-07-07",
-      "cover_url": "",
-      "actress": [
-        "香椎花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-322"
-    },
-    {
-      "id": 77052,
-      "IDcode": "PRED-296",
-      "title": "中出しで誘う先生に彼女がいるのに童貞を奪われたボク…。 香椎花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2021-03-07",
-      "cover_url": "",
-      "actress": [
-        "香椎花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-296"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-498"
     }
   ]
 };

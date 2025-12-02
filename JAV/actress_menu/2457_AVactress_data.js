@@ -63,15 +63,88 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 4267,
-      "IDcode": "CJOB-185",
-      "title": "完全上位的顏面騎乘！一幹就高潮的極品尤物 ~ 木下日葵 彌生美月 乙愛麗絲 蓮實クレア 藤森裏穂 森日向子 若冢みづな 倉本菫 永井瑪麗亞 桐島莉乃",
+      "id": 81483,
+      "IDcode": "BBSS-030",
+      "title": "レズビアンの♂♀性交 ペニバンレズSEX総集編 4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2025-07-18",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-02-07",
+      "cover_url": "",
+      "actress": [
+        "安部未華子",
+        "君野步美",
+        "香椎梨亞",
+        "神波多一花",
+        "澁谷果歩",
+        "管野静香",
+        "小谷みのり",
+        "杏璃さや",
+        "爱瀬美希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-030"
+    },
+    {
+      "id": 99333,
+      "IDcode": "ABP-467",
+      "title": "工作着的痴女系大姐姐-香椎梨亚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/7915a64f7aeaaaeabb98f156e8b9b301.jpg",
+      "actress": [
+        "香椎梨亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-467"
+    },
+    {
+      "id": 88197,
+      "IDcode": "NTR-070",
+      "title": "妻子被一个同学强奸了-香椎りあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/c12c9d00f0a1f52ccf2c33bb3d7b87f1.jpg",
+      "actress": [
+        "香椎梨亞",
+        "せりなさん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-070"
+    },
+    {
+      "id": 88164,
+      "IDcode": "PPPD-590",
+      "title": "巨乳女教師の誘惑 香椎りあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/005a31fbd3d925af6441a8e224333f9b.jpg",
+      "actress": [
+        "香椎梨亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-590"
+    },
+    {
+      "id": 4267,
+      "IDcode": "CJOB-185",
+      "title": "完全上位の顔面騎乘！勝手にまたがりイキまくるド痴女でシコりたいボク",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033031848848_14337_thumbnail.webp",
       "actress": [
         "倉本菫",
@@ -106,79 +179,6 @@ window.actressData = {
         "弥生美月"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-185"
-    },
-    {
-      "id": 88197,
-      "IDcode": "NTR-070",
-      "title": "＜高飛車女をデカマラでNTRand理解(わか)らせる＞今回寝盗る女は彼氏をATM扱いするトンデモ彼女。彼氏が甘やかしてくれるからと彼のお金を自分の金の様に豪遊。たまには彼の言う事も聞いてほしい。と言う事で彼が出演しないなら別れる勢いでお願いし、渋々出演する事に…。最初はやる気ゼロでさらには男優を見て鼻で笑う悪態ぶりだったが…いざデカマラを挿入すると態度はいっぺんし、おま●こを洪水にし痙攣する始末で…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-04-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/ff621dc6611c6f8987aff6b25c1a5ab1.jpg",
-      "actress": [
-        "香椎梨亞",
-        "せりなさん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-070"
-    },
-    {
-      "id": 81483,
-      "IDcode": "BBSS-030",
-      "title": "レズビアンの♂♀性交 ペニバンレズSEX総集編 4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-07",
-      "cover_url": "",
-      "actress": [
-        "安部未華子",
-        "君野步美",
-        "香椎梨亞",
-        "神波多一花",
-        "澁谷果歩",
-        "管野静香",
-        "小谷みのり",
-        "杏璃さや",
-        "爱瀬美希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-030"
-    },
-    {
-      "id": 88164,
-      "IDcode": "PPPD-590",
-      "title": "巨乳女教師の誘惑 香椎りあ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2017-09-13",
-      "cover_url": "",
-      "actress": [
-        "香椎梨亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-590"
-    },
-    {
-      "id": 99333,
-      "IDcode": "ABP-467",
-      "title": "上班系癡女 vol.04 香椎梨亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-04-20",
-      "cover_url": "https://tutu1.space/images/2023/11/15/e9374d9b49aa9f87ba04001aefb58743.jpg",
-      "actress": [
-        "香椎梨亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-467"
     }
   ]
 };

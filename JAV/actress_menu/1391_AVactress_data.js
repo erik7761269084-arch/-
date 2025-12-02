@@ -29,39 +29,64 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250728/72afb57a-3430-4335-8cc8-4b4e28df20b1_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250728/0c372b44-3286-4ffb-8b61-d244b1898d7e_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3080,
-      "IDcode": "SUMU-003",
-      "title": "素顏無濾鏡！真實到炸的誘惑 ~ 岸永みりな",
+      "id": 4031,
+      "IDcode": "LABY-002",
+      "title": "隣に住む真面目そうな娘の三白眼のエロイ瞳に魅かれて… 岸永みりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "三和軟體",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688acb8998bc99dfddd1749c/cover.jpg",
+      "actress": [
+        "岸永みりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-002"
+    },
+    {
+      "id": 3156,
+      "IDcode": "MIRD-260",
+      "title": "天月あず 椿りか 一色さら 柏木こなつ 安堂はるの 伊織ひなの 乃木ちはる 宮ノ木しゅんか 宗像れな 岸永みりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/11/22015878f4d602f716f803aae78d0c23.jpg",
+      "actress": [
+        "柏木小夏",
+        "椿莉香",
+        "天月梓",
+        "伊織雛乃",
+        "一色さら",
+        "安堂はるの",
+        "乃木ちはる",
+        "宮ノ木しゅんか",
+        "宗像れな",
+        "岸永みりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-260"
+    },
+    {
+      "id": 3080,
+      "IDcode": "SUMU-003",
+      "title": "ノーメイク！ノーフェイク！岸永みりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "Tender",
-      "publish_date": "2025-08-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210016782782_71439_thumbnail.webp",
       "actress": [
         "岸永みりな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUMU-003"
-    },
-    {
-      "id": 4031,
-      "IDcode": "LABY-002",
-      "title": "隔壁正經妹子的真面目居然如此淫蕩！勾魂眼神讓我淪陷 ~ 岸永みりな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "三和軟體",
-      "publish_date": "2025-07-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728211947204204_35003_thumbnail.webp",
-      "actress": [
-        "岸永みりな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-002"
     }
   ]
 };

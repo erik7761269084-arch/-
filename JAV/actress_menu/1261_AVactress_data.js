@@ -42,16 +42,90 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 2486,
-      "IDcode": "HALT-069",
-      "title": "【個撮】口暴大全 VOL.12 ~ 大原理央 小野阪唯香 南條彩 葉山小百合 橘日向 水川潤 花裏明理 澄河美花 御影れみ",
+      "id": 63660,
+      "IDcode": "AGMX-227",
+      "title": "私の身体貸してあげるから勝手にオナニーしてて",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919065057692692_39525_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/23/e3f58fc6b74bce19a3b8c5329872ca35.jpg",
+      "actress": [
+        "绀野光",
+        "市川りく",
+        "緒川春",
+        "御影れみ",
+        "柿沢千智",
+        "宮内ひな",
+        "江戸川もなか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-227"
+    },
+    {
+      "id": 4920,
+      "IDcode": "FJIN-082",
+      "title": "合算15発 親の再婚でできた義姉は喪女 だらしないのにエロすぎた無防備巨乳な姉に杭打ち中出しされた僕…御影れみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224423492492_thumbnail.webp",
+      "actress": [
+        "御影れみ",
+        "じゅうもんじ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-082"
+    },
+    {
+      "id": 4433,
+      "IDcode": "HALE-065",
+      "title": "ママ友喰い無限ループ vol.60 御影れみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712063718499499_97655_thumbnail.webp",
+      "actress": [
+        "御影れみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALE-065"
+    },
+    {
+      "id": 3838,
+      "IDcode": "GEBB-023",
+      "title": "Hとお小遣いに興味のある欲求不満な奥さん大集合 リモバイを着けたままお散歩してお小遣い稼ぎする過激ミッションに挑戦したら…2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/86b8be457ad7fa90919092142e9b03eb.jpg",
+      "actress": [
+        "九井珠奈緒",
+        "花狩舞",
+        "松丸香澄",
+        "御影れみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-023"
+    },
+    {
+      "id": 2486,
+      "IDcode": "HALT-069",
+      "title": "【個撮】 フェラなら撮らしてくれた！12 あ～んぐり口内射精10人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "水川潤",
         "小野坂唯香",
@@ -64,80 +138,6 @@ window.actressData = {
         "御影れみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
-    },
-    {
-      "id": 3838,
-      "IDcode": "GEBB-023",
-      "title": "欲求不滿的人妻大集合！小穴插着跳蛋滿街頭散步賺零花錢的刺激任務挑戰2 ~ 九井珠奈緒 花狩舞 鬆丸香澄 御影れみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802033608764764_77681_thumbnail.webp",
-      "actress": [
-        "九井珠奈緒",
-        "花狩舞",
-        "松丸香澄",
-        "御影れみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-023"
-    },
-    {
-      "id": 4433,
-      "IDcode": "HALE-065",
-      "title": "媽媽級人妻的無限循環做愛 第60彈 ~ 御影れみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712063718499499_97655_thumbnail.webp",
-      "actress": [
-        "御影れみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALE-065"
-    },
-    {
-      "id": 4920,
-      "IDcode": "FJIN-082",
-      "title": "一發接一發連着幹了15次 老爸再婚帶來的喪繼姐 邋遢卻性感爆棚 無防備巨乳可把我給榨幹了 ~ 御影れみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224423492492_thumbnail.webp",
-      "actress": [
-        "御影れみ",
-        "じゅうもんじ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-082"
-    },
-    {
-      "id": 63660,
-      "IDcode": "AGMX-227",
-      "title": "私の身体貸してあげるから勝手にオナニーしてて",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-24",
-      "cover_url": "",
-      "actress": [
-        "绀野光",
-        "市川りく",
-        "緒川春",
-        "御影れみ",
-        "柿沢千智",
-        "宮内ひな",
-        "江戸川もなか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-227"
     }
   ]
 };

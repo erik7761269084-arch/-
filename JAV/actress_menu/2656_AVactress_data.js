@@ -39,13 +39,13 @@ window.actressData = {
     {
       "id": 3664,
       "IDcode": "KTRA-735",
-      "title": "華奢苗條美少女的中出亂交 4小時大合輯 ~ 希咲那奈 阪咲美穗 百葉花音 二葉あかり",
+      "title": "華奢なスレンダーガールズと中出し性交 4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K-Tribe",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811093456314314_33087_thumbnail.webp",
       "actress": [
         "希咲那奈",

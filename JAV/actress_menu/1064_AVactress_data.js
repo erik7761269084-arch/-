@@ -33,23 +33,56 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230121/fe467bf3-e409-46c7-abe7-46fbd9d381ff.jpg",
     "https://picture.yoshiclub.xyz/20230121/f0acc60c-6a00-4892-834e-87cd7336d082.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 1928,
-      "IDcode": "SKYHD-086",
-      "title": "SKY ANGEL 86 美少女亂交SEX 陰道痙攣又痙攣連続中出高潮 ~ 杏樹紗奈",
+      "id": 78802,
+      "IDcode": "JBD-155",
+      "title": "父と娘 蛇縛の排泄無残 杏樹紗奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/2d2cbf42-9b2e-4977-889f-4f5e21a30d83.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2012-10-07",
+      "cover_url": "",
       "actress": [
         "杏樹紗奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-155"
+    },
+    {
+      "id": 98341,
+      "IDcode": "RBD-286",
+      "title": "凌辱に捧げた姉妹愛2 杏樹紗奈 かなみ芽梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2011-07-07",
+      "cover_url": "",
+      "actress": [
+        "杏樹紗奈",
+        "かなみ芽梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-286"
+    },
+    {
+      "id": 98443,
+      "IDcode": "SHKD-434",
+      "title": "キチクリンカン94",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-02-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd434/shkd434pl.jpg",
+      "actress": [
+        "杏樹紗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-434"
     },
     {
       "id": 2046,
@@ -58,41 +91,25 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2012-11-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/28b0459b-0023-4424-af4f-c7f6b7c5ae54.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/d0916fb3d5200fd9275612f1e24c8ed8.jpg",
       "actress": [
         "杏樹紗奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-077"
     },
     {
-      "id": 1858,
-      "IDcode": "SMBD-51",
-      "title": "S Model 51 : 無邪超萌氣質妹妹杏樹紗奈 美少女高中生亂交 ~ 杏樹紗奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2012-08-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/fceb4494-bd18-48aa-993e-b04fa18a921a.webp",
-      "actress": [
-        "杏樹紗奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-51"
-    },
-    {
       "id": 1863,
       "IDcode": "CWPBD-59",
-      "title": "CATWALK POISON 59 : 杏樹紗奈",
+      "title": "猫步毒药-杏树纱奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-02-03",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/9bcd2f65-edc1-4ba0-9d77-48b1ae9a94ae.webp",
       "actress": [
         "杏樹紗奈"

@@ -33,24 +33,40 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230718/c2326f9b-8dae-412f-bb6b-9235d7c52698.jpg",
     "https://picture.yoshiclub.xyz/20230718/86b53e77-c69d-409b-b446-427d5430c704.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 77058,
       "IDcode": "MVSD-403",
-      "title": "処女喪失からの即！中出し解禁！ 生のオチンチンて気持ちいいんですね。 祝！人生初のチ○ポ絶頂！ 美月はとり",
+      "title": "処女喪失からの即！中出し解禁！ 生のオチン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MVG GROUP",
-      "publish_date": "2019-09-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/11d72f2b2c18690d90bddcf561d40d72.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ff86cc002fb9e5741155809e581cdbe7.jpg",
       "actress": [
         "美月羽鳥",
         "しみけん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-403"
+    },
+    {
+      "id": 19107,
+      "IDcode": "IPX-345",
+      "title": "瞒着父母偷偷报名的纯白处女大小姐羽鸟在摄影棚怀着愧疚之情破处AV出道",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717234146675675.jpg",
+      "actress": [
+        "美月羽鳥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-345"
     }
   ]
 };

@@ -36,41 +36,26 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250220/1378ce79-a5b6-4552-924b-2758678ae93d.jpg"
   ],
-  "works_count": 7,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 85823,
-      "IDcode": "PFES-045",
-      "title": "押しに弱いエステティシャンへハミ出し勃起チ○ポをアソコに押し当てパンツ越し先っぽグリグリ挿入！ 欲しがるまで焦らしコスればナマSEXできちゃうのか？Vol.4",
+      "id": 8139,
+      "IDcode": "FUSA-003",
+      "title": "完全個人攝影會。不情願被幹，但沒有辦法，這就是現實。Cosplayer被不喜歡的男人操 的祕密映像 ~ 椿りか 彌生美月 宇流木沙羅 神野藍",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-04-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230130-1/532d324ef4c447db43b791cac2dcf971.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/f1f46ec6-c3ae-425d-94f2-82926b20db6c.jpg",
       "actress": [
-        "神野藍",
-        "若宫穂乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-045"
-    },
-    {
-      "id": 85807,
-      "IDcode": "NHDTB-644",
-      "title": "産後処女を奪われ一度イッたら長時間アクメで痙攣が止まらないイキッぱなしベビーカー妻9",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2022-03-24",
-      "cover_url": "",
-      "actress": [
-        "推川悠里",
+        "彌生美月",
+        "椿莉香",
+        "宇流木沙羅",
         "神野藍"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-644"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUSA-003"
     },
     {
       "id": 80454,
@@ -79,8 +64,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-12-14",
       "cover_url": "",
       "actress": [
@@ -93,30 +78,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-153"
     },
     {
-      "id": 86035,
-      "IDcode": "RCTD-434",
-      "title": "イチャラブレズファイトクラブ 第1章レズスキルトレーニング編",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2021-11-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230201-1/59c93e7c783e9b79d084cde8166489f6.jpg",
-      "actress": [
-        "神野藍"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-434"
-    },
-    {
       "id": 79486,
       "IDcode": "NHDTB-580",
       "title": "夜行バスで声も出せずイカされた隙に生ハメされた女はスローピストンの痺れる快感に理性を失い中出しも拒めない 女子○生限定8 汗だく腰振りSP",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
+      "type": "",
+      "company": "NATURAL HIGH",
       "publish_date": "2021-09-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/962b76e57eacb12c6b76bc90ba100a4c.jpg",
       "actress": [
@@ -134,10 +103,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
+      "type": "",
+      "company": "NATURAL HIGH",
       "publish_date": "2021-08-26",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/f0b6e42d82436ba6a31ae0258800824a.jpg",
       "actress": [
         "森日向子",
         "神野藍",
@@ -149,20 +118,70 @@ window.actressData = {
     {
       "id": 86127,
       "IDcode": "SDMM-087",
-      "title": "アクメ自転車×ミラー号 プリ尻宅配女子限定！新型アクメチャリで漕げば漕ぐほどサドルについた極太ディルトが激ピストン！アナルをヒクつかせ公衆の面前でイキまくる大量潮吹き絶頂アクメ",
+      "title": "橡塑自行车",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2021-03-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8f0915b6882aa3dc1ad131706625c894.jpg",
       "actress": [
         "神野藍",
         "うららか丽",
         "凑ひめか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-087"
+    },
+    {
+      "id": 86035,
+      "IDcode": "RCTD-434",
+      "title": "イチャラブレズファイトクラブ 第1章レズスキルトレーニング編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cb8faf9a2e9b1d45c5a8d/cover.jpg",
+      "actress": [
+        "神野藍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-434"
+    },
+    {
+      "id": 85823,
+      "IDcode": "PFES-045",
+      "title": "押しに弱いエステティシャンへハミ出し勃起チ○ポをアソコに押し当てパンツ越し先っぽグリグリ挿入！ 欲しがるまで焦らしコスればナマSEXできちゃうのか？Vol.4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/56c3acb03e3174e46c0843f05842d785.jpg",
+      "actress": [
+        "神野藍",
+        "若宫穂乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-045"
+    },
+    {
+      "id": 85807,
+      "IDcode": "NHDTB-644",
+      "title": "産後処女を奪われ一度イッたら長時間アクメで痙攣が止まらないイキッぱなしベビーカー妻9",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b3b1b5b67aac33425c041db85155e6dd.jpg",
+      "actress": [
+        "推川悠里",
+        "神野藍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-644"
     }
   ]
 };

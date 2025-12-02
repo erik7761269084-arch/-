@@ -29,19 +29,109 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240213/1fc760f1-167f-48b7-b385-667da8c95d3f.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 10515,
-      "IDcode": "SDDE-740",
-      "title": "「制服・下着・全裸」2024年度新人CA航空空服小姐 壓卷總勢11名+特別講師1名的大型航空CA研候編",
+      "id": 11779,
+      "IDcode": "AGMX-196",
+      "title": "屈辱性的自慰指示 ~ 有棲舞衣 新山ちなつ 朝野りる 愛寶鈴 音羽美鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-09-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20240922/9ff8a9c2-a4e0-498d-8fab-b41d4f8eaa3f.jpg",
+      "actress": [
+        "有栖舞衣",
+        "愛寶鈴",
+        "音羽美鈴",
+        "朝野りる",
+        "新山ちなつ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-196"
+    },
+    {
+      "id": 94691,
+      "IDcode": "STSK-134",
+      "title": "南国リゾート＆スパ ♯完全個室♯ラグジュアリー空間♯ビキニ♯巨乳♯中出し〇",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-08-01",
+      "cover_url": "https://tuaskbgnekr.com/20240805/SJd5uKcD/1.jpg",
+      "actress": [
+        "長谷川れいみ",
+        "橘知花",
+        "朝野りる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-134"
+    },
+    {
+      "id": 13440,
+      "IDcode": "BACJ-116",
+      "title": "憑借出色的手指技術吸引了許多回頭客的極限美容院 ~ 朝野りる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "2024-07-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240710/f8435552-01d3-4d98-a92c-035d21bcfcbd.jpg",
+      "actress": [
+        "朝野りる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-116"
+    },
+    {
+      "id": 76834,
+      "IDcode": "SDDE-731",
+      "title": "ペニスしゃぶりまくりASMR！ おち〇ぽモッパン！！ ＃よく張りグルメ女子7名収録 ＃モッパン ＃mukbang ＃美味ち〇ぽ ＃生ザーメン ＃ごっくん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241119/2024111902491211.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1a6ae735bb663f762d953/cover.jpg",
+      "actress": [
+        "星仲ここみ",
+        "葵井みずほ",
+        "結城雫",
+        "朝野りる",
+        "伊織さくら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-731"
+    },
+    {
+      "id": 16326,
+      "IDcode": "SUWK-011",
+      "title": "醫學院教師玩弄調教中出19歲巨乳女學生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213013134355355.jpg",
+      "actress": [
+        "朝野りる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-011"
+    },
+    {
+      "id": 10515,
+      "IDcode": "SDDE-740",
+      "title": "招待跨坐航空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bab4bcce3e366423ce2b0b/cover.jpg",
       "actress": [
         "五十嵐清華",
         "響乃詩",
@@ -58,44 +148,6 @@ window.actressData = {
         "安藤ハル"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
-    },
-    {
-      "id": 76834,
-      "IDcode": "SDDE-731",
-      "title": "ペニスしゃぶりまくりASMR！ おち○ぽモッパン！！ #よく張りグルメ女子7名収録 #モッパン #mukbang #美味ち○ぽ #生ザーメン #ごっくん #Japanese #大食い #ちんテロ #大胃王 五十嵐清華 朝野りる 伊織さくら 星仲ここみ 葵井みずほ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-10",
-      "cover_url": "",
-      "actress": [
-        "星仲ここみ",
-        "葵井みずほ",
-        "結城雫",
-        "朝野りる",
-        "伊織さくら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-731"
-    },
-    {
-      "id": 94691,
-      "IDcode": "STSK-134",
-      "title": "南国リゾート＆スパ ♯完全個室♯ラグジュアリー空間♯ビキニ♯巨乳♯中出し〇",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-08-01",
-      "cover_url": "",
-      "actress": [
-        "長谷川れいみ",
-        "橘知花",
-        "朝野りる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-134"
     }
   ]
 };

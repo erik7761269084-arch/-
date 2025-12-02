@@ -4,7 +4,7 @@ window.actressData = {
   "name": "白桃心奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,41 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 98229,
+      "IDcode": "RBD-817",
+      "title": "お姉ちゃんが私だけのものになった日 推川ゆうり 白桃心奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2016-12-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/rbd817/rbd817pl.jpg",
+      "actress": [
+        "推川悠里",
+        "白桃心奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-817"
+    },
+    {
+      "id": 103208,
+      "IDcode": "MDSC-005",
+      "title": "淫極妄想 汗だく！JKセックス、家庭教師（せんせい）に犯されて…。 白桃心奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-09-25",
+      "cover_url": "",
+      "actress": [
+        "白桃心奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDSC-005"
+    },
     {
       "id": 71726,
       "IDcode": "GDHH-149",
@@ -25,10 +58,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-05-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250213-1/0ca4d9ea941232a8d9fe11933686bf01.jpg",
       "actress": [
         "タツ",
         "三岛奈津子",

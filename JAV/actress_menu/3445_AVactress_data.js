@@ -25,15 +25,33 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 5328,
-      "IDcode": "MIKR-023",
-      "title": "美腳長身 用露出的嫩穴極致款待中出的風俗店 ~ 森日向子",
+      "id": 72871,
+      "IDcode": "SW-0407",
+      "title": "老婆的朋友来我家，不经意间就熬夜了 ● 试了一下，勃起MAX！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-13",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/989cc90f8888697a051005c637e46f89.jpg",
+      "actress": [
+        "美泉咲",
+        "水原さな",
+        "叶山美空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0407"
+    },
+    {
+      "id": 5328,
+      "IDcode": "MIKR-023",
+      "title": "用美腿高个饱满小穴热情招待-森日向子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061411409409_thumbnail.webp",
       "actress": [
         "森日向子",
@@ -42,24 +60,6 @@ window.actressData = {
         "叶山美空"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-023"
-    },
-    {
-      "id": 72871,
-      "IDcode": "SW-407",
-      "title": "妻の友人たちが我が家へ来たのでうっかり夜這いしてみたらフル勃起MAX！！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2016-05-12",
-      "cover_url": "",
-      "actress": [
-        "美泉咲",
-        "水原さな",
-        "叶山美空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-407"
     }
   ]
 };

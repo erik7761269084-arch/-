@@ -50,33 +50,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230328/ca092112-4ee4-4cdf-b710-ca4b04c60189.jpg",
     "https://picture.yoshiclub.xyz/20230328/6e864518-697f-4d03-83e3-972ea152c46b.jpg"
   ],
-  "works_count": 19,
+  "works_count": 20,
   "related_dramas": [
-    {
-      "id": 90421,
-      "IDcode": "PPBD-242",
-      "title": "快要射精！激烈晃動巨乳與快感高潮臉蛋達到最高潮的鬼爆抽插80本番",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
-      "actress": [
-        "安部藍",
-        "蒼空なつき",
-        "澁谷果歩",
-        "安倍亜沙美",
-        "田中瞳",
-        "ステイシー",
-        "爱乃まほろ",
-        "凉木奏",
-        "NAOMI",
-        "天音ありす"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
-    },
     {
       "id": 87458,
       "IDcode": "DVAJ-591",
@@ -84,7 +59,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
       "publish_date": "2022-08-09",
       "cover_url": "",
@@ -110,10 +85,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-15",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221030-1/b42220f4823b688d272f6f5efc7a5f0c.jpg",
       "actress": [
         "澁谷果歩"
       ],
@@ -126,8 +101,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-07",
       "cover_url": "",
       "actress": [
@@ -150,7 +125,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
       "publish_date": "2020-01-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/d4cd6a2ea426f2f21a36d65726c583fc.jpg",
@@ -166,10 +141,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2019-12-27",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230105-1/899116fd8ab0d0b94739c13ac52920d5.jpg",
       "actress": [
         "推川悠里",
         "绀野光",
@@ -183,37 +158,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-075"
     },
     {
-      "id": 74451,
-      "IDcode": "OKAX-582",
-      "title": "パンスト好きのあなたがフルボッキでシコシコ出来る！猥褻お姉さん達のムレムレムッチリ極上下半身",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-12-27",
-      "cover_url": "",
-      "actress": [
-        "本真友里",
-        "杏堂怜",
-        "澁谷果歩",
-        "ちなみん",
-        "若宫はずき",
-        "伊东真绪",
-        "朝川奈穂",
-        "伊藤夏帆"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-582"
-    },
-    {
       "id": 81815,
       "IDcode": "MMBS-007",
       "title": "尻 THE BEST OF IRIS Vol.4",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MARRION",
+      "type": "",
+      "company": "",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/66dc1127dbc8b5e6d72a862171ffa2f9.jpg",
       "actress": [
@@ -229,54 +181,124 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMBS-007"
     },
     {
-      "id": 71789,
-      "IDcode": "GETS-081",
-      "title": "ピンク病院の噂は本当だった！入浴補助のヤリマンナースに絶倫チ●ポで連続ザーメン射精！！",
+      "id": 217426,
+      "IDcode": "JUFD-757",
+      "title": "射精無制限-澁谷果歩 若槻みづな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-07-13",
-      "cover_url": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "2017-06-25",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-10/692063e651cfbc5c7c18e3571461d21d.jpg",
       "actress": [
-        "今井栞菜",
-        "小西真理繪",
-        "澁谷果歩",
-        "今井まい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-081"
-    },
-    {
-      "id": 72299,
-      "IDcode": "AP-539",
-      "title": "抜かずの3連続中出し温泉旅館痴漢 全員爆乳SP！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-05-07",
-      "cover_url": "",
-      "actress": [
-        "羽生ありさ",
         "若槻みづな",
-        "優月真裡奈",
         "澁谷果歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-757"
+    },
+    {
+      "id": 1937,
+      "IDcode": "MARA-018",
+      "title": "JAV最大爆乳劇場！ K~cup ~ 澀谷果步",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-01-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230403/9c391b4d-aa37-4c6b-a0f9-d2fcb92fbae5.jpg",
+      "actress": [
+        "澁谷果歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-018"
+    },
+    {
+      "id": 99292,
+      "IDcode": "BBAN-067",
+      "title": "人妻を虜にする寸止め淫語レズビアン澁谷果歩谷原希美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-12-07",
+      "cover_url": "",
+      "actress": [
+        "谷原希美",
+        "澁谷果歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-067"
+    },
+    {
+      "id": 90421,
+      "IDcode": "PPBD-242",
+      "title": "快要射精！激烈晃動巨乳與快感高潮臉蛋達到最高潮的鬼爆抽插80本番",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/cc988ac8d5a1cf1b908edb39c16d19de.jpg",
+      "actress": [
+        "安部藍",
+        "蒼空なつき",
+        "澁谷果歩",
+        "安倍亜沙美",
+        "田中瞳",
+        "ステイシー",
+        "爱乃まほろ",
+        "凉木奏",
+        "NAOMI",
+        "天音ありす"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
+    },
+    {
+      "id": 88160,
+      "IDcode": "PPSD-050",
+      "title": "OPPAI 一夫多妻スペシャル 巨乳2人と夢の中出し重婚生活 沖田杏梨 澁谷果歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/48cfa6b4a8509f048a480bde50473adf.jpg",
+      "actress": [
+        "沖田杏梨",
+        "澁谷果歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPSD-050"
+    },
+    {
+      "id": 82290,
+      "IDcode": "CEAD-179",
+      "title": "已经结婚的人妻-澁谷果歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "澁谷果歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-179"
     },
     {
       "id": 77875,
       "IDcode": "HUNTA-416",
-      "title": "合宿中のママさんバレー部の息抜きはボクのチ○ポだけ！！親戚が経営する合宿所の手伝いに行ったらママさんバレー部の一行がやって来た！しかも全員爆乳…！！そんな爆乳揃いの奥さんたちを見てムラムラ…していたのはボクだけじゃなかった！ハードな練習＆禁欲集団生活で…",
+      "title": "禁欲集団生活",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241123-1/34c760531988f123d24c9458ecc58d95.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "羽生ありさ",
         "優月真裡奈",
@@ -287,21 +309,27 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-416"
     },
     {
-      "id": 71042,
-      "IDcode": "HUNTA-398",
-      "title": "「えっ！？なんでみんなTバック？」ナースさんだらけのシェアハウスに入居したら男はボク1人で、しかもみんな普段からTバックだった！都会に憧れて引っ越した先はシェアハウスで、そこは欲求不満ナースさんたちが住むシェアハウスだった！しかもしかも、仕事中に下着の線が…",
+      "id": 74451,
+      "IDcode": "OKAX-582",
+      "title": "パンスト好きのあなたがフルボッキでシコシコ出来る！猥褻お姉さん達のムレムレムッチリ極上下半身",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-02-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241201-1/a288eec25e4f6381b6e5e4135d7318a8.jpg",
       "actress": [
-        "小野寺梨纱",
-        "澁谷果歩"
+        "本真友里",
+        "杏堂怜",
+        "澁谷果歩",
+        "ちなみん",
+        "若宫はずき",
+        "伊东真绪",
+        "朝川奈穂",
+        "伊藤夏帆"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-398"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-582"
     },
     {
       "id": 72883,
@@ -310,10 +338,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2017-10-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/624d29df6a1cc3765a2f126aab6b02ec.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9abfeedab8378ad43eded46322f3c5e7.jpg",
       "actress": [
         "吹石玲奈",
         "篠田步美",
@@ -329,97 +357,86 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-728"
     },
     {
-      "id": 100246,
-      "IDcode": "JUFD-757-",
-      "title": "超絶テクで射精無制限！淫らな癡女が絡みつく中出し",
+      "id": 72299,
+      "IDcode": "AP-539",
+      "title": "温泉旅館痴漢 全員爆乳SP",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2017-06-25",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
+        "羽生ありさ",
         "若槻みづな",
+        "優月真裡奈",
         "澁谷果歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-757-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-539"
+    },
+    {
+      "id": 71789,
+      "IDcode": "GETS-081",
+      "title": "ピンク病院の噂は本当だった！入浴補助のヤリマンナースに絶倫チ●ポで連続ザーメン射精！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/31500c72f5d4f9d704ef8116c14b948e.jpg",
+      "actress": [
+        "今井栞菜",
+        "小西真理繪",
+        "澁谷果歩",
+        "今井まい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-081"
     },
     {
       "id": 71097,
       "IDcode": "HND-352",
-      "title": "台本の無い中出しSEX 澁谷果歩",
+      "title": "无剧本的性爱-澁谷果歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2017-03-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2adde318ca86fe67e84ad0d0c1208499.jpg",
       "actress": [
         "澁谷果歩"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-352"
     },
     {
-      "id": 1937,
-      "IDcode": "MARA-018",
-      "title": "JAV最大爆乳劇場！ K~cup ~ 澀谷果步",
+      "id": 71042,
+      "IDcode": "HUNTA-398",
+      "title": "「えっ！？なんでみんなTバック？」ナースさんだらけのシェアハウスに入居したら男はボク1人で、しかもみんな普段からTバックだった！都会に憧れて引っ越した先はシェアハウスで、そこは欲求不満ナースさんたちが住むシェアハウスだった！しかもしかも、仕事中に下着の線が…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-01-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/9c391b4d-aa37-4c6b-a0f9-d2fcb92fbae5.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/456e1d33f5c77b3dba2573912cba465e.jpg",
       "actress": [
+        "小野寺梨纱",
         "澁谷果歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-018"
-    },
-    {
-      "id": 82290,
-      "IDcode": "CEAD-179",
-      "title": "不貞若妻！7 澁谷果歩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2016-07-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/739a6e072c5e74d29c97dfb404505eca.jpg",
-      "actress": [
-        "澁谷果歩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-179"
-    },
-    {
-      "id": 88160,
-      "IDcode": "PPSD-050",
-      "title": "OPPAI 一夫多妻スペシャル 巨乳2人と夢の中出し重婚生活 沖田杏梨 澁谷果歩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-12-19",
-      "cover_url": "",
-      "actress": [
-        "沖田杏梨",
-        "澁谷果歩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPSD-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-398"
     },
     {
       "id": 62679,
       "IDcode": "MEYD-097",
-      "title": "女教師監禁レ×プ 澁谷果歩",
+      "title": "女教師監禁-澁谷果歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2015-12-13",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "澁谷果歩"

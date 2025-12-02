@@ -40,13 +40,13 @@ window.actressData = {
     {
       "id": 6925,
       "IDcode": "PPPE-325",
-      "title": "新人出道 兩年前還用裹胸壓着罩杯的G乳上學的女大學生初亮相 AV DEBUT ~ 華月星那",
+      "title": "新人 たった2年前まで’さらし’でおっぱい潰して学校に通ってた 隠し巨乳Gカップ女子大生デビュー 華月星那",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OPPAI",
-      "publish_date": "2025-04-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410191007498498.jpg",
       "actress": [
         "華月星那"

@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 6259,
       "IDcode": "NSFS-381",
-      "title": "新・租妻2：把身體借給公寓裏的老男人 ~ 黒崎あすな",
+      "title": "我把妻子分享给了周围的邻居",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-05-10",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052233198198_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c331bc5f13d063bcdf8bc0/cover.jpg",
       "actress": [
         "黒崎あすな"
       ],

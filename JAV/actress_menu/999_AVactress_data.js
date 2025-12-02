@@ -43,36 +43,67 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250529/92f081a3-ccc1-48bf-bf9b-d64951972f99_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250529/e1b76e72-309a-4f1c-9b95-928187ba358a_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 2306,
-      "IDcode": "CAWD-878",
-      "title": "純情少女迷戀羞恥高潮 纖弱敏感身軀淪陷潮噴不停 ~ 青葉春",
+      "id": 4980,
+      "IDcode": "CAWD-852",
+      "title": "正統派美少女to顏射to覺醒3本番 ~ 青葉春",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-10-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002022834483483_69196_thumbnail.webp",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031039692692_thumbnail.webp",
+      "actress": [
+        "青葉春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-852"
+    },
+    {
+      "id": 5715,
+      "IDcode": "CAWD-838",
+      "title": "打破常规的超性感正统美女-青葉はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "青葉春",
-        "鲛岛",
-        "羽田貴史"
+        "ニック"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-838"
+    },
+    {
+      "id": 4004,
+      "IDcode": "CAWD-864",
+      "title": "正统派少女的无限高潮超绝连续追击大乱交-青葉はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/202507310857397575_30502_thumbnail.webp",
+      "actress": [
+        "青葉春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-864"
     },
     {
       "id": 3207,
       "IDcode": "CAWD-870",
-      "title": "放學後和穿着JK制服的女學生激情做愛，我是最差勁的老師 ~ 青葉春",
+      "title": "放学后我和你穿着校服性交的我是最糟糕的老师-青葉はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-08-28",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023851182182_87268_thumbnail.webp",
       "actress": [
         "青葉春",
@@ -81,21 +112,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-870"
     },
     {
-      "id": 5715,
-      "IDcode": "CAWD-838",
-      "title": "新人出道！頂級原石新人發現！超辣正統派 顛覆常識的絕美少女 AV DEBUT ~ 青葉春",
+      "id": 2306,
+      "IDcode": "CAWD-878",
+      "title": "正統派少女マゾ濡れイカされオーガズム 華奢でか弱いイクイク敏感ボディが堕ちて漏らして、またイク… 青葉はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075828805805_s.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "青葉春",
-        "ニック"
+        "鲛岛",
+        "羽田貴史"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-838"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-878"
     }
   ]
 };

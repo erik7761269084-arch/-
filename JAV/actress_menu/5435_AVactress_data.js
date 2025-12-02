@@ -4,7 +4,7 @@ window.actressData = {
   "name": "小林沙良",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 107301,
       "IDcode": "SDNM-389",
-      "title": "いまは夫婦でカフェバー経営 人懐っこい笑顔で地元客に愛される元気奥さん 小林沙良 29歳 最終章 「明日から普通の妻に戻ります…だから一生忘れられないSEXで狂いたい!」ノンストップピストンで膣内ガクガク震わせ大量中出し!それでも足りない快楽を求めて淫らに乱れるオンナとして最後の1日",
+      "title": "夫妻經營咖啡廳 笑容親切被當地客人喜愛的活力妻子 小林沙良 29歲 最終章",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-08-24",
-      "cover_url": "https://tutu1.space/images/2023/09/06/289dc3ed221269fd79dfd9676b45d47f.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "小林沙良"
       ],
@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-07-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/9011170a0ca0c4bce2c9cd245d8944f7.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/4d5f8e82681a4b986d579241b7d22cb1.jpg",
       "actress": [
         "小林沙良"
       ],

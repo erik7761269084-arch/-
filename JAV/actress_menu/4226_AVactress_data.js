@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ふわり结爱",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,29 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
+    {
+      "id": 99461,
+      "IDcode": "ARM-810",
+      "title": "膝上25cmの制服とパンティーとフェラチオと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-11-13",
+      "cover_url": "",
+      "actress": [
+        "沙藤由梨",
+        "藤井林檎",
+        "凉美ほのか",
+        "ふわり结爱",
+        "诗音乃らん",
+        "月宫こはる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-810"
+    },
     {
       "id": 83150,
       "IDcode": "SDJS-057",
@@ -25,9 +46,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-03-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "天馬唯",
@@ -42,34 +63,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-057"
     },
     {
-      "id": 75602,
-      "IDcode": "IENF-049",
-      "title": "同級生とネットリ舌を絡める濃密べちょべちょキス！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2019-12-26",
-      "cover_url": "",
-      "actress": [
-        "内海みう",
-        "今井まい",
-        "ふわり结爱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-049"
-    },
-    {
       "id": 77912,
       "IDcode": "IENF-045",
       "title": "酔いつぶれた同僚を自宅お持ち帰り",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
-      "publish_date": "2019-12-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241104-1/9fbec484ba45aeaa2e743a67ad59cda9.jpg",
       "actress": [
         "爱乃零",
         "内海みう",
@@ -78,16 +81,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-045"
     },
     {
-      "id": 72140,
-      "IDcode": "DOCP-128",
-      "title": "SEXに悩みを持つ妹は睡眠薬で僕を眠らせ…目を覚ますと妹がチ●ポに跨り騎乗位でイキまくってる途中！！しかも中出し済！？・妹の有り余る性欲に理性が保てず連続中出しが止まらない！！",
+      "id": 75602,
+      "IDcode": "IENF-049",
+      "title": "同級生とネットリ舌を絡める濃密べちょべちょキス！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/bd43548f6fc4efcbc7357dfc91f5a860.jpg",
+      "actress": [
+        "内海みう",
+        "今井まい",
+        "ふわり结爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-049"
+    },
+    {
+      "id": 72140,
+      "IDcode": "DOCP-128",
+      "title": "超可爱的妹妹网购安眠药喂哥哥吃下后趴了他的裤子就开始舔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2019-02-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/9514dac37f1e658620618fb9997e9c2b.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/10fb39e466a2b8391082244da3ef9d7a.jpg",
       "actress": [
         "阿部乃美久",
         "朝比奈しの",

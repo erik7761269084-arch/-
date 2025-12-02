@@ -33,26 +33,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250113/f5b38e98-7683-467c-9fe4-7dd685d658a0.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 9164,
-      "IDcode": "BACJ-136",
-      "title": "中年大叔被寵壞了！後宮擠奶榨精特色保育服務 ~ 桐嶋あみな 市成心海 香月えりさ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250113/d1611ac6-bde6-4393-a4a0-26e019c34930.jpg",
-      "actress": [
-        "香月えりさ",
-        "市成心海",
-        "桐嶋あみな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-136"
-    },
     {
       "id": 93954,
       "IDcode": "RCTD-600",
@@ -60,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
       "publish_date": "2024-07-11",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/1717bc80373a31dd53117ba309abac4d.jpg",
@@ -80,14 +62,64 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2024-07-09",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241016-1/a6a2eb11373e226ac62905881d604fe0.jpg",
       "actress": [
         "市成心海"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKD-318"
+    },
+    {
+      "id": 106399,
+      "IDcode": "HOKS-169",
+      "title": "現代肉欲劇場",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "市成心海",
+        "磐井玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-169"
+    },
+    {
+      "id": 105385,
+      "IDcode": "HOKS-178",
+      "title": "和父母一起做女人的父女疯狂的日子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "市成心海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-178"
+    },
+    {
+      "id": 105282,
+      "IDcode": "TYD-005",
+      "title": "制服女子的擠來擠去痴漢公車-宇佐美美音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "泉莉音",
+        "市成心海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-005"
     },
     {
       "id": 90138,
@@ -96,10 +128,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2024-01-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240113-1/cd006b413bbe203ba73c0dc3acf29fa1.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240116-1/9b460fa25902f625550943926b017883.jpg",
       "actress": [
         "宇佐美みおん",
         "市成心海"
@@ -107,21 +139,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-562"
     },
     {
-      "id": 106399,
-      "IDcode": "HOKS-169",
-      "title": "現代肉欲劇場 義父と娘 母を抱いた父に抱かれる",
+      "id": 9164,
+      "IDcode": "BACJ-136",
+      "title": "中年さんは甘え盛り！バブっとおぎゃおぎゃハーレム保育でおち●ぽミルク搾乳中！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FAプロ",
-      "publish_date": "2023-11-28",
-      "cover_url": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1a94f735bb663f762d996/cover.jpg",
       "actress": [
+        "香月えりさ",
         "市成心海",
-        "磐井玲子"
+        "桐嶋あみな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-136"
     }
   ]
 };

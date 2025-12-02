@@ -4,7 +4,7 @@ window.actressData = {
   "name": "矢泽美々",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,28 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 60376,
-      "IDcode": "KTRA-744",
-      "title": "低身長パイパン少女たちと淫行 4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K-Tribe",
-      "publish_date": "2025-09-23",
-      "cover_url": "",
-      "actress": [
-        "工藤拉拉",
-        "小岛りりか",
-        "纯真かれん",
-        "矢泽美々",
-        "くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-744"
-    },
     {
       "id": 78541,
       "IDcode": "STSK-079",
@@ -45,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-01",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240620/THiMqbxr/1.jpg",
       "actress": [
         "雅子裡菜",
         "矢泽美々",
@@ -57,22 +37,62 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-079"
     },
     {
+      "id": 99797,
+      "IDcode": "LOVE-379",
+      "title": "女子校生革命！夏なんてぶっ飛ばせ！5人の美少女が制服大改造スーパークールビズで登校してきた！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-08-11",
+      "cover_url": "",
+      "actress": [
+        "一色さゆり",
+        "山川由奈",
+        "矢泽美々",
+        "姬川优奈",
+        "澄川鲇"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOVE-379"
+    },
+    {
       "id": 87943,
       "IDcode": "HAR-063",
       "title": "父・祖父のすぐ側でイタズラされても抵抗出来ない男湯ギリギリOK娘 3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-04-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d3cac05396c7030b51429f6bc5587ae2.jpg",
       "actress": [
         "矢泽美々",
         "苑田あゆり",
         "澄川鲇"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-063"
+    },
+    {
+      "id": 60376,
+      "IDcode": "KTRA-744",
+      "title": "低身長パイパン少女たちと淫行 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1831131a2714f1c1fbc1c/cover.jpg",
+      "actress": [
+        "工藤拉拉",
+        "小岛りりか",
+        "纯真かれん",
+        "矢泽美々",
+        "くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-744"
     }
   ]
 };

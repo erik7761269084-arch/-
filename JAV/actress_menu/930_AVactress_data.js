@@ -33,57 +33,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240320/da05fa78-aa2f-45ff-9a08-76a65732c73a.jpg",
     "https://picture.yoshiclub.xyz/20240320/97ff8930-9e82-40e4-b775-7bf7599be21e.jpg"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 4942,
-      "IDcode": "RBK-109",
-      "title": "為了老公被爆菊內射的小嫩妻 ~ 天海一華",
+      "id": 13504,
+      "IDcode": "DOKS-608",
+      "title": "女子學生敏感乳頭健康檢查第二期",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626034231516516_thumbnail.webp",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "2024-07-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240707/da6b7be2-b331-45a8-bc16-3a63f238c3af.jpg",
       "actress": [
-        "天海一華",
-        "いち"
+        "逢月日葵",
+        "桐香悠裡",
+        "岬櫻",
+        "夏白麻矢",
+        "天海一華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-608"
     },
     {
-      "id": 6719,
-      "IDcode": "BONY-142",
-      "title": "七位受害者慘遭鬼畜集團無情輪奸FUCK五小時合集 ~ 有加里乃乃花 天海一華 児玉れな 鈴音杏夏 加賀美さら 天乃のあ",
+      "id": 8341,
+      "IDcode": "GNS-114",
+      "title": "尊嚴侵害，無恥性侵犯！被討厭的上司以出差的名義在溫泉旅館裏寢取",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092932216216_thumbnail.webp",
+      "type": "",
+      "company": "GooNiES",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa34879550e292a785c867/cover.jpg",
       "actress": [
-        "有加里乃乃花",
-        "天乃のあ",
-        "鈴音杏夏",
-        "加賀美さら",
+        "千石もなか",
+        "天美めあ",
+        "木野野葉惠里香",
+        "真白みのり",
+        "祈山愛",
+        "涼花くるみ",
+        "皇柚子",
+        "上野真奈美",
+        "楽園ミナ",
+        "七瀨華蓮",
         "天海一華",
-        "児玉れな"
+        "東城ゆい",
+        "永瀬愛菜",
+        "美音夢",
+        "堀麻美子",
+        "汐見唯",
+        "加賀美真里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-114"
     },
     {
       "id": 8340,
       "IDcode": "GNS-113",
-      "title": "緊急拘捕！不要拍照！ ！廢墟中回蕩着女性的悲鳴 被強奸的女人 x 20名",
+      "title": "【緊急逮×！】「撮らないで！！」廃墟に響き渡る女性の悲鳴 女たちのヤリすて廃棄場強× 20名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GooNiES",
-      "publish_date": "2025-02-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/d382b06a4ba683ca1c390f593ad31314.jpg",
       "actress": [
         "千石もなか",
         "天美めあ",
@@ -104,6 +118,44 @@ window.actressData = {
         "加賀美真里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
+    },
+    {
+      "id": 6719,
+      "IDcode": "BONY-142",
+      "title": "被害者7名 闇レ●プ集団の鬼畜FUCK5時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/07/04/fbf6c7b913fd40d73e7589fdc75f47b0.jpg",
+      "actress": [
+        "有加里乃乃花",
+        "天乃のあ",
+        "鈴音杏夏",
+        "加賀美さら",
+        "天海一華",
+        "児玉れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
+    },
+    {
+      "id": 4942,
+      "IDcode": "RBK-109",
+      "title": "為了丈夫被肛交的年輕妻子-天海一華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626034231516516_thumbnail.webp",
+      "actress": [
+        "天海一華",
+        "いち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-109"
     }
   ]
 };

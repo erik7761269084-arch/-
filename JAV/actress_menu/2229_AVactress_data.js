@@ -58,14 +58,14 @@ window.actressData = {
     {
       "id": 1913,
       "IDcode": "SKYHD-012",
-      "title": "SKY ANGEL 12 櫻井莉亞",
+      "title": "白雪妖精-樱井莉亚",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2009-03-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/9e773f72-43df-4618-be0d-ae4bd3741d57.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/e5a926980b2908b9b19c5199e72b88e5.jpg",
       "actress": [
         "櫻井莉亞"
       ],

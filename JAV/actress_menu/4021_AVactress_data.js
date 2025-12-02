@@ -4,7 +4,7 @@ window.actressData = {
   "name": "青山葵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,33 +25,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-28",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/98318d01f6fb4267f1a05816dd2fe118.jpg",
       "actress": [
         "青山葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DWD-072"
-    },
-    {
-      "id": 70396,
-      "IDcode": "XRW-591",
-      "title": "脳殺！淫語手コキ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-11-09",
-      "cover_url": "",
-      "actress": [
-        "秋野千尋",
-        "柊木のあ",
-        "树花凛",
-        "青山葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-591"
     },
     {
       "id": 70494,
@@ -60,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-10-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/57091f7966d9b37a0e33789c4b9174ea.jpg",
       "actress": [
         "川菜美铃",
         "阿部乃美久",
@@ -71,6 +52,25 @@ window.actressData = {
         "葵こはる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-577"
+    },
+    {
+      "id": 70396,
+      "IDcode": "XRW-591",
+      "title": "脳殺！淫語手コキ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/645998b44a64258ccf0a3350c9da1a96.jpg",
+      "actress": [
+        "秋野千尋",
+        "柊木のあ",
+        "树花凛",
+        "青山葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-591"
     }
   ]
 };

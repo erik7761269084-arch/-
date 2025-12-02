@@ -36,13 +36,13 @@ window.actressData = {
     {
       "id": 10580,
       "IDcode": "MIFD-526",
-      "title": "新人出道！最上級可愛！ 甜美100% H杯潮吹 咖啡館娘 首次亮相 AV DEBUT ~ 朝日胡桃",
+      "title": "最上級にカワイイ！ガチ恋100％Hカップとんでもない潮吹きビュービューコンカフェ嬢ちゃんAVデビュー 朝日胡桃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-11-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114095722763763.jpg",
       "actress": [
         "朝日胡桃",

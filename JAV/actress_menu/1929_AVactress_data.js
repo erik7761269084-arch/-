@@ -40,8 +40,45 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/y-BeFree/AI-Fix-桜井あゆ.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 35442,
+      "IDcode": "PGD-711",
+      "title": "诱惑我中出她的嫂子樱井步",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241113-1/297e334dca38388044a418d7b0f50825.jpg",
+      "actress": [
+        "桜井步",
+        "蓝井优太",
+        "樱井步",
+        "しお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-711"
+    },
+    {
+      "id": 19539,
+      "IDcode": "IPZ-462",
+      "title": "痴女护士姐妹们的四小时超级诱惑榨精",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240505-1/a44cd9cb04288d247d856f4ebdf06283.jpg",
+      "actress": [
+        "立花美涼",
+        "桜井步",
+        "樱井步"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-462"
+    },
     {
       "id": 5065,
       "IDcode": "REAL-920",
@@ -49,9 +86,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -108,24 +145,6 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
-    },
-    {
-      "id": 19539,
-      "IDcode": "IPZ-462",
-      "title": "雙重色情癡女護士 過激般刺激的 淒絶240分",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-10-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/37943479-e233-4e4c-961f-f3c7c2d81309.jpg",
-      "actress": [
-        "立花美涼",
-        "桜井步",
-        "樱井步"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-462"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桜ななみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 92326,
       "IDcode": "MIFD-224",
-      "title": "新人20歳 スポーツみたいにSEXがしたいッ！オナニー週11回！三度の飯より性欲が強い明るく元気なショートボブ美少女 AVDEBUT 桜ななみ （ブルーレイディスク） （BOD）",
+      "title": "有活力的短发女孩-桜ななみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-02-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240810-1/96a1927d7a25a2c0fa9c5b91fdb85947.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/cea0fdb88d64e55341dac8ff2ee5ec39.jpg",
       "actress": [
         "桜ななみ"
       ],

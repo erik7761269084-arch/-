@@ -28,39 +28,25 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250504/d9760db6-2d5a-4909-845f-0abfed887329_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250504/16798002-5311-4ee1-96ae-65406c48dcb7_l.webp"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 6409,
-      "IDcode": "SORA-596",
-      "title": "爲求職甘爲肉便器 順從求職妹子高潮連連 猥瑣跳蛋調教讓她臉紅潮吹爽到不行加倍媚藥 ~ 実田あのん",
+      "id": 5817,
+      "IDcode": "GOHM-003",
+      "title": "爲錢和刺激報名素人拍攝的職場騷妹真實性愛記錄 Vol.2 ~ 乙愛麗絲 美丘さとみ 実田あのん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-05-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503101825604604_thumbnail.webp",
+      "publish_date": "2025-05-24",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525021116656656_thumbnail.webp",
       "actress": [
+        "乙愛麗絲",
+        "美丘さとみ",
         "実田あのん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-596"
-    },
-    {
-      "id": 94174,
-      "IDcode": "SDMF-053",
-      "title": "練習中は人一倍きびしいバレー部顧問の父は、家に帰ると疲れた私のカラダをたっぷり可愛がってくれる優しいパパに戻ります。実田あのん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-08-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/143e5f610219d54442eacf70f0f549f4.jpg",
-      "actress": [
-        "実田あのん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-003"
     },
     {
       "id": 14048,
@@ -69,7 +55,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-07-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240611/96e23d09-0449-4c28-b26d-05ba714a0c3c.jpg",
@@ -85,7 +71,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-07-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240618/f2763863-3c42-4927-aed9-854cd8381e7a.jpg",
@@ -93,6 +79,56 @@ window.actressData = {
         "実田あのん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-023"
+    },
+    {
+      "id": 94174,
+      "IDcode": "SDMF-053",
+      "title": "練習中は人一倍きびしいバレー部顧問の父は、家に帰ると疲れた私のカラダをたっぷり可愛がってくれる優しいパパに戻ります。実田あのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d21350e4a73d4f159ba72b/cover.jpg",
+      "actress": [
+        "実田あのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-053"
+    },
+    {
+      "id": 6409,
+      "IDcode": "SORA-596",
+      "title": "就活格付けリモバイ 真面目すぎる就活生がマジイキ連発 就職に悩む実田さんを都内某所でベロチュー連れ回し 猥褻とびっこ調教で赤面イキ潮悶絶に媚薬マシマシwww 実田あのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/12/6821c0d0c7cb4ba33f7739d4/cover.jpg",
+      "actress": [
+        "実田あのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-596"
+    },
+    {
+      "id": 5977,
+      "IDcode": "AKDL-326",
+      "title": "パンツに擦るだけといって布越し挿入したら彼女の妹が発情してきた前田美波 有加里ののか 実田あのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/991d741090d8acaa306f02445591266e.jpg",
+      "actress": [
+        "前田美波",
+        "有加里乃乃花",
+        "実田あのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-326"
     }
   ]
 };

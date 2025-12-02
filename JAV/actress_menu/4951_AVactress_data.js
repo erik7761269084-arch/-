@@ -4,7 +4,7 @@ window.actressData = {
   "name": "田中あかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 80374,
       "IDcode": "SDJS-131",
-      "title": "SOD女子社員 弊社一エロい社員、ハケンの田中さんが正社員登用のためにユーザー様のリクエストに応えるご奉仕3本番 高級店仕込みのソープテクニックでAV(&amp;人生)初中出し!「これで正社員になれたらいいな」",
+      "title": "公司最色情的员工-田中あかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2021-12-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3635144d229a0b8e045801a7ac2db18c.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "田中あかり"
       ],

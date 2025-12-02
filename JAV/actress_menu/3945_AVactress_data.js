@@ -4,7 +4,7 @@ window.actressData = {
   "name": "七美せな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,32 +19,16 @@ window.actressData = {
   "works_count": 7,
   "related_dramas": [
     {
-      "id": 100771,
-      "IDcode": "AMBI-173",
-      "title": "童貞の僕をちっぱいで誘惑してくる！？小悪魔従妹 一花みお パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-07-20",
-      "cover_url": "https://tutu1.space/images/2023/11/15/cec414b89b62480087922e731c4086cb.jpg",
-      "actress": [
-        "七美せな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-173"
-    },
-    {
       "id": 100901,
       "IDcode": "AARM-185",
-      "title": "竿を喉奥に咥え込みながら顔動かさずに舌で亀頭かき混ぜ続けるフェラチオ2",
+      "title": "用舌头狂舔龟头不断口交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2023-07-04",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/49440f8c7c8c9143ab8fab32240023e1.jpg",
       "actress": [
         "岬梓沙",
         "緒川春",
@@ -53,35 +37,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-185"
     },
     {
-      "id": 89559,
-      "IDcode": "AARM-177",
-      "title": "全身痙攣！！蟻の門渡り性感開発サロン",
+      "id": 100771,
+      "IDcode": "AMBI-173",
+      "title": "用贫乳诱惑我这个处男-一花美绪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-04-25",
-      "cover_url": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/04/68400b2f41a147ed1a5562d0/cover.jpg",
       "actress": [
-        "緒川春",
-        "今藤雾子",
-        "凉南佳奈",
         "七美せな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-177"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-173"
     },
     {
       "id": 100533,
       "IDcode": "AARM-172",
-      "title": "可愛い服でパンチラ見せつけながら足こきご奉仕する女の子に辛抱できなくなり着衣SEX",
+      "title": "穿着可爱衣装 一边走光一边足交奉仕的女子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2023-03-30",
-      "cover_url": "https://tutu1.space/images/2023/04/25/31fbfe2712bcea0c821ea8c284c64afe.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "仓木诗织",
         "美園マリカ",
@@ -92,14 +73,14 @@ window.actressData = {
     {
       "id": 90769,
       "IDcode": "AMA-086",
-      "title": "AMA-086",
+      "title": "暴露性癖的美少女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ASSMI",
-      "publish_date": "2023-01-06",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/d4665aa5c81fb32444c12a68ae6e0fae.jpg",
       "actress": [
         "天然美月",
         "七美せな"
@@ -107,20 +88,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-086"
     },
     {
-      "id": 69799,
-      "IDcode": "SDMUA-055",
-      "title": "「仕事ができないオジサンADにやさしくしたら、無理やり中出しされてもう最悪ぅぅぅ!」絶倫中年デカチンにハマったあざと可愛い女子アナ 一花みお",
+      "id": 89559,
+      "IDcode": "AARM-177",
+      "title": "性感开发沙龙",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-12-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250328-1/f05b03c0cbb8229355cd05abd70670bc.jpg",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
+        "緒川春",
+        "今藤雾子",
+        "凉南佳奈",
         "七美せな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-177"
     },
     {
       "id": 88326,
@@ -129,10 +113,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-08-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/191450723153278c64df6b36a5f7bc68.jpg",
       "actress": [
         "七美せな",
         "梦乃美咲",
@@ -140,6 +124,22 @@ window.actressData = {
         "七瀬ひかり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-241"
+    },
+    {
+      "id": 69799,
+      "IDcode": "SDMUA-055",
+      "title": "他强行在我体内射精-一花みお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250328-1/f05b03c0cbb8229355cd05abd70670bc.jpg",
+      "actress": [
+        "七美せな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-055"
     }
   ]
 };

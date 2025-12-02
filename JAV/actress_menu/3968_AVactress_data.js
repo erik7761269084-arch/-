@@ -26,7 +26,7 @@ window.actressData = {
     "Mizuki Rara"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 83638,
@@ -35,8 +35,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BROLLE",
+      "type": "",
+      "company": "Big Morkal",
       "publish_date": "2019-12-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/a9eaf41809e8c77e41d25f798478a6df.jpg",
       "actress": [
@@ -52,33 +52,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-427"
     },
     {
-      "id": 70141,
-      "IDcode": "WA-390",
-      "title": "五つ星美人妻ナンパ中出し 追い打ちピストンで悶死寸前！？SEX痙攣絶頂！",
+      "id": 582489,
+      "IDcode": "200GANA-1460",
+      "title": "夜间泳池搭讪 01 森川安娜 森川安娜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-15",
+      "publish_date": "2017-08-23",
       "cover_url": "",
       "actress": [
-        "若宫はずき",
-        "真城杏",
         "森川杏奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1460"
     },
     {
       "id": 77956,
       "IDcode": "DOCP-039",
-      "title": "下劣な上司に性接待を強要され、夫の目の前で容赦なく何度もイカされてしまう美人貞淑妻",
+      "title": "美人貞淑妻",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-04-20",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "百合川紗羅",
@@ -87,6 +85,24 @@ window.actressData = {
         "川口ともか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-039"
+    },
+    {
+      "id": 70141,
+      "IDcode": "WA-390",
+      "title": "五つ星美人妻ナンパ中出し 追い打ちピストンで悶死寸前！？SEX痙攣絶頂！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f1085f4a9e5b803e968e7aba8f8e1e95.jpg",
+      "actress": [
+        "若宫はずき",
+        "真城杏",
+        "森川杏奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-390"
     }
   ]
 };

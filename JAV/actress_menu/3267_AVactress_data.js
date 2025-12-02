@@ -26,13 +26,13 @@ window.actressData = {
     {
       "id": 3718,
       "IDcode": "BAB-165",
-      "title": "狂嗨DJ媚藥蛇酒嗑過頭極致雙飛 SEASON 12 ~ 瀬那瑠美奈",
+      "title": "ブリブリガンギマリDJ媚薬ハブ酒オーバードーズキメセク SEASON12 瀬那ルミナ・REONA",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013343984984_31198_thumbnail.webp",
       "actress": [
         "瀬那瑠美奈",

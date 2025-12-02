@@ -51,20 +51,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1735,
-      "IDcode": "CWPBD-34",
-      "title": "CATWALK POISON 34 : 鈴木千晴",
+      "id": 154025,
+      "IDcode": "663-CHIHARU-01",
+      "title": "SEX与喜欢强烈刺激的M孩子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2010-12-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/20230121031753734734.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "鈴木千晴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-34"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=663-CHIHARU-01"
     }
   ]
 };

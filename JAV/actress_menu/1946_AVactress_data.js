@@ -32,18 +32,37 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250706/ff1f3617-7d78-4f56-86a3-4a887da33e32_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 3491,
-      "IDcode": "MKCK-398",
-      "title": "巨乳晃不停，高潮時那小表情太撩人，我要射了！中出正常位精選4小時87人 ~ 有阪深雪 美園和花 有村希 清宮仁愛 希咲愛莉絲 莉莉遙香 雨宮響 宮本留衣 華澄結愛 鬼塚萌奈美 香阪紗梨 逢見梨花 藤井蘭々...",
+      "id": 4665,
+      "IDcode": "MUCH-192",
+      "title": "巨乳媽媽的豐滿肉感性愛精選2 4小時合集 ~ 福本芽衣 小西美香 鬼塚萌奈美 優木衣織",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706100455119119_44844_thumbnail.webp",
+      "actress": [
+        "鬼塚萌奈美",
+        "優木衣織",
+        "福本芽衣",
+        "小西美香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-192"
+    },
+    {
+      "id": 3491,
+      "IDcode": "MKCK-398",
+      "title": "揺れる巨乳とイキ顔がエロ過ぎて…俺もイッちゃうッ！種付け寸前の中出し正常位ベスト4時間87名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818045151795795_88584_thumbnail.webp",
       "actress": [
         "美園和花",

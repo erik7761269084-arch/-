@@ -22,7 +22,7 @@ window.actressData = {
     "Shinozaki Mio"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 81843,
@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
       "publish_date": "2020-04-13",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/78a0a6d3792335ae2a3098d6ff4853f2.jpg",
       "actress": [
         "葵玲奈",
         "前田沙羅",
@@ -48,16 +48,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-220"
     },
     {
+      "id": 102794,
+      "IDcode": "EVIS-238",
+      "title": "顔面激舐め廻し唾液臭責めレズ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-11-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/evis238/evis238pl.jpg",
+      "actress": [
+        "希咲彩",
+        "阿部乃美久",
+        "羽生ありさ",
+        "桃瀬ゆり",
+        "篠崎みお",
+        "梁川かりん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-238"
+    },
+    {
       "id": 76183,
       "IDcode": "GGEN-006",
       "title": "素人男女モニタリング実験でゲッツ！！ 同じ職場の♀マジメ先輩OL×巨根部下♂がスマホの顔交換アプリで距離を縮めるつもりがカラダが入れ替わってしまった…。しかも、元に戻る方法がお互いのカラダのシンクロ率を上げるという条件になってしまったらどうなる？",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-10",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/86a6037c584b4b0c78dff28d67460fba.jpg",
       "actress": [
         "川菜美铃",
         "岩下たろう",

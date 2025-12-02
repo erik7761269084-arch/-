@@ -51,27 +51,225 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231228/e1331179-1736-482e-a78e-a77490c67553.jpg",
     "https://picture.yoshiclub.xyz/20231228/ee4b85af-fe3c-41ad-8713-6027b0cc2b9a.jpg"
   ],
-  "works_count": 18,
+  "works_count": 31,
   "related_dramas": [
     {
-      "id": 2946,
-      "IDcode": "IENF-414",
-      "title": "和女子校生妹妹們玩王樣遊戲，我是唯一男主 ~ 美咲音 藤田梢 天野花乃 久和原聖羅 東雲梓",
+      "id": 7268,
+      "IDcode": "SODS-066",
+      "title": "一期一會 10名SOD新人初脫初撮SEx 8小時【永久收藏版】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212944931931_44799_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2025-03-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250326/23bf96b1-4436-455b-a9da-7a597abe06b3.jpg",
+      "actress": [
+        "柏木小夏",
+        "姫咲華",
+        "響乃詩",
+        "希咲那奈",
+        "円井萌華",
+        "久和原聖羅",
+        "小栗操",
+        "美咲音",
+        "早見奈奈",
+        "齋藤かさね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-066"
+    },
+    {
+      "id": 9318,
+      "IDcode": "SQTE-584",
+      "title": "至尊愛的連續33次口交 S-Cute Fellatio Collection 2025",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2025-01-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250108/3e629541-da26-46e6-ae74-2b5216876be8.jpg",
+      "actress": [
+        "都月楓",
+        "宮西光",
+        "渚光希",
+        "久和原聖羅",
+        "美咲音",
+        "月本海咲",
+        "姫川ゆうな",
+        "武田萌奈美",
+        "日向理名",
+        "さくらいちはる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-584"
+    },
+    {
+      "id": 93597,
+      "IDcode": "NOSKN-097",
+      "title": "魅惑のラッキーハーレム！W小悪魔美少女逆3P せいら＆りょう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NOSKINS",
+      "publish_date": "2024-08-02",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/116d42d7d52354efc8a3e00e6fb280ae.jpg",
       "actress": [
         "久和原聖羅",
-        "藤田梢",
-        "美咲音",
-        "東雲梓",
-        "天野花乃"
+        "月美りょう"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-097"
+    },
+    {
+      "id": 13485,
+      "IDcode": "APAK-281",
+      "title": "中出優等生服務 苗條學生的射精支持！像妓女一樣打手槍和舔肛門！ ◆打樁和深喉深喉騎行！ ~ 九和原聖蘿",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "2024-07-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240708/088f8e43-b601-4eb8-a683-c377897d6212.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-281"
+    },
+    {
+      "id": 13624,
+      "IDcode": "SQTE-550",
+      "title": "班裏最調皮最認真的女朋友，放學後的 久和原聖羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2024-07-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240702/08eb1928-67cf-4243-9c66-0e00e0fb3baa.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-550"
+    },
+    {
+      "id": 17061,
+      "IDcode": "SDAB-281",
+      "title": "体育祭実行委員会里的处女委员，愿意以自己的童贞为同学们圆梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-01-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226053647490490.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-281"
+    },
+    {
+      "id": 89655,
+      "IDcode": "SDAB-278",
+      "title": "「今よりもっと気持ちいいを、教えてください！」未経験尽くしの性感教育 巨根激ピス！潮吹き！3P！私の秘めた性欲と絶頂 久和原せいら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2023-11-14",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/12/69143c8a312f492881585db4/poster2.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-278"
+    },
+    {
+      "id": 89667,
+      "IDcode": "SDAB-267",
+      "title": "久和原せいら AV DEBUT 爽やか笑顔、性春真っ盛り",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2023-10-10",
+      "cover_url": "https://tuaskbgnekr.com/20231209/0uwLSpGC/1.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-267"
+    },
+    {
+      "id": 95444,
+      "IDcode": "NHDTB-989",
+      "title": "対面羞恥で何度もイカされ糸が引くほど舌を絡ませるベロキス発情娘4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-989"
+    },
+    {
+      "id": 95084,
+      "IDcode": "SW-0978",
+      "title": "人妻お姉ちゃんのパンスト尻は僕のモノ！妊娠して！ パンスト足とパンスト尻に興奮し、ダメだとわかっていても生挿入！中出し！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0978"
+    },
+    {
+      "id": 73873,
+      "IDcode": "NHDTC-011",
+      "title": "青年チ○ポを本棚越し手コキでこっそり発射させ声我慢SEXで中出しまでさせる年下好き美人司書",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "藤咲紫",
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTC-011"
+    },
+    {
+      "id": 62659,
+      "IDcode": "AGMX-231",
+      "title": "隣で添い寝しながら囁きオナニーをする女の顔2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250727-1/534f65ea2f79193bcecc24dddb06c176.jpg",
+      "actress": [
+        "希咲那奈",
+        "久和原聖羅",
+        "天野花乃",
+        "白浜美羽",
+        "浅桜エリ",
+        "福原なつ乃",
+        "鳴海まりる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-231"
     },
     {
       "id": 61810,
@@ -80,9 +278,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-15",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "吉泽友贵",
@@ -98,16 +296,328 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
-      "id": 3517,
-      "IDcode": "MUCD-336",
-      "title": "純情少女的深喉調教 又痛又爽的4小時大合集 ~ 倉本菫 東條夏 笠木いちか 東雲梓 久和原聖羅 天乃のあ 響乃詩 逢月日葵 皆瀨明里 有加里乃乃花 広瀬みつき 花狩舞 日向ひかげ 橘ひなの 日泉舞香 雅子裡菜",
+      "id": 16736,
+      "IDcode": "SDAB-287",
+      "title": "（亂倫之愛）今天也刻苦練習籃球。當我回到家時，爸爸會給我很多愛。久和原聖羅",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1deb52c12b4e6846b2e0/cover.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-287"
+    },
+    {
+      "id": 16029,
+      "IDcode": "SDAB-292",
+      "title": "不敢相信居然射精30次 ~ 周五放學後，我會值班爲好色的老師處理性事",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a41a0ac813dc779d961e0/cover.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-292"
+    },
+    {
+      "id": 14649,
+      "IDcode": "HMN-560",
+      "title": "如果你真的喜欢我的话-久和原せいら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517043356431431.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-560"
+    },
+    {
+      "id": 12657,
+      "IDcode": "MUDR-274",
+      "title": "實習女生-性騷擾、與老板同房三天兩夜、口水沾臉舔、中出深喉NTR ~ 久和原聖羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040540261261_67540_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/9af21455dd90a4f8d22626437cdc9795.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-274"
+    },
+    {
+      "id": 11798,
+      "IDcode": "APNS-352",
+      "title": "「私、引きこもりの同級生とその家族の人たちに凌●され種付けされ続けるの…そう、これから毎日…」 幾本もの肉棒の餌食となりマゾ開花する優等生… 久和原せいら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/dbb6ed6e76f30f5afbc40d0a6f682ae5.jpg",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-352"
+    },
+    {
+      "id": 9348,
+      "IDcode": "TYD-006",
+      "title": "制服女子的猥褻癡漢電車 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1423a15c08d63a99057ae/cover.jpg",
+      "actress": [
+        "和久井美兎",
+        "久和原聖羅",
+        "真白みのり",
+        "音羽美鈴",
+        "天野花乃",
+        "雨宮あや花",
+        "福田もも",
+        "相月菜緒",
+        "水瀬りた",
+        "香月えりさ",
+        "宮名遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-006"
+    },
+    {
+      "id": 8616,
+      "IDcode": "DVMM-197",
+      "title": "美脚キャビンアテンダント2人組が初めての逆3P童貞筆おろし！悶える童貞くんに痴女心が芽生えた高身長CAたちのチ○ポ奪いあいハーレム3P！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec262152c12b4e6846f427/cover.jpg",
+      "actress": [
+        "前田美波",
+        "本田桃",
+        "久和原聖羅",
+        "青田悠華",
+        "白崎水麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-197"
+    },
+    {
+      "id": 7908,
+      "IDcode": "MIRD-252",
+      "title": "入社到性感內衣公司後",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc528f4e7d663df4db83a5/cover.jpg",
+      "actress": [
+        "久和原聖羅",
+        "恵沙也香",
+        "真白みのり",
+        "福田もも",
+        "夢川りあ",
+        "斉藤月乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-252"
+    },
+    {
+      "id": 7423,
+      "IDcode": "IENF-378",
+      "title": "下宿先の奥様とママ友達に男は僕1人の王様ゲーム",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
+      "actress": [
+        "久和原聖羅",
+        "五十嵐美月",
+        "天野花乃",
+        "仲川空",
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
+    },
+    {
+      "id": 7159,
+      "IDcode": "NPJS-153",
+      "title": "リアルラブホ女子会流出 何らかの形で流出してしまった、女子大生3人組のはっちゃけすぎ映像を配布します。＃オナニー＃入浴シーン＃放尿＃レズプレイ＃セフレ呼んで4P",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/03/6815eabc361668305a9f88ca/cover.jpg",
+      "actress": [
+        "本田桃",
+        "久和原聖羅",
+        "真白みのり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-153"
+    },
+    {
+      "id": 6555,
+      "IDcode": "JKSR-682",
+      "title": "現○女子○生 強●中出し指導！！狙われた制服ロ○ータ9名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428111457182182_thumbnail.webp",
+      "actress": [
+        "北岡果林",
+        "久和原聖羅",
+        "恵沙也香",
+        "澪川遙",
+        "希和みこと",
+        "早見奈奈",
+        "森咲はるの",
+        "斉藤月乃",
+        "まなみ静奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
+    },
+    {
+      "id": 5644,
+      "IDcode": "NPJS-179",
+      "title": "偷拍專門的偷窺屋本舗遭逮捕的偷拍狂熱者的硬碟中流出的珍貴影片精選錄製",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175422872872_thumbnail.webp",
+      "actress": [
+        "久和原聖羅",
+        "音羽美鈴",
+        "天野花乃",
+        "中条りの",
+        "斉藤月乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-179"
+    },
+    {
+      "id": 5418,
+      "IDcode": "SDJS-316",
+      "title": "SOD女子社員試験官9名が全裸男性1名へち○ぽの勃起からザ～汁射精梶尾羽歌 安心院結愛 金子茉珠 加賀谷恋白 古木薊 菱沼萌咲 谷口柊樺 大和田来望 釜谷明日華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609192736674674_thumbnail.webp",
+      "actress": [
+        "永野鈴",
+        "久和原聖羅",
+        "皐月ゆら",
+        "小鳩琉璃",
+        "雨宮あや花",
+        "相月菜緒",
+        "望月ふうか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-316"
+    },
+    {
+      "id": 4813,
+      "IDcode": "DHLD-019",
+      "title": "出張家政婦がパンティ丸わかりの透けピタパンでお掃除してる！それって無言でボクを誘惑してるってコト！？フル勃起してしまった股間に気づき、近づいてきた彼女たちが次々と僕のチ●ポを弄ぶ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68aebc5781bce592e9c18e7e/cover.jpg",
+      "actress": [
+        "宮城理惠",
+        "望月蕾",
+        "小野寺舞",
+        "八森若菜",
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-019"
+    },
+    {
+      "id": 4234,
+      "IDcode": "DNJR-145",
+      "title": "「ほらぁ…センズリこきなさい」痴女お姉様たちに手淫コントロールさせられちゃったボク",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210426140140_80736_thumbnail.webp",
+      "actress": [
+        "宮城理惠",
+        "望月蕾",
+        "静河",
+        "宇流木沙羅",
+        "千石もなか",
+        "白石渚",
+        "小野寺舞",
+        "八森若菜",
+        "久和原聖羅",
+        "美咲音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-145"
+    },
+    {
+      "id": 3651,
+      "IDcode": "BAGR-066",
+      "title": "オタク兄貴の友情と性癖を歪ませるビッチ系妹 久和原せいら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095509458458_36683_thumbnail.webp",
+      "actress": [
+        "久和原聖羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-066"
+    },
+    {
+      "id": 3517,
+      "IDcode": "MUCD-336",
+      "title": "無垢な女の子のイラマチオ とってもくるしくてきもちぃ4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "倉本菫",
         "皆瀨明里",
@@ -131,280 +641,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
     },
     {
-      "id": 3651,
-      "IDcode": "BAGR-066",
-      "title": "宅男哥哥被騷妹玩弄 ~ 久和原聖羅",
+      "id": 2946,
+      "IDcode": "IENF-414",
+      "title": "和我家的女高中生妹妹以及她的朋友玩只有我一个男人的国王游戏-美咲音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095509458458_36683_thumbnail.webp",
-      "actress": [
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-066"
-    },
-    {
-      "id": 62659,
-      "IDcode": "AGMX-231",
-      "title": "隣で添い寝しながら囁きオナニーをする女の顔2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/a65ee057/vod.jpg",
-      "actress": [
-        "希咲那奈",
-        "久和原聖羅",
-        "天野花乃",
-        "白浜美羽",
-        "浅桜エリ",
-        "福原なつ乃",
-        "鳴海まりる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-231"
-    },
-    {
-      "id": 4234,
-      "IDcode": "DNJR-145",
-      "title": "來啦…自己動手吧！被痴女姊姊們控制自慰的我 ~ 久和原聖羅 八森若菜 白石渚 美咲音 宇流木沙羅 靜河 宮城理惠 望月蕾 小野寺舞 千石もなか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210426140140_80736_thumbnail.webp",
-      "actress": [
-        "宮城理惠",
-        "望月蕾",
-        "静河",
-        "宇流木沙羅",
-        "千石もなか",
-        "白石渚",
-        "小野寺舞",
-        "八森若菜",
-        "久和原聖羅",
-        "美咲音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-145"
-    },
-    {
-      "id": 6555,
-      "IDcode": "JKSR-682",
-      "title": "現役女學生被強制中出調教！鎖定制服蘿莉塔9人 ~ 澪川遙 斉藤月乃 まなみ静奈 久和原聖羅 早見奈奈 希和みこと 北岡果林 森咲はるの 恵沙也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2025-04-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428111457182182_thumbnail.webp",
-      "actress": [
-        "北岡果林",
-        "久和原聖羅",
-        "恵沙也香",
-        "澪川遙",
-        "希和みこと",
-        "早見奈奈",
-        "森咲はるの",
-        "斉藤月乃",
-        "まなみ静奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
-    },
-    {
-      "id": 7159,
-      "IDcode": "NPJS-153",
-      "title": "真實情人旅館女生的淫亂4P聚會流出 ~ 本田桃 久和原聖羅 真白みのり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084512865865.jpg",
-      "actress": [
-        "本田桃",
-        "久和原聖羅",
-        "真白みのり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-153"
-    },
-    {
-      "id": 7423,
-      "IDcode": "IENF-378",
-      "title": "寄宿處的老板娘和她的閨蜜們把我當成了遊戲的唯一的國王 ~ 仲川空 久和原聖羅 五十嵐美月 花芽有朱 天野花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212944931931_44799_thumbnail.webp",
       "actress": [
         "久和原聖羅",
-        "五十嵐美月",
-        "天野花乃",
-        "仲川空",
-        "花芽有朱"
+        "藤田梢",
+        "美咲音",
+        "東雲梓",
+        "天野花乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
-    },
-    {
-      "id": 7908,
-      "IDcode": "MIRD-252",
-      "title": "入職性感內衣公司後我成唯一男丁 從早到晚舔舐奉仕 工作內容：隨時隨地爲女員工舔私處 ~ 斉藤月乃 夢川りあ 恵沙也香 福田もも 久和原聖羅 真白みのり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071634813813.jpg",
-      "actress": [
-        "久和原聖羅",
-        "恵沙也香",
-        "真白みのり",
-        "福田もも",
-        "夢川りあ",
-        "斉藤月乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-252"
-    },
-    {
-      "id": 73873,
-      "IDcode": "NHDTC-011",
-      "title": "青年チ○ポを本棚越し手コキでこっそり発射させ声我慢SEXで中出しまでさせる年下好き美人司書 藤咲紫さんのパンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2025-01-23",
-      "cover_url": "",
-      "actress": [
-        "藤咲紫",
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTC-011"
-    },
-    {
-      "id": 95444,
-      "IDcode": "NHDTB-989",
-      "title": "対面羞恥で何度もイカされ糸が引くほど舌を絡ませるベロキス発情娘4 若月もあさんのパンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2024-11-21",
-      "cover_url": "https://tutu1.space/images/2025/09/20/580094dec8a691b8c930e8f24d6a10ec.jpg",
-      "actress": [
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-989"
-    },
-    {
-      "id": 95084,
-      "IDcode": "SW-978",
-      "title": "人妻お姉ちゃんのパンスト尻は僕のモノ！妊娠して！ パンスト足とパンスト尻に興奮し、ダメだとわかっていても生挿入！中出し！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2024-11-21",
-      "cover_url": "https://tutu1.space/images/2025/09/20/a3b6e710bfbc8604f395b7de8026fa3f.jpg",
-      "actress": [
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-978"
-    },
-    {
-      "id": 12657,
-      "IDcode": "MUDR-274",
-      "title": "實習女生-性騷擾、與老板同房三天兩夜、口水沾臉舔、中出深喉NTR ~ 久和原聖羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-08-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816001520943943.jpg",
-      "actress": [
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-274"
-    },
-    {
-      "id": 93597,
-      "IDcode": "NOSKN-097",
-      "title": "魅惑のラッキーハーレム！W小悪魔美少女逆3P せいら＆りょう",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NOSKINS",
-      "publish_date": "2024-08-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/116d42d7d52354efc8a3e00e6fb280ae.jpg",
-      "actress": [
-        "久和原聖羅",
-        "月美りょう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-097"
-    },
-    {
-      "id": 13624,
-      "IDcode": "SQTE-550",
-      "title": "班裏最調皮最認真的女朋友，放學後的 久和原聖羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S-CUTE",
-      "publish_date": "2024-07-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240702/08eb1928-67cf-4243-9c66-0e00e0fb3baa.jpg",
-      "actress": [
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-550"
-    },
-    {
-      "id": 89655,
-      "IDcode": "SDAB-278",
-      "title": "「今よりもっと気持ちいいを、教えてください！」未経験尽くしの性感教育 巨根激ピス！潮吹き！3P！私の秘めた性欲と絶頂 久和原せいら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-14",
-      "cover_url": "",
-      "actress": [
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-278"
-    },
-    {
-      "id": 89667,
-      "IDcode": "SDAB-267",
-      "title": "久和原せいら AV DEBUT 爽やか笑顔、性春真っ盛り",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-10-10",
-      "cover_url": "",
-      "actress": [
-        "久和原聖羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-267"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-414"
     }
   ]
 };

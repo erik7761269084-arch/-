@@ -4,7 +4,7 @@ window.actressData = {
   "name": "叶梦そら",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 85177,
       "IDcode": "KMHRS-032",
-      "title": "抖音追蹤者接近10萬人！淫蕩可愛話題辣妹夢般AV出道 葉夢空",
+      "title": "女孩的梦想色情-叶夢そら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-11-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230120-1/820f5c67e005b2287704199244aa7617.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-7/f34e0b954747e582ec506a86d963f70c.jpg",
       "actress": [
         "鲛岛",
         "叶梦そら"

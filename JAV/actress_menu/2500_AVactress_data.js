@@ -36,8 +36,28 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/5-Ebody/小此木ひなの.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 8914,
+      "IDcode": "KTRA-692",
+      "title": "爆乳美少女圖鑑 4小時 ~ 綾瀨心 日和ももか 小此木雛乃 篠崎環奈 原花音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250122/0024950c-ca2c-46c9-b3af-579e143ba58c.jpg",
+      "actress": [
+        "绫濑心",
+        "篠崎環奈",
+        "原花音",
+        "日和ももか",
+        "小此木雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-692"
+    },
     {
       "id": 83382,
       "IDcode": "KTKC-076",
@@ -45,15 +65,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2020-03-01",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221223-1/a78e3da14bb71045b8eed0ed0363e7fe.jpg",
       "actress": [
         "白雪雛乃",
         "小此木雛乃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-076"
+    },
+    {
+      "id": 103169,
+      "IDcode": "BOBB-319",
+      "title": "小此木ひなの 羞恥乳責め 偽りのウブ制服娘 本性を現すまで徹底的に責め続ける",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2019-07-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bobb319/bobb319pl.jpg",
+      "actress": [
+        "小此木雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-319"
     }
   ]
 };

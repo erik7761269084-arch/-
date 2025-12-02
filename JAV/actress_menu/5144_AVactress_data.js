@@ -4,7 +4,7 @@ window.actressData = {
   "name": "宫野ゆかな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,25 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 17789,
-      "IDcode": "XMOM-064",
-      "title": "懷孕中出妻子 Yukana Miyano",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2023-11-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116095958312312.jpg",
-      "actress": [
-        "宮野由佳奈",
-        "宫野ゆかな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-064"
-    },
     {
       "id": 82163,
       "IDcode": "MCSR-382",
@@ -42,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Big Morkal",
       "publish_date": "2020-03-28",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/KmqegqAt/1.jpg",
       "actress": [
         "小早川怜子",
         "羽生ありさ",
@@ -57,6 +40,61 @@ window.actressData = {
         "八ッ桥さい子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-382"
+    },
+    {
+      "id": 99811,
+      "IDcode": "RDT-213",
+      "title": "「ちょっとそこまでだから…」と不用意にノーブラで出歩く巨乳妻は知らぬ間に男を誘惑して… 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2015-02-11",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118rdt213/118rdt213pl.jpg",
+      "actress": [
+        "宫野ゆかな",
+        "有森凉",
+        "风音舞香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDT-213"
+    },
+    {
+      "id": 98489,
+      "IDcode": "DVH-641",
+      "title": "近親相姦 第2章 私たちは毎日、義父、義兄の欲望のままにレイプされています",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-04-25",
+      "cover_url": "",
+      "actress": [
+        "椎名光",
+        "佐藤遥希",
+        "前田优希",
+        "宫野ゆかな",
+        "原纯那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVH-641"
+    },
+    {
+      "id": 17789,
+      "IDcode": "XMOM-064",
+      "title": "怀孕中被中出的人妻-宫野由佳奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116095958312312.jpg",
+      "actress": [
+        "宮野由佳奈",
+        "宫野ゆかな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-064"
     }
   ]
 };

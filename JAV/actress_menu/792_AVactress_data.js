@@ -42,50 +42,18 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250215/b6d49b1a-45be-4f80-a5ed-ac7690e8669a.jpg",
     "https://picture.yoshiclub.xyz/20250215/1b713d62-e091-46c8-9f7a-ad06a2aea4cf.jpg"
   ],
-  "works_count": 8,
+  "works_count": 9,
   "related_dramas": [
-    {
-      "id": 2776,
-      "IDcode": "MIDA-322",
-      "title": "萬聖節人潮爆滿電車上被痴漢玩弄的逆兔女郎大奶妹 ~ 小鈴蜜柑",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911015422731731_61025_thumbnail.webp",
-      "actress": [
-        "小鈴蜜柑"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-322"
-    },
-    {
-      "id": 3617,
-      "IDcode": "MIDA-281",
-      "title": "裸體素描NTR：美術社團的巨乳女友被噁心顧問逼當裸模，羞恥快感淪陷的噁心寝取影片 ~ 小鈴蜜柑",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025352782782_75953_thumbnail.webp",
-      "actress": [
-        "小鈴蜜柑"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-281"
-    },
     {
       "id": 62584,
       "IDcode": "REBD-955",
-      "title": "Mikan Juicy Squeeze・小鈴みかん チェキ付き",
+      "title": "Mikan Juicy Squeeze・小鈴みかん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2025-07-17",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "小鈴蜜柑"
@@ -93,65 +61,48 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-955"
     },
     {
-      "id": 4536,
-      "IDcode": "MIDA-237",
-      "title": "奶頭超敏感！弱雞小穴被大叔肉棒幹到高潮不停的爆乳女僕 ~ 小鈴蜜柑",
+      "id": 8257,
+      "IDcode": "MIDA-036",
+      "title": "新人Jcup 現役女子大生小鈴みかんAV Debut！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100327203636_73878_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/87f4166f1ff25f8eda426592b1201162.jpg",
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-237"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-036"
     },
     {
-      "id": 5366,
-      "IDcode": "MIDA-196",
-      "title": "老師我想讓你看…巨乳學生妹無 bra 誘惑秀奶頭，校內瘋狂求愛夾奶play ~ 小鈴蜜柑",
+      "id": 7571,
+      "IDcode": "MIDA-060",
+      "title": "ぜーんぶ初体験！！セックス開発 3本番Special！！ 小鈴みかん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061108789789_thumbnail.webp",
-      "actress": [
-        "小鈴蜜柑",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-196"
-    },
-    {
-      "id": 6141,
-      "IDcode": "MIDA-170",
-      "title": "脫光超震撼！絕對連發爽到爆！樸實人氣爆乳風俗全套服務 羞澀微笑加貼心技術榨乾15次 ~ 小鈴蜜柑",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515040339135135_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/29/67e7b8624e7d663df448f3cb/cover.jpg",
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-060"
     },
     {
       "id": 6927,
       "IDcode": "MIDA-098",
-      "title": "高潮無限次 J杯女大學生的色欲大覺醒 第一次噴了好多水 ~ 小鈴蜜柑",
+      "title": "J罩杯大学生小鈴首次高潮觉醒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410184314160160.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d08d2652c12b4e6810388f/cover.jpg",
       "actress": [
         "小鈴蜜柑",
         "小田切ジュン"
@@ -159,20 +110,85 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-098"
     },
     {
-      "id": 8257,
-      "IDcode": "MIDA-036",
-      "title": "新人出道！J杯現役女子大生 首次亮相 AV DEBUT ~ 小鈴蜜柑",
+      "id": 6141,
+      "IDcode": "MIDA-170",
+      "title": "脱了衣服之后身材真的太棒了-小鈴みかん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213072629557557.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515040339135135_thumbnail.webp",
       "actress": [
         "小鈴蜜柑"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-170"
+    },
+    {
+      "id": 5366,
+      "IDcode": "MIDA-196",
+      "title": "从巨乳学生的胸部暴露堕落到无胸罩-小鈴みかん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/05/68918941c92318f97d7f7de7/cover.jpg",
+      "actress": [
+        "小鈴蜜柑",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-196"
+    },
+    {
+      "id": 4536,
+      "IDcode": "MIDA-237",
+      "title": "用大叔雞巴高潮過度服務的大奶女僕-小鈴蜜柑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100327203636_73878_thumbnail.webp",
+      "actress": [
+        "小鈴蜜柑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-237"
+    },
+    {
+      "id": 3617,
+      "IDcode": "MIDA-281",
+      "title": "裸体素描NTR-小鈴みかん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025352782782_75953_thumbnail.webp",
+      "actress": [
+        "小鈴蜜柑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-281"
+    },
+    {
+      "id": 2776,
+      "IDcode": "MIDA-322",
+      "title": "在前往万圣节的人潮拥挤的电车上穿着反向兔女郎装扮的巨乳少女-小鈴みかん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/25/f477a3031cb0cfed4b46ce976d18338a.jpg",
+      "actress": [
+        "小鈴蜜柑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-322"
     }
   ]
 };

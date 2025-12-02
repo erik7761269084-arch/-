@@ -46,37 +46,316 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231108/a2158d2a-ade0-4ce8-a03e-b00c68c6299e.jpg",
     "https://picture.yoshiclub.xyz/20231108/01f43069-b69a-46d4-adc4-a65413164e08.jpg"
   ],
-  "works_count": 14,
+  "works_count": 20,
   "related_dramas": [
     {
-      "id": 2989,
-      "IDcode": "BONY-159",
-      "title": "獨居美女成目標，鬼畜強暴團夥入室輪⬤中出凌辱篇 ~ 有棲奏羽 白石桃 蓮水鈴 志田みずき",
+      "id": 9684,
+      "IDcode": "SCPX-517",
+      "title": "禁止本番NG的風俗店在籍神風俗技師被客人生插中出 ~ 小野寺舞 有棲奏羽 百仁花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072904200200_45952_thumbnail.webp",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241222/bc9be0d1-638d-4f34-9b60-27511ebb73e4.jpg",
       "actress": [
-        "白石桃",
+        "小野寺舞",
         "有棲奏羽",
-        "志田みずき",
-        "蓮水鈴"
+        "百仁花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-517"
+    },
+    {
+      "id": 64048,
+      "IDcode": "NHDTB-953",
+      "title": "女風呂で悪ノリおしっこする合宿女子を捕まえハメながら掃除の刑 有栖かなうさんのパンティとチェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "2024-08-08",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241016-1/62d970fcd46da06a6dded9085aa0c07e.jpg",
+      "actress": [
+        "皆月光",
+        "有棲奏羽",
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-953"
+    },
+    {
+      "id": 107287,
+      "IDcode": "EBWH-011",
+      "title": "共处一室NTR-有栖奏羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-011"
+    },
+    {
+      "id": 106958,
+      "IDcode": "EBWH-018",
+      "title": "暴雨之夜-有栖奏羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-018"
+    },
+    {
+      "id": 106436,
+      "IDcode": "EBWH-003",
+      "title": "大叔让我高潮的话我会让你加倍爽的哦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-003"
+    },
+    {
+      "id": 95585,
+      "IDcode": "IENF-339",
+      "title": "完璧なアスリートボディ！憧れの女子体育大生が生ハメ杭打ちピストン騎乗位に挑戦！トレーニングで鍛え上げた引き締まった腹筋をビクビクさせて本気の連続イキ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/8d4e50aa5d4f3144b5bad7ea94f9a57c.jpg",
+      "actress": [
+        "有馬美玖",
+        "有棲奏羽",
+        "橘知花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-339"
+    },
+    {
+      "id": 95270,
+      "IDcode": "FNEO-089",
+      "title": "ちびっ子ボイン エッチもオジさんも大好きな陥没乳首の巨乳娘と1日中ハメまくり円光 148cmGカップのミニマム巨乳とナマ性交 かなうちゃん 有栖かなう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/39009298fbc00cc3a7cebd8d7dbe8d07.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-089"
+    },
+    {
+      "id": 17999,
+      "IDcode": "WAAA-318",
+      "title": "你刚才射在里面了对吧-有栖奏羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105223115482482.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-318"
+    },
+    {
+      "id": 17418,
+      "IDcode": "WAAA-320",
+      "title": "女友的妹妹-有栖奏羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231203/b9770218-629a-4dc5-abfb-00bdda8b051e.jpg",
+      "actress": [
+        "有棲奏羽",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-320"
+    },
+    {
+      "id": 16948,
+      "IDcode": "WAAA-333",
+      "title": "你的奶子看起来真色啊-有栖奏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060752289289.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-333"
+    },
+    {
+      "id": 16421,
+      "IDcode": "WAAA-337",
+      "title": "被讨厌的义父夜里追奸-有栖奏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207080900862862.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-337"
+    },
+    {
+      "id": 14814,
+      "IDcode": "GDRD-025",
+      "title": "Red Dragon",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250224/uujyIGJL/1.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDRD-025"
+    },
+    {
+      "id": 13864,
+      "IDcode": "NACR-818",
+      "title": "極上按摩技術治愈雞巴擠出精子！超人氣回春男士美學 ~ 有棲かなう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/670b23d3bed4a78b98d1cba1a8563425.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-818"
+    },
+    {
+      "id": 12541,
+      "IDcode": "AMBI-195",
+      "title": "像小说那样禁断的爱-有栖奏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240821/593dfcee-c33d-46c9-a8e6-1a014eba0e9b.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-195"
+    },
+    {
+      "id": 11628,
+      "IDcode": "NPJS-086",
+      "title": "做秘密行动的女大学生分娩健康女孩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/4bf8e34ea9716844f7a5c27fe93c2793.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-086"
+    },
+    {
+      "id": 10880,
+      "IDcode": "GVH-698",
+      "title": "スクールカースト頂点の生意気な巨乳女子マネージャーを復讐レ×プで完堕ちするまで徹底的にわからせる 有栖かなう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/461c11ea033496939fc9a999850041f4.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-698"
+    },
+    {
+      "id": 10875,
+      "IDcode": "YMDD-414",
+      "title": "いもうとケータリングサービス ちっちゃなカラダにおっきなオッパイ！シスコンお兄ちゃんにデレる甘えんぼ妹と好き放題お戯れ！ 有栖かなう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241104/f8633d6d-5582-4998-ac0c-bcda29d61b2b.jpg",
+      "actress": [
+        "有棲奏羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-414"
+    },
+    {
+      "id": 4586,
+      "IDcode": "IENF-384",
+      "title": "素人女子大生が高額バイト代につられてヌードデッサンモデルに！マ〇コのビラビラまで丁寧に描かれる羞恥にマ〇コはグッショリ！生で挿入されてイキまくり！ 9",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709030329669669_40984_thumbnail.webp",
+      "actress": [
+        "五十嵐清華",
+        "齋藤亞美里",
+        "有棲奏羽",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-384"
     },
     {
       "id": 3076,
       "IDcode": "MMPB-089",
-      "title": "巨乳＆巨尻【限定】中出10人 揉爆！舔爽！夾緊！猛幹！~ 彌生美月 浜崎真緒 綾瀨心 愛瀨優裏 白石渚 有棲奏羽 小阪ひまり 天月梓 星七奈奈美 星乃夏月",
+      "title": "巨乳＆巨尻【限定】中出し10人 揉んで！舐めて！挟んで！ハメて！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-08-29",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210130113113_90886_thumbnail.webp",
       "actress": [
         "彌生美月",
@@ -95,204 +374,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-089"
     },
     {
-      "id": 4586,
-      "IDcode": "IENF-384",
-      "title": "素人女大學生被高額兼職費誘惑當裸體素描模特！私密處被細致描繪羞恥爆棚直接溼透！無套中出內射瘋狂高潮！9 ~ 有棲奏羽 五十嵐清華 齋藤亞美裏 ~ 有棲奏羽 齋藤亞美裏 五十嵐清華",
+      "id": 2989,
+      "IDcode": "BONY-159",
+      "title": "一人暮らしの美女を狙う鬼畜レ〇プ集団自宅押込み中出し性交 凌○拷問編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-07-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709030329669669_40984_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072904200200_45952_thumbnail.webp",
       "actress": [
-        "五十嵐清華",
-        "齋藤亞美里",
+        "白石桃",
         "有棲奏羽",
-        "斋藤亚美里"
+        "志田みずき",
+        "蓮水鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-384"
-    },
-    {
-      "id": 95270,
-      "IDcode": "FNEO-089",
-      "title": "ちびっ子ボイン エッチもオジさんも大好きな陥没乳首の巨乳娘と1日中ハメまくり円光 148cmGカップのミニマム巨乳とナマ性交 かなうちゃん 有栖かなう",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2024-11-12",
-      "cover_url": "",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-089"
-    },
-    {
-      "id": 95585,
-      "IDcode": "IENF-339",
-      "title": "完璧なアスリートボディ！憧れの女子体育大生が生ハメ杭打ちピストン騎乗位に挑戦！トレーニングで鍛え上げた引き締まった腹筋をビクビクさせて本気の連続イキ！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2024-10-24",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/311b96e6/vod.jpg",
-      "actress": [
-        "有馬美玖",
-        "有棲奏羽",
-        "橘知花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-339"
-    },
-    {
-      "id": 64048,
-      "IDcode": "NHDTB-953",
-      "title": "女風呂で悪ノリおしっこする合宿女子を捕まえハメながら掃除の刑 有栖かなうさんのパンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2024-08-08",
-      "cover_url": "",
-      "actress": [
-        "皆月光",
-        "有棲奏羽",
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-953"
-    },
-    {
-      "id": 13864,
-      "IDcode": "NACR-818",
-      "title": "極上按摩技術治愈雞巴擠出精子！超人氣回春男士美學 ~ 有棲かなう",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620012544220220.jpg",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-818"
-    },
-    {
-      "id": 16421,
-      "IDcode": "WAAA-337",
-      "title": "討厭的公公，晚上爬進我的房間……",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WANZ FACTORY",
-      "publish_date": "2024-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207080900862862.jpg",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-337"
-    },
-    {
-      "id": 16948,
-      "IDcode": "WAAA-333",
-      "title": "性感的大奶子一直被男同性員工性騷擾，他們抓住我，讓我立刻溼潤。擺弄敏感的陰戶和奶子，然後就高潮了.....",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WANZ FACTORY",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060752289289.jpg",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-333"
-    },
-    {
-      "id": 17418,
-      "IDcode": "WAAA-320",
-      "title": "讓女友的妹妹（清醒、害羞、對性不感興趣）完全沉浸在性感性愛中，高潮很多，把她變成了中出肉便池",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WANZ FACTORY",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231203/b9770218-629a-4dc5-abfb-00bdda8b051e.jpg",
-      "actress": [
-        "有棲奏羽",
-        "Qべぇ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-320"
-    },
-    {
-      "id": 17999,
-      "IDcode": "WAAA-318",
-      "title": "\"呃，你是已經射了嗎?\" 在早洩後，她卻更主動的扭動屁股讓我繼續操她",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WANZ FACTORY",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105223115482482.jpg",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-318"
-    },
-    {
-      "id": 106958,
-      "IDcode": "EBWH-018",
-      "title": "豪雨の夜に押しかけてきた教え子の 露わな濡れ透け巨乳に誘われて… 有栖かなう",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-09-19",
-      "cover_url": "",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-018"
-    },
-    {
-      "id": 107287,
-      "IDcode": "EBWH-011",
-      "title": "コミケ帰り相部屋NTR ラブホのコスプレレンタルで逆バニーを着たら友人に襲われ浮気中出しセックスに明け暮れた年末の夜 有栖かなう 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-08-16",
-      "cover_url": "",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-011"
-    },
-    {
-      "id": 106436,
-      "IDcode": "EBWH-003",
-      "title": "「おじさん、私をイカせてくれたら倍返しで気持ち良くさせてアゲル」 甘サドロリ巨乳とイカせ合い対決がしたい 有栖かなう 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-07-19",
-      "cover_url": "https://tutu1.space/images/2023/12/04/f82d676f1f2826710a833da26381b0f0.jpg",
-      "actress": [
-        "有棲奏羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
     }
   ]
 };

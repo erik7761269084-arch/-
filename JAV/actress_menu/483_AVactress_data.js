@@ -44,41 +44,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231214/b0debeff-3f67-4919-a27b-6b14d2f15406.jpg",
     "https://picture.yoshiclub.xyz/20241212/201aa37b-ffb1-4271-9cd5-3a6da21afab3.jpg"
   ],
-  "works_count": 5,
+  "works_count": 10,
   "related_dramas": [
-    {
-      "id": 8286,
-      "IDcode": "PRST-018",
-      "title": "高級舞臺專屬！白雪日乃的第一次中出！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073240790790.jpg",
-      "actress": [
-        "白雪雛乃",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-018"
-    },
-    {
-      "id": 9933,
-      "IDcode": "PRST-015",
-      "title": "新人？還是前惠比壽隊員日菜菜彩音的復出？銀座第一陪酒妹的 AV 首秀？ - 熟睡的女孩醒來時不是被王子的吻，而是被淫蕩的高潮 ~ 白雪雛乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211065703563563.jpg",
-      "actress": [
-        "白雪雛乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-015"
-    },
     {
       "id": 83771,
       "IDcode": "NITR-493",
@@ -86,10 +53,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-06",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/1349c5acf376c18163132608c431b6b1.jpg",
       "actress": [
         "白雪雛乃"
       ],
@@ -102,10 +69,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2020-03-01",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221223-1/a78e3da14bb71045b8eed0ed0363e7fe.jpg",
       "actress": [
         "白雪雛乃",
         "小此木雛乃"
@@ -113,21 +80,134 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKC-076"
     },
     {
-      "id": 12075,
-      "IDcode": "SSNI-371",
-      "title": "籃球部性處理女經理，就算高潮了，她也會繼續被俱樂部的絕倫男隊員不斷追擊射精 ~ 日菜彩彩音",
+      "id": 13059,
+      "IDcode": "SSNI-350",
+      "title": "完全固定無法移動，直到臀部被壓碎爲止不會停止的無限活塞性愛 ~ 日菜菜彩音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20240911/20240911003539490490.jpg",
+      "publish_date": "2018-11-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240728/20240728231933932932.jpg",
+      "actress": [
+        "白雪雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-350"
+    },
+    {
+      "id": 13268,
+      "IDcode": "SSNI-328",
+      "title": "女大學生連日來在擁擠的車箱裏被癡漢猥褻而無法發出聲音 ~ 日菜菜彩音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2018-10-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240716/20240716222239721721.jpg",
+      "actress": [
+        "白雪雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-328"
+    },
+    {
+      "id": 16810,
+      "IDcode": "SSNI-083",
+      "title": "可愛妹妹亮出大奶子勾引哥哥的5種情景",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2018-01-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111102130863863.jpg",
+      "actress": [
+        "白雪雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-083"
+    },
+    {
+      "id": 17050,
+      "IDcode": "SSNI-061",
+      "title": "愛神覺醒 10 大雞巴 x 陰道高潮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2017-12-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20231227/202312271005356161.jpg",
+      "actress": [
+        "白雪雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-061"
+    },
+    {
+      "id": 12075,
+      "IDcode": "SSNI-371",
+      "title": "被通奸俱乐部成员-日菜々はのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/54df63f8bbf370657a22a24df1ebe2b0.jpg",
       "actress": [
         "白雪雛乃",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-371"
+    },
+    {
+      "id": 9933,
+      "IDcode": "PRST-015",
+      "title": "唤醒她的不是王子的吻-日菜々はのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211065703563563.jpg",
+      "actress": [
+        "白雪雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-015"
+    },
+    {
+      "id": 9030,
+      "IDcode": "PRST-017",
+      "title": "淫らな汁150％に溢れ絶頂（イキ）果てるオンナ 白雪ひなの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116073238614614.jpg",
+      "actress": [
+        "白雪雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-017"
+    },
+    {
+      "id": 8286,
+      "IDcode": "PRST-018",
+      "title": "解禁无套内射-白雪ひなの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4f950e4a73d4f15c27547/cover.jpg",
+      "actress": [
+        "白雪雛乃",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-018"
     }
   ]
 };

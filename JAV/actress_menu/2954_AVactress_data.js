@@ -22,23 +22,39 @@ window.actressData = {
     "Akane Aoi"
   ],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 74357,
-      "IDcode": "LUXU-1082",
-      "title": "ラグジュTV 1065 M男好きな美乳美女！第一印象とはかけ離れた極上テクと淫らな言葉責めは必見！！",
+      "id": 1242,
+      "IDcode": "HEYZO-2428",
+      "title": "我的女僕，她可以立即被操。Vol.11",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2019-02-15",
-      "cover_url": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2021-01-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20230910/20230910212419166166.jpg",
       "actress": [
         "あかね葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2428"
+    },
+    {
+      "id": 529744,
+      "IDcode": "259LUXU-1082",
+      "title": "ラグジュTV 1065 M男好きな美乳美女！第1印象とはかけ离れた极上テクと淫らな言叶责めは必见！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2019-02-15",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221210-1/f30b676bd6a325590a00b79db6d242d0.jpg",
+      "actress": [
+        "あかね葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1082"
     },
     {
       "id": 82706,
@@ -47,33 +63,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-02-12",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/1d54d9809d8813a538bcff2c8a02ca7f.jpg",
       "actress": [
         "あかね葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-365"
-    },
-    {
-      "id": 69727,
-      "IDcode": "YRH-167",
-      "title": "あなたの職場へお伺いします。×03",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-08-24",
-      "cover_url": "",
-      "actress": [
-        "あかね葵",
-        "小森あんな",
-        "枝川结衣",
-        "夏川恵茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YRH-167"
     },
     {
       "id": 88332,
@@ -82,15 +79,34 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-04-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/93a2541c2a1554f243897294805bc37b.jpg",
       "actress": [
         "栄川乃亜",
         "あかね葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-041"
+    },
+    {
+      "id": 69727,
+      "IDcode": "YRH-167",
+      "title": "あなたの職場へお伺いします。×03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/abc8163cfbef4861b7b2410f8120ba11.jpg",
+      "actress": [
+        "あかね葵",
+        "小森あんな",
+        "枝川结衣",
+        "夏川恵茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YRH-167"
     }
   ]
 };

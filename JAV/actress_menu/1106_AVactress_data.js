@@ -38,146 +38,13 @@ window.actressData = {
   "works_count": 20,
   "related_dramas": [
     {
-      "id": 4445,
-      "IDcode": "PKPD-378",
-      "title": "單純粗暴的內射任務 超稀有素人OL生體驗 27歲 ~ 花芽有朱",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712074350905905_27082_thumbnail.webp",
-      "actress": [
-        "花芽有朱",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-378"
-    },
-    {
-      "id": 5004,
-      "IDcode": "MIRD-257",
-      "title": "青春無內少女的純真校園 私立無內學園 ~ 美澄玲衣 新垣まりん 花芽有朱 若月もあ 下川紬 朝海凪咲 湊波流 乙葉らぶ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032726442442_thumbnail.webp",
-      "actress": [
-        "美澄玲衣",
-        "湊波流",
-        "羽月果音",
-        "若月もあ",
-        "乙葉らぶ",
-        "朝海凪咲",
-        "花芽有朱",
-        "下川紬",
-        "新垣まりん",
-        "安倍亜沙美",
-        "吉野愛衣",
-        "小野寺ゆあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
-    },
-    {
-      "id": 66194,
-      "IDcode": "BUR-635",
-      "title": "純朴おさげ髪の似合う三つ編パイパン少●中出し性交10人4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-06-05",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/bd61a667/vod.jpg",
-      "actress": [
-        "希咲那奈",
-        "伊織雛乃",
-        "市井結夏",
-        "工藤拉拉",
-        "美雲そら",
-        "月美りょう",
-        "水本葉",
-        "美好柚伽",
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
-    },
-    {
-      "id": 66193,
-      "IDcode": "IMO-031",
-      "title": "デリヘル呼んだら妹が来た！結果、お店に内緒で中出し本番セックスする事になる総集編4時間（2）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLAYz",
-      "publish_date": "2025-06-05",
-      "cover_url": "",
-      "actress": [
-        "天馬唯",
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-031"
-    },
-    {
-      "id": 7423,
-      "IDcode": "IENF-378",
-      "title": "寄宿處的老板娘和她的閨蜜們把我當成了遊戲的唯一的國王 ~ 仲川空 久和原聖羅 五十嵐美月 花芽有朱 天野花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
-      "actress": [
-        "久和原聖羅",
-        "五十嵐美月",
-        "天野花乃",
-        "仲川空",
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
-    },
-    {
-      "id": 10515,
-      "IDcode": "SDDE-740",
-      "title": "「制服・下着・全裸」2024年度新人CA航空空服小姐 壓卷總勢11名+特別講師1名的大型航空CA研候編",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241119/2024111902491211.jpg",
-      "actress": [
-        "五十嵐清華",
-        "響乃詩",
-        "天美めあ",
-        "及川海",
-        "春原未来",
-        "道久天",
-        "七瀨詩音",
-        "水瀬りた",
-        "花芽有朱",
-        "朝野りる",
-        "安藤春",
-        "れみ",
-        "安藤ハル"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
-    },
-    {
       "id": 13084,
       "IDcode": "ODVHJ-051",
       "title": "本番OK！ ？人妻回春按摩沙龍Ⅲ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2024-07-27",
       "cover_url": "https://picture.yoshiclub.xyz/20240727/a91b33c7-6e2d-46e1-a212-0f380b3e92a4.jpg",
@@ -197,8 +64,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-04-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241103-1/21e93e76495130e01c216d773a2d2983.jpg",
       "actress": [
@@ -207,92 +74,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-021"
     },
     {
-      "id": 106584,
-      "IDcode": "NACR-722",
-      "title": "朝から晩まで撮りっぱなし！？性欲絶倫夫の日常的ハメ撮り 水月ありす パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-11-05",
-      "cover_url": "",
-      "actress": [
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-722"
-    },
-    {
-      "id": 90449,
-      "IDcode": "ONI-042",
-      "title": "「やばい！オマ●コイッちゃう！」ロ●系女子●生15人がカメラ片手に小さな手でくちゅくちゅマジイキ連発！ちっちゃな幼穴がマン汁でびちょ濡れ！自画撮り投稿オナニー4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-11-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240119-1/a39606ffb890bd6084a12131fcc82f74.jpg",
-      "actress": [
-        "沙月惠奈",
-        "市井結夏",
-        "菜月光",
-        "工藤拉拉",
-        "花芽有朱",
-        "南見つばさ",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONI-042"
-    },
-    {
-      "id": 90167,
-      "IDcode": "RCTD-540",
-      "title": "ガチンコ全裸レズバトルリターンズ3",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2023-09-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240113-1/f4d884b0f7cf74f4b5a7acca1ca7cf7a.jpg",
-      "actress": [
-        "绀野光",
-        "花芽有朱",
-        "矢野沙衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-540"
-    },
-    {
       "id": 89404,
       "IDcode": "SUJI-196",
       "title": "背徳が興奮を倍増させる禁断兄妹中出し近親相姦 パイパンお漏らし娘 ありす 水月ありす",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2023-08-15",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240622/jX4mSN1A/1.jpg",
       "actress": [
         "花芽有朱"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-196"
-    },
-    {
-      "id": 91166,
-      "IDcode": "HDKA-284",
-      "title": "はだかの家政婦 全裸家政婦紹介所 水月ありす パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-08-05",
-      "cover_url": "",
-      "actress": [
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-284"
     },
     {
       "id": 87737,
@@ -301,7 +96,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2023-08-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230814-1/a579d9934acff1ee9ea647c30dcb2a62.jpg",
@@ -322,64 +117,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2023-07-20",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240801/HgBCJzDU/1.jpg",
       "actress": [
         "黒木逢夢",
         "花芽有朱"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-019"
-    },
-    {
-      "id": 84584,
-      "IDcode": "HMN-149",
-      "title": "粘着ストーカー親父と援交で再会…睡眠剤を飲まされ、眠っている間にナマで好き放題犯●れた 弱みを握られ何度も何度も呼び出すオヤジの中出しの餌食に！！ 花芽ありす",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2022-04-19",
-      "cover_url": "",
-      "actress": [
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-149"
-    },
-    {
-      "id": 81140,
-      "IDcode": "HMN-134",
-      "title": "SNSフォロワー1万人達成でAVデビューした美少女のもひとつ上のチャレンジ 初めてのナマ中出し 花芽ありす",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2022-03-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/2ba355d4b80d633a3393392285c2a90e.jpg",
-      "actress": [
-        "花芽有朱",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-134"
-    },
-    {
-      "id": 80817,
-      "IDcode": "MIDV-050",
-      "title": "泊まり合宿で性欲体力MAXな巨漢の先輩部員たちと相部屋にさせられた新人女子マネージャー 花芽ありす",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2022-02-15",
-      "cover_url": "",
-      "actress": [
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-050"
     },
     {
       "id": 85419,
@@ -388,10 +134,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
       "publish_date": "2022-01-18",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230320-1/196af0852a6e390dc592c9054f4da351.jpg",
       "actress": [
         "花芽有朱"
       ],
@@ -404,16 +150,270 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
       "publish_date": "2021-11-16",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/7d62cf1d6292371c2ec90122ff9afd6e.jpg",
       "actress": [
         "友田真希",
         "花芽有朱",
         "夏目ミュウ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-003"
+    },
+    {
+      "id": 106584,
+      "IDcode": "NACR-722",
+      "title": "性欲绝伦丈夫的日常拍摄-水月爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-722"
+    },
+    {
+      "id": 91166,
+      "IDcode": "HDKA-284",
+      "title": "裸体家政妇-水月爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/fd0af106f8a445ef095492709c13186b.jpg",
+      "actress": [
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-284"
+    },
+    {
+      "id": 90449,
+      "IDcode": "ONI-042",
+      "title": "「やばい！オマ●コイッちゃう！」ロ●系女子●生15人がカメラ片手に小さな手でくちゅくちゅマジイキ連発！ちっちゃな幼穴がマン汁でびちょ濡れ！自画撮り投稿オナニー4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc13abc6d1004ed41deb30/cover.jpg",
+      "actress": [
+        "沙月惠奈",
+        "市井結夏",
+        "菜月光",
+        "工藤拉拉",
+        "花芽有朱",
+        "南見つばさ",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONI-042"
+    },
+    {
+      "id": 90167,
+      "IDcode": "RCTD-540",
+      "title": "ガチンコ全裸レズバトルリターンズ3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240116-1/f036f8f3670cfcb89213238af8318e4c.jpg",
+      "actress": [
+        "绀野光",
+        "花芽有朱",
+        "矢野沙衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-540"
+    },
+    {
+      "id": 84584,
+      "IDcode": "HMN-149",
+      "title": "强奸裸睡的女孩-花芽ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-149"
+    },
+    {
+      "id": 81140,
+      "IDcode": "HMN-134",
+      "title": "美丽女孩-花芽ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "花芽有朱",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-134"
+    },
+    {
+      "id": 80817,
+      "IDcode": "MIDV-050",
+      "title": "先輩部員-花芽ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-12/ed0ffb73d2df48210d0094cf68b9cc2d.jpg",
+      "actress": [
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-050"
+    },
+    {
+      "id": 66194,
+      "IDcode": "BUR-635",
+      "title": "純朴おさげ髪の似合う三つ編パイパン少●中出し性交10人4時間希咲那奈 柏木こなつ 工藤ララ 伊織ひなの 市井結夏 月美りょう 美好柚伽 水本葉 美雲そら 水月ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希咲那奈",
+        "伊織雛乃",
+        "市井結夏",
+        "工藤拉拉",
+        "美雲そら",
+        "月美りょう",
+        "水本葉",
+        "美好柚伽",
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
+    },
+    {
+      "id": 66193,
+      "IDcode": "IMO-031",
+      "title": "デリヘル呼んだら妹が来た！結果、お店に内緒で中出し由良かな 柏木こなつ 皆瀬あかり 天馬ゆい 横宮七海 佐野なつ 水月ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLAYz",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68886574c92318f97d024cb3/cover.jpg",
+      "actress": [
+        "天馬唯",
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-031"
+    },
+    {
+      "id": 10515,
+      "IDcode": "SDDE-740",
+      "title": "招待跨坐航空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bab4bcce3e366423ce2b0b/cover.jpg",
+      "actress": [
+        "五十嵐清華",
+        "響乃詩",
+        "天美めあ",
+        "及川海",
+        "春原未来",
+        "道久天",
+        "七瀨詩音",
+        "水瀬りた",
+        "花芽有朱",
+        "朝野りる",
+        "安藤春",
+        "れみ",
+        "安藤ハル"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
+    },
+    {
+      "id": 7423,
+      "IDcode": "IENF-378",
+      "title": "下宿先の奥様とママ友達に男は僕1人の王様ゲーム",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
+      "actress": [
+        "久和原聖羅",
+        "五十嵐美月",
+        "天野花乃",
+        "仲川空",
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
+    },
+    {
+      "id": 5004,
+      "IDcode": "MIRD-257",
+      "title": "履いてない青春真っただ中の汚れなき少女たち 私立ノーパン学園",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dac14c92318f97d4a4254/cover.jpg",
+      "actress": [
+        "美澄玲衣",
+        "湊波流",
+        "羽月果音",
+        "若月もあ",
+        "乙葉らぶ",
+        "朝海凪咲",
+        "花芽有朱",
+        "下川紬",
+        "新垣まりん",
+        "安倍亜沙美",
+        "吉野愛衣",
+        "小野寺ゆあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
+    },
+    {
+      "id": 4445,
+      "IDcode": "PKPD-378",
+      "title": "中出しするだけの簡単なお仕事 激レア生ハメOL ありす 27歳 花芽ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712074350905905_27082_thumbnail.webp",
+      "actress": [
+        "花芽有朱",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-378"
     }
   ]
 };

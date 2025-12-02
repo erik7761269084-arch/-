@@ -29,7 +29,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231219/d6116667-161c-4ef0-9d74-66422b5e8d0d.jpg",
     "https://picture.yoshiclub.xyz/20231219/d7c5032f-ba2d-4af9-a111-53f0867d97da.jpg"
   ],
-  "works_count": 4,
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 13727,
@@ -38,7 +38,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-07-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240626/c172e1fd-eb64-48ea-a507-1d6ad9ee3241.jpg",
@@ -54,7 +54,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-06-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240521/f07be793-9d57-41f9-b615-c2c0c279983f.jpg",
@@ -70,7 +70,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-05-23",
       "cover_url": "https://picture.yoshiclub.xyz/20240423/202404230502335959.jpg",
@@ -80,20 +80,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-013"
     },
     {
-      "id": 106369,
-      "IDcode": "SDNM-398",
-      "title": "病院でおチンチンを見ると騎乗位で元気にさせたくなっちゃう関西弁のナースママ 西野芹那 27歳 地元大阪でAV DEBUT",
+      "id": 16188,
+      "IDcode": "SDNM-430",
+      "title": "當西野芹那在醫院看到陰莖時，她想以騎乘式的姿勢讓它恢復活力。帶有關西方言的護士媽媽。西野芹菜，27歲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-11-23",
-      "cover_url": "https://tutu1.space/images/2023/12/12/57bc7ec6726a4818bbb43888502dc723.jpg",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220011628671671.jpg",
+      "actress": [
+        "西野芹那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-430"
+    },
+    {
+      "id": 17183,
+      "IDcode": "SDNM-412",
+      "title": "每次在醫院護理病人看到他們的大雞巴時 我就想以騎乘勢的姿勢騎在他們身上 操著關西方言的護士人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-01-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20231219/35bad25b-70c5-4e1f-8e36-df04f8e71b5f.jpg",
+      "actress": [
+        "西野芹那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-412"
+    },
+    {
+      "id": 106369,
+      "IDcode": "SDNM-398",
+      "title": "幫你元氣加滿-西野芹那",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/cc566f4fbb9677ebac9299d2bec844cb.jpg",
       "actress": [
         "西野芹那"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-398"
+    },
+    {
+      "id": 16608,
+      "IDcode": "SDNM-418",
+      "title": "西野芹那，27歲，護士媽媽，在醫院裏看到陰莖就會讓人想騎上去搖擺起來來振興自己。第4章：從橫濱的虐待狂雞巴中射出10次精液。與丈夫完全相反，喜歡受虐護士，玩得很開心",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a586b8f1cbfc7a9c7db72/cover.jpg",
+      "actress": [
+        "西野芹那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-418"
+    },
+    {
+      "id": 15951,
+      "IDcode": "SDNM-440",
+      "title": "在医院里看到阴茎的时候-西野芹那",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西野芹那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-440"
     }
   ]
 };

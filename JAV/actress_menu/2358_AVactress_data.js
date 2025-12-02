@@ -38,13 +38,13 @@ window.actressData = {
     {
       "id": 17251,
       "IDcode": "MEYD-865",
-      "title": "高級人妻風俗業 SPECIAL 5種產業齊全 高級風俗娘為您服務",
+      "title": "高級人妻風俗店-夢野蓳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2023-12-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231215/d43b9942-60b5-4e1b-a371-0993e5d6a652.jpg",
       "actress": [
         "梦野堇",

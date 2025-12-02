@@ -34,34 +34,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-雪乃ほたる.jpg",
     "https://picture.yoshiclub.xyz/20230120/2871c71f-47d3-44d9-8a81-15fd4724a0f6.jpg"
   ],
-  "works_count": 13,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 1806,
-      "IDcode": "mkbd-s118",
-      "title": "KIRARI 118 榨乾你三次還不罷休的極上女優 : 立花美涼",
+      "id": 67037,
+      "IDcode": "ADN-072",
+      "title": "情人的悲哀-立花美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2015-12-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/fdab4c5b-76d4-4cc0-8fc1-07e73c21e991.webp",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a4885eefd4594e23a30d4c3dc83a2a86.jpg",
       "actress": [
         "立花美涼"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mkbd-s118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-072"
+    },
+    {
+      "id": 106729,
+      "IDcode": "IPZ-439",
+      "title": "精子吸引-立花美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240303-1/d66654fd72097bd9a2901bb0266f133b.jpg",
+      "actress": [
+        "立花美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-439"
     },
     {
       "id": 105465,
       "IDcode": "RBD-733",
-      "title": "眠ることも許されず、ただひたすらに犯され続けて…。 立花美涼",
+      "title": "她不被允许睡觉-立花美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2015-12-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "立花美涼"
@@ -69,98 +85,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-733"
     },
     {
-      "id": 2035,
-      "IDcode": "SMBD-145",
-      "title": "S Model 145 人妻吵架後離家給我幹 : 立花美涼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/d3818164-ae02-449c-9885-aa34062c3fa2.webp",
-      "actress": [
-        "立花美涼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-145"
-    },
-    {
-      "id": 67037,
-      "IDcode": "ADN-072",
-      "title": "哀しみの痴漢バス 立花美涼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2015-09-07",
-      "cover_url": "",
-      "actress": [
-        "立花美涼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-072"
-    },
-    {
-      "id": 79809,
-      "IDcode": "RBD-708",
-      "title": "贖罪從順女教師 立花美涼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2015-08-07",
-      "cover_url": "",
-      "actress": [
-        "立花美涼",
-        "蓝井优太"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-708"
-    },
-    {
-      "id": 1782,
-      "IDcode": "CWPBD-126",
-      "title": "走秀毒126【高規格美人】日本觸電到貨：立花美鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2015-07-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/d722e321-d089-4b43-a606-d9413f4d6222.webp",
-      "actress": [
-        "立花美涼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-126"
-    },
-    {
-      "id": 61504,
-      "IDcode": "ADN-065",
-      "title": "あなたに愛されたくて。 立花美涼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2015-07-07",
-      "cover_url": "",
-      "actress": [
-        "立花美涼",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-065"
-    },
-    {
       "id": 101286,
       "IDcode": "IPZ-568",
-      "title": "豪華淫技女包下小套房陪你玩 立花美涼",
+      "title": "私会超极品的妓女-立花美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-05-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240315-1/49a2e51acd3f6052a73ca03c01252fcb.jpg",
       "actress": [
         "立花美涼",
         "鲛岛"
@@ -168,16 +102,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-568"
     },
     {
-      "id": 95788,
-      "IDcode": "ADN-050",
-      "title": "老公、原諒我…。與朋友的不倫對象密會 立花美涼",
+      "id": 96247,
+      "IDcode": "ABS-100",
+      "title": "情人的豪华套房-立花美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2015-02-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "立花美涼",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-100"
+    },
+    {
+      "id": 95788,
+      "IDcode": "ADN-050",
+      "title": "情人秘密会面-立花美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/08fc8408399230f4b55eca8283081aef.jpg",
       "actress": [
         "立花美涼",
         "田渊正浩"
@@ -187,14 +138,14 @@ window.actressData = {
     {
       "id": 95782,
       "IDcode": "RBD-653",
-      "title": "生贄の宿 立花美涼",
+      "title": "为了死去的母亲守护旅馆-立花美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2015-01-07",
-      "cover_url": "https://tutu1.space/images/2024/10/10/5d6d9dd98031a62d9a567a3e563a6d42.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "立花美涼",
         "田渊正浩"
@@ -202,54 +153,90 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-653"
     },
     {
-      "id": 79771,
-      "IDcode": "SHKD-583",
-      "title": "女教師 暴虐的放課後 立花美涼",
+      "id": 79809,
+      "IDcode": "RBD-708",
+      "title": "服従女教師-立花美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d1261ad65f16db2f17cd5826ff468f82.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240329-1/7b1a669e9f20543c8905a5c0ae175baf.jpg",
+      "actress": [
+        "立花美涼",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-708"
+    },
+    {
+      "id": 79771,
+      "IDcode": "SHKD-583",
+      "title": "暴虐の放課後-立花美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "立花美涼"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-583"
     },
     {
-      "id": 19539,
-      "IDcode": "IPZ-462",
-      "title": "雙重色情癡女護士 過激般刺激的 淒絶240分",
+      "id": 78058,
+      "IDcode": "IPZ-451",
+      "title": "黑道老大的女人立花美凉悲惨的人生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-10-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/37943479-e233-4e4c-961f-f3c7c2d81309.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7273f5b0b736fb8bb54af6a8ee12b904.jpg",
+      "actress": [
+        "立花美涼",
+        "田渊正浩",
+        "笹木良一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-451"
+    },
+    {
+      "id": 61504,
+      "IDcode": "ADN-065",
+      "title": "希望你能爱我-立花美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b086b43d6972716293578/cover.jpg",
+      "actress": [
+        "立花美涼",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-065"
+    },
+    {
+      "id": 19539,
+      "IDcode": "IPZ-462",
+      "title": "痴女护士姐妹们的四小时超级诱惑榨精",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240505-1/a44cd9cb04288d247d856f4ebdf06283.jpg",
       "actress": [
         "立花美涼",
         "桜井步",
         "樱井步"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-462"
-    },
-    {
-      "id": 106729,
-      "IDcode": "IPZ-439",
-      "title": "精子吸引真空口交 立花美涼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-08-19",
-      "cover_url": "",
-      "actress": [
-        "立花美涼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-439"
     }
   ]
 };

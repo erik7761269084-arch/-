@@ -27,40 +27,56 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-原小雪.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1809,
-      "IDcode": "SKYHD-044",
-      "title": "天天使藍 Vol.44 : 原小雪 : Part.1 (HD)",
+      "id": 155700,
+      "IDcode": "JUC-176",
+      "title": "义姊家庭教师",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2010-12-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/b3bc64b4-0277-4430-a18c-c34306fd6811.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250310-1/0eb9166a293783e9a23af61d0272c2ad.jpg",
       "actress": [
         "原小雪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUC-176"
     },
     {
       "id": 1931,
       "IDcode": "SKYHD-020",
-      "title": "天天使藍 Vol.20 : 原小雪 : Part.1 (HD)",
+      "title": "高个肉感十足的美女-原小雪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2010-10-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230209/1ddcd918-ba1f-433d-9c39-46a11125acfe.webp",
       "actress": [
         "小澤瑪麗亞",
         "原小雪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-020"
+    },
+    {
+      "id": 1809,
+      "IDcode": "SKYHD-044",
+      "title": "高个肉感美女第二弹-原小雪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SKY HIGH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230209/b3bc64b4-0277-4430-a18c-c34306fd6811.webp",
+      "actress": [
+        "原小雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-044"
     }
   ]
 };

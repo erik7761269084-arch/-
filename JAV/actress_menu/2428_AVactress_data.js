@@ -35,13 +35,13 @@ window.actressData = {
     {
       "id": 13972,
       "IDcode": "PRED-690",
-      "title": "超敏感身體，漂亮陰部，長的酷酷的浮舟美波 首次亮相 AV DEBUT",
+      "title": "一个很酷的女人-浮舟美波",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2024-06-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240614/202406140151251212.jpg",
       "actress": [
         "浮舟美波",

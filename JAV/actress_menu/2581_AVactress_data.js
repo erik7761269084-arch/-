@@ -42,13 +42,13 @@ window.actressData = {
     {
       "id": 5367,
       "IDcode": "MIAB-465",
-      "title": "新人出道！有着超J爆乳的地味不動產經紀田舍妹初登場！看似老實卻是超絕品變態，巨根狂插足抖潮吹失禁高潮 AV DEBUT ~ 三津葉杏梨",
+      "title": "田舎の不動産事務員地味メガネ巨乳デビュー。真面目そうで超絶変態巨チンぶっ込み足ピン噴水失禁アクメ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-06-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612071222382382_thumbnail.webp",
       "actress": [
         "三津葉杏梨"

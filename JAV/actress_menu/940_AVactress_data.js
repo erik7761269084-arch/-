@@ -32,18 +32,108 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231027/0f5adf88-898a-4dfe-a38f-af11d92a4e0c.jpg",
     "https://picture.yoshiclub.xyz/20231027/5006270c-0d0c-4195-8d88-e293926b3346.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 3077,
-      "IDcode": "MMPB-092",
-      "title": "電震狂潮！高潮噴水不止！微醺女優陷入失神快感沼澤 ~ 柊有希 美波梢 花衣つばき 児玉れな 长濑麻美 白石桃 末広純 彌生美月 水川潤 推川悠里 浜崎真緒 一条美緒 日向ひかげ 三岳祐奈",
+      "id": 17392,
+      "IDcode": "SSIS-008",
+      "title": "本気性交-児玉れな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20231206/202312060900005454.jpg",
+      "actress": [
+        "児玉れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-008"
+    },
+    {
+      "id": 18149,
+      "IDcode": "MILK-188",
+      "title": "F罩杯新婚人妻-兒玉玲奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/5036a33f540006585397233156a433d0.jpg",
+      "actress": [
+        "児玉れな",
+        "儿玉玲奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-188"
+    },
+    {
+      "id": 6719,
+      "IDcode": "BONY-142",
+      "title": "被害者7名 闇レ●プ集団の鬼畜FUCK5時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/07/04/fbf6c7b913fd40d73e7589fdc75f47b0.jpg",
+      "actress": [
+        "有加里乃乃花",
+        "天乃のあ",
+        "鈴音杏夏",
+        "加賀美さら",
+        "天海一華",
+        "児玉れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
+    },
+    {
+      "id": 6533,
+      "IDcode": "SAN-348",
+      "title": "寝取られたエロすぎてべっぴんすぎる人妻240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428103521362362_thumbnail.webp",
+      "actress": [
+        "七瀬いおり",
+        "児玉れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-348"
+    },
+    {
+      "id": 6345,
+      "IDcode": "MILK-245",
+      "title": "街で見つけた制服天使を睡●調● 狙われた女子●生5人の末路 300分特別編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/18/81bdf585b1a2ac959137f1d68eaa97f6.jpg",
+      "actress": [
+        "市井結夏",
+        "児玉れな",
+        "春日惠奈",
+        "儿玉玲奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-245"
+    },
+    {
+      "id": 3077,
+      "IDcode": "MMPB-092",
+      "title": "激震電マ！クリ潮絶頂！ほろ酔い女優が沼った失神アクメ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-08-29",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210123861861_32037_thumbnail.webp",
       "actress": [
         "彌生美月",
@@ -67,63 +157,6 @@ window.actressData = {
         "儿玉玲奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-092"
-    },
-    {
-      "id": 6345,
-      "IDcode": "MILK-245",
-      "title": "街頭邂逅制服小天使 被尾行迷奸的女學生5人組悲慘末路 300分鍾特別編 ~ 市井結夏 兒玉玲奈 春日惠奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508041714452452_thumbnail.webp",
-      "actress": [
-        "市井結夏",
-        "児玉れな",
-        "春日惠奈",
-        "儿玉玲奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-245"
-    },
-    {
-      "id": 6719,
-      "IDcode": "BONY-142",
-      "title": "七位受害者慘遭鬼畜集團無情輪奸FUCK五小時合集 ~ 有加里乃乃花 天海一華 児玉れな 鈴音杏夏 加賀美さら 天乃のあ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092932216216_thumbnail.webp",
-      "actress": [
-        "有加里乃乃花",
-        "天乃のあ",
-        "鈴音杏夏",
-        "加賀美さら",
-        "天海一華",
-        "児玉れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
-    },
-    {
-      "id": 18149,
-      "IDcode": "MILK-188",
-      "title": "婚禮前夕，F罩杯的新妻被當作性感官開發的治療，大雞巴被插入敏感的巨乳妻子身上，她渾身都是油，完全抑鬱，瘋狂性交。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2023-10-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20231026/20231026234700465465.jpg",
-      "actress": [
-        "児玉れな",
-        "儿玉玲奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-188"
     }
   ]
 };

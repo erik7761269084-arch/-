@@ -4,7 +4,7 @@ window.actressData = {
   "name": "长谷川古宵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-10-25",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240831/cZpk3Mta/1.jpg",
       "actress": [
         "推川悠里",
         "长谷川古宵",
@@ -41,13 +41,13 @@ window.actressData = {
     {
       "id": 67429,
       "IDcode": "NACR-621",
-      "title": "NACR-621",
+      "title": "喜爱射精的女演员-長谷川古宵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2023-01-05",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "长谷川古宵"

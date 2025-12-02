@@ -29,18 +29,50 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250809/7071ddf7-db8d-4a8a-988f-b13366b16658_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3713,
-      "IDcode": "RVG-242",
-      "title": "母子姦BEST VOL.7 ~ 成咲優美 米倉穂香 加藤ツバキ 武藤彩香 小笠原留衣 一之瀨綾乃",
+      "id": 157970,
+      "IDcode": "KBI-036",
+      "title": "各种场合被侵犯内射的美人妻-米倉穂香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/9921fbe9e64dcb13096c0ac26ae2840a.jpg",
+      "actress": [
+        "米倉穂香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-036"
+    },
+    {
+      "id": 95018,
+      "IDcode": "KBI-028",
+      "title": "美人妻母性愛-米倉穂香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0c96de4c9557f8fe602327833989f287.jpg",
+      "actress": [
+        "米倉穂香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-028"
+    },
+    {
+      "id": 3713,
+      "IDcode": "RVG-242",
+      "title": "母子姦BEST VOL.7",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809081414829829_25720_thumbnail.webp",
       "actress": [
         "武藤彩香",

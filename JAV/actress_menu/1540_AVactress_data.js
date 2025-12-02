@@ -37,19 +37,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241129/2f0dcb51-0974-4387-81bd-06d3c2bc968b.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 9445,
-      "IDcode": "CAWD-786",
-      "title": "發育途中思期期的叛逆女生逃學，被老頭子用嫺熟的性技巧玩弄的淫猥性交 ~ 宮瀨流花",
+      "id": 10324,
+      "IDcode": "CAWD-772",
+      "title": "と杭打ち騎乗位 武器はモッチモチの白柔肌とGcupおっぱい「わたし、AV女優になれますか？」あどけない童顔美少女が目をキラキラ輝かせてAVデビュー 宮瀬るか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102085343662662.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102803314314.jpg",
+      "actress": [
+        "宮瀨流花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-772"
+    },
+    {
+      "id": 9445,
+      "IDcode": "CAWD-786",
+      "title": "榻榻米和精液的气味朦胧发育-宮瀬るか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787ae005d57b64bfdfb9ebf/cover.jpg",
       "actress": [
         "宮瀨流花"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "姫野じゅり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,49 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 62117,
-      "IDcode": "MOOC-008",
-      "title": "【FANZA限定】男の娘風俗で働き始めた幼馴染にフェベチオの練習台を頼まれ不覚にもフル勃起したら魅惑のアナルセックスで中出しザーメンを抜かれまくった。 姫野じゅり チェキとパンティ付き",
+      "id": 68462,
+      "IDcode": "HERY-157",
+      "title": "男の娘、完全メス化これくしょん48 姫野じゅり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/23/68307e288c4b3b91d760ef77/cover.jpg",
+      "actress": [
+        "姫野じゅり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-157"
+    },
+    {
+      "id": 67387,
+      "IDcode": "NVH-051",
+      "title": "ヤリチンGALニューハーフの逆アナルセックスで何度も何度もメスイキさせられてしまった…。 姫野じゅり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/12/6822026d197cffa35000201a/cover.jpg",
+      "actress": [
+        "タクト",
+        "姫野じゅり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-051"
+    },
+    {
+      "id": 62117,
+      "IDcode": "MOOC-008",
+      "title": "男の娘風俗で働き始めた幼馴染にフェベチオの練習台を頼まれ不覚にもフル勃起したら魅惑のアナルセックスで中出しザーメンを抜かれまくった。 姫野じゅり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/f81160d7acaaadbac8dd1f41422018eb.jpg",
       "actress": [
         "姫野じゅり"
       ],
@@ -41,10 +74,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Baby Entertainment",
-      "publish_date": "2025-08-05",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899764355337d7f7bd1fcd4/cover.jpg",
       "actress": [
         "姫野じゅり"
       ],
@@ -57,47 +90,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-07-27",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/05/0885b060/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899540b55337d7f7bcfad1f/cover.jpg",
       "actress": [
         "姫野じゅり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-016"
-    },
-    {
-      "id": 67387,
-      "IDcode": "NVH-051",
-      "title": "ヤリチンGALニューハーフの逆アナルセックスで何度も何度もメスイキさせられてしまった…。 姫野じゅり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2025-05-06",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/01/ac9c6fff/vod.jpg",
-      "actress": [
-        "タクト",
-        "姫野じゅり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-051"
-    },
-    {
-      "id": 68462,
-      "IDcode": "HERY-157",
-      "title": "【FANZA限定】男の娘、完全メス化これくしょん48 姫野じゅり 生写真とパンツ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-04-23",
-      "cover_url": "",
-      "actress": [
-        "姫野じゅり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-157"
     }
   ]
 };

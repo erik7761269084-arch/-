@@ -33,41 +33,78 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230517/5ec95d9f-3c30-42dd-932b-2b9b6b52589e.jpg",
     "https://picture.yoshiclub.xyz/20230517/92d2fbd0-a25a-4209-923e-fd01f7286d93.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 19321,
-      "IDcode": "IPX-130",
-      "title": "變態美女教師來吃學生幹砲自拍",
+      "id": 19375,
+      "IDcode": "IPX-068",
+      "title": "最棒的性爱体验-愛世くらら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-04-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230601/20230601031254644644.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/10/13/63f60239118517fdc4edb36fd928d937.jpg",
+      "actress": [
+        "愛世くらら",
+        "吉村卓",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-068"
+    },
+    {
+      "id": 19356,
+      "IDcode": "IPX-085",
+      "title": "過激で凄絶な淫交-愛世くらら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230526/202305260352394242.jpg",
+      "actress": [
+        "愛世くらら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-085"
+    },
+    {
+      "id": 19349,
+      "IDcode": "IPX-100",
+      "title": "究极痴女爱世绮罗淫荡接吻淫语性爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230528/20230528033753578578.jpg",
+      "actress": [
+        "愛世くらら",
+        "吉村卓",
+        "田渊正浩",
+        "爱世くらら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-100"
+    },
+    {
+      "id": 19321,
+      "IDcode": "IPX-130",
+      "title": "喜欢男人臭味的变态痴女教师爱世绮罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4976071a48af17539db29108656e917d.jpg",
       "actress": [
         "愛世くらら",
         "市川润",
         "爱世くらら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-130"
-    },
-    {
-      "id": 19393,
-      "IDcode": "IPX-050",
-      "title": "FIRST IMPRESSION 122 爽到爆射新人肏下海來！ ~ 愛世くらら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-12-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230516/20230516201149579579.jpg",
-      "actress": [
-        "愛世くらら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-050"
     }
   ]
 };

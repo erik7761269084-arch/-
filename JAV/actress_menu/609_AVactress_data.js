@@ -44,51 +44,84 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231008/cccacfd8-8786-492b-92f9-ebfde4164023.jpg",
     "https://picture.yoshiclub.xyz/20231008/cefd5e60-2a0f-4185-a0e9-aa556de9572f.jpg"
   ],
-  "works_count": 5,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 13706,
-      "IDcode": "SAME-118",
-      "title": "新婚的老師鈴乃宇都被迫被學校裏最有問題的孩子操 ~ 鈴乃宇都",
+      "id": 18425,
+      "IDcode": "IPZZ-164",
+      "title": "第一印象 163 阿爾卑斯山的自然美景",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-07-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628004347151151.jpg",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2023-10-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20231008/c6858cff-8dda-44d9-93c8-1c44af9e64b3.jpg",
       "actress": [
         "鈴乃宇都"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-164"
     },
     {
-      "id": 16370,
-      "IDcode": "IPZZ-209",
-      "title": "美容院無法拒絕性騷擾顧客的誘惑，無法停止感覺太好了！ ！",
+      "id": 105711,
+      "IDcode": "IPZZ-258",
+      "title": "呼叫护士铃-铃乃宇都",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2024-02-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20240210/20240210222835678678.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240329-1/aed839ebc73cb7c4c55d5ff56a33e14e.jpg",
       "actress": [
         "鈴乃宇都"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-258"
+    },
+    {
+      "id": 17907,
+      "IDcode": "IPZZ-167",
+      "title": "亲吻的感觉好棒-铃乃雨冬",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/cae7d5f71cfb5b646667448ee108866a.jpg",
+      "actress": [
+        "鈴乃宇都",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-167"
+    },
+    {
+      "id": 17363,
+      "IDcode": "IPZZ-175",
+      "title": "没体验过的绝顶世界-带铃乃雨冬",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240102-1/faf07bd77d40c7f71ba3a309daa05d71.jpg",
+      "actress": [
+        "鈴乃宇都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-175"
     },
     {
       "id": 16898,
       "IDcode": "IPZZ-189",
-      "title": "一經發現，將被開除！ ！但我無法拒絕！ ！在學校裏偷偷做愛，同時忍住聲音，不應該讓任何人發現",
+      "title": "暴露了就得退学-铃乃雨都",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2024-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240106/202401060007536363.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240203-1/5237c9f38cbb1b3f834acf61f9e3dada.jpg",
       "actress": [
         "鈴乃宇都",
         "タツ"
@@ -96,37 +129,119 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-189"
     },
     {
-      "id": 17363,
-      "IDcode": "IPZZ-175",
-      "title": "將鈴乃宇都帶入未知高潮世界的狂喜覺醒SEX",
+      "id": 16370,
+      "IDcode": "IPZZ-209",
+      "title": "拒絕不了性騷擾客人的誘惑-鈴乃宇都",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2023-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231209/c419f60f-d001-4c01-a51a-f7da83595d09.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240225-1/e9d954d5a66dc0aed6eebe7dabe7aa93.jpg",
       "actress": [
         "鈴乃宇都"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-209"
     },
     {
-      "id": 17907,
-      "IDcode": "IPZZ-167",
-      "title": "接吻的感覺真好...一部特寫紀錄片KISS性交 一個男人和一個女人進行著大汗淋漓的深度接吻性愛...",
+      "id": 15614,
+      "IDcode": "IPZZ-238",
+      "title": "喜欢精液的姐姐-铃乃ウト",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231111/559ea50d-ff8a-407b-8254-4991b6b7dc01.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240512-1/f947320d98930c6d511d46d77d2c0515.jpg",
       "actress": [
         "鈴乃宇都",
-        "鲛岛"
+        "ハメ鳥の人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-238"
+    },
+    {
+      "id": 14887,
+      "IDcode": "IPZZ-278",
+      "title": "我最喜歡的老師被不良少年輪奸了。鈴乃宇都",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787aa742a47ebb1a8b48fa3/cover.jpg",
+      "actress": [
+        "鈴乃宇都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-278"
+    },
+    {
+      "id": 14156,
+      "IDcode": "IPZZ-305",
+      "title": "我第一个女朋友的妹妹-铃乃ウト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/6023a8dfaebd2b39807b7611e4348c15.jpg",
+      "actress": [
+        "桃咲乃亞",
+        "鈴乃宇都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-305"
+    },
+    {
+      "id": 13706,
+      "IDcode": "SAME-118",
+      "title": "新婚的老師鈴乃宇都被迫被學校裏最有問題的孩子操 ~ 鈴乃宇都",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787a264c179ffb1db907d59/cover.jpg",
+      "actress": [
+        "鈴乃宇都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-118"
+    },
+    {
+      "id": 13003,
+      "IDcode": "SAME-125",
+      "title": "前男友甩掉我后在社交平台公布结婚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787931e2a47ebb1a8b45587/cover.jpg",
+      "actress": [
+        "鈴乃宇都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-125"
+    },
+    {
+      "id": 12322,
+      "IDcode": "SAME-128",
+      "title": "未亡人懷了公公的小孩-鈴乃宇都",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67878003c179ffb1db907c89/cover.jpg",
+      "actress": [
+        "鈴乃宇都",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-128"
     }
   ]
 };

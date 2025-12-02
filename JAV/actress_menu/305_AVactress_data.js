@@ -48,248 +48,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231015/4da118f1-f100-4c62-8a64-b0c4685cc54f.jpg",
     "https://picture.yoshiclub.xyz/20231015/4fef800a-d129-48ef-9c1b-55bb193f786d.jpg"
   ],
-  "works_count": 22,
+  "works_count": 29,
   "related_dramas": [
     {
-      "id": 2317,
-      "IDcode": "ADN-727",
-      "title": "在丈夫面前被侵犯 丈夫兄弟的獸欲 III ~ 廣瀨百合",
+      "id": 107642,
+      "IDcode": "PRED-502",
+      "title": "女主播用藥做愛陰道高潮開發按摩 到惡劣按摩院取材被塗春藥精油子宮墮落的我 廣瀨百合",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-10-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002063258924924_23177_thumbnail.webp",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "廣瀨百合"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-727"
-    },
-    {
-      "id": 2180,
-      "IDcode": "BF-746",
-      "title": "專屬女優廣瀨百合來惡心男優家搞AV聯誼會啦！~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BeFree",
-      "publish_date": "2025-10-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/202510020650102121_66605_thumbnail.webp",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-746"
-    },
-    {
-      "id": 3171,
-      "IDcode": "SAME-200",
-      "title": "門沒鎖哦，快來解鎖我的高潮 ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828024517654654_75381_thumbnail.webp",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-200"
-    },
-    {
-      "id": 4970,
-      "IDcode": "ADN-703",
-      "title": "老公，對不起…背德情欲指導 ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031334810810_thumbnail.webp",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-703"
-    },
-    {
-      "id": 5709,
-      "IDcode": "ADN-698",
-      "title": "被大哥搶走的美女家教 我先心動卻被截胡 ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172016687687_thumbnail.webp",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-698"
-    },
-    {
-      "id": 6305,
-      "IDcode": "JUR-321",
-      "title": "營業中被他們輪番侵犯…為了守護小店獻出身體 便利店兼職妻的店內性服務 ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065640829829_thumbnail.webp",
-      "actress": [
-        "廣瀨百合",
-        "左慈半造"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-321"
-    },
-    {
-      "id": 6730,
-      "IDcode": "JUR-228",
-      "title": "曾經暗戀我的土味青梅竹馬，搖身一變成了性感大胸人妻，忍不住狂幹到精疲力盡 ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092218868868_thumbnail.webp",
-      "actress": [
-        "廣瀨百合",
-        "トミフミ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-228"
-    },
-    {
-      "id": 7350,
-      "IDcode": "JUR-187",
-      "title": "把我驕傲的小嬌妻秀出來！《美顏專屬》初次羞恥“曝光”溼透啦！！ ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111840608608.jpg",
-      "actress": [
-        "廣瀨百合",
-        "ナイアガラ翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-187"
-    },
-    {
-      "id": 8106,
-      "IDcode": "JUR-167",
-      "title": "今天公公又來接我下班，要跟我做愛…… ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093058682682.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-167"
-    },
-    {
-      "id": 8846,
-      "IDcode": "JUR-174",
-      "title": "已婚人妻給了男子學生一把鑰匙，畢業前，男生一直都在那裏中出她 ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074138818818.jpg",
-      "actress": [
-        "廣瀨百合",
-        "ナイアガラ翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-174"
-    },
-    {
-      "id": 9744,
-      "IDcode": "JUQ-976",
-      "title": "小鎮露營NTR 妻子在帳篷裏被村民們的雞巴反復衝擊的震撼出軌視頻 ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095953211211.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-976"
-    },
-    {
-      "id": 10480,
-      "IDcode": "JUQ-917",
-      "title": "犯了錯誤只能讓妻子代替去接待重要客人，而等待人妻的是... ~ 廣瀨百合",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003703560560.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-917"
-    },
-    {
-      "id": 14453,
-      "IDcode": "ACHJ-041",
-      "title": "有時候我也想當個蕩婦……麥當娜專屬極致美熟女「廣瀨百合」推薦給大家",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-05-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524033047198198.jpg",
-      "actress": [
-        "廣瀨百合",
-        "日森一",
-        "向理来"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-041"
-    },
-    {
-      "id": 15316,
-      "IDcode": "JUQ-662",
-      "title": "「絕對不止進入3公分……」讓性欲旺盛的公公插入了一會兒，竟然是絕配……高潮了一遍又一遍 ~ 広瀬ゆり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-04-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419001501581581.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-502"
     },
     {
       "id": 91851,
       "IDcode": "JUQ-613",
-      "title": "愛を認めさせたくて妻と絶倫の後輩を2人きりにして3時間…抜かずの追撃中出し計16発で妻を奪われた僕のNTR話 広瀬ゆり",
+      "title": "为了确认妻子对我的爱-広瀬ゆり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-03-26",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "廣瀨百合",
@@ -298,80 +84,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-613"
     },
     {
-      "id": 16100,
-      "IDcode": "JUQ-581",
-      "title": "在產科診所偶遇一名學生時代曾實施性騷擾的老師。從那天起，我就注定成爲性寵物……広瀬ゆり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-02-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20240224/20240224070436985985.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-581"
-    },
-    {
-      "id": 16660,
-      "IDcode": "JUQ-516",
-      "title": "人妻淫穢的檢查中被電擊「睡着了…」變態醫生的「睡眠強奸」",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20240120/202401200624353535.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-516"
-    },
-    {
-      "id": 17101,
-      "IDcode": "JUQ-515",
-      "title": "女播音員NTR. 在溫泉地點與導演中出的妻子。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224004732482482.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-515"
-    },
-    {
-      "id": 18322,
-      "IDcode": "PRED-529",
-      "title": "明明是禁止的…卻偷偷求我中出! 発射無制限 逆風俗5本番",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2023-10-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20231015/20231015073649527527.jpg",
-      "actress": [
-        "廣瀨百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-529"
-    },
-    {
       "id": 90042,
       "IDcode": "PRED-522",
       "title": "元地方局アナウンサー 生まれて初めての中出し解禁！いきなり9発注入 危険日直撃SP 広瀬ゆり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2023-09-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240111-1/b97659aeafa24871fd6909f3908bc89f.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/442b40cb0dd06488ddf22c7add31eb2c.jpg",
       "actress": [
         "廣瀨百合"
       ],
@@ -384,30 +106,461 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2023-08-15",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/185a8d400fe0053a024144b0186e4d7d.jpg",
       "actress": [
         "廣瀨百合"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-508"
     },
     {
-      "id": 107642,
-      "IDcode": "PRED-502",
-      "title": "女子アナウンサーキメセク膣イキ開発マッサージ 悪徳エステ取材で媚薬オイルを塗りこまれて子宮を堕とされたワタシ。 広瀬ゆり",
+      "id": 18322,
+      "IDcode": "PRED-529",
+      "title": "明明是禁止的…卻偷偷求我中出! 発射無制限 逆風俗5本番",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2023-07-18",
-      "cover_url": "https://tutu1.space/images/2023/08/24/6cc8afc9a2230e56f02dbec393b4bc8c.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/31eee841200eddbf0cf37e3f189aacaa.jpg",
       "actress": [
         "廣瀨百合"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-502"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-529"
+    },
+    {
+      "id": 17101,
+      "IDcode": "JUQ-515",
+      "title": "前地方台播音员-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224004732482482.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-515"
+    },
+    {
+      "id": 16660,
+      "IDcode": "JUQ-516",
+      "title": "總是突然睡著-廣瀨百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/4298a702d121b96f7d6b0078b97c31cd.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-516"
+    },
+    {
+      "id": 16100,
+      "IDcode": "JUQ-581",
+      "title": "學生時期對我性騷擾的老師-廣瀨百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a42d6ac813dc779d961ee/cover.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-581"
+    },
+    {
+      "id": 15316,
+      "IDcode": "JUQ-662",
+      "title": "绝对只能插入3厘米-広瀬ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419001501581581.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-662"
+    },
+    {
+      "id": 14453,
+      "IDcode": "ACHJ-041",
+      "title": "有时想随便做个痴女-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/687488afb72655782768530c65d1c7ed.jpg",
+      "actress": [
+        "廣瀨百合",
+        "日森一",
+        "向理来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-041"
+    },
+    {
+      "id": 13833,
+      "IDcode": "JUQ-764",
+      "title": "人妻的秘密爱巢SEX-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621003216530530.jpg",
+      "actress": [
+        "廣瀨百合",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-764"
+    },
+    {
+      "id": 13235,
+      "IDcode": "JUQ-779",
+      "title": "义母你想要孩子对吧-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719004104230230.jpg",
+      "actress": [
+        "廣瀨百合",
+        "まーち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-779"
+    },
+    {
+      "id": 12496,
+      "IDcode": "JUQ-832",
+      "title": "为了深爱的丈夫-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822223857890890.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-832"
+    },
+    {
+      "id": 11487,
+      "IDcode": "JUQ-900",
+      "title": "专属美女豪华联合主演",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788ced430833b4bf53caacc/cover.jpg",
+      "actress": [
+        "武藤彩香",
+        "水户香奈",
+        "廣瀨百合",
+        "小野梨花",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-900"
+    },
+    {
+      "id": 10480,
+      "IDcode": "JUQ-917",
+      "title": "高層ホテルに呼ばれた人妻 権力に逆らえず最愛の妻を売って…。 広瀬ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787c3da8daf6b1db43c3366/cover.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-917"
+    },
+    {
+      "id": 9744,
+      "IDcode": "JUQ-976",
+      "title": "居委会露营NTR-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878b488daf6b1db43c2ca9/cover.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-976"
+    },
+    {
+      "id": 8846,
+      "IDcode": "JUR-174",
+      "title": "拿到备用钥匙的人妻-广濑由里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074138818818.jpg",
+      "actress": [
+        "廣瀨百合",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-174"
+    },
+    {
+      "id": 8106,
+      "IDcode": "JUR-167",
+      "title": "今天父亲又带着目的来我工作的地方接我",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093058682682.jpg",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-167"
+    },
+    {
+      "id": 8095,
+      "IDcode": "JUR-031",
+      "title": "マドンナALL専属バスツアー2025 極上の美女を1人占めするのは僕だ！！夢のハーレムを掴み取れ！！総勢37名の大乱交SPECIAL！！前編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092235625625.jpg",
+      "actress": [
+        "橘瑪麗",
+        "藤森里穂",
+        "栗山莉緒",
+        "神宫寺奈緒",
+        "吉泽友贵",
+        "推川悠里",
+        "日下部加奈",
+        "椎名由奈",
+        "竹田夢",
+        "愛弓涼",
+        "沖宮那美",
+        "水户香奈",
+        "朝妃莉緒",
+        "白石茉莉奈",
+        "廣瀨百合",
+        "古東まりこ",
+        "吉永塔子",
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-031"
+    },
+    {
+      "id": 7350,
+      "IDcode": "JUR-187",
+      "title": "私の自慢の嫁ちゃんを晒します。 《美顔専属》羞恥に濡れる初『晒し』！！ 広瀬ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111840608608.jpg",
+      "actress": [
+        "廣瀨百合",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-187"
+    },
+    {
+      "id": 7344,
+      "IDcode": "JUR-032",
+      "title": "マドンナALL専属バスツアー2025 ハーレムを掴み取った男たちが極上の美女を独占！！酒池肉林のお祭りはまだまだ続く！！夢の大共演＆大乱交FESTIVAL！！後編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/05/67f08a174e7d663df483517c/cover.jpg",
+      "actress": [
+        "橘瑪麗",
+        "藤森里穂",
+        "通野未帆",
+        "栗山莉緒",
+        "神宫寺奈緒",
+        "吉泽友贵",
+        "推川悠里",
+        "日下部加奈",
+        "椎名由奈",
+        "竹田夢",
+        "愛弓涼",
+        "沖宮那美",
+        "水户香奈",
+        "朝妃莉緒",
+        "白石茉莉奈",
+        "廣瀨百合",
+        "古東まりこ",
+        "吉永塔子",
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-032"
+    },
+    {
+      "id": 6730,
+      "IDcode": "JUR-228",
+      "title": "曾经暗恋我的土气青梅竹马-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092218868868_thumbnail.webp",
+      "actress": [
+        "廣瀨百合",
+        "トミフミ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-228"
+    },
+    {
+      "id": 6305,
+      "IDcode": "JUR-321",
+      "title": "他们在她上班时不断强奸她",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a5378c8cce1a927afcd8d1/cover.jpg",
+      "actress": [
+        "廣瀨百合",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-321"
+    },
+    {
+      "id": 5709,
+      "IDcode": "ADN-698",
+      "title": "被哥哥抢走的美女家庭教师-広瀬ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172016687687_thumbnail.webp",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-698"
+    },
+    {
+      "id": 4970,
+      "IDcode": "ADN-703",
+      "title": "亲爱的请原谅我-広瀬ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031334810810_thumbnail.webp",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-703"
+    },
+    {
+      "id": 3958,
+      "IDcode": "SAME-195",
+      "title": "愛人調教オフィス 広瀬ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093949939939_24749_thumbnail.webp",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-195"
+    },
+    {
+      "id": 3171,
+      "IDcode": "SAME-200",
+      "title": "潜藏在公寓裡的性高潮-广濑百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828024517654654_75381_thumbnail.webp",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-200"
+    },
+    {
+      "id": 2317,
+      "IDcode": "ADN-727",
+      "title": "在丈夫面前被侵犯义兄的欲望-瀬ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-727"
+    },
+    {
+      "id": 2180,
+      "IDcode": "BF-746",
+      "title": "アタッカーズ専属女優 広瀬ゆりを勝手に呼び出してキモ男優の自宅でAV合コンしちゃいました！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "廣瀨百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-746"
     }
   ]
 };

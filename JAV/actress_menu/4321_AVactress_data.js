@@ -4,7 +4,7 @@ window.actressData = {
   "name": "大原友美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-11-28",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240831/npuoYGAT/1.jpg",
       "actress": [
         "安倍亜沙美",
         "青井いちご",
@@ -45,22 +45,22 @@ window.actressData = {
     },
     {
       "id": 73011,
-      "IDcode": "SW-215",
+      "IDcode": "SW-0215",
       "title": "夢の近親相姦！娘の無防備パンチラに勃起した父、そのチ○ポを見てワレメを濡らした娘は母には内緒でこっそり挿入させてくれた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2013-10-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/041c0a645945255da1a0ec16b3fc32fa.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/53e5a5e0d2d6c372513bac575801b8c9.jpg",
       "actress": [
         "篠宫ゆり",
         "宗方志穂",
         "大原友美",
         "朝比奈みくる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0215"
     }
   ]
 };

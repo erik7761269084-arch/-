@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ひなた",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 577705,
+      "IDcode": "200GANA-2927",
+      "title": "マジ软派、初撮。 1970 ブライダルプランナーのお姊さんをナンパ！幸せな结婚を见届け",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-09-29",
+      "cover_url": "",
+      "actress": [
+        "ひなた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2927"
+    },
     {
       "id": 79657,
       "IDcode": "DIC-092",
@@ -25,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2021-09-30",
       "cover_url": "",

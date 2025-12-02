@@ -49,23 +49,57 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230330/37f7ddc5-319b-48f8-8cbf-f986429a5c79.jpg",
     "https://picture.yoshiclub.xyz/20230330/85d8a075-621e-4ce3-8919-2b3c8f601ed3.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1542,
-      "IDcode": "EBOD-216",
-      "title": "E~BODY 接吻極上窈窕肉體 愛澤有紗",
+      "id": 95163,
+      "IDcode": "YSN-343",
+      "title": "让我年轻漂亮的嫂子做我的母狗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "E-BODY",
-      "publish_date": "2012-07-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230330/cffb8557-87bd-409d-8f40-0f225586372b.jpg",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "爱沢有纱"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-343"
+    },
+    {
+      "id": 95119,
+      "IDcode": "YSN-354",
+      "title": "美人母亲-爱沢有紗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "爱沢有纱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-354"
+    },
+    {
+      "id": 82236,
+      "IDcode": "BEB-076",
+      "title": "公然露出的痴女-愛沢有紗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "爱沢有纱",
+        "鲛岛",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BEB-076"
     }
   ]
 };

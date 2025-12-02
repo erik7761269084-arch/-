@@ -57,8 +57,41 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250311/ecd7435a-12be-45dd-abc2-03ae4ee7b753.jpg",
     "https://picture.yoshiclub.xyz/20250311/3221cbf4-4863-462e-9625-9989a5eb3e63.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 72176,
+      "IDcode": "STM-002",
+      "title": "美女傀儡 1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-02-10",
+      "cover_url": "",
+      "actress": [
+        "瞳りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-002"
+    },
+    {
+      "id": 97923,
+      "IDcode": "ATID-189",
+      "title": "捜査官、堕ちるまで… 瞳りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2011-10-07",
+      "cover_url": "",
+      "actress": [
+        "瞳りん",
+        "春本优菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-189"
+    },
     {
       "id": 91395,
       "IDcode": "CMC-298",
@@ -66,10 +99,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "CineMagic",
-      "publish_date": "2023-08-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/32d9cde71396e997f3508c44729b781f.jpg",
       "actress": [
         "丹羽すみれ",
         "天野弥生",
@@ -79,22 +112,6 @@ window.actressData = {
         "爱実ありあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
-    },
-    {
-      "id": 72176,
-      "IDcode": "STM-002",
-      "title": "美女傀儡 1",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2012-02-10",
-      "cover_url": "",
-      "actress": [
-        "瞳りん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-002"
     }
   ]
 };

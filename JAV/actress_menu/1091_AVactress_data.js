@@ -50,19 +50,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241227/ad9bad00-fe0c-497d-90df-55f9c8f9cfac.jpg",
     "https://picture.yoshiclub.xyz/20241227/e137ab8c-9795-4a45-97b9-2d3384565cd5.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 9486,
-      "IDcode": "SSNI-540",
-      "title": "天然H罩杯的真白真緒 來了次超級高潮 做愛時胸部劇烈搖晃。",
+      "id": 9563,
+      "IDcode": "SSNI-515",
+      "title": "新人報到！ NO.1STYLE 第一美乳娘 首次亮相 AV DEBUT ~ 真白真緒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250101/20250101022824851851.jpg",
+      "publish_date": "2019-07-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20241227/20241227052438754754.jpg",
+      "actress": [
+        "真白真緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-515"
+    },
+    {
+      "id": 9486,
+      "IDcode": "SSNI-540",
+      "title": "天然立体H罩杯真白真绪 疯狂高潮3次性爱!胸部剧烈摇晃特辑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c168a3e78d463a97ee1d9a0f5ea2af20.jpg",
       "actress": [
         "真白真緒",
         "鲛岛",
@@ -70,6 +86,38 @@ window.actressData = {
         "三浦瑠衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-540"
+    },
+    {
+      "id": 8925,
+      "IDcode": "SSNI-564",
+      "title": "天然立体おっぱいを120％味わ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6786a90a5d57b64bfdc897b7/cover.jpg",
+      "actress": [
+        "真白真緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-564"
+    },
+    {
+      "id": 7625,
+      "IDcode": "SSNI-586",
+      "title": "激イキ121回！痙攣3238回！鬼突き23739ピスト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250312/202503120441002828.jpg",
+      "actress": [
+        "真白真緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-586"
     }
   ]
 };

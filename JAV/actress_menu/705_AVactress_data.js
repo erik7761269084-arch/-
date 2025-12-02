@@ -48,8 +48,155 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231206/a73e83f3-1419-45ca-91df-2caba05d2ced.jpg",
     "https://picture.yoshiclub.xyz/20231206/f9fdab82-8068-42b4-8dd6-3842e4b7b8a7.jpg"
   ],
-  "works_count": 1,
+  "works_count": 9,
   "related_dramas": [
+    {
+      "id": 9318,
+      "IDcode": "SQTE-584",
+      "title": "至尊愛的連續33次口交 S-Cute Fellatio Collection 2025",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2025-01-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250108/3e629541-da26-46e6-ae74-2b5216876be8.jpg",
+      "actress": [
+        "都月楓",
+        "宮西光",
+        "渚光希",
+        "久和原聖羅",
+        "美咲音",
+        "月本海咲",
+        "姫川ゆうな",
+        "武田萌奈美",
+        "日向理名",
+        "さくらいちはる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-584"
+    },
+    {
+      "id": 10376,
+      "IDcode": "MADM-191",
+      "title": "打電話叫來的援交妹居然是我的大嫂！和極上技術的大嫂口交中出性交 ~ 姫川ゆうな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-11-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20241125/db353358-a9b6-4ef6-a979-e9f388681204.jpg",
+      "actress": [
+        "姫川ゆうな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADM-191"
+    },
+    {
+      "id": 15669,
+      "IDcode": "SQTE-531",
+      "title": "和女朋友一起去度假。我們有過很多次親密的性愛。姫川ゆうな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2024-04-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401085932969969.jpg",
+      "actress": [
+        "姫川ゆうな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-531"
+    },
+    {
+      "id": 1083,
+      "IDcode": "HEYZO-1544",
+      "title": "說英語的不可以哦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-07-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20231206/fe0d6b24-00dd-47b2-ba6f-2031114a0859.jpg",
+      "actress": [
+        "姫川ゆうな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1544"
+    },
+    {
+      "id": 1029,
+      "IDcode": "HEYZO-1438",
+      "title": "放學後美少女檔案第22號～純真的少女的調教方法～ - 姬川優奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-03-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20240112/414ccbcf-79f0-4859-9b5d-7297b7bfd0bd.jpg",
+      "actress": [
+        "姫川ゆうな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1438"
+    },
+    {
+      "id": 1003,
+      "IDcode": "HEYZO-1395",
+      "title": "性愛玩偶 Vol.4 ～主人的聽話性玩偶～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-02-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124231133161161.jpg",
+      "actress": [
+        "姫川ゆうな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1395"
+    },
+    {
+      "id": 9602,
+      "IDcode": "CJOB-170",
+      "title": "吸出精子，後宮系 口交大合集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b69bfd5fdaf263a260214f/cover.jpg",
+      "actress": [
+        "倉本菫",
+        "松本一香",
+        "森日向子",
+        "木下日葵",
+        "渚光希",
+        "加藤桃香",
+        "永瀬ゆい",
+        "枢木葵",
+        "久留木玲",
+        "浅田結梨",
+        "姫川ゆうな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-170"
+    },
+    {
+      "id": 9347,
+      "IDcode": "SQTE-587",
+      "title": "いびつな性癖、勃起興奮男を焦らして虐めたい。 姫川ゆうな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250106/c19a20f9-8960-46f3-9689-2677a4b67393.jpg",
+      "actress": [
+        "姫川ゆうな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-587"
+    },
     {
       "id": 6532,
       "IDcode": "TEND-024",
@@ -57,9 +204,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Tender",
-      "publish_date": "2025-04-29",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250430/20250430054031773773_thumbnail.webp",
       "actress": [
         "姫川ゆうな",

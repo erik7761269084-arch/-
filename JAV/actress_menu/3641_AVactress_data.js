@@ -22,24 +22,72 @@ window.actressData = {
     "Miori"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 66802,
-      "IDcode": "GANA-2947",
-      "title": "マジ軟派、初撮。 1984 錦糸町で見つけた尽くしたがりお姉さん！可愛い顔に似合わぬ美巨乳えちえちボディでご奉仕SEX！",
+      "id": 486645,
+      "IDcode": "200GANA-2947",
+      "title": "マジ軟派、初撮。 1984 錦糸町で見つけた尽くしたがりお姉さん！可愛い顔に似合わ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2023-10-26",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "みおり",
         "百合園みおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2947"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2947"
+    },
+    {
+      "id": 154047,
+      "IDcode": "670-MIORI-01",
+      "title": "性教育良好的丰满女孩的研磨性",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "みおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=670-MIORI-01"
+    },
+    {
+      "id": 154046,
+      "IDcode": "670-MIORI-K01",
+      "title": "美腿美女的性行为",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "みおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=670-MIORI-K01"
+    },
+    {
+      "id": 100704,
+      "IDcode": "SIRO-5139",
+      "title": "性感区遍布全身我以为她是个温柔的人但在性方面却相当主动初拍AV在线申请AV体验拍摄2031",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "みおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5139"
     }
   ]
 };

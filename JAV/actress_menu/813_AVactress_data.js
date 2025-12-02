@@ -41,45 +41,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 2064,
-      "IDcode": "CWPBD-91",
-      "title": "Catwalk Catwalk Poison 91 中出海灘亂交：綾香、一之瀨瑠花、愛野奈美，共7人。",
+      "id": 601,
+      "IDcode": "HEYZO-0722",
+      "title": "美癡女～神乳美女的淫語指導 ～ 一ノ瀬ルカ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/05c3b181-edbd-4c05-9061-72291cbce5fa.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2014-11-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20241026/8bdb76c8-02ab-458d-b25e-0d7ba09dc751.jpg",
       "actress": [
-        "新山枫",
-        "愛乃娜美",
-        "一ノ瀬ルカ",
-        "美波愛梨",
-        "浅之美波",
-        "滝川ソフィア",
-        "北田千夏"
+        "一ノ瀬ルカ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0722"
     },
     {
-      "id": 1955,
-      "IDcode": "LAFBD-10",
-      "title": "Laforet Girl Vol.10 : 光、瀧川索菲亞、新山楓、一之瀨流花",
+      "id": 537,
+      "IDcode": "HEYZO-0636",
+      "title": "下班後的誘惑 ～ 教你如何勾引女人 ～ 一ノ瀬ルカ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/f62540d3-5aac-4f69-b5d5-caf43e32ba83.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2014-07-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20241204/dd3fd674-c564-4b30-ae56-7ea5761919bb.jpg",
       "actress": [
-        "新山枫",
-        "一ノ瀬ルカ",
-        "HIKARI",
-        "滝川ソフィア"
+        "一ノ瀬ルカ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-10"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0636"
     }
   ]
 };

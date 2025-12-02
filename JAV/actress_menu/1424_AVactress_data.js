@@ -30,7 +30,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231219/6bf456a0-9471-4233-9d0d-a33f88afef4c.jpg",
     "https://picture.yoshiclub.xyz/20231228/639f60a0-63d1-4bf8-8f69-98b64f4982d7.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 16612,
@@ -39,7 +39,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-02-22",
       "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123111108693693.jpg",
@@ -55,7 +55,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231219/73b4bf3d-3768-489c-addf-49a6a492eb97.jpg",
@@ -63,6 +63,22 @@ window.actressData = {
         "渋谷あかり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-004"
+    },
+    {
+      "id": 12447,
+      "IDcode": "APNS-350",
+      "title": "社長令娘調教，30天妊娠地獄，永無休止的授精，絕頂高潮讓她瘋狂到人格崩潰……我是沉迷雞巴的女學生…… ~ 渋谷あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678779acc179ffb1db907c5e/cover.jpg",
+      "actress": [
+        "渋谷あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-350"
     }
   ]
 };

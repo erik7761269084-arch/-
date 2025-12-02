@@ -37,18 +37,240 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231020/53e2cf7a-9af9-46bc-b800-6d1bac83ce01.jpg",
     "https://picture.yoshiclub.xyz/20231020/d0ee43d9-bb6e-42e4-a219-5288a1a30f62.jpg"
   ],
-  "works_count": 8,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 2695,
-      "IDcode": "SYKH-159",
-      "title": "長靴美魔女精選輯 穿着長靴直接開幹！VOL.3 ~ 戶川奈美 恵沙也香 橘京花 美咲佳奈 百永紗裏奈 伊東沙蘭 乃木絢愛 三嶽祐奈",
+      "id": 16292,
+      "IDcode": "FOCS-177",
+      "title": "調教在俱樂部認識的女孩，徹底將她變成了性奴！.....我的專屬雞巴口交寵物 乃木絢愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-12",
+      "publish_date": "2024-02-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214030753321321.jpg",
+      "actress": [
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-177"
+    },
+    {
+      "id": 18262,
+      "IDcode": "FFT-004",
+      "title": "淫蕩中出約會，榨乾年輕男人的每一滴年輕精子。 圧倒的女上位SEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-10-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20231020/0536d739-cc2c-4cef-b818-080945f0110a.jpg",
+      "actress": [
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-004"
+    },
+    {
+      "id": 17895,
+      "IDcode": "JUQ-491",
+      "title": "我的学生和情人恳求我选择其一",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/7bb3748cdf35131ceddfb8467b1e5c15.jpg",
+      "actress": [
+        "胡桃櫻花",
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-491"
+    },
+    {
+      "id": 17641,
+      "IDcode": "DASS-258",
+      "title": "被派遣按摩師按摩到私密部位 受不了的快感直接被NTR 乃木絢愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/1ad730a1460c65d7e45e02d4f9177e48.jpg",
+      "actress": [
+        "乃木絢愛",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-258"
+    },
+    {
+      "id": 17304,
+      "IDcode": "RKI-644",
+      "title": "多格扎擊敗調查員直到驕傲的精英調查員陷入屈辱的多格扎失敗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/c534ed2bc00eb950c59298750af5495c.jpg",
+      "actress": [
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-644"
+    },
+    {
+      "id": 15789,
+      "IDcode": "PFES-069",
+      "title": "和爸爸一起的兩姐妹，一起被中出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787bb522a47ebb1a8b4b987/cover.jpg",
+      "actress": [
+        "美咲佳奈",
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-069"
+    },
+    {
+      "id": 11808,
+      "IDcode": "MFCD-010",
+      "title": "MOON FORCE G乳狂癡女 Vol.10 ~ 乃木絢愛 長澤りつ 椿りか 都月楓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/200393a73851b5d0572f516fdd50c941.jpg",
+      "actress": [
+        "都月楓",
+        "椿莉香",
+        "乃木絢愛",
+        "長澤りつ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCD-010"
+    },
+    {
+      "id": 11129,
+      "IDcode": "MIBB-047",
+      "title": "絢愛に鉄槌、黒パンストマングリ拘束激ハメ！ 乃木絢愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILU",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/18/4e098511c302628f5e430beecc863629.jpg",
+      "actress": [
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-047"
+    },
+    {
+      "id": 10687,
+      "IDcode": "GMA-073",
+      "title": "緊縛調教妻 夫の友人が営む温泉宿で寝取られた若妻。嫌がりながらも悶え感じてしまう縄調教 乃木絢愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLOBAL MEDIA ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241111/9ea829e1-a9e0-4e46-acbc-3308c4a56b5f.jpg",
+      "actress": [
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-073"
+    },
+    {
+      "id": 8354,
+      "IDcode": "SDDE-724",
+      "title": "―SEXが溶け込んでいる日常―「常に性交」記者会見",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250211/609e0d67-c15c-4ff3-95a8-e34857e2425d.jpg",
+      "actress": [
+        "美木雛乃",
+        "天乃のあ",
+        "乃木絢愛",
+        "篠咲拉拉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-724"
+    },
+    {
+      "id": 7332,
+      "IDcode": "DOCD-052",
+      "title": "沒男友獨居女的性欲突破天際！！飢渴BODY勾引上門服務，誰都行快讓我爽！ ~ 黑木玲奈 若宮葉月 乃木絢愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250322/e9333666-0a38-4d7b-8130-8d86cfcf2214.jpg",
+      "actress": [
+        "若宮葉月",
+        "黑木玲奈",
+        "乃木絢愛",
+        "若宫はずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-052"
+    },
+    {
+      "id": 3812,
+      "IDcode": "IENF-405",
+      "title": "パンスト直穿きソープランド 4 素肌よりも気持ちいい！ローション、泡、濡れたパンスト美脚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014402602602_90848_thumbnail.webp",
+      "actress": [
+        "虹村由美",
+        "工藤百合",
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-405"
+    },
+    {
+      "id": 3578,
+      "IDcode": "MUKD-544",
+      "title": "スレンダーな制服少女を、ただ欲望のままに汚したい。 制服フェティシズム",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030605465465_89420_thumbnail.webp",
+      "actress": [
+        "乃木絢愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-544"
+    },
+    {
+      "id": 2695,
+      "IDcode": "SYKH-159",
+      "title": "ブーツの美魔女セレクション ロングブーツのまま挿入させて！ VOL.3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050304643643_92822_thumbnail.webp",
       "actress": [
         "美咲佳奈",
@@ -63,126 +285,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-159"
     },
     {
-      "id": 3578,
-      "IDcode": "MUKD-544",
-      "title": "制服少女的纖細身軀，只想隨慾望玷污她 - 制服控的天堂",
+      "id": 2581,
+      "IDcode": "TPPN-265",
+      "title": "突き上げピストン抜き差し神アングルで絶頂の嵐！結合部をじっくり拝む汗だく連続中出しセックス！！ 乃木絢愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030605465465_89420_thumbnail.webp",
+      "type": "",
+      "company": "TEPPAN 鐵板",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043508361361_50314_thumbnail.webp",
       "actress": [
         "乃木絢愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-544"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-265"
     },
     {
-      "id": 3812,
-      "IDcode": "IENF-405",
-      "title": "絲襪特色風俗店4：比直接肌膚接觸還爽！潤滑液、泡沫、溼透絲襪美腿帶你體驗未知快感 ～ 虹村由美 工藤百合 乃木絢愛",
+      "id": 2085,
+      "IDcode": "JUR-484",
+      "title": "人妻NTR实录-藤浦惠 乃木绚爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014402602602_90848_thumbnail.webp",
-      "actress": [
-        "虹村由美",
-        "工藤百合",
-        "乃木絢愛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-405"
-    },
-    {
-      "id": 7332,
-      "IDcode": "DOCD-052",
-      "title": "沒男友獨居女的性欲突破天際！！飢渴BODY勾引上門服務，誰都行快讓我爽！ ~ 黑木玲奈 若宮葉月 乃木絢愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOC",
-      "publish_date": "2025-03-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250322/e9333666-0a38-4d7b-8130-8d86cfcf2214.jpg",
-      "actress": [
-        "若宮葉月",
-        "黑木玲奈",
-        "乃木絢愛",
-        "若宫はずき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-052"
-    },
-    {
-      "id": 8354,
-      "IDcode": "SDDE-724",
-      "title": "當SEX成爲日常生活中必不可少的一部分 - 性交新聞發布會 ~ 篠咲拉拉 美木雛乃 乃木絢愛 天乃のあ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250211/609e0d67-c15c-4ff3-95a8-e34857e2425d.jpg",
-      "actress": [
-        "美木雛乃",
-        "天乃のあ",
-        "乃木絢愛",
-        "篠咲拉拉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-724"
-    },
-    {
-      "id": 17304,
-      "IDcode": "RKI-644",
-      "title": "多格扎擊敗調查員直到驕傲的精英調查員陷入屈辱的多格扎失敗...",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROOKIE",
-      "publish_date": "2023-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231211/d1d9829f-d6e4-4fdd-a398-160695c7c577.jpg",
-      "actress": [
-        "乃木絢愛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-644"
-    },
-    {
-      "id": 17641,
-      "IDcode": "DASS-258",
-      "title": "上門的按摩理療師輕輕的撫摸私處 無法忍受快感NTR",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231126/26281873-e4cd-4c9a-bc56-744e2631ed1c.jpg",
-      "actress": [
-        "乃木絢愛",
-        "ニック"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-258"
-    },
-    {
-      "id": 17895,
-      "IDcode": "JUQ-491",
-      "title": "可愛的學生和情人讓我二選一？ 笨蛋才做選擇題，我全要！ 操她們操到早上！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231112/11dc6b99-e655-4cf3-aacb-6e147168dae0.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "胡桃櫻花",
         "乃木絢愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-491"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-484"
     }
   ]
 };

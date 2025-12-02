@@ -36,18 +36,40 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-宮村ななこ.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 9615,
+      "IDcode": "UMSO-578",
+      "title": "理性喪失！愛液滿滿溢出的恥辱部位刺激！21位美人自慰大合集！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2024-12-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/8b010c65-23e7-4517-9a2d-1598c8092e79.jpg",
+      "actress": [
+        "波多野结衣",
+        "通野未帆",
+        "鈴木真夕",
+        "弘中優",
+        "皇柚子",
+        "水谷心音",
+        "宮村菜菜子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-578"
+    },
     {
       "id": 1675,
       "IDcode": "SDDE-617",
-      "title": "慶祝第二屆裸體對接會",
+      "title": "全裸婚活",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2020-04-09",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230403/f5b54745-0e33-48d0-bb1f-19c311cac27a.jpg",
       "actress": [
         "仓多真央",

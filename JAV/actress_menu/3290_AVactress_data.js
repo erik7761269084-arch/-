@@ -4,7 +4,7 @@ window.actressData = {
   "name": "巖崎千鹤",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,51 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
+      "id": 87110,
+      "IDcode": "NASH-898",
+      "title": "近親相姦 五十路母と息子 2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-06-13",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c73286b81af1f8539c772/poster2.jpg",
+      "actress": [
+        "巖崎千鹤",
+        "竹内梨恵",
+        "梅田りょう",
+        "新堂绫乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-898"
+    },
+    {
+      "id": 106475,
+      "IDcode": "JUX-017",
+      "title": "無毛相姦-岩崎千鶴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-12/331b88f170b34c3e587d4ef50ca2aef6.jpg",
+      "actress": [
+        "巖崎千鹤"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-017"
+    },
+    {
       "id": 61267,
       "IDcode": "HMIX-048",
       "title": "夏の昭和の官能劇 戦時と戦後を描く女たちの生々しい性の営み 12人 4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "G.M.E",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/76e692c6/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "川上優",
         "翔田千里",
@@ -43,41 +78,6 @@ window.actressData = {
         "巖崎千鹤"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-048"
-    },
-    {
-      "id": 87110,
-      "IDcode": "NASH-898",
-      "title": "近親相姦 五十路母と息子 2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
-      "actress": [
-        "巖崎千鹤",
-        "竹内梨恵",
-        "梅田りょう",
-        "新堂绫乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-898"
-    },
-    {
-      "id": 106475,
-      "IDcode": "JUX-017",
-      "title": "補償兒子犯下過錯的白板媽媽～～實則緊緊相連的慈愛無毛相姦無毛相姦～ 岩崎千鶴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2013-01-25",
-      "cover_url": "",
-      "actress": [
-        "巖崎千鹤"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-017"
     }
   ]
 };

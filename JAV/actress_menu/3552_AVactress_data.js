@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 66188,
       "IDcode": "DTRS-027",
-      "title": "セクシャルパラノイア 唯川みさき",
+      "title": "性妄想症-唯川みさき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-11-01",
-      "cover_url": "https://tutu1.space/images/2022/05/01/912f4d87eb266519f6fbbadd6ee868c0.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-10/688cf3b5524ed4fa45e81b5adfebb51f.jpg",
       "actress": [
         "唯川みさき"
       ],

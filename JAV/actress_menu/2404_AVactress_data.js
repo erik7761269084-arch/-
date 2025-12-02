@@ -37,18 +37,91 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250824/32aadff6-e1af-4865-97df-ef890e8d96ac_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250824/e5c5708c-241c-4bbc-ac7d-096710123d04_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 3286,
-      "IDcode": "NSFS-411",
-      "title": "AI重製版 讓我吃醋吧… 禁忌母女交換·愛女玩偶 永久珍藏版277分鐘 ~ 真心實 内藤斐奈 蕾 加納瞳 水嶋愛 結城美佐 円城ひとみ 早乙女愛",
+      "id": 98016,
+      "IDcode": "BBAN-004",
+      "title": "レズに堕ちていく私飯岡かなこ結城みさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2014-06-07",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban004pl.jpg",
+      "actress": [
+        "森澤佳奈",
+        "结城美佐"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-004"
+    },
+    {
+      "id": 98469,
+      "IDcode": "HAVD-715",
+      "title": "人妻と童貞 夢にまで見た筆下ろし 結城みさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-07-22",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1havd715/1havd715pl.jpg",
+      "actress": [
+        "结城美佐"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-715"
+    },
+    {
+      "id": 74593,
+      "IDcode": "NSFS-350",
+      "title": "AIリマスター版 夫の目を盗んで他人に抱かれる… 不貞の妻 名作永久保存版240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-08-22",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250220/6VOLYQnp/1.jpg",
+      "actress": [
+        "椎名綾",
+        "结城美佐",
+        "夏树カオル",
+        "吉原日出子",
+        "间宫志乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-350"
+    },
+    {
+      "id": 70401,
+      "IDcode": "WSP-152",
+      "title": "被玩弄早洩老二并被迫强制连续射精的我！ BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4e3458b774149cd1478e38ee40c31c1d.jpg",
+      "actress": [
+        "吉泽友贵",
+        "高坂ますみ",
+        "结城美佐",
+        "仁科百华",
+        "亜希菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-152"
+    },
+    {
+      "id": 3286,
+      "IDcode": "NSFS-411",
+      "title": "AIリマスター版 私を嫉妬させてください… 禁断スワップ母娘・愛娘ダッチワイフ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/202508230339243737_81876_thumbnail.webp",
       "actress": [
         "早乙女らぶ",
@@ -65,46 +138,6 @@ window.actressData = {
         "夏目レイコ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-411"
-    },
-    {
-      "id": 74593,
-      "IDcode": "NSFS-350",
-      "title": "AIリマスター版 夫の目を盗んで他人に抱かれる… 不貞の妻 名作永久保存版240分",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-01-14",
-      "cover_url": "",
-      "actress": [
-        "椎名綾",
-        "结城美佐",
-        "夏树カオル",
-        "吉原日出子",
-        "间宫志乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-350"
-    },
-    {
-      "id": 70401,
-      "IDcode": "WSP-152",
-      "title": "早漏チ●ポを玩ばれて、強制的に連続射精させられちゃった僕。BEST",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-11-30",
-      "cover_url": "",
-      "actress": [
-        "吉泽友贵",
-        "高坂ますみ",
-        "结城美佐",
-        "仁科百华",
-        "亜希菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-152"
     }
   ]
 };

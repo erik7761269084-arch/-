@@ -32,39 +32,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240110/0f194612-ba5e-4995-8322-19c58ff3e5b6.jpeg"
   ],
-  "works_count": 6,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 9824,
-      "IDcode": "START-251",
-      "title": "【略奪NTR溫泉】巨乳準新娘，紀念訂婚而來到了知名溫泉渡假，卻被這裏的渣男員工逼入絕境。從來都不知道自己有這麼騷的女人不斷索要着男人的雞巴！ ~ 葵七瀨",
+      "id": 11928,
+      "IDcode": "START-185",
+      "title": "兼職搬運工，工作時忍氣吞聲3個小時，被強硬插入 ~ 葵七瀨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20241217/8e40c100-e79f-48ff-a0f9-2c054868c0f9.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240917/85c74ce0-a284-47e1-9bfd-8db9a59a8f87.jpg",
       "actress": [
         "葵七濑"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-185"
     },
     {
-      "id": 10511,
-      "IDcode": "START-230",
-      "title": "偷拍了半年鄰居找工作的女學生（估計是G罩杯）暈倒在家門口，假裝照顧他，舔她被不動的身體，直到沾滿了惡臭的唾液 ~ 葵七瀨",
+      "id": 12560,
+      "IDcode": "START-171",
+      "title": "有三個變態叔叔寵物的生意氣地雷系女孩，1日中4P大亂交！ ~ 葵七瀨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241120/06fcc8c8-0fcc-4d38-8e1a-a3f29c854842.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-09-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240820/805a8a7a-43c9-4e36-83f7-929e9eb3f592.jpg",
       "actress": [
         "葵七濑"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-230"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-171"
     },
     {
       "id": 13136,
@@ -73,8 +73,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-07-23",
       "cover_url": "https://picture.yoshiclub.xyz/20240723/72cbf4aa-a177-4c92-8887-8c2feff9e190.jpg",
       "actress": [
@@ -83,36 +83,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-139"
     },
     {
-      "id": 14058,
-      "IDcode": "START-116",
-      "title": "我每天都和實習老師在學校裏互相舔舐、做愛。~ 葵七瀨",
+      "id": 15179,
+      "IDcode": "START-077",
+      "title": "天然G罩杯美女將緊致的身材發揮到極致，爲您服務！新人風俗娘 LAND5！~ 葵七瀨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240611/91ee5543-9860-4075-827b-3fd54e9b0c08.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-05-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240423/20240423082411773773.jpg",
       "actress": [
         "葵七濑"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-116"
-    },
-    {
-      "id": 15866,
-      "IDcode": "START-052",
-      "title": "絶頂開発 即使嬌小敏感的身體顫抖着說 不行了！，激烈的抽插也不會結束！七瀨葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240326/20240326023157626626.jpg",
-      "actress": [
-        "葵七濑"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-052"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-077"
     },
     {
       "id": 16426,
@@ -121,14 +105,126 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-02-06",
       "cover_url": "https://picture.yoshiclub.xyz/20240207/202402070420301717.jpg",
       "actress": [
         "葵七濑"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-021"
+    },
+    {
+      "id": 16833,
+      "IDcode": "START-005",
+      "title": "閃閃發光的19歲在讀女大學生耀眼娃娃臉G罩杯大奶子葵七濑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-01-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240110/20240110043558106106.jpg",
+      "actress": [
+        "葵七濑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-005"
+    },
+    {
+      "id": 15866,
+      "IDcode": "START-052",
+      "title": "高潮展开-葵ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240326/20240326023157626626.jpg",
+      "actress": [
+        "葵七濑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-052"
+    },
+    {
+      "id": 14741,
+      "IDcode": "START-098",
+      "title": "对性非常感兴趣的她的巨乳妹妹-葵奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240514/55f51e18-81c7-4999-94a4-5d1a5eaa8330.jpg",
+      "actress": [
+        "葵七濑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-098"
+    },
+    {
+      "id": 14058,
+      "IDcode": "START-116",
+      "title": "制服美少女-葵ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5bf56eb67774efbb8e24b/cover.jpg",
+      "actress": [
+        "葵七濑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-116"
+    },
+    {
+      "id": 11248,
+      "IDcode": "START-204",
+      "title": "站前街上的卖唱女孩-葵ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/c692a84714c26f8ff20aaf50b9c398da.jpg",
+      "actress": [
+        "葵七濑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-204"
+    },
+    {
+      "id": 10511,
+      "IDcode": "START-230",
+      "title": "连续偷拍了半年的邻居求职生（推测是G罩杯巨乳）在家门口喝醉了…假装照顾，无法抵抗的身体 被我舔光光直到满身臭味为止。 葵七濑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241120/06fcc8c8-0fcc-4d38-8e1a-a3f29c854842.jpg",
+      "actress": [
+        "葵七濑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-230"
+    },
+    {
+      "id": 9824,
+      "IDcode": "START-251",
+      "title": "婚約記念で泊まる温泉宿のクズ従業員にメス堕ちアクメさせられ、自ら浮気チ●ポを求めてしまう巨乳プレ花嫁。 葵ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241217/8e40c100-e79f-48ff-a0f9-2c054868c0f9.jpg",
+      "actress": [
+        "葵七濑"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-251"
     }
   ]
 };

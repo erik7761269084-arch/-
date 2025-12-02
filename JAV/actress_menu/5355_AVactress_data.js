@@ -4,7 +4,7 @@ window.actressData = {
   "name": "爱原さえ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 86915,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2016-06-07",
       "cover_url": "",
       "actress": [
@@ -37,6 +37,42 @@ window.actressData = {
         "爱原さえ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-161"
+    },
+    {
+      "id": 99545,
+      "IDcode": "DANDY-456",
+      "title": "「休憩中の1時間バイトくんと2人きり！女を忘れたパートの美人おばさんは息子ほど年の離れたイケメンチ○ポならセクハラされても嫌じゃない」VOL.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-10-22",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy456/1dandy456pl.jpg",
+      "actress": [
+        "美织舞",
+        "京野美丽",
+        "爱原さえ",
+        "神崎久美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-456"
+    },
+    {
+      "id": 99309,
+      "IDcode": "BBAN-058",
+      "title": "今まで味わった事のないレズテクで寝取られて…。 愛原さえ なごみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-10-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban058/bban058pl.jpg",
+      "actress": [
+        "天月叶菜",
+        "爱原さえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-058"
     }
   ]
 };

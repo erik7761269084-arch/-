@@ -54,13 +54,13 @@ window.actressData = {
     {
       "id": 2068,
       "IDcode": "CWPBD-11",
-      "title": "走秀毒藥 11：第一部（高清）",
+      "title": "猫步毒药-香坂美优",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2009-09-28",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230120/20230120083524458458.jpg",
       "actress": [
         "香坂美優"

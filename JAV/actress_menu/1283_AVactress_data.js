@@ -36,26 +36,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250429/7de5726e-05f4-4a7a-8549-b1312b93617d_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250429/ad766673-d3a6-4743-872f-adab0d5a62db_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 2680,
-      "IDcode": "SDMM-209",
-      "title": "這個夏天在海灘出道！新人救生員限定性騷擾的講習 ~ 川上しずく 依本詩織 綾波蓮 及川莉央",
+      "id": 4663,
+      "IDcode": "HOKS-200",
+      "title": "內射肉便器 軟妹子今天又拒絕不了誘惑 ~ 及川莉央",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220106447447_17271_thumbnail.webp",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103243385385_31928_thumbnail.webp",
       "actress": [
-        "依本詩織",
-        "川上しずく",
-        "綾波蓮",
         "及川莉央"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-200"
     },
     {
       "id": 61810,
@@ -64,9 +61,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-15",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "吉泽友贵",
@@ -84,18 +81,55 @@ window.actressData = {
     {
       "id": 6545,
       "IDcode": "SDAM-131",
-      "title": "新人出道！打工妹穿布偶裝初登AV舞臺 天真溫柔的妹子竟然超M 直接拋棄初心變身小野貓 首次亮相 AV DEBUT~ 及川莉央",
+      "title": "着ぐるみバイトAVデビュー 素直で優しいスーツアクター女子の人より変わってたことは、、、ドM過ぎて、初心を脱ぎ捨ててました。及川莉央（22）パイパン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-04-29",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250429/20250429002207383383_thumbnail.webp",
       "actress": [
         "及川莉央"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-131"
+    },
+    {
+      "id": 5448,
+      "IDcode": "DOCD-062",
+      "title": "地味だけど妙にソソるオフィス清掃のパート妻は、セクハラされても拒めない僕専用の性処理那賀崎ゆきね 及川莉央 椿りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250608/20250608102222465465_thumbnail.webp",
+      "actress": [
+        "椿莉香",
+        "那賀崎雪音",
+        "及川莉央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-062"
+    },
+    {
+      "id": 2680,
+      "IDcode": "SDMM-209",
+      "title": "この夏っ！！！御宿のBeachでデビューするかも！？新人ライフセーバー限定海難救助セクハラ講習 夏休み前にどうしても資格が欲しい女子大生は多少Hな講習でも受け入れる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220106447447_17271_thumbnail.webp",
+      "actress": [
+        "依本詩織",
+        "川上しずく",
+        "綾波蓮",
+        "及川莉央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
     }
   ]
 };

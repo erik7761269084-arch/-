@@ -47,14 +47,14 @@ window.actressData = {
     {
       "id": 7147,
       "IDcode": "WSA-001",
-      "title": "胎尼出道！超火台灣新人 世界的美少女 AV Debut ~ 胎尼",
+      "title": "新人 世界的美少女AVデビュー アジアの奇跡 Tiny",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
-      "publish_date": "2025-04-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250329/b3c64550-15ad-4460-ba1e-bb3310c4e607.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f277d24e7d663df48f0730/cover.jpg",
       "actress": [
         "胎尼",
         "東雲怜弥"

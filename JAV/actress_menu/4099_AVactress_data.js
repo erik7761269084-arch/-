@@ -4,7 +4,7 @@ window.actressData = {
   "name": "梦乃美咲",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,22 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 86774,
-      "IDcode": "APGH-007",
-      "title": "愛すべき妹から受けた痙攣するほど気持ちイイ濃厚ご奉仕とセックス 夢乃美咲",
+      "id": 107278,
+      "IDcode": "HGOT-045",
+      "title": "父に調教されていた娘たち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2020-08-25",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-07-17",
       "cover_url": "",
       "actress": [
+        "加藤あやの",
+        "桐谷奈緒",
         "梦乃美咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-045"
     },
     {
       "id": 88326,
@@ -41,10 +43,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-08-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/191450723153278c64df6b36a5f7bc68.jpg",
       "actress": [
         "七美せな",
         "梦乃美咲",
@@ -54,22 +56,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-241"
     },
     {
-      "id": 107278,
-      "IDcode": "HGOT-045",
-      "title": "父に調教されていた娘たち…ある日、母と姉妹は1本のチ●コを求める",
+      "id": 86774,
+      "IDcode": "APGH-007",
+      "title": "愛すべき妹から受けた痙攣するほど気持ちイイ濃厚ご奉仕とセックス 夢乃美咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-07-10",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1414hgot045/h_1414hgot045pl.jpg",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/01d9430efc7c81e81449384f6370689c.jpg",
       "actress": [
-        "加藤あやの",
-        "桐谷奈緒",
         "梦乃美咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-007"
     },
     {
       "id": 83062,
@@ -78,10 +78,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-01-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221217-1/e1bead6c369c3f0b65b5967e7638b752.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/ccb03e2700d1a5ff33ede16cb60abd38.jpg",
       "actress": [
         "大島愛里亞",
         "沙藤由梨",
@@ -101,10 +101,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/6dcddc6b160e262f9d60fc3098d80362.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d5ccb68778a7355d29e203b901a38724.jpg",
       "actress": [
         "枝川结衣",
         "水无瀬怜奈",

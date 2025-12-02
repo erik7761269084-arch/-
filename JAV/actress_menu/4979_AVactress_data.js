@@ -4,7 +4,7 @@ window.actressData = {
   "name": "佐々木空",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2003-08-01",
-      "cover_url": "",
+      "cover_url": "https://le.lefhao20250923.top/upload/vod/20250409-1/c71d4fc1baed453482704712a1c7e98c.jpg",
       "actress": [
         "佐々木空",
         "青木沙罗"

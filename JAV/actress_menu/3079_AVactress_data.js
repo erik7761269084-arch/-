@@ -4,7 +4,7 @@ window.actressData = {
   "name": "柴田良香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 61695,
       "IDcode": "JRZE-254",
-      "title": "初撮り人妻ドキュメント 柴田良香",
+      "title": "初次拍摄的少妇记录-柴田良香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-07-17",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/255e2cac19a38cc8e94fd45f0620d15a.jpg",
       "actress": [
         "柴田良香"
       ],
@@ -37,12 +37,12 @@ window.actressData = {
     {
       "id": 59699,
       "IDcode": "HTHD-234",
-      "title": "- 友達の母親～最終章～ 柴田良香 - JAV目錄大全javmenu.com",
+      "title": "友達の母親～最終章～ 柴田良香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "熟女人妻最強廠",
       "publish_date": "",
       "cover_url": "",
       "actress": [

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "明日来ひかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 87007,
       "IDcode": "IPIT-032",
-      "title": "美容とファッション頑張り過ぎて彼氏できなかった強がり陰キャGAL 関西美女AVデビュー 明日来ひかり",
+      "title": "坚强的青春期女孩-明日来ひかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-07-12",
-      "cover_url": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/f94d6f47a9a22ab093b795194a415391.jpg",
       "actress": [
         "明日来ひかり"
       ],

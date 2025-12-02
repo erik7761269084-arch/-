@@ -26,18 +26,56 @@ window.actressData = {
     "Saito Hina"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 68365,
-      "IDcode": "UMSO-591",
-      "title": "【FANZA限定】Iカップ以上の爆乳女優ベストセレクション18人 生写真とパンティ付き",
+      "id": 98740,
+      "IDcode": "BBAN-068",
+      "title": "リアル女友達3人組が仲良しデート後のレズSEXを自撮りしちゃいました！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-12-07",
+      "cover_url": "",
+      "actress": [
+        "乙愛麗絲",
+        "阿部乃美久",
+        "奏自由",
+        "星野ひびき",
+        "前田のの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-068"
+    },
+    {
+      "id": 98302,
+      "IDcode": "SSPD-123",
+      "title": "被虐的毒花妈妈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "篠田步美",
+        "羽月希",
+        "星野ひびき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-123"
+    },
+    {
+      "id": 68365,
+      "IDcode": "UMSO-591",
+      "title": "Iカップ以上の爆乳女優ベストセレクション18人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-04-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "七草千歲",
@@ -51,24 +89,6 @@ window.actressData = {
         "星野ひびき"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-591"
-    },
-    {
-      "id": 98302,
-      "IDcode": "SSPD-123",
-      "title": "被虐の毒花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2015-10-07",
-      "cover_url": "https://tutu1.space/images/2023/06/01/a15b9f8ddc2ca3b05933dbbccde462e1.jpg",
-      "actress": [
-        "篠田步美",
-        "羽月希",
-        "星野ひびき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-123"
     }
   ]
 };

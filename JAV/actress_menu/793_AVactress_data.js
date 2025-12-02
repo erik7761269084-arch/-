@@ -38,71 +38,120 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240810/03082672-2f4b-44ae-b928-6ca39b4fa790.jpg",
     "https://picture.yoshiclub.xyz/20240810/3e17673c-31d6-46d0-b081-a41d1ba1ea2c.jpg"
   ],
-  "works_count": 4,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 9216,
-      "IDcode": "FSDSS-961",
-      "title": "我的店長聽着我男朋友說了我的敏感點，就不停的玩弄我的奶頭……降矢明日香",
+      "id": 8269,
+      "IDcode": "FSDSS-986",
+      "title": "與女下屬在僻靜的情趣酒店避雨 逆NTR ~ 降矢明日香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250111/20250111033130500500.jpg",
+      "publish_date": "2025-02-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20250214/20250214230204185185.jpg",
       "actress": [
         "降矢明日香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-986"
     },
     {
       "id": 76091,
       "IDcode": "FSDSS-930",
-      "title": "オタク友達を脱がせたら物凄いエロいカラダで最高に気持ち良すぎてハメ狂った。 降矢あすか パンティと写真付き",
+      "title": "オタク友達を脱がせたら物凄いエロいカラダで最高に気持ち良すぎてハメ狂った。 降矢あすか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-01-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/22/873899cda6d5e394b157f694ad1f2010.jpg",
       "actress": [
         "降矢明日香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-930"
     },
     {
-      "id": 10871,
-      "IDcode": "FSDSS-909",
-      "title": "初戀甜蜜房間 - 與初戀女友過夜約會中的激烈的性愛，直到早上 ~ 降矢明日香",
+      "id": 12794,
+      "IDcode": "FSDSS-850",
+      "title": "像偶像一样可爱的武士道二段女孩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241104/20241104200332311311.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/520bc6a6c6f33d5d9705e17fea8df65b.jpg",
+      "actress": [
+        "降矢明日香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-850"
+    },
+    {
+      "id": 12093,
+      "IDcode": "FSDSS-888",
+      "title": "认真剑道女的性欲觉醒初体验",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/40a8577009debe1e567d01a62e7c706e.jpg",
+      "actress": [
+        "降矢明日香",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-888"
+    },
+    {
+      "id": 11428,
+      "IDcode": "FSDSS-908",
+      "title": "与体液交流的持续性爱-降矢あすか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/d33de53a33095055b7ff4f4d5efa2068.jpg",
+      "actress": [
+        "降矢明日香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-908"
+    },
+    {
+      "id": 10871,
+      "IDcode": "FSDSS-909",
+      "title": "与初恋女友过夜约会中的激烈的性爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/628f4219829b2bb1076a50d8443e8dfa.jpg",
       "actress": [
         "降矢明日香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-909"
     },
     {
-      "id": 11428,
-      "IDcode": "FSDSS-908",
-      "title": "用體液不斷進行性交 ~ 降矢明日香",
+      "id": 9216,
+      "IDcode": "FSDSS-961",
+      "title": "彼氏の愚痴を聞いてくれるバイト先店長の乳首いじりがドストライク過ぎて…何度も乳首イキSEXしまくった 降矢あすか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241005/20241005235820550550.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/4bdf74c0/vod.jpg",
       "actress": [
         "降矢明日香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-961"
     }
   ]
 };

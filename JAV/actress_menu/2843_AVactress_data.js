@@ -31,15 +31,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 4254,
-      "IDcode": "NSFS-403",
-      "title": "AI重製版 頂級濃情色片 瘋狂熱吻 經典永久收藏3小時 ~ 大友唯爱 石川さとこ 真心実 桜沢まひる 艶堂しほり 杉本兰",
+      "id": 77192,
+      "IDcode": "NSFS-341",
+      "title": "AIリマスター版 夫には言えない秘め事 義父と嫁 名作永久保存版AI高画質225分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-07-19",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250106/uJ5wYDap/1.jpg",
+      "actress": [
+        "星優乃",
+        "新尾きり子",
+        "大友唯爱",
+        "一ノ瀬奈美（一ノ瀬奈未）",
+        "七瀬美香",
+        "白川莉纱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-341"
+    },
+    {
+      "id": 4254,
+      "IDcode": "NSFS-403",
+      "title": "AIリマスター版 極上濃厚エロビデオ もの凄い接吻 名作永久保存版3時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703605605_88783_thumbnail.webp",
       "actress": [
         "川上優",
@@ -53,27 +74,6 @@ window.actressData = {
         "真白希美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-403"
-    },
-    {
-      "id": 77192,
-      "IDcode": "NSFS-341",
-      "title": "AIリマスター版 夫には言えない秘め事 義父と嫁 名作永久保存版AI高画質225分",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2024-12-10",
-      "cover_url": "",
-      "actress": [
-        "星優乃",
-        "新尾きり子",
-        "大友唯爱",
-        "一ノ瀬奈美（一ノ瀬奈未）",
-        "七瀬美香",
-        "白川莉纱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-341"
     }
   ]
 };

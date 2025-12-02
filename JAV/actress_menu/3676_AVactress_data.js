@@ -4,7 +4,7 @@ window.actressData = {
   "name": "彩芽くるみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 66963,
       "IDcode": "HMN-250",
-      "title": "あざと可愛い甘えん坊な姪っ子J●とキスいっぱい中出し同棲生活 彩芽くるみ",
+      "title": "同棲生活-彩芽くるみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2022-09-20",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "彩芽くるみ"

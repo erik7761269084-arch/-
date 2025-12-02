@@ -31,8 +31,66 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230330/b3efeb5f-edd9-43e8-ad3c-5da818ac0324.jpg",
     "https://picture.yoshiclub.xyz/20230330/a05ea2de-260c-4740-9635-5ebb1bb8eae4.jpg"
   ],
-  "works_count": 1,
+  "works_count": 5,
   "related_dramas": [
+    {
+      "id": 10341,
+      "IDcode": "ONEX-069",
+      "title": "就職活動IN 04",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ONE MORE",
+      "publish_date": "2024-12-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128054212601601.jpg",
+      "actress": [
+        "深田詠美",
+        "宫泽千春",
+        "水卜麻衣奈",
+        "愛瀬るか",
+        "神野雛",
+        "四葉麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEX-069"
+    },
+    {
+      "id": 78230,
+      "IDcode": "MDTM-574",
+      "title": "いつでも中出しさせてくれる僕だけの女子●生アイドル 愛瀬るか パンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "愛瀬るか",
+        "爱瀬るか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-574"
+    },
+    {
+      "id": 8908,
+      "IDcode": "MDTM-852",
+      "title": "和早漏的敏感妹子如何度過排卵日物語 Best Selection Special 4小時 合集 Vol.003 ~ 愛瀬るか 有村希 木下日葵 岬梓沙 八尋麻衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b2265615c08d63a9930f4f/cover.jpg",
+      "actress": [
+        "木下日葵",
+        "有村希",
+        "岬梓沙",
+        "愛瀬るか",
+        "八尋麻衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-852"
+    },
     {
       "id": 5065,
       "IDcode": "REAL-920",
@@ -40,9 +98,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -99,6 +157,24 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
+    },
+    {
+      "id": 1683,
+      "IDcode": "SDDE-598",
+      "title": "一直在喷水的女播音员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67873b2e5d57b64bfdd98aa2/cover.jpg",
+      "actress": [
+        "大浦真奈美",
+        "愛瀬るか",
+        "桜木优希音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-598"
     }
   ]
 };

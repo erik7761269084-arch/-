@@ -33,106 +33,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230716/c5a60521-318d-476f-8ab5-3a925d890c75.jpg",
     "https://picture.yoshiclub.xyz/20230716/d99f8882-b3b4-446b-9d5f-894b7b0d677a.jpg"
   ],
-  "works_count": 8,
+  "works_count": 11,
   "related_dramas": [
-    {
-      "id": 100226,
-      "IDcode": "HND-794",
-      "title": "禁欲女×絶倫男 ナマで覚醒！本能剥き出し真正中出し3本番！！ 知花凛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2020-02-25",
-      "cover_url": "",
-      "actress": [
-        "知花凛",
-        "イセドン内村",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-794"
-    },
-    {
-      "id": 76665,
-      "IDcode": "VENU-909",
-      "title": "突然押しかけてきた嫁の姉さんに抜かれっぱなしの1泊2日 知花凛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2020-02-01",
-      "cover_url": "",
-      "actress": [
-        "知花凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-909"
-    },
-    {
-      "id": 97917,
-      "IDcode": "ATID-390",
-      "title": "花は毒蟲に挿れられ蜜を吸われた 知花凛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2020-01-07",
-      "cover_url": "https://tutu1.space/images/2025/09/20/02d3324476512f9683715ae6b544f737.jpg",
-      "actress": [
-        "知花凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-390"
-    },
-    {
-      "id": 75080,
-      "IDcode": "VEC-395",
-      "title": "息子のクラスメイトに犯●れ続けてプライドを失った母親 知花凛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
-      "actress": [
-        "知花凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-395"
-    },
-    {
-      "id": 78494,
-      "IDcode": "DASD-620",
-      "title": "愛する妻で勃起する。寝取らせ傍観催●。 知花凛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-25",
-      "cover_url": "",
-      "actress": [
-        "知花凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-620"
-    },
-    {
-      "id": 70424,
-      "IDcode": "JUL-052",
-      "title": "僕が経営するソープ店に人妻になった幼なじみが面接にやって来ました…。 知花凛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-11-25",
-      "cover_url": "",
-      "actress": [
-        "知花凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-052"
-    },
     {
       "id": 19100,
       "IDcode": "IPX-348",
@@ -140,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2019-08-13",
       "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717235004684684.jpg",
@@ -151,22 +53,168 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-348"
     },
     {
+      "id": 100226,
+      "IDcode": "HND-794",
+      "title": "在肉体上被唤醒-知花凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "知花凛",
+        "イセドン内村",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-794"
+    },
+    {
+      "id": 98254,
+      "IDcode": "DASD-608",
+      "title": "「会社に内緒で副業します」嫌いなセクハラ上司とデリ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6783e88389def9b1b8e97a52/cover.jpg",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-608"
+    },
+    {
+      "id": 97917,
+      "IDcode": "ATID-390",
+      "title": "轻信他人的女OL知花凛的下场就是沦为妓女任人内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1647395892db1d01ad284752d71d46bb.jpg",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-390"
+    },
+    {
+      "id": 78494,
+      "IDcode": "DASD-620",
+      "title": "看着因为催眠术被别的男人插到高潮的妻子我的肉棒勃起了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241103-1/04823e629dd5169b317e9a7f12b139b7.jpg",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-620"
+    },
+    {
+      "id": 76665,
+      "IDcode": "VENU-909",
+      "title": "突然押しかけてきた嫁の姉さんに抜かれっぱなしの1泊2日 知花凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e07d3357b88a9f4e9b5317fe34a275ca.jpg",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-909"
+    },
+    {
+      "id": 75080,
+      "IDcode": "VEC-395",
+      "title": "被儿子的同学强奸后-知花凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-395"
+    },
+    {
+      "id": 70424,
+      "IDcode": "JUL-052",
+      "title": "为了养活家庭的人妻去洗浴中心面试没想到面试官就是当初的青梅竹马",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-052"
+    },
+    {
       "id": 19110,
       "IDcode": "IPX-331",
       "title": "FIRST IMPRESSION 134 ～ 看到就會愛上的漂亮可愛大姊～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2019-07-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230715/20230715202356995995.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/99e4f3be76cc1c516cc256fa2baff737.jpg",
       "actress": [
         "知花凛",
         "小田切ジュン",
         "南佳也"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-331"
+    },
+    {
+      "id": 19086,
+      "IDcode": "IPX-363",
+      "title": "大乱交-知花凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/01/25/245d5f2bf7cc7b29bf8717769ec842a3.jpg",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-363"
+    },
+    {
+      "id": 19055,
+      "IDcode": "IPX-394",
+      "title": "理性崩壊中出-知花凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729211020241241.jpg",
+      "actress": [
+        "知花凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-394"
     }
   ]
 };

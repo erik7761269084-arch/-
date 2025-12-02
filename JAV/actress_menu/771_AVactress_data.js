@@ -42,83 +42,68 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250207/c7817180-28e0-4b47-b074-dabc1123ffed.jpg",
     "https://picture.yoshiclub.xyz/20250207/9ec76f15-41bc-4daa-9ada-a8f88f4b7b3e.jpg"
   ],
-  "works_count": 7,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 3036,
-      "IDcode": "IPZZ-656",
-      "title": "替身肉便器：與絕倫極道大佬的10天監禁調教生活 ~ 花守夏歩",
+      "id": 8428,
+      "IDcode": "IPZZ-495",
+      "title": "新人AV デビュー FIRST IMPRESSION 171 愛らしさ全開 花守夏歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025204924924_85088_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075005176176.jpg",
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-656"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-495"
     },
     {
-      "id": 3793,
-      "IDcode": "IPZZ-640",
-      "title": "早上醒來發現青梅竹馬沒穿內衣內褲跟我同床共枕？昨晚的激情她念念不忘，整天被她玩弄乳頭逼我高潮 ~ 花守夏歩",
+      "id": 7738,
+      "IDcode": "IPZZ-518",
+      "title": "初体验的超级大高潮3次特别版",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031021633633_53895_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250325-1/3acf46f92ff05e682a67e25e162f2240.jpg",
       "actress": [
-        "花守夏歩"
+        "花守夏歩",
+        "南佳也"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-640"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-518"
     },
     {
-      "id": 4781,
-      "IDcode": "IPZZ-604",
-      "title": "繼父居然饞我這個女學生身子，好惡心！...被侵犯還高潮不斷的屈辱體驗 ~ 花守夏歩",
+      "id": 7085,
+      "IDcode": "IPZZ-533",
+      "title": "与超可爱美少女交换唾液-花守夏歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703044009248248_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250415-1/6edb1d698f14c48e9e367c44645d3689.jpg",
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-604"
-    },
-    {
-      "id": 5518,
-      "IDcode": "IPZZ-581",
-      "title": "出差遇上暴雨天，和童貞部下相部屋…溼身誘惑讓他獸性大發，絕倫性交七發直到天亮 ~ 花守夏歩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042114421421_thumbnail.webp",
-      "actress": [
-        "花守夏歩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-581"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-533"
     },
     {
       "id": 6294,
       "IDcode": "IPZZ-555",
-      "title": "性欲覺醒 絕頂155次！痙攣3768回！絕叫125分貝！快感潮吹3200cc！~ 花守夏歩",
+      "title": "雌性高潮觉醒155次-花守夏歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508063535650650_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/05/19/6bf944d8aaace914f604b7a16e281195.jpg",
       "actress": [
         "花守夏歩",
         "鲛岛",
@@ -127,37 +112,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-555"
     },
     {
-      "id": 7085,
-      "IDcode": "IPZZ-533",
-      "title": "超萌美少女的口水滴滴答答超濃厚接吻與SEX ~ 花守夏歩",
+      "id": 5518,
+      "IDcode": "IPZZ-581",
+      "title": "出差地遇到史上最大豪雨-花守夏步",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092710327327.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/21/842038f498a5d32542542465064e7c4c.jpg",
       "actress": [
         "花守夏歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-581"
     },
     {
-      "id": 7738,
-      "IDcode": "IPZZ-518",
-      "title": "潮噴高潮後再次被精液淹沒 初體驗大大大絕頂三本番絕頂亂舞！ ~ 花守夏步",
+      "id": 4781,
+      "IDcode": "IPZZ-604",
+      "title": "还是个学生的夏步被讨厌的继父多次侵犯和强奸-花守夏歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305124908841841.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e7d6f98bc99dfdd033231/cover.jpg",
       "actress": [
-        "花守夏歩",
-        "南佳也"
+        "花守夏歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-518"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-604"
+    },
+    {
+      "id": 3793,
+      "IDcode": "IPZZ-640",
+      "title": "一醒来就发现没穿内衣的青梅竹马在我身边-花守夏歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/8911d82e/vod.jpg",
+      "actress": [
+        "花守夏歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-640"
+    },
+    {
+      "id": 3036,
+      "IDcode": "IPZZ-656",
+      "title": "替代性肉便器与射精不止精力无穷的黑道老大的10天监禁生活-花守夏歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/12/5355686983306f2a2ccc1c128c266a6f.jpg",
+      "actress": [
+        "花守夏歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-656"
     }
   ]
 };

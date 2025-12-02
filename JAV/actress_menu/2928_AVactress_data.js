@@ -48,15 +48,31 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 6407,
-      "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "id": 70231,
+      "IDcode": "SPRD-1179",
+      "title": "後妻の魅惑 水元恵梨香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dcfedc3e0241f0d17e48195105ed5d03.jpg",
+      "actress": [
+        "水元恵梨香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1179"
+    },
+    {
+      "id": 6407,
+      "IDcode": "KSBJ-378",
+      "title": "巨尻熟女ベストセレクション52人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -106,22 +122,6 @@ window.actressData = {
         "响りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
-    },
-    {
-      "id": 70231,
-      "IDcode": "SPRD-1179",
-      "title": "後妻の魅惑 水元恵梨香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-08-08",
-      "cover_url": "",
-      "actress": [
-        "水元恵梨香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1179"
     }
   ]
 };

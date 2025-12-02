@@ -37,24 +37,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230914/7c72dcdb-d9df-4e08-ba3c-2791cca1b270.jpg",
     "https://picture.yoshiclub.xyz/20230914/4221cce7-5781-48fd-a6fe-955db378f141.jpg"
   ],
-  "works_count": 3,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 18569,
-      "IDcode": "IPX-699",
-      "title": "第一部強姦影片 汗流浹背的女孩被粗暴的中年顧問強姦",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2021-08-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926021020921921.jpg",
-      "actress": [
-        "小野琴弓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-699"
-    },
     {
       "id": 18625,
       "IDcode": "IPX-682",
@@ -62,7 +46,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2021-07-13",
       "cover_url": "https://picture.yoshiclub.xyz/20230921/202309212230217979.jpg",
@@ -78,7 +62,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2021-05-13",
       "cover_url": "https://picture.yoshiclub.xyz/20230918/20230918000448640640.jpg",
@@ -88,6 +72,86 @@ window.actressData = {
         "蓝井优太"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-651"
+    },
+    {
+      "id": 18720,
+      "IDcode": "IPX-634",
+      "title": "FIRST IMPRESSION 148 不像AV女優的短髮美少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a0f8b8cf22ae3e04a0282c/cover.jpg",
+      "actress": [
+        "小野琴弓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-634"
+    },
+    {
+      "id": 18569,
+      "IDcode": "IPX-699",
+      "title": "中年顧問-小野琴弓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926021020921921.jpg",
+      "actress": [
+        "小野琴弓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-699"
+    },
+    {
+      "id": 18541,
+      "IDcode": "IPX-717",
+      "title": "絶頂FUCK-小野琴弓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230927/20230927224840666666.jpg",
+      "actress": [
+        "小野琴弓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-717"
+    },
+    {
+      "id": 18496,
+      "IDcode": "IPX-735",
+      "title": "出張先相部屋-小野琴弓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002004024741741.jpg",
+      "actress": [
+        "小野琴弓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-735"
+    },
+    {
+      "id": 18459,
+      "IDcode": "IPX-752",
+      "title": "痴女美少女-小野琴弓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231005/20231005222906333333.jpg",
+      "actress": [
+        "小野琴弓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-752"
     }
   ]
 };

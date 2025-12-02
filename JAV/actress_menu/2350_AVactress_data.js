@@ -54,34 +54,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 9164,
-      "IDcode": "BACJ-136",
-      "title": "中年大叔被寵壞了！後宮擠奶榨精特色保育服務 ~ 桐嶋あみな 市成心海 香月えりさ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250113/d1611ac6-bde6-4393-a4a0-26e019c34930.jpg",
-      "actress": [
-        "香月えりさ",
-        "市成心海",
-        "桐嶋あみな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-136"
-    },
-    {
       "id": 73027,
       "IDcode": "AKDL-036",
       "title": "【胸チラ・パンチラ盗撮】 推定Bカップ～Fカップの微乳・巨乳ちゃん8人の神シコ動画",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AKNR",
-      "publish_date": "2020-07-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250205-1/213f2b4b42226a9219f302ab9703b6d1.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/4994b88d6a3df824cb5857b192f6bcb8.jpg",
       "actress": [
         "夏原唯",
         "桐嶋あみな",
@@ -93,6 +75,24 @@ window.actressData = {
         "前田あこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-036"
+    },
+    {
+      "id": 9164,
+      "IDcode": "BACJ-136",
+      "title": "中年さんは甘え盛り！バブっとおぎゃおぎゃハーレム保育でおち●ぽミルク搾乳中！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1a94f735bb663f762d996/cover.jpg",
+      "actress": [
+        "香月えりさ",
+        "市成心海",
+        "桐嶋あみな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-136"
     }
   ]
 };

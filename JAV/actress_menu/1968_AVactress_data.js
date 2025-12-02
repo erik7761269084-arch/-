@@ -37,49 +37,16 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 2858,
-      "IDcode": "ALDN-504",
-      "title": "嶽母大人，比老婆還帶勁啊 ~ 倖田李梨 ~ 倖田李梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2025-09-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212359597597_17341_thumbnail.webp",
-      "actress": [
-        "倖田李梨",
-        "タクト"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-504"
-    },
-    {
-      "id": 9342,
-      "IDcode": "RCTD-640",
-      "title": "淫語女子主播 36 傳說中的熟女完全復活！~ 倖田李梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250106/202501060312413232.jpg",
-      "actress": [
-        "倖田李梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-640"
-    },
-    {
       "id": 93973,
       "IDcode": "RCTD-608",
-      "title": "息子なら母親の裸当ててみて！歴代美人司会者ドッキリ近親相姦大作戦",
+      "title": "近亲相姦大作战",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2024-09-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca8e68eb67774efba39fa1/cover.jpg",
       "actress": [
         "倖田李梨",
         "成宫いろは",
@@ -94,15 +61,48 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2010-04-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/51442e7cf5485c96c5832c539b7be8af.jpg",
       "actress": [
         "倖田李梨",
         "菊川麻里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-203"
+    },
+    {
+      "id": 9342,
+      "IDcode": "RCTD-640",
+      "title": "淫語女子アナ36 伝説の熟女が完全復活！倖田李梨アナSP",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "倖田李梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-640"
+    },
+    {
+      "id": 2858,
+      "IDcode": "ALDN-504",
+      "title": "岳母你可比我老婆好多了-倖田李梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212359597597_17341_thumbnail.webp",
+      "actress": [
+        "倖田李梨",
+        "タクト"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-504"
     }
   ]
 };

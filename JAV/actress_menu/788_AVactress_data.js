@@ -37,19 +37,83 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230917/4cb9b0e9-dd9e-4ecc-9cd0-690c330a0561.jpg",
     "https://picture.yoshiclub.xyz/20230917/ebb57376-7726-4428-8bda-f3076575ec35.jpg"
   ],
-  "works_count": 2,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 18240,
-      "IDcode": "FSDSS-656",
-      "title": "為了躲避傾盆大雨，我們只能住在旅館。 已婚人妻和處女同房一晚不發生什麼事是不可能的。",
+      "id": 15519,
+      "IDcode": "FSDSS-630",
+      "title": "用體液連續性交中出 五十嵐夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2023-11-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20231021/20231021045154736736.jpg",
+      "publish_date": "2023-09-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240409/20240409084745254254.jpg",
+      "actress": [
+        "五十嵐夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-630"
+    },
+    {
+      "id": 101402,
+      "IDcode": "FSDSS-726",
+      "title": "美女被老闆用肯定會破的保險套不停中出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240309-1/6179b98a8f2da0f08083241f36fbf364.jpg",
+      "actress": [
+        "五十嵐夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-726"
+    },
+    {
+      "id": 100407,
+      "IDcode": "FSDSS-536",
+      "title": "女教师的性爱圈-五十嵐なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829cc4d5d899f636112602c/cover.jpg",
+      "actress": [
+        "五十嵐夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-536"
+    },
+    {
+      "id": 18685,
+      "IDcode": "FSDSS-641",
+      "title": "與勸我就讀大學的尊敬恩師在應召再會 從順性交只能絕頂的我 五十嵐夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/6e18035cb0914fc925c49d21fdd3137b.jpg",
+      "actress": [
+        "五十嵐夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-641"
+    },
+    {
+      "id": 18240,
+      "IDcode": "FSDSS-656",
+      "title": "破紀錄暴雨 為了避雨而來到旅館 人妻和處男的二人獨處... 五十嵐夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/edf38ea7c6818f5121ce9f24ef5f6207.jpg",
       "actress": [
         "五十嵐夏",
         "みっちー"
@@ -57,20 +121,56 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-656"
     },
     {
-      "id": 18685,
-      "IDcode": "FSDSS-641",
-      "title": "遇上了當年鼓勵我上大學的尊敬導師 別無選擇 只能用激烈的做愛來報答",
+      "id": 17075,
+      "IDcode": "FSDSS-712",
+      "title": "我被隔壁鄰居在他那像垃圾房一樣亂的房間裡強暴了",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2023-10-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230917/202309170059513333.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787e37cc179ffb1db907e61/cover.jpg",
       "actress": [
         "五十嵐夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-641"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-712"
+    },
+    {
+      "id": 3439,
+      "IDcode": "FCDSS-104",
+      "title": "乳首が透けているノーブラ巨乳娘の超誘惑セックス4時間ベスト！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821011919365365_45688_thumbnail.webp",
+      "actress": [
+        "小野夕子",
+        "本郷愛",
+        "五十嵐夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-104"
+    },
+    {
+      "id": 3437,
+      "IDcode": "FCDSS-103",
+      "title": "大嫌いな男にハメられて睨みながら絶頂するFALENO娘4時間ベスト！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821012028904904_98677_thumbnail.webp",
+      "actress": [
+        "小野夕子",
+        "本郷愛",
+        "五十嵐夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-103"
     }
   ]
 };

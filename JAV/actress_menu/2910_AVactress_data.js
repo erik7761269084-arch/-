@@ -40,14 +40,14 @@ window.actressData = {
     {
       "id": 6900,
       "IDcode": "MUDR-310",
-      "title": "我要在成人影片中失去我的童貞！一位沒有與男人交往經驗的前偶像決定失去她的貞操。一部關於一位清晰度出眾的美麗女孩失去貞操的紀錄片。",
+      "title": "我要在AV中失去處女之身-侑李愛美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411083825531531.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/925d1ea72a212f1db34d0edb0d21436c.jpg",
       "actress": [
         "侑李愛美",
         "いち"

@@ -33,18 +33,36 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231119/a6aa9dee-b790-4fb2-b63e-48bb7e0c402b.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 17745,
-      "IDcode": "MEYD-864",
-      "title": "新人 倉多紗南 ~ 谁能射我100次？绝顶性经验的敏感人妻出道 首次亮相 AV Debut",
+      "id": 92115,
+      "IDcode": "MEYD-879",
+      "title": "从没经验到轻车熟路-仓多纱南",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2023-11-21",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "倉多紗南",
+        "蓝井优太",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-879"
+    },
+    {
+      "id": 17745,
+      "IDcode": "MEYD-864",
+      "title": "敏感人妻 AV出道-仓多纱南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231119/20231119012230777777.jpg",
       "actress": [
         "倉多紗南",

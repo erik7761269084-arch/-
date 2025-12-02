@@ -51,59 +51,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240605/e7a45396-06c9-438c-b789-0ba1a2a73984.jpg",
     "https://picture.yoshiclub.xyz/20240605/e8935e35-574a-4392-b80e-efa31ae99659.jpg"
   ],
-  "works_count": 11,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 63021,
-      "IDcode": "TKD-058",
-      "title": "藍女将の告白 先輩！ご主人と愛人さんを膣生出しでいただきました！ あべ藍",
+      "id": 5067,
+      "IDcode": "KTRA-725",
+      "title": "巨乳女神中出特輯2 超長4小時 ~ 真白湖子 橫宮七海 逢咲由愛 雙葉良香 安部藍",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "RUBY",
-      "publish_date": "2025-06-17",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/782f3673/vod.jpg",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623090730728728_thumbnail.webp",
       "actress": [
+        "横宮七海",
         "安部藍",
-        "ラビットけんと"
+        "逢咲由愛",
+        "真白湖子",
+        "双葉良香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-058"
-    },
-    {
-      "id": 7638,
-      "IDcode": "HUNTC-146",
-      "title": "姐姐的朋友太色了！姐姐就在旁邊她卻用巨乳貼身誘惑我還允許中出！結果連姐姐都暗自發情加入近親相奸追擊戰！ ~ 通野未帆 咲野瑞希 泉莉音 安部藍",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125417653653.jpg",
-      "actress": [
-        "通野未帆",
-        "泉莉音",
-        "咲野瑞希",
-        "安部藍"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-146"
-    },
-    {
-      "id": 93702,
-      "IDcode": "PFAS-014",
-      "title": "令和エレジー 妻がカラダを売る理由",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FAプロ",
-      "publish_date": "2024-07-09",
-      "cover_url": "",
-      "actress": [
-        "安部藍"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-725"
     },
     {
       "id": 93982,
@@ -112,7 +80,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2024-05-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/87ad285e9b74dc52e25bb74e1aca2d40.jpg",
@@ -131,41 +99,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-849"
     },
     {
-      "id": 90421,
-      "IDcode": "PPBD-242",
-      "title": "快要射精！激烈晃動巨乳與快感高潮臉蛋達到最高潮的鬼爆抽插80本番",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
-      "actress": [
-        "安部藍",
-        "蒼空なつき",
-        "澁谷果歩",
-        "安倍亜沙美",
-        "田中瞳",
-        "ステイシー",
-        "爱乃まほろ",
-        "凉木奏",
-        "NAOMI",
-        "天音ありす"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
-    },
-    {
       "id": 87603,
       "IDcode": "MDBK-257",
       "title": "ピチピチ水着で身体のライン丸分かり！！Hな水着をズラシて生挿入30人！！スク水＋競泳水着SUPER BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2022-08-23",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/pBHKeN62.jpg",
       "actress": [
         "蓮実クレア",
         "篠田步美",
@@ -188,10 +131,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/1ad915b66d19354e362da7c33a54e071.jpg",
+      "cover_url": "",
       "actress": [
         "波多野结衣",
         "大槻响",
@@ -211,7 +154,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-25",
       "cover_url": "",
@@ -224,16 +167,132 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PCDE-006"
     },
     {
+      "id": 99620,
+      "IDcode": "NSM-101",
+      "title": "媚薬入り睡眠薬で昏睡状態の美少女たちに夜這い中出し！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-11-08",
+      "cover_url": "",
+      "actress": [
+        "绀野光",
+        "栄川乃亜",
+        "阿部乃美久",
+        "安部藍",
+        "迹美珠里",
+        "宫崎彩",
+        "浜崎真绪",
+        "凉海みさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-101"
+    },
+    {
+      "id": 103102,
+      "IDcode": "LOL-180",
+      "title": "ロ●専科娘のワレメ～性欲を我慢できずに射精を続ける父親～あいりさとう愛理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLAYz",
+      "publish_date": "2019-04-01",
+      "cover_url": "",
+      "actress": [
+        "安部藍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-180"
+    },
+    {
+      "id": 64051,
+      "IDcode": "NHDTA-785",
+      "title": "背後位肏到學生妹生癡漢電車",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-02-18",
+      "cover_url": "",
+      "actress": [
+        "南梨央奈",
+        "安部藍",
+        "篠田优",
+        "白石悠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-785"
+    },
+    {
+      "id": 106867,
+      "IDcode": "WANZ-563",
+      "title": "被盯上的母女-川上优 佐藤爱理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上優",
+        "安部藍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-563"
+    },
+    {
+      "id": 93702,
+      "IDcode": "PFAS-014",
+      "title": "妻子出卖身体的理由-あべ藍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安部藍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-014"
+    },
+    {
+      "id": 90421,
+      "IDcode": "PPBD-242",
+      "title": "快要射精！激烈晃動巨乳與快感高潮臉蛋達到最高潮的鬼爆抽插80本番",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/cc988ac8d5a1cf1b908edb39c16d19de.jpg",
+      "actress": [
+        "安部藍",
+        "蒼空なつき",
+        "澁谷果歩",
+        "安倍亜沙美",
+        "田中瞳",
+        "ステイシー",
+        "爱乃まほろ",
+        "凉木奏",
+        "NAOMI",
+        "天音ありす"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
+    },
+    {
       "id": 83102,
       "IDcode": "MDBK-076",
       "title": "可愛くて優等生の女子校生たちから中出しSEXをせがまれて困っている僕。4時間フルコンプリートベスト",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2019-12-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/97c7c59fdb371b862cb31cda99239c40.jpg",
       "actress": [
         "加藤桃香",
         "佐倉陽菜",
@@ -247,40 +306,73 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-076"
     },
     {
-      "id": 106867,
-      "IDcode": "WANZ-563",
-      "title": "母女被盯上肏翻 川上優 佐藤愛理",
+      "id": 63021,
+      "IDcode": "TKD-058",
+      "title": "藍女将の告白 先輩！ご主人と愛人さんを膣生出しでいただきました！ あべ藍",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2016-12-01",
-      "cover_url": "https://tutu1.space/images/2023/10/05/286cb6951a65821a5647ec0fb00caba6.jpg",
+      "type": "",
+      "company": "RUBY",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "川上優",
-        "安部藍"
+        "安部藍",
+        "ラビットけんと"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKD-058"
     },
     {
-      "id": 64051,
-      "IDcode": "NHDTA-785",
-      "title": "背後位肏到學生妹生癡漢電車",
+      "id": 14190,
+      "IDcode": "NACR-809",
+      "title": "一切烦恼交给安倍爱-あべ蓝",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2016-02-18",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230401-39/1863a7f259d23b02999183c23c406f39.jpg",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/cd13402a89994874568f11b4f00d5aa9.jpg",
       "actress": [
-        "南梨央奈",
         "安部藍",
-        "篠田优",
-        "白石悠"
+        "まーち"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-785"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-809"
+    },
+    {
+      "id": 10828,
+      "IDcode": "BKD-343",
+      "title": "母子交尾～奥利根湖路～ あべ藍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RUBY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba9b11006939637673f6ce/cover.jpg",
+      "actress": [
+        "安部藍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-343"
+    },
+    {
+      "id": 7638,
+      "IDcode": "HUNTC-146",
+      "title": "姉の友達がエロ過ぎる！至近距離に姉がいるにも関わらず巨乳密着中出しOKでボクを誘惑！するとその様子に気づいた姉も密かに発情して追撃近親相姦！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d643dcdd88d14f0609d7a9/cover.jpg",
+      "actress": [
+        "通野未帆",
+        "泉莉音",
+        "咲野瑞希",
+        "安部藍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-146"
     }
   ]
 };

@@ -46,136 +46,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230831/e555716e-89b4-46a4-a479-e792571485cd.jpg",
     "https://picture.yoshiclub.xyz/20230831/692e418f-9db4-4647-9003-89a1fabb67cb.jpg"
   ],
-  "works_count": 18,
+  "works_count": 26,
   "related_dramas": [
-    {
-      "id": 2391,
-      "IDcode": "START-384",
-      "title": "瘋狂痙攣高潮！絕頂開發性交極限潛能的實驗片！【豹變・崩壞・覺醒】子宮超敏感潮噴SPECIAL ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210850544544_80009_thumbnail.webp",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-384"
-    },
-    {
-      "id": 4431,
-      "IDcode": "SDHS-063",
-      "title": "夜店泳池酒吧被爆乳御姊誘惑調戲的刺激故事 ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714004948730730_35406_thumbnail.webp",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDHS-063"
-    },
-    {
-      "id": 6548,
-      "IDcode": "START-288",
-      "title": "首次吞精解禁！19發深喉口爆加連續激戰硬核10P亂交大片 ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/2b8b6a93-7066-48ef-aa65-5a20cd52a764_thumbnail.webp",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-288"
-    },
-    {
-      "id": 7449,
-      "IDcode": "START-266",
-      "title": "大亂交解禁！25根肉棒連續野獸活塞的超狂高潮SEX+19發濃精狂噴SPECIAL！！ ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20250317/2025031722502300.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-266"
-    },
-    {
-      "id": 8181,
-      "IDcode": "START-254",
-      "title": "擅長把鄰居那根永不滿足的雞巴搞到天天硬！永無止境的 PtoM 射精管理太爽了，讓鄰居都和女友分手了！ ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250217/3cd2ce0d-e73b-430c-a3a1-62799b53e6bf.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-254"
-    },
-    {
-      "id": 9635,
-      "IDcode": "START-212",
-      "title": "修學旅行時，平時嚴肅的爆乳老師露出了真面目。和爆乳教師二泊三日的10發中出射精中出之旅 ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241224/39ab86ae-1f9b-44e4-85a4-399e3641149d.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-212"
-    },
-    {
-      "id": 10516,
-      "IDcode": "START-191",
-      "title": "被完全調教的爆乳女，你可以讓她做任何事情 ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241119/0f541c1c-b2a6-4ec6-91d3-53d9689357c4.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-191"
-    },
-    {
-      "id": 13055,
-      "IDcode": "START-112",
-      "title": "過年回家團聚時，向小時候青梅竹馬的戀渕桃菜坦白了，她長大了變的性感了。和青梅竹馬的內射練習 ~ 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20240730/77ec1946-cdc6-4225-a497-9616a96d6de9.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-112"
-    },
     {
       "id": 13755,
       "IDcode": "START-004",
@@ -183,8 +55,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-07-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240625/fdf54c67-eeda-4a68-a224-7b3b1fb7efa3.jpg",
       "actress": [
@@ -199,8 +71,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-06-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240528/79f066b3-2f00-4c0c-8ddd-72f5b1c84b40.jpg",
       "actress": [
@@ -209,45 +81,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-037"
     },
     {
-      "id": 15103,
-      "IDcode": "START-063",
-      "title": "順從的淫蕩溫泉之旅 戀渕桃菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-05-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240430/3b1e307e-50f8-4614-b774-d21b96cb15cb.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-063"
-    },
-    {
-      "id": 15675,
-      "IDcode": "START-042",
-      "title": "巨乳酒吧女孩戀渕桃菜，用巨乳引誘男人，然後讓他射在體內 ~ 戀渕ももな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240402/20240402020546681681.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-042"
-    },
-    {
       "id": 17063,
       "IDcode": "STARS-960",
       "title": "初次醫師騷擾健康檢查 戀渕桃菜（24歲），雖然因變態醫師的猥褻檢查而痛苦，但還是忍著顫抖的聲音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231226/202312260522473030.jpg",
@@ -263,7 +103,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-12-21",
       "cover_url": "https://picture.yoshiclub.xyz/20231128/20231128021359983983.jpg",
@@ -273,45 +113,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-953"
     },
     {
-      "id": 18077,
-      "IDcode": "STARS-914",
-      "title": "住在隔壁房間毫無防備的巨乳的巨乳白領太色情了…入室盜竊、立即強姦、強烈中出禁閉、小淵百奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20231101/20231101000258911911.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-914"
-    },
-    {
-      "id": 18552,
-      "IDcode": "STARS-833",
-      "title": "24的戀渕在箱根溫泉泡湯時被問到是否願只帶一條毛巾去男湯泡",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-10-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926034411548548.jpg",
-      "actress": [
-        "戀渕桃菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-833"
-    },
-    {
       "id": 18882,
       "IDcode": "STARS-906",
       "title": "O罩杯超巨乳美女風俗店体験入店 甜佐渡店,花魁妓风俗,SM 俱樂部",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-09-21",
       "cover_url": "https://picture.yoshiclub.xyz/20230830/20230830085544110110.jpg",
@@ -323,18 +131,339 @@ window.actressData = {
     {
       "id": 89315,
       "IDcode": "STARS-869",
-      "title": "際どいグラビアアイドルをしてた経歴を内定先にバラすと脅されて、大嫌いな店長のいいなりに・・・ 恋渕ももな",
+      "title": "性感模特兒-戀渕桃菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-06-22",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "戀渕桃菜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-869"
+    },
+    {
+      "id": 18552,
+      "IDcode": "STARS-833",
+      "title": "只带毛巾进入男浴池-恋渕桃菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/15/67fdeee4cf22ae3e042c5042/cover.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-833"
+    },
+    {
+      "id": 18077,
+      "IDcode": "STARS-914",
+      "title": "住在隔壁房間毫無防備的巨乳的巨乳白領太色情了…入室盜竊、立即強姦、強烈中出禁閉、小淵百奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67893d6189def9b1b8096227/cover.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-914"
+    },
+    {
+      "id": 16522,
+      "IDcode": "STARS-992",
+      "title": "足以让胸部麻木的爽度-恋渕桃菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240131/9193a380-56f6-4425-b0c1-7088cb181f03.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-992"
+    },
+    {
+      "id": 15675,
+      "IDcode": "START-042",
+      "title": "爆乳O罩杯诱惑男人俘虏-恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240402/20240402020546681681.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-042"
+    },
+    {
+      "id": 15103,
+      "IDcode": "START-063",
+      "title": "順從的淫蕩溫泉之旅 戀渕桃菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a1b99ac813dc779d96036/cover.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-063"
+    },
+    {
+      "id": 13055,
+      "IDcode": "START-112",
+      "title": "我回家过年期期间-恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240730/77ec1946-cdc6-4225-a497-9616a96d6de9.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-112"
+    },
+    {
+      "id": 12403,
+      "IDcode": "START-165",
+      "title": "肉感十足的身材-戀渕桃菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788b46e30833b4bf53bd10d/cover.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-165"
+    },
+    {
+      "id": 11025,
+      "IDcode": "START-177",
+      "title": "おとなりのだらしなお姉さんに慰められる話 恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241029/dd09bf97-f35d-498b-b1cc-2f2d2a766598.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-177"
+    },
+    {
+      "id": 10516,
+      "IDcode": "START-191",
+      "title": "这个爆乳女子已经被驯服-恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878b428daf6b1db43c2ca8/cover.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-191"
+    },
+    {
+      "id": 9635,
+      "IDcode": "START-212",
+      "title": "修学旅行でぼっち行動してた僕に同情し真面目な爆乳先生がこっそりヌイてくれた10発射精の宿泊記録。 恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241224/39ab86ae-1f9b-44e4-85a4-399e3641149d.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-212"
+    },
+    {
+      "id": 8945,
+      "IDcode": "START-231",
+      "title": "究極の着衣爆乳ラッキースケベ5シチュエーション 無意識エロスに欲情して超HARDピストンが止まらない。 恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8e87a7f3b7c929073be93/cover.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-231"
+    },
+    {
+      "id": 8181,
+      "IDcode": "START-254",
+      "title": "隣人の絶倫チ○ポをからかい上手な恋渕さんの終わらない無限PtoM射精管理がヤバすぎて彼女と別れることになりました。 恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250217/3cd2ce0d-e73b-430c-a3a1-62799b53e6bf.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-254"
+    },
+    {
+      "id": 7449,
+      "IDcode": "START-266",
+      "title": "大乱交解禁！25本チ●ポの連続ケダモノピストンでのSUPER大絶頂SEX＆19発ぶっかけ SPECIAL！！ 恋渕ももな【特典映像収録版】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250317/2025031722502300.jpg",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-266"
+    },
+    {
+      "id": 6548,
+      "IDcode": "START-288",
+      "title": "口爆19次射精到深喉阴道和连续性爱硬活塞10P群交特别版-恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/2b8b6a93-7066-48ef-aa65-5a20cd52a764_thumbnail.webp",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-288"
+    },
+    {
+      "id": 5785,
+      "IDcode": "START-299",
+      "title": "彼氏の相談していた憧れのバリキャリ女上司に、偏愛レズNTR（寝取られ）ました。 恋渕ももな 大槻ひびき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526105545395395_thumbnail.webp",
+      "actress": [
+        "大槻响",
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-299"
+    },
+    {
+      "id": 5053,
+      "IDcode": "START-322",
+      "title": "超级乳交解禁-恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204633434434_thumbnail.webp",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-322"
+    },
+    {
+      "id": 4431,
+      "IDcode": "SDHS-063",
+      "title": "ナイトプールバーで爆乳お姉さんに誘惑痴女されたお話。 恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDHS-063"
+    },
+    {
+      "id": 4033,
+      "IDcode": "START-375",
+      "title": "「ゴムをつけてといいましたよね…」販売数約10万ダウンロード超えの超人気作完全実写化！！！ 恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203351754754_54370_thumbnail.webp",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-375"
+    },
+    {
+      "id": 3256,
+      "IDcode": "START-329",
+      "title": "恋渕ももな 初めての童貞筆おろし。女性慣れしてない【らぶちーず】を爆乳Oカップで優しく包んでリードえっち。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212143440440_39367_thumbnail.webp",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-329"
+    },
+    {
+      "id": 2391,
+      "IDcode": "START-384",
+      "title": "痙攣トランス状態！エビ反り絶頂開発ドキュメント！！【豹変・崩壊・覚醒】子宮高感度イキ過ぎSPECIAL 恋渕ももな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "戀渕桃菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-384"
     }
   ]
 };

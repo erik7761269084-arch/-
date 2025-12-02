@@ -54,87 +54,249 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240905/6e6e1e13-5c15-4d65-b0b4-bbd0bfbedaf7.jpg",
     "https://picture.yoshiclub.xyz/20240905/09a07dd1-3ad8-416d-b435-79f2e235763d.jpg"
   ],
-  "works_count": 5,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 2355,
-      "IDcode": "ABF-273",
-      "title": "便利店打工的文系小妹被中年店長寢取，陷入粘着性高溼度無聲性愛 ~ 釋愛麗絲",
+      "id": 6518,
+      "IDcode": "DLV-004",
+      "title": "新・絕對美少女，上門給你玩 ACT.120 ~ 釋愛麗絲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "蚊香社",
-      "publish_date": "2025-10-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002022904423423_73385_thumbnail.webp",
+      "publish_date": "2025-04-14",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/2f2ada67-794c-4011-b6ba-69018095d431_thumbnail.webp",
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-004"
     },
     {
-      "id": 4010,
-      "IDcode": "ABF-254",
-      "title": "無套中出內射解禁的極致快感 ~ 釋愛麗絲",
+      "id": 7754,
+      "IDcode": "ABF-207",
+      "title": "全裸日常 vol.04 ~ 釋愛麗絲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-08-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731022149721721_88658_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2025-03-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20250306/7cfba2e1-6277-4c2b-905b-1ef13e87bc1f.jpg",
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-207"
     },
     {
-      "id": 4792,
-      "IDcode": "ABF-244",
-      "title": "無理NTR墮落記：清純女教師被變態同事玩壞 ~ 釋愛麗絲",
+      "id": 9462,
+      "IDcode": "ABF-187",
+      "title": "愛液的天然成分由來 120% 85 ~ 釋愛麗絲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703051836407407_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2025-01-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20250102/202501021058147979.jpg",
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-187"
+    },
+    {
+      "id": 12229,
+      "IDcode": "GNI-005",
+      "title": "黄金的9头身-释爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240905/4cdeeef7-10a1-4446-be1a-a25d03251c89.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-005"
+    },
+    {
+      "id": 11537,
+      "IDcode": "ABF-158",
+      "title": "脸部射精的美学-释アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/015864768c1d7e6828a87265fb8a850f.jpg",
+      "actress": [
+        "釋愛麗絲",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-158"
+    },
+    {
+      "id": 11000,
+      "IDcode": "ABF-169",
+      "title": "美少女包场温泉与浓密性交-释爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/3649415972bf6864118003800ddacb33.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-169"
+    },
+    {
+      "id": 10202,
+      "IDcode": "ABF-178",
+      "title": "風俗タワー 性感フルコース ACT.46 釈アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787f8da5d57b64bfd1a60e3/cover.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-178"
+    },
+    {
+      "id": 9242,
+      "IDcode": "VEC-679",
+      "title": "同窓会W不倫セックス 初めて付き合った昔の彼女と十数年ぶりに再会した俺は大人のオンナになって成熟した人妻の肉体に何度もむしゃぶりついた 名取沙雪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250110/5b4339eb-81f2-4c7e-b4f7-31f211f46f0a.jpg",
+      "actress": [
+        "釋愛麗絲",
+        "名取沙雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-679"
+    },
+    {
+      "id": 8718,
+      "IDcode": "ABF-196",
+      "title": "絶頂ランジェリーナ 釈アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/474d520b-d0b8-45e4-994b-fdcfd9c0ac0d.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-196"
     },
     {
       "id": 7088,
       "IDcode": "ABF-216",
-      "title": "傲嬌OL的「抖M屬性」大覺醒 ~ 釋愛麗絲",
+      "title": "霸道OL的M属性觉醒-釈爱丽丝",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-04-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/e19171d0-db43-4215-b46e-dc4566f0f467.jpg",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f278ba4e7d663df48f0735/cover.jpg",
       "actress": [
         "釋愛麗絲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-216"
     },
     {
-      "id": 11000,
-      "IDcode": "ABF-169",
-      "title": "美少女、私人溫泉、濃密性交。 27 ~ 釋愛麗絲",
+      "id": 5748,
+      "IDcode": "ABF-234",
+      "title": "素人くんと丸1日2人きり。 釈アリス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-10-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20241031/9d38dc38-43b3-47b6-a2b1-c04730e14895.jpg",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529041945867867_thumbnail.webp",
       "actress": [
         "釋愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-234"
+    },
+    {
+      "id": 4792,
+      "IDcode": "ABF-244",
+      "title": "违背伦理的NTR-釈爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250714-1/639165747e693842bfd0dd6ecf228666.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-244"
+    },
+    {
+      "id": 4010,
+      "IDcode": "ABF-254",
+      "title": "釈アリス なまなかだし",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/63f28ad8407b8592821acaf77fc2ebd9.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-254"
+    },
+    {
+      "id": 3222,
+      "IDcode": "ABF-263",
+      "title": "啃食新职员的肉棒工作能力与美貌皆完美的美女前辈-释爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b6cd082ee23a639b164cae/cover.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-263"
+    },
+    {
+      "id": 2355,
+      "IDcode": "ABF-273",
+      "title": "沉溺于中年男人黏腻性爱的朴素文学少女在唇舌交缠-釈爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/27/048e92cfdd1cdc465fbbfd79e109c19d.jpg",
+      "actress": [
+        "釋愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-273"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "丸山れおな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 93628,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2024-05-20",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241016-1/2c88235766a6c5f588959b590a7021d5.jpg",
       "actress": [
         "長谷川玲",
         "并木杏梨",
@@ -43,7 +43,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-20",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/1a7d1997bff45f564f9725382e787592.jpg",
@@ -66,10 +66,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2019-12-27",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230105-1/899116fd8ab0d0b94739c13ac52920d5.jpg",
       "actress": [
         "推川悠里",
         "绀野光",
@@ -89,8 +89,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/bb721e8812ebdf27fc5f1c8f807e8fb2.jpg",
       "actress": [
@@ -104,6 +104,28 @@ window.actressData = {
         "ARIA"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-250"
+    },
+    {
+      "id": 99374,
+      "IDcode": "AVOP-320",
+      "title": "ビビアンズが衝撃の卒業発表！？ 業界内外から大集結！！ビビアンズ争奪ファン感謝祭！！～最強のビビアンズ好きレズビアンは誰だ！？～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-09-01",
+      "cover_url": "",
+      "actress": [
+        "葵玲奈",
+        "蓮実クレア",
+        "椎名空",
+        "小谷みのり",
+        "樱美雪",
+        "片桐Eririka, 片桐えりりか",
+        "丸山れおな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-320"
     }
   ]
 };

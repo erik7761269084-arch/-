@@ -50,8 +50,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623085401540540_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623085401582582_l.webp"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 5073,
+      "IDcode": "NSFS-395",
+      "title": "AI重製版 心愛的妻子被寝取 名作永久珍藏版271分鐘 ~ 仓木澪 黒木唯香 笠木忍 青木美空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081435540540_thumbnail.webp",
+      "actress": [
+        "笠木忍",
+        "青木美空",
+        "仓木澪",
+        "黒木唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-395"
+    },
     {
       "id": 89609,
       "IDcode": "SAN-196",
@@ -59,7 +78,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e24da32b55c8b2e11fb51ebeffc577d7.jpg",
@@ -78,7 +97,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-10-31",
       "cover_url": "",
@@ -97,7 +116,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-10-31",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/0c452c5e3d2e87121c99fc2d8a861b82.jpg",
@@ -111,16 +130,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-186"
     },
     {
-      "id": 77738,
-      "IDcode": "MCSR-355",
-      "title": "今日妻が浮気します 秋 4時間10人",
+      "id": 82813,
+      "IDcode": "NAGE-001",
+      "title": "「若かりし頃の妻によく似た美女との純愛」",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2019-09-28",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-10-18",
       "cover_url": "",
+      "actress": [
+        "青木美空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAGE-001"
+    },
+    {
+      "id": 77738,
+      "IDcode": "MCSR-355",
+      "title": "今日妻が浮気します秋4時間10人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/acc2dcbd4c12f462954ea12d711f81c5.jpg",
       "actress": [
         "風間由美",
         "新山枫",
@@ -132,22 +167,6 @@ window.actressData = {
         "立花みずき"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-355"
-    },
-    {
-      "id": 82813,
-      "IDcode": "NAGE-001",
-      "title": "「若かりし頃の妻によく似た美女との純愛」",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2012-10-18",
-      "cover_url": "",
-      "actress": [
-        "青木美空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAGE-001"
     }
   ]
 };

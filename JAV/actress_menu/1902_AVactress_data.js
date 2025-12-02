@@ -32,30 +32,14 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 93588,
-      "IDcode": "NPJS-051",
-      "title": "港区界隈の社長さん御用達 お金もチ〇ポも頂き女子！ 美スタイルパパ活愛人（オレもハメた笑）をヤリチン友達に紹介してガチハメ中出し",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2024-07-02",
-      "cover_url": "",
-      "actress": [
-        "筒井愛彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-051"
-    },
-    {
       "id": 13916,
       "IDcode": "PRST-012",
       "title": "新人筒井愛彩AV出道，身高170cm，清秀美貌，身材出衆，是令男人着迷的性感女人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-06-18",
       "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614021124925925.jpg",
       "actress": [
@@ -64,6 +48,22 @@ window.actressData = {
         "ハメ鳥の人"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-012"
+    },
+    {
+      "id": 93588,
+      "IDcode": "NPJS-051",
+      "title": "黑丝大长腿-筒井愛彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "筒井愛彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-051"
     }
   ]
 };

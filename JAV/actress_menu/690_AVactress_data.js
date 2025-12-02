@@ -41,35 +41,139 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240727/c62aacbe-f22d-40cf-9ca3-3d6e025e32e7.jpg",
     "https://picture.yoshiclub.xyz/20240727/4fea564d-8a2b-4c6b-a65a-8e5eb49d138b.jpg"
   ],
-  "works_count": 4,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 4079,
-      "IDcode": "EMSK-027",
-      "title": "乳頭快感大師帶你爽翻天 ~ 成宮彩葉",
+      "id": 5244,
+      "IDcode": "NMEX-006",
+      "title": "多射一點啦！熟女人妻一邊熱吻一邊用口技和手活榨乾你！30位人妻23次爆發 ~ 武藤彩香 塚田詩織 成宮彩葉 峰田奈奈美 赤瀨尚子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
-      "publish_date": "2025-07-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/20250726223618358358_35825_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-14",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617121227920920_thumbnail.webp",
       "actress": [
+        "塚田詩織",
+        "武藤彩香",
+        "赤瀬尚子",
         "成宮彩葉",
+        "峰田奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMEX-006"
+    },
+    {
+      "id": 8020,
+      "IDcode": "HMIX-042",
+      "title": "傳統系作品大合集 被擒後陷入屈辱而又快樂酷弄拷問的美人女忍者 10人 4小時 ~ 羽月希 翔田千裏 小早川憐子 成宮彩葉 川上優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "G.M.E",
+      "publish_date": "2025-02-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250223/7aa3a3ff-61f7-445a-8ba0-4c1ab78fa0bb.jpg",
+      "actress": [
+        "小早川怜子",
+        "塚田詩織",
+        "風間由美",
+        "川上優",
+        "翔田千里",
+        "成宮彩葉",
+        "妃月るい",
+        "羽月希",
+        "伊织凉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMIX-042"
+    },
+    {
+      "id": 8761,
+      "IDcode": "NASK-185",
+      "title": "母親的大屁股 被兒子強奸，出汗的巨尻誘惑了親子 禁斷近親相奸亂倫 - 6女優4小時 合集 ~ 翔田千裏 山口珠裏 伊織涼子 岡井凜 成宮彩葉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-01-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20250127/bf5c83d8-38f9-447f-b8f9-ac2e991a12b1.jpg",
+      "actress": [
+        "翔田千里",
+        "岡江凛",
+        "成宮彩葉",
+        "伊织凉子",
+        "山口珠理"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-185"
+    },
+    {
+      "id": 13084,
+      "IDcode": "ODVHJ-051",
+      "title": "本番OK！ ？人妻回春按摩沙龍Ⅲ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-07-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240727/a91b33c7-6e2d-46e1-a212-0f380b3e92a4.jpg",
+      "actress": [
+        "稲森美憂",
+        "五十嵐美月",
+        "成宮彩葉",
+        "花芽有朱",
         "成宫いろは"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMSK-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
+    },
+    {
+      "id": 13085,
+      "IDcode": "MDVHJ-106",
+      "title": "永遠不能告訴丈夫，我被公公操了......合集4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43892dbf24d4ed3012e65/cover.jpg",
+      "actress": [
+        "宮西光",
+        "水端麻美",
+        "稲森美憂",
+        "成宮彩葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-106"
+    },
+    {
+      "id": 9178,
+      "IDcode": "ALDN-409",
+      "title": "妻子的朋友突然说可以生插-成宫彩叶",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250112/40db043f-9011-4a86-a5a7-1ae25b41f92f.jpg",
+      "actress": [
+        "成宮彩葉",
+        "成宫いろは",
+        "トンガ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-409"
     },
     {
       "id": 7999,
       "IDcode": "NSFS-363",
-      "title": "委身老人的愛妻！她們現在只愛老頭.... 大合集 8名女優永久保存版 ~ 水原さな 葵千恵 西條沙羅 荒井由香利 たかせ由奈 篠惠美 成宮彩葉",
+      "title": "老人に身を委ねた妻！ もう老人しか愛せない。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-02-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250223/5bd50d32-bf65-4397-b129-e714ec288525.jpg",
       "actress": [
         "篠惠美",
@@ -85,42 +189,59 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-363"
     },
     {
-      "id": 9178,
-      "IDcode": "ALDN-409",
-      "title": "人妻和丈夫的朋友無套中出 ~ 成宮彩葉",
+      "id": 4688,
+      "IDcode": "NSFS-399",
+      "title": "愛する夫のため、私が一度だけ我慢すれば…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250112/40db043f-9011-4a86-a5a7-1ae25b41f92f.jpg",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705113254631631_thumbnail.webp",
       "actress": [
         "成宮彩葉",
-        "成宫いろは",
-        "トンガ"
+        "富田优衣",
+        "若槻みづな",
+        "一条綺美香",
+        "名森さえ",
+        "高嶋亜美",
+        "平野里実"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-409"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-399"
     },
     {
-      "id": 13084,
-      "IDcode": "ODVHJ-051",
-      "title": "本番OK！ ？人妻回春按摩沙龍Ⅲ",
+      "id": 4079,
+      "IDcode": "EMSK-027",
+      "title": "チクビ快感伝道師 成宮いろは",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2024-07-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20240727/a91b33c7-6e2d-46e1-a212-0f380b3e92a4.jpg",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/20250726223618358358_35825_thumbnail.webp",
       "actress": [
-        "稲森美憂",
-        "五十嵐美月",
         "成宮彩葉",
-        "花芽有朱",
         "成宫いろは"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMSK-027"
+    },
+    {
+      "id": 2415,
+      "IDcode": "DFE-106",
+      "title": "性感暴発エビ反りアクメサロン 成宮いろは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "成宮彩葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-106"
     }
   ]
 };

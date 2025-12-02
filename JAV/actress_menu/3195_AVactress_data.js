@@ -4,7 +4,7 @@ window.actressData = {
   "name": "北川真由香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,40 +19,16 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 2507,
-      "IDcode": "NSFS-418",
-      "title": "職權濫用 老婆被渣上司搶走 ~ 加藤綾乃 飯山香織 聖妃羽里 卯水咲流 春明潤 北川真由香 三尾惠",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/202509190706429595_78448_thumbnail.webp",
-      "actress": [
-        "加藤あやの",
-        "聖妃羽里",
-        "卯水咲流",
-        "三尾惠",
-        "飯山香織",
-        "北川真由香",
-        "春明润",
-        "饭山香织",
-        "舞原圣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
-    },
-    {
       "id": 95192,
       "IDcode": "KSBJ-344",
       "title": "クチュクチュ音を立て、ビクビクとイキまくる美熟女のオナニー21連発！！VOL.04",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2024-11-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251002-1/64ccaff7a172b348606107326d297c00.jpg",
       "actress": [
         "佐々木咲和",
         "青木玲",
@@ -74,10 +50,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2024-07-10",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/a45276ae8c04f110ffa40f5fd23d8bd1.jpg",
       "actress": [
         "田中寧寧",
         "葵百合香",
@@ -92,32 +68,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-094"
     },
     {
-      "id": 67785,
-      "IDcode": "HBAD-635",
-      "title": "あぁ硬いのが欲しい！！熟した躰の年上女房溢れ出る性的願望 北川真由香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2022-10-06",
-      "cover_url": "",
-      "actress": [
-        "北川真由香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-635"
-    },
-    {
       "id": 69381,
       "IDcode": "NACX-151",
-      "title": "- 巨乳輪熟女10人BEST （BOD） - JAV目錄大全javmenu.com",
+      "title": "巨乳輪熟女10人BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/f5650939/vod.jpg",
+      "cover_url": "",
       "actress": [
         "武藤彩香",
         "谷梓",
@@ -130,6 +90,46 @@ window.actressData = {
         "青木りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-151"
+    },
+    {
+      "id": 67785,
+      "IDcode": "HBAD-635",
+      "title": "成熟身体的性欲-北川真由香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/01/68631b7a3ed39b57c041d9a1/cover.jpg",
+      "actress": [
+        "北川真由香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-635"
+    },
+    {
+      "id": 2507,
+      "IDcode": "NSFS-418",
+      "title": "職権乱用 ゲスな上司に妻が寝取られた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "加藤あやの",
+        "聖妃羽里",
+        "卯水咲流",
+        "三尾惠",
+        "飯山香織",
+        "北川真由香",
+        "春明润",
+        "饭山香织",
+        "舞原圣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-418"
     }
   ]
 };

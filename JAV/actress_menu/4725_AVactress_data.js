@@ -25,29 +25,13 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 88171,
-      "IDcode": "ONSG-033",
-      "title": "巨乳デリヘル 悠月アイシャ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Gain Corporation",
-      "publish_date": "2021-03-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/8edb35f390c80d3fc762267848681590.jpg",
-      "actress": [
-        "悠月アイシャ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-033"
-    },
-    {
       "id": 81960,
       "IDcode": "PYM-330",
       "title": "ノンストップ絶対止めるな！！ 無限絶頂イカセ痙攣電マ 割れ目クッキリ21人全員イキ潮まみれ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-15",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/debc95ee87f2606cafdea858e5d75c8d.jpg",
@@ -61,34 +45,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-330"
     },
     {
-      "id": 77351,
-      "IDcode": "SDDE-601",
-      "title": "潜入！ メス獣ナイトサファリ ―男性器をヴァギナで喰らうケモノに襲われる恐怖パニック映像―",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-11-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241119-1/834eefe44f3cc2b9fbd7b2016097786d.jpg",
-      "actress": [
-        "冬爱琴音",
-        "优木なお",
-        "悠月アイシャ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-601"
-    },
-    {
       "id": 90059,
       "IDcode": "RCTD-042",
       "title": "マジックミラー号 ハロウィン仮装ギャルナンパin渋谷2017",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2017-11-02",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/6eb8f3d82d9f7929d249ef5fd57fd50a.jpg",
       "actress": [
         "MIRANO",
         "桜アン",
@@ -96,6 +62,40 @@ window.actressData = {
         "一ノ瀬夏摘"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
+    },
+    {
+      "id": 88171,
+      "IDcode": "ONSG-033",
+      "title": "巨乳デリヘル 悠月アイシャ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Gain Corporation",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8387bd4c9a95364df855435a3fef5835.jpg",
+      "actress": [
+        "悠月アイシャ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-033"
+    },
+    {
+      "id": 77351,
+      "IDcode": "SDDE-601",
+      "title": "潜入！ メス獣ナイトサファリ ―男性器をヴァギナで",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b7a80135b3832c2cb5ce40a887c066f2.jpg",
+      "actress": [
+        "冬爱琴音",
+        "优木なお",
+        "悠月アイシャ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-601"
     }
   ]
 };

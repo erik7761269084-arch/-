@@ -39,40 +39,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250401/7d07c340-b69d-4da1-a318-c07fddfd31f8.jpg",
     "https://picture.yoshiclub.xyz/20250401/f3e7cf38-5a5d-4ed6-b152-0ea05d1e9b08.jpg"
   ],
-  "works_count": 4,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 3057,
-      "IDcode": "SDJS-328",
-      "title": "SOD女子社員的周末私人約會被幹的嗨翻了 ~ 鬆永明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250901/20250901213621528528_86871_thumbnail.webp",
-      "actress": [
-        "松永明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-328"
-    },
-    {
-      "id": 3857,
-      "IDcode": "SDJS-325",
-      "title": "【業務命令】學會奉仕！5種Cosplay接待（有爽到）學生妹 兔女郎 護士 田徑妹 魅魔 宣傳部 ~ 松永明里",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250805/afda9b80-4f64-4cc3-ba52-bbcea74b3a5e_thumbnail.webp",
-      "actress": [
-        "松永明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-325"
-    },
     {
       "id": 66560,
       "IDcode": "SDJS-309",
@@ -80,30 +48,110 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-06-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd6486006939637678ca92/cover.jpg",
       "actress": [
         "松永明里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-309"
     },
     {
-      "id": 5601,
-      "IDcode": "SDJS-314",
-      "title": "SOD宣傳部新人 巨根捆綁猛烈衝刺 蒙眼4P高潮絕頂 用我的小穴證明我的能力！ ~ 鬆永あかり",
+      "id": 7106,
+      "IDcode": "SDJS-304",
+      "title": "宣伝部 松永あかり 初AV出演",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-06-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602233624479479_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250401/1a8eafb5-b2d7-4794-ad03-552699b198cf.jpg",
+      "actress": [
+        "松永明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-304"
+    },
+    {
+      "id": 5601,
+      "IDcode": "SDJS-314",
+      "title": "宣伝部 松永あかり デカチン 拘束 激ピス 目隠し 4P イカセものはガチです！私のおま×こで証明します！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1ae2f735bb663f762e599/cover.jpg",
       "actress": [
         "松永明里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-314"
+    },
+    {
+      "id": 4820,
+      "IDcode": "SDJS-319",
+      "title": "【業務命令】顔面射精15発を受け止めろ！宣伝部 松永あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630230053486486_thumbnail.webp",
+      "actress": [
+        "松永明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-319"
+    },
+    {
+      "id": 3857,
+      "IDcode": "SDJS-325",
+      "title": "【業務命令】ご奉仕を学べ！5コスプレ接待（ヌキあり）学生 バニーガール ナース - 松永あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250805/afda9b80-4f64-4cc3-ba52-bbcea74b3a5e_thumbnail.webp",
+      "actress": [
+        "松永明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-325"
+    },
+    {
+      "id": 3057,
+      "IDcode": "SDJS-328",
+      "title": "松永あかり 休日デート in お台場batch",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250901/20250901213621528528_86871_thumbnail.webp",
+      "actress": [
+        "松永明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-328"
+    },
+    {
+      "id": 2187,
+      "IDcode": "SDJS-332",
+      "title": "平日のオフィスで大公開ドクハラ健康診断 宣伝部 松永あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "松永明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-332"
     }
   ]
 };

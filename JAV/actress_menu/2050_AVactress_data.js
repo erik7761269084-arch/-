@@ -33,16 +33,34 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 88232,
-      "IDcode": "STARS-231",
-      "title": "やっと食べごろのカラダになったね…子供の頃から知っているオジサンがある日突然、極悪レ○プ魔に… 和久井まりあ",
+      "id": 74405,
+      "IDcode": "STARS-100",
+      "title": "和久井まりあ SODstar AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-04-23",
-      "cover_url": "",
+      "publish_date": "2019-07-25",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/e0e2cd5adab72b4e0edb2ed2f1b46e15.jpg",
+      "actress": [
+        "和久井瑪麗亞",
+        "森林原人",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-100"
+    },
+    {
+      "id": 88232,
+      "IDcode": "STARS-231",
+      "title": "可爱的女高中生-和久井まりあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/f0d4f8aa67b8abf893469de2c7c5f117.jpg",
       "actress": [
         "和久井瑪麗亞"
       ],
@@ -51,14 +69,14 @@ window.actressData = {
     {
       "id": 82853,
       "IDcode": "STARS-203",
-      "title": "男潮が吹いても純真無垢にしゃぶり続ける献身いいなりスプラッシュフェラ 和久井まりあ",
+      "title": "就算男人潮吹也继续纯真无邪的口交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-02-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/45afbd5307a2ef92768246d46502d600.jpg",
       "actress": [
         "和久井瑪麗亞"
       ],
@@ -71,10 +89,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-01-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bd2f818f98407acc915d5437f0ab2411.jpg",
       "actress": [
         "和久井瑪麗亞"
       ],
@@ -82,37 +100,19 @@ window.actressData = {
     },
     {
       "id": 1593,
-      "IDcode": "stars-172",
-      "title": "從順溫泉旅行 和久井瑪麗亞",
+      "IDcode": "STARS-172",
+      "title": "温泉旅行-和久井まりあ",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2019-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230331/e9205287-b195-4e3a-95f1-57a8c1023c94.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/812a1d12f2951582c62e56dde85542be.jpg",
       "actress": [
         "和久井瑪麗亞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=stars-172"
-    },
-    {
-      "id": 74405,
-      "IDcode": "STARS-100",
-      "title": "和久井まりあ SODstar AVデビュー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-07-25",
-      "cover_url": "",
-      "actress": [
-        "和久井瑪麗亞",
-        "森林原人",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-172"
     }
   ]
 };

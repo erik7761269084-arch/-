@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
-      "publish_date": "2017-07-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f78b64c319fc8d69f0a807d7fbcfd4d1.jpg",
       "actress": [
         "桜木エリナ"
       ],

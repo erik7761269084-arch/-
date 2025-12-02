@@ -4,7 +4,7 @@ window.actressData = {
   "name": "うららか丽",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,85 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 6363,
-      "IDcode": "MMPB-079",
-      "title": "全主觀口技精選集 快盯著我看！再讓我含深一點！百分百美女直視下狂射不停 ~ 出演女優：倉木詩織 天野彌生 持田栞里 AIKA 麗日麗 一之瀨戀 葉月蕾拉 星野真美 若山丸井 月宮寧寧",
+      "id": 81610,
+      "IDcode": "CJOD-234",
+      "title": "乳首責め騎乗位で調教射精させるホンモノ女王様’初’降臨 うららか麗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "2020-03-25",
+      "cover_url": "",
+      "actress": [
+        "鲛岛",
+        "うららか丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-234"
+    },
+    {
+      "id": 157819,
+      "IDcode": "259LUXU-1261",
+      "title": "ラグジュTV 1258 経験人数測定不能！？性に奔放な快楽主義者がAV出演！数え切",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/1e9518dccd6560df5b278689c6e0b378.jpg",
+      "actress": [
+        "うららか丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1261"
+    },
+    {
+      "id": 86127,
+      "IDcode": "SDMM-087",
+      "title": "橡塑自行车",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8f0915b6882aa3dc1ad131706625c894.jpg",
+      "actress": [
+        "神野藍",
+        "うららか丽",
+        "凑ひめか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-087"
+    },
+    {
+      "id": 81789,
+      "IDcode": "MIFD-107",
+      "title": "从加拿大归国的二十三岁混血美少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/ff5c0e7e84a9b5ea866294ef4947de0a.jpg",
+      "actress": [
+        "鲛岛",
+        "玉木玲",
+        "うららか丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-107"
+    },
+    {
+      "id": 6363,
+      "IDcode": "MMPB-079",
+      "title": "オール主観フェラチオベスト もっとワタシを見つめて！ もっと咥えさせて！ 100％美女に見つめられながらザーメン大量発射！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-05-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250507/20250507100217326326_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/483dba36198bbb51228788945824edab.jpg",
       "actress": [
         "AIKA",
         "倉木詩織",
@@ -44,75 +113,6 @@ window.actressData = {
         "椎木くるみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-079"
-    },
-    {
-      "id": 86127,
-      "IDcode": "SDMM-087",
-      "title": "アクメ自転車×ミラー号 プリ尻宅配女子限定！新型アクメチャリで漕げば漕ぐほどサドルについた極太ディルトが激ピストン！アナルをヒクつかせ公衆の面前でイキまくる大量潮吹き絶頂アクメ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2021-03-25",
-      "cover_url": "",
-      "actress": [
-        "神野藍",
-        "うららか丽",
-        "凑ひめか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-087"
-    },
-    {
-      "id": 86971,
-      "IDcode": "LUXU-1261",
-      "title": "ラグジュTV 1258 経験人数測定不能！？性に奔放な快楽主義者がAV出演！数え切れぬ男を魅了したフェラテク！セックスこそ私の生きがいと言わんばかりに恍惚の表情を浮かべ本能のまま乱れまくる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-05-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230411-41/02acc00706728911cd055669644ac8fe.jpg",
-      "actress": [
-        "うららか丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1261"
-    },
-    {
-      "id": 81610,
-      "IDcode": "CJOD-234",
-      "title": "乳首責め騎乗位で調教射精させるホンモノ女王様’初’降臨 うららか麗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-03-25",
-      "cover_url": "",
-      "actress": [
-        "鲛岛",
-        "うららか丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-234"
-    },
-    {
-      "id": 81789,
-      "IDcode": "MIFD-107",
-      "title": "名家の帰国子女！反抗期にタトゥーを入れちゃったクォーター美女が男をいじめたくてAVデビュー うららか麗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2020-03-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/828ec43770c9b0c39fed76a14b33952e.jpg",
-      "actress": [
-        "鲛岛",
-        "玉木玲",
-        "うららか丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-107"
     }
   ]
 };

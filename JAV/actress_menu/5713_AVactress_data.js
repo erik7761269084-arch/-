@@ -4,7 +4,7 @@ window.actressData = {
   "name": "辰巳ほまれ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91084,
       "IDcode": "JRZE-159",
-      "title": "初撮り人妻ドキュメント 辰巳ほまれ",
+      "title": "初次拍摄人妻-辰巳譽",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-08-17",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/c0a5fc006b8d21d3b5f865508981167a.jpg",
       "actress": [
         "タツ",
         "辰巳ほまれ"

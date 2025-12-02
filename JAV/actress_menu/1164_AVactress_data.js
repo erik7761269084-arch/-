@@ -42,19 +42,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231227/e918d35a-7d8c-494b-9c68-b739f20444de.jpg",
     "https://picture.yoshiclub.xyz/20231227/b870fcc6-8ab1-4de7-bcac-772a4af37f8e.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 2554,
-      "IDcode": "UMSO-612",
-      "title": "爆棚美少女！火箭巨乳美人12人 VOL.02 ~ 藤森裏穂 朝日凜 冨安玲於奈 樞木美栞 浜崎真緒 寶田萌奈美 鬆本菜奈実 乙葉可憐 淺田結梨 流川莉央 奏自由 白石鈴",
+      "id": 1055,
+      "IDcode": "HEYZO-1477",
+      "title": "操了一次又一次 盡情品嘗樞木美栞的味道",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-04-30",
+      "cover_url": "https://picture.yoshiclub.xyz/20231227/d8eea386-31b1-4a5b-9ac0-0a29e74fe7a0.jpg",
+      "actress": [
+        "樞木美栞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1477"
+    },
+    {
+      "id": 1018,
+      "IDcode": "HEYZO-1420",
+      "title": "潛入拍攝現場！原來如此。 。 。 ～哦，我也要被操嗎？ ~ - 樞木美栞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-03-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020738107107.jpg",
+      "actress": [
+        "樞木美栞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1420"
+    },
+    {
+      "id": 2554,
+      "IDcode": "UMSO-612",
+      "title": "主張が過ぎる圧倒的存在感！！ロケットおっぱい美女12人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250921/20250921065515917917_68784_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "浜崎真緒",
         "藤森里穂",
@@ -74,22 +106,6 @@ window.actressData = {
         "浅田结梨"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
-    },
-    {
-      "id": 1055,
-      "IDcode": "HEYZO-1477",
-      "title": "操了一次又一次 盡情品嘗樞木美栞的味道",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "HEYZO",
-      "publish_date": "2017-04-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20231227/d8eea386-31b1-4a5b-9ac0-0a29e74fe7a0.jpg",
-      "actress": [
-        "樞木美栞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1477"
     }
   ]
 };

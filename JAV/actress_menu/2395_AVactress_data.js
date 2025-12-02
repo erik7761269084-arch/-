@@ -52,16 +52,34 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 107161,
-      "IDcode": "SDDE-404",
-      "title": "性欲処理専門 セックス外来医院 9 真正中出し科 ひとりで50人の患者と生性交する人妻看護師の1日に密着！碧しの＋シリーズ初のBEST盤付き 2枚組",
+      "id": 97930,
+      "IDcode": "AP-129",
+      "title": "酔った女子の唇がボクの目の前1cm！！小、中、高と女性と全く接點がな第09集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-06-19",
+      "cover_url": "",
+      "actress": [
+        "南梨央奈",
+        "葵野真鈴",
+        "星咲优菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-129"
+    },
+    {
+      "id": 107161,
+      "IDcode": "SDDE-404",
+      "title": "性治疗专家性门诊",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2015-06-06",
-      "cover_url": "https://tutu1.space/images/2022/12/15/66a76f7b05d2db75ec81b63b84a1587b.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/acb8c1f1efcea6cab751d532f7323c30.jpg",
       "actress": [
         "篠惠美",
         "羽月希",
@@ -73,22 +91,6 @@ window.actressData = {
         "椿かなり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-404"
-    },
-    {
-      "id": 1540,
-      "IDcode": "KTSN-07",
-      "title": "讓我幹 葵野真凜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "TMA",
-      "publish_date": "2013-01-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20230401/20230401102853499499.jpg",
-      "actress": [
-        "葵野真鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTSN-07"
     }
   ]
 };

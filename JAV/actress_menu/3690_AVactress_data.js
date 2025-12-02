@@ -4,7 +4,7 @@ window.actressData = {
   "name": "あすお",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-06-27",
       "cover_url": "",
@@ -42,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-06-27",
       "cover_url": "",
@@ -53,32 +53,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-476"
     },
     {
-      "id": 90764,
-      "IDcode": "NACR-670",
-      "title": "オイルマニア 森下ことの パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-06-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240206-1/c3a089427c24b3bb4029c00d4e287782.jpg",
-      "actress": [
-        "あすお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-670"
-    },
-    {
       "id": 92975,
       "IDcode": "NACR-654",
-      "title": "パパ活美少女はちくび責めと全身ペロペロ愛撫が大好物！！ 森下ことの パンティと生写真付き",
+      "title": "援交美少女-森下琴乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2023-04-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240922-1/7b959c3ffadd796b83d052d7534809f7.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "あすお",
         "ひむろっく"
@@ -88,29 +72,63 @@ window.actressData = {
     {
       "id": 92973,
       "IDcode": "NACR-656",
-      "title": "逆バニーchan！ 悩殺凄テク美少女 小花のん パンティと生写真付き",
+      "title": "逆兔女郎醬！ 誘人超棒技巧美少女 小花暖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2023-04-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240922-1/0662e223680cd493055b6e09d058d793.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
+        "小花暖",
         "あすお"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-656"
     },
     {
-      "id": 68672,
-      "IDcode": "NACR-642",
-      "title": "突然の豪雨でズブ濡れ… 帰れなくなった憧れの家庭教師 美波もも パンティと生写真付き",
+      "id": 90764,
+      "IDcode": "NACR-670",
+      "title": "OILMANIA-森下琴乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2023-03-05",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240210-1/3ced59b50f45d1b4361b23e4972fc4e1.jpg",
+      "actress": [
+        "あすお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-670"
+    },
+    {
+      "id": 84620,
+      "IDcode": "GVH-457",
+      "title": "女婿干了卑猥巨乳丈母娘-真木今日子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/f4c6d973be32c89360de9a9309f23951.jpg",
+      "actress": [
+        "真木今日子",
+        "あすお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-457"
+    },
+    {
+      "id": 68672,
+      "IDcode": "NACR-642",
+      "title": "家庭教師-美波もも",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "あすお"
@@ -120,15 +138,16 @@ window.actressData = {
     {
       "id": 67813,
       "IDcode": "NACR-629",
-      "title": "NACR-629",
+      "title": "找乾爹美少女最愛玩奶頭和全身舔弄愛撫！！ 小花暖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2023-02-05",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
+        "小花暖",
         "あすお",
         "ひむろっく"
       ],
@@ -137,14 +156,14 @@ window.actressData = {
     {
       "id": 67055,
       "IDcode": "GVH-500",
-      "title": "GVH-500",
+      "title": "同居生活-浜崎真緒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2023-01-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/a7ccf06994b8e2ae2f9a272cdbc38c39.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/f710d63c9b959d68c939d10f921afc2b.jpg",
       "actress": [
         "浜崎真绪",
         "あすお"
@@ -152,33 +171,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-500"
     },
     {
-      "id": 84620,
-      "IDcode": "GVH-457",
-      "title": "嶽母淫亂巨乳真欠幹 真木今日子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2022-09-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230111-1/899a87b70696cb712144e92acad5d92a.jpg",
-      "actress": [
-        "真木今日子",
-        "あすお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-457"
-    },
-    {
       "id": 17701,
       "IDcode": "IPX-935",
-      "title": "與交友軟體配對的同公司人妻事務員翼1小時休息時間做愛幽會 與欲求不滿超下流人妻沒有後遺症馬上抽插短時間中出做愛的每一天。 天海翼",
+      "title": "已婚上班族-天海つばさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2022-09-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20231123/ce9e1ece-5fd8-44f6-8a31-e791fe1a6b9e.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/18f634d4b5750d49c5f52560579b26bd.jpg",
       "actress": [
         "天海翼",
         "あすお"

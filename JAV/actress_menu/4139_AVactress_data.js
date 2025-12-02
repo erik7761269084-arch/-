@@ -25,16 +25,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 98234,
-      "IDcode": "AUKB-093-",
-      "title": "内緒の浴室濡れ肌密着レズビアン240分",
+      "id": 515288,
+      "IDcode": "AUKB-093",
+      "title": "秘密浴室 湿润肌肤紧贴蕾丝爱240分钟",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-01-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/55b729b592fac5940daa6ca0f377b069.jpg",
       "actress": [
         "葵百合香",
         "武藤彩香",
@@ -47,7 +47,7 @@ window.actressData = {
         "あいだ飞鸟",
         "真山由夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093"
     },
     {
       "id": 71222,
@@ -56,10 +56,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-10-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6f99adaed9773820000deb2eef1b149a.jpg",
       "actress": [
         "神ユキ",
         "佐野葵",

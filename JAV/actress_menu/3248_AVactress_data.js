@@ -4,7 +4,7 @@ window.actressData = {
   "name": "愛瀬まりさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,32 +19,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 60918,
-      "IDcode": "TCD-308",
-      "title": "僕たちのお姉ちゃんはチ○ポが生えた自慢の美人ニューハーフ 愛瀬まりさ",
+      "id": 93683,
+      "IDcode": "OPPW-170",
+      "title": "美脚 愛瀬まりさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-08-12",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/4fdfa24d/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-07-23",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241015-1/6ae1f639e3b2c7d18d96768b8abb43f2.jpg",
       "actress": [
         "愛瀬まりさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-308"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-170"
     },
     {
       "id": 78554,
       "IDcode": "NVH-035",
-      "title": "男の娘ガールズバー！聖水、ザーメン飲み放題、超ハーレム4P SEX！ 愛瀬めい/橘芹那/愛瀬まりさ （BOD）",
+      "title": "男の娘ガールズバー！聖水、ザーメン飲み放題、超ハーレム4P SEX！ 愛瀬めい橘芹那愛瀬まりさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2024-11-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250924-1/30f6b9e61e9947afb164d75222d65266.jpg",
       "actress": [
         "橘芹那",
         "左慈半造",
@@ -54,20 +54,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-035"
     },
     {
-      "id": 93683,
-      "IDcode": "OPPW-170",
-      "title": "美脚 愛瀬まりさ",
+      "id": 60918,
+      "IDcode": "TCD-308",
+      "title": "僕たちのお姉ちゃんはチ○ポが生えた自慢の美人ニューハーフ 愛瀬まりさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2024-07-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689aca8755337d7f7be48f8a/cover.jpg",
       "actress": [
         "愛瀬まりさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-170"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCD-308"
     }
   ]
 };

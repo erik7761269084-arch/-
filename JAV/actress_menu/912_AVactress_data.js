@@ -40,51 +40,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250417/58b43f8d-8e33-4d4f-b6e5-b949a0efa3d9_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250417/95cada68-4e88-46ee-89b6-27769f837301_l.webp"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 4270,
-      "IDcode": "SONE-813",
-      "title": "盛夏返鄉的辣妹偶像青梅竹馬用都市調教的痴女技巧把我這宅男榨乾了 ~ 笹倉彩",
+      "id": 6767,
+      "IDcode": "SONE-740",
+      "title": "新人NO.1 STYLE 美麗お姉さん週刊誌デビューから急転、AV転身 笹倉彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718213749773773_33155_thumbnail.webp",
-      "actress": [
-        "笹倉彩",
-        "大村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-813"
-    },
-    {
-      "id": 5173,
-      "IDcode": "SONE-779",
-      "title": "白嫩巨乳後輩員工突然出差相部屋，肉食系辣妹夜襲把我吃幹抹淨，心都被勾走了 ~ 笹倉彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064737767767_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417080653192192_thumbnail.webp",
       "actress": [
         "笹倉彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-779"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-740"
     },
     {
       "id": 5928,
       "IDcode": "SONE-777",
-      "title": "周刊模特出道的高冷女神姐姐 AV轉型第二月就開掛了 ~ 笹倉彩",
+      "title": "在周刊上首次亮相出道的高贵小姐姐-笹倉彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-23",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/202505220757564040_thumbnail.webp",
       "actress": [
         "笹倉彩",
@@ -94,20 +77,69 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-777"
     },
     {
-      "id": 6767,
-      "IDcode": "SONE-740",
-      "title": "大型新人出道！NO.1 STYLE 新晉女神 從雜志封面到AV界驚豔轉身 首次亮相 AV DEBUT ~ 笹倉彩",
+      "id": 5173,
+      "IDcode": "SONE-779",
+      "title": "与白皙巨乳的后辈同事突然同房-笹倉彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417080653192192_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064737767767_thumbnail.webp",
       "actress": [
         "笹倉彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-779"
+    },
+    {
+      "id": 4270,
+      "IDcode": "SONE-813",
+      "title": "在盛夏返乡的辣妹写真偶像青梅竹马用在都市学到的痴女技巧-笹仓彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718213749773773_33155_thumbnail.webp",
+      "actress": [
+        "笹倉彩",
+        "大村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-813"
+    },
+    {
+      "id": 3423,
+      "IDcode": "SONE-848",
+      "title": "エロにオープンなイマドキ痴女に射精管理されたい 生徒を沼らせる巨乳小悪魔女教師の ささやき淫語＆絶対連射シコシコサポート 笹倉彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024723758758_32014_thumbnail.webp",
+      "actress": [
+        "笹倉彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-848"
+    },
+    {
+      "id": 2646,
+      "IDcode": "SONE-915",
+      "title": "当上事务所社长就能随便睡美女-笹仓彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043116151151_43994_thumbnail.webp",
+      "actress": [
+        "笹倉彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-915"
     }
   ]
 };

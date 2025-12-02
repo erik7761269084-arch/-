@@ -39,30 +39,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
       "publish_date": "2020-03-25",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/qQordUKk/1.jpg",
       "actress": [
         "藤谷咲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-170"
-    },
-    {
-      "id": 1627,
-      "IDcode": "SDNT-005",
-      "title": "再現 真正的素人已婚婦女，為了勾引她的丈夫而被迫出現 案例 2 全職家庭主婦 藤谷沙希 26 歲 住在千葉縣富津市 生平第一次赤裸裸的性行為 12 個陌生人' 為她的丈夫Netorare Masu 提供雞巴和總共18 次大量體內射精",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2019-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/20230403052416223223.jpg",
-      "actress": [
-        "藤谷咲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-005"
     },
     {
       "id": 73950,
@@ -71,14 +55,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2019-06-06",
       "cover_url": "",
       "actress": [
         "藤谷咲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-002"
+    },
+    {
+      "id": 1627,
+      "IDcode": "SDNT-005",
+      "title": "再現 真正的素人已婚婦女，為了勾引她的丈夫而被迫出現 案例 2 全職家庭主婦 藤谷沙希 26 歲 住在千葉縣富津市 生平第一次赤裸裸的性行為 12 個陌生人' 為她的丈夫Netorare Masu 提供雞巴和總共18 次大量體內射精",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/14/678533b7478d611da774d8ca/cover.jpg",
+      "actress": [
+        "藤谷咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-005"
     }
   ]
 };

@@ -33,10 +33,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-22",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240828/A68krqbO/1.jpg",
       "actress": [
         "愛名光莉",
         "乙都咲乃",
@@ -49,36 +49,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-219"
     },
     {
+      "id": 99537,
+      "IDcode": "CHN-124",
+      "title": "絶対的美少女-凰かなめ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "凰香奈芽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-124"
+    },
+    {
       "id": 97420,
       "IDcode": "ABP-589",
       "title": "絶対的鉄板シチュエーション 4 凰かなめ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-04-28",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2019/07/22/QQ201907221606182fcb4.jpg",
       "actress": [
         "凰香奈芽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-589"
-    },
-    {
-      "id": 99537,
-      "IDcode": "CHN-124",
-      "title": "新・絶対的美少女、お貸しします。 ACT.66 凰かなめ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2016-12-30",
-      "cover_url": "",
-      "actress": [
-        "凰香奈芽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-124"
     }
   ]
 };

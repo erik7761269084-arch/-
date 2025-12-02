@@ -52,180 +52,97 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231018/103bf20a-7cf9-417e-9410-39f63998e413.jpg",
     "https://picture.yoshiclub.xyz/20231018/4992959a-9537-4de2-b756-26a53d1f5605.jpg"
   ],
-  "works_count": 17,
+  "works_count": 28,
   "related_dramas": [
     {
-      "id": 3243,
-      "IDcode": "IENF-355",
-      "title": "不是說好不放進去的嘛！結果素股太爽直接滑進去！忍不住內射啦 ~ ローレン花戀 加藤結衣 川越ゆい",
+      "id": 6647,
+      "IDcode": "FGAN-145",
+      "title": "臉騎自慰 變態妹子用下體磨男人臉爽翻天 ~ 星乃夏月 赤名いと 川越ゆい 花乃春日 片寄しゅうか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827000944945945_57544_thumbnail.webp",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "2025-04-24",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424005717440440_thumbnail.webp",
       "actress": [
-        "川越ゆい",
-        "加藤結衣",
-        "ローレン花恋"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-355"
-    },
-    {
-      "id": 63994,
-      "IDcode": "FGAN-146",
-      "title": "ムレムレブルマ塾 女教師編",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-05-22",
-      "cover_url": "",
-      "actress": [
-        "川越ゆい",
-        "原美织"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-146"
-    },
-    {
-      "id": 63978,
-      "IDcode": "FGAN-148",
-      "title": "シコシコしながらエクササイズ！ パンチラインストラクター挑発JOI",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-05-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/03/ed93bacb/vod.jpg",
-      "actress": [
+        "星乃夏月",
         "赤名いと",
         "花乃春日",
-        "松丸香澄",
-        "川越ゆい",
-        "原美织"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-148"
-    },
-    {
-      "id": 69051,
-      "IDcode": "MILK-240",
-      "title": "クソほどシコれる卑猥CAの黒パンスト肉感ポーズ 下品な淫語責めで大量射精を誘発するドスケベ客室乗務員 川越ゆい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-04-10",
-      "cover_url": "",
-      "actress": [
+        "片寄しゅうか",
         "川越ゆい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-240"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-145"
     },
     {
-      "id": 74259,
-      "IDcode": "IENF-349",
-      "title": "裏オプションを完全盗撮 激レア予約困難な神メンズエステ嬢の射精無制限生挿入中出し（IENF-349）",
+      "id": 12718,
+      "IDcode": "HEZ-694",
+      "title": "我對丈夫不滿足...因爲想要主動出軌而來應募的美人妻 ~ 川越ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2024-12-26",
-      "cover_url": "",
-      "actress": [
-        "沙月惠奈",
-        "川越ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-349"
-    },
-    {
-      "id": 78573,
-      "IDcode": "HEZ-736",
-      "title": "あなただけに見せてあげる！不貞行為を自ら望んで応募してきた美人ヤリ妻のイケない完堕ち性交 BEST vol.01",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2024-12-13",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/969dec0f/vod.jpg",
-      "actress": [
-        "友田彩也香",
-        "川越ゆい",
-        "浜崎真绪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-736"
-    },
-    {
-      "id": 10001,
-      "IDcode": "DANDY-951",
-      "title": "生意氣護士阿姨用嘴邊說邊吸童貞男孩的雞巴直到射 ~ 川越ゆい 藤咲紫",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DANDY",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241212/b357cee1-1ec5-4f58-9b71-1957caaf04a4.jpg",
-      "actress": [
-        "藤咲紫",
-        "川越ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-951"
-    },
-    {
-      "id": 18282,
-      "IDcode": "MEYD-854",
-      "title": "我的丈夫拋棄了我，這讓我發瘋......公公的擠奶乳房按摩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "溜池",
-      "publish_date": "2023-10-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20231017/20231017042723167167.jpg",
+      "publish_date": "2024-08-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240813/b5b8c4f8-3f71-43b2-96a1-ab10d2d94dc3.jpg",
       "actress": [
         "川越ゆい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-854"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-694"
     },
     {
-      "id": 80651,
-      "IDcode": "DVDMS-993",
-      "title": "ヤンキー兄嫁のTバック姿がシコすぎて",
+      "id": 98508,
+      "IDcode": "RCTD-269",
+      "title": "クルンと性别反転！TSFアバターミラー2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-02-01",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "2019-09-26",
       "cover_url": "",
       "actress": [
         "川越ゆい",
-        "叶月もえ"
+        "雨村梨花",
+        "水城奈緒",
+        "望月理沙",
+        "小川ひまり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-269"
     },
     {
-      "id": 86891,
-      "IDcode": "CPDE-998",
-      "title": "最強属性特別編 3周年記念 小西まりえ/川越ゆい",
+      "id": 98350,
+      "IDcode": "RBD-938",
+      "title": "貞淑妻 奈落の性奴隷",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "最強屬性",
-      "publish_date": "2019-12-20",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2019-09-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/rbd938/rbd938pl.jpg",
       "actress": [
         "川越ゆい",
-        "小西真理繪"
+        "蓝川美夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-998"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-938"
+    },
+    {
+      "id": 98688,
+      "IDcode": "IESP-655",
+      "title": "篠崎かんな 義母レズ調教 レズ解禁作品",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-08-22",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1iesp655/1iesp655pl.jpg",
+      "actress": [
+        "川越ゆい",
+        "篠崎环奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-655"
     },
     {
       "id": 74200,
@@ -234,10 +151,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SILK LABO",
       "publish_date": "2019-07-11",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/2870497976c11395caef546f47aecb34.jpg",
       "actress": [
         "葵玲奈",
         "川越ゆい",
@@ -254,7 +171,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
       "publish_date": "2019-06-20",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221129-1/b29238616eeb4272d16e0ca6c3a83ce4.jpg",
@@ -268,23 +185,152 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-239"
     },
     {
-      "id": 77155,
-      "IDcode": "POST-453",
-      "title": "ボクが知らない彼女の真実 寿退社しボクと結婚する彼女の上司から送られてきた会社の上司から脅迫されていた彼女は…",
+      "id": 97671,
+      "IDcode": "HTMS-116",
+      "title": "ヘンリー塚本 青姦 ヌケるド迫力映像",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-08-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241201-1/f9be27f4ae14a23e17e564bc0aae6077.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-05-13",
+      "cover_url": "http://15.155250922.com/upload/vod/20230311/htms00116pl.jpg",
       "actress": [
         "川越ゆい",
-        "近藤ユキ",
-        "NIMO",
-        "河原かえで"
+        "上野真奈美",
+        "羽月希",
+        "春原未来",
+        "葵千恵",
+        "斉藤みゆ",
+        "桐岛美奈子",
+        "月本爱",
+        "熊谷麻美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTMS-116"
+    },
+    {
+      "id": 98556,
+      "IDcode": "TB-001",
+      "title": "独占！着エロアイドル渚野洋子AV Debut！ベロチューた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-01-01",
+      "cover_url": "",
+      "actress": [
+        "川越ゆい",
+        "渚野洋子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TB-001"
+    },
+    {
+      "id": 852,
+      "IDcode": "HEYZO-1057",
+      "title": "被分手而自暴自棄來幹砲的女大生！ - 川越唯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-01-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240513/20240513090911605605.jpg",
+      "actress": [
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1057"
+    },
+    {
+      "id": 98602,
+      "IDcode": "RCT-723",
+      "title": "鬼百合女子校の拷問部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2015-04-09",
+      "cover_url": "",
+      "actress": [
+        "川越ゆい",
+        "石田美久",
+        "小西真理繪",
+        "春日野结衣",
+        "宫野えみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-723"
+    },
+    {
+      "id": 105840,
+      "IDcode": "AP-324",
+      "title": "二穴春药振动色狼图书室",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川越ゆい",
+        "美咲结衣",
+        "天月叶菜",
+        "星川麻纪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-324"
+    },
+    {
+      "id": 86891,
+      "IDcode": "CPDE-998",
+      "title": "最強属性特別編 3周年記念 小西まりえ/川越ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "最強屬性",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/942daf22903e925d62e96e8247b1b682.jpg",
+      "actress": [
+        "川越ゆい",
+        "小西真理繪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-998"
+    },
+    {
+      "id": 80651,
+      "IDcode": "DVDMS-993",
+      "title": "穿着丁字裤的嫂子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川越ゆい",
+        "叶月もえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-993"
+    },
+    {
+      "id": 78573,
+      "IDcode": "HEZ-736",
+      "title": "あなただけに見せてあげる！不貞行為を自ら望んで応募してきた美人ヤリ妻のイケない完堕ち性交 BEST vol.01",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香",
+        "川越ゆい",
+        "浜崎真绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-736"
     },
     {
       "id": 77949,
@@ -293,10 +339,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-08-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241122-1/d98a26df17601d05eb383e8d0c7457cd.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "橘瑪麗",
         "真木今日子",
@@ -309,16 +355,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-476"
     },
     {
+      "id": 77155,
+      "IDcode": "POST-453",
+      "title": "ボクが知らない彼女の真実 寿退社しボクと結婚する彼女の上司から送られてきた会社の上司から脅迫されていた彼女は…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b04ed0749cc59cacf590297e0752f37d.jpg",
+      "actress": [
+        "川越ゆい",
+        "近藤ユキ",
+        "NIMO",
+        "河原かえで"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
+    },
+    {
+      "id": 74259,
+      "IDcode": "IENF-349",
+      "title": "男士美体沙龙妹无套插入中出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "沙月惠奈",
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-349"
+    },
+    {
       "id": 72679,
       "IDcode": "TURA-352",
       "title": "大手化学メーカー研究室 化学研究員の私は自作の昏睡薬を嗅がせ女性研究員たちを昏睡させやりまくったので投稿します！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/28e914bf6df0247c259d21ecd61818a6.jpg",
       "actress": [
         "川越ゆい",
         "小泉沙彩",
@@ -333,33 +415,152 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GLAYz",
-      "publish_date": "2018-04-20",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/68d6c9c8a08a35f5e808f740e09d456c.jpg",
       "actress": [
         "川越ゆい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMOTA-005"
     },
     {
-      "id": 105840,
-      "IDcode": "AP-324",
-      "title": "二穴挿し媚薬バイブ痴漢 図書室ver.",
+      "id": 69051,
+      "IDcode": "MILK-240",
+      "title": "クソほどシコれる卑猥CAの黑パンスト肉感ポーズ 下品な淫語責めで大量射精を誘発するドスケベ客室乘務員 川越ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2016-07-07",
-      "cover_url": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68994cf555337d7f7bcfa889/cover.jpg",
+      "actress": [
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-240"
+    },
+    {
+      "id": 63994,
+      "IDcode": "FGAN-146",
+      "title": "ムレムレブルマ塾 女教師編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250617-1/b67cca526513925d57fe1df6c7601afe.jpg",
       "actress": [
         "川越ゆい",
-        "美咲结衣",
-        "天月叶菜",
-        "星川麻纪"
+        "原美织"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-146"
+    },
+    {
+      "id": 63978,
+      "IDcode": "FGAN-148",
+      "title": "シコシコしながらエクササイズ！ パンチラインストラクター挑発JOI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "赤名いと",
+        "花乃春日",
+        "松丸香澄",
+        "川越ゆい",
+        "原美织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-148"
+    },
+    {
+      "id": 18282,
+      "IDcode": "MEYD-854",
+      "title": "公公的母乳按摩-川越唯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/a89102e090d276d928e7d18fa337a3c4.jpg",
+      "actress": [
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-854"
+    },
+    {
+      "id": 10001,
+      "IDcode": "DANDY-951",
+      "title": "生意気童貞少年を精子が出なくなるまで説教しゃぶりで更生させるおばさん看護師",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241212/b357cee1-1ec5-4f58-9b71-1957caaf04a4.jpg",
+      "actress": [
+        "藤咲紫",
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-951"
+    },
+    {
+      "id": 5956,
+      "IDcode": "SW-1002",
+      "title": "近所の人妻のむっちりパンスト！透けパンチラむっちり尻に誘われて、パンスト破って硬チ〇ポずぶずぶ侵入させてイイですよね？！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014335595595_thumbnail.webp",
+      "actress": [
+        "有賀千里",
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1002"
+    },
+    {
+      "id": 5014,
+      "IDcode": "MOON-043",
+      "title": "妻の目の前でデリヘル呼んでみた 川越ゆい 横山夏希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "YONAKA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001235396396_thumbnail.webp",
+      "actress": [
+        "川越ゆい",
+        "上野真奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOON-043"
+    },
+    {
+      "id": 3243,
+      "IDcode": "IENF-355",
+      "title": "サエない僕を不憫に思った美人な姉に「擦りつけるだけだよ」という約束で素股してもらっていたら互いに気持ち良すぎてマ○コはグッショリ！でヌルっと生挿入",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827000944945945_57544_thumbnail.webp",
+      "actress": [
+        "川越ゆい",
+        "加藤結衣",
+        "ローレン花恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-355"
     }
   ]
 };

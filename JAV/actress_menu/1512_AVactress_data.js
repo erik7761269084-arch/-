@@ -38,8 +38,40 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250608/546a0f8a-3df7-4919-b1b5-d97b7fb2186c_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250608/5a0f7232-106a-45dc-b9ad-74c15a8c1e1f_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 5442,
+      "IDcode": "HZGD-274",
+      "title": "慾火焚身的K杯爆乳人妻受不了啦！趁女兒不在家迷上義子的超強持久力，直接拔套內射懷孕搞不倫 ~ 滝川恵理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻花園劇場",
+      "publish_date": "2024-05-03",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250608/20250608213601526526_thumbnail.webp",
+      "actress": [
+        "滝川恵理"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-274"
+    },
+    {
+      "id": 11135,
+      "IDcode": "NACR-866",
+      "title": "和初恋很像的义母-宝上恵理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241020/e1687cfb-7730-412f-8995-ccf5c0e49cf1.jpg",
+      "actress": [
+        "滝川恵理"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-866"
+    },
     {
       "id": 7094,
       "IDcode": "KSBJ-371",
@@ -47,9 +79,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-01",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250402/20250402111237558558.jpg",
       "actress": [
         "黑川堇",

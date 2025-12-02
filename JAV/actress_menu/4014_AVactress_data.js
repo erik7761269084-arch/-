@@ -4,7 +4,7 @@ window.actressData = {
   "name": "里崎爱佳",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,36 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 70351,
-      "IDcode": "SPRD-1277",
-      "title": "あん時のセフレ...は友人の母親 里崎愛佳",
+      "id": 77959,
+      "IDcode": "KEED-055",
+      "title": "娘の彼氏に膣奥を突かれイキまくった母 里崎愛佳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-04-23",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/156657d11b366af764e9aaa07dbcd631.jpg",
       "actress": [
         "里崎爱佳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-055"
+    },
+    {
+      "id": 76055,
+      "IDcode": "NUKA-36",
+      "title": "不拔的六发中出！近亲相姦紧贴交配",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d73173d11d8a90bc298515934f9ecfa6.jpg",
+      "actress": [
+        "里崎爱佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-36"
     },
     {
       "id": 75673,
@@ -41,46 +57,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2019-12-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/52bec2a035638be8b112d7757add6743.jpg",
       "actress": [
         "里崎爱佳"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IQQQ-014"
     },
     {
-      "id": 76055,
-      "IDcode": "NUKA-036",
-      "title": "抜かずの六発中出し 近親相姦密着交尾 里崎愛佳",
+      "id": 70351,
+      "IDcode": "SPRD-1277",
+      "title": "あん時のセフレ...は友人の母親 里崎愛佳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-10-31",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241201-1/e4f64610e4f4772711cc1ca605d99b9f.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a38467958ccb2a4dcc6dc1fc25fbabf1.jpg",
       "actress": [
         "里崎爱佳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-036"
-    },
-    {
-      "id": 77959,
-      "IDcode": "KEED-055",
-      "title": "娘の彼氏に膣奥を突かれイキまくった母 里崎愛佳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2019-08-22",
-      "cover_url": "",
-      "actress": [
-        "里崎爱佳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KEED-055"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1277"
     }
   ]
 };

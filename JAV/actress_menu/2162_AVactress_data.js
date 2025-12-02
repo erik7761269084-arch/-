@@ -49,7 +49,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250526/20250526031949149149_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250526/20250526031949954954_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 92753,
@@ -58,8 +58,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
+      "type": "",
+      "company": "",
       "publish_date": "2006-04-05",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/045007baaa7f2281f439c13467427d69.jpg",
       "actress": [
@@ -69,6 +69,28 @@ window.actressData = {
         "藤井さやか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDSS-057"
+    },
+    {
+      "id": 5798,
+      "IDcode": "NSFS-386",
+      "title": "欲求不満 まじめ妻 ベスト中島京子 美泉咲 谷原希美 江上しほ 倉本雪音 桃宮もも 潮見百合子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010934310310_thumbnail.webp",
+      "actress": [
+        "美泉咲",
+        "中島京子",
+        "成宮潤",
+        "潮见百合子",
+        "桃宮もも",
+        "谷原希美",
+        "倉本雪音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-386"
     }
   ]
 };

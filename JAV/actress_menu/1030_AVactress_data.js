@@ -25,100 +25,108 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250511/f07cf81a-2481-4146-91b9-a99e62400ca1_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250511/fc730ef2-baa4-4908-ac1d-a48b9d99ef55_l.webp"
   ],
-  "works_count": 19,
+  "works_count": 28,
   "related_dramas": [
     {
-      "id": 61358,
-      "IDcode": "VNDS-5224",
-      "title": "五十路美母の完熟肉壺180分",
+      "id": 99185,
+      "IDcode": "BBAN-071",
+      "title": "熟ジェンヌレズビアン～美熟女2人の熾烈なスター争い～ 三浦恵理子 安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-08-25",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2016-01-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban071/bban071pl.jpg",
+      "actress": [
+        "安野由美",
+        "円城ひとみ",
+        "三浦恵理子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-071"
+    },
+    {
+      "id": 99090,
+      "IDcode": "BBAN-042",
+      "title": "義母娘接吻レズ調教～舌に堕ち、唾液に溺れる嫁姑関係～安",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-06-07",
+      "cover_url": "",
+      "actress": [
+        "森澤佳奈",
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-042"
+    },
+    {
+      "id": 106115,
+      "IDcode": "ROE-185",
+      "title": "绝望的家庭访问-安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安野由美",
-        "矢口東子",
-        "小原よしえ",
-        "浦野明美",
-        "如月丽华",
-        "立石ひな",
-        "藤田爱子",
-        "峰岸洋子",
-        "福浦那绪美"
+        "安倍亜沙美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-185"
     },
     {
-      "id": 62461,
-      "IDcode": "RMER-048",
-      "title": "痴女唾液狩り",
+      "id": 105970,
+      "IDcode": "ROE-193",
+      "title": "母亲和我的妊娠中出性交-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-22",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "瀬那瑠美奈",
         "安野由美",
-        "宗像れな",
-        "日々樹梨花",
-        "壇涼果"
+        "まーち"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-193"
     },
     {
-      "id": 5222,
-      "IDcode": "CEMD-692",
-      "title": "無止境高潮狂熱SEX56 ~ 安野由美",
+      "id": 105826,
+      "IDcode": "ROE-200",
+      "title": "在儿子的下榻处被当成玩物的我-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2025-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607015223607607_thumbnail.webp",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "安野由美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-692"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-200"
     },
     {
-      "id": 62390,
-      "IDcode": "KSBJ-377",
-      "title": "私が飼っている自慢の生チ○ポペットを紹介します！ 安野由美 （BOD）",
+      "id": 96319,
+      "IDcode": "VENX-277",
+      "title": "和妻子离婚后-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-05-06",
-      "cover_url": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68ea97172c5ed64ee9e654a0/cover.jpg",
       "actress": [
         "安野由美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-377"
-    },
-    {
-      "id": 70599,
-      "IDcode": "NACR-930",
-      "title": "妻の出産入院中、無防備な姿で家事を手伝ってくれる義母に欲情し孕ませ性交 安野由美 （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-03-20",
-      "cover_url": "",
-      "actress": [
-        "安野由美",
-        "いち"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-930"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-277"
     },
     {
       "id": 95288,
@@ -127,10 +135,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2024-11-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c5655ed6fbef4e90a95948/cover.jpg",
       "actress": [
         "篠惠美",
         "佐伯由美香",
@@ -148,9 +156,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "JET映像",
-      "publish_date": "2024-06-12",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/555db8f2b6bcf820f9490e8843c4acd1.jpg",
       "actress": [
         "安野由美",
@@ -159,49 +167,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-114"
     },
     {
-      "id": 105970,
-      "IDcode": "ROE-193",
-      "title": "母と僕の妊活中出し性交―他人だと知った僕たちは夢中で種付けに溺れた― 安野由美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-23",
-      "cover_url": "",
-      "actress": [
-        "安野由美",
-        "まーち"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-193"
-    },
-    {
-      "id": 106115,
-      "IDcode": "ROE-185",
-      "title": "‘絶望の家庭訪問’ 僕をイジメる担任教師が、母まで犯しにやってきた―。 安野由美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-12-26",
-      "cover_url": "",
-      "actress": [
-        "安野由美",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-185"
-    },
-    {
       "id": 89823,
       "IDcode": "ROE-176",
-      "title": "不良の巣窟となっていた息子の一人暮らし部屋で、一昼夜、輪●され続けて…。 安野由美",
+      "title": "儿子一个人住的房间-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2023-11-28",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安野由美",
@@ -210,32 +184,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-176"
     },
     {
-      "id": 18223,
-      "IDcode": "ROE-170",
-      "title": "給一直想上的嬸嬸餵了十天媚藥後，她終於變成了想怎麼操就怎麼操的肉便器了",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-10-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022032233252252.jpg",
-      "actress": [
-        "安野由美",
-        "左慈半造"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-170"
-    },
-    {
       "id": 89742,
       "IDcode": "ROE-162",
-      "title": "「いけないお母さんでごめんね」地元に帰省した僕は、昔から大好きだった友達の母を犯して従順な俺色に染め上げた。 安野由美",
+      "title": "回到故乡的我-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2023-09-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安野由美",
@@ -246,13 +203,13 @@ window.actressData = {
     {
       "id": 89718,
       "IDcode": "ROE-151",
-      "title": "家族皆が巣立った実家で、母と過ごす近親相姦の日々―。 安野由美",
+      "title": "和母亲度过近亲相奸的日子-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2023-08-08",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安野由美"
@@ -262,14 +219,14 @@ window.actressData = {
     {
       "id": 87859,
       "IDcode": "ROE-141",
-      "title": "「もう、貴方の事しか考えられないの…」旅行先で夫の連れ子と相性抜群中出し交尾に溺れる義母 安野由美",
+      "title": "在旅行地和丈夫-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2023-07-11",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20231109/J0qdt3mE/1.jpg",
       "actress": [
         "安野由美"
       ],
@@ -282,10 +239,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240119-1/ff2c1233900aadb7a713970b86c0ac96.jpg",
       "actress": [
         "安野由美",
         "タイ",
@@ -294,16 +251,65 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-134"
     },
     {
-      "id": 70397,
-      "IDcode": "WPOM-005",
-      "title": "「ぜんぶ飲ませていただきますから…私の喉奥、ザー汁まみれにしてください」無理やり咥えさせられる強制フェラチオに快感を覚えSEXレスで溜まった性欲に火が着いた人妻たちは肉棒の温もりを求めて輪姦へ身を委ねて濃厚な不倫性交を愉しみ出す。",
+      "id": 77700,
+      "IDcode": "OBA-320",
+      "title": "危険日になると発情して淫乱になっちゃうヤリマン教育ママ 安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-10-04",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/5b1fcd22c1de556672ff472f15cd36eb.jpg",
+      "actress": [
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBA-320"
+    },
+    {
+      "id": 72245,
+      "IDcode": "CESD-340",
+      "title": "禁欲10日目の媚薬5 安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1969d83ef80f742b7c93490e8cbf9b81.jpg",
+      "actress": [
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-340"
+    },
+    {
+      "id": 70599,
+      "IDcode": "NACR-930",
+      "title": "妻の出産入院中、無防備な姿で家事を手伝ってくれる義母に欲情し孕ませ性交 安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "安野由美",
+        "いち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-930"
+    },
+    {
+      "id": 70397,
+      "IDcode": "WPOM-005",
+      "title": "「ぜんぶ飲ませていただきますから",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3a016c208229f14d561b6923f7324cb0.jpg",
       "actress": [
         "大槻响",
         "安野由美",
@@ -313,48 +319,76 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WPOM-005"
     },
     {
-      "id": 72245,
-      "IDcode": "CESD-340",
-      "title": "禁欲10日目の媚薬5 安野由美",
+      "id": 62461,
+      "IDcode": "RMER-048",
+      "title": "痴女唾液狩り",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2017-03-13",
-      "cover_url": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/ddc9eff3658f76e73b2066f27ec60a04.jpg",
       "actress": [
-        "安野由美"
+        "瀬那瑠美奈",
+        "安野由美",
+        "宗像れな",
+        "日々樹梨花",
+        "壇涼果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-340"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
     },
     {
-      "id": 77700,
-      "IDcode": "OBA-320",
-      "title": "危険日になると発情して淫乱になっちゃうヤリマン教育ママ 安野由美",
+      "id": 62390,
+      "IDcode": "KSBJ-377",
+      "title": "我要介紹我養的自豪無套肉棒玩偶-安野由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2017-01-13",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安野由美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OBA-320"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-377"
+    },
+    {
+      "id": 61358,
+      "IDcode": "VNDS-5224",
+      "title": "五十路美母の完熟肉壺180分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安野由美",
+        "矢口東子",
+        "小原よしえ",
+        "浦野明美",
+        "如月丽华",
+        "立石ひな",
+        "藤田爱子",
+        "峰岸洋子",
+        "福浦那绪美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5224"
     },
     {
       "id": 59802,
       "IDcode": "XMOM-100",
-      "title": "- 四十路 五十路の完熟エロス4時間 - JAV目錄大全javmenu.com",
+      "title": "四十路 五十路の完熟エロス4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/9e6a2f75/vod.jpg",
+      "cover_url": "",
       "actress": [
         "翔田千里",
         "安野由美",
@@ -363,6 +397,141 @@ window.actressData = {
         "音羽文子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-100"
+    },
+    {
+      "id": 18223,
+      "IDcode": "ROE-170",
+      "title": "可以随便中出的肉便器-安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022032233252252.jpg",
+      "actress": [
+        "安野由美",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-170"
+    },
+    {
+      "id": 15911,
+      "IDcode": "ROE-210",
+      "title": "和性爱相性很合的兼职人妻-安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240323/2024032303172722.jpg",
+      "actress": [
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-210"
+    },
+    {
+      "id": 6211,
+      "IDcode": "CEAD-680",
+      "title": "ケツ穴のシワまで丸見えにして、アナタだけに見せつけるオナニーで激イキする15人の女たち！vol.5葉山さゆり 三岳ゆうな 小春まり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/10/b42dc5be5ad12bd2825122c108681880.jpg",
+      "actress": [
+        "美咲佳奈",
+        "羽月乃蒼",
+        "三岳祐奈",
+        "南條彩",
+        "葉山小百合",
+        "蒼山愛奈",
+        "上戶真理",
+        "木野野葉惠里香",
+        "天沢りん",
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-680"
+    },
+    {
+      "id": 5222,
+      "IDcode": "CEMD-692",
+      "title": "涙のノンストップ激イカせSEX56 安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607015223607607_thumbnail.webp",
+      "actress": [
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-692"
+    },
+    {
+      "id": 3271,
+      "IDcode": "CEAD-698",
+      "title": "究極のオナサポ！主観命令オナニー！Vol.2 エロい身体で最高の射精に誘う厳選人気美女優15人！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21e7cfbe7fd63de7f79eb/cover.jpg",
+      "actress": [
+        "波多野结衣",
+        "宮城理惠",
+        "水川潤",
+        "友田彩也香",
+        "夏川步美",
+        "吉泽友贵",
+        "紗紗原百合",
+        "白木優子",
+        "月見若葉",
+        "西村ニーナ",
+        "白河花清",
+        "一場れいか",
+        "北乃由奈",
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-698"
+    },
+    {
+      "id": 2692,
+      "IDcode": "DDOB-141",
+      "title": "騷氣爆棚的手活女王媽媽 ~ 安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca661b7de28f4ede493335/cover.jpg",
+      "actress": [
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-141"
+    },
+    {
+      "id": 2517,
+      "IDcode": "CEMD-742",
+      "title": "性欲絶倫の男とホテルに一日缶詰デート～ひと目を忍んでイカされまくる最高のSEX漬け不倫～ 安野由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-742"
     }
   ]
 };

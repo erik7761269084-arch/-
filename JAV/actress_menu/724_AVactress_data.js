@@ -44,50 +44,115 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250116/08a04716-37e3-4637-b170-64ad73008fb8.jpg",
     "https://picture.yoshiclub.xyz/20250116/60570cdd-c416-4ef9-896e-f49421d0e591.jpg"
   ],
-  "works_count": 5,
+  "works_count": 9,
   "related_dramas": [
     {
-      "id": 2659,
-      "IDcode": "ABF-269",
-      "title": "與素人小哥哥獨處一整天超甜蜜約會 ~ 中森七海",
+      "id": 7414,
+      "IDcode": "ABF-212",
+      "title": "天然汁液120% Vol.87 汗水愛液噴滿場的狂野SEX！ ~ 中森七海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021016777777_80705_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2025-03-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/b08f9f58-3f76-4a43-8ddc-a682ad6b161c.jpg",
       "actress": [
         "中森七海"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-212"
     },
     {
-      "id": 3623,
-      "IDcode": "DLV-005",
-      "title": "新·絕對美少女，上門讓你爽一下 ACT.121 ~ 中森七海",
+      "id": 8128,
+      "IDcode": "ABF-202",
+      "title": "美少女、私人溫泉、濃密性交。 28 ~ 中森七海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-09-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022630810810_71690_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2025-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/01d9d84d-2da6-46bb-8ba9-1fb6b984c8de.jpg",
       "actress": [
         "中森七海"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-202"
+    },
+    {
+      "id": 9102,
+      "IDcode": "GNI-006",
+      "title": "新人出道！2025年蚊香社首個大型新人專屬登場。絕對美少女原點回歸 首次亮相 AV DEBUT ~ 中森七海",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2025-01-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/383704f3-3b12-45c6-aad0-89932f069f38.jpg",
+      "actress": [
+        "中森七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-006"
+    },
+    {
+      "id": 6799,
+      "IDcode": "ABF-222",
+      "title": "中森ななみの尻コス Sportエディション 4性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/7bc8e0f1-b2d5-49f6-8d11-3e56254e7165_thumbnail.webp",
+      "actress": [
+        "中森七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-222"
+    },
+    {
+      "id": 6158,
+      "IDcode": "ABF-230",
+      "title": "顔射の美学 27 中森ななみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/2ff36721ea59d0fa15cf8cb0a190ba38.jpg",
+      "actress": [
+        "中森七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-230"
+    },
+    {
+      "id": 4791,
+      "IDcode": "ABF-245",
+      "title": "SEX力を鍛えて差をつけろ エロ過ぎ小悪魔トレーナー 中森ななみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68aebaea81bce592e9c18e60/cover.jpg",
+      "actress": [
+        "中森七海",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-245"
     },
     {
       "id": 4341,
       "IDcode": "ABF-250",
-      "title": "和鄉下青梅竹馬愛意滿滿的激烈性愛日常 case.14 ~ 中森七海",
+      "title": "在空无一物的乡下与青梅竹马心意相通的浓密性爱日常-中森ななみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-08-01",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033049149149_34441_thumbnail.webp",
       "actress": [
         "中森七海",
@@ -96,37 +161,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-250"
     },
     {
-      "id": 4791,
-      "IDcode": "ABF-245",
-      "title": "練出超猛SEX力完勝全場 超誘小惡魔教練 ~ 中森七海",
+      "id": 3623,
+      "IDcode": "DLV-005",
+      "title": "新・絶対的美少女、お貸しします。 ACT.121 中森ななみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "蚊香社",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703034012355355_thumbnail.webp",
-      "actress": [
-        "中森七海",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-245"
-    },
-    {
-      "id": 6799,
-      "IDcode": "ABF-222",
-      "title": "中森七海的翹臀運動裝誘惑 4本番 ~ 中森七海",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-04-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/7bc8e0f1-b2d5-49f6-8d11-3e56254e7165_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022630810810_71690_thumbnail.webp",
       "actress": [
         "中森七海"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLV-005"
+    },
+    {
+      "id": 2659,
+      "IDcode": "ABF-269",
+      "title": "与素人小哥整整一天的二人独处-中森 ななみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/01/2a45db866ffe38478a38e9a32dd61ffd.jpg",
+      "actress": [
+        "中森七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-269"
     }
   ]
 };

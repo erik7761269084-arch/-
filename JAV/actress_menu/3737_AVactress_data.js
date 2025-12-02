@@ -4,7 +4,7 @@ window.actressData = {
   "name": "百合奈ひかる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,37 +19,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 67556,
-      "IDcode": "EKDV-627",
-      "title": "ぬるぬるローション競泳水着 古賀みなみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "水晶映像",
-      "publish_date": "2020-05-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250430-1/9764dffbe63f71a4b3b1bd17a2c0efe4.jpg",
-      "actress": [
-        "百合奈ひかる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-627"
-    },
-    {
       "id": 97609,
       "IDcode": "HND-805",
-      "title": "新人2000年生まれでもうすぐ20歳福岡育ちの某有名お嬢様女子大生AVデビュー 古賀みなみ",
+      "title": "出生名门的19岁大小姐-古賀みなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2020-03-25",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "イセドン内村",
         "百合奈ひかる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-805"
+    },
+    {
+      "id": 67556,
+      "IDcode": "EKDV-627",
+      "title": "ぬるぬるローション競泳水着 古賀みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250423-1/82f8d5b3b0cd2f1a41480a5ef27f956f.jpg",
+      "actress": [
+        "百合奈ひかる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-627"
     }
   ]
 };

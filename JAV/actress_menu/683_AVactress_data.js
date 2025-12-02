@@ -42,23 +42,106 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241129/f147c19e-8a8a-48d5-b955-fb4a02f85b91.jpg",
     "https://picture.yoshiclub.xyz/20241129/50168544-2702-4ed9-9b90-7ebcc1d3c564.jpg"
   ],
-  "works_count": 8,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 3216,
-      "IDcode": "MIDA-303",
-      "title": "電車學校雙重痴漢，純情制服少女被黏著變態玩到高潮不停 ~ 輝星綺羅",
+      "id": 78091,
+      "IDcode": "MIDV-936",
+      "title": "新人 専属 輝星きら 銀河系オンリーワン原石 純朴とスケベのギャップに沼る",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023655621621_31462_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787f6ed5d57b64bfd1a599e/cover.jpg",
+      "actress": [
+        "輝星綺羅",
+        "鲛岛",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-936"
+    },
+    {
+      "id": 9436,
+      "IDcode": "MIDV-960",
+      "title": "初体験3SEX 瞬イキ敏感娘ビクッ！ビクッ！性感開発 輝星きら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c69c1fcf22ae3e041b7996/cover.jpg",
+      "actress": [
+        "輝星綺羅",
+        "ハメ鳥の人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-960"
+    },
+    {
+      "id": 8695,
+      "IDcode": "MIDV-998",
+      "title": "エビ反りギュイン！絶頂973回痙攣9991回イキ潮3930cc絶頂Special 禁欲アクメオーガズム 1カ月焦らされ24時間ぶっ通しデカチンFUCK 輝星きら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/a5b7ed0a5c75582c476ef2c6a15d51e8.jpg",
       "actress": [
         "輝星綺羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-998"
+    },
+    {
+      "id": 7909,
+      "IDcode": "MIDA-062",
+      "title": "认真寡言的义妹-輝星きら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c619784e7d663df4cd2f6f/cover.jpg",
+      "actress": [
+        "輝星綺羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-062"
+    },
+    {
+      "id": 7187,
+      "IDcode": "MIDA-100",
+      "title": "「先生、奥さんとどっちがフェラ上手い？」妻がいるのに教え子のからかい誘惑と小悪魔舐めしゃぶりフルコースに溺れた口淫不倫 輝星きら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/09/689650e655337d7f7babb016/cover.jpg",
+      "actress": [
+        "輝星綺羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-100"
+    },
+    {
+      "id": 6496,
+      "IDcode": "MIDA-137",
+      "title": "每天讓我射精12次的超瘦身技師",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042918283283_thumbnail.webp",
+      "actress": [
+        "輝星綺羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-137"
     },
     {
       "id": 5719,
@@ -67,9 +150,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075829707707_thumbnail.webp",
       "actress": [
         "輝星綺羅"
@@ -77,103 +160,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-175"
     },
     {
-      "id": 6496,
-      "IDcode": "MIDA-137",
-      "title": "家務啥都不會但撸技超神的纖細女僕每天讓我射12次爽到爆 ~ 輝星綺羅",
+      "id": 5005,
+      "IDcode": "MIDA-212",
+      "title": "未成熟小穴被媚药浸泡改造远程振动调教临界停止 -輝星きら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042918283283_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626030424586586_thumbnail.webp",
       "actress": [
         "輝星綺羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-212"
     },
     {
-      "id": 7187,
-      "IDcode": "MIDA-100",
-      "title": "「老師，我跟老婆誰口活更好？」有老婆卻被學生調戲誘惑和小惡魔舔吸全套搞垮的口淫不倫 ~ 輝星綺羅",
+      "id": 3963,
+      "IDcode": "MIDA-256",
+      "title": "新成立肥皂社团的学生会长辉星きら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/202503270814499494.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5b43beb67774efbb8ae96/cover.jpg",
       "actress": [
         "輝星綺羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-256"
     },
     {
-      "id": 7909,
-      "IDcode": "MIDA-062",
-      "title": "被老實又沉默的繼妹扭捏誘惑內褲走光搞到理智全無的我 ~ 偷瞄就害羞抖臀露出屁股蛋溼答答超色！ ~ 輝星綺羅",
+      "id": 3216,
+      "IDcode": "MIDA-303",
+      "title": "除了快感以外连声音都发不出来-辉星绮良",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227070046527527.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/09/8a72a22871ea0c1a1a683e6cc6372dc8.jpg",
       "actress": [
         "輝星綺羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-303"
     },
     {
-      "id": 8695,
-      "IDcode": "MIDV-998",
-      "title": "絕頂高潮973回，9991次痙攣，3930cc潮噴 經過長達1個月的特殊禁欲後 24小時不斷大雞巴抽插衝擊FUCK ~ 輝星綺羅",
+      "id": 2329,
+      "IDcode": "MIDA-344",
+      "title": "担任教师的我败给学生的诱惑-輝星きら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300758322727.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/15/c1350202a0080d6d5112200227373f1e.jpg",
       "actress": [
         "輝星綺羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-998"
-    },
-    {
-      "id": 9436,
-      "IDcode": "MIDV-960",
-      "title": "初體驗3SEX 敏感妹子瞬間高潮！性感開發 ~ 輝星綺羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102074042662662.jpg",
-      "actress": [
-        "輝星綺羅",
-        "ハメ鳥の人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-960"
-    },
-    {
-      "id": 78091,
-      "IDcode": "MIDV-936",
-      "title": "新人 専属 輝星きら 銀河系オンリーワン原石 純朴とスケベのギャップに沼る",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://tutu1.space/images/2025/09/25/f27bfb12d1ab7f7024fe67c9c56b22ab.jpg",
-      "actress": [
-        "輝星綺羅",
-        "鲛岛",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-936"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-344"
     }
   ]
 };

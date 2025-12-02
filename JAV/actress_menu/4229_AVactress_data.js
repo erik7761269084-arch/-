@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-13",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/05382b7f9bc56f1cf2d225bef7f4d172.jpg",
       "actress": [
         "逢月はるな"
       ],
@@ -47,10 +47,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-05-17",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ab701425d4fc0ebf5b5e5e17d900e283.jpg",
       "actress": [
         "有栖露露",
         "柏木まい",

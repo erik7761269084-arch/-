@@ -65,7 +65,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250720/20250720024205903903_12665_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250720/20250720024205863863_83032_l.webp"
   ],
-  "works_count": 19,
+  "works_count": 29,
   "related_dramas": [
     {
       "id": 83604,
@@ -74,8 +74,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-13",
       "cover_url": "",
       "actress": [
@@ -90,7 +90,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-21",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/83e844520e41eb0cfa5b3875031a0f6e.jpg",
@@ -107,7 +107,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-19",
       "cover_url": "",
@@ -118,71 +118,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POKQ-008"
     },
     {
-      "id": 78143,
-      "IDcode": "MGT-091",
-      "title": "街角シロウトナンパ！ vol.66 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 7",
+      "id": 226294,
+      "IDcode": "ABP-135",
+      "title": "天然成分由来-芽森滴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-10-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/06c78fe0f7209ae2364c2d7797c97414.jpg",
-      "actress": [
-        "七海雛",
-        "寶生莉莉",
-        "稻场流花",
-        "河北麻衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-091"
-    },
-    {
-      "id": 69867,
-      "IDcode": "SUPA-401",
-      "title": "露出度が高い過激な服装のビッチ素人ナンパ！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S級素人",
-      "publish_date": "2018-12-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/54a0b71dda63b7c7a89291b1849ed3df.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-04-22",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6786529f5d57b64bfd93f5f2/cover.jpg",
       "actress": [
         "寶生莉莉",
-        "椎叶みくる",
-        "一二三铃",
-        "柳川まこ"
+        "森林原人",
+        "沢井亮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
-    },
-    {
-      "id": 105720,
-      "IDcode": "MEYD-454",
-      "title": "未だに現役で母さんを抱きまくる僕の絶倫オヤジに嫁が欲情して危険日狙って中出し逆夜這い 宝生リリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-12-13",
-      "cover_url": "https://tutu1.space/images/2024/03/11/7a70bc68fcda1236f996e237da38bdba.jpg",
-      "actress": [
-        "寶生莉莉",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-135"
     },
     {
       "id": 107262,
       "IDcode": "JUY-697",
-      "title": "夫の友人NTR種付けプレス 結婚2年目…幸せの絶頂だった俺の誕生日に届いた親友からのビデオレター。 宝生リリー",
+      "title": "被老公的朋友强奸受孕-宝生リリー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2018-12-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/647214b86f90f88e2d0f43a63ce643c5.jpg",
       "actress": [
         "寶生莉莉"
       ],
@@ -191,122 +154,167 @@ window.actressData = {
     {
       "id": 106148,
       "IDcode": "PRED-113",
-      "title": "インテリ女上司の身代わりコスプレ中出し撮影会 宝生リリー",
+      "title": "代替COSER的女上司惨遭轮流中出摄影",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2018-12-07",
-      "cover_url": "https://tutu1.space/images/2025/03/16/f7c7f2ae01a568e5dec0da5d14aa2e32.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "寶生莉莉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-113"
     },
     {
-      "id": 77027,
-      "IDcode": "OYC-222",
-      "title": "学生時代に妻をイジメていたイジメっ子たちにその代償を払わせてやる！ボクの妻は小さな頃から気が弱く学生時代はずっとイジメのターゲットにされていた。結婚した今でもトラウマに悩まされている。だからボクはそのトラウマを解消するべく、幸せいっぱいの日々を過ごして…",
+      "id": 105720,
+      "IDcode": "MEYD-454",
+      "title": "排卵日私通内射的人妻-宝生リリー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "寶生莉莉",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-454"
+    },
+    {
+      "id": 105481,
+      "IDcode": "ABP-234",
+      "title": "芽森滴中出内射解禁注入浓精",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2018-12-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240404-1/3b873c6825df5e7a39c7ac88ac76358b.jpg",
       "actress": [
-        "星空萌愛",
         "寶生莉莉",
-        "タツ"
+        "沢井亮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-234"
     },
     {
-      "id": 71323,
-      "IDcode": "PPPD-713",
-      "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 宝生リリー",
+      "id": 105459,
+      "IDcode": "MEYD-421",
+      "title": "在最爱的老公面前被强迫受孕-宝生リリー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2018-11-19",
-      "cover_url": "https://tutu1.space/images/2025/03/05/12c53304f28257d3a375d6e166ffa3ce.jpg",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "寶生莉莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-713"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-421"
     },
     {
-      "id": 77734,
-      "IDcode": "MDB-958",
-      "title": "麗しい巨乳和美人がおもてなしする超高級浴衣ヘルス",
+      "id": 104423,
+      "IDcode": "ABP-146",
+      "title": "人生第一次如此激烈的性爱-芽森滴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/1a1ba167c0ad2c99dc97a87f35e5810b.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240113-1/80b6a5c8d5e1c5f41817dfeb7e194bf9.jpg",
       "actress": [
-        "羽生ありさ",
-        "霧島さくら",
         "寶生莉莉",
-        "逢泽真里亚"
+        "森林原人",
+        "田渊正浩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-146"
     },
     {
-      "id": 69523,
-      "IDcode": "MEYD-431",
-      "title": "忘年会～一滴も酒が飲めない妻が上司のお酌を断りきれずに酔わされSEXされた映像～ 宝生リリー",
+      "id": 97675,
+      "IDcode": "ABP-196",
+      "title": "超最新迷恋美容-芽森滴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-10-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/f4caf8379fa0b091994b0fd0be9e2b26.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/a9e99f28c057899a7c441ca704ce4ab2.jpg",
       "actress": [
         "寶生莉莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-431"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-196"
     },
     {
-      "id": 71211,
-      "IDcode": "HAWA-148",
-      "title": "寝取らせ検証『綺麗な裸を残しておきたい』メモリアルヌード撮影で共演した夫よりも若いモデルの他人棒を見て愛液を垂らした妻はその後、SEXしてしまうのか？VOL.6",
+      "id": 96621,
+      "IDcode": "SHKD-690",
+      "title": "一起调教女友-芽森滴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Cosmos 映像",
-      "publish_date": "2018-08-01",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "寶生莉莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-690"
     },
     {
-      "id": 77651,
-      "IDcode": "MGT-031",
-      "title": "街角シロウトナンパ！vol.13～ネットで噂のHな説検証編～",
+      "id": 96287,
+      "IDcode": "SHKD-675",
+      "title": "被夺走的清纯妻子-芽森滴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-08",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "寶生莉莉",
-        "香苗レノン",
-        "天野美优",
-        "河北彩未"
+        "寶生莉莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-675"
+    },
+    {
+      "id": 95996,
+      "IDcode": "ABP-172",
+      "title": "美丽大小姐猥琐的饲养-芽森滴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240927-1/4e42912246c3dff633cf2013a6df94c0.jpg",
+      "actress": [
+        "寶生莉莉",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-172"
+    },
+    {
+      "id": 79139,
+      "IDcode": "NACR-441",
+      "title": "隔壁的漂亮妻子-宝生リリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/d372576c9596c041f6359066b570104a.jpg",
+      "actress": [
+        "寶生莉莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-441"
     },
     {
       "id": 78201,
@@ -315,9 +323,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2018-04-06",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "森春流",
@@ -334,16 +342,124 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DCX-079"
     },
     {
-      "id": 73376,
-      "IDcode": "PGD-783",
-      "title": "不穿內褲誘惑女教師 芽森雫",
+      "id": 78143,
+      "IDcode": "MGT-091",
+      "title": "搭訕街角素人 VOL.66～請介紹你的破麻朋友吧 7[有碼高清]",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2015-06-07",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1328052bb48ffe1deb9cd102567d498e.jpg",
+      "actress": [
+        "七海雛",
+        "寶生莉莉",
+        "稻场流花",
+        "河北麻衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-091"
+    },
+    {
+      "id": 77844,
+      "IDcode": "ABP-161",
+      "title": "奴隶泡泡浴女郎-芽森滴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/286f548cb9166d472da696bff2287fc0.jpg",
+      "actress": [
+        "寶生莉莉",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-161"
+    },
+    {
+      "id": 77734,
+      "IDcode": "MDB-958",
+      "title": "麗しい巨乳和美人がおもてなしする超高級浴衣ヘルス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "羽生ありさ",
+        "霧島さくら",
+        "寶生莉莉",
+        "逢泽真里亚"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-958"
+    },
+    {
+      "id": 77651,
+      "IDcode": "MGT-031",
+      "title": "街角シロウトナンパ！vol.13～ネットで噂のHな説検証編～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/29b77c27ce504036184051d7622e350e.jpg",
+      "actress": [
+        "寶生莉莉",
+        "香苗レノン",
+        "天野美优",
+        "河北彩未"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-031"
+    },
+    {
+      "id": 77027,
+      "IDcode": "OYC-222",
+      "title": "学生時代に妻をイジメていたイジメっ子たちにその代償を払わせてやる！ボクの妻は小さな頃から気が弱く学生時代はずっとイジメのターゲットにされていた。結婚した今でもトラウマに悩まされている。だからボクはそのトラウマを解消するべく、幸せいっぱいの日々を過ごして…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "星空萌愛",
+        "寶生莉莉",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-222"
+    },
+    {
+      "id": 74306,
+      "IDcode": "JUY-641",
+      "title": "老公的弟弟从后面把我按倒狂插-宝生リリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250111-1/6fbab7c6ff768d6d571fe67c262c8324.jpg",
+      "actress": [
+        "寶生莉莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-641"
+    },
+    {
+      "id": 73376,
+      "IDcode": "PGD-783",
+      "title": "不穿内裤诱惑的超短裙女教师芽森滴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/343ba9dad28c2c5ca81ca696476664d5.jpg",
       "actress": [
         "寶生莉莉",
         "小田切ジュン"
@@ -351,33 +467,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-783"
     },
     {
-      "id": 104423,
-      "IDcode": "ABP-146",
-      "title": "插到恍神爽翻天超嗨幹砲 芽森雫",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-05-23",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp146/118abp146pl.jpg",
-      "actress": [
-        "寶生莉莉",
-        "森林原人",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-146"
-    },
-    {
       "id": 72294,
       "IDcode": "ABP-115",
-      "title": "最棒的性愛。 芽森雫",
+      "title": "最高级的情人-芽森滴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-03-11",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "寶生莉莉"
@@ -385,20 +483,87 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-115"
     },
     {
-      "id": 79139,
-      "IDcode": "NACR-441",
-      "title": "- 隣の美人妻 泥●し部屋を間違え「ただいま～！」 宝生リリー - JAV目錄大全javmenu.com",
+      "id": 71323,
+      "IDcode": "PPPD-713",
+      "title": "女友的巨乳姐姐用内射来诱惑我",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250305-1/0cf55bd9ac9c5ac4a95dddf677cb93e4.jpg",
       "actress": [
         "寶生莉莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-441"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-713"
+    },
+    {
+      "id": 71211,
+      "IDcode": "HAWA-148",
+      "title": "我想让你一丝不挂地离开",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Cosmos 映像",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ca6b419c2cafc4166519d122ee474462.jpg",
+      "actress": [
+        "寶生莉莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-148"
+    },
+    {
+      "id": 69867,
+      "IDcode": "SUPA-401",
+      "title": "露出度が高い過激な服装のビッチ素人ナンパ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S級素人",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/62cd3a0f0ac9e9e6468acaea35f74138.jpg",
+      "actress": [
+        "寶生莉莉",
+        "椎叶みくる",
+        "一二三铃",
+        "柳川まこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
+    },
+    {
+      "id": 69523,
+      "IDcode": "MEYD-431",
+      "title": "不会喝酒的妻子被上司灌醉轮奸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686fa3b843d697271603e60f/cover.jpg",
+      "actress": [
+        "寶生莉莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-431"
+    },
+    {
+      "id": 4227,
+      "IDcode": "ZMAR-140",
+      "title": "まるっと！宝生リリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720023431649649_35161_thumbnail.webp",
+      "actress": [
+        "寶生莉莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMAR-140"
     }
   ]
 };

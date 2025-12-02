@@ -41,84 +41,18 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231016/527703ef-e08d-4545-a9b0-11ca807ffafc.jpg",
     "https://picture.yoshiclub.xyz/20231016/87bdf43c-4dd7-43f5-8e05-8c4221b304e4.jpg"
   ],
-  "works_count": 7,
+  "works_count": 14,
   "related_dramas": [
-    {
-      "id": 16752,
-      "IDcode": "EBWH-066",
-      "title": "體液互換，激烈性愛，響蓮喜歡做愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2024-01-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240114/20240114065649226226.jpg",
-      "actress": [
-        "響蓮"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-066"
-    },
-    {
-      "id": 105991,
-      "IDcode": "EBWH-058",
-      "title": "超エビ反りマゾ化拘束エステ 極細くびれ巨乳客を狙うイカセ技だけは超一流の卑劣施術師 響蓮 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-12-20",
-      "cover_url": "",
-      "actress": [
-        "響蓮"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-058"
-    },
-    {
-      "id": 106498,
-      "IDcode": "EBWH-044",
-      "title": "終電逃して後輩家に泊まることに… 部屋着のトレーニングウェア姿と健康的な巨乳スリムボディに興奮し一晩中アスリート並みに貪り合った。 響蓮 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-11-22",
-      "cover_url": "",
-      "actress": [
-        "響蓮",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-044"
-    },
-    {
-      "id": 18313,
-      "IDcode": "EBWH-028",
-      "title": "苗條大奶的瘋狂女人 乖乖的聽我的話被我操",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-10-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20231015/20231015080145399399.jpg",
-      "actress": [
-        "響蓮",
-        "向理来"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-028"
-    },
     {
       "id": 107266,
       "IDcode": "HMN-455",
-      "title": "イクイク敏感ボディがナマでイクッ！！ 超新人級のセックス3冠王さらなる飛躍 中出し解禁 響蓮 生写真2枚付き",
+      "title": "高潮敏感身軀無套高潮！！ 超新人級的性愛3冠王更加飛躍 中出解禁 響蓮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2023-08-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "響蓮",
@@ -128,16 +62,82 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-455"
     },
     {
-      "id": 91057,
-      "IDcode": "CAWD-533",
-      "title": "超新人級のセックス3冠王‘響蓮’が大好きなお酒とセックス禁止！！ 【禁酒×禁欲】生活を続けて1ヶ月後、死ぬほど仰け反ってぶっ壊れて最低10，000回イッた、大・大・大過激アクメ",
+      "id": 106498,
+      "IDcode": "EBWH-044",
+      "title": "巨乳美体-响莲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2023-05-02",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/01/686331433ed39b57c043856d/cover.jpg",
+      "actress": [
+        "響蓮",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-044"
+    },
+    {
+      "id": 105991,
+      "IDcode": "EBWH-058",
+      "title": "超虾翘抖M拘束美容院-響蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a57a68f1cbfc7a9c7db6c/cover.jpg",
+      "actress": [
+        "響蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-058"
+    },
+    {
+      "id": 101661,
+      "IDcode": "EBWH-079",
+      "title": "同学会NTR-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "響蓮",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-079"
+    },
+    {
+      "id": 91059,
+      "IDcode": "CAWD-532",
+      "title": "史上最年少的三冠性爱王-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "響蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-532"
+    },
+    {
+      "id": 91057,
+      "IDcode": "CAWD-533",
+      "title": "最喜欢的酒和性爱都被禁止-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683d8b940b69f1d81649357a/cover.jpg",
       "actress": [
         "響蓮",
         "イセドン内村",
@@ -146,20 +146,138 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-533"
     },
     {
-      "id": 91059,
-      "IDcode": "CAWD-532",
-      "title": "超新人級 史上最年少のセックス3冠王 響蓮21歳 AVデビュー",
+      "id": 18313,
+      "IDcode": "EBWH-028",
+      "title": "馬上潮汁滿天飛-響蓮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2023-03-31",
-      "cover_url": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231015/20231015080145399399.jpg",
+      "actress": [
+        "響蓮",
+        "向理来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-028"
+    },
+    {
+      "id": 16752,
+      "IDcode": "EBWH-066",
+      "title": "交融体液-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240114/20240114065649226226.jpg",
       "actress": [
         "響蓮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-066"
+    },
+    {
+      "id": 15437,
+      "IDcode": "EBWH-090",
+      "title": "外表很漂亮的我的愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412231052337337.jpg",
+      "actress": [
+        "設樂夕日",
+        "響蓮",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-090"
+    },
+    {
+      "id": 14656,
+      "IDcode": "EBWH-097",
+      "title": "我的女友为了公司利益-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517024353671671.jpg",
+      "actress": [
+        "響蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-097"
+    },
+    {
+      "id": 13967,
+      "IDcode": "EBWH-118",
+      "title": "SEX三冠王-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614014823805805.jpg",
+      "actress": [
+        "響蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-118"
+    },
+    {
+      "id": 13373,
+      "IDcode": "EBWH-120",
+      "title": "三性皇冠王-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712012328866866.jpg",
+      "actress": [
+        "響蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-120"
+    },
+    {
+      "id": 12639,
+      "IDcode": "EBWH-137",
+      "title": "華麗巨乳的導演-響蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/67875e58c179ffb1db907bcb/cover.jpg",
+      "actress": [
+        "響蓮",
+        "鲛岛",
+        "南佳也",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-137"
+    },
+    {
+      "id": 11984,
+      "IDcode": "MIAB-313",
+      "title": "双亲不在的三天-响莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-3/5a834612a79d89da6ea99a7d693edcaf.jpg",
+      "actress": [
+        "響蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-313"
     }
   ]
 };

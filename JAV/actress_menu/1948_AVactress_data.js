@@ -40,62 +40,13 @@ window.actressData = {
   "works_count": 7,
   "related_dramas": [
     {
-      "id": 2373,
-      "IDcode": "SAN-395",
-      "title": "寢取超暴乳人妻，巨乳炸裂 4小時 故事集 ~ 吉根柚莉愛 星乃麻美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213355590590_23306_thumbnail.webp",
-      "actress": [
-        "吉根柚莉爱",
-        "星乃麻美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-395"
-    },
-    {
-      "id": 106443,
-      "IDcode": "MEKO-253",
-      "title": "出租歐巴桑任肏到中出回歸 33",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "素人Only",
-      "publish_date": "2022-12-08",
-      "cover_url": "https://tutu1.space/images/2023/01/03/598894348d035198ae2c51063ce674df.jpg",
-      "actress": [
-        "星乃麻美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-253"
-    },
-    {
-      "id": 72765,
-      "IDcode": "USBA-020",
-      "title": "制服緊縛 伯父に調教されています...性奴●にされた私…。 星乃マミ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-10-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/64d4562ab3ec34fc3decfa2648abb8f9.jpg",
-      "actress": [
-        "星乃麻美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-020"
-    },
-    {
       "id": 82091,
       "IDcode": "URKK-027",
       "title": "最低10発はヌクッ！！爆乳と巨尻杭打ちピストンでザーメンを搾り取る何発でも中出しOKの巨乳回春サロン 星乃マミ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "UNFINISHED",
       "publish_date": "2020-04-07",
       "cover_url": "",
@@ -111,10 +62,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MERCURY",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/MyD9yuG9/1.jpg",
       "actress": [
         "星乃麻美"
       ],
@@ -127,8 +78,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2020-03-19",
       "cover_url": "",
       "actress": [
@@ -143,7 +94,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2020-03-13",
       "cover_url": "",
@@ -151,6 +102,55 @@ window.actressData = {
         "星乃麻美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-105"
+    },
+    {
+      "id": 106443,
+      "IDcode": "MEKO-253",
+      "title": "姨妈出租33",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250319-1/0bb66b3bc4073d8ebc3daddbe0300384.jpg",
+      "actress": [
+        "星乃麻美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-253"
+    },
+    {
+      "id": 72765,
+      "IDcode": "USBA-020",
+      "title": "制服緊縛-星乃マミ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/65c0db008e24fcacfb5dd45447eff756.jpg",
+      "actress": [
+        "星乃麻美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=USBA-020"
+    },
+    {
+      "id": 2373,
+      "IDcode": "SAN-395",
+      "title": "人間離れした乳を持つ寝取られた超乳奥様4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "吉根柚莉爱",
+        "星乃麻美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-395"
     }
   ]
 };

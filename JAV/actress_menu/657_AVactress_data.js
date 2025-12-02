@@ -45,153 +45,75 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250425/235080f0-6bb5-49b6-8a7c-d75ea1619dd8_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250425/fadd36d3-b380-4707-b61f-95cbfb271ce3_l.webp"
   ],
-  "works_count": 10,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 2562,
-      "IDcode": "NSFS-417",
-      "title": "三天兩夜露營：社區帳篷輪番戰3，老頭子們多次內射我老婆 ~ 徳永しおり",
+      "id": 8338,
+      "IDcode": "MADM-196",
+      "title": "你想射多少次都沒關系……我全聽你的！處男被素人熟女勾引 24 ALL 2連發3組完全收錄 ~ 徳永しおり 鬆本梨穂 那賀崎ゆきね",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919043135940940_40720_thumbnail.webp",
-      "actress": [
-        "徳永しおり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-417"
-    },
-    {
-      "id": 61810,
-      "IDcode": "PYM-527",
-      "title": "「私で射精してっ」アナタを誘惑する指だけ爆イキ自画撮りオナニー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-15",
-      "cover_url": "",
+      "publish_date": "2025-02-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250212/a70ef5b3-40cc-44f3-8e6b-49ebaebd705e.jpg",
       "actress": [
-        "吉泽友贵",
-        "久和原聖羅",
-        "桃瀨日葵",
-        "徳永しおり",
-        "木村好乃美",
-        "渋谷夏",
-        "小倉和葉",
-        "及川莉央",
-        "藤田さち"
+        "松本梨穂",
+        "那賀崎雪音",
+        "徳永しおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADM-196"
     },
     {
-      "id": 3899,
-      "IDcode": "MMPB-086",
-      "title": "專盯巨乳爆乳下手！都內某雜居樓裡的非法按摩店內幕 ~ 神坂朋子 寶生梅 桃木結愛 倉多真央 寶田萌奈美 吉根柚莉愛 西野繪美 德永詩織",
+      "id": 12287,
+      "IDcode": "YMDD-404",
+      "title": "通過催眠療法激發出潛在性欲的已婚人妻 vol.2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802033613267267_26021_thumbnail.webp",
+      "publish_date": "2024-09-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901021240687687.jpg",
       "actress": [
-        "吉根柚莉爱",
         "西野絵美",
-        "宝田萌奈美",
         "仓多真央",
-        "神坂朋子",
-        "徳永しおり",
-        "桃木結愛",
-        "宝生めい"
+        "徳永しおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-404"
     },
     {
-      "id": 6603,
-      "IDcode": "HODV-21965",
-      "title": "本來只想親個嘴，結果… 溼熱接吻與出軌中出激戰 ~ 徳永しおり 小鬆杏 有村希 末広純",
+      "id": 12749,
+      "IDcode": "EKDV-748",
+      "title": "獨自在一個鄉村小鎮工作...被隔壁性欲過度活躍的離婚美女的精致身體所誘惑，我一遍又一遍地射在她體內... ~ 徳永しおり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250425/20250425035727763763_thumbnail.webp",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "2024-08-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20240811/7fd9fafb-f563-4da5-a500-c24e1188160c.jpg",
       "actress": [
-        "末広純",
-        "有村希",
-        "小松杏",
         "徳永しおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21965"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-748"
     },
     {
-      "id": 8029,
-      "IDcode": "NSFS-362",
-      "title": "在上司面前，我的妻子成了裸體模特 Vol.14 ~ 徳永しおり",
+      "id": 17585,
+      "IDcode": "EKDV-726",
+      "title": "清純的研究生出現在AV中。只有一個男人的經驗哦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250223/964cd25d-4620-4e63-9904-becd31ea35b3.jpg",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "2023-11-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20231127/81d52255-6cb2-47ae-a4c4-be5fb834df8c.jpg",
       "actress": [
         "徳永しおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-362"
-    },
-    {
-      "id": 16630,
-      "IDcode": "HOMA-137",
-      "title": "（真實故事）我的新婚老板出差，操了我孤獨的白皮膚大屁股妻子，並一次又一次讓她懷孕了 德永詩織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2024-01-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20240123/a42ff18e-8cde-4c7a-9e19-857b5e03a023.jpg",
-      "actress": [
-        "徳永しおり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-137"
-    },
-    {
-      "id": 67283,
-      "IDcode": "DLDSS-128",
-      "title": "出差按摩師的卑猥施術…被開發成乳頭高潮般敏感身軀的我、無法忍耐快樂自己懇求起肉棒。德永詩織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-10-20",
-      "cover_url": "",
-      "actress": [
-        "徳永しおり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-128"
-    },
-    {
-      "id": 73233,
-      "IDcode": "DLDSS-120",
-      "title": "見た目は上品、中身はド淫乱 異常なる性欲で痴女る騎乗位 徳永しおり パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-09-22",
-      "cover_url": "",
-      "actress": [
-        "徳永しおり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-120"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-726"
     },
     {
       "id": 84379,
@@ -200,7 +122,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
       "publish_date": "2022-08-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/15b169700fe8fa78330fc8dcbcdbe005.jpg",
@@ -216,14 +138,176 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
       "publish_date": "2022-07-21",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/LvrFm9j0.jpg",
       "actress": [
         "徳永しおり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-099"
+    },
+    {
+      "id": 73233,
+      "IDcode": "DLDSS-120",
+      "title": "見た目は上品、中身はド淫乱 異常なる性欲で痴女る騎乗位 徳永しおり パンティと写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/918aefd1dc60823518848dbbb8703b10.jpg",
+      "actress": [
+        "徳永しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-120"
+    },
+    {
+      "id": 67283,
+      "IDcode": "DLDSS-128",
+      "title": "旅行按摩师的淫秽待遇-徳永しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/46b98dc166534e2ad5d0b76a52d7aa1b.jpg",
+      "actress": [
+        "徳永しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-128"
+    },
+    {
+      "id": 61810,
+      "IDcode": "PYM-527",
+      "title": "「私で射精してっ」アナタを誘惑する指だけ爆イキ自画撮りオナニー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "吉泽友贵",
+        "久和原聖羅",
+        "桃瀨日葵",
+        "徳永しおり",
+        "木村好乃美",
+        "渋谷夏",
+        "小倉和葉",
+        "及川莉央",
+        "藤田さち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
+    },
+    {
+      "id": 16630,
+      "IDcode": "HOMA-137",
+      "title": "新婚的上司出差中-德永诗织",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240123/a42ff18e-8cde-4c7a-9e19-857b5e03a023.jpg",
+      "actress": [
+        "徳永しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-137"
+    },
+    {
+      "id": 10705,
+      "IDcode": "AVSA-343",
+      "title": "菩萨荡妇妹妹融化的脏话和甜蜜的折磨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241110/122f876c-3fee-462f-abde-f0d807eb5c2d.jpg",
+      "actress": [
+        "徳永しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-343"
+    },
+    {
+      "id": 8029,
+      "IDcode": "NSFS-362",
+      "title": "我的妻子在我老板面前当起了裸体模特",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250223/964cd25d-4620-4e63-9904-becd31ea35b3.jpg",
+      "actress": [
+        "徳永しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-362"
+    },
+    {
+      "id": 6603,
+      "IDcode": "HODV-21965",
+      "title": "「キスだけ。と、思ってたのに…」いやらしい接吻と不倫と中出し性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250425/20250425035727763763_thumbnail.webp",
+      "actress": [
+        "末広純",
+        "有村希",
+        "小松杏",
+        "徳永しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21965"
+    },
+    {
+      "id": 3899,
+      "IDcode": "MMPB-086",
+      "title": "ターゲットは巨乳・爆乳ばかり！ 都内の某雑居ビルにある違法マッサージ店の実態",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/747cca6e116449e558c8a0287020bfda.jpg",
+      "actress": [
+        "吉根柚莉爱",
+        "西野絵美",
+        "宝田萌奈美",
+        "仓多真央",
+        "神坂朋子",
+        "徳永しおり",
+        "桃木結愛",
+        "宝生めい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-086"
+    },
+    {
+      "id": 2562,
+      "IDcode": "NSFS-417",
+      "title": "我的妻子被老男人反复中出-徳永しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "徳永しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-417"
     }
   ]
 };

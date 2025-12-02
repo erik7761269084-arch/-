@@ -40,14 +40,14 @@ window.actressData = {
     {
       "id": 84762,
       "IDcode": "IPIT-028",
-      "title": "素人辣妹配對把上！！ ≪港區在住≫即交型！！名媛辣妹AV出道 IP逸材發掘計畫 藤井梨亞奈",
+      "title": "居住在港区-藤井リアナ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-05-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/24f87fea13e1721cd585b19130d5e464.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "百合咲うるみ",
         "鲛岛",
@@ -56,31 +56,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-028"
     },
     {
-      "id": 19409,
-      "IDcode": "IPX-026",
-      "title": "退休！訓練有素的gal Yurisaki Urumi被勒死了！噴！連續打屁股！深他媽的！大規模顏射！ “百合崎因為訓練強姦太多而要退休了！”",
+      "id": 78453,
+      "IDcode": "IPZ-820",
+      "title": "淫荡的护士-百合咲うるみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-10-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230514/20230514093923664664.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "百合咲うるみ"
+        "百合咲うるみ",
+        "鲛岛",
+        "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-026"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-820"
     },
     {
       "id": 19423,
       "IDcode": "IPX-010",
-      "title": "燕尾豪華露營狂歡派對 DVD 洩漏 清酒池肉森林狂歡狂歡 富人的嚴重狡猾性愛",
+      "title": "豪华野营夹紧乱交的派对-百合咲うるみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-09-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230512/20230512211803438438.jpg",
       "actress": [
         "百合咲うるみ"

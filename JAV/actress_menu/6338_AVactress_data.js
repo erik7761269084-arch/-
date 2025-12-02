@@ -22,19 +22,38 @@ window.actressData = {
     "Ikehata Mami"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 102740,
-      "IDcode": "SDDE-442",
-      "title": "もしもの時の近親相姦イメトレVTR 数年ぶりに会い見違えるほどに成長した姪の無防備な素肌に目が行き、互いに意識してしまった時 貴方ならどうする？",
+      "id": 100243,
+      "IDcode": "HUNTA-130",
+      "title": "両親の留守を良い事にお泊まり會を開く妹。ただ、ボクたちは相部屋。とにかく狹い",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-03-17",
+      "cover_url": "",
+      "actress": [
+        "爱代さやか",
+        "里见まゆ",
+        "水嶋杏树",
+        "池端真実"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-130"
+    },
+    {
+      "id": 102740,
+      "IDcode": "SDDE-442",
+      "title": "多年来第一次见到侄女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2016-05-26",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdde442/1sdde442pl.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "迹美珠里",
         "花笑一杏",

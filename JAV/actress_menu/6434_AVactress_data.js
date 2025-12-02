@@ -4,7 +4,7 @@ window.actressData = {
   "name": "るいさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,19 +20,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 101231,
-      "IDcode": "MAAN-946",
-      "title": "【他の追随を許さないハイクラスslimボディ】歩く美意識、自分磨きに余念がない神ボディ美女の悩みは欲求不満！？電マと極太バイブで欲情マ●コを鬼イカセ！性欲開花、乳首を弄りながら一心不乱にジュボジュボ口淫！淫靡ランジェリー×ヌルテカSEX！エグい膣圧、ガチ感なまパコ！大量中出し3連発！！！【なまハメT☆kTok】【るいさ】",
+      "IDcode": "300MAAN-0946",
+      "title": "抖音健身美乳網紅無套狂插中出連2發",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOC",
-      "publish_date": "2024-01-27",
-      "cover_url": "https://tutu1.space/images/2024/02/27/21da3ef46989f371fcbf0e9da301ce50.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240227-1/9c1c0c6374eba0531f3ca279dabff2b0.jpg",
       "actress": [
         "るいさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0946"
     }
   ]
 };

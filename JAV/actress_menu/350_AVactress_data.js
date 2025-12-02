@@ -54,103 +54,60 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230927/3d80b603-cf5a-40a3-9376-7e479c4a1317.jpg",
     "https://picture.yoshiclub.xyz/20230927/db46f0be-7051-46ce-849b-bc9a171ea324.jpg"
   ],
-  "works_count": 14,
+  "works_count": 23,
   "related_dramas": [
     {
-      "id": 3213,
-      "IDcode": "MIDA-312",
-      "title": "年下控天宮老師的玩弄乳首淫語授業課，女友在旁也忍不住了NTR中出教學 ~ 天宮花南",
+      "id": 7520,
+      "IDcode": "MIRD-253",
+      "title": "MOODYZ粉絲感謝祭 巴可巴可巴士之旅2025 17名素人與17名AV女優的1泊2日大亂交 新世代AV全明星覺醒！超長11小時收錄",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032706962962_26105_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-03-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313082951601601.jpg",
       "actress": [
+        "美園和花",
+        "波多野结衣",
+        "天馬唯",
+        "都月楓",
+        "彌生美月",
+        "椿莉香",
+        "松本一香",
+        "新村朱里",
+        "木下日葵",
+        "春陽萌花",
+        "有村希",
+        "七瀨愛麗絲",
+        "宍戸里帆",
+        "浜辺栞帆",
+        "静河",
+        "三岳祐奈",
+        "有岡みう",
+        "月乃露娜",
+        "小野六花",
+        "山岸逢花",
+        "Unpai",
         "天宮花南"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-312"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-253"
     },
     {
-      "id": 4007,
-      "IDcode": "MIDA-268",
-      "title": "荒涼山村沒年輕人，少女渴求子種飢渴難耐，乳頭硬挺腿軟高潮求中出 ~ 天宮花南",
+      "id": 12561,
+      "IDcode": "START-144",
+      "title": "「好久不見了。天宮花南在嗎？」 被拉黑了兩年的炮友（♀）突然聯系了……和已結婚的人妻許久重逢。她抱怨丈夫的不忠，很爽快就同意一起去酒店了！ ~ 天宮花南",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085252304304_18024_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-09-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240820/568a97b0-de2c-4b9f-8ec1-677f2e66fa1a.jpg",
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-268"
-    },
-    {
-      "id": 5739,
-      "IDcode": "MIDA-189",
-      "title": "只能蹭蹭不能插入哦！被宅男弟弟纏上，溫柔姐姐無奈幫忙解決弟弟憋了10年的欲望，溼透小穴被偷偷插進2釐米也無法拒絕…中出禁斷之戀 ~ 天宮花南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529090439539539_thumbnail.webp",
-      "actress": [
-        "天宮花南"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-189"
-    },
-    {
-      "id": 6476,
-      "IDcode": "MIDA-152",
-      "title": "學生會長花南創立泡泡浴部，性感制服誘惑不停歇，無限射精服務 ~ 天宮花南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043408856856_thumbnail.webp",
-      "actress": [
-        "天宮花南"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-152"
-    },
-    {
-      "id": 8703,
-      "IDcode": "MIDA-038",
-      "title": "專屬決定 史上最HIGH高潮！即使在這種情況下，雞巴大力抽插狀態也不會停止！絕對 ~ 天宮花南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080133338338.jpg",
-      "actress": [
-        "天宮花南"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-038"
-    },
-    {
-      "id": 10367,
-      "IDcode": "START-239",
-      "title": "和比我年長的男友一起度過的一年，玩遊戲，睡覺，做愛 ~ 天宮花南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241126/ca94dfc5-2f48-4954-97fa-41f97217e245.jpg",
-      "actress": [
-        "天宮花南"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-239"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-144"
     },
     {
       "id": 13137,
@@ -159,8 +116,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-07-23",
       "cover_url": "https://picture.yoshiclub.xyz/20240723/a89112b5-3ab7-421b-a8f1-21849c6ad329.jpg",
       "actress": [
@@ -169,37 +126,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-124"
     },
     {
-      "id": 13890,
-      "IDcode": "START-087",
-      "title": "天宮花南 33発中出大亂交 ！",
+      "id": 15184,
+      "IDcode": "START-047",
+      "title": "用按摩棒狠狠的操天宮花南，大量潮吹，然後再狠狠的把雞巴插入她的陰道 ~ 天宮花南",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240618/a48c968f-a8c8-4333-a544-6ef656ecbd6d.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-05-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240423/20240423050020511511.jpg",
       "actress": [
         "天宮花南"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-087"
-    },
-    {
-      "id": 14560,
-      "IDcode": "START-071",
-      "title": "學生公寓的漂亮房東是一個性欲極強的蕩婦，喜歡以免租來誘惑玩弄處男的雞巴 ~ 天宮花南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240521/66cc098b-abef-49d4-b95d-a240756dcc57.jpg",
-      "actress": [
-        "天宮花南",
-        "ぽぴと"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-071"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-047"
     },
     {
       "id": 15950,
@@ -208,10 +148,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/temp/20240319014636191191.jpg",
+      "cover_url": "",
       "actress": [
         "天宮花南"
       ],
@@ -224,8 +164,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-02-27",
       "cover_url": "https://picture.yoshiclub.xyz/20240227/20240227021151415415.jpg",
       "actress": [
@@ -240,7 +180,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226063226703703.jpg",
@@ -256,7 +196,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-12-21",
       "cover_url": "https://picture.yoshiclub.xyz/20231129/20231129055219582582.jpg",
@@ -266,20 +206,249 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-976"
     },
     {
-      "id": 18548,
-      "IDcode": "STARS-936",
-      "title": "【草食系男性豈用】超絕上下搖晃的騎乘位 邊做愛邊罵男人為樂的癡女的密室射精管理",
+      "id": 155272,
+      "IDcode": "STARS-807",
+      "title": "经理部的欲求不满OL-天宫花南",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-10-26",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-807"
+    },
+    {
+      "id": 18548,
+      "IDcode": "STARS-936",
+      "title": "【超級受虐草食男專月】超級虐心女主人以騎乘位姿勢自上而下俯視你！ 謾罵無能男人獲得快感的超糟糕癡女密室射精管理 天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926035048954954.jpg",
       "actress": [
         "天宮花南"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-936"
+    },
+    {
+      "id": 14560,
+      "IDcode": "START-071",
+      "title": "学生公寓的美女房东不收房租-天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240521/66cc098b-abef-49d4-b95d-a240756dcc57.jpg",
+      "actress": [
+        "天宮花南",
+        "ぽぴと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-071"
+    },
+    {
+      "id": 13890,
+      "IDcode": "START-087",
+      "title": "插入33个鸡巴并颜射-宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240618/a48c968f-a8c8-4333-a544-6ef656ecbd6d.jpg",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-087"
+    },
+    {
+      "id": 11930,
+      "IDcode": "START-170",
+      "title": "为了夫妇的未来而开始的交通诱导",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240917/0f0ce566-30da-4850-8604-e268c2957460.jpg",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-170"
+    },
+    {
+      "id": 11024,
+      "IDcode": "START-196",
+      "title": "ある日 隠れ巨乳の家出少女がアパートに住みついた 娘のように思っていたがSEXをねだられ 脱いだら最高のカラダで人生で最高に気持ちよくて ヤリまくった日々 天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788b63a30833b4bf53bd67d/cover.jpg",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-196"
+    },
+    {
+      "id": 10367,
+      "IDcode": "START-239",
+      "title": "年上セフレと過ごす休日 僕の家でゲームしてセックスして寝る 天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241126/ca94dfc5-2f48-4954-97fa-41f97217e245.jpg",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-239"
+    },
+    {
+      "id": 8703,
+      "IDcode": "MIDA-038",
+      "title": "史上最爽的状态下也不停止中出活塞运动",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8abcccf22ae3e04db5116/cover.jpg",
+      "actress": [
+        "天宮花南",
+        "天宫花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-038"
+    },
+    {
+      "id": 7878,
+      "IDcode": "MIDA-074",
+      "title": "身为班主任无法抵挡学生的诱惑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c619ce4e7d663df4cd2f70/cover.jpg",
+      "actress": [
+        "天宮花南",
+        "天宫花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-074"
+    },
+    {
+      "id": 6476,
+      "IDcode": "MIDA-152",
+      "title": "学校新成立了一个泡泡浴社团-天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/46eb0a6934c7cdde43a91de4bc6e9797.jpg",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-152"
+    },
+    {
+      "id": 5739,
+      "IDcode": "MIDA-189",
+      "title": "只是蹭蹭不进去可以吗处男弟弟求我帮她解决性需求-天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529090439539539_thumbnail.webp",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-189"
+    },
+    {
+      "id": 4969,
+      "IDcode": "MIDA-225",
+      "title": "ゴミ部屋に住む引きこもりコドおじが自立支援してくれるボランティア女子大生に恋をした…告白・拒否・襲撃・監禁レ×プ中出し同棲生活 天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031625601601_thumbnail.webp",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-225"
+    },
+    {
+      "id": 4007,
+      "IDcode": "MIDA-268",
+      "title": "在没有年轻人的偏远村落里渴求精子的我-天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085252304304_18024_thumbnail.webp",
+      "actress": [
+        "天宮花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-268"
+    },
+    {
+      "id": 3213,
+      "IDcode": "MIDA-312",
+      "title": "喜欢年轻的天宫老师的背后拥抱-天宮花南~",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032706962962_26105_thumbnail.webp",
+      "actress": [
+        "天宮花南",
+        "天宫花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-312"
+    },
+    {
+      "id": 2347,
+      "IDcode": "MIDA-352",
+      "title": "朴素戴眼镜的天宫老师突然大变身-天宫花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/08/203d924ed8fca8e9ea4b61720deb2508.jpg",
+      "actress": [
+        "天宮花南",
+        "天宫花南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-352"
     }
   ]
 };

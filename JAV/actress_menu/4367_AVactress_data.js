@@ -4,7 +4,7 @@ window.actressData = {
   "name": "瀬名一花",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2012-05-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250130-1/181dd3542d3792feea035f271165c035.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2de6166a7cfcf6d947394420046d8ca6.jpg",
       "actress": [
         "瀬名一花"
       ],

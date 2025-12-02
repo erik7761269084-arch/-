@@ -52,23 +52,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250602/b082be1a-fa01-4a7f-aa48-4b5d6974f60e_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250602/11c8110e-ce72-470d-8844-55fbfc1542b4_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 3023,
-      "IDcode": "SONE-871",
-      "title": "S1第二章 前偶像童星爲何對普通性愛不再滿足 ~ 紫藤留衣",
+      "id": 5609,
+      "IDcode": "TEK-102",
+      "title": "Flowing river 紫堂るい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "2025-06-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602201355396396_thumbnail.webp",
+      "actress": [
+        "紫藤留衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-102"
+    },
+    {
+      "id": 3751,
+      "IDcode": "SONE-870",
+      "title": "元子役グラドル芸能人 専属NO.1 STYLE 紫堂るいエスワンデビュー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "紫藤留衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-870"
+    },
+    {
+      "id": 3023,
+      "IDcode": "SONE-871",
+      "title": "前童星写真女星紫堂琉璃为何无法满足于普通性爱-紫堂るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020839174174_33295_thumbnail.webp",
       "actress": [
         "紫藤留衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-871"
+    },
+    {
+      "id": 2122,
+      "IDcode": "SONE-937",
+      "title": "元子役グラドル芸能人 人生初禁欲でじっとりねっとり大絶頂 紫堂るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "紫藤留衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-937"
     }
   ]
 };

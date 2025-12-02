@@ -44,188 +44,59 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240425/2f056ec6-0044-4917-9ebe-c0d3ef751424.jpg",
     "https://picture.yoshiclub.xyz/20240425/7a207720-728a-458e-96b8-8a355ba3526e.jpg"
   ],
-  "works_count": 18,
+  "works_count": 32,
   "related_dramas": [
     {
-      "id": 5075,
-      "IDcode": "GOHM-004",
-      "title": "辣妹狂歡趴 超下流GAL突破極限派對 ~ 椿莉香 水川潤 千鶴えま 三嶽祐奈",
+      "id": 7642,
+      "IDcode": "DOKS-631",
+      "title": "美尻早漏顏面騎乘2 ~ 桐香悠里 和久井美兎 祈山愛 百永紗里奈 千鶴えま",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "2025-03-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20250310/b1d7cadb-fe05-4276-a253-81afa5f850c9.jpg",
+      "actress": [
+        "百永纱里奈",
+        "和久井美兎",
+        "桐香悠裡",
+        "千鶴えま",
+        "祈山愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-631"
+    },
+    {
+      "id": 11947,
+      "IDcode": "HALE-048",
+      "title": "吃掉媽媽朋友的無限循環 vol.43 最強辣媽，皮膚白皙，胸部柔軟 ~ 千鶴えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081511214214_thumbnail.webp",
-      "actress": [
-        "椿莉香",
-        "水川潤",
-        "三岳祐奈",
-        "千鶴えま"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-004"
-    },
-    {
-      "id": 5384,
-      "IDcode": "SW-1005",
-      "title": "巨乳表姐妹的誘惑 ~ 堀北実來 如月りいさ 千鶴えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090849560560_thumbnail.webp",
-      "actress": [
-        "堀北実来",
-        "如月りいさ",
-        "千鶴えま"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1005"
-    },
-    {
-      "id": 5627,
-      "IDcode": "YMDD-451",
-      "title": "獨家絕美少女第二章 北歐金發天使的cosplay誘惑服務讓人爽到爆 ~ 千鶴えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2025-05-31",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531011858672672_thumbnail.webp",
-      "actress": [
-        "千鶴えま",
-        "サンディー・雛・パークス"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-451"
-    },
-    {
-      "id": 6424,
-      "IDcode": "YMDD-445",
-      "title": "北歐金發小天使勁爆出道！絕世美少女專屬首秀 ~ 千鶴えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2025-05-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/202505031028383333_thumbnail.webp",
-      "actress": [
-        "千鶴えま",
-        "サンディー・雛・パークス"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-445"
-    },
-    {
-      "id": 7445,
-      "IDcode": "SDDE-749",
-      "title": "燦爛笑容！晃蕩巨乳！有爽活！澡堂老板娘治愈你的下半身 狂射10發特輯 ~ 千鶴えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317231953620620.jpg",
+      "publish_date": "2024-09-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240916/fdd8892d-f313-46c1-93ec-aa2e436c0886.jpg",
       "actress": [
         "千鶴えま"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALE-048"
     },
     {
-      "id": 8804,
-      "IDcode": "HUNTC-298",
-      "title": "「我們是不是很有魅力？」巨乳女子們爭搶我的雞巴 ~ 清巳麗乃 愛瀨里裏 花柳杏奈 千鶴えま",
+      "id": 12443,
+      "IDcode": "GVH-679",
+      "title": "發情不倫高潮 90cmH罩杯巨乳若妻淫蕩裸露性愛 ~ 千鶴えま",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075623148148.jpg",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2024-08-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240825/04d7b88a-8fc0-4249-a92a-6aa8189bb438.jpg",
       "actress": [
-        "清巳麗乃",
-        "愛瀬優里",
-        "花柳杏奈",
         "千鶴えま"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-298"
-    },
-    {
-      "id": 9185,
-      "IDcode": "FFFS-059",
-      "title": "強奸G罩杯熟睡美人妻 被巨根操到意識飛散 ~ 千鶴えま 美波汐裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "卍GROUP",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250112/807339eb-436a-4153-b565-505caf5ddd76.jpg",
-      "actress": [
-        "美波汐里",
-        "千鶴えま",
-        "ひょこり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-059"
-    },
-    {
-      "id": 76522,
-      "IDcode": "WA-543",
-      "title": "絶対にヒミツだからね？終電を逃した巨乳妻を男友達の部屋へとご招待！！ ちょっとエッチな王様ゲームをしたらノリノリになり旦那のことを忘れちゃって…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2024-12-15",
-      "cover_url": "",
-      "actress": [
-        "若宮穂乃",
-        "千鶴えま",
-        "铃木里美",
-        "黑川纱里奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-543"
-    },
-    {
-      "id": 10439,
-      "IDcode": "REXD-541",
-      "title": "罪之女 ~ 千鶴えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "卍GROUP",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241123/27370d06-9b7a-4383-b301-1bc84701270d.jpg",
-      "actress": [
-        "千鶴えま",
-        "平井シンジ",
-        "岩下たろう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-541"
-    },
-    {
-      "id": 10786,
-      "IDcode": "HUNTC-291",
-      "title": "學校公認！插入率100%！每個月的7日是幸運日！校內將舉辦激烈的大亂交活動！與高規格女孩做愛吧！ ~ 本田瞳 王十嵐清華 愛瀨優裏 小野寺舞 千鶴えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241108/20241108045851607607.jpg",
-      "actress": [
-        "本田瞳",
-        "五十嵐清華",
-        "愛瀬優里",
-        "小野寺舞",
-        "千鶴えま"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-679"
     },
     {
       "id": 94802,
@@ -234,15 +105,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Sadistic Village",
       "publish_date": "2024-08-08",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240720/5BcLcyUz/1.jpg",
       "actress": [
         "夕美紫苑",
         "千鶴えま"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-026"
+    },
+    {
+      "id": 12867,
+      "IDcode": "LULU-318",
+      "title": "無法抗拒色白巨乳懷孕叔母的挑逗！所以侄子立馬掏出大雞巴操了她 ~ 千鶴えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "LUNATICS",
+      "publish_date": "2024-08-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240807/e28a7d1a-7ddd-4a51-9926-ca82176fa1cf.jpg",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-318"
     },
     {
       "id": 13152,
@@ -251,7 +138,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "卍GROUP",
       "publish_date": "2024-07-23",
       "cover_url": "https://picture.yoshiclub.xyz/20240721/43b67c0d-99fc-4bf2-9cec-b603b227ef57.jpg",
@@ -268,7 +155,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Gain Corporation",
       "publish_date": "2024-06-19",
       "cover_url": "https://picture.yoshiclub.xyz/20240617/39d96de3-0b41-47fc-8f5f-74011156c86a.jpg",
@@ -278,47 +165,165 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-079"
     },
     {
+      "id": 14092,
+      "IDcode": "CEMD-537",
+      "title": "便利女人3～HALF GAL EMMA ~ 千鶴えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2024-06-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240609/25b682d1-dbd6-4ff1-8414-6c421035ae7a.jpg",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-537"
+    },
+    {
+      "id": 14597,
+      "IDcode": "MIBB-040",
+      "title": "鋼管情色幻想 - 極上美腳挑釁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILU",
+      "publish_date": "2024-05-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20240519/5e15d8ad-0752-4edc-85ae-0d8f51cd5d03.jpg",
+      "actress": [
+        "桜木美音",
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-040"
+    },
+    {
+      "id": 15160,
+      "IDcode": "KANO-033",
+      "title": "業餘性愛中出 VOL.5 ~ 今井惠美 千鶴えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "月刊彼女",
+      "publish_date": "2024-04-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20240425/ed0ab7e0-dab3-45b4-b454-c90e25582396.jpg",
+      "actress": [
+        "千鶴えま",
+        "今井惠美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-033"
+    },
+    {
+      "id": 100896,
+      "IDcode": "300MAAN-0919",
+      "title": "【射精不可避のケツ圧ピストン】ライブハウスで搾精ご奉仕！？柔尻デカ乳のすけべギャルに●●れる素敵展開！パイ圧で潰され、ケツ圧でも潰される圧迫天国！顔面騎乗からのシックスナインで快感が止まらない！！抜群のスタイルから放たれるピストンは絶頂必至！！！【PornGirl.18】【emma】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2023-11-04",
+      "cover_url": "",
+      "actress": [
+        "千鶴えま",
+        "emma"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0919"
+    },
+    {
+      "id": 577713,
+      "IDcode": "200GANA-2938",
+      "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 316 英语ペラペラのハーフ颜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-10-31",
+      "cover_url": "",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2938"
+    },
+    {
+      "id": 541966,
+      "IDcode": "300NTK-857",
+      "title": "【生意気ハーフ美女JDにわからせP活SEX】【心にクル言叶攻めとチ○コにクル美ムチボデイの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240726/fTsLYd8P/1.jpg",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-857"
+    },
+    {
+      "id": 100919,
+      "IDcode": "SIRO-5159",
+      "title": "懂得性本质的半个美女你比棒球棒更喜欢这支球棒吧一旦你经历了比平常不冷不热的性爱更激烈的性爱你将无法逃脱初拍AV线上申请AV体验拍摄2047",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5159"
+    },
+    {
       "id": 91361,
       "IDcode": "CHRV-192",
       "title": "手が不自由でチ○ポいぢれないお兄ちゃんのシモのお世話してア・ゲ・ル 妹の爆乳は一見にしかず！半袖セーラー服生中出し！ Hカップ97cm えまっち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240430-1/0bd7d01aeab89ebd22a61027eb7c5887.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/9de4c9831bd5ba592c1654353268c4aa.jpg",
       "actress": [
         "千鶴えま"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-192"
     },
     {
-      "id": 68371,
-      "IDcode": "STARS-772",
-      "title": "やたらと薄着な兄嫁の誘惑がエロすぎて…汗だくでひたすらヤリまくった、夏 千鶴えま",
+      "id": 76522,
+      "IDcode": "WA-543",
+      "title": "絶対にヒミツだからね？終電を逃した巨乳妻を男友達の部屋へとご招待！！ ちょっとエッチな王様ゲームをしたらノリノリになり旦那のことを忘れちゃって…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-03-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/e49df19a13bb0a57aca5219dad9d177a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "千鶴えま"
+        "若宮穂乃",
+        "千鶴えま",
+        "铃木里美",
+        "黑川纱里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-543"
     },
     {
       "id": 68618,
       "IDcode": "STARS-748",
-      "title": "STARS-748",
+      "title": "我乳头的按摩-千鶴えま",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-02-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "千鶴えま"
@@ -326,15 +331,47 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-748"
     },
     {
-      "id": 67804,
-      "IDcode": "STARS-690",
-      "title": "前作で舐めテクを習得したえまちゃんのサービスが過剰過ぎて本番までサセちゃう風俗嬢 千鶴えま",
+      "id": 68371,
+      "IDcode": "STARS-772",
+      "title": "嫂子的诱惑-千鶴えま",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2022-09-22",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-772"
+    },
+    {
+      "id": 67828,
+      "IDcode": "STARS-666",
+      "title": "被弄得浑身都是精液-千鶴えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-666"
+    },
+    {
+      "id": 67804,
+      "IDcode": "STARS-690",
+      "title": "風俗嬢-千鶴えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "千鶴えま"
@@ -342,20 +379,222 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-690"
     },
     {
-      "id": 67828,
-      "IDcode": "STARS-666",
-      "title": "前作でイカされまくったえまちゃんがお返しご奉仕 ヨダレだらだら唾ダクダク全身舐め回しおしゃぶりガール 千鶴えま",
+      "id": 12750,
+      "IDcode": "EKDV-749",
+      "title": "當我來到情趣酒店與SNS上發現的白皙美女做愛...她是一個比想象有更大巨乳的蕩婦，我讓她高潮了一次又一次 ~ 千鶴えま",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-08-25",
-      "cover_url": "",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d4a8f1e4a73d4f15a1b1e9/cover.jpg",
       "actress": [
         "千鶴えま"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-749"
+    },
+    {
+      "id": 10786,
+      "IDcode": "HUNTC-291",
+      "title": "学校公認！挿入率100％！毎月7のつく日はラッキーデイ！校内でヌキすぎ必至の激熱エロイベント開催！ハイスペック女子とエッチなご遊戯タイム！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241108/20241108045851607607.jpg",
+      "actress": [
+        "本田瞳",
+        "五十嵐清華",
+        "愛瀬優里",
+        "小野寺舞",
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-291"
+    },
+    {
+      "id": 10439,
+      "IDcode": "REXD-541",
+      "title": "罪な女 千鶴えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241123/27370d06-9b7a-4383-b301-1bc84701270d.jpg",
+      "actress": [
+        "千鶴えま",
+        "平井シンジ",
+        "岩下たろう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-541"
+    },
+    {
+      "id": 9214,
+      "IDcode": "HUNTC-299",
+      "title": "入居者歓迎！ちょっと危険でエッチなタワマン妻王様ゲーム！そのタワマンでは新しい人が入居すると歓迎会と称し王様ゲームが行われる定例理事会が…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/202501090753465757.jpg",
+      "actress": [
+        "清巳麗乃",
+        "花柳杏奈",
+        "千鶴えま",
+        "兼咲美優",
+        "乃木ちはる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-299"
+    },
+    {
+      "id": 9185,
+      "IDcode": "FFFS-059",
+      "title": "熟女連れ込み睡眠姦 意識を飛ばされ巨根でお股をめちゃめちゃ掻き乱される人妻たち4 優紀さん・36歳・Gカップ えまさん・33歳・Gカップ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250112/807339eb-436a-4153-b565-505caf5ddd76.jpg",
+      "actress": [
+        "美波汐里",
+        "千鶴えま",
+        "ひょこり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-059"
+    },
+    {
+      "id": 8804,
+      "IDcode": "HUNTC-298",
+      "title": "「私たちってそんなに魅力ないかな？」あざとすぎる胸開きニット巨乳女子がボクのチ○ポをシェアしまくり大乱交！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075623148148.jpg",
+      "actress": [
+        "清巳麗乃",
+        "愛瀬優里",
+        "花柳杏奈",
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-298"
+    },
+    {
+      "id": 8559,
+      "IDcode": "DMOW-221",
+      "title": "パンスト美脚秘書に丁寧語を使われながら上から目線で痴女られて…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/7b3731637eee1c3522fdc2b68e174117.jpg",
+      "actress": [
+        "百永纱里奈",
+        "和久井美兎",
+        "桐香悠裡",
+        "千鶴えま",
+        "祈山愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-221"
+    },
+    {
+      "id": 7445,
+      "IDcode": "SDDE-749",
+      "title": "明るい笑顔！たぷたぷの胸！ヌキあり！で下半身を癒してくれる銭湯の女将 千鶴えま 抜きまくり10発射精SP",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ab9d055337d7f7be488b4/cover.jpg",
+      "actress": [
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-749"
+    },
+    {
+      "id": 6424,
+      "IDcode": "YMDD-445",
+      "title": "（新人）北欧ブロンド天使が衝撃デビュー！奇跡の美少女 サンディー・雛・パークス 専属Debut！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/202505031028383333_thumbnail.webp",
+      "actress": [
+        "千鶴えま",
+        "サンディー・雛・パークス"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-445"
+    },
+    {
+      "id": 5627,
+      "IDcode": "YMDD-451",
+      "title": "専属奇跡の美少女 サンディー・雛・パークス 第2章 北欧ブロンド天使がコスプレご奉仕プレイで悶絶大絶頂！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531011858672672_thumbnail.webp",
+      "actress": [
+        "千鶴えま",
+        "サンディー・雛・パークス"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-451"
+    },
+    {
+      "id": 5384,
+      "IDcode": "SW-1005",
+      "title": "おっぱい従姉妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090849560560_thumbnail.webp",
+      "actress": [
+        "堀北実来",
+        "如月りいさ",
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1005"
+    },
+    {
+      "id": 5075,
+      "IDcode": "GOHM-004",
+      "title": "辣妹狂歡趴 超下流GAL突破極限派對 ~ 椿莉香 水川潤 千鶴えま 三嶽祐奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae7891682e2e9281a54c88/cover.jpg",
+      "actress": [
+        "椿莉香",
+        "水川潤",
+        "三岳祐奈",
+        "千鶴えま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-004"
     }
   ]
 };

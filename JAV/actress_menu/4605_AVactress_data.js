@@ -24,8 +24,61 @@ window.actressData = {
     "Naruse Risa"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 95492,
+      "IDcode": "IPZ-614",
+      "title": "在丈夫面前被侵犯-逢坂春菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/571941bd5272d4abb20c385bddee8d5b.jpg",
+      "actress": [
+        "田渊正浩",
+        "逢坂はるな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-614"
+    },
+    {
+      "id": 95487,
+      "IDcode": "IPZ-481",
+      "title": "被侵犯的国民偶像-逢坂春菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/c8c0c07c475b73d5158b36538778384a.jpg",
+      "actress": [
+        "田渊正浩",
+        "逢坂はるな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-481"
+    },
+    {
+      "id": 95122,
+      "IDcode": "STAR-650",
+      "title": "妊娠淫语-逢坂春菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小田切ジュン",
+        "大岛丈",
+        "玉木玲",
+        "逢坂はるな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-650"
+    },
     {
       "id": 76009,
       "IDcode": "HBAD-512",
@@ -33,10 +86,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HIBINO",
-      "publish_date": "2019-12-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/9e02250241a89c4505efc2bf72adbbb3.jpg",
       "actress": [
         "向理来",
         "逢坂はるな"

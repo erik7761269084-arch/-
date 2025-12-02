@@ -34,37 +34,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 6757,
-      "IDcode": "MISM-379",
-      "title": "東京辣妹酒吧釣到的自稱抖M小騷貨，直接廁所拖進去狂虐喉嚨，下班後直衝後門讓她徹底淪陷 ~白石あきほ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "えむっ娘ラボ",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/202504170924452222_thumbnail.webp",
-      "actress": [
-        "白石あきほ",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-379"
-    },
-    {
       "id": 7654,
       "IDcode": "PQJ-001",
-      "title": "運動美女肉便器 ~ 白石あきほ",
+      "title": "スポ美女肉便器 陸上編 白石あきほ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MDMA",
-      "publish_date": "2025-03-09",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250309/88f164bd-3f62-4f4e-8a34-40b5faf8bcae.jpg",
       "actress": [
         "白石あきほ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PQJ-001"
+    },
+    {
+      "id": 6757,
+      "IDcode": "MISM-379",
+      "title": "都内ガールズバーで見つけた自称変態ドエムの尻軽娘を速攻トイレに連れ込んで鬼イラマした後に、営業後に即アナぶち犯してケツ堕ちさせてやりました。穴ぴぃ（める）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "えむっ娘ラボ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/3def486609fb1eaf53fa7460e084eece.jpg",
+      "actress": [
+        "白石あきほ",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-379"
     }
   ]
 };

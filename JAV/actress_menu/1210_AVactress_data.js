@@ -33,33 +33,16 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240823/9b9cd4cf-ae80-42b2-9623-58e5a0e49081.jpg",
     "https://picture.yoshiclub.xyz/20240823/dfe9ffb8-b990-48d7-8f90-382040f4f572.jpg"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 10473,
-      "IDcode": "JUQ-959",
-      "title": "人事變動NTR：從總公司調來的精英，把我的地位、榮譽，甚至妻子，都奪走了…… ~ 池田あやみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122004200480480.jpg",
-      "actress": [
-        "池田あやみ",
-        "ナイアガラ翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-959"
-    },
     {
       "id": 69453,
       "IDcode": "CEAD-674",
-      "title": "- 乳首オナニーでイク15人の女たち！Vol，3～乳首いじって個性豊かに発情・メス化するド淫乱女優ドキュメント - JAV目錄大全javmenu.com",
+      "title": "乳首オナニーでイク15人の女たち！Vol，3～乳首いじって個性豊かに発情・メス化するド淫乱女優ドキュメント",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
       "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/07/03/e9fa1aa70d37db1ba23a5f4d50f26e19.jpg",
@@ -77,6 +60,71 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-674"
+    },
+    {
+      "id": 12488,
+      "IDcode": "JUQ-818",
+      "title": "现役奢华内衣模特-池田彩美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2c4415f13d063bcde802f/cover.jpg",
+      "actress": [
+        "池田あやみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-818"
+    },
+    {
+      "id": 11844,
+      "IDcode": "JUQ-875",
+      "title": "堕落为中流肉奴-池田亚夜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/c2da3951bcd1669e1d666fe8645a3184.jpg",
+      "actress": [
+        "池田あやみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-875"
+    },
+    {
+      "id": 11160,
+      "IDcode": "JUQ-910",
+      "title": "客户投诉处理NTR-池田あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788b20a30833b4bf53bc694/cover.jpg",
+      "actress": [
+        "池田あやみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-910"
+    },
+    {
+      "id": 10473,
+      "IDcode": "JUQ-959",
+      "title": "人事调动NTR-池田あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb6b07cf22ae3e04f0f5b9/cover.jpg",
+      "actress": [
+        "池田あやみ",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-959"
     }
   ]
 };

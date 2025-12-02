@@ -4,7 +4,7 @@ window.actressData = {
   "name": "优木なお",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,30 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 16,
+  "works_count": 17,
   "related_dramas": [
-    {
-      "id": 8135,
-      "IDcode": "AARM-276",
-      "title": "足控入 不斷用雞巴摩擦黑絲美尻，最後一發爆射！ ~ 優木葵 Nia 杉咲しずか 倉木詩織 宇佐美みおん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/76b6287a-1747-4d66-859f-52f5a757193c.jpg",
-      "actress": [
-        "倉木詩織",
-        "Nia",
-        "宇佐美みおん",
-        "杉咲しずか",
-        "優木葵",
-        "仓木诗织",
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-276"
-    },
     {
       "id": 93506,
       "IDcode": "NKD-319",
@@ -47,50 +25,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2024-08-06",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241014-1/4aae3195a1748dda632c4bfab1600e60.jpg",
       "actress": [
         "优木なお"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKD-319"
-    },
-    {
-      "id": 93488,
-      "IDcode": "NHDTB-943",
-      "title": "パンティ越し指マン羞恥 言い訳できないほど愛液で濡れた巨尻を震わせイキ乱れる美熟女 優木なおさんのパンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2024-07-25",
-      "cover_url": "",
-      "actress": [
-        "滝ゆいな",
-        "田所百合",
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-943"
-    },
-    {
-      "id": 106526,
-      "IDcode": "AARM-187",
-      "title": "柔らかおっぱいでハグされながら亀頭優しく撫でられ続ける天国性感3Pプレイ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-07-18",
-      "cover_url": "",
-      "actress": [
-        "乃木遥",
-        "爱花みちる",
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-187"
     },
     {
       "id": 87060,
@@ -99,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231018/YcWzENr8/1.jpg",
       "actress": [
         "森日向子",
         "上田紗奈",
@@ -119,107 +61,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-909"
     },
     {
-      "id": 89557,
-      "IDcode": "AARM-178",
-      "title": "「もおこんな大きくしちゃって…ダメなおち○ぽさんね」と耳元で優しく囁かれながらチ○ポじゅるんじゅるんにおしゃぶりされ続ける。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-05-02",
-      "cover_url": "",
-      "actress": [
-        "望月綾香",
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-178"
-    },
-    {
-      "id": 89552,
-      "IDcode": "AARM-168",
-      "title": "美熟女の蒸れたパンティ越しマン土手で窒息しそうな顔騎責め",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-03-21",
-      "cover_url": "",
-      "actress": [
-        "葵百合香",
-        "小早川怜子",
-        "久美木マリア",
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-168"
-    },
-    {
-      "id": 67582,
-      "IDcode": "AARM-157",
-      "title": "AARM-157",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-02-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250425-1/b72009e8ef1ae0b8e5e6b7df62720718.jpg",
-      "actress": [
-        "市井結夏",
-        "中園めいな",
-        "希望美",
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-157"
-    },
-    {
-      "id": 67417,
-      "IDcode": "ALDN-065",
-      "title": "【FANZA限定】近所のボイン 優木なお チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2022-09-14",
-      "cover_url": "",
-      "actress": [
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-065"
-    },
-    {
       "id": 85968,
       "IDcode": "RBK-025",
       "title": "絶望の地下室 優木なお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
       "publish_date": "2021-10-05",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230131-1/6235c585febc3cd22dd2a23be4b02d82.jpg",
       "actress": [
         "优木なお"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-025"
-    },
-    {
-      "id": 93130,
-      "IDcode": "ONEZ-228",
-      "title": "巨乳でエッチなお母さんメイドは好きですか？ 優木なお Vol.001",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-03-06",
-      "cover_url": "",
-      "actress": [
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-228"
     },
     {
       "id": 83678,
@@ -228,7 +83,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "NEXT",
       "publish_date": "2020-02-20",
       "cover_url": "",
@@ -238,37 +93,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-004"
     },
     {
-      "id": 75442,
-      "IDcode": "YSN-499",
-      "title": "男の臭い匂いで変態スイッチの入る母さん、とうとう大人になった僕の匂いで発情し、僕のカラダを弄ぶ。僕はされるがまま母さん専用バイブに堕ちてしまった。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
-      "publish_date": "2019-12-27",
-      "cover_url": "",
-      "actress": [
-        "百合川紗羅",
-        "弥生美月",
-        "设楽アリサ",
-        "优木なお",
-        "篠崎环奈",
-        "満月ひかり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-499"
-    },
-    {
       "id": 81951,
       "IDcode": "SDNM-223",
       "title": "本物人妻10名の初公開デビュー前秘蔵映像＆12名のベスト中出しセックス 合計23SEX収録総集編2枚組8時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-12-12",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221104-1/8815a3f63d0777e50afe1ca9f0eb10bb.jpg",
       "actress": [
         "愛弓涼",
         "优木なお",
@@ -280,22 +114,110 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-223"
     },
     {
-      "id": 77351,
-      "IDcode": "SDDE-601",
-      "title": "潜入！ メス獣ナイトサファリ ―男性器をヴァギナで喰らうケモノに襲われる恐怖パニック映像―",
+      "id": 106526,
+      "IDcode": "AARM-187",
+      "title": "温柔爱抚天国性感3P",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-11-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241119-1/834eefe44f3cc2b9fbd7b2016097786d.jpg",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/cd8fc2b82efc2cb22ab8e65f5f9db0f8.jpg",
       "actress": [
-        "冬爱琴音",
-        "优木なお",
-        "悠月アイシャ"
+        "乃木遥",
+        "爱花みちる",
+        "优木なお"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-187"
+    },
+    {
+      "id": 95781,
+      "IDcode": "AARM-251",
+      "title": "無情地刺激毫無防備的睪丸和裏筋",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美泉咲",
+        "杉咲しずか",
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-251"
+    },
+    {
+      "id": 93488,
+      "IDcode": "NHDTB-943",
+      "title": "パンティ越し指マン羞恥 言い訳できないほど愛液で濡れた巨尻を震わせイキ乱れる美熟女 優木なおさんのパンティとチェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878bf12a47ebb1a8b443c0/cover.jpg",
+      "actress": [
+        "滝ゆいな",
+        "田所百合",
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-943"
+    },
+    {
+      "id": 93130,
+      "IDcode": "ONEZ-228",
+      "title": "巨乳でエッチなお母さんメイドは好きですか？ 優木なお Vol.001",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/4a296ed533bb4bc429fddadf319d0e29.jpg",
+      "actress": [
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-228"
+    },
+    {
+      "id": 89557,
+      "IDcode": "AARM-178",
+      "title": "一下子就这么大了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "望月綾香",
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-178"
+    },
+    {
+      "id": 89552,
+      "IDcode": "AARM-168",
+      "title": "她的蒸气内裤",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "葵百合香",
+        "小早川怜子",
+        "久美木マリア",
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-168"
     },
     {
       "id": 88215,
@@ -304,14 +226,110 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2018-11-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/50e8fd5c52713ac4416439417c7c7779.jpg",
       "actress": [
         "优木なお"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-168"
+    },
+    {
+      "id": 77351,
+      "IDcode": "SDDE-601",
+      "title": "潜入！ メス獣ナイトサファリ ―男性器をヴァギナで",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b7a80135b3832c2cb5ce40a887c066f2.jpg",
+      "actress": [
+        "冬爱琴音",
+        "优木なお",
+        "悠月アイシャ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-601"
+    },
+    {
+      "id": 75442,
+      "IDcode": "YSN-499",
+      "title": "男の臭い匂いで変態スイッチの入る母さん、",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241203-1/0ce1295c91572848ddbea5bf9377227a.jpg",
+      "actress": [
+        "百合川紗羅",
+        "弥生美月",
+        "设楽アリサ",
+        "优木なお",
+        "篠崎环奈",
+        "満月ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-499"
+    },
+    {
+      "id": 67582,
+      "IDcode": "AARM-157",
+      "title": "憧れ女性のパンチラを堪能しながら同僚女子にチ○ポや乳首を弄られ続ける",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20230821/aarm157pl.jpg!320x216.jpg",
+      "actress": [
+        "市井結夏",
+        "中園めいな",
+        "希望美",
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-157"
+    },
+    {
+      "id": 67417,
+      "IDcode": "ALDN-065",
+      "title": "邻居帅哥-優木なお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-065"
+    },
+    {
+      "id": 8135,
+      "IDcode": "AARM-276",
+      "title": "むちむち黒ストッキングの尻に勃起ち〇ぽこすりつけて最後はザーメンぶっかけ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/a982abdcffd4fc1acdc62aeda3969454.jpg",
+      "actress": [
+        "倉木詩織",
+        "Nia",
+        "宇佐美みおん",
+        "杉咲しずか",
+        "優木葵",
+        "仓木诗织",
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-276"
     }
   ]
 };

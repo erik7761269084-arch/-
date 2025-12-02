@@ -42,18 +42,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250526/60964404-c316-4f0e-89c4-ee50418f7df6_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250526/a41dbea3-0736-4b08-aad7-2d8a8053ae21_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 5795,
-      "IDcode": "UMSO-597",
-      "title": "完美身材零瑕疵！極品美女中出狂歡！精選9人第三彈 ~ 永澤雪乃 早田菜々子 百瀬凜花 安西天 黒川晴美 廣瀨裏緒菜 夜空亞美 市川愛茉 田中奈奈實",
+      "id": 72902,
+      "IDcode": "YMDS-096",
+      "title": "打鬧在家喝酒濃厚喇舌緊貼SEX田中奈奈實變成女友的那天",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250206-1/a4361cf257678acc5bdca7f78c7be93a.jpg",
+      "actress": [
+        "田中奈奈實"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-096"
+    },
+    {
+      "id": 5795,
+      "IDcode": "UMSO-597",
+      "title": "無駄なものなど何もない！スリムボディの美女に中出し！厳選9人VOL.03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-05-24",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031425559559_thumbnail.webp",
       "actress": [
         "廣瀨里緒菜",

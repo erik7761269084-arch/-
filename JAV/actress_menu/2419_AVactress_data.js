@@ -44,18 +44,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250818/8caaa729-a2d6-4606-b9d2-9cf2fc967e75_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250818/b5cfb37c-19e3-4389-b1cb-9fcabcc55ca7_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 3491,
-      "IDcode": "MKCK-398",
-      "title": "巨乳晃不停，高潮時那小表情太撩人，我要射了！中出正常位精選4小時87人 ~ 有阪深雪 美園和花 有村希 清宮仁愛 希咲愛莉絲 莉莉遙香 雨宮響 宮本留衣 華澄結愛 鬼塚萌奈美 香阪紗梨 逢見梨花 藤井蘭々...",
+      "id": 80123,
+      "IDcode": "EBOD-870",
+      "title": "超敏感体质纤细白皙身躯有着想被玩弄愿望1回做爱10回以上高潮变态被虐逸材AV出道苗条F罩杯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240923-1/c14eab7e94051f6a19e65cbaa3942f58.jpg",
+      "actress": [
+        "橘日菜",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-870"
+    },
+    {
+      "id": 3491,
+      "IDcode": "MKCK-398",
+      "title": "揺れる巨乳とイキ顔がエロ過ぎて…俺もイッちゃうッ！種付け寸前の中出し正常位ベスト4時間87名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818045151795795_88584_thumbnail.webp",
       "actress": [
         "美園和花",

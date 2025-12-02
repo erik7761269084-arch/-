@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桃香りり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,23 +16,28 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 67181,
-      "IDcode": "GS-450",
-      "title": "メンズエステの面接に来たソソる純情女子大生 個室風マンションのメンズエステで、講習だと言って色々教えていたら反応が良すぎて感じまくり！「ダメです、ダメです」と抵抗するが、オイルでヌルヌルにしてやると敏感な身体は無抵抗にガクガクと感じまくり、そのまま…",
+      "id": 98914,
+      "IDcode": "ARM-746",
+      "title": "パンツ見ちゃダメ！ 恥じらいの反撃！ フトモモで顔面をカニばさみする女子生徒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GOGOS",
-      "publish_date": "2022-09-08",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-03-25",
       "cover_url": "",
       "actress": [
-        "桃香りり"
+        "神野雛",
+        "三田杏",
+        "花宫レイ",
+        "桃香りり",
+        "佐野あい",
+        "ゆずき结花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-450"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-746"
     },
     {
       "id": 88342,
@@ -41,10 +46,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2021-03-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/175f0be45cb59ca711e0b4a159e3c443.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/0a8154cfaea429966c3cf68011f4a07a.jpg",
       "actress": [
         "タイ",
         "岩下たろう",
@@ -55,6 +60,22 @@ window.actressData = {
         "美波沙耶"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-038"
+    },
+    {
+      "id": 67181,
+      "IDcode": "GS-450",
+      "title": "純情女子大生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GOGOS",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230206/ERX2rcwT/1.jpg",
+      "actress": [
+        "桃香りり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-450"
     }
   ]
 };

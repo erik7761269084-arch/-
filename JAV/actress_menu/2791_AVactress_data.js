@@ -67,36 +67,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3070,
-      "IDcode": "FNS-119",
-      "title": "新人出道！現役寫真業銷榜冠軍奇跡1本限定！ AV DEBUT ~ 美咲園香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2025-09-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831230314774774_82420_thumbnail.webp",
-      "actress": [
-        "美咲園香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-119"
-    },
-    {
       "id": 73222,
       "IDcode": "MBRAA-320",
-      "title": "シースルーラブ/美咲そのか チェキ付き",
+      "title": "シースルーラブ 美咲そのか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-02-26",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/598e2155/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "美咲園香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBRAA-320"
+    },
+    {
+      "id": 3070,
+      "IDcode": "FNS-119",
+      "title": "现役写真女星奇迹之作限量发售- 美咲そのか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美咲園香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-119"
     }
   ]
 };

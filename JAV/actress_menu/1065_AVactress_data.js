@@ -35,19 +35,200 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230403/f4a5cb2f-5d30-465d-ad80-8093ebe792c2.webp",
     "https://picture.yoshiclub.xyz/20230403/9a550037-f39f-46c3-b959-030d8859accc.webp"
   ],
-  "works_count": 14,
+  "works_count": 19,
   "related_dramas": [
     {
-      "id": 71926,
-      "IDcode": "BTHA-104",
-      "title": "ヘアーヌード～無●正・6人の絶頂・永久保存版～パンティー付 （ブルーレイディスク）",
+      "id": 97940,
+      "IDcode": "BTHA-046",
+      "title": "ヘアーヌード～無●正・純朴美少女・Fカップ天然巨乳～/小泉ひなた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-11-26",
+      "cover_url": "",
+      "actress": [
+        "小泉日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTHA-046"
+    },
+    {
+      "id": 1558,
+      "IDcode": "STARS-053",
+      "title": "小泉日向 SODstar 出道！ & 體內射精禁令解除",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2019-02-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20230404/c13dceac-c46d-4be5-ba37-16b3feaf0d6b.jpg",
+      "actress": [
+        "小泉日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-053"
+    },
+    {
+      "id": 107527,
+      "IDcode": "ATID-418",
+      "title": "接吻調教-小泉ひなた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2025-03-26",
-      "cover_url": "https://tutu1.space/images/2025/08/02/ad94ed7dce9f806f6db8a3e5e47ba9ba.jpg",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小泉日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-418"
+    },
+    {
+      "id": 107450,
+      "IDcode": "RBD-964",
+      "title": "凌辱研修刚毕业的女大学生-小泉ひなた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小泉日向",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-964"
+    },
+    {
+      "id": 99275,
+      "IDcode": "STARS-162",
+      "title": "小泉ひなた 家出少女に好き放題強制エロコスさせてハメ倒した5日間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67875ff15d57b64bfde22e73/cover.jpg",
+      "actress": [
+        "小泉日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-162"
+    },
+    {
+      "id": 82233,
+      "IDcode": "ATID-413",
+      "title": "被强行灌酒喝得烂醉的可爱女友-小泉ひなた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小泉日向",
+        "真琴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-413"
+    },
+    {
+      "id": 78183,
+      "IDcode": "KMHR-060",
+      "title": "小泉日向密室做爱汁液狂泄",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小泉日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-060"
+    },
+    {
+      "id": 75184,
+      "IDcode": "STARS-175",
+      "title": "周末的晚上瞒着老婆和最棒的情人小泉日向度过遗忘时间的一整晚不停断内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/66e295f5a05bb37b44517e9fa5700058.jpg",
+      "actress": [
+        "小泉日向",
+        "鲛岛",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-175"
+    },
+    {
+      "id": 74412,
+      "IDcode": "STARS-085",
+      "title": "連射性交-小泉ひなた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小泉日向",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-085"
+    },
+    {
+      "id": 74404,
+      "IDcode": "STARS-099",
+      "title": "小泉ひなた 夏、汗だく汁まみれびしょ濡れ痴漢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6784eb8789def9b1b8f34336/cover.jpg",
+      "actress": [
+        "小泉日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-099"
+    },
+    {
+      "id": 73400,
+      "IDcode": "STARS-111",
+      "title": "小泉ひなた 日帰りで12発射精しちゃうヤリ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67869e0a30833b4bf5cba3b8/cover.jpg",
+      "actress": [
+        "小泉日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-111"
+    },
+    {
+      "id": 71926,
+      "IDcode": "BTHA-104",
+      "title": "ヘアーヌード～無修正・6人の絶頂・永久保存版～パンティー付 あべみかこ、あおいれな、羽月希、神宮寺ナオ、小泉ひなた、赤瀬尚子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "葵玲奈",
         "赤瀬尚子",
@@ -61,179 +242,46 @@ window.actressData = {
     {
       "id": 71815,
       "IDcode": "ATID-430",
-      "title": "野球部の女子マネージャーは毎日、顧問教師の性処理をさせられています。 小泉ひなた",
+      "title": "棒球部女经理人-小泉ひなた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2020-06-07",
-      "cover_url": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/daf1bb027742fccbf60143e5409f4338.jpg",
       "actress": [
         "小泉日向"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-430"
     },
     {
-      "id": 107527,
-      "IDcode": "ATID-418",
-      "title": "田舎から上京してきた美少女を全身舐めつくし接吻調教。 小泉ひなた",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2020-05-07",
-      "cover_url": "",
-      "actress": [
-        "小泉日向"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-418"
-    },
-    {
-      "id": 82233,
-      "IDcode": "ATID-413",
-      "title": "NTR BBQ 酔い潰れた彼女が僕の目の前でまわされていた。 小泉ひなた",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2020-04-07",
-      "cover_url": "",
-      "actress": [
-        "小泉日向",
-        "真琴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-413"
-    },
-    {
-      "id": 107450,
-      "IDcode": "RBD-964",
-      "title": "凌●研修5 女子大生調教インターンシップ 小泉ひなた",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2020-03-07",
-      "cover_url": "https://tutu1.space/images/2022/12/19/c6c8bf10c717690977b484e3eff72d50.jpg",
-      "actress": [
-        "小泉日向",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-964"
-    },
-    {
       "id": 71180,
       "IDcode": "HND-789",
-      "title": "彼女の妹に愛されすぎてこっそり子作り性活 小泉ひなた",
+      "title": "超可爱的妹妹-小泉ひなた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2020-02-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/ce9b25ed82448aa3f05c4eaa94034a9b.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a538b0f321e3725198d628b3fa74dbdf.jpg",
       "actress": [
         "小泉日向"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-789"
     },
     {
-      "id": 75184,
-      "IDcode": "STARS-175",
-      "title": "小泉ひなた 最上級のイイ女と時間を忘れて一晩中中出しSEX",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-12-26",
-      "cover_url": "",
-      "actress": [
-        "小泉日向",
-        "鲛岛",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-175"
-    },
-    {
-      "id": 1684,
-      "IDcode": "STARS-126",
-      "title": "小泉日向 豐滿圓臀無理露出的巨臀不穿內褲女",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2019-09-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230404/d41240a9-28a7-429a-bd2e-d2af08d69b63.jpg",
-      "actress": [
-        "小泉日向"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-126"
-    },
-    {
-      "id": 73400,
-      "IDcode": "STARS-111",
-      "title": "小泉ひなた 日帰りで12発射精しちゃうヤリまくりイチャイチャ中出し温泉旅行",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-08-22",
-      "cover_url": "",
-      "actress": [
-        "小泉日向"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-111"
-    },
-    {
-      "id": 74404,
-      "IDcode": "STARS-099",
-      "title": "小泉ひなた 夏、汗だく汁まみれびしょ濡れ痴漢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-07-25",
-      "cover_url": "",
-      "actress": [
-        "小泉日向"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-099"
-    },
-    {
-      "id": 74412,
-      "IDcode": "STARS-085",
-      "title": "小泉ひなた 激しく求め合う濃密接吻と終わらない連射性交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-06-20",
-      "cover_url": "",
-      "actress": [
-        "小泉日向",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-085"
-    },
-    {
       "id": 70502,
       "IDcode": "STARS-079",
-      "title": "小泉ひなた 奥手なモジモジ新人嬢と心も身体も繋がれるイチャラブ風俗",
+      "title": "奥手なモジモジ新人嬢-小泉ひなた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-05-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b09c45fbfe96fb51cc56141d14aae64f.jpg",
       "actress": [
         "小泉日向"
       ],
@@ -242,34 +290,83 @@ window.actressData = {
     {
       "id": 19458,
       "IDcode": "STARS-054",
-      "title": "與一面好奇一面摸老二的下流巨乳妹隱瞞的近親相姦 ~ 小泉日向",
+      "title": "淫荡的巨乳妹妹近亲相奸小泉日向",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-03-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230504/20230504213042534534.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240512-1/29baf0a245443b0cca1b88f7d0e96bbc.jpg",
       "actress": [
         "小泉日向"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-054"
     },
     {
-      "id": 1558,
-      "IDcode": "STARS-053",
-      "title": "小泉日向 SODstar 出道！ & 體內射精禁令解除",
+      "id": 1684,
+      "IDcode": "STARS-126",
+      "title": "不穿裤子的女孩-小泉ひなた",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2019-02-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230404/c13dceac-c46d-4be5-ba37-16b3feaf0d6b.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/35fbec3a21485997d6d06ff350a9ca15.jpg",
       "actress": [
         "小泉日向"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-126"
+    },
+    {
+      "id": 1578,
+      "IDcode": "STARS-160",
+      "title": "SOD集团主力全出动超级大乱交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-8/3d7170fc996e7e05af5dfd4e38013aa9.jpg",
+      "actress": [
+        "小倉由菜",
+        "本庄鈴",
+        "纱仓真菜",
+        "七海蒂娜",
+        "市川雅美",
+        "古川伊織",
+        "小泉日向",
+        "皆川千遙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-160"
+    },
+    {
+      "id": 124,
+      "IDcode": "STARS-120",
+      "title": "SODstar 11 SEX BUBBLE PARTY 2019 ～泡泡泳池大亂交感覺超好 ～ 小倉由菜 古川伊織 本莊鈴 戸田真琴 七海蒂娜 小泉日向 紗倉真菜 市川雅美 唯井真尋 竹田夢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dafd6dd6fbef4e90d24bd4/cover.jpg",
+      "actress": [
+        "唯井真寻",
+        "小倉由菜",
+        "本庄鈴",
+        "纱仓真菜",
+        "竹田夢",
+        "七海蒂娜",
+        "市川雅美",
+        "古川伊織",
+        "戸田真琴",
+        "小泉日向",
+        "皆川千遙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-120"
     }
   ]
 };

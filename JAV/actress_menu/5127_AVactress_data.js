@@ -4,7 +4,7 @@ window.actressData = {
   "name": "小早川咲",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-02-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/b885b43c32db9137a31855b576e8bca9.jpg",
+      "cover_url": "",
       "actress": [
         "黑川堇",
         "小早川咲"

@@ -31,13 +31,13 @@ window.actressData = {
     {
       "id": 3326,
       "IDcode": "ZKWD-024",
-      "title": "放學後肉便器第24 ~ 牧田ひより",
+      "title": "放課後肉便器24人目 牧田ひより",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "豊彥",
-      "publish_date": "2025-08-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250824/20250824005921749749_74920_thumbnail.webp",
       "actress": [
         "牧田ひより"

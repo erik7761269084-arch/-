@@ -49,8 +49,25 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230619/d524098b-f592-4689-bc3a-0375108ad02e.jpg",
     "https://picture.yoshiclub.xyz/20230619/0c171a0b-27ec-4718-9f61-35bb0a237644.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 98847,
+      "IDcode": "AVOP-442",
+      "title": "なかだし青春デイズ 椿井えみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-02-01",
+      "cover_url": "",
+      "actress": [
+        "椿井惠美",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-442"
+    },
     {
       "id": 69864,
       "IDcode": "SUPA-446",
@@ -58,10 +75,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2019-04-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/9214bb90c6dc52c179874437be75d446.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/97d1b8e9cf09a82c71f7ab55b3e4359c.jpg",
       "actress": [
         "椿井惠美",
         "白咲柚子",

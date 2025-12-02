@@ -32,41 +32,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/566bfd7e-6202-48d1-aa0d-e3038f647135.jpg",
     "https://picture.yoshiclub.xyz/20230210/0aeaac5b-db50-4f4b-bb60-95aa3eacf676.jpg"
   ],
-  "works_count": 5,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 2010,
-      "IDcode": "SKYHD-125",
-      "title": "Red Hot Jam HD 1 最佳泡泡公主故事♥：上原保奈美。",
+      "id": 82868,
+      "IDcode": "MIGD-502",
+      "title": "ドリームウーマン90 上原保奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2014-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/09f27742-c41b-4f73-aaae-39520d619df8.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-04-01",
+      "cover_url": "",
       "actress": [
         "上原保奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-502"
     },
     {
-      "id": 1791,
-      "IDcode": "SKYHD-113",
-      "title": "SKY ANGLE 113 三大超人氣SEX美乳美女齊上陣潮吹 ~ 上原保奈美, 中野亞里沙, 星咲優菜",
+      "id": 99804,
+      "IDcode": "SOE-670",
+      "title": "ギリモザ 猥褻痴漢 上原保奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-09-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/245a80a0-3318-4187-b20d-edce4a013253.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-11-07",
+      "cover_url": "",
       "actress": [
-        "星咲優菜",
-        "中野亚梨沙",
         "上原保奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-670"
     },
     {
       "id": 1807,
@@ -75,41 +73,25 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2013-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/c020e840-6ad1-41e2-81c7-b54e2d5f0e3c.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/647b2dcf60e8d1699a642b79852496c0.jpg",
       "actress": [
         "上原保奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-105"
     },
     {
-      "id": 82868,
-      "IDcode": "MIGD-502",
-      "title": "ドリームウーマン90 上原保奈美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2013-04-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/133bfdee363a45f468881fd74d96364b.jpg",
-      "actress": [
-        "上原保奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-502"
-    },
-    {
       "id": 1694,
       "IDcode": "SOE-660",
-      "title": "交換體液，激烈的性愛愛上原保奈美",
+      "title": "交融体液-上原保奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "S1",
-      "publish_date": "2011-10-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230404/4cb48e4a-3973-4a1d-bb6e-4bfa2866f35b.jpg",
       "actress": [
         "上原保奈美"

@@ -39,93 +39,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230121/2f572bb1-04a0-4d0e-9f75-c7ac331a33a8.jpg",
     "https://picture.yoshiclub.xyz/20230121/18b3a115-a75b-49c3-9b55-4a5457081216.jpg"
   ],
-  "works_count": 7,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 1727,
-      "IDcode": "SKYHD-081",
-      "title": "SKY ANGEL 81 無毛美鮑潮吹大噴射 ~ 前田陽菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-10-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/088168df-e2f4-488b-b2e3-bd52c74d11d1.webp",
-      "actress": [
-        "前田阳菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-081"
-    },
-    {
-      "id": 2007,
-      "IDcode": "CWPBD-71",
-      "title": "CATWALK POISON 71 ～中出大亂交SP～ : 菜菜瀬結衣, 前田陽菜, 真木今日子, 他計6名",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/e1d28b8d-1ccc-4b4e-9ff0-af8bcd5ebd42.webp",
-      "actress": [
-        "真木今日子",
-        "前田阳菜",
-        "遥惠美",
-        "愛花沙也",
-        "菜菜瀬結衣",
-        "京野七香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-71"
-    },
-    {
-      "id": 1956,
-      "IDcode": "CWPBD-67",
-      "title": "CATWALK POISON 67 : 前田陽菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-08-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/af05c406-13ea-45c2-8706-41ce9463cf7d.webp",
-      "actress": [
-        "前田阳菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-67"
-    },
-    {
-      "id": 1747,
-      "IDcode": "MKBD-S23",
-      "title": "KIRARI 23 ～在南島大膽的中出性愛～ : 前田陽菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2012-08-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230127/2be97a0d-58e5-4c3c-84c7-e41b5e504201.webp",
-      "actress": [
-        "前田阳菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S23"
-    },
-    {
-      "id": 2023,
-      "IDcode": "CWPBD-57",
-      "title": "CATWALK POISON 57 : 前田陽菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-01-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/eaa8961d-1fcd-42da-8048-60eb5d567e3b.webp",
-      "actress": [
-        "前田阳菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-57"
-    },
     {
       "id": 81385,
       "IDcode": "SE-116",
@@ -133,8 +48,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2011-08-31",
       "cover_url": "",
       "actress": [
@@ -144,21 +59,53 @@ window.actressData = {
     },
     {
       "id": 68770,
-      "IDcode": "SW-027",
-      "title": "開始有女人緣？！朋友的女友用異常淫蕩的眼光看著我，出手之後竟然早就淫汁四溢了！！",
+      "IDcode": "SW-0027",
+      "title": "我朋友的女朋友用她那奇怪的眼睛盯着我",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2011-04-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "前田阳菜",
         "泉麻那",
         "佐仓カオリ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0027"
+    },
+    {
+      "id": 2023,
+      "IDcode": "CWPBD-57",
+      "title": "猫步毒药-前田陽菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230121/eaa8961d-1fcd-42da-8048-60eb5d567e3b.webp",
+      "actress": [
+        "前田阳菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-57"
+    },
+    {
+      "id": 1956,
+      "IDcode": "CWPBD-67",
+      "title": "猫步毒药-前田陽菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230121/af05c406-13ea-45c2-8706-41ce9463cf7d.webp",
+      "actress": [
+        "前田阳菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-67"
     }
   ]
 };

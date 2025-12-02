@@ -49,18 +49,356 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230406/accf9132-0d75-4f23-915c-63e72c5ec184.jpg",
     "https://picture.yoshiclub.xyz/20230406/75fc858c-39e1-4263-af2c-cd4f0aeeed2e.jpg"
   ],
-  "works_count": 8,
+  "works_count": 22,
   "related_dramas": [
     {
-      "id": 6442,
-      "IDcode": "MIZD-453",
-      "title": "剛入職的嫩妹OL被摧毀未來的鬼畜侵犯合集40選 ~ 小野六花 八木奈奈 葵伊吹 水卜櫻 二葉惠麻 初川南 水原美園 琴音華 二見玲 佐久良咲希",
+      "id": 15234,
+      "IDcode": "CEMD-514",
+      "title": "成人之間的無辜中出性愛約會 ~ 藍芽水月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240421/18869d66-ef52-409e-9963-88c5e3644af1.jpg",
+      "actress": [
+        "藍芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-514"
+    },
+    {
+      "id": 107105,
+      "IDcode": "FOCS-150",
+      "title": "對煩惱處男學生以魔性的接吻課程「想和老師接吻嗎？」被教導到親吻的另一面被中出多次的我 藍芽水月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-150"
+    },
+    {
+      "id": 89004,
+      "IDcode": "VENX-228",
+      "title": "被突然到家裡來的小姨子榨精的兩天一夜 藍芽水月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240617-1/28833279266bffb86d86f728524cd949.jpg",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-228"
+    },
+    {
+      "id": 85397,
+      "IDcode": "MIDV-046",
+      "title": "人妻監禁-藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-02",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/306698b0fd0dddcd93941fe8f134a31b.jpg",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-046"
+    },
+    {
+      "id": 19551,
+      "IDcode": "MIDE-767",
+      "title": "超短裙黑丝女教师-藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/6b08f7cb4df1957cbbfb06e6c4fc93ed.jpg",
+      "actress": [
+        "藍芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-767"
+    },
+    {
+      "id": 18732,
+      "IDcode": "REBD-773",
+      "title": "水木一夜性感・水木愛梅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/632507a9c2f91c700526672a13830a9b.jpg",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-773"
+    },
+    {
+      "id": 16577,
+      "IDcode": "MIZD-366",
+      "title": "口交專家－滿口愛液的蕩婦激烈的口內射精 百人荡妇",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea3ee51572686be784cbc3/cover.jpg",
+      "actress": [
+        "森澤佳奈",
+        "天馬唯",
+        "倉本菫",
+        "乙愛麗絲",
+        "松本一香",
+        "新村朱里",
+        "沙月惠奈",
+        "北野未奈",
+        "吉根柚莉爱",
+        "浜崎真緒",
+        "姫咲華",
+        "AIKA",
+        "七瀨愛麗絲",
+        "黑川堇",
+        "楪可憐",
+        "百永纱里奈",
+        "小花暖",
+        "有岡みう",
+        "月乃露娜",
+        "七泽美亚",
+        "石原希望",
+        "宮下玲奈",
+        "小野六花",
+        "八木奈々",
+        "神宫寺奈緒",
+        "水原みその",
+        "石川澪",
+        "水川蓳",
+        "水卜櫻",
+        "七草千歲",
+        "中山文香",
+        "深田詠美",
+        "横宮七海",
+        "藍芽水月",
+        "天川空",
+        "久留木玲",
+        "安部未華子",
+        "有栖露露",
+        "高桥圣子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-366"
+    },
+    {
+      "id": 16423,
+      "IDcode": "BF-703",
+      "title": "痴女派遣女仆-蓝芽美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207080710309309.jpg",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-703"
+    },
+    {
+      "id": 14437,
+      "IDcode": "ROYD-177",
+      "title": "淫蕩文學系美少女-藍芽水月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524214455292292.jpg",
+      "actress": [
+        "藍芽水月",
+        "ひょこり",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-177"
+    },
+    {
+      "id": 12924,
+      "IDcode": "XVSR-768",
+      "title": "誘惑小惡魔惡家庭老師-藍芽水月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240805/9ef19576-3ec2-477a-9f13-820aa4b3082a.jpg",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-768"
+    },
+    {
+      "id": 11589,
+      "IDcode": "XVSR-776",
+      "title": "見た目清楚そうな女の子がM男を下品に淫語痴女責めしながらカラッカラになるまで精液を搾りつくす連続射精中出しSEX 藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/d43c41a57ce2a5e007f1935d77fedeed.jpg",
+      "actress": [
+        "藍芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-776"
+    },
+    {
+      "id": 11421,
+      "IDcode": "CEMD-586",
+      "title": "「一般男性のみなさん！私をイカせまくって下さい！」～街頭で見つけた素人男性に壊れるほどイカされまくったSEXドキュメント～6 藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/02c9038f6c706514d7de76f29e7be0ec.jpg",
+      "actress": [
+        "藍芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-586"
+    },
+    {
+      "id": 10859,
+      "IDcode": "MRSS-158",
+      "title": "女性インストラクターだと思ったら男だった！？夫と一緒に通うヨガ教室で寝取られ中出し 藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/10/847556e383bcfdeec6dec90b7525dfce.jpg",
+      "actress": [
+        "藍芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-158"
+    },
+    {
+      "id": 10680,
+      "IDcode": "CEMD-597",
+      "title": "わたしは会社の『性欲処理担当』秘書2 藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/e3c1ee5fdb85ba4c6e8a32bcfa624bcb.jpg",
+      "actress": [
+        "藍芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-597"
+    },
+    {
+      "id": 8638,
+      "IDcode": "NPJS-135",
+      "title": "ゲーマーお姉さんの配信に課金しまくってたらオフパコできたよ！！ ミズキさん2〇歳 ゲームとコスプレ大好きな引きこもりお姉さん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300831047878.jpg",
+      "actress": [
+        "藍芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-135"
+    },
+    {
+      "id": 7146,
+      "IDcode": "YMDD-438",
+      "title": "ヤリマンワゴンが行く！！ハプニング ア ゴーゴー！！藍芽みずきとリズの珍道中 手淫の女神が誘う童貞救済ハニトラドライブ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250329/20250329130727627627.jpg",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-438"
+    },
+    {
+      "id": 7008,
+      "IDcode": "NGOD-260",
+      "title": "友達の母親 男日照りで発情するシングルマザーの性の事情に興奮してしまい… 藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250405/a2bc9aab-23d7-40a8-b6e1-5740b1f105be.jpg",
+      "actress": [
+        "藍芽水月",
+        "ラビットけんと",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-260"
+    },
+    {
+      "id": 6842,
+      "IDcode": "GVH-738",
+      "title": "黑パンスト痴女のコスプレ淫語責め 藍芽みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/20250414113508404404_thumbnail.webp",
+      "actress": [
+        "藍芽水月",
+        "蓝芽水月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-738"
+    },
+    {
+      "id": 6442,
+      "IDcode": "MIZD-453",
+      "title": "入社直後の若手OLの未来を破壊した鬼畜レ×プ事件集40選 同僚、上司、レ●プ魔の鬼畜チ●ポがドストライクすぎて屈辱絶頂を繰り返す地獄の4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043734209209_thumbnail.webp",
       "actress": [
         "森澤佳奈",
@@ -96,124 +434,86 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-453"
     },
     {
-      "id": 6842,
-      "IDcode": "GVH-738",
-      "title": "黑絲痴女的Cosplay騷話調教 ~ 藍芽水樹",
+      "id": 5803,
+      "IDcode": "CEAD-684",
+      "title": "腰をグラインドさせながらイキ狂い！『ディルドオナニー』白木優子 山瀬美紀 葉山さゆり 一場れいか 天沢りん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2025-04-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/20250414113508404404_thumbnail.webp",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031445448448_thumbnail.webp",
       "actress": [
+        "葉山小百合",
+        "紗紗原百合",
+        "足立友梨",
+        "白木優子",
         "藍芽水月",
-        "蓝芽水月"
+        "天沢りん",
+        "山瀬美紀",
+        "華澄結愛",
+        "一場れいか",
+        "島津かおる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-738"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-684"
     },
     {
-      "id": 7008,
-      "IDcode": "NGOD-260",
-      "title": "朋友的媽媽 因男人荒而發情的單親媽媽性事讓我興奮不已… ~ 藍芽水月",
+      "id": 3042,
+      "IDcode": "MIZD-480",
+      "title": "子宮にKISS 種付けプレスで大量中出しBEST お尻潰れる程の圧迫ピストンで種付けの瞬間を捉えたこだわりアングル！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2025-04-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20250405/a2bc9aab-23d7-40a8-b6e1-5740b1f105be.jpg",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828030526703703_33081_thumbnail.webp",
       "actress": [
+        "倉本菫",
+        "柏木小夏",
+        "松本一香",
+        "五日市芽依",
+        "北野未奈",
+        "北岡果林",
+        "白石桃",
+        "宍戸里帆",
+        "東條夏",
+        "月乃露娜",
+        "石原希望",
+        "神宫寺奈緒",
+        "葵伊吹",
+        "中山文香",
         "藍芽水月",
-        "ラビットけんと",
-        "蓝芽水月"
+        "工藤拉拉",
+        "琴音華",
+        "佐野なつ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-480"
     },
     {
-      "id": 7146,
-      "IDcode": "YMDD-438",
-      "title": "騷貨馬車已開動！ ！發生一蹴而就的事！ ！相賀瑞希與莉茲的奇妙旅程：自慰女神邀約處女救贖美人計 ~ 藍芽水月",
+      "id": 2282,
+      "IDcode": "MMPB-094",
+      "title": "四六時中発情しっぱなし！手のつけられないド淫乱女優たち10人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250329/20250329130727627627.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/13/0dd1bdfe47d8d6bad6f831891bd94719.jpg",
       "actress": [
+        "末広純",
+        "新村朱里",
+        "橘瑪麗",
+        "浜崎真緒",
+        "AIKA",
+        "辻井穗乃果",
+        "三岳祐奈",
         "藍芽水月",
-        "蓝芽水月"
+        "佐伯由美香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-438"
-    },
-    {
-      "id": 14437,
-      "IDcode": "ROYD-177",
-      "title": "和驕慢的文藝美少女目光對視5秒即可發生性關系 ~ 藍芽水月",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2024-05-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524214455292292.jpg",
-      "actress": [
-        "藍芽水月",
-        "ひょこり",
-        "蓝芽水月"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-177"
-    },
-    {
-      "id": 16423,
-      "IDcode": "BF-703",
-      "title": "我愛老男人，放蕩的女僕在我耳邊低語，讓我射在她體內",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BeFree",
-      "publish_date": "2024-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207080710309309.jpg",
-      "actress": [
-        "藍芽水月",
-        "蓝芽水月"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-703"
-    },
-    {
-      "id": 18732,
-      "IDcode": "REBD-773",
-      "title": "水木一夜性感・水木愛梅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-09-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230911/20230911234513218218.jpg",
-      "actress": [
-        "藍芽水月",
-        "蓝芽水月"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-773"
-    },
-    {
-      "id": 19551,
-      "IDcode": "MIDE-767",
-      "title": "被緊身裙女教師每天誘惑。 藍芽水月",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2020-05-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230406/99e5419e-2fc9-49aa-9820-fe2432fa1a27.jpg",
-      "actress": [
-        "藍芽水月"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-767"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-094"
     }
   ]
 };

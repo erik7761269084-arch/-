@@ -33,8 +33,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240831/6c89dbb6-4d93-4006-a394-89e1b226c39d.jpg",
     "https://picture.yoshiclub.xyz/20240831/ccb9bde5-cc35-4889-a5ca-5f00408dca17.jpg"
   ],
-  "works_count": 3,
+  "works_count": 8,
   "related_dramas": [
+    {
+      "id": 12330,
+      "IDcode": "CAWD-732",
+      "title": "新人出道！喜歡自慰的金發女子四年來第一次享受只有雞巴才能體驗的深度快感 AV DEBUT ~ 櫻木繪里香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2024-09-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830014351389389.jpg",
+      "actress": [
+        "櫻木繪里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-732"
+    },
     {
       "id": 60352,
       "IDcode": "AGMX-240",
@@ -42,10 +58,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/25/c4ac11900dc4700efec9104380e82340.jpg",
       "actress": [
         "栄川乃亜",
         "夏目未來",
@@ -56,15 +72,55 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-240"
     },
     {
-      "id": 2908,
-      "IDcode": "HUNTC-440",
-      "title": "地味妹子初次開葷直接解鎖五P成就！校內亂交PARTY 2 ~ 星乃夏月 渡來楓 泉莉音 宇流木沙羅 櫻木繪裏香",
+      "id": 4590,
+      "IDcode": "HUNTC-369",
+      "title": "この装置さえあれば絶対ヤレる！お股ゆるゆるダイヤル ダイヤルを回せば彼氏がいようがどんなにガードが固かろうが絶対ヤレる奇跡の装置。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-09-04",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075047897897_thumbnail.webp",
+      "actress": [
+        "小野寺舞",
+        "南日菜乃",
+        "松丸香澄",
+        "櫻木繪里香",
+        "涼宮るな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-369"
+    },
+    {
+      "id": 3626,
+      "IDcode": "HSODA-078",
+      "title": "学生が体験入社。淫ターンシップ 耳元でエロい事囁かれるとか、お尻に軽くタッチされるとか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e3fe10d6fbef4e90e44154/cover.jpg",
+      "actress": [
+        "末広純",
+        "皆瀨明里",
+        "五十嵐清華",
+        "市川りく",
+        "櫻木繪里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-078"
+    },
+    {
+      "id": 2908,
+      "IDcode": "HUNTC-440",
+      "title": "明明是普通妹第一次做爱就一下子上了5个班里的普通妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021842806806_21859_thumbnail.webp",
       "actress": [
         "宇流木沙羅",
@@ -78,24 +134,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-440"
     },
     {
-      "id": 4590,
-      "IDcode": "HUNTC-369",
-      "title": "有了這神器隨便上！腿開開關撥一撥 ~ 南日菜乃 涼宮るな 小野寺舞 鬆丸香澄 櫻木繪裏香",
+      "id": 2867,
+      "IDcode": "BACJ-164",
+      "title": "中年さんは甘え盛り！バブっとおぎゃおぎゃギャルママ保育で赤ちゃんおじさん発情中！ 桜木えりか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075047897897_thumbnail.webp",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2bb195f13d063bcde5ec1/cover.jpg",
       "actress": [
-        "小野寺舞",
-        "南日菜乃",
-        "松丸香澄",
-        "櫻木繪里香",
-        "涼宮るな"
+        "櫻木繪里香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-369"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-164"
+    },
+    {
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
+      "actress": [
+        "绫濑心",
+        "泉莉音",
+        "東雲梓",
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
+    },
+    {
+      "id": 2208,
+      "IDcode": "SVMGM-041",
+      "title": "マジックミラー号ハードボイルド 水着ギャルが挑戦するスパイダー騎乗位チキンレース！1ピストン毎に100円get！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "黒咲華",
+        "櫻木繪里香",
+        "石原青",
+        "水瀬りた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-041"
     }
   ]
 };

@@ -40,13 +40,13 @@ window.actressData = {
     {
       "id": 2303,
       "IDcode": "CAWD-881",
-      "title": "新人出道！脫下衣服驚豔52cm小蠻腰美乳身材，芭蕾天才少女 AV DEBUT ~ 清野咲",
+      "title": "脱いだら美しいウエスト52cm美乳くびれボディ。バレエの天才少女 清野咲 AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-10-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/202510020212112121_87559_thumbnail.webp",
       "actress": [
         "清野咲"

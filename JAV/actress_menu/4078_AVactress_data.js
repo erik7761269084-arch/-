@@ -4,7 +4,7 @@ window.actressData = {
   "name": "原田千晶",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 81674,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "卍GROUP",
       "publish_date": "2020-03-13",
       "cover_url": "",
@@ -42,8 +42,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/9d4c9a16a98be8f97118bf645a6269ee.jpg",
       "actress": [
@@ -59,7 +59,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-01-19",
       "cover_url": "",
@@ -69,16 +69,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POKQ-007"
     },
     {
-      "id": 76466,
-      "IDcode": "NKKD-146",
-      "title": "ドラレコNTR10 車載カメラは見ていたねとられの一部始終を",
+      "id": 99944,
+      "IDcode": "GVG-974",
+      "title": "ボイン大好きしょう太くんのHなイタズラ 森本つぐみ/原田千晶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2019-11-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678417c1f9a2e9b1d4987fa8/cover.jpg",
+      "actress": [
+        "原田千晶",
+        "森本つぐみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-974"
+    },
+    {
+      "id": 76466,
+      "IDcode": "NKKD-146",
+      "title": "ドラレコNTR10 車載カメラは見ていたねとられ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/6f626d2cd5019708b7cbfd78f5eee77c.jpg",
       "actress": [
         "原田千晶",
         "森本つぐみ"
@@ -92,10 +109,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-05-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/b0ab65eda13ce82c96cd77c841ba7f2b.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/58ef82a0dca5041eadf47233e723a000.jpg",
       "actress": [
         "鲛岛",
         "原田千晶"

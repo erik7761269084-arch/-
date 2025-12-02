@@ -34,8 +34,126 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-水樹璃子.jpg"
   ],
-  "works_count": 7,
+  "works_count": 12,
   "related_dramas": [
+    {
+      "id": 538761,
+      "IDcode": "259LUXU-1134",
+      "title": "ラグジュTV 1119 人に见られることで兴奋を覚える美脚モデル。その美脚を使った足コキはまさに赘沢なひととき…。美スタイルをより魅力的にさせるランジェリーを缠い、巨根のピストンに酔いしれる。1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2019-06-21",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/a3f56d310ad038a473853af98577a65e.jpg",
+      "actress": [
+        "天音りおん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1134"
+    },
+    {
+      "id": 439738,
+      "IDcode": "HEYZO-3107",
+      "title": "护士室里的美丽女巫老师 - 我发现了她的秘密！ ～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/20/6804cd204e7d663df41595e5/cover.jpg",
+      "actress": [
+        "天音りおん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3107"
+    },
+    {
+      "id": 439385,
+      "IDcode": "HEYZO-3311",
+      "title": "她的姐姐很好吃！ ～美容精选 Vol.19～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/08/68450e8abea44e06062bb2b1/cover.jpg",
+      "actress": [
+        "天音りおん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3311"
+    },
+    {
+      "id": 159197,
+      "IDcode": "CARIB-082023-001",
+      "title": "女熱大陸 File.093",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/LmkFxilJ/1.jpg",
+      "actress": [
+        "天音りおん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-082023-001"
+    },
+    {
+      "id": 158234,
+      "IDcode": "1PONDO-071823_001",
+      "title": "レオのエッチなおもてなし！~ 椿レオ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250218/vgU8nuRY/1.jpg",
+      "actress": [
+        "天音りおん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-071823_001"
+    },
+    {
+      "id": 158182,
+      "IDcode": "1PONDO-061723_001",
+      "title": "極射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250218/MRTApLpI/1.jpg",
+      "actress": [
+        "天音りおん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-061723_001"
+    },
+    {
+      "id": 94898,
+      "IDcode": "AMA-052",
+      "title": "SEXの逸材。ドスケベ素人の衝撃的試し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん達の顛末。 VOL.52",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9e02dfa4a4fdcf64a1b2fdb8f3bef6e.jpg",
+      "actress": [
+        "天音りおん",
+        "森林原人",
+        "小田切ジュン",
+        "玉木玲",
+        "须崎まどか",
+        "东条有希",
+        "竹内麻耶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
+    },
     {
       "id": 83143,
       "IDcode": "SDJS-052",
@@ -43,9 +161,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-01-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "通野未帆",
@@ -66,10 +184,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-12-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221220-1/6e3e1a8e10765c371d0dac5edca134ff.jpg",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/df2612d3f695fcd0b24e2b885cea8d38.jpg",
       "actress": [
         "夏原唯",
         "天音りおん"
@@ -77,61 +195,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-589"
     },
     {
-      "id": 94898,
-      "IDcode": "AMA-052",
-      "title": "SEXの逸材。ドスケベ素人の衝撃的試し撮り 性癖をこじらせてプレステージに自らやって来た本物素人さん達の顛末。 VOL.52",
+      "id": 78400,
+      "IDcode": "JUY-788",
+      "title": "红杏出墙的人妻从早到晚中出性交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ASSMI",
-      "publish_date": "2019-11-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1972a50dd4307e589ddb3084f20b867b.jpg",
       "actress": [
         "天音りおん",
-        "森林原人",
-        "小田切ジュン",
-        "玉木玲",
-        "须崎まどか",
-        "东条有希",
-        "竹内麻耶"
+        "大岛丈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
-    },
-    {
-      "id": 74719,
-      "IDcode": "LUXU-1134",
-      "title": "ラグジュTV 1119 人に見られることで興奮を覚える美脚モデル。その美脚を使った足コキはまさに贅沢なひととき…。美スタイルをより魅力的にさせるランジェリーを纏い、巨根のピストンに酔いしれる。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2019-06-21",
-      "cover_url": "",
-      "actress": [
-        "天音りおん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1134"
-    },
-    {
-      "id": 70956,
-      "IDcode": "BAZX-183",
-      "title": "ラグジュOL ランチタイムにAV出演する働くオンナたち VOL.010",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BAZOOKA",
-      "publish_date": "2019-04-12",
-      "cover_url": "",
-      "actress": [
-        "咲々原リン",
-        "阿由葉あみ",
-        "天音りおん",
-        "ゆうひ菜那"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-183"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-788"
     },
     {
       "id": 72154,
@@ -140,31 +218,33 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2019-03-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/137dffbe0e44e52aac15c5211af2a378.jpg",
       "actress": [
         "天音りおん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-110"
     },
     {
-      "id": 78400,
-      "IDcode": "JUY-788",
-      "title": "朝から晩まで我を忘れて求め合う中出し性交 水樹璃子",
+      "id": 70956,
+      "IDcode": "BAZX-183",
+      "title": "ラグジュOLランチタイムにAV出演する働",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-03-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/cc50fddaae4bbb6f361432bf8ea1cabe.jpg",
       "actress": [
+        "咲々原リン",
+        "阿由葉あみ",
         "天音りおん",
-        "大岛丈"
+        "ゆうひ菜那"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-183"
     }
   ]
 };

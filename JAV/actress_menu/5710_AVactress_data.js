@@ -4,7 +4,7 @@ window.actressData = {
   "name": "矢野淳美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91078,
       "IDcode": "JRZE-164",
-      "title": "初撮り人妻ドキュメント 矢野淳美",
+      "title": "第一次拍摄人妻纪录片-矢野淳美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-10-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240318-1/820a81aa707be05fb5da619e7257333e.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/768d94639ef17ae7a6c9c0f92c788fe0.jpg",
       "actress": [
         "矢野淳美"
       ],

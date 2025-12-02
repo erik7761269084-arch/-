@@ -42,206 +42,405 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231022/b46e1f1e-b768-48aa-b8b5-8a1a13a0b812.jpg",
     "https://picture.yoshiclub.xyz/20231022/ac32a860-0a91-46ba-93c9-fa065233c656.jpg"
   ],
-  "works_count": 18,
+  "works_count": 34,
   "related_dramas": [
     {
-      "id": 2610,
-      "IDcode": "SONE-880",
-      "title": "迷上媚藥SPA，潮吹到根本停不下來！超纖細超性感身材OL被瘦身美容院玩壞 ~ 楓富愛",
+      "id": 6187,
+      "IDcode": "OFJE-511",
+      "title": "世界級美人 楓富愛 三年來全33部作品 16小時超長大大合集 ~ 楓富愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918023511849849_47006_thumbnail.webp",
+      "publish_date": "2025-05-09",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/202505080657232323_thumbnail.webp",
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-880"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-511"
     },
     {
-      "id": 3417,
-      "IDcode": "SONE-850",
-      "title": "港區頂級女被癡漢尾行綁架後墮落成貧民窟顏射肉便器 ~ 楓富愛",
+      "id": 16677,
+      "IDcode": "SSIS-980",
+      "title": "囚禁黑丝女教师-枫芙爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023341181181_12193_thumbnail.webp",
-      "actress": [
-        "楓富愛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-850"
-    },
-    {
-      "id": 4318,
-      "IDcode": "SONE-566",
-      "title": "S1二十週年紀念 最強聯手神作 1對18 新人助理導演被頂級性感女優偷偷挑逗 陷入職場桃色誘惑 ~ 田野憂 五條戀 未步奈奈 白上咲花 神樂桃果 楓富愛 明日葉三葉 村上悠華 淺野心 渚愛梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
-      "actress": [
-        "未步奈奈",
-        "村上悠華",
-        "明日葉三葉",
-        "楓富愛",
-        "淺野心",
-        "五条恋",
-        "田野憂",
-        "渚愛梨",
-        "白上咲花",
-        "神樂桃果",
-        "乃坂日和",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
-    },
-    {
-      "id": 4305,
-      "IDcode": "SONE-785",
-      "title": "新人體育主播爲了採訪大牌拳王，被迫猛烈活塞幹到高潮迭起 ~ 楓富愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717032752273273_29276_thumbnail.webp",
-      "actress": [
-        "楓富愛",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-785"
-    },
-    {
-      "id": 5199,
-      "IDcode": "SONE-760",
-      "title": "每天都坐電車通勤的老頭子就快要退休了，誰知卻遇到了夢中的她而癡漢上身 ~ 楓富愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064736142142_thumbnail.webp",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119082754751751.jpg",
       "actress": [
         "楓富愛",
         "田渊正浩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-760"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-980"
     },
     {
-      "id": 5195,
-      "IDcode": "SONE-563",
-      "title": "S1二十周年紀念 AV業界史上最強聯手神作 憋不住就射吧 我們是老司機技師團 ~ 河北彩花 本鄉愛 金鬆季歩 Miru 楓富愛 奧田咲 淺野心 七森莉莉 三田真鈴 明日葉三葉",
+      "id": 103585,
+      "IDcode": "SSIS-947",
+      "title": "用我们的肉棒让她了解利害-枫芙爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/202506190634547979_thumbnail.webp",
+      "publish_date": "2023-12-26",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787dde5c179ffb1db907e54/cover.jpg",
+      "actress": [
+        "楓富愛",
+        "ニック",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-947"
+    },
+    {
+      "id": 168212,
+      "IDcode": "SSIS-669",
+      "title": "姐姐用腿夾住你…為了滿足大腿性癖好【黑絲襪，肉肉大腿、絕對領域，絲襪按摩】性感美腿幫你按摩取精 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/23/68306d648c4b3b91d75f5d04/cover.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-669"
+    },
+    {
+      "id": 155932,
+      "IDcode": "SSIS-704",
+      "title": "「大叔、今晩要不要與我來一發？」用腳賺取大量金錢的成熟女學生 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/8025b4598bb2eb03110a621bf0bed443.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-704"
+    },
+    {
+      "id": 106954,
+      "IDcode": "SSIS-652",
+      "title": "路上接吻就勃起了吧？就算射了十發、迎接天明，還是想被高個姊姊一個勁侵犯… 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-652"
+    },
+    {
+      "id": 104399,
+      "IDcode": "SSIS-642",
+      "title": "討厭到要死的大叔上司超舒服的緊貼技巧之下心裡雖然不想要，但小穴卻溼答答，在出差地點的旅館被狂高潮的公司內第一美女OL 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/24/6830698f8c4b3b91d75f0e0e/cover.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-642"
+    },
+    {
+      "id": 87658,
+      "IDcode": "SSIS-743",
+      "title": "打工地點感覺可以讓人抽插的高挑姊姊 下半身實在太性感了…在職場就站著從背後插入了 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/24/6830a3f0cb21006f00c2557c/cover.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-743"
+    },
+    {
+      "id": 87651,
+      "IDcode": "SSIS-785",
+      "title": "被逼就無法拒絕的美腿主播是位「想要被欺負」狂懇求反過來拜託的Bitch！ 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683afbd10b69f1d8163773e3/cover.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-785"
+    },
+    {
+      "id": 67806,
+      "IDcode": "SSIS-646",
+      "title": "下品女教師-楓ふうあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f519becf22ae3e04f0baf5/cover.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-646"
+    },
+    {
+      "id": 18233,
+      "IDcode": "SSIS-825",
+      "title": "後輩女友太棒了…讓她昏睡盡情抽插 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789370189def9b1b80961cd/cover.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-825"
+    },
+    {
+      "id": 17659,
+      "IDcode": "SSIS-908",
+      "title": "與成為社長愛人般好色的青梅竹馬再會 純愛略奪的激情性愛 楓富愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231125/c27abec8-3c21-4505-b53f-a65f69c98ca1.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-908"
+    },
+    {
+      "id": 15921,
+      "IDcode": "SONE-067",
+      "title": "Kaedefua史上最大的暴动。拥有美丽腿的虾，弹跳力极强，可以漂浮在空中。强到极致 -A 枫ふうあ-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240322/20240322222959180180.jpg",
+      "actress": [
+        "楓富愛",
+        "鲛岛",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-067"
+    },
+    {
+      "id": 14492,
+      "IDcode": "SONE-196",
+      "title": "谁都憧憬的OL周末母狗日记-楓ふうあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a1596ac813dc779d95fef/cover.jpg",
+      "actress": [
+        "楓富愛",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-196"
+    },
+    {
+      "id": 14131,
+      "IDcode": "JUQ-589",
+      "title": "被老公老板强暴的第七天-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/8735b694e9e7cc90f9ee263fbe2246fc.jpg",
+      "actress": [
+        "楓富愛",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-589"
+    },
+    {
+      "id": 13847,
+      "IDcode": "SONE-114",
+      "title": "粉丝感谢祭-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621011434784784.jpg",
+      "actress": [
+        "楓富愛",
+        "ハリー",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-114"
+    },
+    {
+      "id": 13218,
+      "IDcode": "SONE-263",
+      "title": "淫荡的白衣天使对男病人下手了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719002822644644.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-263"
+    },
+    {
+      "id": 12509,
+      "IDcode": "SONE-308",
+      "title": "让美腿达到绝顶的高潮-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822222201364364.jpg",
+      "actress": [
+        "楓富愛",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-308"
+    },
+    {
+      "id": 11883,
+      "IDcode": "SONE-357",
+      "title": "邪恶店长的御下秘术-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/c1ea3cf6c54e5d41451cdc0307d7b3af.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-357"
+    },
+    {
+      "id": 11199,
+      "IDcode": "SONE-403",
+      "title": "浓厚绝伦淫荡大叔的变态村-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67876490c179ffb1db907be8/cover.jpg",
+      "actress": [
+        "楓富愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-403"
+    },
+    {
+      "id": 10405,
+      "IDcode": "SONE-496",
+      "title": "不再继续跳跃的前世界冠军跳高美女运动员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/14/68249557fd7201c48dca284d/cover.jpg",
+      "actress": [
+        "楓富愛",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-496"
+    },
+    {
+      "id": 10117,
+      "IDcode": "SONE-560",
+      "title": "S1 PRECIOUS GIRLS 2024 - 史上從來未有過的最大規模亂交！24場全明星大集合大亂交超絕亂舞 Special特輯 ~ 河北彩花 金鬆季步 本鄉愛 Miru 楓花戀 等24位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e04c6379f1ac4ec48c195b/cover.jpg",
       "actress": [
         "奥田咲",
         "Miru",
         "河北彩花",
+        "未步奈奈",
+        "小日向美優",
         "七森莉莉",
         "三田真鈴",
+        "村上悠華",
         "明日葉三葉",
         "楓富愛",
         "淺野心",
         "本郷愛",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
+        "川越仁子",
         "金松季歩",
-        "日森一"
+        "白上咲花",
+        "神樂桃果",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
-    },
-    {
-      "id": 5933,
-      "IDcode": "SONE-706",
-      "title": "港區撈金妹用攻略本騙大叔金錢被抓包，絕倫大叔用無盡復仇活塞教訓她服氣 ~ 楓富愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075607565565_thumbnail.webp",
-      "actress": [
-        "楓富愛",
-        "南佳也",
-        "ハリー"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-706"
-    },
-    {
-      "id": 6608,
-      "IDcode": "PFES-107",
-      "title": "楓富愛170cm 明日葉三葉175cm 合計345cm長身超模級美腳雙人挾擊！動彈不得的被榨幹的5本番 ~ 楓富愛 明日葉三葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424204956323323_thumbnail.webp",
-      "actress": [
-        "明日葉三葉",
-        "楓富愛",
-        "トイボーイ相沢"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-107"
-    },
-    {
-      "id": 7408,
-      "IDcode": "SONE-705",
-      "title": "我暗戀三年的女老師，被童貞死黨的大屌秒殺成騷女 ~ 楓富愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110718651651.jpg",
-      "actress": [
-        "楓富愛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-705"
-    },
-    {
-      "id": 8112,
-      "IDcode": "SONE-639",
-      "title": "老年癡呆的公公卻性欲旺盛，假裝誤認我爲婆婆，向我炫耀他那令人印象深刻的大雞巴...... ~ 楓富愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093226324324.jpg",
-      "actress": [
-        "楓富愛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-639"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-560"
     },
     {
       "id": 8885,
       "IDcode": "SONE-591",
-      "title": "給我我可以把我的身體給你，想怎麼做就怎麼做吧 ~ 楓富愛",
+      "title": "小穴借你用一下-枫芙爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073940476476.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68accbe28cce1a927a09f10d/cover.jpg",
       "actress": [
         "楓富愛"
       ],
@@ -250,14 +449,14 @@ window.actressData = {
     {
       "id": 8873,
       "IDcode": "SONE-565",
-      "title": "【巨作警告】S1 20周年 AV界史上最強作 世界上最好的一流女優的極上奉仕 超S1級風俗店 ~ 河北彩花 本鄉愛 金鬆季步 楓福愛 田野優等16位最美女優",
+      "title": "在AV业界史上留名的最强组合作品",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072259469469.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6f1d6dbf24d4ed3076241/cover.jpg",
       "actress": [
         "奥田咲",
         "Miru",
@@ -280,102 +479,195 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
-      "id": 10405,
-      "IDcode": "SONE-496",
-      "title": "寢取專注跳高15年後退役的運動員！ 退役後的世界著名選美獎牌獲得者，是贊助商爸爸們的肉便器 ~ 楓富愛",
+      "id": 8112,
+      "IDcode": "SONE-639",
+      "title": "傻乎乎的公公性欲旺盛-枫芙爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003031204204.jpg",
-      "actress": [
-        "楓富愛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-496"
-    },
-    {
-      "id": 13218,
-      "IDcode": "SONE-263",
-      "title": "入院幾周以來，那個墮落護士無法反抗我那沒有洗過的雞巴的味道 ~ 楓富愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719002822644644.jpg",
-      "actress": [
-        "楓富愛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-263"
-    },
-    {
-      "id": 13847,
-      "IDcode": "SONE-114",
-      "title": "粉絲感謝祭！ 我們真的可以插進去嗎？擁有世界上最強的美腿性愛 ~ 楓富愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-06-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621011434784784.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093226324324.jpg",
       "actress": [
         "楓富愛",
-        "ハリー"
+        "枫富爱"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-639"
     },
     {
-      "id": 14492,
-      "IDcode": "SONE-196",
-      "title": "人人羨慕的彬彬有禮的辦公室女士的周末母狗日記。楓富愛",
+      "id": 7408,
+      "IDcode": "SONE-705",
+      "title": "我暗恋了三年的处女老师-楓ふうあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-05-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524033513767767.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68bf8505735bb663f77519d9/cover.jpg",
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-196"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-705"
     },
     {
-      "id": 16677,
-      "IDcode": "SSIS-980",
-      "title": "新上任的女老師，不幸拜訪了一座垃圾房，那裏住着一位幾十年沒有過性生活的飢餓老人。",
+      "id": 6608,
+      "IDcode": "PFES-107",
+      "title": "绝美长腿双姝夹击",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424204956323323_thumbnail.webp",
+      "actress": [
+        "明日葉三葉",
+        "楓富愛",
+        "トイボーイ相沢",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-107"
+    },
+    {
+      "id": 5933,
+      "IDcode": "SONE-706",
+      "title": "被港区女人骗了的老头们-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-01-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119082754751751.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075607565565_thumbnail.webp",
+      "actress": [
+        "楓富愛",
+        "南佳也",
+        "ハリー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-706"
+    },
+    {
+      "id": 5199,
+      "IDcode": "SONE-760",
+      "title": "原本快退休的上班族大叔每天都搭同一班通勤电车-枫富爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064736142142_thumbnail.webp",
       "actress": [
         "楓富愛",
         "田渊正浩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-760"
     },
     {
-      "id": 17659,
-      "IDcode": "SSIS-908",
-      "title": "与已成为社长爱人的青梅竹马重逢，並透過純粹的愛和激情與她發生性關係",
+      "id": 5195,
+      "IDcode": "SONE-563",
+      "title": "顶尖S1女优们用情色技巧 互相竞争的不插即射精大赛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231125/c27abec8-3c21-4505-b53f-a65f69c98ca1.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/202506190634547979_thumbnail.webp",
+      "actress": [
+        "奥田咲",
+        "Miru",
+        "河北彩花",
+        "七森莉莉",
+        "三田真鈴",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "本郷愛",
+        "金松季歩",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
+    },
+    {
+      "id": 4318,
+      "IDcode": "SONE-566",
+      "title": "新人助理导演-楓ふうあ 未歩なな 明日葉みつは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
+      "actress": [
+        "未步奈奈",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "五条恋",
+        "田野憂",
+        "渚愛梨",
+        "白上咲花",
+        "神樂桃果",
+        "乃坂日和",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
+    },
+    {
+      "id": 4305,
+      "IDcode": "SONE-785",
+      "title": "新人体育节目主持人-楓ふうあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a7a8a78cce1a927aff3888/cover.jpg",
+      "actress": [
+        "楓富愛",
+        "イセドン内村",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-785"
+    },
+    {
+      "id": 3417,
+      "IDcode": "SONE-850",
+      "title": "职业女友的悲惨下场在贫民街被无家可归的流浪者们尽情颜射-枫富爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023341181181_12193_thumbnail.webp",
+      "actress": [
+        "楓富愛",
+        "枫富爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-850"
+    },
+    {
+      "id": 2610,
+      "IDcode": "SONE-880",
+      "title": "沉迷于媚药性爱潮水唾液都止不住-枫芙爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "楓富愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-908"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-880"
     }
   ]
 };

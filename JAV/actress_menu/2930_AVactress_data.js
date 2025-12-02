@@ -18,43 +18,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/y-无垢/AI-Fix-ななこ.jpg"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 61930,
-      "IDcode": "TANP-039",
-      "title": "愛のむきだしPart5 ななこ＆おりょう 愛し合う男の娘カップル",
+      "id": 12573,
+      "IDcode": "TANF-021",
+      "title": "☆禮物！我喜歡的可愛暗黑系女孩 ~ 皆月光",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-07-15",
-      "cover_url": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240818/20240818023512634634.jpg",
       "actress": [
-        "ななこ",
-        "タイ",
-        "おりょう",
-        "NH×NH"
+        "皆月光",
+        "ななこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-039"
-    },
-    {
-      "id": 62733,
-      "IDcode": "HERY-159",
-      "title": "僕は男の娘に恋をする ななこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-06-24",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/24/49f3a4c5/vod.jpg",
-      "actress": [
-        "ななこ",
-        "レンジャー鏑木"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANF-021"
     },
     {
       "id": 87056,
@@ -63,15 +44,68 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2023-06-13",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231012/0NlJ7Wn0/1.jpg",
       "actress": [
         "ななこ",
         "ゆうゆ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NVH-002"
+    },
+    {
+      "id": 105164,
+      "IDcode": "NHDTB-915",
+      "title": "被玩弄乳头与肉棒头的湿濡屁眼持续中出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ななこ",
+        "しゃびー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-915"
+    },
+    {
+      "id": 62733,
+      "IDcode": "HERY-159",
+      "title": "僕は男の娘に恋をする ななこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ななこ",
+        "レンジャー鏑木"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-159"
+    },
+    {
+      "id": 61930,
+      "IDcode": "TANP-039",
+      "title": "愛のむきだしPart5 ななこ＆おりょう 愛し合う男の娘カップル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ななこ",
+        "タイ",
+        "おりょう",
+        "NH×NH"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANP-039"
     }
   ]
 };

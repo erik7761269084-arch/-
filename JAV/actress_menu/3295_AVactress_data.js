@@ -4,7 +4,7 @@ window.actressData = {
   "name": "雫こころ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 61310,
-      "IDcode": "FEM-014",
-      "title": "こころとイチャラブデート 雫こころ",
+      "id": 75709,
+      "IDcode": "SXMA-013",
+      "title": "桃源郷エステ 艶麗秘唇 Part8狂乱の媚肉炎上と怒涛の淫穴昇天",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682ada97ae3235deaa2e6ecd/cover.jpg",
       "actress": [
         "雫こころ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-013"
     },
     {
       "id": 70435,
@@ -41,30 +41,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://tutu1.space/images/2025/07/11/c2326a1162c7a77040e2c8c251cd1886.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d773e7e1ae1e49a4384d0/cover.jpg",
       "actress": [
         "雫こころ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-003"
     },
     {
-      "id": 75709,
-      "IDcode": "SXMA-013",
-      "title": "桃源郷エステ 艶麗秘唇 Part8:狂乱の媚肉炎上と怒涛の淫穴昇天 雫こころ",
+      "id": 61310,
+      "IDcode": "FEM-014",
+      "title": "こころとイチャラブデート 雫こころ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-12-27",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/e8a2cd65/vod.jpg",
       "actress": [
         "雫こころ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SXMA-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FEM-014"
     }
   ]
 };

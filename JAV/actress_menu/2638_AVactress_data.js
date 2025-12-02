@@ -33,66 +33,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230729/6dff927e-4f1d-4532-acdd-62c4dbe8e766.jpg",
     "https://picture.yoshiclub.xyz/20230729/2928e0d6-2390-4cfd-a250-08c4778b9012.jpg"
   ],
-  "works_count": 11,
+  "works_count": 14,
   "related_dramas": [
-    {
-      "id": 76003,
-      "IDcode": "TKWA-020",
-      "title": "みりな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-06-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241222-1/36df37bbc4830e53bdfaae8d6780e97f.jpg",
-      "actress": [
-        "香坂みりな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKWA-020"
-    },
-    {
-      "id": 88204,
-      "IDcode": "SDAM-053",
-      "title": "精子の量が多ければ多いほど金額UP！男性の濃厚精子が溜まったチ○ポを抜いてくれませんか？素人5名がご自慢のテクで挑戦！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-08-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/9ce025729ccf13254a51e3a994586722.jpg",
-      "actress": [
-        "香坂みりな",
-        "椎木くるみ",
-        "ひなちゆん",
-        "近藤れおな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-053"
-    },
-    {
-      "id": 81586,
-      "IDcode": "FCH-052",
-      "title": "【配信専用】「ちょ、待っ、え！こんなところで！？」バレたらマズい場所で美少女がチ●ポをエッチに抜きまくり！2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-04-03",
-      "cover_url": "",
-      "actress": [
-        "胡桃多惠",
-        "神野雛",
-        "香坂みりな",
-        "望月憧",
-        "柏木まい",
-        "加贺美まり",
-        "菊川みつ叶",
-        "富永舞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-052"
-    },
     {
       "id": 82065,
       "IDcode": "SQTE-291",
@@ -100,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-04-01",
       "cover_url": "",
@@ -111,31 +53,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-291"
     },
     {
-      "id": 97626,
-      "IDcode": "SDAM-044",
-      "title": "媚薬を飲まされて、微熱になっちゃった妹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-03-26",
-      "cover_url": "https://tutu1.space/images/2023/01/08/a21282a4ee5e9c946cec1b1786ae6b1d.jpg",
-      "actress": [
-        "皆月光",
-        "香坂みりな",
-        "永濑唯"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-044"
-    },
-    {
       "id": 83624,
       "IDcode": "MGT-106",
       "title": "街角シロウトナンパ！ vol.81 あなたよりエロい友達（ヤリマン）を紹介して下さい！ 10",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2020-03-13",
       "cover_url": "",
@@ -156,7 +80,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "水晶映像",
       "publish_date": "2020-03-06",
       "cover_url": "",
@@ -166,36 +90,139 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-618"
     },
     {
-      "id": 75802,
-      "IDcode": "HSAM-003",
-      "title": "媚薬を飲まされて、微熱になっちゃった妹 みりなちゃん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-27",
-      "cover_url": "",
-      "actress": [
-        "香坂みりな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSAM-003"
-    },
-    {
       "id": 75186,
       "IDcode": "MUDR-097",
       "title": "個撮性交02 制服少女とオジサン 汗っかきのハニカミ少女がプライベートイチャラブSEX 香坂みりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
+      "type": "",
+      "company": "無垢",
       "publish_date": "2020-01-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/d0b0e8894695acd3124f82163a633306.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/9acccdcc02fd9cbc26cbf19292c9ba83.jpg",
       "actress": [
         "香坂みりな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-097"
+    },
+    {
+      "id": 98460,
+      "IDcode": "DOCP-200",
+      "title": "義理の姉妹とセックスに明け暮れた両親",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/d95984918d01a662da2ff8290b5d7abd.jpg",
+      "actress": [
+        "香坂みりな",
+        "一色まりあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-200"
+    },
+    {
+      "id": 97626,
+      "IDcode": "SDAM-044",
+      "title": "被注射了壮阳药的姐妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "皆月光",
+        "永瀬ゆい",
+        "香坂みりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-044"
+    },
+    {
+      "id": 88204,
+      "IDcode": "SDAM-053",
+      "title": "精子の量が多ければ多いほど金額UP！男性の濃厚精子が溜まったチ○ポを抜いてくれませんか？素人5名がご自慢のテクで挑戦！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f8b8974d718d6238a74ba7603b141596.jpg",
+      "actress": [
+        "香坂みりな",
+        "椎木くるみ",
+        "ひなちゆん",
+        "近藤れおな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-053"
+    },
+    {
+      "id": 81587,
+      "IDcode": "FCH-053",
+      "title": "【配信専用】イキたいの？まだダメっ！！寸止め焦らしオイル手コキ2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ae46d63a5dedb998c6718cdcfc4eb037.jpg",
+      "actress": [
+        "清音咲良",
+        "香坂みりな",
+        "ありむらえりか",
+        "大原结莉",
+        "鹰宫ゆい",
+        "七瀬もな",
+        "桜田みつ叶",
+        "夜空せいら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-053"
+    },
+    {
+      "id": 81586,
+      "IDcode": "FCH-052",
+      "title": "【配信専用】「ちょ、待っ、え！こんなところで！？」バレたらマズい場所で美少女がチ●ポをエッチに抜きまくり！2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/424d9f57b446a31408aeb46f8a3209f8.jpg",
+      "actress": [
+        "胡桃多惠",
+        "神野雛",
+        "香坂みりな",
+        "望月憧",
+        "柏木まい",
+        "加贺美まり",
+        "菊川みつ叶",
+        "富永舞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-052"
+    },
+    {
+      "id": 77920,
+      "IDcode": "DOCP-192",
+      "title": "「天使！？小悪魔！？」美人ナースさんは実",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/396c81130ce8e34f8273a4429e67310b.jpg",
+      "actress": [
+        "夏原唯",
+        "南真悠",
+        "香坂みりな",
+        "菊池リナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-192"
     },
     {
       "id": 76216,
@@ -204,33 +231,62 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-09",
-      "cover_url": "",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/123e97979c445dc8722b52318813f0ab.jpg",
       "actress": [
         "香坂みりな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-008"
     },
     {
-      "id": 77920,
-      "IDcode": "DOCP-192",
-      "title": "「天使！？小悪魔！？」美人ナースさんは実は欲求不満！ 精子搾取キツマン騎乗位で僕のチ●ポをギュッと抱きしめ何度も何度もイカされまくった。",
+      "id": 76003,
+      "IDcode": "TKWA-020",
+      "title": "みりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-20",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "夏原唯",
-        "南真悠",
-        "香坂みりな",
-        "菊池リナ"
+        "香坂みりな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKWA-020"
+    },
+    {
+      "id": 75802,
+      "IDcode": "HSAM-003",
+      "title": "媚薬を飲まされて、微熱になっちゃった妹 みりなちゃん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/0a9f15ede13fc763a3bfacaae3d4bd48.jpg",
+      "actress": [
+        "香坂みりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSAM-003"
+    },
+    {
+      "id": 19059,
+      "IDcode": "IPX-391",
+      "title": "ミライの芸能人を先物買い！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729210153392392.jpg",
+      "actress": [
+        "香坂みりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-391"
     }
   ]
 };

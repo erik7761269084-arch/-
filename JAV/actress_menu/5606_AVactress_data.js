@@ -4,7 +4,7 @@ window.actressData = {
   "name": "咲乃にいな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2022-07-26",
-      "cover_url": "",
+      "cover_url": "https://xing.sex8sex833.com/20251008/r1KKSFL4/1.jpg",
       "actress": [
         "秋元千早",
         "七瀬もな",
@@ -37,21 +37,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-065"
     },
     {
-      "id": 101596,
-      "IDcode": "LUXU-1353",
-      "title": "ラグジュTV 1337 【母性の中に秘めたドMな本性】麗しきネイリストが欲求不満を満たすべくラグジュTVの撮影へ参上！ハードピストンと首絞めでは満足出来ない生粋のドMが、他人棒とAV男優の性技で豊乳！豊尻！豊満ボディを震わせて淫れ舞う80分！",
+      "id": 196834,
+      "IDcode": "259LUXU-1353",
+      "title": "美丽的美甲师为了满足欲求不满来到仙境TV的拍摄用别人肉棒和AV男优的性技丰乳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-12-09",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "大岛丈",
         "咲乃にいな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1353"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1353"
     }
   ]
 };

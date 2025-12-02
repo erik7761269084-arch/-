@@ -37,41 +37,25 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230403/3cedf2a5-fd36-4dec-a638-1a89329f4fc4.jpg",
     "https://picture.yoshiclub.xyz/20230403/5629d69f-9990-4723-a017-9b6adbf7ac69.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
-      "id": 1563,
-      "IDcode": "DASD-162",
-      "title": "泉麻那、最初與最後的肛交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "TMA",
-      "publish_date": "2011-11-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/21f57ebb-c419-435d-ba53-8f282862c4d8.jpg",
-      "actress": [
-        "泉麻那"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-162"
-    },
-    {
       "id": 68770,
-      "IDcode": "SW-027",
-      "title": "開始有女人緣？！朋友的女友用異常淫蕩的眼光看著我，出手之後竟然早就淫汁四溢了！！",
+      "IDcode": "SW-0027",
+      "title": "我朋友的女朋友用她那奇怪的眼睛盯着我",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2011-04-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "前田阳菜",
         "泉麻那",
         "佐仓カオリ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-027"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0027"
     }
   ]
 };

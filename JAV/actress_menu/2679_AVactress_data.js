@@ -43,14 +43,14 @@ window.actressData = {
     {
       "id": 2567,
       "IDcode": "CJOB-189",
-      "title": "騷氣姐姐們的W癡女口暴 輪流榨汁讓我爽到不行 BEST 4小時總集編 ~ 鬆本一香 木下日葵 森日向子 月乃露娜 北野未奈 辻井穗乃果 黑川堇 真木今日子 本真友裏 篠田優 AIKA 新村朱裏 通野未帆 藤森裏穗 永瀨唯 鬆本菜奈實 波多野結衣 美波桃 久留木玲 吉良鈴 吉根柚莉愛",
+      "title": "ドスケベお姉さんたちの奪い合い痴女フェラ 交互にドピュドピュ射精させられちゃったボク…BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043355768768_25963_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "波多野结衣",
         "松本一香",
@@ -80,7 +80,6 @@ window.actressData = {
         "初愛寧寧",
         "美波桃",
         "安倍亜沙美",
-        "永濑唯",
         "初爱ねんね"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-189"

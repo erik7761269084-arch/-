@@ -58,36 +58,13 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 74451,
-      "IDcode": "OKAX-582",
-      "title": "パンスト好きのあなたがフルボッキでシコシコ出来る！猥褻お姉さん達のムレムレムッチリ極上下半身",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-12-27",
-      "cover_url": "",
-      "actress": [
-        "本真友里",
-        "杏堂怜",
-        "澁谷果歩",
-        "ちなみん",
-        "若宫はずき",
-        "伊东真绪",
-        "朝川奈穂",
-        "伊藤夏帆"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-582"
-    },
-    {
       "id": 92526,
       "IDcode": "CP-009",
       "title": "密林アマゾン.net2 マン毛ボーボーな人妻たち 10人240分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2017-11-01",
       "cover_url": "",
@@ -109,7 +86,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2015-05-30",
       "cover_url": "https://picture.yoshiclub.xyz/20240814/75663c2b-a18d-4994-8018-98b7a89a06a8.jpg",
@@ -117,6 +94,29 @@ window.actressData = {
         "杏堂怜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0870"
+    },
+    {
+      "id": 74451,
+      "IDcode": "OKAX-582",
+      "title": "パンスト好きのあなたがフルボッキでシコシコ出来る！猥褻お姉さん達のムレムレムッチリ極上下半身",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241201-1/a288eec25e4f6381b6e5e4135d7318a8.jpg",
+      "actress": [
+        "本真友里",
+        "杏堂怜",
+        "澁谷果歩",
+        "ちなみん",
+        "若宫はずき",
+        "伊东真绪",
+        "朝川奈穂",
+        "伊藤夏帆"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-582"
     }
   ]
 };

@@ -37,31 +37,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 4993,
-      "IDcode": "CAWD-856",
-      "title": "東京練●區大●町的悲慘少女K子：從母女情深到被賣身調教再淪爲國際性奴 ~ 月丘紅羽",
+      "id": 6486,
+      "IDcode": "CAWD-832",
+      "title": "新人出道！初脫女大學生 東京都W大學3年生 20歲清純可人 首次亮相 AV DEBUT ~ 月丘紅羽",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033213354354_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043142613613_thumbnail.webp",
       "actress": [
-        "月丘紅羽"
+        "月丘紅羽",
+        "えるる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-856"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-832"
     },
     {
       "id": 5663,
       "IDcode": "CAWD-847",
-      "title": "東京W大學三年級考古系才女月丘小姐20歲 平凡校園生活無法滿足的極致快感 生插內射初體驗爽到暈厥 ~ 月丘紅羽",
+      "title": "東京都W大学3年生 月丘さん（仮）20歳 考古学専攻 専門分野エジプト 平凡な大学生活では味わえない強烈な快楽で失神するほどイキまくったなまハメ中出し初体験",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-05-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173135614614_thumbnail.webp",
       "actress": [
         "月丘紅羽"
@@ -69,21 +70,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-847"
     },
     {
-      "id": 6486,
-      "IDcode": "CAWD-832",
-      "title": "新人出道！初脫女大學生 東京都W大學3年生 20歲清純可人 首次亮相 AV DEBUT ~ 月丘紅羽",
+      "id": 4993,
+      "IDcode": "CAWD-856",
+      "title": "单亲贫困家庭的孝顺女孩20年来一直牵挂母亲-月丘紅羽",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043142613613_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626033213354354_thumbnail.webp",
       "actress": [
-        "月丘紅羽",
-        "えるる"
+        "月丘紅羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-856"
     }
   ]
 };

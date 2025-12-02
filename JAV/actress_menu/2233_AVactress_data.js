@@ -34,13 +34,13 @@ window.actressData = {
     {
       "id": 16873,
       "IDcode": "JUQ-524",
-      "title": "新人登場 ~ 七瀬りく 一種難以接近的氣氛。真相是……一個能幹、想盡力而爲的已婚人妻的“聽話”真面目 首次亮相 AV DEBUT",
+      "title": "很難靠近她-七瀨理紅",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-09",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106061417517517.jpg",
       "actress": [
         "七瀬りく"

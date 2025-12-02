@@ -27,7 +27,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-御坂恵衣.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 73692,
@@ -36,7 +36,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-09-01",
       "cover_url": "",
@@ -44,6 +44,22 @@ window.actressData = {
         "御坂恵衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMND-174"
+    },
+    {
+      "id": 1322,
+      "IDcode": "HEYZO-2604",
+      "title": "KeiMisakaMisakaMei我为我的业馀女孩穿上泳衣第二卷",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/20/67b6e1624e7d663df4849220/cover.jpg",
+      "actress": [
+        "御坂恵衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2604"
     }
   ]
 };

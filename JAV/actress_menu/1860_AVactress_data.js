@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-22",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240828/A68krqbO/1.jpg",
       "actress": [
         "愛名光莉",
         "乙都咲乃",
@@ -64,8 +64,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
+      "type": "",
+      "company": "",
       "publish_date": "2020-05-15",
       "cover_url": "https://picture.yoshiclub.xyz/20230403/c537189c-8dcb-460f-9dff-a171143a522e.jpg",
       "actress": [
@@ -80,10 +80,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/1X96fz0W/1.jpg",
       "actress": [
         "有村希",
         "野野浦暖",
@@ -103,8 +103,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-06",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/d446920c0f7a389990df57f7dc442b61.jpg",
       "actress": [
@@ -113,95 +113,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-957"
     },
     {
-      "id": 98369,
-      "IDcode": "ABP-932",
-      "title": "乙都さきのの極上筆おろし 2nd 32 さらに磨かれたテクニックで待望の第二弾",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-13",
-      "cover_url": "https://tutu1.space/images/2025/08/30/bfa8c34a96baf21d74e06338a109b9fa.jpg",
-      "actress": [
-        "乙都咲乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-932"
-    },
-    {
-      "id": 71755,
-      "IDcode": "ABP-922",
-      "title": "絶対的下から目線 おもてなし庵 神尻小町 乙都さきの 15 お客様のご満足の為、私の全てを捧げます。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/07472fa16b4421d5726c6468c25a6912.jpg",
-      "actress": [
-        "乙都咲乃",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-922"
-    },
-    {
-      "id": 1912,
-      "IDcode": "ABP-911",
-      "title": "密着檔案 FILE.02 我、想要SEX的極緻 ~ 乙都咲乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
-      "publish_date": "2019-10-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/20230212090333715715.jpg",
-      "actress": [
-        "乙都咲乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-911"
-    },
-    {
-      "id": 74757,
-      "IDcode": "ABP-888",
-      "title": "伝説の超高級サロン 究極のM性感 秘密倶楽部 乙都さきのが責めて責めて責めまくる！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-08-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/fea49cd5def4be63d5ac6d14cdb94337.jpg",
-      "actress": [
-        "乙都咲乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-888"
-    },
-    {
-      "id": 82731,
-      "IDcode": "ABP-879",
-      "title": "スプラッシュさきの 女の体液、全部抜く！驚異の3本番 乙都さきの",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-07-19",
-      "cover_url": "",
-      "actress": [
-        "乙都咲乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-879"
-    },
-    {
       "id": 75139,
       "IDcode": "ABP-868",
       "title": "ひたすら生でハメまくる、終らない中出し性交。 予定調和なしの中出しドキュメント 乙都さきの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-06-21",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/5e31b38865bb820b44c39473aea51d15.jpg",
       "actress": [
@@ -211,54 +130,135 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-868"
     },
     {
+      "id": 98369,
+      "IDcode": "ABP-932",
+      "title": "乙都咲乃再次出动破处企划有了经验之后将带来更贴心的破处服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b54b66580655e5916262ae63b11c657.jpg",
+      "actress": [
+        "乙都咲乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-932"
+    },
+    {
+      "id": 82731,
+      "IDcode": "ABP-879",
+      "title": "娇小萝莉女优-乙都さきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "乙都咲乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-879"
+    },
+    {
+      "id": 74757,
+      "IDcode": "ABP-888",
+      "title": "伝説の超高級サロン究極のM性感秘密倶楽部乙",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/fea49cd5def4be63d5ac6d14cdb94337.jpg",
+      "actress": [
+        "乙都咲乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-888"
+    },
+    {
       "id": 71880,
       "IDcode": "ABP-847",
       "title": "ボクの妹・乙都さきのとエッチなふたりぐらし 近親相姦シリーズNo.005 いたずら大好きっ娘。完全主観SEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-04-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/30606d71791b3d96c34efd925537d492.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8e30ec07424fa75265ef3fd2913cb5e9.jpg",
       "actress": [
         "乙都咲乃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-847"
     },
     {
-      "id": 71343,
-      "IDcode": "ABP-798",
-      "title": "乙都さきのの極上筆おろし 24 すっごい騎乗位で童貞暴発！",
+      "id": 71755,
+      "IDcode": "ABP-922",
+      "title": "绝对无法移开视线的神尻风俗女郎乙都咲乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-11-16",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1eef77d59b99efccf28be28114b25946.jpg",
       "actress": [
-        "乙都咲乃"
+        "乙都咲乃",
+        "大岛丈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-798"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-922"
     },
     {
       "id": 71347,
       "IDcode": "ABP-786",
-      "title": "人生初・トランス状態 激イキ絶頂セックス 欲情がとまらずうねる！高速騎乗位！！ 乙都さきの",
+      "title": "痉挛暴力抽插掐喉插到口吐白沫",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-10-19",
-      "cover_url": "https://tutu1.space/images/2025/03/05/9d66972071c145a10fb4c0d504a93620.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "乙都咲乃",
         "鲛岛",
         "沢井亮"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-786"
+    },
+    {
+      "id": 71343,
+      "IDcode": "ABP-798",
+      "title": "与各种处男的破处体验-乙都さきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a4d0c9f85311068aa680f4c653a0d581.jpg",
+      "actress": [
+        "乙都咲乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-798"
+    },
+    {
+      "id": 1912,
+      "IDcode": "ABP-911",
+      "title": "秘密服务-乙都さきの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230212/20230212090333715715.jpg",
+      "actress": [
+        "乙都咲乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-911"
     }
   ]
 };

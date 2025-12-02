@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-06-30",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250205-1/e0f72423caba5919b6ce946aa56b4ed2.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/12de85915bea272dd61857f57fd93ea5.jpg",
       "actress": [
         "美波杏"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桃野桃",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2014-03-15",
-      "cover_url": "https://tutu1.space/images/2023/10/30/ce983127ab4c825312f2c137c2dd772e.jpg",
+      "cover_url": "",
       "actress": [
         "桃野桃"
       ],

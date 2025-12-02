@@ -4,7 +4,7 @@ window.actressData = {
   "name": "米仓夏弥",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 78962,
       "IDcode": "MIDD-745",
-      "title": "- 浮気ばかりする痴女若妻 西真奈美 - JAV目錄大全javmenu.com",
+      "title": "痴女若妻-西真奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-9/a71b31d046240dc24601c74f59967faa.jpg",
       "actress": [
         "米仓夏弥"
       ],

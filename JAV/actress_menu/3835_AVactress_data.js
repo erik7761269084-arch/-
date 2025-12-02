@@ -27,13 +27,13 @@ window.actressData = {
     {
       "id": 68554,
       "IDcode": "NTR-027",
-      "title": "義兄にイカされ続けた新妻 天衣萌香",
+      "title": "成功夺取拥有魔鬼身材的巴西混血美女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-12-24",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "小田切ジュン",

@@ -37,36 +37,177 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240331/f0545c1c-260e-48c0-819c-fcb7f185a6bb.jpg",
     "https://picture.yoshiclub.xyz/20240331/45b9a1b2-8e7e-4058-8c1d-2832a1a29266.jpg"
   ],
-  "works_count": 5,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 5088,
-      "IDcode": "AVSA-385",
-      "title": "迷你身材卻發育成超火辣肉體的妹妹變成我的洩慾玩物 ~ 森本あかり",
+      "id": 5257,
+      "IDcode": "ADD-060",
+      "title": "ドグマ2024下半年精選合輯 ~ 塩見彩 望月綾香 前乃菜々 森本あかり 绫濑心 雫月心桜 日泉舞香 千石もなか 天晴乃愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "2025-06-14",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617115017494494_thumbnail.webp",
+      "actress": [
+        "绫濑心",
+        "千石もなか",
+        "天晴乃愛",
+        "望月綾香",
+        "前乃菜菜",
+        "日泉舞香",
+        "雫月心桜",
+        "森本あかり",
+        "塩見彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADD-060"
+    },
+    {
+      "id": 8170,
+      "IDcode": "MUKD-523",
+      "title": "老頭樂援交的巨乳，美乳，JK制服少女3人組 順從肉便器編 ~ 海野いくら 鹿野愛萌 森本あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2025-02-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075119891891.jpg",
+      "actress": [
+        "海野いくら",
+        "森本あかり",
+        "鹿野愛萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-523"
+    },
+    {
+      "id": 94298,
+      "IDcode": "SKMJ-535",
+      "title": "本物素人ガチナンパ！うすーいラップ一枚挟んで童貞君と素股体験してみませんか？すぐに破れて生ち●ぽがズボッ！「Hはダメっ！」と戸惑う素人娘にそのまま中出ししちゃいました！巨乳美女厳選＆連続中出しスペシャル！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-08-09",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241023-1/e2314f6f1db3a480b59e3db6f74da790.jpg",
+      "actress": [
+        "都月楓",
+        "九井珠奈緒",
+        "木村好乃美",
+        "森本あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-535"
+    },
+    {
+      "id": 13297,
+      "IDcode": "BBTU-084",
+      "title": "巨乳淫女森本あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240714/cdcd9714-2001-4e5e-80cf-e2c5995d4e1a.jpg",
+      "actress": [
+        "森本あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-084"
+    },
+    {
+      "id": 13871,
+      "IDcode": "TANF-020",
+      "title": "與H 罩杯辣妹 森本あかり的口交約會，20 歲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621075752206206_thumbnail.webp",
+      "publish_date": "2024-06-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240619/20240619024324892892.jpg",
       "actress": [
         "森本あかり",
-        "タイ"
+        "左慈半造"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANF-020"
+    },
+    {
+      "id": 15028,
+      "IDcode": "CAWD-663",
+      "title": "又一個20歲承諾：H罩杯巨乳女大學生1個月徹底中出3次！~ 森本あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2024-05-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503093949454454.jpg",
+      "actress": [
+        "森本あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-663"
+    },
+    {
+      "id": 15780,
+      "IDcode": "CAWD-655",
+      "title": "微笑搖擺的 H罩杯超大奶子女孩 20 歲 AV 首次亮相 ~ 森本明裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2024-04-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240330/20240330084747560560.jpg",
+      "actress": [
+        "森本あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-655"
+    },
+    {
+      "id": 13178,
+      "IDcode": "FOCS-209",
+      "title": "孤獨的中年大叔的雞巴被大胸H罩杯地雷系女孩捕獲，寵物雞巴的榨精育成日記 ~ 森本あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0ae2ac813dc779d95f69/cover.jpg",
+      "actress": [
+        "森本あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-209"
+    },
+    {
+      "id": 10207,
+      "IDcode": "MUKC-074",
+      "title": "暗示洗脳05 Hcup爆乳素人レイヤーガチ洗脳。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678920845d57b64bfdf83356/cover.jpg",
+      "actress": [
+        "森本あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-074"
     },
     {
       "id": 9631,
       "IDcode": "SDDE-741",
-      "title": "TOKYO - 大江戶女港，潛入日本最大的'女體盛'專門市場 ~ 相月菜緒 夕美紫苑 國森有紗 森本あかり 白石なぎさ 瀬戸ひなこ",
+      "title": "TOKYO-大江戸‘女港’市場 国内最大級の‘女体’専門セリ市場に潜入！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241224/eb3c52d1-f5a9-45a3-861b-afeefffa7839.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/28/68b06721fbe7fd63de7c7cb7/cover.jpg",
       "actress": [
         "夕美紫苑",
         "白石渚",
@@ -79,56 +220,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-741"
     },
     {
-      "id": 10207,
-      "IDcode": "MUKC-074",
-      "title": "暗示洗腦05 洗腦Hcup爆乳素人娘。連續M女調教。淫雌化、中出、性癖開發。完全支配的的cosplay肉便器 ~ 森本あかり",
+      "id": 5088,
+      "IDcode": "AVSA-385",
+      "title": "ミニマム玉乱エロボディに成長した可愛い妹はボクの性欲処理ペット 森本あかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114112844653653.jpg",
-      "actress": [
-        "森本あかり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-074"
-    },
-    {
-      "id": 94298,
-      "IDcode": "SKMJ-535",
-      "title": "本物素人ガチナンパ！うすーいラップ一枚挟んで童貞君と素股体験してみませんか？すぐに破れて生ち●ぽがズボッ！「Hはダメっ！」と戸惑う素人娘にそのまま中出ししちゃいました！巨乳美女厳選＆連続中出しスペシャル！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-08-09",
-      "cover_url": "",
-      "actress": [
-        "都月楓",
-        "九井珠奈緒",
-        "木村好乃美",
-        "森本あかり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-535"
-    },
-    {
-      "id": 13871,
-      "IDcode": "TANF-020",
-      "title": "與H 罩杯辣妹 森本あかり的口交約會，20 歲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-06-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20240619/20240619024324892892.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b4adf98bc99dfddd62da6/cover.jpg",
       "actress": [
         "森本あかり",
-        "左慈半造"
+        "タイ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TANF-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-385"
     }
   ]
 };

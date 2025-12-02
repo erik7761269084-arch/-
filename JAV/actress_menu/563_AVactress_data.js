@@ -27,77 +27,154 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231119/8087b595-de98-4a66-adb6-d85b3e6b8b37.jpg"
   ],
-  "works_count": 5,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 2896,
-      "IDcode": "HUBLK-053",
-      "title": "放課後躲貓貓 被捉到就要被幹哦 ~ 皆月光 藤田柚 加賀美さら",
+      "id": 5744,
+      "IDcode": "KTRA-720",
+      "title": "調皮小惡魔的種付狂操 4小時 ~ 雙葉胡桃 朝日滴 泉莉音 加賀美さら 永作ねね",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904035144322322_55955_thumbnail.webp",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-24",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529084855706706_thumbnail.webp",
       "actress": [
-        "皆月光",
-        "藤田柚",
+        "泉莉音",
+        "加賀美さら",
+        "雙葉胡桃",
+        "永作ねね",
+        "朝日滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-720"
+    },
+    {
+      "id": 7810,
+      "IDcode": "DMOW-220",
+      "title": "完全鎖喉·貼身深喉 ~ 小鬆杏 桜木美音 有棲舞衣 円井萌華 加賀美さら 美澄玲衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "2025-03-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20250303/67bdb99b-b514-4f85-b705-5c03feae9792.jpg",
+      "actress": [
+        "有栖舞衣",
+        "美澄玲衣",
+        "小松杏",
+        "円井萌華",
+        "桜木美音",
         "加賀美さら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-220"
     },
     {
-      "id": 4591,
-      "IDcode": "HUNTC-344",
-      "title": "色色幻想成真了！去脫毛診所被性感小姐姐假裝認真工作故意撩撥我的VIO！不只是毛毛被清理... ~ 沙つむぐ 五十嵐清華 依本詩織 小野寺舞 加賀美",
+      "id": 8577,
+      "IDcode": "DOKS-626",
+      "title": "幸福的美人口爆，不知不覺得就射了 ~ 桜木美音 有棲舞衣 円井萌華 加賀美さら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "2025-02-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20250203/248b02db-2e19-4dd4-8519-2dac639f109b.jpg",
+      "actress": [
+        "有栖舞衣",
+        "美澄玲衣",
+        "円井萌華",
+        "桜木美音",
+        "加賀美さら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-626"
+    },
+    {
+      "id": 9294,
+      "IDcode": "SILK-173",
+      "title": "忘れられない夜にしよう。 第3夜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "花音うらら",
+        "加賀美さら",
+        "百咲未色"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-173"
+    },
+    {
+      "id": 8657,
+      "IDcode": "VDD-189",
+      "title": "女教師in......（脅迫輪奸套房）~ 加賀美さら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b89295cf22ae3e04db4fe8/cover.jpg",
+      "actress": [
+        "加賀美さら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-189"
+    },
+    {
+      "id": 8575,
+      "IDcode": "DHLD-013",
+      "title": "入社したエステ店の新人研修に行ったら男はまさかの僕1人！？初日から実習でフル勃起を晒した僕は、研修が終わるまで練習台という名の性玩具にされました… 2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250203/80eecb93-8d14-4b94-a094-046c443326d5.jpg",
+      "actress": [
+        "有栖舞衣",
+        "美澄玲衣",
+        "円井萌華",
+        "桜木美音",
+        "加賀美さら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-013"
+    },
+    {
+      "id": 8469,
+      "IDcode": "HUNTC-277",
+      "title": "いつまで我慢できるかな～w ボクとエッチしたがる超絶可愛い2人のヤリマン幼馴染のレズ誘惑に我慢しきれず理性がぶっ飛び暴走ピストンFUCK！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075656231231_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080354780780.jpg",
       "actress": [
-        "五十嵐清華",
-        "小野寺舞",
-        "依本詩織",
-        "加賀美さら",
-        "沙つむぐ"
+        "天馬唯",
+        "千石もなか",
+        "雅子裡菜",
+        "藤田柚",
+        "五十嵐美月",
+        "加賀美さら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-344"
-    },
-    {
-      "id": 6719,
-      "IDcode": "BONY-142",
-      "title": "七位受害者慘遭鬼畜集團無情輪奸FUCK五小時合集 ~ 有加里乃乃花 天海一華 児玉れな 鈴音杏夏 加賀美さら 天乃のあ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092932216216_thumbnail.webp",
-      "actress": [
-        "有加里乃乃花",
-        "天乃のあ",
-        "鈴音杏夏",
-        "加賀美さら",
-        "天海一華",
-        "児玉れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-277"
     },
     {
       "id": 8070,
       "IDcode": "HUNTC-224",
-      "title": "和M氣質的2位繼妹練習深喉口交時，她們內褲都溼透了！不停着要我快點操她們 ~ 伊織雛乃 皆月光 泉莉音 美園和花 加賀美さら 美澄玲衣",
+      "title": "ドM気質な2人の義妹のお口で無理やり喉奥ハードピストンイラマチオ練習していたらパンツビショ濡れ状態！喉奥射精直後「今のもっとして！」と",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-02-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220094810604604.jpg",
       "actress": [
         "美園和花",
@@ -110,25 +187,81 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-224"
     },
     {
-      "id": 8469,
-      "IDcode": "HUNTC-277",
-      "title": "我不知道我能堅持多久 我的青梅竹馬是女同，她和她的女友都想被我操 ~ 藤田柚 天馬唯 雅子裡菜 千石もなか 五十嵐美月 加賀美さら",
+      "id": 7665,
+      "IDcode": "BONY-137",
+      "title": "一人暮らしの美女を狙う鬼畜レ〇プ集団自宅押込み中出し性交 絶叫性奴●編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080354780780.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250308/20250308113650990990.jpg",
       "actress": [
-        "天馬唯",
-        "千石もなか",
-        "雅子裡菜",
+        "加賀美さら",
+        "川栄結愛",
+        "星奈茉奈花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-137"
+    },
+    {
+      "id": 6719,
+      "IDcode": "BONY-142",
+      "title": "被害者7名 闇レ●プ集団の鬼畜FUCK5時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/07/04/fbf6c7b913fd40d73e7589fdc75f47b0.jpg",
+      "actress": [
+        "有加里乃乃花",
+        "天乃のあ",
+        "鈴音杏夏",
+        "加賀美さら",
+        "天海一華",
+        "児玉れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
+    },
+    {
+      "id": 4591,
+      "IDcode": "HUNTC-344",
+      "title": "エッチな妄想が現実だった！脱毛クリニックに行ったらセクシーな女性スタッフが真面目に仕事するフリしてボクのVIOをわざと刺激！ムダ毛以外も…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e586098bc99dfdd032261/cover.jpg",
+      "actress": [
+        "五十嵐清華",
+        "小野寺舞",
+        "依本詩織",
+        "加賀美さら",
+        "沙つむぐ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-344"
+    },
+    {
+      "id": 2896,
+      "IDcode": "HUBLK-053",
+      "title": "放課後かくれんぼレ●プ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d30a5a79f1ac4ec470170e/cover.jpg",
+      "actress": [
+        "皆月光",
         "藤田柚",
-        "五十嵐美月",
         "加賀美さら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-053"
     }
   ]
 };

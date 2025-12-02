@@ -36,19 +36,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250107/156fbd7a-b331-466f-aa92-c5e8561ab38e.jpg",
     "https://picture.yoshiclub.xyz/20250107/1673d91d-f29a-4564-8f59-0121d0834233.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 3676,
-      "IDcode": "MUCH-193",
-      "title": "豐滿爆乳人妻精選集BEST 2 4小時大合輯 ~ 月元綾華 杉原繪裏 石原玲美 黑川雪菜 春日乃亞",
+      "id": 8386,
+      "IDcode": "MUCH-187",
+      "title": "巨乳媽媽的肉感性愛 BEST 4小時 合集 ~ 水澄光 優月せら 杉原えり 三苫海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811001636289289_38704_thumbnail.webp",
+      "publish_date": "2025-02-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250208/20250208215525860860.jpg",
+      "actress": [
+        "杉原えり",
+        "藤白桃羽",
+        "水澄光",
+        "優月せら",
+        "三苫海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-187"
+    },
+    {
+      "id": 3676,
+      "IDcode": "MUCH-193",
+      "title": "むっちり爆乳ワイフBEST2 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/f94706f2/vod.jpg",
       "actress": [
         "杉原えり",
         "月元彩華",

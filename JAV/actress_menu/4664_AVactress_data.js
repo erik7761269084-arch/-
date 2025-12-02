@@ -4,7 +4,7 @@ window.actressData = {
   "name": "甘乃つばき",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,18 +21,34 @@ window.actressData = {
     {
       "id": 95009,
       "IDcode": "JUL-093",
-      "title": "専属・甘乃つばき『輪●』！！ 中出し串刺し性交 寝取らせ夫が妻を他人に輪●させる！！",
+      "title": "原本性冷淡的妻子-甘乃つばき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/2e6ffabb09feca8105238ef1e9a68fe8.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6020250ea9b0aff6b325947754ddfdeb.jpg",
       "actress": [
         "甘乃つばき"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-093"
+    },
+    {
+      "id": 94972,
+      "IDcode": "JUL-031",
+      "title": "风韵犹存的岳母被女婿的大肉棒吸引发誓一定要霸占这根肉棒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/02ffa6ff4c7c6eb4819f761d6640bcc0.jpg",
+      "actress": [
+        "甘乃つばき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-031"
     },
     {
       "id": 76794,
@@ -41,30 +57,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241209-1/b19eeea86a514ae1e6b30753b672a923.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bcb52c11ccf8e542b72a13716981fd9c.jpg",
       "actress": [
         "甘乃つばき"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-061"
-    },
-    {
-      "id": 94972,
-      "IDcode": "JUL-031",
-      "title": "四六時中、娘婿のデカチ○ポが欲しくて堪らない義母の誘い 甘乃つばき",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-11-07",
-      "cover_url": "",
-      "actress": [
-        "甘乃つばき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-031"
     }
   ]
 };

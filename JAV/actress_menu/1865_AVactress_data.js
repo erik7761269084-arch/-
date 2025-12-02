@@ -37,55 +37,25 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250626/686dcb21-2726-4747-859a-5efb3f4de284_l.webp"
   ],
-  "works_count": 12,
+  "works_count": 13,
   "related_dramas": [
     {
-      "id": 4360,
-      "IDcode": "JUTA-173",
-      "title": "極上！！四十路人妻初脫光紀錄 ~ 巖沢香代",
+      "id": 5015,
+      "IDcode": "SW-1007",
+      "title": "騷氣黑絲少婦的誘惑 ~ 水端麻美 宮西光 巖沢香代",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "熟女JAPAN",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042919172172_39837_thumbnail.webp",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "2025-06-26",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626001226587587_thumbnail.webp",
       "actress": [
+        "宮西光",
+        "水端麻美",
         "岩沢香代"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-173"
-    },
-    {
-      "id": 63283,
-      "IDcode": "BKD-356",
-      "title": "母子交尾～丸沼高原路～ 岩沢香代",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "RUBY",
-      "publish_date": "2025-07-01",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/01/5e3d1bf6/vod.jpg",
-      "actress": [
-        "岩沢香代"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-356"
-    },
-    {
-      "id": 90079,
-      "IDcode": "RCTD-531",
-      "title": "複数憑依分魂器",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2023-07-20",
-      "cover_url": "",
-      "actress": [
-        "岩沢香代"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-531"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1007"
     },
     {
       "id": 87057,
@@ -94,82 +64,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
       "publish_date": "2023-06-13",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231011/j63X5ovY/1.jpg",
       "actress": [
         "岩沢香代"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-194"
-    },
-    {
-      "id": 104465,
-      "IDcode": "SDDE-692",
-      "title": "【ギャル化アプリで催●洗脳卍】カバン持ちのオレを見下すお嬢様育ちの娘たちをチ○ポ中毒化！淫らなビッチギャルに成り果てたこの家の女たちは、俺のち○ぽでちゃーんと再教育してやるよ…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-04-20",
-      "cover_url": "https://tutu1.space/images/2023/04/25/eb1db90a4220b2f5a49200c84204ce9e.jpg",
-      "actress": [
-        "蘭々",
-        "岩沢香代",
-        "もなみ铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-692"
-    },
-    {
-      "id": 86051,
-      "IDcode": "RDVHJ-150",
-      "title": "搭訕相席居酒屋獨飲熟女後發現是人妻。欲求不滿的身體睽違許久被當作是女人帶回去做愛後瘋狂狂亂…（3）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "塗鴉日本",
-      "publish_date": "2022-10-27",
-      "cover_url": "",
-      "actress": [
-        "岩沢香代"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-150"
-    },
-    {
-      "id": 68099,
-      "IDcode": "HBAD-634",
-      "title": "啊啊想被侵犯 溫柔過頭對老公不滿的人妻隱藏性欲 岩澤香代",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2022-09-22",
-      "cover_url": "",
-      "actress": [
-        "岩沢香代",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-634"
-    },
-    {
-      "id": 68178,
-      "IDcode": "MEYD-768",
-      "title": "今天來肏爽射到我懷孕吧… 山口珠理",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2022-06-21",
-      "cover_url": "",
-      "actress": [
-        "山口珠理",
-        "岩沢香代"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-768"
     },
     {
       "id": 80929,
@@ -178,10 +80,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-02-22",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c442ee8410cdeb9873d811285c8d3d9a.jpg",
       "actress": [
         "桃井杏南",
         "岩沢香代",
@@ -191,30 +93,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-212"
     },
     {
-      "id": 84316,
-      "IDcode": "DGCEMD-119",
-      "title": "★配信限定！特典映像付★母子アナルレズビアン 望月あやか 岩沢香代 ～1人の女として義母のアナルを責める淫らな変態娘！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2022-01-25",
-      "cover_url": "",
-      "actress": [
-        "望月綾香",
-        "岩沢香代"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-119"
-    },
-    {
       "id": 78670,
       "IDcode": "JJDA-017",
       "title": "内装業の見習い君に揉ませてあげた優しい優しい昼下がりの巨乳主婦 岩沢香代",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "卍GROUP",
       "publish_date": "2021-05-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/98083bd3ffec1657fbd5cabef988cb4b.jpg",
@@ -224,20 +109,153 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-017"
     },
     {
+      "id": 104465,
+      "IDcode": "SDDE-692",
+      "title": "催淫洗脑-岩泽香代 萌波铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "蘭々",
+        "岩沢香代",
+        "もなみ铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-692"
+    },
+    {
+      "id": 90079,
+      "IDcode": "RCTD-531",
+      "title": "複数憑依分魂器",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/c1333b8089cc5daf33e16726ea855cbf.jpg",
+      "actress": [
+        "岩沢香代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-531"
+    },
+    {
+      "id": 86051,
+      "IDcode": "RDVHJ-150",
+      "title": "搭訕相席居酒屋獨飲熟女後發現是人妻。欲求不滿的身體睽違許久被當作是女人帶回去做愛後瘋狂狂亂…（3）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6e81e50d7896e2c0dd98223a48299796.jpg",
+      "actress": [
+        "岩沢香代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-150"
+    },
+    {
+      "id": 84316,
+      "IDcode": "DGCEMD-119",
+      "title": "★配信限定！特典映像付★母子アナルレズビアン 望月あやか 岩沢香代 ～1人の女として義母のアナルを責める淫らな変態娘！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "望月綾香",
+        "岩沢香代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-119"
+    },
+    {
       "id": 76678,
       "IDcode": "VEC-403",
       "title": "息子のクラスメイトに犯●れ続けてプライドを失った母親 岩沢香代",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2020-02-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/d43b59e1ca74eae524b43b4fb0a3f483.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/80c5c1d3e4cae96e607a3aa4b6a9e9ba.jpg",
       "actress": [
         "岩沢香代"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-403"
+    },
+    {
+      "id": 68178,
+      "IDcode": "MEYD-768",
+      "title": "今天我要操你-山口珠理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "山口珠理",
+        "岩沢香代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-768"
+    },
+    {
+      "id": 68099,
+      "IDcode": "HBAD-634",
+      "title": "已婚妇女隐藏的性欲-岩沢香代",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/01/68631b843ed39b57c041d9a2/cover.jpg",
+      "actress": [
+        "岩沢香代",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-634"
+    },
+    {
+      "id": 63283,
+      "IDcode": "BKD-356",
+      "title": "母子交尾～丸沼高原路～ 岩沢香代",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RUBY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b4ee298bc99dfddd730df/cover.jpg",
+      "actress": [
+        "岩沢香代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-356"
+    },
+    {
+      "id": 4360,
+      "IDcode": "JUTA-173",
+      "title": "極上！！四十路奥さま初脱ぎAVドキュメント 緑川まなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250718-1/78cd4cc556131f036e3dfd052607f4ee.jpg",
+      "actress": [
+        "岩沢香代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-173"
     }
   ]
 };

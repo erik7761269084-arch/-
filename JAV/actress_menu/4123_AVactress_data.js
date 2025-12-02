@@ -4,7 +4,7 @@ window.actressData = {
   "name": "有马茉利",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 71151,
       "IDcode": "EBOD-711",
-      "title": "超絶キレイGカップ！性格最高！ウブウブ専門学生マリちゃん（20歳）のソープ初出勤に密着した風俗デビュー映像をそのまま独占AV発売！",
+      "title": "超美G罩杯！性格超好！纯真专业学校学生麻理（20岁）的泡泡浴店初次上班的跟踪拍摄情色店出道影像 直接独家发售AV！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2019-10-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3bba226487f540e8b9bb487751c41250.jpg",
       "actress": [
         "有马茉利"
       ],

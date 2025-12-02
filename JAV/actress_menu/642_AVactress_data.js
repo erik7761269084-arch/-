@@ -47,66 +47,135 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240908/681fec5a-adbd-49d9-b807-bfb361f33c04.jpg",
     "https://picture.yoshiclub.xyz/20240908/843ce293-56c1-4163-ab87-daba25bebab9.jpg"
   ],
-  "works_count": 8,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 3074,
-      "IDcode": "KSBJ-394",
-      "title": "美熟女的悶絕口爆 17人超爽總編集 VOL.04 ~ 岡江凜 初音實 小早川憐子 今藤霧子 百瀬凜花 白河花清 春菜華 浜崎真緒 二宮和香 山口珠理 波多野結衣 塚田詩織",
+      "id": 8761,
+      "IDcode": "NASK-185",
+      "title": "母親的大屁股 被兒子強奸，出汗的巨尻誘惑了親子 禁斷近親相奸亂倫 - 6女優4小時 合集 ~ 翔田千裏 山口珠裏 伊織涼子 岡井凜 成宮彩葉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210611797797_32092_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-01-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20250127/bf5c83d8-38f9-447f-b8f9-ac2e991a12b1.jpg",
       "actress": [
-        "波多野结衣",
-        "浜崎真緒",
-        "小早川怜子",
-        "塚田詩織",
-        "初音實",
-        "白河花清",
-        "春菜华",
-        "二宮和香",
+        "翔田千里",
         "岡江凛",
-        "百瀬凛花",
-        "今藤霧子",
-        "山口珠理",
-        "夏树カオル",
-        "安倍亜沙美",
-        "浜崎真绪",
-        "ひなた唯",
-        "今藤雾子"
+        "成宮彩葉",
+        "伊织凉子",
+        "山口珠理"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-185"
     },
     {
-      "id": 4179,
-      "IDcode": "NATR-756",
-      "title": "爆乳熟女的極致魅力 ~ 岡江凜",
+      "id": 12151,
+      "IDcode": "ROE-263",
+      "title": "RE:Start 更漂亮更淫蕩……禁欲後的激烈性愛3本番 ~ 岡江凜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722230459501501_90769_thumbnail.webp",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "2024-09-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/202409060242314747.jpg",
       "actress": [
         "岡江凛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-756"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-263"
+    },
+    {
+      "id": 10080,
+      "IDcode": "ROE-301",
+      "title": "義理の娘は男友達を呼び出して毎日、私を輪●させています―。 岡江凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a261478d611da77519a4/cover.jpg",
+      "actress": [
+        "岡江凛",
+        "はるま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-301"
+    },
+    {
+      "id": 9205,
+      "IDcode": "ROE-304",
+      "title": "对憧憬的叔母持续下药10日后-冈江凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109075848608608.jpg",
+      "actress": [
+        "岡江凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-304"
+    },
+    {
+      "id": 8472,
+      "IDcode": "ROE-320",
+      "title": "與母親的短暫時光-岡江凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa41249550e292a7860f4d/cover.jpg",
+      "actress": [
+        "岡江凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-320"
+    },
+    {
+      "id": 7676,
+      "IDcode": "ROE-336",
+      "title": "和最爱的母亲饮酒交融的一夜-冈江凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a718d0affba992c0f84af2/cover.jpg",
+      "actress": [
+        "岡江凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-336"
+    },
+    {
+      "id": 7052,
+      "IDcode": "ROE-344",
+      "title": "吵一架后离婚的前夫妇-岡江凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250404/20250404055248189189.jpg",
+      "actress": [
+        "岡江凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-344"
     },
     {
       "id": 6407,
       "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "title": "巨尻熟女ベストセレクション52人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -158,85 +227,76 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
-      "id": 7052,
-      "IDcode": "ROE-344",
-      "title": "曾經大吵一架後離婚的元夫妻。20年後和好如初的我們，像新婚時那樣幹到精疲力盡 ~ 岡江凜",
+      "id": 4179,
+      "IDcode": "NATR-756",
+      "title": "まるまる！岡江凛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250404/20250404055248189189.jpg",
+      "type": "",
+      "company": "Nadeshiko",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722230459501501_90769_thumbnail.webp",
       "actress": [
         "岡江凛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-344"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-756"
     },
     {
-      "id": 7676,
-      "IDcode": "ROE-336",
-      "title": "與最愛的媽媽共飲一夜 沉溺於酒與潮吹中長大的我",
+      "id": 3074,
+      "IDcode": "KSBJ-394",
+      "title": "美熟女のエロテク超絶フェラチオ17人VOL.04",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305125151607607.jpg",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210611797797_32092_thumbnail.webp",
       "actress": [
-        "岡江凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-336"
-    },
-    {
-      "id": 8472,
-      "IDcode": "ROE-320",
-      "title": "我在備考期間和媽媽的短期性生活：利用20分鍾的休息時間的中出性愛，媽媽一直支持我直到我通過考試的那一天...... ~ 岡江凜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075913712712.jpg",
-      "actress": [
-        "岡江凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-320"
-    },
-    {
-      "id": 9205,
-      "IDcode": "ROE-304",
-      "title": "給姨媽喂媚藥10天後，她變成了內射吃到飽的肉便器…… ~ 岡江凜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109075848608608.jpg",
-      "actress": [
-        "岡江凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-304"
-    },
-    {
-      "id": 10080,
-      "IDcode": "ROE-301",
-      "title": "我的繼女每天給她的男性朋友打電話，讓他們來輪奸我 ~ 岡江凜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205092315368368.jpg",
-      "actress": [
+        "波多野结衣",
+        "浜崎真緒",
+        "小早川怜子",
+        "塚田詩織",
+        "初音實",
+        "白河花清",
+        "春菜华",
+        "二宮和香",
         "岡江凛",
-        "はるま"
+        "百瀬凛花",
+        "今藤霧子",
+        "山口珠理",
+        "夏树カオル",
+        "安倍亜沙美",
+        "浜崎真绪",
+        "ひなた唯",
+        "今藤雾子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-301"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
+    },
+    {
+      "id": 2494,
+      "IDcode": "MIST-484",
+      "title": "尻地獄 500分 10人 8時間20分尻地獄巡り 第二弾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Mr.Michiru",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "乙愛麗絲",
+        "新村朱里",
+        "吉根柚莉爱",
+        "田中寧寧",
+        "宝田萌奈美",
+        "西村ニーナ",
+        "織田真子",
+        "永野司",
+        "岡江凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-484"
     }
   ]
 };

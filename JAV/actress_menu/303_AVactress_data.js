@@ -45,151 +45,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230914/36cb8ac2-dcaa-4eed-8683-539ffb1bf275.jpg",
     "https://picture.yoshiclub.xyz/20230914/52dbc045-9222-4958-a5a5-1b56c350e40d.jpg"
   ],
-  "works_count": 18,
+  "works_count": 25,
   "related_dramas": [
     {
-      "id": 3868,
-      "IDcode": "START-361",
-      "title": "極致慾望解放宣言：史上最狂抽搐高潮三連發，深處猛插爽到翻白眼 ~ MINAMO",
+      "id": 12081,
+      "IDcode": "START-148",
+      "title": "當妻子不在家時，與兒子幼稚園的漂亮老師在家祕密約會 ~ MINAMO",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/ad1e2c19-19c1-4c0b-8b5a-2a471724daa9_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240910/20240910080141360360.jpg",
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-361"
-    },
-    {
-      "id": 4819,
-      "IDcode": "START-346",
-      "title": "MINAMO追捕！汗與淚的大追逐SEX 顏面射精狂轟29發！解禁超大量顏射SP ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233155761761_thumbnail.webp",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-346"
-    },
-    {
-      "id": 6381,
-      "IDcode": "START-302",
-      "title": "機密檔案 粉紅戰士戰鬥後的釋放激情 戰鬥本能餘韻性慾爆棚變身絕倫女神 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/ac87f3d0-7d13-4beb-8a5b-a01a0214b10d_thumbnail.webp",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-302"
-    },
-    {
-      "id": 5607,
-      "IDcode": "START-320",
-      "title": "少年監獄女獄警的仕事【特別編】：SODSTAR MINAMO 超美獄警中出改造欲火焚身的囚犯 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-06-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602085828465465_thumbnail.webp",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-320"
-    },
-    {
-      "id": 7111,
-      "IDcode": "START-265",
-      "title": "時間停止REC：超人氣網紅被流浪漢猥瑣大叔玩弄的SEX全記錄 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250401/5582fb93-fc88-4b86-b380-c75e6d4c8109.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-265"
-    },
-    {
-      "id": 7789,
-      "IDcode": "START-284",
-      "title": "因爽約約會改爲照顧弟弟而超不爽的姐姐，大屁股騎乘位狂榨弟弟 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250303/6b02eddb-6709-4d48-8c4b-0f2ccf2947c4.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-284"
-    },
-    {
-      "id": 8554,
-      "IDcode": "START-245",
-      "title": "「一直和MINAMO做愛」從早到晚大屌不停插入 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250204/20250204012235572572.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-245"
-    },
-    {
-      "id": 10213,
-      "IDcode": "START-208",
-      "title": "射精後立即吻你再次索要大雞巴的風俗按摩院娘，讓你恢復勃起而連續射精，合計10發 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20241203/416e44d1-5418-4fec-919a-de295b934bae.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-208"
-    },
-    {
-      "id": 10674,
-      "IDcode": "START-189",
-      "title": "R18版 24小時居家性愛無限射精OK 合共9次射精 有史以來最大的素人粉絲福利解禁 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241112/d1240aed-0a8b-4c1b-b863-024211034a4b.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-148"
     },
     {
       "id": 12709,
@@ -198,8 +70,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-09-12",
       "cover_url": "https://picture.yoshiclub.xyz/20240813/3847c50b-5c8c-4f71-9c69-a2c5e1d0600d.jpg",
       "actress": [
@@ -208,84 +80,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-120"
     },
     {
-      "id": 13463,
-      "IDcode": "START-107",
-      "title": "已婚職業OL出差的騷擾。在溫泉酒店被老板強迫喝酒，然後被輪奸 ~ MINAMO",
+      "id": 14559,
+      "IDcode": "START-073",
+      "title": "MINAMO ZOMBIE AV DEBUT 3周年記念作品",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20240709/c466c6e5-cbf6-4785-8b3c-20b9bc98b521.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-06-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240521/ce761c7a-3ae4-43b0-b589-5426c0e8e770.jpg",
       "actress": [
         "MINAMO"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-107"
-    },
-    {
-      "id": 14052,
-      "IDcode": "START-088",
-      "title": "在夜店被超級漂亮的傳播妹引誘，理性飛失，開始不斷抽插，體內射精！MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240611/2e682391-6a56-4858-bca1-c9089b00b831.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-088"
-    },
-    {
-      "id": 15379,
-      "IDcode": "START-035",
-      "title": "度過一個慵懶周末的好方法 吃飯、做愛、睡覺 ~ MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/temp/20240416014004728728.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-035"
-    },
-    {
-      "id": 15676,
-      "IDcode": "START-022",
-      "title": "日期×××。我被我信任的同一所大學的同學強奸了，他們一遍又一遍地深喉我，然後中出......MINAMO",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-05-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240402/90257c7e-0742-4bde-ae8b-aae4a8a94dce.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-022"
-    },
-    {
-      "id": 16726,
-      "IDcode": "STARS-969",
-      "title": "用美容院的玩具控制了太陽しずく隨心所欲地操她淫蕩的身體",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-02-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20240116/202401160646563737.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-969"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-073"
     },
     {
       "id": 17291,
@@ -294,7 +102,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-11",
       "cover_url": "https://picture.yoshiclub.xyz/20231212/20231212013149274274.jpg",
@@ -304,29 +112,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-955"
     },
     {
-      "id": 17824,
-      "IDcode": "STARS-935",
-      "title": "在這個滿是性感蕩婦的Party上，我們互相交換著操逼一直到早上",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024537776776.jpg",
-      "actress": [
-        "MINAMO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-935"
-    },
-    {
       "id": 18712,
       "IDcode": "STARS-893",
       "title": "絕妙誘人的高性感內衣 本能的性交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-09-12",
       "cover_url": "https://picture.yoshiclub.xyz/20230914/20230914004644457457.jpg",
@@ -334,6 +126,326 @@ window.actressData = {
         "MINAMO"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-893"
+    },
+    {
+      "id": 17824,
+      "IDcode": "STARS-935",
+      "title": "最喜欢SEX的淫乱女-MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024537776776.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-935"
+    },
+    {
+      "id": 16726,
+      "IDcode": "STARS-969",
+      "title": "用美容院的玩具控制了太陽しずく隨心所欲地操她淫蕩的身體",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4f50ac813dc779d96273/cover.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-969"
+    },
+    {
+      "id": 16325,
+      "IDcode": "STARS-980",
+      "title": "和超商打工巨乳人妻做愛中出-MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240213/20240213045402989989.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-980"
+    },
+    {
+      "id": 15676,
+      "IDcode": "START-022",
+      "title": "被自己所信赖的电影社团男社员侵袭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a7a22a47ebb1a8b488a5/cover.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-022"
+    },
+    {
+      "id": 15379,
+      "IDcode": "START-035",
+      "title": "懒惰的周末的漫游舒服的家伙",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-035"
+    },
+    {
+      "id": 14052,
+      "IDcode": "START-088",
+      "title": "我被一个超级漂亮的休息室女孩引诱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240611/2e682391-6a56-4858-bca1-c9089b00b831.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-088"
+    },
+    {
+      "id": 13463,
+      "IDcode": "START-107",
+      "title": "已婚職業OL出差的騷擾。在溫泉酒店被老板強迫喝酒，然後被輪奸 ~ MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787a365c179ffb1db907d5c/cover.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-107"
+    },
+    {
+      "id": 11390,
+      "IDcode": "START-158",
+      "title": "性欲处理专科SEX外来医院特别篇",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/da84fcfe76b5df8bac30b8946b057210.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-158"
+    },
+    {
+      "id": 10674,
+      "IDcode": "START-189",
+      "title": "MINAMOジャンクションR18版 24時間ガチ巣ごもり生活SEXで無制限発射OK 合計9射精 MINAMO史上最大の素のSEX解禁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241112/d1240aed-0a8b-4c1b-b863-024211034a4b.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-189"
+    },
+    {
+      "id": 10213,
+      "IDcode": "START-208",
+      "title": "接吻魔人的巨乳美容小姐 射精后立刻进行色色接吻！恢复勃起&连续射精10次 MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241203/416e44d1-5418-4fec-919a-de295b934bae.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-208"
+    },
+    {
+      "id": 9334,
+      "IDcode": "START-224",
+      "title": "検証。生徒を襲った女講師に接触！3年もの禁欲をした女性の性欲はどうなるのだろうか MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250107/20250107003151791791.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-224"
+    },
+    {
+      "id": 8554,
+      "IDcode": "START-245",
+      "title": "与MINAMO常伴性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/07/67cac409cf22ae3e04269425/cover.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-245"
+    },
+    {
+      "id": 7789,
+      "IDcode": "START-284",
+      "title": "姐姐为了照顾生病的弟弟取消约会心情不好",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250303/6b02eddb-6709-4d48-8c4b-0f2ccf2947c4.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-284"
+    },
+    {
+      "id": 7111,
+      "IDcode": "START-265",
+      "title": "超级流行网红与无家可归的怪异老头",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689dc9171cc1e208692002cd/cover.jpg",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-265"
+    },
+    {
+      "id": 6381,
+      "IDcode": "START-302",
+      "title": "【特典版】【機密情報File】ピンクレンジャー戦闘後の解放SEX 闘争本能の余韻で戦い後の性欲は極限まで高まり絶倫になっていた MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/ac87f3d0-7d13-4beb-8a5b-a01a0214b10d_thumbnail.webp",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-302"
+    },
+    {
+      "id": 5607,
+      "IDcode": "START-320",
+      "title": "用超美貌菁英女官身份-MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602085828465465_thumbnail.webp",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-320"
+    },
+    {
+      "id": 4819,
+      "IDcode": "START-346",
+      "title": "MINAMOを追え！汗と涙の大追跡SEX 顔面射精合計29発！気づいたら大量ぶっかけ解禁しちゃいましたSP",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630233155761761_thumbnail.webp",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-346"
+    },
+    {
+      "id": 3868,
+      "IDcode": "START-361",
+      "title": "认真的性欲解放特别篇，巨乳正妹三场最棒高潮的性交，深入小穴激烈抽插，引发痉挛和大量体液释放 MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/ad1e2c19-19c1-4c0b-8b5a-2a471724daa9_thumbnail.webp",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-361"
+    },
+    {
+      "id": 3059,
+      "IDcode": "START-383",
+      "title": "和网上认识的巨乳女朋友奔现然后被她榨干的故事-MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250901/20250901213618884884_18920_thumbnail.webp",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-383"
+    },
+    {
+      "id": 2190,
+      "IDcode": "START-406",
+      "title": "遠征中NTR サッカー選手の美人嫁がチー牛義兄にこっそり種付けされていたワンシーズン MINAMO",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "MINAMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-406"
     }
   ]
 };

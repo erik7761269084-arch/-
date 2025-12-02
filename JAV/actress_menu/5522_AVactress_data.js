@@ -4,7 +4,7 @@ window.actressData = {
   "name": "豊崎みさと",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106742,
       "IDcode": "JUL-256",
-      "title": "マドンナ専属 第2弾！！中出し解禁！！ 猛暑で理性が狂った母子の、汗だく中出し帰省相姦。 豊崎みさと",
+      "title": "母子の-豊崎みさと",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-06-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/07/04/QQ20200704161653b1696.jpg",
       "actress": [
         "イセドン内村",
         "豊崎みさと"
@@ -38,14 +38,14 @@ window.actressData = {
     {
       "id": 88387,
       "IDcode": "JUL-229",
-      "title": "The BEAUTIFUL WIFE 04 豊崎みさと 30歳 AV debut！！",
+      "title": "TheBEAUTIFULWIFE04-豊崎みさと",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-05-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/63f66b09d470ac956c7b2096868abb66.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a3a3c82927786085634f270878663e5c.jpg",
       "actress": [
         "しみけん",
         "豊崎みさと"

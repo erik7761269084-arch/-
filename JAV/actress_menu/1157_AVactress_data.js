@@ -33,35 +33,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250807/07d6136c-8e0e-48a1-ae56-e1f94af425af_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250807/622a8e53-9ab8-43ce-8ac6-980d9be9f944_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 2382,
-      "IDcode": "SAN-393",
-      "title": "和繼姐沒羞沒燥的性生活 ~ 真希泉",
+      "id": 3817,
+      "IDcode": "HBAD-714",
+      "title": "家の中のバレそうな場所でこっそり誘惑してきてスリルを楽しむ僕の彼女 真希いずみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213359175175_55793_thumbnail.webp",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014358477477_21714_thumbnail.webp",
       "actress": [
         "真希泉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-393"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-714"
     },
     {
       "id": 2727,
       "IDcode": "MVSD-654",
-      "title": "女友就在旁邊，素描課上卻只對我露下面還拋媚眼的暴露狂模特姊姊 ~ 真希泉",
+      "title": "虽然我旁边有女朋友但我是一个暴露狂的姐姐-真希いずみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MVG GROUP",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911021057641641_54747_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/28/bb32dc22c850216bd81c09f22a0115c0.jpg",
       "actress": [
         "真希泉",
         "蓝井优太"
@@ -69,20 +69,38 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-654"
     },
     {
-      "id": 3817,
-      "IDcode": "HBAD-714",
-      "title": "兒子的女友不斷來我家裏誘惑我 ～ 真希泉",
+      "id": 2382,
+      "IDcode": "SAN-393",
+      "title": "父親の隠し子（義姉）との新しい性活 真希いずみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2025-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014358477477_21714_thumbnail.webp",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "真希泉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-714"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-393"
+    },
+    {
+      "id": 2296,
+      "IDcode": "DOCD-073",
+      "title": "「旦那と子供が帰ってくる時間まで◆」家事と育児のスキマ時間でサクッと稼ぐ隣のイマドキ奥様の裏オプ回覧板",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "水端麻美",
+        "廣瀨成美",
+        "真希泉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-073"
     }
   ]
 };

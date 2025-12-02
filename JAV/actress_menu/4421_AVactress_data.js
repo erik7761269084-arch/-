@@ -4,7 +4,7 @@ window.actressData = {
   "name": "中西南",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,50 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
+      "id": 74041,
+      "IDcode": "SDMU-939",
+      "title": "本物麻雀プロ AV出演！！ 中西 南 中西南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-07-11",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/4d9bd34ccd0c85cb6e0fe60edcef4a3c.jpg",
+      "actress": [
+        "中西南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-939"
+    },
+    {
+      "id": 76471,
+      "IDcode": "ZMEN-040",
+      "title": "ボクの布団に朝帰りしたヤンキー義妹がもぐりこんできて…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b37eeea0cfe34290c8b92fee3b335fc8.jpg",
+      "actress": [
+        "百瀬凛花",
+        "中西南",
+        "一乃瀬るりあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-040"
+    },
+    {
       "id": 76166,
       "IDcode": "GDHH-184",
       "title": "エロ過ぎる！ラッキー突き出し尻にもう我慢の限界！！我も忘れてチ●ポ挿入＆中出しに美女も興奮！？逆にチ●ポを求められてハメまくりの神展開に…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/30d2eaa8f2245017ccd7fa748d5bb74c.jpg",
       "actress": [
         "美園和花",
         "小泉真理",
@@ -43,40 +77,6 @@ window.actressData = {
         "中西南"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
-    },
-    {
-      "id": 76471,
-      "IDcode": "ZMEN-040",
-      "title": "ボクの布団に朝帰りしたヤンキー義妹がもぐりこんできて…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-01-17",
-      "cover_url": "",
-      "actress": [
-        "百瀬凛花",
-        "中西南",
-        "一乃瀬るりあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZMEN-040"
-    },
-    {
-      "id": 74041,
-      "IDcode": "SDMU-939",
-      "title": "本物麻雀プロ AV出演！！ 中西 南 中西南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-07-11",
-      "cover_url": "",
-      "actress": [
-        "中西南"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-939"
     }
   ]
 };

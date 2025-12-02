@@ -4,7 +4,7 @@ window.actressData = {
   "name": "葵井优葵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 104627,
       "IDcode": "CAWD-171",
-      "title": "男のチ○ポをヌイてばかりで欲求不満なFカップ極上クビレボディNo.1メンズエステ嬢が念願の絶倫チ○ポでアへ顔イキ狂い 葵井優葵",
+      "title": "欲求不満-葵井優葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2021-01-25",
+      "publish_date": "2024-07-17",
       "cover_url": "",
       "actress": [
         "葵井优葵"

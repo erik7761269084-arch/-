@@ -25,36 +25,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 63418,
-      "IDcode": "JUY-155",
-      "title": "人妻美術モデル痴漢電車 ～身体を浸食する淫らな囁き～ 若葉加奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2017-05-25",
-      "cover_url": "",
-      "actress": [
-        "若叶加奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-155"
-    },
-    {
       "id": 63419,
       "IDcode": "JUY-059",
       "title": "全身性感帯の人妻と中年オイルマッサージ師 若葉加奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2017-01-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b7d2172a02aa9e97004e49bb016e9920.jpg",
       "actress": [
         "若叶加奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-059"
+    },
+    {
+      "id": 63418,
+      "IDcode": "JUY-155",
+      "title": "痴漢電車-若葉加奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-2/61e96ae7f38fa42236b415f853707a43.jpg",
+      "actress": [
+        "若叶加奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-155"
     }
   ]
 };

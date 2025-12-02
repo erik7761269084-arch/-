@@ -38,18 +38,66 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240218/4adee8ce-6367-4791-b03c-4ec0347c6b08.jpg"
   ],
-  "works_count": 4,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 63989,
-      "IDcode": "FCH-104",
-      "title": "舐めまくりイカせまくりの超大満足ご奉仕全身リップ",
+      "id": 13385,
+      "IDcode": "FPRE-073",
+      "title": "一連7夜，持續用催情藥把已經長到我喜歡的巨乳侄女，變成了中出肉便器 ~ 七瀨蘭",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712005756436436.jpg",
+      "actress": [
+        "七瀬蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-073"
+    },
+    {
+      "id": 15416,
+      "IDcode": "FPRE-040",
+      "title": "大奶子美女偷偷挑逗好友父親的乳頭，享受持續射精。七瀬蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-04-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414061805329329.jpg",
+      "actress": [
+        "七瀬蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-040"
+    },
+    {
+      "id": 16230,
+      "IDcode": "FPRE-020",
+      "title": "揉搓時最好的柔軟蓬鬆的大乳房還在生長！黑長發的女孩想要冒險進入這個行業，豐滿巨乳女大學生七瀨蘭，20 歲，AV 出道！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218065730429429.jpg",
+      "actress": [
+        "七瀬蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-020"
+    },
+    {
+      "id": 63989,
+      "IDcode": "FCH-104",
+      "title": "舐めまくりイカせまくりの超大満足ご奉仕全身リップ葵井みずほ 静河 羽月乃蒼 高橋ほなみ 宍戸里帆 小鳥遊りか 七瀬蘭 双葉れぇな 中丸未来 倉木しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2025-05-16",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "羽月乃蒼",
@@ -69,9 +117,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-04-18",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "天馬唯",
@@ -85,36 +133,53 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-102"
     },
     {
-      "id": 6981,
-      "IDcode": "NACR-934",
-      "title": "快感SPA 被惡心大叔的絕技勾起快感的我 ~ 七瀬蘭",
+      "id": 14302,
+      "IDcode": "FPRE-064",
+      "title": "好久不见的青梅竹马-七濑兰",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-04-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250407/d2c83d1b-d0ba-4ff0-a0a7-b0809eedbdf7.jpg",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a06a98cf22ae3e04a0176a/cover.jpg",
       "actress": [
-        "七瀬蘭"
+        "七瀬蘭",
+        "ナイアガラ翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-934"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-064"
     },
     {
       "id": 8538,
       "IDcode": "NACR-910",
-      "title": "黑發披肩，H 罩杯女大學生全身赤裸着被完全探索 ~ 七瀨蘭",
+      "title": "黒髪ロングヘアーHcup女子大生じっくり深掘りまるはだか！ 七瀬蘭",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2025-02-05",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250205/04c9ffcb-ba63-42cf-9ce8-f710f50df882.jpg",
       "actress": [
         "七瀬蘭"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-910"
+    },
+    {
+      "id": 6981,
+      "IDcode": "NACR-934",
+      "title": "被怪異叔叔的絕技搞得忘我-七瀨蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250407/d2c83d1b-d0ba-4ff0-a0a7-b0809eedbdf7.jpg",
+      "actress": [
+        "七瀬蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-934"
     }
   ]
 };

@@ -21,58 +21,32 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/花井しずく.jpg"
   ],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 90294,
-      "IDcode": "RMER-030",
-      "title": "ウーマナイザーの女 失禁不可避！",
+      "id": 5218,
+      "IDcode": "GMAB-006",
+      "title": "鄉下老宅裡被緊縛調教的女學生精選合集 第二彈 純情美少女身心淪陷繩藝快感 10人4小時 ~ 綾瀨ひまり はないしずく 渚光希 白石環奈 森咲はるの 河合陽菜 天野花乃 由良佳奈 千石もなか 中城葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-09-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618213727950950_thumbnail.webp",
       "actress": [
-        "川上優",
-        "美织舞",
+        "由良佳奈",
+        "渚光希",
+        "千石もなか",
+        "中城葵",
+        "天野花乃",
+        "河合陽菜",
+        "白石環奈",
+        "森咲はるの",
+        "綾瀬ひまり",
         "はないしずく"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-030"
-    },
-    {
-      "id": 85214,
-      "IDcode": "MEKO-246",
-      "title": "「おばさんレンタル」サービスリターンズ28 お願いすればこっそり中出しセックスまでさせてくれるエロくて優しいおばさんともっとすげーセックスがしたくなったのでおかわりしてみた",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "素人Only",
-      "publish_date": "2022-10-13",
-      "cover_url": "",
-      "actress": [
-        "はないしずく"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-246"
-    },
-    {
-      "id": 86188,
-      "IDcode": "SDMM-104",
-      "title": "Hなママさんがきっかけで芋づる式に大集合!! 勝浦では敵なし最強ママさんバレー部が早漏に悩む男性のちんちん研究 旦那とご無沙汰欲求不満妻7名収録【マジックミラー号25周年記念作品】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-01-13",
-      "cover_url": "",
-      "actress": [
-        "はないしずく",
-        "一宫みかり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMAB-006"
     },
     {
       "id": 62730,
@@ -81,7 +55,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2021-12-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/2813a135eeaddeeebbc764134d0fd5c0.jpg",
@@ -93,16 +67,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-073"
     },
     {
-      "id": 97788,
-      "IDcode": "AARM-041",
-      "title": "目隠しベロチュー×乳首弄り×2回イクまで許してくれない手こき",
+      "id": 80291,
+      "IDcode": "BAHP-097",
+      "title": "怪しい媚薬治験アルバイト～婚前に借金を全て清算したい美女が謎の薬でアへリまくる！～ 花井しずく",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2021-12-07",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/61393661d67b3dd1299f16653bcc4c5e.jpg",
+      "actress": [
+        "はないしずく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAHP-097"
+    },
+    {
+      "id": 97788,
+      "IDcode": "AARM-041",
+      "title": "直到你射了两次为止",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2021-12-14",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/12/29/3f54d33a9ffc27a2ba56a746bd5f1357.jpg",
       "actress": [
         "真木今日子",
         "永野司",
@@ -115,20 +105,55 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-041"
     },
     {
-      "id": 80291,
-      "IDcode": "BAHP-097",
-      "title": "怪しい媚薬治験アルバイト～婚前に借金を全て清算したい美女が謎の薬でアへリまくる！～ 花井しずく",
+      "id": 90294,
+      "IDcode": "RMER-030",
+      "title": "ウーマナイザーの女 失禁不可避！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/4fb03b8a964d3271ba8c9a6de51331ef.jpg",
+      "actress": [
+        "川上優",
+        "美织舞",
+        "はないしずく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-030"
+    },
+    {
+      "id": 86188,
+      "IDcode": "SDMM-104",
+      "title": "無沙汰欲求不満妻7名収録",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4f20478531d839abc13dcdd9f02142a3.jpg",
+      "actress": [
+        "はないしずく",
+        "一宫みかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-104"
+    },
+    {
+      "id": 85214,
+      "IDcode": "MEKO-246",
+      "title": "善良的阿姨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2021-12-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250320-1/6e179bf62e7202017b9c3087eca2a365.jpg",
       "actress": [
         "はないしずく"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAHP-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKO-246"
     }
   ]
 };

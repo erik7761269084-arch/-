@@ -33,19 +33,153 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-神楽アイネ.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/水野遥香.jpg"
   ],
-  "works_count": 12,
+  "works_count": 17,
   "related_dramas": [
     {
-      "id": 91716,
-      "IDcode": "HAVD-994",
-      "title": "濃厚接吻 禁断姉妹レズビアン 姉妹だから秘密を守れる快楽に夢中になって貪り合う姉と妹",
+      "id": 10342,
+      "IDcode": "ONEX-072",
+      "title": "懷念與青春少女瘋狂的做愛 一位40來歲學校事務員的投稿映像 04",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "ONE MORE",
+      "publish_date": "2024-12-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/0dc78166-fb06-4ecc-9e93-e6aa4699c06c.jpg",
+      "actress": [
+        "神楽アイネ",
+        "山川由奈",
+        "森永ぴの",
+        "吉川美憂",
+        "和登心"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEX-072"
+    },
+    {
+      "id": 98943,
+      "IDcode": "ARM-818",
+      "title": "いきなり！すけべ椅子 もしも《すけべ椅子》がお茶やコーヒーのごとく当然のおもてなしの世の中であったなら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2020-03-26",
+      "publish_date": "2019-12-13",
       "cover_url": "",
+      "actress": [
+        "今井栞菜",
+        "富田优衣",
+        "神楽アイネ",
+        "片瀬仁美",
+        "茜麻衣子",
+        "桃瀬瑠加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-818"
+    },
+    {
+      "id": 102790,
+      "IDcode": "MDVHJ-008",
+      "title": "姑と嫁の夜這いレズビアン2章",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-11-27",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200818/48mdvhj008pl.jpg",
+      "actress": [
+        "神楽アイネ",
+        "结希玲衣（美咲礼、美咲レイ）",
+        "中西江梨子",
+        "中邑みずき",
+        "中野ひな",
+        "野泽すずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-008"
+    },
+    {
+      "id": 73789,
+      "IDcode": "MISM-147",
+      "title": "便器の妖精2匹目",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "えむっ娘ラボ",
+      "publish_date": "2019-08-25",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/71b5de8fae8b583c328577acdeb82655.jpg",
+      "actress": [
+        "神楽アイネ",
+        "鲛岛",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-147"
+    },
+    {
+      "id": 97674,
+      "IDcode": "HUNTA-550",
+      "title": "「もしかして欲求不満！？その突き出したお尻でボクを誘惑してるの！？」入社したての新人OLはボク好みの清楚系ウブっ娘！なのにいつも超ピタピタの白タイトパンツでパンティラインがクッキリ丸見え！何度見ても興奮が抑えられずチ○ポは我慢の限界に！！気がつけば新人OL…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-02-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hunta550/hunta550pl.jpg",
+      "actress": [
+        "美泉咲",
+        "一之瀨戀",
+        "神楽アイネ",
+        "タツ",
+        "篠田优",
+        "爱乃零"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-550"
+    },
+    {
+      "id": 965,
+      "IDcode": "HEYZO-1354",
+      "title": "許久以來再次見到青梅竹馬",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-12-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240216/56f62293-1638-496c-b6a8-974aae090f9d.jpg",
+      "actress": [
+        "神楽アイネ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1354"
+    },
+    {
+      "id": 98811,
+      "IDcode": "RCTD-310",
+      "title": "新女同战斗-小西まりえ 神楽アイネ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c29e4f9a2e9b1d45ba4bb/cover.jpg",
+      "actress": [
+        "神楽アイネ",
+        "小西真理繪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-310"
+    },
+    {
+      "id": 91716,
+      "IDcode": "HAVD-994",
+      "title": "濃厚接吻禁断姉妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690aeaa91fcdee36fa7687cb/poster2.jpg",
       "actress": [
         "神楽アイネ",
         "堀口美衣奈"
@@ -53,21 +187,41 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-994"
     },
     {
-      "id": 98811,
-      "IDcode": "RCTD-310",
-      "title": "父の再婚相手の連れ子は毎日喧嘩するほど仲の悪いクラスメイトだった。両親に心配をかけたくない私達は声を押し殺して女同士の喧嘩をするようになった。喘ぎ声とイキ我慢をする新感覚喧嘩レズバトル",
+      "id": 77389,
+      "IDcode": "RCTD-297",
+      "title": "変態！操り仕事人 第1話会社編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2020-02-20",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1rctd310/1rctd310pl.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/82aada63f93a7ef4a1c391ead358b3a8.jpg",
+      "actress": [
+        "铃木里美",
+        "神楽アイネ",
+        "香苗レノン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-297"
+    },
+    {
+      "id": 76828,
+      "IDcode": "DOCP-105",
+      "title": "まさかノーブラ！？貧乳美人店員がコリコリに勃った乳首に気付かず働く姿に興奮してしまい…2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/95d5b6cad3132f202a2e8fbe3b1f2e20.jpg",
       "actress": [
         "神楽アイネ",
-        "小西真理繪"
+        "阳木かれん",
+        "茜はるか",
+        "手岛知世"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-105"
     },
     {
       "id": 76390,
@@ -76,14 +230,37 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/a3a85585220f105172e1bba1218e43eb.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/49ddb0f753c607931204c2ff04f9584d.jpg",
       "actress": [
         "神楽アイネ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-487"
+    },
+    {
+      "id": 76167,
+      "IDcode": "FSET-864",
+      "title": "抑えきれないフェラ欲でよだれダラダラ！？チ○ポをジュルジュルフェラする女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/e9481b8ed9808bc54b47f4bf9cbc7451.jpg",
+      "actress": [
+        "泉莉音",
+        "望月綾香",
+        "大浦真奈美",
+        "岬梓沙",
+        "雨村梨花",
+        "杉咲しずか",
+        "神楽アイネ",
+        "三船かれん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-864"
     },
     {
       "id": 76166,
@@ -92,10 +269,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/30d2eaa8f2245017ccd7fa748d5bb74c.jpg",
       "actress": [
         "美園和花",
         "小泉真理",
@@ -112,57 +289,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-184"
     },
     {
-      "id": 77389,
-      "IDcode": "RCTD-297",
-      "title": "変態！操り仕事人 第1話会社編",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2020-01-09",
-      "cover_url": "",
-      "actress": [
-        "铃木里美",
-        "神楽アイネ",
-        "香苗レノン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-297"
-    },
-    {
-      "id": 76167,
-      "IDcode": "FSET-864",
-      "title": "抑えきれないフェラ欲でよだれダラダラ！？チ○ポをジュルジュルフェラする女",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-09",
-      "cover_url": "",
-      "actress": [
-        "泉莉音",
-        "望月綾香",
-        "大浦真奈美",
-        "岬梓沙",
-        "雨村梨花",
-        "杉咲しずか",
-        "神楽アイネ",
-        "三船かれん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-864"
-    },
-    {
       "id": 76032,
       "IDcode": "FSET-862",
       "title": "ガマンできず即ズボした相手はまさかの人違い！？俺の肉棒で発情した女が自ら腰を打ちつけ大絶頂2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-12-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241212-1/0700926601bc1c83a694402681a71e66.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/6d32b238e8ad7a7927dbf7cc1cf29906.jpg",
       "actress": [
         "杉咲しずか",
         "神楽アイネ",
@@ -173,13 +309,13 @@ window.actressData = {
     {
       "id": 75993,
       "IDcode": "SDMM-046",
-      "title": "マジックミラー号 街頭母娘ナンパ！断りきれない怒涛のお願いに揺らぐ貞操！親子の絆に打ち込む会心の一撃FUCK！",
+      "title": "用有奖问答把母女邀请到魔镜号上循循利诱成功双飞最后当着女儿面把精液射满老妈的阴道",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-12-26",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "神楽アイネ",
@@ -192,51 +328,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-046"
     },
     {
-      "id": 19079,
-      "IDcode": "IPX-375",
-      "title": "禁欲一個月後與女友朋友瘋狂做愛 深田詠美 合計8回密著性交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2019-09-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230723/20230723210304826826.jpg",
-      "actress": [
-        "深田詠美",
-        "神楽アイネ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-375"
-    },
-    {
-      "id": 73789,
-      "IDcode": "MISM-147",
-      "title": "便器の妖精2匹目",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "えむっ娘ラボ",
-      "publish_date": "2019-08-25",
-      "cover_url": "",
-      "actress": [
-        "神楽アイネ",
-        "鲛岛",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-147"
-    },
-    {
       "id": 70595,
       "IDcode": "GS-249",
-      "title": "新しく始めた仕事は1人寂しく社内を見回りする会社警備。そんなある日、薄暗い中響いてくる…アエギ声…？残業のストレスで隠れてオナニー真っ最中のソソるOLを発見！？息を飲んで覗いていたらバレてしまいヤバいと思ったら…OLはボクのチ○ポをむさぼってきた！！…",
+      "title": "成为公司警备员在巡逻时发现到OL在自慰…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GOGOS",
-      "publish_date": "2019-03-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/78787e55a79aafdcc012cfa415638db0.jpg",
       "actress": [
         "小泉真理",
         "神楽アイネ",
@@ -245,23 +346,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-249"
     },
     {
-      "id": 76828,
-      "IDcode": "DOCP-105",
-      "title": "まさかノーブラ！？貧乳美人店員がコリコリに勃った乳首に気付かず働く姿に興奮してしまい…2",
+      "id": 19079,
+      "IDcode": "IPX-375",
+      "title": "女友不在的期间和她的小恶魔妹妹深田咏美疯狂做爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-11-16",
-      "cover_url": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/007980bb20fbfc8b4e21f8eab19a0c0f.jpg",
       "actress": [
-        "神楽アイネ",
-        "阳木かれん",
-        "茜はるか",
-        "手岛知世"
+        "深田詠美",
+        "神楽アイネ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-105"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-375"
     }
   ]
 };

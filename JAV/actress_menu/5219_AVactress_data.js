@@ -4,7 +4,7 @@ window.actressData = {
   "name": "芹沢みつは",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-02-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221208-1/f3fd2f13713aa04a9cd00c659ee6dfd7.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241201-1/735a2b04dd4af839c19fa6920e1563a7.jpg",
       "actress": [
         "芹沢みつは"
       ],

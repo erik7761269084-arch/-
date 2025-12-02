@@ -4,7 +4,7 @@ window.actressData = {
   "name": "未来ひかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 103122,
       "IDcode": "SDDE-325",
-      "title": "サウナレディのお仕事 10 素股マッサージフルコースSP",
+      "title": "全程裸腿按摩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2013-10-24",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdde325/1sdde325pl.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "佐々木恋海",
         "未来ひかり"

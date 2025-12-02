@@ -45,77 +45,89 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241207/d7a44031-6795-49af-a2d1-c2f0bd07d33d.jpg",
     "https://picture.yoshiclub.xyz/20241207/9682d906-95c3-4e9d-b7b0-883fa3614fb8.jpg"
   ],
-  "works_count": 4,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 4739,
-      "IDcode": "RKI-716",
-      "title": "鑽頭式舔菊花神技加超爽口技雙重夾擊，前後都爽翻天180分鍾究極風俗體驗 ~ 皆月光 涼花胡桃",
+      "id": 10100,
+      "IDcode": "HUNTC-289",
+      "title": "「早くチ〇ポちょうだい！」性に飢えた女囚がいる女子刑務所に男はボク1人！禁欲生活で敏感＆キツマン状態のモンスター女囚はボクのチ○ポ争奪戦！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROOKIE",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/202507030754142828_thumbnail.webp",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c122fb00693963767e89f6/cover.jpg",
+      "actress": [
+        "若宮葉月",
+        "千石もなか",
+        "藤井蕾菈",
+        "涼花くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-289"
+    },
+    {
+      "id": 9187,
+      "IDcode": "HUNTC-122",
+      "title": "ボクが20年以上も童貞なのを見かねた年下幼馴染が超可愛くて確実にヤレる女友達を紹介してくれた！が…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080543101101.jpg",
       "actress": [
         "皆月光",
-        "涼花くるみ",
-        "凉南佳奈"
+        "宇流木沙羅",
+        "音羽美鈴",
+        "涼花くるみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-122"
     },
     {
-      "id": 5648,
-      "IDcode": "DVMM-251",
-      "title": "轉生變成護理實訓人偶的班主任 被學生妹包圍全方位調戲的狂歡後宮 動不了但每天都爽到爆 ~ 斉藤帆夏 宮西光 赤名いと 雙葉麗奈 星仲ここみ 涼花くるみ",
+      "id": 8341,
+      "IDcode": "GNS-114",
+      "title": "尊嚴侵害，無恥性侵犯！被討厭的上司以出差的名義在溫泉旅館裏寢取",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291735054242_thumbnail.webp",
+      "type": "",
+      "company": "GooNiES",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa34879550e292a785c867/cover.jpg",
       "actress": [
-        "宮西光",
-        "斉藤帆夏",
-        "赤名いと",
-        "星仲ここみ",
+        "千石もなか",
+        "天美めあ",
+        "木野野葉惠里香",
+        "真白みのり",
+        "祈山愛",
         "涼花くるみ",
-        "雙葉麗奈",
-        "凉南佳奈"
+        "皇柚子",
+        "上野真奈美",
+        "楽園ミナ",
+        "七瀨華蓮",
+        "天海一華",
+        "東城ゆい",
+        "永瀬愛菜",
+        "美音夢",
+        "堀麻美子",
+        "汐見唯",
+        "加賀美真里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
-    },
-    {
-      "id": 6127,
-      "IDcode": "MIRD-256",
-      "title": "女校修學旅行的中年大叔教師 被不良學生妹整晚用體液羞辱狂罵髒話",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063715895895_thumbnail.webp",
-      "actress": [
-        "涼花くるみ",
-        "葉月ひな",
-        "水本葉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-114"
     },
     {
       "id": 8340,
       "IDcode": "GNS-113",
-      "title": "緊急拘捕！不要拍照！ ！廢墟中回蕩着女性的悲鳴 被強奸的女人 x 20名",
+      "title": "【緊急逮×！】「撮らないで！！」廃墟に響き渡る女性の悲鳴 女たちのヤリすて廃棄場強× 20名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GooNiES",
-      "publish_date": "2025-02-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/d382b06a4ba683ca1c390f593ad31314.jpg",
       "actress": [
         "千石もなか",
         "天美めあ",
@@ -136,6 +148,162 @@ window.actressData = {
         "加賀美真里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
+    },
+    {
+      "id": 6360,
+      "IDcode": "EK-048",
+      "title": "月刊人妻女子專刊 你的身體就是犯罪 第48期 ~ 水原梨花 谷梓 涼花胡桃 萌雨拉梅 持田由香里 櫻和琴子 朝倉麻琳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68baaa13ce3e366423ce0a91/cover.jpg",
+      "actress": [
+        "涼花くるみ",
+        "谷梓",
+        "水原りか",
+        "桜和ことこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-048"
+    },
+    {
+      "id": 6214,
+      "IDcode": "BACJ-151",
+      "title": "公園でぐったりしているその女、実はお持ち帰り待ちをしていたセックス依存症のド変態痴女 涼花くるみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c333535f13d063bcdf91ba/cover.jpg",
+      "actress": [
+        "涼花くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-151"
+    },
+    {
+      "id": 6127,
+      "IDcode": "MIRD-256",
+      "title": "女子校修学旅行の引率オジ教師 教え子たちに一晩中体液（唾液・おしっこ）をぶっかけられて罵倒淫語で罵られる一部始終",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/15/d02f9bff53f89223e0bd18183f1a3c0d.jpg",
+      "actress": [
+        "涼花くるみ",
+        "葉月ひな",
+        "水本葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-256"
+    },
+    {
+      "id": 5648,
+      "IDcode": "DVMM-251",
+      "title": "轉生成了看護實習用模特兒的班導師被學生包圍-斉藤帆夏 宮西ひかる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291735054242_thumbnail.webp",
+      "actress": [
+        "宮西光",
+        "斉藤帆夏",
+        "赤名いと",
+        "星仲ここみ",
+        "涼花くるみ",
+        "雙葉麗奈",
+        "凉南佳奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
+    },
+    {
+      "id": 4739,
+      "IDcode": "RKI-716",
+      "title": "ドリルのように肛門に舌をねじ込む最高のアナル舐めとマ〇コよりも気持ちいいねっとりフェラでアナルとチ〇ポのW責めをしてくれる究極のサンドイッチ風俗へようこそ！ しかも180分スペシャルコース！ 皆月ひかる 涼花くるみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab79b6edc101930b4b4d54/cover.jpg",
+      "actress": [
+        "皆月光",
+        "涼花くるみ",
+        "凉南佳奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-716"
+    },
+    {
+      "id": 3470,
+      "IDcode": "HIJY-002",
+      "title": "HimeMix～スキマバイト編（1）～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有村希",
+        "西野絵美",
+        "涼花くるみ",
+        "一之瀨戀"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIJY-002"
+    },
+    {
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
+      "actress": [
+        "绫濑心",
+        "泉莉音",
+        "東雲梓",
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
+    },
+    {
+      "id": 2228,
+      "IDcode": "NEKK-006",
+      "title": "ナマセクッッ！！※擬似無し本物中出し！！生ハメSEXにエロがる素人4名に元気精子27発膣内大放出！245分！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "千石もなか",
+        "橘京花",
+        "岬櫻",
+        "涼花くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEKK-006"
     }
   ]
 };

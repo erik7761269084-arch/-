@@ -4,7 +4,7 @@ window.actressData = {
   "name": "彩风のん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,43 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 8,
+  "works_count": 9,
   "related_dramas": [
-    {
-      "id": 76220,
-      "IDcode": "DVDMS-498",
-      "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 ジョギング中に声をかけたむれむれレギンスの美尻OLが汗だくで絡みあう濃厚デカチンSEX！ワキ・首すじ・胸元・股間から染み出る汗と熱気が充満する密室で限界びしょ濡れおま○こが激ピストンでのけぞるほど本気イキ！…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-07",
-      "cover_url": "",
-      "actress": [
-        "三吉菜々",
-        "大原えりか",
-        "内海みう",
-        "彩风のん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-498"
-    },
-    {
-      "id": 75189,
-      "IDcode": "KRHK-011",
-      "title": "オフ顔、盗撮。AV女優という’仮面’をとった女性達の’カメラの前では絶対に見せない’シロウトな素顔。 知花みく",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-01-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/8db49bc163b9221533658590cc6447ca.jpg",
-      "actress": [
-        "彩风のん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRHK-011"
-    },
     {
       "id": 82747,
       "IDcode": "APNS-135",
@@ -60,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
       "publish_date": "2019-08-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221121-1/9c5ce5f75963e97e5b1c9c67ed9e0d15.jpg",
@@ -76,14 +41,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-02",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d7a03f41e90aa81fd6887d51a8d19e56.jpg",
       "actress": [
         "彩风のん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-200"
+    },
+    {
+      "id": 99196,
+      "IDcode": "NANP-011",
+      "title": "予約しても中々現れないというJ○が働く噂のデリで、宝くじ一等当選並みの引きでJ○をリアルゲット！ウブなマ○コにニュポリ生ハメ『中はダメ』と言われながらのたっぷり強制中出し！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-07-27",
+      "cover_url": "",
+      "actress": [
+        "七瀬りん",
+        "岬澪",
+        "彩风のん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NANP-011"
     },
     {
       "id": 73798,
@@ -92,8 +75,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2019-07-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250114-1/056487b3b3fb8e8055ff88f210c4d22e.jpg",
       "actress": [
@@ -108,7 +91,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
       "publish_date": "2019-07-13",
       "cover_url": "",
@@ -124,14 +107,49 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-06-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/7d73fcca5989525f484122da733bffec.jpg",
       "actress": [
         "彩风のん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-107"
+    },
+    {
+      "id": 76220,
+      "IDcode": "DVDMS-498",
+      "title": "一般男女モニタリングAV×マジックミラー便コラボ企画 ジョギング中に声をかけたむれむれレギンスの美尻OLが汗だくで絡みあう濃厚デカチンSEX！ワキ・首すじ・胸元・股間から染み出る汗と熱気が充満する密室で限界びしょ濡れおま○こが激ピストンでのけぞるほど本気イキ！…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/4e216ee4e41fcd97a343158b3d46e4b0.jpg",
+      "actress": [
+        "三吉菜々",
+        "大原えりか",
+        "内海みう",
+        "彩风のん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-498"
+    },
+    {
+      "id": 75189,
+      "IDcode": "KRHK-011",
+      "title": "オフ顔、盗撮。AV女優という’仮面’をとった女性達の’カメラの前では絶対に見せない’シロウトな素顔。 知花みく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/499c0a7b7b717ecdf111c6192e0ce925.jpg",
+      "actress": [
+        "彩风のん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRHK-011"
     },
     {
       "id": 73572,
@@ -140,10 +158,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2019-06-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/076a598585c67761395fa284f6604f38.jpg",
       "actress": [
         "绀野光",
         "小田切ありさ",

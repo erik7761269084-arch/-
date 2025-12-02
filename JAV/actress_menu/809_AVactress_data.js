@@ -37,66 +37,52 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250415/dca6de53-7245-4e24-9bfe-a189eff42f53_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250415/66e99064-1e8a-4275-bc59-c3b404083f27_l.webp"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2389,
-      "IDcode": "START-427",
-      "title": "新來的打工妹總愛撩我，工作中大膽挑逗讓我忍不住下手…只好給她加薪啦！ ~ 天神羽衣",
+      "id": 6552,
+      "IDcode": "STZY-017",
+      "title": "福岡最可愛的博多娘初登場 內部紀錄曝光 ~ 天神羽衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210854658658_77914_thumbnail.webp",
+      "publish_date": "2025-04-29",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428222923768768_s.webp",
       "actress": [
         "天神羽衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-017"
     },
     {
-      "id": 4402,
-      "IDcode": "START-378",
-      "title": "極致高潮開發！嬌小敏感身軀顫抖不停，史上最爽激情爆發！巨根狂潮 ~ 天神羽衣",
+      "id": 6835,
+      "IDcode": "START-323",
+      "title": "今、福岡で1番エロくて可愛い女の子を鮮度100％で産地直送！糸島生まれの地元愛溢れる次世代スター！ 天神羽衣 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714211033265265_65967_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "天神羽衣"
+        "天神羽衣",
+        "田渊正浩",
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-378"
-    },
-    {
-      "id": 5248,
-      "IDcode": "START-358",
-      "title": "博多妹子欲火焚身！福岡小妞一天被突襲性感開發，東京初次超高潮3本番紀錄 ~ 天神羽衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-06-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250616/20250616111536575575_thumbnail.webp",
-      "actress": [
-        "天神羽衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-358"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-323"
     },
     {
       "id": 5990,
       "IDcode": "START-343",
-      "title": "成爲福岡最騷最受歡迎的女優！目標達成！突擊素人粉絲宅 射精無制限 ~ 天神羽衣",
+      "title": "福岡で一番エロくて愛される女優になるために 天神羽衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-20",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215601806806_thumbnail.webp",
       "actress": [
         "天神羽衣"
@@ -104,22 +90,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-343"
     },
     {
-      "id": 6835,
-      "IDcode": "START-323",
-      "title": "新人出道！福岡最辣最萌妹子新鮮直送！糸島土生土長的超甜次元新星 SOD首次亮相 AV DEBUT ~ 天神羽衣",
+      "id": 5248,
+      "IDcode": "START-358",
+      "title": "正值青春期的少女们性欲旺盛在一天的性欲训练中她们渴望被内射-天神羽衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250415/2d111a08-79d7-474c-8bf0-3bafc7a33607_s.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250616/20250616111536575575_thumbnail.webp",
       "actress": [
-        "天神羽衣",
-        "田渊正浩",
-        "イセドン内村"
+        "天神羽衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-323"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-358"
+    },
+    {
+      "id": 4402,
+      "IDcode": "START-378",
+      "title": "高潮开发娇小敏感的身体颤抖不已迎来人生中最激烈的高潮-天神羽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714211033265265_65967_thumbnail.webp",
+      "actress": [
+        "天神羽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-378"
+    },
+    {
+      "id": 3254,
+      "IDcode": "START-408",
+      "title": "人生第一次在东京玩我让色情男人多次射精-天神羽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天神羽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-408"
+    },
+    {
+      "id": 2389,
+      "IDcode": "START-427",
+      "title": "最近入ってきたバイトの新人がいつも俺をからかってくる。業務中の大胆な挑発チラリズムに耐え切れず、手を出してしまい…時給を上げざるを得ない！ 天神羽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef1f6a52c12b4e684bb15c/cover.jpg",
+      "actress": [
+        "天神羽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-427"
     }
   ]
 };

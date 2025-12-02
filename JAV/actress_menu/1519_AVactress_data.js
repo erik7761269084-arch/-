@@ -34,23 +34,56 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231111/1fdf73e2-65d9-4a1e-ac07-400487e5b7fd.jpg"
   ],
-  "works_count": 5,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 17929,
-      "IDcode": "SSIS-883",
-      "title": "出差途中，竟然和我最討厭的中年性騷擾老闆同住一間房間……I罩杯新員工，在無與倫比的持久性交中一遍又一遍地高潮直到早上。",
+      "id": 168746,
+      "IDcode": "SSIS-813",
+      "title": "賣力絕頂的性感超開發 強迫感度上升的禁欲子宮頸欺負 媚藥強力玩具欺負 高潮停不下來的絕頂 桃果明里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231111/08b2df41-612a-49ca-9970-5d74d6730cb9.jpg",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240217/miCw8Rld/1.jpg",
       "actress": [
         "桃果明里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-883"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-813"
+    },
+    {
+      "id": 168207,
+      "IDcode": "SSIS-734",
+      "title": "純白I罩杯美女桃果明里的初體驗3段性愛 性感超開發特別編 桃果明里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/23/683098f0cb21006f00c1530c/cover.jpg",
+      "actress": [
+        "桃果明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-734"
+    },
+    {
+      "id": 105685,
+      "IDcode": "SSIS-960",
+      "title": "我的胸部比较舒服-桃果あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桃果明里",
+        "まーち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-960"
     },
     {
       "id": 90240,
@@ -59,41 +92,25 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-11-02",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/c1e862f97ac21bb8526ce7a55726ad77.jpg",
       "actress": [
         "桃果明里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-792"
     },
     {
-      "id": 16511,
-      "IDcode": "SSIS-849",
-      "title": "敏感蓬鬆乳房的超清晰戀奶視頻！ 4K設備可享受的I罩杯近距離支撐 桃果明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-09-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20240201/20240201043714679679.jpg",
-      "actress": [
-        "桃果明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-849"
-    },
-    {
       "id": 87661,
       "IDcode": "SSIS-772",
-      "title": "交わる体液、濃密セックス 完全ノーカットスペシャル 桃果あかり （ブルーレイディスク）",
+      "title": "交錯的體液 濃密性愛 完全未剪的特別版 桃果明里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-06-27",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "桃果明里"
@@ -103,18 +120,50 @@ window.actressData = {
     {
       "id": 77598,
       "IDcode": "SSIS-732",
-      "title": "新人NO.1STYLE 桃果あかりAVデビュー",
+      "title": "新人NO.1STYLE 桃果明里AV出道 桃果明里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-04-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683af8cc0b69f1d816376df3/cover.jpg",
       "actress": [
         "桃果明里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-732"
+    },
+    {
+      "id": 17929,
+      "IDcode": "SSIS-883",
+      "title": "最讨厌的中年性骚扰上司-桃果明里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e895a4631cc64eb5a451d6/cover.jpg",
+      "actress": [
+        "桃果明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-883"
+    },
+    {
+      "id": 16511,
+      "IDcode": "SSIS-849",
+      "title": "敏感軟嫩胸部超鮮明愛好映像！以機材超享受I罩杯特寫自慰協助 桃果明里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683b11d415dec3d802a987b3/cover.jpg",
+      "actress": [
+        "桃果明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-849"
     }
   ]
 };

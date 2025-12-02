@@ -38,19 +38,120 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250313/9842847f-143d-4e1f-a66e-fb0d37c84a59.jpg",
     "https://picture.yoshiclub.xyz/20250313/49f70470-2d02-4686-9a84-1cee8561910c.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2487,
-      "IDcode": "SDJS-334",
-      "title": "全裸上班體驗！SOD女子社員全裸僅一條毛巾挑戰男湯任務測試玩法 社內暴露＆ 同事榨精5人報告 ~ 九井珠奈緒 鈴河めぐみ 池上乙葉 小森舞 小鬆本果",
+      "id": 7585,
+      "IDcode": "MIFD-539",
+      "title": "「お父さん、お母さん。私、滅茶苦茶にSEXをします。」仕草も笑顔も美しい本物お嬢様がガチハメ初絶頂のAVデビュー 池上乙葉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d75746958ac04f270efdb7/cover.jpg",
+      "actress": [
+        "池上乙葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-539"
+    },
+    {
+      "id": 6875,
+      "IDcode": "MIFD-570",
+      "title": "真正大小姐在危险日-池上乙葉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/11/68994eec55337d7f7bcfa95b/cover.jpg",
+      "actress": [
+        "池上乙葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-570"
+    },
+    {
+      "id": 5447,
+      "IDcode": "DOCD-061",
+      "title": "部屋に連れ込んだ素人との隠し撮りSEX そのままAV発売 Vol.11",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250608/20250608102442842842_thumbnail.webp",
+      "actress": [
+        "五芭",
+        "佐山由依",
+        "水乃菜乃華",
+        "池上乙葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-061"
+    },
+    {
+      "id": 5306,
+      "IDcode": "MUKC-097",
+      "title": "スチームパンク コスプレイヤー 快感を欲しがる発情コスプレ少女と完全着衣オフパコ5SEX 池上乙葉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062616840840_thumbnail.webp",
+      "actress": [
+        "池上乙葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-097"
+    },
+    {
+      "id": 4300,
+      "IDcode": "DASS-712",
+      "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 池上乙葉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033119777777_93105_thumbnail.webp",
+      "actress": [
+        "池上乙葉",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-712"
+    },
+    {
+      "id": 4036,
+      "IDcode": "SVERS-002",
+      "title": "爆盛りギャル中華美人姉妹が腕を振るう行列がすごい街中華の日常とSEX！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab664e5f03a092cf719fc5/cover.jpg",
+      "actress": [
+        "足立友梨",
+        "池上乙葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVERS-002"
+    },
+    {
+      "id": 2487,
+      "IDcode": "SDJS-334",
+      "title": "会社で服を着ていないのは一人だけ！ハダカの尊さを身をもって学ぶ SOD女子社員",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250922/20250922211125593593_63746_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "九井珠奈緒",
         "小森舞",
@@ -64,71 +165,6 @@ window.actressData = {
         "野田朔弥"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
-    },
-    {
-      "id": 4300,
-      "IDcode": "DASS-712",
-      "title": "被派遣按摩師摸到敏感私密處，爽到受不了被寝取啦 ~ 池上乙葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033119777777_93105_thumbnail.webp",
-      "actress": [
-        "池上乙葉",
-        "日森一"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-712"
-    },
-    {
-      "id": 5306,
-      "IDcode": "MUKC-097",
-      "title": "蒸汽朋克風Cos少女 慾求不滿的發情小騷貨全套裝啪啪5次高潮 ~ 池上乙葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062616840840_thumbnail.webp",
-      "actress": [
-        "池上乙葉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-097"
-    },
-    {
-      "id": 6875,
-      "IDcode": "MIFD-570",
-      "title": "高雅千金娘危險日初體驗！3本番無套狂熱種付冒險 ~ 池上乙葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412004719957957.jpg",
-      "actress": [
-        "池上乙葉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-570"
-    },
-    {
-      "id": 7585,
-      "IDcode": "MIFD-539",
-      "title": "新人出道！爸爸媽媽，我要瘋魔亂搞SEX啦！ 舉止優雅笑容甜美的真·千金小姐硬核初體驗AV出道 首次亮相 ~ 池上乙葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083139990990.jpg",
-      "actress": [
-        "池上乙葉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-539"
     }
   ]
 };

@@ -48,19 +48,72 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250910/5c771f7b-bd75-418a-9649-0622363aa866_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250910/e163e78e-72f3-4328-9d33-90e6af856e14_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 19258,
-      "IDcode": "IPX-193",
-      "title": "綁架后淪爲奴隷的屈辱調教 不斷被强奸的監禁地獄",
+      "id": 105203,
+      "IDcode": "RBD-855",
+      "title": "被旧日恩师所害沦为奴隶的姐妹",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/05/03/dc2ce1797c8a89203de0f6aaccfc28a1.jpg",
+      "actress": [
+        "森澤佳奈",
+        "本庄優花",
+        "彩華ゆかり",
+        "伊沢凉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-855"
+    },
+    {
+      "id": 104871,
+      "IDcode": "RBD-862",
+      "title": "落入圈套的人妻被逼迫做妓女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240601-1/82a7668775c46a1cac04013fe88fea7d.jpg",
+      "actress": [
+        "佐佐木明希",
+        "彩華ゆかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-862"
+    },
+    {
+      "id": 77313,
+      "IDcode": "RBD-910",
+      "title": "为了帮爸爸报仇被凌辱的人妻樱木优希音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桜木优希音",
+        "彩華ゆかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-910"
+    },
+    {
+      "id": 19258,
+      "IDcode": "IPX-193",
+      "title": "大小姐屈辱调教",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-08-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230613/20230613214722148148.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/787a6cbbef6045a101094faea5fe7b41.jpg",
       "actress": [
         "相澤南",
         "彩華ゆかり",

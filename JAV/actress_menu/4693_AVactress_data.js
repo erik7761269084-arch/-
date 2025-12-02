@@ -22,19 +22,19 @@ window.actressData = {
     "Sakura Kokomi"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 106159,
       "IDcode": "SOE-681",
-      "title": "秘密捜査官の女たち 特別編 仕組まれた偽りのミッション 桜ここみ 西條るり 沖田杏梨",
+      "title": "秘密捜査官特別編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2011-12-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4c525724b170ad68be0da9b025f9dc2c.jpg",
       "actress": [
         "西條琉璃",
         "沖田杏梨",
@@ -45,16 +45,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-681"
     },
     {
+      "id": 105489,
+      "IDcode": "ABP-061",
+      "title": "和高挑巨乳美女在温泉的疯狂性爱旅行",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240404-1/ca27a499a93198961eb73bed18e4be96.jpg",
+      "actress": [
+        "桜ここみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-061"
+    },
+    {
+      "id": 95751,
+      "IDcode": "SOE-646",
+      "title": "超级爆乳肉体大乱交-冲田杏梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西條琉璃",
+        "沖田杏梨",
+        "森林原人",
+        "大岛丈",
+        "桜ここみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-646"
+    },
+    {
       "id": 77103,
       "IDcode": "SOE-451",
       "title": "S級女優をつくろう！2 芸名が決まりました！ ド変態調教！AV業界TOPの先輩に学べ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2010-08-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f1ac06f896d3338e4d33cfccdca5f306.jpg",
       "actress": [
         "桜ここみ",
         "とこな由羽"

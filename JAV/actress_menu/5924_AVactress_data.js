@@ -4,7 +4,7 @@ window.actressData = {
   "name": "宇佐美唯",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 95902,
       "IDcode": "SGOR-022",
-      "title": "ダメ男にイライラするほど欲情しちゃう天然ドS女/宇佐美唯",
+      "title": "ダメ男にイライラするほど欲情しちゃう天然ドS女宇佐美唯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2024-10-30",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/08/05ea336a/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "宇佐美唯"
       ],

@@ -33,13 +33,13 @@ window.actressData = {
     {
       "id": 4719,
       "IDcode": "ROE-375",
-      "title": "新人出道！忘不了那段下課後被大屌校長夜夜狂幹日子的前美女教師 42歲 AV DEBUT ~ 片平友理",
+      "title": "放課後デカチン絶倫校長に毎晩抱かれまくっていた元美人教師 片平友理 42歳 あの頃の不倫SEXが忘れられなくてAVデビュー！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-07-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703071009569569_thumbnail.webp",
       "actress": [
         "片平友理"

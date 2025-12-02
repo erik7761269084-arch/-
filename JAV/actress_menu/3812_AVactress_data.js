@@ -22,19 +22,59 @@ window.actressData = {
     "Ito Beni"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 102920,
-      "IDcode": "HBAD-493",
-      "title": "旦那に内緒で義父の老練な性技に堕ちて行く若い息子の嫁達",
+      "id": 99582,
+      "IDcode": "PDV-164",
+      "title": "ザ・レイプ狂い",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2019-08-08",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-05-23",
       "cover_url": "",
+      "actress": [
+        "大槻响",
+        "葵司",
+        "木南日菜",
+        "上原亞衣",
+        "辰巳ゆい",
+        "麻美由真",
+        "川上奈奈美",
+        "伊东红",
+        "朝日奈あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PDV-164"
+    },
+    {
+      "id": 106970,
+      "IDcode": "SNIS-305",
+      "title": "和紅的同居性生活-伊东紅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "伊东红"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-305"
+    },
+    {
+      "id": 102920,
+      "IDcode": "HBAD-493",
+      "title": "妻子瞒着丈夫上了公公的老式性爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://sha.lashayu.com/papachangpian-img/5fb18433eb.jpg",
       "actress": [
         "美咲佳奈",
         "仓多真央",
@@ -46,15 +86,67 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-493"
     },
     {
-      "id": 68411,
-      "IDcode": "SNIS-366",
-      "title": "秘密捜査官の女 屈辱と歓喜の監禁オーガズム 伊東紅",
+      "id": 75368,
+      "IDcode": "DV-1603",
+      "title": "大乱交-伊东红",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2015-03-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小田切ジュン",
+        "しみけん",
+        "伊东红"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1603"
+    },
+    {
+      "id": 75367,
+      "IDcode": "DV-1557",
+      "title": "本能浓厚性爱4本番-伊东红",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "森林原人",
+        "大岛丈",
+        "伊东红"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1557"
+    },
+    {
+      "id": 75338,
+      "IDcode": "DV-1590",
+      "title": "艺能人-伊东红",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "伊东红"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1590"
+    },
+    {
+      "id": 68411,
+      "IDcode": "SNIS-366",
+      "title": "秘密捜査官-伊東紅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "小田切ジュン",
@@ -62,22 +154,6 @@ window.actressData = {
         "伊东红"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-366"
-    },
-    {
-      "id": 106970,
-      "IDcode": "SNIS-305",
-      "title": "紅と同棲ズボズボ性活 伊東紅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-12-19",
-      "cover_url": "https://tutu1.space/images/2023/10/24/94ab322446a441cf419b329c781b69c7.jpg",
-      "actress": [
-        "伊东红"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-305"
     }
   ]
 };

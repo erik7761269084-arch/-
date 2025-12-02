@@ -4,7 +4,7 @@ window.actressData = {
   "name": "藍川美緒",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,16 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 95280,
+      "id": 471439,
       "IDcode": "MSQ-001",
-      "title": "水泳教師妻性堕ち交尾 藍川美緒",
+      "title": "游泳老师妻子的堕落性交相川澪 蓝川美绪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-11-10",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/05/26e0241298399954a17136e9db4f0863.jpg",
       "actress": [
         "藍川美緒"
       ],

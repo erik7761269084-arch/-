@@ -26,35 +26,115 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240205/02b48380-b31b-45a8-b3ec-3b402c6ae997.jpg"
   ],
-  "works_count": 5,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 16460,
-      "IDcode": "ADN-532",
-      "title": "請原諒我...失去的記憶5",
+      "id": 106718,
+      "IDcode": "JUQ-420",
+      "title": "成人色气溢出的人妻-久野和咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205005835782782.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "久野和咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-420"
+    },
+    {
+      "id": 104764,
+      "IDcode": "NSFS-276",
+      "title": "竟然是我的妻子-久野和咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "久野和咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-276"
+    },
+    {
+      "id": 103770,
+      "IDcode": "ADN-543",
+      "title": "被丈夫哥哥留种的贞淑妻-久野和咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/a14c22fc119d372c274e0407bb104ffb.jpg",
+      "actress": [
+        "久野和咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-543"
+    },
+    {
+      "id": 96776,
+      "IDcode": "KSBJ-311",
+      "title": "对着丈夫部下故意走光诱惑-久野和咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/a1918858d6bb315aa0642c42a31750bf.jpg",
+      "actress": [
+        "久野和咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-311"
+    },
+    {
+      "id": 91752,
+      "IDcode": "JUQ-444",
+      "title": "毕业典礼之后-久野和咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "久野和咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-444"
+    },
+    {
+      "id": 91701,
+      "IDcode": "JUQ-394",
+      "title": "与老公做爱后总是被继子接力持续内射… 久野和咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "久野和咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-394"
     },
     {
       "id": 17103,
       "IDcode": "JUQ-493",
-      "title": "中出輪奸的日子永遠不會結束。",
+      "title": "中出轮奸的日子-久野和咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20231224/20231224004920722722.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240308-1/d7e5c080bb5942e0147c25e15c7abafb.jpg",
       "actress": [
         "久野和咲",
         "輝大",
@@ -63,52 +143,57 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-493"
     },
     {
-      "id": 91752,
-      "IDcode": "JUQ-444",
-      "title": "卒業式の後に…大人になった君へ義母からの贈り物―。 久野和咲",
+      "id": 16460,
+      "IDcode": "ADN-532",
+      "title": "老公请原谅我-久野和咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-11-28",
-      "cover_url": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/51b7970aa8ca364fa838ee00ae9e9a51.jpg",
       "actress": [
         "久野和咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-444"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-532"
     },
     {
-      "id": 106718,
-      "IDcode": "JUQ-420",
-      "title": "オトナの色香が溢れ出る人妻！！Madonna専属第3弾！！ 主人の居ない昼下がり 私は毎日、義父との熱い口づけに溺れています…。 久野和咲",
+      "id": 15631,
+      "IDcode": "NACR-789",
+      "title": "挤出精液直到球变空",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-10-24",
-      "cover_url": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240405/20240404233635157157.jpg",
       "actress": [
         "久野和咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-420"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-789"
     },
     {
-      "id": 91701,
-      "IDcode": "JUQ-394",
-      "title": "マドンナ超人気シリーズ『義父中出し』のスピンオフ作品が始動―。 夫と子作りSEXをした後はいつも絶倫の義息子に中出しされ続けています…。 マドンナ専属第2弾 中出し解禁！！ 久野和咲",
+      "id": 2921,
+      "IDcode": "NSFS-414",
+      "title": "まさか私の妻が… 2泊3日の夫婦交換生活 6組の夫婦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-09-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/982ed22f341ba6828a0abf5cdfaff2a6.jpg",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/202509062223266868_72302_thumbnail.webp",
       "actress": [
+        "夏川步美",
+        "武藤彩香",
+        "美丘さとみ",
+        "七瀬いおり",
+        "海埜ほたる",
         "久野和咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-414"
     }
   ]
 };

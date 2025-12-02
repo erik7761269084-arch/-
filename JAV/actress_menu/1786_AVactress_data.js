@@ -33,26 +33,23 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250512/6be5f25b-3713-4b25-ba00-ddc48b4b595c_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4574,
-      "IDcode": "BONY-151",
-      "title": "獨居美女成獵物！鬼畜強暴團夥闖家門中出凌辱 肉便器屈辱篇 ~ 前田美波 泉あや 日向ひかげ 西村禮奈",
+      "id": 158767,
+      "IDcode": "HEYZO-3104",
+      "title": "イキナリ挿入！初３P！！素人娘を味わい尽くしました！！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709032014762762_27701_thumbnail.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/63QIh9Jc/1.jpg",
       "actress": [
-        "前田美波",
-        "日向ひかげ",
-        "西村礼奈",
         "泉あや"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-151"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3104"
     },
     {
       "id": 6197,
@@ -61,15 +58,34 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2025-05-12",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512100630679679_thumbnail.webp",
       "actress": [
         "鳳可怜",
         "泉あや"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAKO-090"
+    },
+    {
+      "id": 4574,
+      "IDcode": "BONY-151",
+      "title": "一人暮らしの美女を狙う鬼畜レ〇プ集団自宅押込み中出し性交 屈辱肉便器編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250714-1/7ef36cabd0fe44f7582084108bd5bc35.jpg",
+      "actress": [
+        "前田美波",
+        "日向ひかげ",
+        "西村礼奈",
+        "泉あや"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-151"
     }
   ]
 };

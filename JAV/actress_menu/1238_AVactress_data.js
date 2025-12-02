@@ -42,40 +42,72 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250509/f8d78824-e798-49ac-a880-94695cc2a273_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250509/5d3b4d3b-8b44-434c-a7c3-fc5e7f7d41af_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 3755,
-      "IDcode": "IPZZ-669",
-      "title": "女友的蘿莉巨乳妹妹太犯規啦！無 bra 誘惑圓潤美乳掉出來，忍不住偷吃狂幹到底 ~ 望乃留衣",
+      "id": 6312,
+      "IDcode": "IPZZ-360",
+      "title": "新人 FIRST IMPRESSION 175-ふわふわ美巨乳- AV デビュー あの元子役がAV女優に… 望乃るい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030336580580_20966_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "望乃留衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-669"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-360"
+    },
+    {
+      "id": 5519,
+      "IDcode": "IPZZ-402",
+      "title": "初体験絶頂3本番 ふわふわHcup美巨乳堪能スペシャル 望乃るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b2a0b2a681bb640dae22fb/cover.jpg",
+      "actress": [
+        "望乃留衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-402"
     },
     {
       "id": 4762,
       "IDcode": "IPZZ-383",
-      "title": "來自H杯清楚系校花級學生妹的誘惑，從那天起就忍不住…明知我是個老師，可還是還是在放學後與她酒店密會瘋狂做愛 ~ 望乃留衣",
+      "title": "与在校任教的H罩杯写真偶像学生发生关系的那天起-望乃るい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703043916324324_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e57b098bc99dfdd03223c/cover.jpg",
       "actress": [
         "望乃留衣",
         "大岛丈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-383"
+    },
+    {
+      "id": 3755,
+      "IDcode": "IPZZ-669",
+      "title": "面对完美圆润巨乳的走光诱惑-望乃るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/23/f476c56fe0d5c72600cadf7ade0f810b.jpg",
+      "actress": [
+        "望乃留衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-669"
     }
   ]
 };

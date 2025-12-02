@@ -32,50 +32,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231212/fc903765-0c50-4cc6-9703-41004936d9f2.jpg",
     "https://picture.yoshiclub.xyz/20231212/262b2522-daa3-4f1f-b89b-986f25c09916.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3074,
-      "IDcode": "KSBJ-394",
-      "title": "美熟女的悶絕口爆 17人超爽總編集 VOL.04 ~ 岡江凜 初音實 小早川憐子 今藤霧子 百瀬凜花 白河花清 春菜華 浜崎真緒 二宮和香 山口珠理 波多野結衣 塚田詩織",
+      "id": 75574,
+      "IDcode": "HDKA-189",
+      "title": "はだかのヨガ講師 今藤霧子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210611797797_32092_thumbnail.webp",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/7b3635e30f1b79fd13f6e8fb151a049f.jpg",
       "actress": [
-        "波多野结衣",
-        "浜崎真緒",
-        "小早川怜子",
-        "塚田詩織",
-        "初音實",
-        "白河花清",
-        "春菜华",
-        "二宮和香",
-        "岡江凛",
-        "百瀬凛花",
         "今藤霧子",
-        "山口珠理",
-        "夏树カオル",
-        "安倍亜沙美",
-        "浜崎真绪",
-        "ひなた唯",
         "今藤雾子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-189"
     },
     {
       "id": 6407,
       "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "title": "巨尻熟女ベストセレクション52人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -125,6 +110,38 @@ window.actressData = {
         "响りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
+    },
+    {
+      "id": 3074,
+      "IDcode": "KSBJ-394",
+      "title": "美熟女のエロテク超絶フェラチオ17人VOL.04",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210611797797_32092_thumbnail.webp",
+      "actress": [
+        "波多野结衣",
+        "浜崎真緒",
+        "小早川怜子",
+        "塚田詩織",
+        "初音實",
+        "白河花清",
+        "春菜华",
+        "二宮和香",
+        "岡江凛",
+        "百瀬凛花",
+        "今藤霧子",
+        "山口珠理",
+        "夏树カオル",
+        "安倍亜沙美",
+        "浜崎真绪",
+        "ひなた唯",
+        "今藤雾子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-394"
     }
   ]
 };

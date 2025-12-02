@@ -33,35 +33,19 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/AI-Fix-川瀬遥菜.jpg",
     "https://picture.yoshiclub.xyz/20230123/9754bc3b-ae35-45dc-a362-9ae23f0bb15c.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 2057,
-      "IDcode": "LAFBD-19",
-      "title": "林間少女 19 川瀨遙菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2014-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/fe256b76-5184-4afa-bc25-ae058ea670c4.webp",
-      "actress": [
-        "川瀬遥菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-19"
-    },
     {
       "id": 2048,
       "IDcode": "LAFBD-15",
-      "title": "Laforet Girl Vol.15：河瀨春菜",
+      "title": "黑丝美人OL-川瀬遥菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-11-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/bcce1c32-0165-4592-aaa6-ce81168e2d81.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/f59246ef3f796238a8996f4c4625b017.jpg",
       "actress": [
         "川瀬遥菜"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "藤美なつな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91094,
       "IDcode": "JRZE-154",
-      "title": "初撮り人妻ドキュメント 藤美なつな",
+      "title": "初次拍摄人妻-藤美夏菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-07-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/9469615de7fdf9e28d3cc37a7236b5bd.jpg",
       "actress": [
         "藤美なつな"
       ],

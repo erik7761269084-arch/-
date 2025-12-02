@@ -39,25 +39,55 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231226/a77b14c1-21d7-4f97-b1de-597d80436f00.jpg",
     "https://picture.yoshiclub.xyz/20231226/db31fd11-1084-4e83-be62-8ad01206692b.jpg"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 3243,
-      "IDcode": "IENF-355",
-      "title": "不是說好不放進去的嘛！結果素股太爽直接滑進去！忍不住內射啦 ~ ローレン花戀 加藤結衣 川越ゆい",
+      "id": 13419,
+      "IDcode": "IENF-334",
+      "title": "ローレン花戀 中出性愛從早到晚 56",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827000944945945_57544_thumbnail.webp",
+      "publish_date": "2024-08-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20240711/20240711011350655655.jpg",
       "actress": [
-        "川越ゆい",
-        "加藤結衣",
         "ローレン花恋"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-355"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-334"
+    },
+    {
+      "id": 15236,
+      "IDcode": "CEMD-512",
+      "title": "愛上自己遇見的男人 白皙混血女孩~4SEX ~ ローレン花戀",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240421/3249ed14-211d-4bb2-af2a-7000c7552033.jpg",
+      "actress": [
+        "ローレン花恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-512"
+    },
+    {
+      "id": 15726,
+      "IDcode": "LULU-286",
+      "title": "和熱愛日本的白皙大屁股海外遊客發生性關系，反復將大硬雞巴插入她被麻醉的、敏感的身體中，無盡的高潮中出性愛 ~ ローレン花戀",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "LUNATICS",
+      "publish_date": "2024-04-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331101442347347.jpg",
+      "actress": [
+        "ローレン花恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-286"
     },
     {
       "id": 17070,
@@ -66,14 +96,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2023-12-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20231225/fa9e501a-caa4-4b8b-adb2-03a8131cde02.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/001d39060424770db6a9677a494ebca7.jpg",
       "actress": [
         "ローレン花恋"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-609"
+    },
+    {
+      "id": 3243,
+      "IDcode": "IENF-355",
+      "title": "サエない僕を不憫に思った美人な姉に「擦りつけるだけだよ」という約束で素股してもらっていたら互いに気持ち良すぎてマ○コはグッショリ！でヌルっと生挿入",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827000944945945_57544_thumbnail.webp",
+      "actress": [
+        "川越ゆい",
+        "加藤結衣",
+        "ローレン花恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-355"
     }
   ]
 };

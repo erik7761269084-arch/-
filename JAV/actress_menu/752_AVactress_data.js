@@ -37,24 +37,231 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231106/bf9b4b13-cf9c-431e-8006-e74f1d14957e.jpg",
     "https://picture.yoshiclub.xyz/20231106/de5e028b-cb3e-42f1-b560-f3318cf6546a.jpg"
   ],
-  "works_count": 1,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 17487,
-      "IDcode": "ADN-510",
-      "title": "隔壁宿舍的男人老是晚上看AV還開很大聲 他在我老公不在的時候引誘我NTR了",
+      "id": 4933,
+      "IDcode": "ATKD-398",
+      "title": "射精後敏感肉棒被吸得一滴不剩！極致清理口交4小時精選合集 ~ 結月莉亞 工藤拉拉 加藤結衣 波多野結衣 小早川憐子 有村希 等",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "RUBY",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224928985985_thumbnail.webp",
+      "actress": [
+        "波多野结衣",
+        "新村朱里",
+        "明里紬",
+        "希島愛理",
+        "白峰美羽",
+        "有村希",
+        "東條夏",
+        "尾崎惠梨香",
+        "月乃露娜",
+        "倉木詩織",
+        "沙月芽衣",
+        "小早川怜子",
+        "松本菜奈実",
+        "花柳杏奈",
+        "日下部加奈",
+        "結月莉亞",
+        "武藤彩香",
+        "夏目彩春",
+        "三宮椿",
+        "工藤拉拉",
+        "竹内夏希",
+        "天然美月",
+        "加藤結衣",
+        "二宮光",
+        "七瀬いおり",
+        "平井栞奈",
+        "月乃櫻",
+        "月乃滴",
+        "桃愛ゆえ",
+        "八神沙織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-398"
+    },
+    {
+      "id": 8642,
+      "IDcode": "ATKD-387",
+      "title": "猥褻背德SPA理療 BEST 大合集 4小時 ~ 二宮光 高阪ますみ 鬆本菜奈実 鬆永さな 星野娜美 天然美月 夏目彩春 末広純",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RUBY",
+      "publish_date": "2025-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130085103332332.jpg",
+      "actress": [
+        "末広純",
+        "松本菜奈実",
+        "夏目彩春",
+        "星野娜美",
+        "天然美月",
+        "松永さな",
+        "二宮光",
+        "高坂ますみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-387"
+    },
+    {
+      "id": 155631,
+      "IDcode": "ATID-569",
+      "title": "我一次都未内射的妻子-二宫光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240923-1/efb273ff8f04415dd716715c3a4cc6bc.jpg",
+      "actress": [
+        "二宮光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-569"
+    },
+    {
+      "id": 106881,
+      "IDcode": "ADN-473",
+      "title": "性欲很强的义父-二宫光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231202/d6f8dc54-93fe-4262-a1e8-f50c2e0ee028.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/20480be0e858c4ecd70255f3f73acde4.jpg",
+      "actress": [
+        "二宮光",
+        "田渊正浩",
+        "二宫ひかり",
+        "二宫光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-473"
+    },
+    {
+      "id": 67255,
+      "IDcode": "ATID-526",
+      "title": "挑衅老师的学生-二宮ひかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a5692697fc3bf30b2e44387d09cc15e6.jpg",
+      "actress": [
+        "二宮光",
+        "二宫ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-526"
+    },
+    {
+      "id": 18006,
+      "IDcode": "YUJ-009",
+      "title": "那位心机人妻-二宫光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105083008126126.jpg",
+      "actress": [
+        "二宮光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-009"
+    },
+    {
+      "id": 17487,
+      "IDcode": "ADN-510",
+      "title": "老公不在欲求不满诱惑我-二宫光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/58a278f595a2de17fc84ddd396f74b5f.jpg",
       "actress": [
         "二宮光",
         "二宫ひかり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-510"
+    },
+    {
+      "id": 16970,
+      "IDcode": "ADN-512",
+      "title": "被开除的部下-二宫光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a655a8f1cbfc7a9c7dc20/cover.jpg",
+      "actress": [
+        "二宮光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-512"
+    },
+    {
+      "id": 15293,
+      "IDcode": "JUQ-630",
+      "title": "和町内会长之间的情人契约-二宫光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419082654268268.jpg",
+      "actress": [
+        "二宮光",
+        "大岛丈",
+        "二宫ひかり",
+        "二宫光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-630"
+    },
+    {
+      "id": 13804,
+      "IDcode": "JUQ-827",
+      "title": "被NTR癖-二宫光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240729-1/49ce7b51dac49e7a01067b8a62c579b4.jpg",
+      "actress": [
+        "二宮光",
+        "大岛丈",
+        "二宫ひかり",
+        "二宫光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-827"
+    },
+    {
+      "id": 12162,
+      "IDcode": "JUQ-902",
+      "title": "对30岁还保持童贞的弟弟感到同情",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906065932284284.jpg",
+      "actress": [
+        "二宮光",
+        "二宫ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-902"
     }
   ]
 };

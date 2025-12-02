@@ -59,25 +59,27 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 2007,
-      "IDcode": "CWPBD-71",
-      "title": "CATWALK POISON 71 ～中出大亂交SP～ : 菜菜瀬結衣, 前田陽菜, 真木今日子, 他計6名",
+      "id": 98835,
+      "IDcode": "CRPD-364",
+      "title": "レズビアン集団痴漢バス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/e1d28b8d-1ccc-4b4e-9ff0-af8bcd5ebd42.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-09-19",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/crpd364/crpd364pl.jpg",
       "actress": [
-        "真木今日子",
-        "前田阳菜",
-        "遥惠美",
-        "愛花沙也",
-        "菜菜瀬結衣",
-        "京野七香"
+        "吉崎美帆",
+        "京野七香",
+        "柳田やよい",
+        "风见渚",
+        "尾上ライナ",
+        "芹沢まゆら",
+        "早坂爱梨",
+        "成岛りゅう"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-71"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRPD-364"
     }
   ]
 };

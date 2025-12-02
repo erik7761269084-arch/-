@@ -35,31 +35,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 8284,
-      "IDcode": "MEYD-972",
-      "title": "舔陰、挑逗乳頭、舌吻：在這場不倫事件中，背德妻子淪爲老練公公黏糊糊前戲的犧牲品 ~ 佐久間れみ",
+      "id": 9910,
+      "IDcode": "MEYD-959",
+      "title": "27岁的优等生人妻-佐久間れみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075303770770.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211071221409409.jpg",
       "actress": [
-        "佐久間れみ"
+        "佐久間れみ",
+        "ハメ鳥の人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-972"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-959"
     },
     {
       "id": 9045,
       "IDcode": "MEYD-967",
-      "title": "想要實現性夢想的人妻逃離現有生活，瞞着丈夫與大雞巴的無恥大亂交 ~ 佐久間れみ",
+      "title": "想实现性爱梦想的人妻-佐久間れみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-01-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075636759759.jpg",
       "actress": [
         "佐久間れみ",
@@ -68,21 +69,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-967"
     },
     {
-      "id": 9910,
-      "IDcode": "MEYD-959",
-      "title": "新人報到！27歲 上流人家已婚人妻的身體反動解放 欲求不滿的人妻最終以出演AV的方式狂野釋放 首次亮相 AV DEBUT ~ 佐久間れみ",
+      "id": 8284,
+      "IDcode": "MEYD-972",
+      "title": "熟练大叔的黏腻前戏-佐久間れみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211071221409409.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075303770770.jpg",
       "actress": [
-        "佐久間れみ",
-        "ハメ鳥の人"
+        "佐久間れみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-959"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-972"
     }
   ]
 };

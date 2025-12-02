@@ -41,9 +41,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-05-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042251941941_thumbnail.webp",
       "actress": [
         "時藤結菜"

@@ -35,38 +35,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240712/5bdc66bb-94be-4414-ab3f-76b45ed1f972.jpg",
     "https://picture.yoshiclub.xyz/20240712/2afb835a-8606-4084-9875-f85d5c6ad381.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4169,
-      "IDcode": "DAMX-012",
-      "title": "出差男士按摩偷拍第六彈 ~ 七原紗由 永野鈴 安藤春 宇佐美すい",
+      "id": 13396,
+      "IDcode": "MIFD-504",
+      "title": "新人：「個子高，大學裏不受歡迎，但我想要做愛！」170公分8寸身材苗條女大學生AV出道 ~ 安藤春",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Dama",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723083213845845_37538_thumbnail.webp",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712003106571571.jpg",
       "actress": [
-        "永野鈴",
-        "七原紗由",
-        "宇佐美すい",
         "安藤春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAMX-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-504"
     },
     {
       "id": 10515,
       "IDcode": "SDDE-740",
-      "title": "「制服・下着・全裸」2024年度新人CA航空空服小姐 壓卷總勢11名+特別講師1名的大型航空CA研候編",
+      "title": "招待跨坐航空",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241119/2024111902491211.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bab4bcce3e366423ce2b0b/cover.jpg",
       "actress": [
         "五十嵐清華",
         "響乃詩",
@@ -83,6 +80,25 @@ window.actressData = {
         "安藤ハル"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
+    },
+    {
+      "id": 4169,
+      "IDcode": "DAMX-012",
+      "title": "出張メンズエステ（秘）撮影VOL.6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250727-1/befdcc536c72848e8f8ad0aa5d7b5e3d.jpg",
+      "actress": [
+        "永野鈴",
+        "七原紗由",
+        "宇佐美すい",
+        "安藤春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAMX-012"
     }
   ]
 };

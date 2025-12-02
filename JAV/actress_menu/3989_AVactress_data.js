@@ -4,7 +4,7 @@ window.actressData = {
   "name": "花岛瑞江",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-03-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/bffa15eb69e979320d0e6926cd97e998.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f2c22af3a4d41741022122109b7d37e3.jpg",
       "actress": [
         "花岛瑞江"
       ],

@@ -33,39 +33,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230831/eed42a4e-5ede-44b3-9e65-24910327a22b.jpg",
     "https://picture.yoshiclub.xyz/20230831/a21cbef4-73ba-45d9-9aa9-2ecabb16466a.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 17571,
-      "IDcode": "FSDSS-753",
-      "title": "我想今天會愛上你。絵麗奈在沒有翻譯的情況下過夜約會，興奮後發生了激烈的性行為",
+      "id": 18866,
+      "IDcode": "FSDSS-716",
+      "title": "香港人絵麗奈限定最高級技巧的拍攝作品",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2023-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231127/20231127061150422422.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831011142291291.jpg",
+      "actress": [
+        "絵麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-716"
+    },
+    {
+      "id": 18076,
+      "IDcode": "FSDSS-752",
+      "title": "这就是传说中的那个香港女孩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b22100fbe7fd63de7f83cb/cover.jpg",
+      "actress": [
+        "絵麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-752"
+    },
+    {
+      "id": 17571,
+      "IDcode": "FSDSS-753",
+      "title": "今天可能会喜欢上你-绘里奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a62b38f1cbfc7a9c7dbff/cover.jpg",
       "actress": [
         "絵麗奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-753"
     },
     {
-      "id": 18866,
-      "IDcode": "FSDSS-716",
-      "title": "世界第一！ FALENOstar限定高級肥皂地 香港人Erina為您服務 Erina",
+      "id": 15648,
+      "IDcode": "FSDSS-644",
+      "title": "在香港出生长大的女子-绘丽奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2023-09-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831011142291291.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-4/6b9764e16e6de7a0b59d194791081ec4.jpg",
       "actress": [
         "絵麗奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-716"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-644"
     }
   ]
 };

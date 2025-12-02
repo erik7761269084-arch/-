@@ -39,24 +39,40 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250828/40bd04a8-eaf6-4de3-b669-fda7746d6bb7_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250828/40b0c6e4-0c51-4d73-a346-de8aa65a1c4c_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 3190,
       "IDcode": "MIDA-300",
-      "title": "NEW HERO 2025年清楚系最頂新人 現役女子大生專屬出道 川口櫻 AV DEBUT MOODYZ創立25周年紀念 ~ 川口桜",
+      "title": "NEW HERO 新人 現役女子大生専属 川口桜AVDebut！ MOODYZ創立25周年記念",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/202508280238504242_48240_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/09/9ddbb1a9/vod.jpg",
       "actress": [
         "川口桜",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-300"
+    },
+    {
+      "id": 2215,
+      "IDcode": "MIDA-340",
+      "title": "ぜーんぶ初体験！！セックス開発4本番Special！！ 川口桜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川口桜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-340"
     }
   ]
 };

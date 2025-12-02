@@ -36,20 +36,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1706,
-      "IDcode": "MKBD-S138",
-      "title": "KIRARI 138 我讓太可愛的蘿莉女僕做了下流的事: 桃井理乃",
+      "id": 1051,
+      "IDcode": "HEYZO-1471",
+      "title": "无良教练经常诱骗学跆拳道的女学员进行内射",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2017-05-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/4278db29-31be-4702-81c0-5346078eba8f.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/23/73a16d09/vod.jpg",
       "actress": [
         "桃井理乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1471"
     }
   ]
 };

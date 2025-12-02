@@ -31,56 +31,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250507/2eebfde6-9ca9-4d58-81c8-ac40f6e0f5cd_l.webp"
   ],
-  "works_count": 7,
+  "works_count": 8,
   "related_dramas": [
-    {
-      "id": 6363,
-      "IDcode": "MMPB-079",
-      "title": "全主觀口技精選集 快盯著我看！再讓我含深一點！百分百美女直視下狂射不停 ~ 出演女優：倉木詩織 天野彌生 持田栞里 AIKA 麗日麗 一之瀨戀 葉月蕾拉 星野真美 若山丸井 月宮寧寧",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2025-05-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250507/20250507100217326326_thumbnail.webp",
-      "actress": [
-        "AIKA",
-        "倉木詩織",
-        "一之瀨戀",
-        "持田栞里",
-        "麗日麗",
-        "天野弥生",
-        "葉月レイラ",
-        "月宮ねね",
-        "安倍亜沙美",
-        "仓木诗织",
-        "うららか丽",
-        "椎木くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-079"
-    },
-    {
-      "id": 91395,
-      "IDcode": "CMC-298",
-      "title": "Cinemagic DVDベスト30 PartXVII",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "CineMagic",
-      "publish_date": "2023-08-08",
-      "cover_url": "",
-      "actress": [
-        "丹羽すみれ",
-        "天野弥生",
-        "瞳りん",
-        "安倍亜沙美",
-        "莲美柚香",
-        "爱実ありあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
-    },
     {
       "id": 81553,
       "IDcode": "GIGL-589",
@@ -88,31 +40,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/pPyfpmvW/1.jpg",
       "actress": [
         "天野弥生",
         "冴木真子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIGL-589"
-    },
-    {
-      "id": 83002,
-      "IDcode": "OFKU-145",
-      "title": "栃木から上京した嫁の母が…朝川静香 45歳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-03-20",
-      "cover_url": "",
-      "actress": [
-        "天野弥生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-145"
     },
     {
       "id": 82202,
@@ -121,10 +57,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-20",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221125/9cox2bQ5/1.jpg",
       "actress": [
         "天野弥生",
         "须川结月",
@@ -140,7 +76,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Cosmos 映像",
       "publish_date": "2020-03-12",
       "cover_url": "",
@@ -150,22 +86,102 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-204"
     },
     {
+      "id": 96310,
+      "IDcode": "MOND-119",
+      "title": "以被颜射为乐的人妻-天野弥生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/50d44d76f7eacdf5fa1e66ecef3fd655.jpg",
+      "actress": [
+        "天野弥生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-119"
+    },
+    {
+      "id": 91395,
+      "IDcode": "CMC-298",
+      "title": "Cinemagic DVDベスト30 PartXVII",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "CineMagic",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/32d9cde71396e997f3508c44729b781f.jpg",
+      "actress": [
+        "丹羽すみれ",
+        "天野弥生",
+        "瞳りん",
+        "安倍亜沙美",
+        "莲美柚香",
+        "爱実ありあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-298"
+    },
+    {
+      "id": 83002,
+      "IDcode": "OFKU-145",
+      "title": "栃木から上京した嫁の母が…朝川静香 45歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/aa7dff301e66e27e1a4856ed719b23c5.jpg",
+      "actress": [
+        "天野弥生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFKU-145"
+    },
+    {
       "id": 75083,
       "IDcode": "VNDS-3335",
       "title": "コタツの中で息子にイカされる義母",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-20",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20241217-1/24453d71e16124df0397a044d9cdcbeb.jpg",
       "actress": [
         "天野弥生",
         "鹫尾明美",
         "春日部一美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3335"
+    },
+    {
+      "id": 6363,
+      "IDcode": "MMPB-079",
+      "title": "オール主観フェラチオベスト もっとワタシを見つめて！ もっと咥えさせて！ 100％美女に見つめられながらザーメン大量発射！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/483dba36198bbb51228788945824edab.jpg",
+      "actress": [
+        "AIKA",
+        "倉木詩織",
+        "一之瀨戀",
+        "持田栞里",
+        "麗日麗",
+        "天野弥生",
+        "葉月レイラ",
+        "月宮ねね",
+        "安倍亜沙美",
+        "仓木诗织",
+        "うららか丽",
+        "椎木くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-079"
     }
   ]
 };

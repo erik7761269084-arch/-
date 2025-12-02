@@ -33,33 +33,15 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 8412,
-      "IDcode": "NSFS-358",
-      "title": "真實投稿 我的妻子 最佳合集 Vol.6 ~ 鬆河智奈美 望月綾香 武藤あやか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250208/febea30f-4b24-4dbc-ab93-247a76009bbe.jpg",
-      "actress": [
-        "望月綾香",
-        "武藤彩香",
-        "松河智奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-358"
-    },
-    {
       "id": 8609,
       "IDcode": "KSBJ-358",
-      "title": "嚴選11位細腰美熟女中出合集 Vol.02 ~ 森澤佳奈 大槻響 東凜 二宮和香 鈴森裏香 青森玲 白河花清 等",
+      "title": "艶めかしい細腰を持つ美熟女たちに中出し11人vol.02",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-02-04",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250202/20250202004711966966.jpg",
       "actress": [
         "森澤佳奈",
@@ -78,6 +60,24 @@ window.actressData = {
         "东凛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-358"
+    },
+    {
+      "id": 8412,
+      "IDcode": "NSFS-358",
+      "title": "投稿実話 妻がまわされた ベスト版 vol.6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250208/febea30f-4b24-4dbc-ab93-247a76009bbe.jpg",
+      "actress": [
+        "望月綾香",
+        "武藤彩香",
+        "松河智奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-358"
     }
   ]
 };

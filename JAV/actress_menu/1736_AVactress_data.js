@@ -29,23 +29,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241212/37dfd24d-6522-4959-83b1-ed5be28acaeb.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 9955,
       "IDcode": "MIFD-513",
-      "title": "新人報到！脫掉衣服大屁股美的驚人！性欲強烈、平時穿露臍裝的現代女性 首次亮相 AV DEBUT ~ 飯豊みる",
+      "title": "新人 脱いだら凄い美尻！性欲強めのへそ出しイマドキ女子AVデビュー！ 飯豊みる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064613283283.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/ce638720/vod.jpg",
       "actress": [
         "飯豊みる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-513"
+    },
+    {
+      "id": 9090,
+      "IDcode": "MIFD-568",
+      "title": "初体験で初絶頂！潮吹き3本番 飯豊みる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074403297297.jpg",
+      "actress": [
+        "飯豊みる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-568"
     }
   ]
 };

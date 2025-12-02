@@ -4,7 +4,7 @@ window.actressData = {
   "name": "曖田たき",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
-      "publish_date": "2022-08-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230724-1/5d712ddca21c8d80fcb4243ee3c7f5f5.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7f43b79f1ac4ec45b3232/cover.jpg",
       "actress": [
         "曖田たき"
       ],

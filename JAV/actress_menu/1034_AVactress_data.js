@@ -30,39 +30,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230513/62a34ecc-2891-474a-a86a-001140479985.jpg",
     "https://picture.yoshiclub.xyz/20230513/81ec9bdc-1d21-4816-8694-c5aeaa874d3a.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
-      "id": 19407,
-      "IDcode": "IPX-027",
-      "title": "上園由里香偷偷換工作了！ ？我的新工作總裁的奇聞趣事視頻",
+      "id": 16816,
+      "IDcode": "SSNI-076",
+      "title": "獨家NO.1 早見奈緒 登場",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-10-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230514/20230514094012831831.jpg",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2017-12-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111101726480480.jpg",
       "actress": [
         "早見奈緒"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-027"
-    },
-    {
-      "id": 19420,
-      "IDcode": "IPX-011",
-      "title": "高潮覺醒×顏射-美人性感帶發達！強行喚醒上園由里香沉睡的性感！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-09-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230512/202305122119572121.jpg",
-      "actress": [
-        "早見奈緒"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-076"
     }
   ]
 };

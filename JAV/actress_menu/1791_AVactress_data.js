@@ -41,25 +41,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250904/41b65ed4-ca5b-42ee-b6df-474076e3d768_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250904/cc17b965-2ab9-4b20-bd60-54de50f0142b_l.webp"
   ],
-  "works_count": 9,
+  "works_count": 13,
   "related_dramas": [
-    {
-      "id": 2369,
-      "IDcode": "LABY-006",
-      "title": "東京街頭不倫妻的巢穴 ~ 夏目玲香 青山未來",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "三和軟體",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223157534534_27656_thumbnail.webp",
-      "actress": [
-        "青山未来",
-        "夏目玲香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-006"
-    },
     {
       "id": 94869,
       "IDcode": "SYKH-102",
@@ -67,7 +50,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2024-03-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241105-1/7468f2373c1719c03c83d1a01b693587.jpg",
@@ -77,38 +60,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-102"
     },
     {
-      "id": 90617,
-      "IDcode": "PPBD-268",
-      "title": "突き出る巨乳！ポルチオ絶叫！弓なりボディ！乳揺れ立ちバックのけ反りオーガズム100連発BEST",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2023-11-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240122-1/b3a86ead04506bd7213d908220fa0af6.jpg",
-      "actress": [
-        "美園和花",
-        "藤森里穂",
-        "堀北実来",
-        "乃木蛍",
-        "夏目玲香",
-        "安倍亜沙美",
-        "田中瞳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-268"
-    },
-    {
       "id": 89165,
       "IDcode": "SY-203",
       "title": "【FANZA限定】前略四畳半の奥様 みなみさん 36歳 ●素人四畳半生中出しシリーズ 白川みなみ 目覚まし時計と生写真セット",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "素人Only",
       "publish_date": "2023-09-07",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240808/AkI4ftQe/1.jpg",
       "actress": [
         "夏目玲香"
       ],
@@ -121,78 +82,183 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MERCURY",
+      "type": "",
+      "company": "",
       "publish_date": "2023-07-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240913/074xcfGu/1.jpg",
       "actress": [
         "夏目玲香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YAKO-042"
     },
     {
-      "id": 90817,
-      "IDcode": "MOND-250",
-      "title": "憧れの兄嫁と 白川みなみ",
+      "id": 105657,
+      "IDcode": "GVH-622",
+      "title": "母子姦-白川みなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2023-07-11",
-      "cover_url": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4ce02e4a73d4f15c1fe62/cover.jpg",
       "actress": [
-        "夏目玲香"
+        "夏目玲香",
+        "いち"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-622"
     },
     {
-      "id": 68095,
-      "IDcode": "MVSD-529",
-      "title": "【FANZA限定】夏休み…久々に帰省したボクは… 親父の再婚相手（元愛人）の汗ばむ豊満な爆乳とフェロモンに性欲を抑えきれず 真昼間から絡み合うように汗まみれでドスケベセックスしまくった。 白川みなみ 生写真3枚付き",
+      "id": 104889,
+      "IDcode": "IENF-317",
+      "title": "趁我的妻子还年轻漂亮的时候",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2022-11-11",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240609-1/17b143a05cac62a2c64ebae82b2e450a.jpg",
+      "actress": [
+        "夏川步美",
+        "夏目玲香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-317"
+    },
+    {
+      "id": 104153,
+      "IDcode": "MDYD-924",
+      "title": "丈夫出差不在家的日子里巨乳女老师成了学生们的性奴隶-岸杏南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "夏目玲香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-529"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-924"
     },
     {
       "id": 92989,
       "IDcode": "NNPJ-534",
-      "title": "マッチングアプリでゲット！！ 即マン！隠れ美巨乳人妻は即効型の都合のイイ絶倫タダマンビッチだった。 若妻:みなみさん",
+      "title": "美丽的大胸脯已婚妇女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-11-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20230401/nnpj00534pl.jpg",
       "actress": [
         "夏目玲香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-534"
     },
     {
-      "id": 67773,
-      "IDcode": "PPPE-083",
-      "title": "再婚でできた義母の、着衣からは想像できない完熟巨乳がドストライク！ 白川みなみ",
+      "id": 90817,
+      "IDcode": "MOND-250",
+      "title": "和憧憬的嫂-白川南",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/6740af6c8bf448ffe13647191deef075.jpg",
+      "actress": [
+        "夏目玲香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-250"
+    },
+    {
+      "id": 90617,
+      "IDcode": "PPBD-268",
+      "title": "突き出る巨乳！ポルチオ絶叫！弓なりボディ！乳揺れ立ちバックのけ反りオーガズム100連発BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/d83c7f10037b207c640ac509d9d626d2.jpg",
+      "actress": [
+        "美園和花",
+        "藤森里穂",
+        "堀北実来",
+        "乃木蛍",
+        "夏目玲香",
+        "安倍亜沙美",
+        "田中瞳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-268"
+    },
+    {
+      "id": 68095,
+      "IDcode": "MVSD-529",
+      "title": "父亲的再婚情人-白川みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/0efbe60465a8e9b75d2d36e4e9bb4ca1.jpg",
+      "actress": [
+        "夏目玲香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-529"
+    },
+    {
+      "id": 67773,
+      "IDcode": "PPPE-083",
+      "title": "完熟巨乳-白川みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "OPPAI",
-      "publish_date": "2022-10-18",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250421-1/5685c22aba9ce47141e3092f22931803.jpg",
       "actress": [
         "夏目玲香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-083"
+    },
+    {
+      "id": 3012,
+      "IDcode": "JUR-476",
+      "title": "震撼肉体震撼色欲36岁I罩杯人妻兼现役泳装模特儿AV出道-夏目玲香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021327705705_52643_thumbnail.webp",
+      "actress": [
+        "夏目玲香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-476"
+    },
+    {
+      "id": 2369,
+      "IDcode": "LABY-006",
+      "title": "東京の街は不倫妻の巣窟",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "三和軟體",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "青山未来",
+        "夏目玲香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-006"
     }
   ]
 };

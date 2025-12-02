@@ -46,20 +46,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1759,
-      "IDcode": "SMBD-134",
-      "title": "S Model 134 業餘令人興奮的doshiroto：Ruka Mihoshi",
+      "id": 158688,
+      "IDcode": "HEYZO-3447",
+      "title": "傷心娘と一発ヤッちゃいました！ –",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-08-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/6079bcbb-d549-4948-93dd-bd42be9591ea.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/ZZg3dwMW/1.jpg",
       "actress": [
         "美星琉花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-134"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3447"
     }
   ]
 };

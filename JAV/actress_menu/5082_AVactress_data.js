@@ -4,7 +4,7 @@ window.actressData = {
   "name": "环ニコ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,67 +19,16 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 88367,
-      "IDcode": "HUNTA-975",
-      "title": "『お兄ちゃん…何で昨日あんな事（キス）したの？』ドストライクな妹に思わずキスしてしまったら…。ボクには超かわいい妹がいます。兄妹とはいえ…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-03-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/ab99572ee5a1c8ef2e51061492354083.jpg",
-      "actress": [
-        "凉南佳奈",
-        "初岛うい",
-        "环ニコ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-975"
-    },
-    {
-      "id": 81800,
-      "IDcode": "KMHRS-015",
-      "title": "人生変えちゃうほどの大量中出し乱交 環ニコ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-04-09",
-      "cover_url": "",
-      "actress": [
-        "环ニコ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-015"
-    },
-    {
-      "id": 83669,
-      "IDcode": "KMHRS-012",
-      "title": "人見知り克服？！奥手なモジモジっ子を男性宅に派遣してご奉仕させてみたらニコニコ笑顔になった 環ニコ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-03-12",
-      "cover_url": "",
-      "actress": [
-        "向理来",
-        "环ニコ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-012"
-    },
-    {
       "id": 83360,
       "IDcode": "SYBI-003",
       "title": "寝ている隙にコッソリと… 環ニコ（20）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-03",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221223-1/476fc9463efb1051da1fe7b032efc479.jpg",
       "actress": [
         "环ニコ"
       ],
@@ -92,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-01-09",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/sByx928l.jpg",
       "actress": [
         "ゆうき",
         "森林原人",
@@ -103,6 +52,57 @@ window.actressData = {
         "环ニコ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-008"
+    },
+    {
+      "id": 88367,
+      "IDcode": "HUNTA-975",
+      "title": "『お兄ちゃん…何で昨日あんな事（キス）したの？』ドストライクな妹に思わずキスしてしまったら…。ボクには超かわいい妹がいます。兄妹とはいえ…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/81792fba4986b8731f58f0a9cfac289f.jpg",
+      "actress": [
+        "凉南佳奈",
+        "初岛うい",
+        "环ニコ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-975"
+    },
+    {
+      "id": 83669,
+      "IDcode": "KMHRS-012",
+      "title": "为了改变自己的性格才拍AV-環ニコ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/e4e6f544cf81f02e5984806746ea5dae.jpg",
+      "actress": [
+        "向理来",
+        "环ニコ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-012"
+    },
+    {
+      "id": 81800,
+      "IDcode": "KMHRS-015",
+      "title": "人生第一次不戴套做爱体验可爱女优环仁子想要改变人生的第一步大量内射乱交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/6ebd6425/vod.jpg",
+      "actress": [
+        "环ニコ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-015"
     }
   ]
 };

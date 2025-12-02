@@ -41,57 +41,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250329/b72543e5-5e10-48da-915c-4342f25365f2.jpg",
     "https://picture.yoshiclub.xyz/20250329/345ef60a-f8d5-44f5-a10c-34073dc2e341.jpg"
   ],
-  "works_count": 5,
+  "works_count": 9,
   "related_dramas": [
-    {
-      "id": 4419,
-      "IDcode": "GONE-077",
-      "title": "東京懷舊狂想曲：豐滿媽媽桑的致命誘惑 ~ 櫻木湊",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MERCURY",
-      "publish_date": "2025-07-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714063650998998_40931_thumbnail.webp",
-      "actress": [
-        "櫻木湊"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GONE-077"
-    },
-    {
-      "id": 4797,
-      "IDcode": "KMTB-003",
-      "title": "平時正經八百的白嫩爆乳悶騷秘書小姐姐，被巨根猛獸調教到高潮求饒爽到崩潰",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250702/20250702074512704704_thumbnail.webp",
-      "actress": [
-        "櫻木湊"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMTB-003"
-    },
-    {
-      "id": 5705,
-      "IDcode": "JUNY-157",
-      "title": "天然肉感I杯神乳 風俗偶像 舉辦的Cosplay高潮內射解禁線下粉絲攝影會 ~ 櫻木湊",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173506206206_thumbnail.webp",
-      "actress": [
-        "櫻木湊",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-157"
-    },
     {
       "id": 67325,
       "IDcode": "JUNY-155",
@@ -99,10 +50,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-05-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc3dc55f13d063bcd2fbf8/cover.jpg",
       "actress": [
         "櫻木湊"
       ],
@@ -111,18 +62,158 @@ window.actressData = {
     {
       "id": 7160,
       "IDcode": "JUNY-149",
-      "title": "新人出道！神戶名店預約不上的現役傳奇泡姬 天然豐滿I罩杯神乳泡泡姬治愈身心! 首次亮相 AV DEBUT ~ 櫻木湊",
+      "title": "神戸の有名店で予約が取れなくて 現役なのに伝説化している 心と身体の芯までたっぷり癒す天然むっちり神乳Icupソープ嬢AVデビュー！ 櫻木みなと",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327082204832832.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f276de4e7d663df48f072c/cover.jpg",
       "actress": [
         "櫻木湊"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-149"
+    },
+    {
+      "id": 5705,
+      "IDcode": "JUNY-157",
+      "title": "拥有天然I罩杯神乳的丰满泡泡浴女郎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173506206206_thumbnail.webp",
+      "actress": [
+        "櫻木湊",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-157"
+    },
+    {
+      "id": 4797,
+      "IDcode": "KMTB-003",
+      "title": "普段はお堅い会社で働く白肌のマシュマロ爆乳むっつり秘書さん、 デカチ〇獣責めに懇願アクメ快楽乱れ堕ち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250702/20250702074512704704_thumbnail.webp",
+      "actress": [
+        "櫻木湊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMTB-003"
+    },
+    {
+      "id": 4419,
+      "IDcode": "GONE-077",
+      "title": "東京ノスタルジックラプソディー 櫻木みなと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889f6ab98bc99dfddcdd785/cover.jpg",
+      "actress": [
+        "櫻木湊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GONE-077"
+    },
+    {
+      "id": 4374,
+      "IDcode": "BANK-211",
+      "title": "巨乳人妻溫泉約會 豐滿肉感大乳暈I杯誘惑 和美34歲 ~ 櫻木湊",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ま○こ銀行",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d76155337d7f7bbc2556/cover.jpg",
+      "actress": [
+        "櫻木湊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-211"
+    },
+    {
+      "id": 2863,
+      "IDcode": "CEAD-701",
+      "title": "乳首オナニーでイク15人の女たち！Vol，4 ～フル勃起した乳頭を過剰に責めて乳首イキする真性ドスケベ女優たち！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906222206508508_66523_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "椿莉香",
+        "北野未奈",
+        "羽月乃蒼",
+        "九井珠奈緒",
+        "小野坂唯香",
+        "南條彩",
+        "葉山小百合",
+        "似鳥日菜",
+        "藤沢麗央",
+        "藤咲紫",
+        "月見若葉",
+        "天沢りん",
+        "櫻木湊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-701"
+    },
+    {
+      "id": 2515,
+      "IDcode": "CEMD-739",
+      "title": "涙のノンストップ激イカせSEX62 櫻木みなと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68deecd2631cc64eb593cfcf/cover.jpg",
+      "actress": [
+        "櫻木湊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-739"
+    },
+    {
+      "id": 2514,
+      "IDcode": "CEAD-704",
+      "title": "貴方に向かって見せつける！！大股開きのガニ股オナニーで挑発する超淫乱ドスケベ女優達15人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "波多野结衣",
+        "椿莉香",
+        "羽月乃蒼",
+        "宮城理惠",
+        "虹村由美",
+        "南條彩",
+        "葉山小百合",
+        "那賀崎雪音",
+        "花音うらら",
+        "蘆名穗花",
+        "竹内夏希",
+        "月野ゆりね",
+        "木野野葉惠里香",
+        "櫻木湊",
+        "結城雫"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-704"
     }
   ]
 };

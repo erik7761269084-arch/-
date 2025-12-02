@@ -4,7 +4,7 @@ window.actressData = {
   "name": "杉咲なぎさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 97592,
       "IDcode": "DTT-052",
-      "title": "透き通る透明感、唯一無二のエロボディ 現役スイミングスクールコーチ 杉咲なぎさ AVデビュー",
+      "title": "唯一無二-杉咲なぎさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2020-03-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250901-1/3d5fe97dc1539c792358e31965b9497e.jpg",
       "actress": [
         "南佳也",
         "杉咲なぎさ"

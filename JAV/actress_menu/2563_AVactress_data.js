@@ -48,14 +48,14 @@ window.actressData = {
     {
       "id": 4528,
       "IDcode": "EBWH-210",
-      "title": "弓道美少女新人出道！全國高校弓道大賽前八強 武道鍛煉出的完美身材 全心投入肉體SEX AV DEBUT ~ 淺風唯",
+      "title": "第3●回全国高等学校弓道選●大会ベスト8 武道で得た肉体美ボディむき出しで心もカラダも全集中セックス 弓道女子（20） AVデビュー 浅風ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031658913913_79898_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889f5f098bc99dfddcdd5b6/cover.jpg",
       "actress": [
         "淺風唯"
       ],

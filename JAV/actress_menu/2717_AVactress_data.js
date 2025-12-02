@@ -31,14 +31,14 @@ window.actressData = {
     {
       "id": 8520,
       "IDcode": "JRZE-231",
-      "title": "初撮人妻 ~ 杉元みかさ",
+      "title": "初撮り人妻ドキュメント 杉元みかさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/d0ae961a-5e24-44d0-ba23-3ce373563982.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/1c95fc143da475a870fb352bdf33ea93.jpg",
       "actress": [
         "杉元みかさ"
       ],

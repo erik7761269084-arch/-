@@ -35,10 +35,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-05-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/c0dac0c1880160711e68d48c24a62d9c.jpg",
       "actress": [
         "大島愛里亞",
         "沙藤由梨",
@@ -50,14 +50,14 @@ window.actressData = {
     {
       "id": 19073,
       "IDcode": "IPX-376",
-      "title": "交友軟體相遇絕對能上的神使用者 蘆那詩織AV出道",
+      "title": "优雅的大学生-芦那しおり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2019-09-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230723/20230723210636137137.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6f233506199e02e3e2482a548881fd5d.jpg",
       "actress": [
         "渡辺凛"
       ],

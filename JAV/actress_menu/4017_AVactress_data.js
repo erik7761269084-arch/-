@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桜川かなこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,38 +21,18 @@ window.actressData = {
     {
       "id": 82718,
       "IDcode": "ARA-355",
-      "title": "【秘密の美少女】23歳【可愛すぎる探偵】かなこちゃん参上！探偵事務所に勤める彼女の応募理由は『もぅ、秘密を隠したくないんです…♪』要するに【エロ探偵】美白美乳&amp;唇エロぃ彼女は【欲望解放】男に飢えた美少女のガッツキSEX！【もの凄いフェラテク】【もの凄い大量潮吹き】全てが異常事態！『私がエッチな事は秘密ですょ♪』ん〜約束できない！W",
+      "title": "秘密美少女23岁太可爱侦探加奈子酱来了她申请在侦探社工作的原因是Muu我不想隐藏秘密......总之情色侦探美白美丽的乳房",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-01-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250402-1/da4b624de14b1ddf3bb5bde357459d0b.jpg",
       "actress": [
         "桜川かなこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-355"
-    },
-    {
-      "id": 70392,
-      "IDcode": "XRW-582",
-      "title": "バイノーラル爆音フェラチオ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-10-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/fa21613c2ac06479f191e796abb6ada0.jpg",
-      "actress": [
-        "佐倉陽菜",
-        "海空花",
-        "七瀬あいり",
-        "桜川かなこ",
-        "并木杏梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-582"
     },
     {
       "id": 78447,
@@ -61,9 +41,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-08-03",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "桃尻かのん",
@@ -72,6 +52,26 @@ window.actressData = {
         "中原爱子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-071"
+    },
+    {
+      "id": 70392,
+      "IDcode": "XRW-582",
+      "title": "バイノーラル爆音フェラチオ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eb1db8de21bb9e50e4873f3d66df17bd.jpg",
+      "actress": [
+        "佐倉陽菜",
+        "海空花",
+        "七瀬あいり",
+        "桜川かなこ",
+        "并木杏梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-582"
     }
   ]
 };

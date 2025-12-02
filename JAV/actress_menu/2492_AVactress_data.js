@@ -52,24 +52,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230408/71cf0fa2-5dd7-4735-bc1c-e0ab0f318c5c.jpg",
     "https://picture.yoshiclub.xyz/20230408/5c053145-d709-464a-82f9-3d6e444d4943.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
-    {
-      "id": 67860,
-      "IDcode": "BRK-002",
-      "title": "調教される母 本庄優花 （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-07-07",
-      "cover_url": "",
-      "actress": [
-        "本庄優花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BRK-002"
-    },
     {
       "id": 83866,
       "IDcode": "UMSO-308",
@@ -77,7 +61,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2020-03-13",
       "cover_url": "",
@@ -92,37 +76,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-308"
     },
     {
-      "id": 81828,
-      "IDcode": "NASH-234",
-      "title": "旦那の隣で寝取られた人妻6人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-14",
-      "cover_url": "",
-      "actress": [
-        "塚田詩織",
-        "大浦真奈美",
-        "永野司",
-        "本庄優花",
-        "逢泽真里亚",
-        "古川祥子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-234"
-    },
-    {
       "id": 71736,
       "IDcode": "AUKB-096",
       "title": "レズビアンに寝取られた人妻たち2 BEST4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-06-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/8ecf0a0190be1494d7c9df478ead6cef.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/bf90357651bd6134ca2aba6e1337ba0e.jpg",
       "actress": [
         "葵百合香",
         "真木今日子",
@@ -142,14 +105,70 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "素人Only",
       "publish_date": "2016-12-25",
       "cover_url": "https://picture.yoshiclub.xyz/20230408/506706f4-beb7-485e-bd00-153f0e2e01d2.jpg",
       "actress": [
         "本庄優花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-537"
+    },
+    {
+      "id": 105203,
+      "IDcode": "RBD-855",
+      "title": "被旧日恩师所害沦为奴隶的姐妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/05/03/dc2ce1797c8a89203de0f6aaccfc28a1.jpg",
+      "actress": [
+        "森澤佳奈",
+        "本庄優花",
+        "彩華ゆかり",
+        "伊沢凉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-855"
+    },
+    {
+      "id": 81828,
+      "IDcode": "NASH-234",
+      "title": "旦那の隣で寝取られた人妻6人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "塚田詩織",
+        "大浦真奈美",
+        "永野司",
+        "本庄優花",
+        "逢泽真里亚",
+        "古川祥子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-234"
+    },
+    {
+      "id": 67860,
+      "IDcode": "BRK-002",
+      "title": "正在接受培训的母亲-本庄優花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/11/687064023ed39b57c0d054e3/cover.jpg",
+      "actress": [
+        "本庄優花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BRK-002"
     }
   ]
 };

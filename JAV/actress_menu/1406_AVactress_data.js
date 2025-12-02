@@ -35,19 +35,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240914/515e4207-991a-4d1d-9e71-8df018a83155.jpg",
     "https://picture.yoshiclub.xyz/20240914/f9971b97-858a-41be-80db-94b32a5fe39d.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 9631,
-      "IDcode": "SDDE-741",
-      "title": "TOKYO - 大江戶女港，潛入日本最大的'女體盛'專門市場 ~ 相月菜緒 夕美紫苑 國森有紗 森本あかり 白石なぎさ 瀬戸ひなこ",
+      "id": 11982,
+      "IDcode": "EBWH-159",
+      "title": "「監督志望だけど本当は女優さんになりたかった」 制作会社3年目の地味AD國森ありさ 諦めていたAV女優に大変身デビューします！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240913/20240912212352843843.jpg",
+      "actress": [
+        "國森有紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-159"
+    },
+    {
+      "id": 9631,
+      "IDcode": "SDDE-741",
+      "title": "TOKYO-大江戸‘女港’市場 国内最大級の‘女体’専門セリ市場に潜入！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241224/eb3c52d1-f5a9-45a3-861b-afeefffa7839.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/28/68b06721fbe7fd63de7c7cb7/cover.jpg",
       "actress": [
         "夕美紫苑",
         "白石渚",

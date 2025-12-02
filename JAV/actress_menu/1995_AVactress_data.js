@@ -30,18 +30,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250504/4e021301-4f8d-4bee-b573-0cd1ba0e1b91_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 6407,
       "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "title": "巨尻熟女ベストセレクション52人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -91,6 +91,27 @@ window.actressData = {
         "响りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
+    },
+    {
+      "id": 4640,
+      "IDcode": "HDKA-321",
+      "title": "全裸主婦 巨臀誘惑精選VOL.02 ~ 杏美月 葉月奈穗 青木琳 西山朝日 春菜華 響琳 篠崎環奈 藤白桃羽 篠原千歲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d6f555337d7f7bbc2531/cover.jpg",
+      "actress": [
+        "春菜华",
+        "篠崎環奈",
+        "藤白桃羽",
+        "杏美月",
+        "西山あさひ",
+        "響りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-321"
     }
   ]
 };

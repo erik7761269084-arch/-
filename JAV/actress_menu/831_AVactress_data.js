@@ -38,68 +38,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250320/85f8df63-1827-456b-a43c-af0ef76ad0de.jpg",
     "https://picture.yoshiclub.xyz/20250320/e51a7eec-5531-46d6-88a2-dd3a7912b31b.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 3414,
-      "IDcode": "SONE-864",
-      "title": "純情女學生喜歡中年教師，卻對癡漢無法自拔 ~ 新木希空",
+      "id": 7398,
+      "IDcode": "SONE-704",
+      "title": "ダイヤモンド新人NO.1 STYLE 女子大生グラビアアイドル 新木希空 AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/202508210228284545_49380_thumbnail.webp",
-      "actress": [
-        "新木希空",
-        "羽田貴史"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-864"
-    },
-    {
-      "id": 5202,
-      "IDcode": "SONE-775",
-      "title": "光靠可愛不行啦！必須潮吹高潮不停才夠看！前美少女偶像抽搐狂飆 ~ 新木希空",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619074341529529_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110300227227.jpg",
       "actress": [
         "新木希空",
         "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-775"
-    },
-    {
-      "id": 5927,
-      "IDcode": "SONE-721",
-      "title": "和粉絲大叔過夜約會超濃密性交 笑個不停舌吻不斷黏糊糊纏綿到極致 ~ 新木希空",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075959220220_thumbnail.webp",
-      "actress": [
-        "新木希空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-721"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-704"
     },
     {
       "id": 6722,
       "IDcode": "SONE-707",
-      "title": "極致快感！全新體驗三重激情 新人鑽石級美少女 ~ 新木希空",
+      "title": "快感全部初体验3SEX钻石新人-新木希空",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-04-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250419/3b341b66-7241-4ecf-9659-0aaa3659bfb9_thumbnail.webp",
       "actress": [
         "新木希空",
@@ -108,21 +75,86 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-707"
     },
     {
-      "id": 7398,
-      "IDcode": "SONE-704",
-      "title": "S1年度鑽石級新人出道！在讀高校寫真偶像 首次亮相 AV DEBUT ~ 新木希空",
+      "id": 5927,
+      "IDcode": "SONE-721",
+      "title": "大叔过夜约会-新木希空",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110300227227.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075959220220_thumbnail.webp",
+      "actress": [
+        "新木希空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-721"
+    },
+    {
+      "id": 5202,
+      "IDcode": "SONE-775",
+      "title": "只是可爱还不够吗-新木希空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619074341529529_thumbnail.webp",
       "actress": [
         "新木希空",
         "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-775"
+    },
+    {
+      "id": 4286,
+      "IDcode": "SONE-826",
+      "title": "Newカワイイ女子の大量顔射シコシコサポート10色 新木希空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717001948490490_37174_thumbnail.webp",
+      "actress": [
+        "新木希空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-826"
+    },
+    {
+      "id": 3414,
+      "IDcode": "SONE-864",
+      "title": "看似清纯的女学生却迷恋中年教师甚至对陌生痴汉也瞬间沉沦-新木希空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/202508210228284545_49380_thumbnail.webp",
+      "actress": [
+        "新木希空",
+        "羽田貴史"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-864"
+    },
+    {
+      "id": 2641,
+      "IDcode": "SONE-913",
+      "title": "长着可爱脸蛋的性感治疗师对我一见钟情零距离贴身像恋人般治愈阴茎-新木希空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "新木希空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-913"
     }
   ]
 };

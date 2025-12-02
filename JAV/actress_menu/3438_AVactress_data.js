@@ -4,7 +4,7 @@ window.actressData = {
   "name": "氷上えり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-06-24",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/24/b95a765c/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae5fc8682e2e9281a54b61/cover.jpg",
       "actress": [
         "氷上えり"
       ],

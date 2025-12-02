@@ -38,18 +38,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250110/03a4bf0b-a8dc-4b19-a972-3ad7c73ececc.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 7721,
-      "IDcode": "VEC-688",
-      "title": "母親的朋友 ~ 名取紗雪",
+      "id": 9242,
+      "IDcode": "VEC-679",
+      "title": "同窓会W不倫セックス 初めて付き合った昔の彼女と十数年ぶりに再会した俺は大人のオンナになって成熟した人妻の肉体に何度もむしゃぶりついた 名取沙雪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-03-11",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250110/5b4339eb-81f2-4c7e-b4f7-31f211f46f0a.jpg",
+      "actress": [
+        "釋愛麗絲",
+        "名取沙雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-679"
+    },
+    {
+      "id": 7721,
+      "IDcode": "VEC-688",
+      "title": "母親的親友-名取沙雪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250306/bf58c76d-ff40-4242-987c-a505688922ed.jpg",
       "actress": [
         "名取沙雪"

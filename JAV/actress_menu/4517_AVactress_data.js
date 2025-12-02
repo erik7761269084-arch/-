@@ -25,16 +25,33 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 79847,
+      "IDcode": "JUFD-700",
+      "title": "爆乳家政婦-乃南静香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/09/27/a193c2c570b504d0f888647f30a93285.jpg",
+      "actress": [
+        "イセドン内村",
+        "乃南静香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-700"
+    },
+    {
       "id": 75181,
       "IDcode": "MMB-278",
       "title": "ワーキングガールのキュキュとしまったマ○コにダマして中出し ～仕事が出来る女は、アソコの締まりも超タイト説を検証する！～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/702d58b068883204aca42427e45b78d4.jpg",
       "actress": [
         "美谷朱里",
         "推川悠里",
@@ -46,23 +63,6 @@ window.actressData = {
         "天音うさぎ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-278"
-    },
-    {
-      "id": 79847,
-      "IDcode": "JUFD-700",
-      "title": "びっしょり汗だく爆乳家政婦～派遣先の男達の興奮が収まらない濡れ透け肉感ボディ～ 乃南静香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2017-02-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/41ee0eeaa18da47c30d0135bf4800358.jpg",
-      "actress": [
-        "イセドン内村",
-        "乃南静香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-700"
     }
   ]
 };

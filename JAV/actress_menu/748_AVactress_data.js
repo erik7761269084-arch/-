@@ -42,112 +42,31 @@ window.actressData = {
   "works_count": 8,
   "related_dramas": [
     {
-      "id": 2768,
-      "IDcode": "PRED-801",
-      "title": "墮入禁忌情網，性愛日常雙重淪陷，被情人沼澤徹底融化 ~ 和香夏樹",
+      "id": 8268,
+      "IDcode": "PRED-742",
+      "title": "新人 元地方局アナウンサーAVデビュー 和香なつき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911015609325325_48266_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4f87be4a73d4f15c27509/cover.jpg",
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-801"
-    },
-    {
-      "id": 3588,
-      "IDcode": "PRED-797",
-      "title": "本想為學生好卻被記恨，絕倫學生輪番中出侵犯女教師 ~ 和香夏樹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023422285285_20983_thumbnail.webp",
-      "actress": [
-        "和香夏樹"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-797"
-    },
-    {
-      "id": 4497,
-      "IDcode": "PRED-783",
-      "title": "轉職女主播NTR 被新東家霸道總裁身心淪陷 一次次無套中出讓我欲罷不能 ~ 和香夏樹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031842117117_17517_thumbnail.webp",
-      "actress": [
-        "和香夏樹"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-783"
-    },
-    {
-      "id": 5311,
-      "IDcode": "PRED-774",
-      "title": "元地方臺主播初中出解禁！一口氣13發種付高潮連連特別篇 ~ 和香夏樹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060018817817_thumbnail.webp",
-      "actress": [
-        "和香夏樹"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-774"
-    },
-    {
-      "id": 6149,
-      "IDcode": "PRED-767",
-      "title": "女主播春藥按摩開發高潮 黑心沙龍採訪被抹滿媚藥油直接淪陷 ~ 和香夏樹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/202505150404334646_thumbnail.webp",
-      "actress": [
-        "和香夏樹"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-767"
-    },
-    {
-      "id": 6926,
-      "IDcode": "PRED-756",
-      "title": "禁欲女主播超敏感的小穴被猛攻！已經高潮了還要抽插到失控尿噴高潮 ~ 和香夏樹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410190910686686.jpg",
-      "actress": [
-        "和香夏樹",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-756"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-742"
     },
     {
       "id": 7580,
       "IDcode": "PRED-749",
-      "title": "要把優雅女主播徹底羞辱到滿臉通紅高潮連連 奪走！初體驗3本番 ~ 和香夏樹",
+      "title": "极品女主播被我彻底的凌辱了-和香夏樹",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2025-03-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313082836896896.jpg",
       "actress": [
         "和香夏樹",
@@ -156,20 +75,101 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-749"
     },
     {
-      "id": 8268,
-      "IDcode": "PRED-742",
-      "title": "新人出道！前地方電視臺主播 首次亮相 AV DEBUT ~ 和香夏樹",
+      "id": 6926,
+      "IDcode": "PRED-756",
+      "title": "女子アナの禁欲敏感おま〇こに追撃！もうイってるってばぁピストンで理性崩壊おもらしアクメ 和香なつき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/202502130724498585.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d08e9152c12b4e681038b1/cover.jpg",
+      "actress": [
+        "和香夏樹",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-756"
+    },
+    {
+      "id": 6149,
+      "IDcode": "PRED-767",
+      "title": "女子アナウンサーキメセク膣イキ開発マッサージ 悪徳エステ取材で媚薬オイルを塗りこまれて子宮を堕とされたワタシ。 和香なつき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6c6008cce1a927afde6f4/cover.jpg",
       "actress": [
         "和香夏樹"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-742"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-767"
+    },
+    {
+      "id": 5311,
+      "IDcode": "PRED-774",
+      "title": "以前是地方电视台播报员-和香なつき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6ca1c8cce1a927afdf60c/cover.jpg",
+      "actress": [
+        "和香夏樹"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-774"
+    },
+    {
+      "id": 4497,
+      "IDcode": "PRED-783",
+      "title": "转职女主播NTR-和香なつき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7a8148cce1a927aff34d2/cover.jpg",
+      "actress": [
+        "和香夏樹"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-783"
+    },
+    {
+      "id": 3588,
+      "IDcode": "PRED-797",
+      "title": "黑丝美女教师被坏学生抓住把柄在学校教室各个角落-和香なつき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023422285285_20983_thumbnail.webp",
+      "actress": [
+        "和香夏樹"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-797"
+    },
+    {
+      "id": 2768,
+      "IDcode": "PRED-801",
+      "title": "这是我经历过的最奇妙的恋情我的情妇的一切都在毁掉我-和香なつき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911015609325325_48266_thumbnail.webp",
+      "actress": [
+        "和香夏樹"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-801"
     }
   ]
 };

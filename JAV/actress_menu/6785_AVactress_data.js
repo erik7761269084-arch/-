@@ -27,13 +27,13 @@ window.actressData = {
     {
       "id": 105517,
       "IDcode": "SDAB-049",
-      "title": "「私がヤリマンって噂知ってる？」竹内乃愛 清楚で真面目な委員長はみんなの肉便姫（にくべんき）",
+      "title": "学生会长-竹内乃愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2017-11-16",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "玉木玲",

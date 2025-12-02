@@ -35,23 +35,84 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241213/4eabfecc-b4a1-454b-a8af-4b32db651b81.jpg",
     "https://picture.yoshiclub.xyz/20241213/b9afc191-91ad-44cf-acd0-45dc32c0978b.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 9962,
       "IDcode": "MOER-005",
-      "title": "只要有第一次做愛，就會再想要做愛的，她氣質優雅，實際上卻是超愛做愛的色色女人！AV監督朋友帶來的素人女大學生 首次亮相 AV DEBUT ~ 雙葉步華",
+      "title": "搞过一次就欲罢不能-双葉あゆか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211070958509509.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241228-1/c0daa06289b0606a7b938ec52a485aab.jpg",
       "actress": [
         "雙葉步華"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-005"
+    },
+    {
+      "id": 6217,
+      "IDcode": "APGH-035",
+      "title": "天然肉感Hメ潮撒き散らし淫乱性交 双葉あゆか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510060024738738_thumbnail.webp",
+      "actress": [
+        "雙葉步華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-035"
+    },
+    {
+      "id": 2945,
+      "IDcode": "IENF-415",
+      "title": "アナルのシワの数までハッキリわかる！ノーモザイク連続絶頂アナル見せオナニー35",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/202509062129549393_56486_thumbnail.webp",
+      "actress": [
+        "北岡果林",
+        "白石渚",
+        "小野寺舞",
+        "萌波鈴",
+        "依本詩織",
+        "碓井せりな",
+        "中丸未来",
+        "北山憂",
+        "雙葉步華",
+        "原美织",
+        "神田ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-415"
+    },
+    {
+      "id": 2170,
+      "IDcode": "DVMM-297",
+      "title": "一般男女モニタリングAV 大学生カップル限定にデカ尻女子大生が挑戦！形・大きさの異なるフル勃起チ○ポで膣奥を刺激されイキ潮噴射が止まらない！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "柏木小夏",
+        "河北笑茉",
+        "雙葉步華",
+        "沖奈さくら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-297"
     }
   ]
 };

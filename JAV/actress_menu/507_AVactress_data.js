@@ -44,97 +44,128 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230903/353b688a-a728-4125-a963-b2bf657ec836.jpg",
     "https://picture.yoshiclub.xyz/20230903/0af097a8-29c0-45fe-b622-82d05d404c24.jpg"
   ],
-  "works_count": 26,
+  "works_count": 40,
   "related_dramas": [
     {
-      "id": 10408,
-      "IDcode": "HUNTC-126",
-      "title": "去看一部很想看的電影，整個電影院只有我一個人，然後走進來了一個漂亮的女人",
+      "id": 9604,
+      "IDcode": "DAZD-220",
+      "title": "64名美女4小時60次連續強暴，暴力活塞接連襲來，高潮不斷。強暴大合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122003333742742.jpg",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/20241225032906842842.jpg",
       "actress": [
+        "森澤佳奈",
+        "天馬唯",
+        "倉本菫",
+        "都月楓",
         "椿莉香",
+        "松本一香",
+        "沙月惠奈",
+        "五日市芽依",
+        "木下日葵",
+        "美咲佳奈",
+        "吉根柚莉爱",
+        "白石桃",
+        "田中寧寧",
+        "美谷朱里",
+        "藤森里穂",
+        "皆瀨明里",
+        "辻井穗乃果",
+        "黑川堇",
+        "月野江翠",
+        "百永纱里奈",
+        "渚光希",
+        "小花暖",
+        "東條夏",
+        "尾崎惠梨香",
+        "優梨舞奈",
+        "冬愛琴音",
+        "月乃露娜",
+        "齋藤亞美里",
+        "沙月芽衣",
+        "花狩舞",
+        "加藤桃香",
+        "水原みその",
+        "篠田優",
+        "水川蓳",
+        "根尾朱里",
+        "向井藍",
+        "夏希栗",
+        "弓乃凜夢",
+        "仓多真央",
+        "前乃菜菜",
+        "日泉舞香",
+        "小栗操",
+        "加藤ツバキ",
+        "君島美緒",
         "蘭々",
-        "NATSUKA",
-        "有星青理",
-        "宫名初季"
+        "初川南",
+        "藤野つかさ",
+        "浅田結梨",
+        "天然美月",
+        "水谷梨明日",
+        "星宮菜奈",
+        "七海るな",
+        "丹羽すみれ",
+        "愛沢さら",
+        "七瀬るい",
+        "かわきためいさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-220"
     },
     {
-      "id": 14709,
-      "IDcode": "MTALL-116",
-      "title": "隔壁的體育生在他的骯髒房間裏操了向他抱怨的我，我連續高潮了52次 ~ 五十嵐星蘭",
+      "id": 15554,
+      "IDcode": "HUNTC-044",
+      "title": "不可能逃脫！小澡堂裏大奶子突然逼近，無路可逃！嫂子好久沒回娘家了，突然說：“我們一起洗澡吧！”",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MATERIALL",
-      "publish_date": "2024-05-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240516/20240516004946964964.jpg",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "2024-04-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407230018104104.jpg",
+      "actress": [
+        "美澄玲衣",
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-044"
+    },
+    {
+      "id": 16863,
+      "IDcode": "MKMP-542",
+      "title": "一晚兩日的射精盛宴，絕對讓男人盡興。三位巨乳女房東高潮10次才走。讓男房客射精粘稠天堂溫泉旅館。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2024-01-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240108/88a243ab-4127-4db0-98e8-b20343f78d41.jpg",
+      "actress": [
+        "胡桃櫻花",
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-542"
+    },
+    {
+      "id": 17433,
+      "IDcode": "LULU-257",
+      "title": "可以肛交的風俗妹 可愛大屁股等著被你調教成肉便器喲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "LUNATICS",
+      "publish_date": "2023-12-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20231203/f681f19b-7fce-4ce3-9356-8af4ca0f09ff.jpg",
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-116"
-    },
-    {
-      "id": 15898,
-      "IDcode": "MDBK-328",
-      "title": "超淫蕩的高級蕩婦，用極好的身材讓你一次又一次射精",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2024-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323065256370370.jpg",
-      "actress": [
-        "羽月乃蒼",
-        "有岡みう",
-        "蘭々",
-        "椎叶みくる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-328"
-    },
-    {
-      "id": 90153,
-      "IDcode": "RCTD-564",
-      "title": "ガチンコ全裸レズバトルリターンズ4",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2024-01-11",
-      "cover_url": "",
-      "actress": [
-        "本田瞳",
-        "蘭々",
-        "もなみ铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-564"
-    },
-    {
-      "id": 90158,
-      "IDcode": "REAL-835",
-      "title": "巨乳ギャル孕ませレ●プ 中出し20連発 蘭々",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2023-10-10",
-      "cover_url": "",
-      "actress": [
-        "蘭々",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-835"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-257"
     },
     {
       "id": 88885,
@@ -143,10 +174,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLAYz",
       "publish_date": "2023-10-05",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240829/JtI5CTnQ/1.jpg",
       "actress": [
         "蘭々",
         "七碧乃蒼",
@@ -155,20 +186,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-141"
     },
     {
-      "id": 107106,
-      "IDcode": "FOCS-149",
-      "title": "隣の絶倫隣人金髪ギャルに誘惑されて… ノーブラ爆乳＆見せオナに理性を失って中出しが止まらない！ 蘭々",
+      "id": 18837,
+      "IDcode": "LULU-238",
+      "title": "【ASMR】在公司加班，屁股很大的女職員不斷在耳邊說著些淫蕩的話，差點就讓我射了出來",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "LUNATICS",
       "publish_date": "2023-09-05",
-      "cover_url": "https://tutu1.space/images/2023/10/17/07daacc0053eb6d10cc42ed1ac4a6a99.jpg",
+      "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903010725916916.jpg",
       "actress": [
         "蘭々"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-238"
     },
     {
       "id": 88817,
@@ -177,8 +208,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2023-08-15",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/8137933042c794c45934c8c6a7d044c2.jpg",
       "actress": [
@@ -192,52 +223,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-168"
     },
     {
-      "id": 89603,
-      "IDcode": "SCOP-815",
-      "title": "場末でひっそりと営業しているガールズバーで普段から素行が悪い巨乳店員の弱味を握ってリモバイを仕込んだら準備OK！！遠隔操作で接客中にイカセまくり！！あまりの羞恥プレイに腰が抜けてガックガク！！そのまま裏に連れ込んだら弱味に付け込んで孕ませ連続射精！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2023-07-11",
-      "cover_url": "",
-      "actress": [
-        "蘭々"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-815"
-    },
-    {
       "id": 88950,
       "IDcode": "URKK-083",
       "title": "【FANZA限定】最低10発はヌクッ！！巨乳を震わせながらイキまくる何発でも中出しOKの巨乳媚薬サロン 蘭々 チェキ付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "UNFINISHED",
       "publish_date": "2023-06-14",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240831/zYkBCPx2/1.jpg",
       "actress": [
         "蘭々"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-083"
-    },
-    {
-      "id": 89604,
-      "IDcode": "SCOP-812",
-      "title": "学校で一番可愛かったヤンキー娘と久々の再会！童貞をバカにしてきたくせに、1度チ●ポを挿れた瞬間からカラダをビクつかせてイキまくるヤリマンにどっぷり中出し！6",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
-      "actress": [
-        "蘭々"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-812"
     },
     {
       "id": 89927,
@@ -246,7 +245,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLAYz",
       "publish_date": "2023-06-05",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/32064beb52da9635f2a517717bcff30b.jpg",
@@ -256,16 +255,151 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-316"
     },
     {
-      "id": 104465,
-      "IDcode": "SDDE-692",
-      "title": "【ギャル化アプリで催●洗脳卍】カバン持ちのオレを見下すお嬢様育ちの娘たちをチ○ポ中毒化！淫らなビッチギャルに成り果てたこの家の女たちは、俺のち○ぽでちゃーんと再教育してやるよ…",
+      "id": 79959,
+      "IDcode": "SW-0806",
+      "title": "黒パンスト女子社員のむっちり透けパンチラ誘惑！ 足マッサージしてあげると敏感太モモと丸見えお尻がヒクヒク反応。社内や出張先や自宅でパンスト破られ熱いイチモツぶち込まれるの待ってまーす（ハート）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "2021-10-21",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/b5410cc88733da572717fa65bd144f32.jpg",
+      "actress": [
+        "岬梓沙",
+        "蘭々",
+        "富井美帆"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0806"
+    },
+    {
+      "id": 79424,
+      "IDcode": "SW-0800",
+      "title": "友達の姉のむちむちデカ尻パンチラが思春期チ○ポを誘う。二人っきりになったらドM丸出しドエロ女に豹変したのでデカ尻めがけて腰くだけるまで鬼ピストンぶちかましたった！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "2021-09-23",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221018-1/f4432e11d0507f56408b21861e8f372c.jpg",
+      "actress": [
+        "望月綾香",
+        "蘭々",
+        "纱々原ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0800"
+    },
+    {
+      "id": 100194,
+      "IDcode": "DBER-052",
+      "title": "淫奥が暴れ回る絶体絶命の恐慌！！ 凄まじきマルチプル・オーガズム ～完全撮り下ろし9名の無限地獄～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-01-13",
+      "cover_url": "",
+      "actress": [
+        "蘭々",
+        "铃木里美",
+        "日向澪",
+        "佐久间恵美",
+        "亜佐仓みんと",
+        "白井仁美",
+        "雪乃ゆめ",
+        "橘つかさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBER-052"
+    },
+    {
+      "id": 99508,
+      "IDcode": "MDBK-038",
+      "title": "制服姿の激カワ美少女たちに孕ませ中出し30連発！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2019-06-28",
+      "cover_url": "",
+      "actress": [
+        "枢木葵",
+        "蘭々",
+        "大島愛里亞",
+        "安部未華子",
+        "愛名光莉",
+        "高杉麻里",
+        "星奈爱",
+        "一宫みかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-038"
+    },
+    {
+      "id": 97640,
+      "IDcode": "DOCP-124",
+      "title": "向かいの部屋の美少女コスプレイヤーをこっそり覗いていると視線に気づかずSNS映えするエロ撮影をし始め！？",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-25",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/jQmfgYHF.jpg",
+      "actress": [
+        "蘭々",
+        "三原穗香",
+        "七海ゆあ",
+        "今井まい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-124"
+    },
+    {
+      "id": 102793,
+      "IDcode": "BBAN-171",
+      "title": "賭けに負けてレズビアンに堕ちるショートカットの敏感女子大生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2018-03-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban171/bban171pl.jpg",
+      "actress": [
+        "蘭々",
+        "麻里梨夏",
+        "日向澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-171"
+    },
+    {
+      "id": 107106,
+      "IDcode": "FOCS-149",
+      "title": "被隔壁絕倫鄰居金髪辣妹誘惑… 不戴胸罩爆乳與讓人看自慰理性喪失中出停不下！ 蘭蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-149"
+    },
+    {
+      "id": 104465,
+      "IDcode": "SDDE-692",
+      "title": "催淫洗脑-岩泽香代 萌波铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-04-20",
-      "cover_url": "https://tutu1.space/images/2023/04/25/eb1db90a4220b2f5a49200c84204ce9e.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "蘭々",
         "岩沢香代",
@@ -274,144 +408,123 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-692"
     },
     {
-      "id": 69040,
-      "IDcode": "SCOP-799",
-      "title": "SCOP-799",
+      "id": 96583,
+      "IDcode": "MKMP-558",
+      "title": "通过性彻底燃烧-蘭々",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2023-02-14",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0d912cf22ae3e04a0247e/cover.jpg",
       "actress": [
-        "有村希",
-        "沙月芽衣",
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-558"
+    },
+    {
+      "id": 90158,
+      "IDcode": "REAL-835",
+      "title": "巨乳ギャル孕ませレ●プ 中出し20連発 蘭々",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240116-1/f3d509cc857f9a515fbdd35369530f61.jpg",
+      "actress": [
         "蘭々",
-        "川原かなえ"
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-835"
     },
     {
-      "id": 69139,
-      "IDcode": "HUNTB-388",
-      "title": "拒絕穿上制服！口氣也最爛最悪！不過既溫柔工作也超有禮！父親的看護是淫蕩辣妹過頭讓我…",
+      "id": 90153,
+      "IDcode": "RCTD-564",
+      "title": "ガチンコ全裸レズバトルリターンズ4",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-10-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250328-1/bacda032e9a98319b3ae0737f1883334.jpg",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240116-1/0c5803326e0d5272a0b12e39b72fb434.jpg",
       "actress": [
-        "夏希栗",
-        "蘭々"
+        "本田瞳",
+        "蘭々",
+        "もなみ铃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-564"
     },
     {
-      "id": 68509,
-      "IDcode": "MDBK-264",
-      "title": "全社員が帰宅した夜に鼓膜からねっとりと痴女られ癒される淫語ささやき社長秘書",
+      "id": 89604,
+      "IDcode": "SCOP-812",
+      "title": "和学校里最可爱的不良少女的久别再会",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2022-10-08",
+      "type": "",
+      "company": "SCOOP",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "森日向子",
-        "望月綾香",
         "蘭々"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-812"
+    },
+    {
+      "id": 89603,
+      "IDcode": "SCOP-815",
+      "title": "巨乳店员的弱点-中丸未来 百濑莉子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SCOOP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-815"
+    },
+    {
+      "id": 88156,
+      "IDcode": "ONEZ-165",
+      "title": "濃密性交 交わる体液！本気のSEX5本番240分BEST 星奈あい・波木はるか・五十嵐星蘭・坂咲みほ・佐々波綾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/be6c0681121e939deccea28dfbc66663.jpg",
+      "actress": [
+        "蘭々",
+        "坂咲美穗",
+        "星奈爱",
+        "佐佐波绫",
+        "波木遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-165"
     },
     {
       "id": 79981,
       "IDcode": "DASD-940",
-      "title": "肛則違反 蘭々",
+      "title": "肛則違反-蘭々",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-11-23",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/VQ0Lr1FU.jpg",
       "actress": [
         "蘭々"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-940"
-    },
-    {
-      "id": 79959,
-      "IDcode": "SW-806",
-      "title": "黒パンスト女子社員のむっちり透けパンチラ誘惑！ 足マッサージしてあげると敏感太モモと丸見えお尻がヒクヒク反応。社内や出張先や自宅でパンスト破られ熱いイチモツぶち込まれるの待ってまーす（ハート）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2021-10-21",
-      "cover_url": "",
-      "actress": [
-        "岬梓沙",
-        "蘭々",
-        "富井美帆"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-806"
-    },
-    {
-      "id": 79424,
-      "IDcode": "SW-800",
-      "title": "友達の姉のむちむちデカ尻パンチラが思春期チ○ポを誘う。二人っきりになったらドM丸出しドエロ女に豹変したのでデカ尻めがけて腰くだけるまで鬼ピストンぶちかましたった！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2021-09-23",
-      "cover_url": "",
-      "actress": [
-        "望月綾香",
-        "蘭々",
-        "纱々原ゆり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-800"
-    },
-    {
-      "id": 72511,
-      "IDcode": "SORA-300",
-      "title": "フェラ友ごっくん一泊二日デート 蘭々",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2021-03-19",
-      "cover_url": "",
-      "actress": [
-        "蘭々"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-300"
-    },
-    {
-      "id": 76034,
-      "IDcode": "HND-758",
-      "title": "大久保で予約の取れない人気店！ ナマ本番が絶対ヤレる最高級コリアン中出しエステ店 深田えいみ 跡美しゅり 五十嵐星蘭",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2019-11-25",
-      "cover_url": "",
-      "actress": [
-        "深田詠美",
-        "蘭々",
-        "迹美珠里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-758"
     },
     {
       "id": 78169,
@@ -420,9 +533,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-23",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241126-1/bec883123b9ff1583c98ad09c7938270.jpg",
       "actress": [
         "蘭々",
@@ -437,37 +550,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-558"
     },
     {
-      "id": 73771,
-      "IDcode": "MIRD-190",
-      "title": "絶対領域 挑発美少女ハーレム学園2 すべすべな太ももに挟まれ身動きできず何度も射精させられる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2019-08-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/9f8e01135cb438c5f9c546da014d27fa.jpg",
-      "actress": [
-        "枢木葵",
-        "蘭々",
-        "麻里梨夏",
-        "高杉麻里",
-        "鲛岛",
-        "市川润"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-190"
-    },
-    {
       "id": 77899,
       "IDcode": "MDS-889",
       "title": "締めの中出しで未来ある人生を台無しにしてやろうとすると、さっきよりも暴れだし必死に抵抗してくる。そんな姿が堪らなく愛おしい…。 華の女子寮生活崩壊レ●プ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-04-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/0511a9d3bc92b6de9bb00f99eb3ca05a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2d9bc4fed5ae03b6dda3f9635b04bb62.jpg",
       "actress": [
         "皆月光",
         "蘭々",
@@ -482,10 +574,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/19e2417d86c36370c020d19f0d38eecd.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e7776e5f973f456c675cdbbb48153565.jpg",
       "actress": [
         "枢木葵",
         "蘭々",
@@ -495,24 +587,246 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-953"
     },
     {
-      "id": 88156,
-      "IDcode": "ONEZ-165",
-      "title": "濃密性交 交わる体液！本気のSEX5本番240分BEST 星奈あい・波木はるか・五十嵐星蘭・坂咲みほ・佐々波綾",
+      "id": 76034,
+      "IDcode": "HND-758",
+      "title": "三个极品韩国风俗美女一边叫着欧巴一边被内射",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/862b2207611f83ffba7ca20aadaf9b88.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/2dc36df76a6fa44954934607c107d1a3.jpg",
       "actress": [
+        "深田詠美",
         "蘭々",
-        "坂咲美穗",
-        "星奈爱",
-        "佐佐波绫",
-        "波木遥"
+        "迹美珠里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-758"
+    },
+    {
+      "id": 73771,
+      "IDcode": "MIRD-190",
+      "title": "絶対領域 挑発美少女ハーレム学園2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67816e22c179ffb1db6f7eaa/cover.jpg",
+      "actress": [
+        "枢木葵",
+        "蘭々",
+        "麻里梨夏",
+        "高杉麻里",
+        "鲛岛",
+        "市川润"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-190"
+    },
+    {
+      "id": 72511,
+      "IDcode": "SORA-300",
+      "title": "フェラ友ごっくん一泊二日デート 蘭々",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8c2084a53cd4768ff22af1ca3b8edf9e.jpg",
+      "actress": [
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-300"
+    },
+    {
+      "id": 69139,
+      "IDcode": "HUNTB-388",
+      "title": "我的老男人不能勃起",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250319-1/82a615024919b7f47a3f4a6e35e028df.jpg",
+      "actress": [
+        "夏希栗",
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-388"
+    },
+    {
+      "id": 69040,
+      "IDcode": "SCOP-799",
+      "title": "姑娘技术惊人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SCOOP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有村希",
+        "沙月芽衣",
+        "蘭々",
+        "川原かなえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-799"
+    },
+    {
+      "id": 68509,
+      "IDcode": "MDBK-264",
+      "title": "社長秘書",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bac163ed39b57c09bb943/cover.jpg",
+      "actress": [
+        "森日向子",
+        "望月綾香",
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-264"
+    },
+    {
+      "id": 15898,
+      "IDcode": "MDBK-328",
+      "title": "超淫​​蕩的高級產婦，用極好的身材讓你一次又一次射精7 - 蘭々",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/44c5f9d3bc18b087e18dadc5cded4a6e.jpg",
+      "actress": [
+        "羽月乃蒼",
+        "有岡みう",
+        "蘭々",
+        "椎叶みくる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-328"
+    },
+    {
+      "id": 14709,
+      "IDcode": "MTALL-116",
+      "title": "隔壁的體育生在他的骯髒房間裏操了向他抱怨的我，我連續高潮了52次 ~ 五十嵐星蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MATERIALL",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/3aca22c61999af99159529be97ae8bd1.jpg",
+      "actress": [
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-116"
+    },
+    {
+      "id": 14400,
+      "IDcode": "MKMP-557",
+      "title": "美麗巨乳美女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240807-1/ae515af62adc394aa8a2d6241aa7d3e7.jpg",
+      "actress": [
+        "胡桃櫻花",
+        "蘭々",
+        "椎叶みくる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-557"
+    },
+    {
+      "id": 13645,
+      "IDcode": "YMDS-166",
+      "title": "密着特浓一夜情-五十岚星兰",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240701/eaa46805-7558-44da-bba0-6d564b57ddca.jpg",
+      "actress": [
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-166"
+    },
+    {
+      "id": 13167,
+      "IDcode": "HUNTC-181",
+      "title": "在媚藥美容院盡情高潮吧 ! 對性感區了如指掌的女技師會取悅你的雞巴和陰戶，讓你蠕動到高潮！ ~ 五十嵐星蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896c6c98bc99dfddc3a8fc/cover.jpg",
+      "actress": [
+        "蘭々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-181"
+    },
+    {
+      "id": 10408,
+      "IDcode": "HUNTC-126",
+      "title": "平日昼間の映画館で客はボクとギャルだけ…。あんなに観たかった映画なのに…ずっと服の上からボクの乳首とチ〇ポをいじくり倒してくるギャルの…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "椿莉香",
+        "蘭々",
+        "NATSUKA",
+        "有星青理",
+        "宫名初季"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-126"
+    },
+    {
+      "id": 2274,
+      "IDcode": "MMPB-096",
+      "title": "【半中半外】至高のマ●コにリアル中出し13人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天馬唯",
+        "田中寧寧",
+        "由良佳奈",
+        "友田彩也香",
+        "一条美緒",
+        "绀野光",
+        "美波梢",
+        "鳳可怜",
+        "蘭々",
+        "弘中優",
+        "辻櫻",
+        "香椎佳穂",
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-096"
     }
   ]
 };

@@ -46,20 +46,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1721,
-      "IDcode": "MKBD-S46",
-      "title": "KIRARI 46 ～我的寵物是宮地由梨香～ : 宮地由梨香",
+      "id": 104214,
+      "IDcode": "MIGD-481",
+      "title": "中出し専用肉便器 宮地由梨香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2013-02-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230131/269f1721-4d89-4f86-9083-f8c433c594f6.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-12-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/migd481/migd481pl.jpg",
       "actress": [
         "宫地由梨香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S46"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-481"
     }
   ]
 };

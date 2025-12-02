@@ -4,7 +4,7 @@ window.actressData = {
   "name": "茜えりな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-10",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/f149cb2d5045588d70154eea593926d6.jpg",
       "actress": [
@@ -43,8 +43,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-13",
       "cover_url": "",
       "actress": [
@@ -62,8 +62,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-21",
       "cover_url": "",
       "actress": [
@@ -75,20 +75,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-016"
     },
     {
-      "id": 74602,
-      "IDcode": "LUXU-1116",
-      "title": "ラグジュTV 1123  オナニーだけでは納まりきれない性欲…全身性感帯と化したカラダに止めどない快楽が訪れ、忘れかけていたオンナとしての悦びにいやらしくも愛らしい声を漏らしてイキ乱れる。",
+      "id": 532027,
+      "IDcode": "259LUXU-1116",
+      "title": "ラグジュTV 1123 オナニーだけでは纳まりきれない性欲…全身性感帯と化したカラダに止めどない快楽が访れ、忘れかけていたオンナとしての悦びにいやらしくも爱らしい声を漏らしてイキ乱れる。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
+      "type": "",
+      "company": "蚊香社",
       "publish_date": "2019-07-01",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/dfaabfc87848b581ce3ecdcf9da9aa86.jpg",
       "actress": [
         "茜えりな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1116"
     },
     {
       "id": 75032,
@@ -97,7 +97,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2019-06-14",
       "cover_url": "",

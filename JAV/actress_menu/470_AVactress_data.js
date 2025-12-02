@@ -47,35 +47,214 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240517/5c4ddf69-5323-4f47-8337-2f11fa2d9561.jpg",
     "https://picture.yoshiclub.xyz/20240517/60a345fa-577c-4554-8293-47c3b41c5c66.jpg"
   ],
-  "works_count": 8,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 3953,
-      "IDcode": "ADN-697",
-      "title": "和性格超拽的青梅竹馬幹到精盡人亡的記錄 ~ 七海那美",
+      "id": 12641,
+      "IDcode": "MIDV-830",
+      "title": "巨乳遊泳俱樂部的誘惑，招募穿着競技泳衣的會員，看起來奶子就要溢出來了 ~ 七海那美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815231921971971.jpg",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-830"
+    },
+    {
+      "id": 14675,
+      "IDcode": "MIDV-712",
+      "title": "G杯大奶子小麥色皮膚21歲的七海那美 AV首次亮相",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2024-05-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517023804288288.jpg",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-712"
+    },
+    {
+      "id": 13965,
+      "IDcode": "MIDV-745",
+      "title": "G罩杯大奶子，後續活塞已經高潮了！！4次高潮瘋狂初體驗 七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0705fcf22ae3e04a018b8/cover.jpg",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-745"
+    },
+    {
+      "id": 13372,
+      "IDcode": "MIDV-796",
+      "title": "禁欲挑逗性高潮大觉醒-七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0a6dac813dc779d95f65/cover.jpg",
+      "actress": [
+        "七海那美",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-796"
+    },
+    {
+      "id": 12017,
+      "IDcode": "MIDV-861",
+      "title": "放学后NTR-七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241001-1/167db3301199724cba1b224e5168d699.jpg",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-861"
+    },
+    {
+      "id": 11333,
+      "IDcode": "MIDV-897",
+      "title": "妻子回娘家的3天里-七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/7331c86692d9c43a11d5a8c3c2f2d3c8.jpg",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-897"
+    },
+    {
+      "id": 10612,
+      "IDcode": "MIDV-932",
+      "title": "过于大意的爆乳体育女教师-七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787451889def9b1b801bab4/cover.jpg",
+      "actress": [
+        "七海那美",
+        "タイ",
+        "ハカー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-932"
+    },
+    {
+      "id": 9947,
+      "IDcode": "MIDV-970",
+      "title": "女大学生在超市打工时被讨厌的店长性骚扰",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241231-1/1df3f6f9172660fd381929e8ef8ed65a.jpg",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-970"
+    },
+    {
+      "id": 7831,
+      "IDcode": "SAME-159",
+      "title": "被分配到偏远山区的女老师-七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085536463463_23464_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c5a5e64e7d663df4ca7771/cover.jpg",
       "actress": [
         "七海那美",
         "左慈半造"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-697"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-159"
+    },
+    {
+      "id": 7178,
+      "IDcode": "YUJ-031",
+      "title": "对女性失去信心的我-七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efcd72cf22ae3e04d142b5/cover.jpg",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-031"
+    },
+    {
+      "id": 6455,
+      "IDcode": "YUJ-033",
+      "title": "离婚后辞掉工作回到老家的我偶然与前女友重逢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042915297297_thumbnail.webp",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-033"
+    },
+    {
+      "id": 5687,
+      "IDcode": "SAME-174",
+      "title": "每天都被母亲再婚对象的大叔强奸-七海那美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170213896896_thumbnail.webp",
+      "actress": [
+        "七海那美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-174"
     },
     {
       "id": 4988,
       "IDcode": "SAME-181",
-      "title": "被廢柴媽欠下巨債的女兒被迫用肉體還債給陌生大叔 ~ 七海那美",
+      "title": "吸毒的母亲为了偿还巨额债务强迫自己的女儿卖淫赚钱-七海那美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-06-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032721599599_thumbnail.webp",
       "actress": [
         "七海那美",
@@ -84,103 +263,53 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-181"
     },
     {
-      "id": 5687,
-      "IDcode": "SAME-174",
-      "title": "每天都被繼父殘暴強奸 ~ 七海那美",
+      "id": 3953,
+      "IDcode": "ADN-697",
+      "title": "与性格强势的假小子好友做到精尽人亡的记录-七海那美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529170213896896_thumbnail.webp",
-      "actress": [
-        "七海那美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-174"
-    },
-    {
-      "id": 6455,
-      "IDcode": "YUJ-033",
-      "title": "離婚失業回老家，巧遇舊愛再燃激情 ~ 七海那美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042915297297_thumbnail.webp",
-      "actress": [
-        "七海那美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-033"
-    },
-    {
-      "id": 7178,
-      "IDcode": "YUJ-031",
-      "title": "被不受歡迎又不信女人的我全盤肯定的職場後輩榨精到身心融化的幾天 ~ 七海那美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327082404658658.jpg",
-      "actress": [
-        "七海那美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-031"
-    },
-    {
-      "id": 7831,
-      "IDcode": "SAME-159",
-      "title": "調到偏鄉學校的女老師 被性欲過剩學生逼穿羞恥泳裝輪奸 ~ 七海那美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072138367367.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085536463463_23464_thumbnail.webp",
       "actress": [
         "七海那美",
         "左慈半造"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-697"
     },
     {
-      "id": 9947,
-      "IDcode": "MIDV-970",
-      "title": "巨乳女子大生與討厭的喜歡用那點權力性騷擾、揉捏她的乳頭，晃着他的大雞巴的變態商店經理發生了不倫關系 ~ 七海那美",
+      "id": 3148,
+      "IDcode": "YUJ-043",
+      "title": "初めて出来た彼女が脱いだらもの凄いカラダと性欲で精子が枯れるほど何度も抜かれまくった。 七海那美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211074335198198.jpg",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023017469469_45301_thumbnail.webp",
       "actress": [
         "七海那美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-970"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YUJ-043"
     },
     {
-      "id": 10612,
-      "IDcode": "MIDV-932",
-      "title": "無防備的體育女教師成爲了男生們的乳便器...精液顏射集團輪奸 ~ 七海那美",
+      "id": 2312,
+      "IDcode": "ADN-718",
+      "title": "被强迫进行性交易枕头上的写真偶像-七海那美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114094423819819.jpg",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://img.cdn202511.com/videos/202510/19/68f4d85dc1740d4b9b471f0a/cover.jpg",
       "actress": [
-        "七海那美",
-        "タイ",
-        "ハカー"
+        "七海那美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-718"
     }
   ]
 };

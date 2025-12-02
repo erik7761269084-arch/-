@@ -37,38 +37,26 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250723/20250723223337614614_60944_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 2554,
-      "IDcode": "UMSO-612",
-      "title": "爆棚美少女！火箭巨乳美人12人 VOL.02 ~ 藤森裏穂 朝日凜 冨安玲於奈 樞木美栞 浜崎真緒 寶田萌奈美 鬆本菜奈実 乙葉可憐 淺田結梨 流川莉央 奏自由 白石鈴",
+      "id": 96411,
+      "IDcode": "NNPJ-260",
+      "title": "男上司女下属两队独处混浴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250921/20250921065515917917_68784_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/72c9c730ef0aeb6d1b3467a26974f52d.jpg",
       "actress": [
-        "浜崎真緒",
-        "藤森里穂",
-        "宝田萌奈美",
-        "松本菜奈実",
-        "流川莉央",
-        "浅田結梨",
-        "朝日凜",
-        "奏自由",
-        "冨安玲於奈",
-        "樞木美栞",
+        "霧島さくら",
+        "吉川爱美",
         "白石鈴",
-        "乙葉可憐",
-        "安倍亜沙美",
-        "乙叶カレン",
-        "浜崎真绪",
-        "浅田结梨"
+        "佐仓宁宁"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-260"
     },
     {
       "id": 75181,
@@ -77,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/702d58b068883204aca42427e45b78d4.jpg",
       "actress": [
         "美谷朱里",
         "推川悠里",
@@ -100,16 +88,47 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-03-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/1b63aae3bca95481ac7d4da2fcbfb720.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/65d799c14e9c2be949021442be2edcbb.jpg",
       "actress": [
         "通野未帆",
         "白石鈴",
         "姬川优奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-525"
+    },
+    {
+      "id": 2554,
+      "IDcode": "UMSO-612",
+      "title": "主張が過ぎる圧倒的存在感！！ロケットおっぱい美女12人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "浜崎真緒",
+        "藤森里穂",
+        "宝田萌奈美",
+        "松本菜奈実",
+        "流川莉央",
+        "浅田結梨",
+        "朝日凜",
+        "奏自由",
+        "冨安玲於奈",
+        "樞木美栞",
+        "白石鈴",
+        "乙葉可憐",
+        "安倍亜沙美",
+        "乙叶カレン",
+        "浜崎真绪",
+        "浅田结梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
     }
   ]
 };

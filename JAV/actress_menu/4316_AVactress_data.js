@@ -4,7 +4,7 @@ window.actressData = {
   "name": "岩崎すみえ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 72951,
       "IDcode": "JUTA-160",
-      "title": "極上！！六十路奥さま初脱ぎAVドキュメント 岩崎すみえ",
+      "title": "妻子的第一次脱衣-岩崎纯惠",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-01-21",
-      "cover_url": "",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250202-1/0a5a14c6c643ce4b18433d73226a3047.jpg",
       "actress": [
         "岩崎すみえ"
       ],

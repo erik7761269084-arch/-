@@ -4,7 +4,7 @@ window.actressData = {
   "name": "佳乃三つ葉",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-11-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240417-1/337750b835640254d4b46176e10b4d0f.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240417-1/1af802ad6e9a67f0aacc20a950459657.jpg",
       "actress": [
         "佳乃三つ葉"
       ],

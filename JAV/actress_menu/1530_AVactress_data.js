@@ -21,29 +21,13 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 1163,
-      "IDcode": "HEYZO-1854",
-      "title": "6點下班後～火熱淫軀～ 日高千晶",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "HEYZO",
-      "publish_date": "2018-11-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20231025/20231025001415620620.jpg",
-      "actress": [
-        "日高千晶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1854"
-    },
-    {
       "id": 1153,
       "IDcode": "HEYZO-1816",
       "title": "清純臉蛋淫亂女～ 日高千晶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2018-09-08",
       "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029003943539539.jpg",
@@ -51,6 +35,22 @@ window.actressData = {
         "日高千晶"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1816"
+    },
+    {
+      "id": 1163,
+      "IDcode": "HEYZO-1854",
+      "title": "后6燃烧的色情身体",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7dd77606460d0c69297c585084f39938.jpg",
+      "actress": [
+        "日高千晶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1854"
     }
   ]
 };

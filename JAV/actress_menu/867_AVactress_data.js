@@ -38,18 +38,114 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241116/65b8e8f7-39a7-468b-939a-8e1de37bfa32.jpg",
     "https://picture.yoshiclub.xyz/20241116/a4c3528e-bc83-4ec9-af14-d1caaa8c5758.jpg"
   ],
-  "works_count": 5,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 5829,
-      "IDcode": "EKDV-779",
-      "title": "與翹課學生獨處…孤單少女的禁忌背德激情 ~ 卯佐美鈴",
+      "id": 5235,
+      "IDcode": "BANK-208",
+      "title": "巨乳人妻溫泉約會 老公的綠帽癖讓她羞澀難當 ~ 卯佐美鈴 28歲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "ま○こ銀行",
+      "publish_date": "2025-06-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071500686686_thumbnail.webp",
+      "actress": [
+        "卯佐美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-208"
+    },
+    {
+      "id": 63864,
+      "IDcode": "HODV-21971",
+      "title": "介紹我的可愛的舔雞巴女友-卯佐美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "卯佐美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21971"
+    },
+    {
+      "id": 10578,
+      "IDcode": "FPRE-106",
+      "title": "地味だけど脱いだら凄かった！恋愛小説家AV Debut！恋愛経験の少ない20歳の美巨乳Fカップ 卯佐美りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114102603630630.jpg",
+      "actress": [
+        "卯佐美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-106"
+    },
+    {
+      "id": 9920,
+      "IDcode": "FPRE-119",
+      "title": "人生初の中出し解禁！彼女が不在の間、純粋な巨乳妹を大人の濃厚中出しSEXで無理やりハメ倒し俺のチ〇ポに恋させた3日間の思い出 卯佐美りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211063031199199.jpg",
+      "actress": [
+        "卯佐美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-119"
+    },
+    {
+      "id": 9027,
+      "IDcode": "FPRE-097",
+      "title": "与穿着制服的漂亮女孩舔性-宇佐见凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074805740740.jpg",
+      "actress": [
+        "卯佐美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-097"
+    },
+    {
+      "id": 8185,
+      "IDcode": "FPRE-147",
+      "title": "被隐藏肉食系的文学女子低语淫语",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073757152152.jpg",
+      "actress": [
+        "卯佐美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-147"
+    },
+    {
+      "id": 5829,
+      "IDcode": "EKDV-779",
+      "title": "不登校な教え子と二人きり…孤独な生徒と禁断背徳性交 りん 卯佐美りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "水晶映像",
-      "publish_date": "2025-05-24",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031443297297_thumbnail.webp",
       "actress": [
         "卯佐美鈴",
@@ -58,68 +154,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-779"
     },
     {
-      "id": 63864,
-      "IDcode": "HODV-21971",
-      "title": "ちんしゃぶ彼女紹介します。 卯佐美りん パンティと生写真付き",
+      "id": 2431,
+      "IDcode": "JFB-480",
+      "title": "地味カワ巨乳卯佐美りん Fitch出演全4タイトル4時間BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://tutu1.space/images/2025/06/02/efee61a07d8ba1c4dfd8d160a031080d.jpg",
-      "actress": [
-        "卯佐美鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21971"
-    },
-    {
-      "id": 8185,
-      "IDcode": "FPRE-147",
-      "title": "隱藏的肉食系文藝女，對你低聲說着下流的話，用粘稠甜蜜的挑逗把你雞巴吃掉 ~ 卯佐美鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073757152152.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/19b59988/vod.jpg",
       "actress": [
         "卯佐美鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-147"
-    },
-    {
-      "id": 9027,
-      "IDcode": "FPRE-097",
-      "title": "被大雨淋溼的學生誘惑，與穿制服的美少女舔交…… ~ 卯佐美鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074805740740.jpg",
-      "actress": [
-        "卯佐美鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-097"
-    },
-    {
-      "id": 9920,
-      "IDcode": "FPRE-119",
-      "title": "人生初中出解禁！女友不在的3天內，SEX無理撲倒，對清楚系純粹巨乳妹妹的濃厚中出 ~ 卯佐美鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211063031199199.jpg",
-      "actress": [
-        "卯佐美鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-480"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "内藤にこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 4603,
       "IDcode": "AIAV-029",
-      "title": "【3.1次元】迷你可愛粉發COSER小惡魔上線 內藤妮可",
+      "title": "ちびかわいいピンク髪コスプレイヤーは小悪魔なんです 内藤にこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "NOSKINS",
-      "publish_date": "2025-07-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707204449259259_86026_thumbnail.webp",
       "actress": [
         "内藤にこ"

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "楓きらり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-05-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240409/c106fff8-fe82-4986-b40e-71c4d45e75ec.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32bb6735bb663f77c623d/cover.jpg",
       "actress": [
         "楓きらり"
       ],

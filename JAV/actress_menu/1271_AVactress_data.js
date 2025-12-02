@@ -36,18 +36,82 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240227/dfe58733-985f-4002-8eb7-e10c207e1120.jpg",
     "https://picture.yoshiclub.xyz/20240227/9dc7ce9d-5bbe-4c9b-bbfd-f9a201cf929b.jpg"
   ],
-  "works_count": 5,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 94750,
-      "IDcode": "SUWK-010",
-      "title": "ギャラリーで若手女性写真家を物色する中年ストーカーに彼氏ヅラ粘着されてザーメンマーキングされた隠れ巨乳メガネ美大生 樟葉杏",
+      "id": 15106,
+      "IDcode": "SPLY-020",
+      "title": "高潮後立即追逐抽搐的蜜桃臀，用後入式再次插入，突破體液極限的情欲覺醒SEX ~ 樟葉杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-02-27",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240430/2904665c-bb3e-466f-a83b-c4b325110c53.jpg",
+      "actress": [
+        "樟葉杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-020"
+    },
+    {
+      "id": 89703,
+      "IDcode": "SDAB-280",
+      "title": "【完全主観】「いっしょに授業サボってエッチしよ？」ちょっと危なっかしい後輩カノジョと、学校でこっそりセックスしていた思い出 樟葉杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2023-11-21",
+      "cover_url": "https://tuaskbgnekr.com/20231221/7j503vXe/1.jpg",
+      "actress": [
+        "樟葉杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-280"
+    },
+    {
+      "id": 89662,
+      "IDcode": "SDAB-269",
+      "title": "いっぱい回り道しながら、突っ走る青春 樟葉杏 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2023-09-26",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/a569d7fd8be0f194d36d4e7ca3421ae8.jpg",
+      "actress": [
+        "樟葉杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-269"
+    },
+    {
+      "id": 104919,
+      "IDcode": "SDMF-042",
+      "title": "妹妹的第一次体验是我来完成的-樟葉杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "樟葉杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-042"
+    },
+    {
+      "id": 94750,
+      "IDcode": "SUWK-010",
+      "title": "在畫展專門狩獵女人的中年大叔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/680e1a922ab30f56f0d7924c7aa1e182.jpg",
       "actress": [
         "樟葉杏"
@@ -61,10 +125,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-12-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/5548b61a11b055dd5918d8f3babc64d5.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5eb68f1cbfc7a9c7dbd2/cover.jpg",
       "actress": [
         "樟葉杏"
       ],
@@ -73,50 +137,34 @@ window.actressData = {
     {
       "id": 89654,
       "IDcode": "SDAB-279",
-      "title": "初体験だけの4科目(3エッチ)【1時間目:はじめてのデカチンSEX 2時間目:はじめての拘束おもちゃオイルSEX 3時間目:はじめての3P ひみつの4時間目:はじめての顔射】 樟葉杏",
+      "title": "只有初體驗的4科目（3性愛）【第一節初次的巨根性愛 第二節初次拘束失禁精油性愛 第三節初次的3P性愛 秘密的第四節初次顏射】 樟葉杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-11-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/9214f6ed7665fed6428b0832246b333a.jpg",
       "actress": [
         "樟葉杏"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-279"
     },
     {
-      "id": 89703,
-      "IDcode": "SDAB-280",
-      "title": "【完全主観】「いっしょに授業サボってエッチしよ？」ちょっと危なっかしい後輩カノジョと、学校でこっそりセックスしていた思い出 樟葉杏",
+      "id": 11150,
+      "IDcode": "FOCS-221",
+      "title": "脱引きニート計画は巨美尻義妹のピタパン誘惑！？ えちえち美尻の挑発に我慢出来ずバクピスで尻ぶっかけ＆連続中出し放題！ 樟葉杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-21",
-      "cover_url": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/561d89f7483e94301cb4eb20d86d9abe.jpg",
       "actress": [
         "樟葉杏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-280"
-    },
-    {
-      "id": 89662,
-      "IDcode": "SDAB-269",
-      "title": "いっぱい回り道しながら、突っ走る青春 樟葉杏 AV DEBUT",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-09-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/a569d7fd8be0f194d36d4e7ca3421ae8.jpg",
-      "actress": [
-        "樟葉杏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-269"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-221"
     }
   ]
 };

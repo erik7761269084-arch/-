@@ -34,24 +34,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241119/9b6f630a-377f-4c1c-ac74-eba79db15b80.jpg",
     "https://picture.yoshiclub.xyz/20241119/6d686637-abcb-4334-b73e-bd847acce296.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 10517,
-      "IDcode": "SDAB-320",
-      "title": "初中出 - 無法違抗她心愛的老師，不斷地被變態叔叔們授精 ~ 桜すずか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241119/626e7f0d-454f-4a74-800d-6c5370285779.jpg",
-      "actress": [
-        "桜すずか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-320"
-    },
     {
       "id": 13048,
       "IDcode": "SDAB-275",
@@ -59,7 +43,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-08-22",
       "cover_url": "https://picture.yoshiclub.xyz/20240730/20240730021024671671.jpg",
@@ -67,6 +51,54 @@ window.actressData = {
         "桜すずか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-275"
+    },
+    {
+      "id": 10517,
+      "IDcode": "SDAB-320",
+      "title": "桜すずか 初中出し ～大好きだった講師の言うことは逆らえずに、きもデブおじに何度も種付けプレスされたすずか～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678923d85d57b64bfd039075/cover.jpg",
+      "actress": [
+        "桜すずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-320"
+    },
+    {
+      "id": 7242,
+      "IDcode": "TKOU-018",
+      "title": "拘束くすぐり拷問 連続アクメで昇天乱交 桜すずか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7a57879f1ac4ec45a5151/cover.jpg",
+      "actress": [
+        "桜すずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-018"
+    },
+    {
+      "id": 6564,
+      "IDcode": "TENN-035",
+      "title": "ザーメンぶっかけ濡れだくゴックン調教 自我崩壊輪● 桜すずか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba6c2f489841641837de29/cover.jpg",
+      "actress": [
+        "桜すずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-035"
     }
   ]
 };

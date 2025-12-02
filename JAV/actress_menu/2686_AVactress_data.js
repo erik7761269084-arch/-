@@ -36,7 +36,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20251004/115eb438-d315-434b-aa09-6604fe4642be_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20251004/9b5b788b-8300-4c60-9f55-bf3e2f924f44_l.webp"
   ],
-  "works_count": 8,
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 89805,
@@ -45,7 +45,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2023-09-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ff5c0a7a7bc9bc0ff791f1d030078795.jpg",
@@ -70,10 +70,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2020-04-07",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230111-1/b7ced32cc6bc955770a4362fbc6d39e0.jpg",
       "actress": [
         "松ゆきの"
       ],
@@ -86,10 +86,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/6454c19e5d455b8a9bcefcd088452822.jpg",
+      "cover_url": "",
       "actress": [
         "松ゆきの"
       ],
@@ -102,7 +102,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
       "publish_date": "2020-01-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/40e423935dce951528daabfc73360357.jpg",
@@ -118,8 +118,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-10",
       "cover_url": "",
       "actress": [
@@ -130,22 +130,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-012"
     },
     {
-      "id": 71475,
-      "IDcode": "FSET-849",
-      "title": "買い物帰りの奥さんにチ○コを与えたらバカイキする淫乱人妻だった",
+      "id": 78831,
+      "IDcode": "GNAB-011",
+      "title": "客の少ない平日昼間フリータイムに入店するとけっこうな確率でサウナレディと本番に発展しちゃうことが多い件",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-09-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-12-20",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230316-1/7d7eef461a911a3eb56127d7ee85ca34.jpg",
       "actress": [
-        "森澤佳奈",
-        "藤井林檎",
-        "松ゆきの"
+        "卯水咲流",
+        "松ゆきの",
+        "岩下たろう",
+        "森萤",
+        "爱乃零"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-849"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNAB-011"
     },
     {
       "id": 74532,
@@ -154,10 +156,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-06-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/dee3b76e08957a8e8afd0f341308e2d4.jpg",
       "actress": [
         "松ゆきの"
       ],
@@ -170,15 +172,56 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
-      "publish_date": "2019-05-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ecd4fed4266e37214130fec075414090.jpg",
       "actress": [
         "松ゆきの",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-136"
+    },
+    {
+      "id": 71475,
+      "IDcode": "FSET-849",
+      "title": "買い物帰りの奥さんにチ○コを与えたらバカイキする淫乱人妻だった",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/bf3d431d3691b0656fb890dcb282e2dd.jpg",
+      "actress": [
+        "森澤佳奈",
+        "藤井林檎",
+        "松ゆきの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-849"
+    },
+    {
+      "id": 2279,
+      "IDcode": "MMPB-095",
+      "title": "絶倫チ◎ポに理性がぶっ飛ぶほどイカされメスイキ完堕ち！ アクメ大覚醒した真性マゾオンナたち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/f978aecd/vod.jpg",
+      "actress": [
+        "美咲佳奈",
+        "九井珠奈緒",
+        "通野未帆",
+        "沙月文乃",
+        "柊有希",
+        "仓多真央",
+        "佐佐木明希",
+        "松ゆきの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-095"
     }
   ]
 };

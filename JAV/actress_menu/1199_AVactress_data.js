@@ -34,8 +34,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-都盛星空.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-一条星空.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 156654,
+      "IDcode": "FERA-28",
+      "title": "淋しんぼ母さん過剰な愛情欲情セックス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/a7347efbd802ab179eb9f57b6e305671.jpg",
+      "actress": [
+        "都盛星空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-28"
+    },
     {
       "id": 1535,
       "IDcode": "SKYHD-129",
@@ -43,10 +59,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2014-08-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230504/01a45508-4586-4e1d-ab62-b7173f35d4c1.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/c9f8fda1c646609715112cb763d7834c.jpg",
       "actress": [
         "都盛星空"
       ],

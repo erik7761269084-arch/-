@@ -4,7 +4,7 @@ window.actressData = {
   "name": "水上由纪恵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,24 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 85222,
-      "IDcode": "KSBJ-198",
-      "title": "夫の部下を挑発するド淫乱奥さん！ 水上由紀恵 パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2022-05-18",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/1ba6bb450985d7f0b418dbf5f89ea858.jpg",
-      "actress": [
-        "水上由纪恵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-198"
-    },
     {
       "id": 81629,
       "IDcode": "EMBZ-196",
@@ -41,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-01",
       "cover_url": "",
@@ -60,10 +44,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-31",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/3915843dc839601aba48934c0050f920.jpg",
+      "cover_url": "",
       "actress": [
         "風間由美",
         "佐伯由美香",
@@ -83,26 +67,43 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "RUBY",
       "publish_date": "2020-01-19",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/cce0b964c5fb527c852fddc57916f66a.jpg",
       "actress": [
         "水上由纪恵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKD-231"
     },
     {
-      "id": 98234,
-      "IDcode": "AUKB-093-",
-      "title": "内緒の浴室濡れ肌密着レズビアン240分",
+      "id": 102824,
+      "IDcode": "AUKG-446",
+      "title": "平成艶熟春画 ～町内会の会合でこっそりレズするママ友不倫～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-13",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230620-1/d9e8ff82ed656641a006f86704fdc8b2.jpg",
+      "actress": [
+        "翔田千里",
+        "水上由纪恵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-446"
+    },
+    {
+      "id": 515288,
+      "IDcode": "AUKB-093",
+      "title": "秘密浴室 湿润肌肤紧贴蕾丝爱240分钟",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
       "publish_date": "2019-01-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/55b729b592fac5940daa6ca0f377b069.jpg",
       "actress": [
         "葵百合香",
         "武藤彩香",
@@ -115,7 +116,44 @@ window.actressData = {
         "あいだ飞鸟",
         "真山由夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKB-093"
+    },
+    {
+      "id": 98573,
+      "IDcode": "AUKG-434",
+      "title": "ガニ股絶頂手まん熟レズ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-09-13",
+      "cover_url": "",
+      "actress": [
+        "葵百合香",
+        "翔田千里",
+        "二宮和香",
+        "绪方泰子",
+        "水上由纪恵",
+        "あいだ飞鸟"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-434"
+    },
+    {
+      "id": 85222,
+      "IDcode": "KSBJ-198",
+      "title": "肮脏的妻子-水上由紀恵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "水上由纪恵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-198"
     }
   ]
 };

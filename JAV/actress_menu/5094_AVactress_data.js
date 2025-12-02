@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
       "publish_date": "2020-04-13",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/78a0a6d3792335ae2a3098d6ff4853f2.jpg",
       "actress": [
         "葵玲奈",
         "前田沙羅",

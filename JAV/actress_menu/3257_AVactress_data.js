@@ -4,7 +4,7 @@ window.actressData = {
   "name": "芦野香帆",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 61030,
       "IDcode": "JUTA-178",
-      "title": "極上！！三十路奥さま初脱ぎAVドキュメント 芦野香帆",
+      "title": "极品三十多岁妻子的第一份脱衣肯定-蘆野香帆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-09-02",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
       "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/f7d0bc1f/vod.jpg",
       "actress": [
         "芦野香帆"

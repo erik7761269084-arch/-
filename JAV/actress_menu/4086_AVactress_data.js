@@ -4,7 +4,7 @@ window.actressData = {
   "name": "吉永このみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2021-12-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/4a41cf70b32ed3adaa501ca29827c01d.jpg",
+      "cover_url": "",
       "actress": [
         "吉永このみ"
       ],
@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2021-11-11",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/hPXK5y2O.jpg",
       "actress": [
         "吉永このみ"
       ],
@@ -57,14 +57,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2021-09-09",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/ee4230946d760e08bfce3289269cdf09.jpg",
       "actress": [
         "吉永このみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-420"
+    },
+    {
+      "id": 79122,
+      "IDcode": "MSFH-058",
+      "title": "知性溢れるお姉さんがいやらしい焦らしと舌技で極上の射精へと導く無制限発射メンズエステ 吉永このみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/cc644a8248772f87d0fbf4bfe8ade044.jpg",
+      "actress": [
+        "鲛岛",
+        "吉永このみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-058"
     },
     {
       "id": 70890,
@@ -73,10 +90,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-12-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250313-1/a2fba9293b1ffa8cdec01d38a7320659.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eac7ad9d6b33f7177b281ba8a9d79bb5.jpg",
       "actress": [
         "森林原人",
         "イセドン内村",
@@ -84,23 +101,6 @@ window.actressData = {
         "吉永このみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-040"
-    },
-    {
-      "id": 79122,
-      "IDcode": "MSFH-058",
-      "title": "- 知性溢れるお姉さんがいやらしい焦らしと舌技で極上の射精へと導く無制限発射メンズエステ 吉永このみ - JAV目錄大全javmenu.com",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/7057bd8d27ee75d2c15ee639a633456f.jpg",
-      "actress": [
-        "鲛岛",
-        "吉永このみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-058"
     }
   ]
 };

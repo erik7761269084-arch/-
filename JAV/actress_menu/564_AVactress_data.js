@@ -29,147 +29,81 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241202/b1958579-d479-4c6d-9e40-b8bfa482330e.jpg",
     "https://picture.yoshiclub.xyz/20241202/27f8a4ba-21b0-41cf-9c50-6b2e606ca24e.jpg"
   ],
-  "works_count": 12,
+  "works_count": 18,
   "related_dramas": [
     {
-      "id": 2946,
-      "IDcode": "IENF-414",
-      "title": "和女子校生妹妹們玩王樣遊戲，我是唯一男主 ~ 美咲音 藤田梢 天野花乃 久和原聖羅 東雲梓",
+      "id": 4641,
+      "IDcode": "BAGR-064",
+      "title": "青春走偏的小妖精誘惑身邊男人到極限 ~ 天野花乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212944931931_44799_thumbnail.webp",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706224406995995_86915_thumbnail.webp",
       "actress": [
-        "久和原聖羅",
-        "藤田梢",
-        "美咲音",
-        "東雲梓",
         "天野花乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-414"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-064"
     },
     {
-      "id": 3906,
-      "IDcode": "DVMM-273",
-      "title": "一般男女監控AV 加班後末班車前的突襲談判！職場同事挑戰中出一次10萬的刺激任務！兩位女員工與男同事在情趣酒店徹夜狂歡逆3P連射派對2 ~菜月光 白石渚 水乃菜乃華 天野花乃",
+      "id": 4866,
+      "IDcode": "DVMM-247",
+      "title": "全新實拍街頭素人摸胸大作戰！用歐派力量讓日本嗨起來！羞澀臉紅的100位妹子，各種形狀大小的生猛歐派隨便揉隨便抓！vol.11 ！~ 岡本莉裏 本田瞳 葉山小百合 天晴乃愛 天晴乃愛 小阪ひまり 足立るい 等",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093749577577_36548_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031326654654_thumbnail.webp",
       "actress": [
+        "小坂ひまり",
+        "浜辺栞帆",
+        "本田瞳",
+        "黒木奈美",
+        "葉山小百合",
+        "天晴乃愛",
         "白石渚",
-        "菜月光",
-        "水乃菜乃華",
+        "月見若葉",
+        "岡本莉里",
+        "如月りいさ",
+        "依本詩織",
         "天野花乃",
-        "しめじ",
-        "マリモン"
+        "赤城穂波",
+        "矢澤なの",
+        "白崎水麗",
+        "足立るい",
+        "水川かえで",
+        "沢北あんな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-247"
     },
     {
-      "id": 4037,
-      "IDcode": "SODS-065",
-      "title": "巡察小姐姐的日常：街頭不良少年精液回收24小時全紀錄 ~ 大浦真奈美 星仲心美 藤田柚 夏川步美 天野花乃",
+      "id": 5218,
+      "IDcode": "GMAB-006",
+      "title": "鄉下老宅裡被緊縛調教的女學生精選合集 第二彈 純情美少女身心淪陷繩藝快感 10人4小時 ~ 綾瀨ひまり はないしずく 渚光希 白石環奈 森咲はるの 河合陽菜 天野花乃 由良佳奈 千石もなか 中城葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203400366366_56476_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618213727950950_thumbnail.webp",
       "actress": [
-        "森澤佳奈",
-        "夏川步美",
-        "大浦真奈美",
-        "藤田柚",
-        "星仲ここみ",
+        "由良佳奈",
+        "渚光希",
+        "千石もなか",
+        "中城葵",
         "天野花乃",
-        "広井そら"
+        "河合陽菜",
+        "白石環奈",
+        "森咲はるの",
+        "綾瀬ひまり",
+        "はないしずく"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-065"
-    },
-    {
-      "id": 62659,
-      "IDcode": "AGMX-231",
-      "title": "隣で添い寝しながら囁きオナニーをする女の顔2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/a65ee057/vod.jpg",
-      "actress": [
-        "希咲那奈",
-        "久和原聖羅",
-        "天野花乃",
-        "白浜美羽",
-        "浅桜エリ",
-        "福原なつ乃",
-        "鳴海まりる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-231"
-    },
-    {
-      "id": 4359,
-      "IDcode": "DVMM-268",
-      "title": "一般男女監控 巨乳女子大生！只圍一條毛巾進男湯幫洗棒棒可以嗎？6 ~ 美木雛乃 蘆名穗花 白石渚 天野花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040419361361_20654_thumbnail.webp",
-      "actress": [
-        "白石渚",
-        "美木雛乃",
-        "蘆名穗花",
-        "天野花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-268"
-    },
-    {
-      "id": 7423,
-      "IDcode": "IENF-378",
-      "title": "寄宿處的老板娘和她的閨蜜們把我當成了遊戲的唯一的國王 ~ 仲川空 久和原聖羅 五十嵐美月 花芽有朱 天野花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
-      "actress": [
-        "久和原聖羅",
-        "五十嵐美月",
-        "天野花乃",
-        "仲川空",
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
-    },
-    {
-      "id": 10229,
-      "IDcode": "SAN-294",
-      "title": "跨越世代的變態家族 ~ 天野花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2024-11-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20241202/3eed5d16-1bb1-4828-94d9-b391bc32d43f.jpg",
-      "actress": [
-        "天野花乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-294"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMAB-006"
     },
     {
       "id": 12888,
@@ -178,7 +112,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-09-12",
       "cover_url": "https://picture.yoshiclub.xyz/20240806/4f8303ce-1aa6-4aba-ab1c-eaad95be71be.jpg",
@@ -202,10 +136,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "",
       "publish_date": "2024-03-20",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240801/os9vYmvV/1.jpg",
       "actress": [
         "沙月惠奈",
         "姫野らん",
@@ -222,32 +156,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
       "publish_date": "2023-08-09",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240912/1ptlR0Ax/1.jpg",
       "actress": [
         "天野花乃",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-718"
-    },
-    {
-      "id": 88657,
-      "IDcode": "XVSR-711",
-      "title": "初潮吹き！初3P！初中イキ！？初めて尽くしの性感開発大絶叫SEX！！ 天野花乃 （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2023-07-11",
-      "cover_url": "",
-      "actress": [
-        "天野花乃",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-711"
     },
     {
       "id": 88669,
@@ -256,7 +173,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
       "publish_date": "2023-06-07",
       "cover_url": "",
@@ -264,6 +181,232 @@ window.actressData = {
         "天野花乃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-707"
+    },
+    {
+      "id": 88657,
+      "IDcode": "XVSR-711",
+      "title": "第一次潮吹-天野花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天野花乃",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-711"
+    },
+    {
+      "id": 62659,
+      "IDcode": "AGMX-231",
+      "title": "隣で添い寝しながら囁きオナニーをする女の顔2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250727-1/534f65ea2f79193bcecc24dddb06c176.jpg",
+      "actress": [
+        "希咲那奈",
+        "久和原聖羅",
+        "天野花乃",
+        "白浜美羽",
+        "浅桜エリ",
+        "福原なつ乃",
+        "鳴海まりる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-231"
+    },
+    {
+      "id": 10229,
+      "IDcode": "SAN-294",
+      "title": "世代を超えた変態家族 天野花乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241202/3eed5d16-1bb1-4828-94d9-b391bc32d43f.jpg",
+      "actress": [
+        "天野花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-294"
+    },
+    {
+      "id": 9348,
+      "IDcode": "TYD-006",
+      "title": "制服女子的猥褻癡漢電車 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1423a15c08d63a99057ae/cover.jpg",
+      "actress": [
+        "和久井美兎",
+        "久和原聖羅",
+        "真白みのり",
+        "音羽美鈴",
+        "天野花乃",
+        "雨宮あや花",
+        "福田もも",
+        "相月菜緒",
+        "水瀬りた",
+        "香月えりさ",
+        "宮名遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-006"
+    },
+    {
+      "id": 7423,
+      "IDcode": "IENF-378",
+      "title": "下宿先の奥様とママ友達に男は僕1人の王様ゲーム",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
+      "actress": [
+        "久和原聖羅",
+        "五十嵐美月",
+        "天野花乃",
+        "仲川空",
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
+    },
+    {
+      "id": 5644,
+      "IDcode": "NPJS-179",
+      "title": "偷拍專門的偷窺屋本舗遭逮捕的偷拍狂熱者的硬碟中流出的珍貴影片精選錄製",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175422872872_thumbnail.webp",
+      "actress": [
+        "久和原聖羅",
+        "音羽美鈴",
+        "天野花乃",
+        "中条りの",
+        "斉藤月乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-179"
+    },
+    {
+      "id": 4359,
+      "IDcode": "DVMM-268",
+      "title": "タオル一枚男湯でチ○ポ洗ってもらえませんか？ 6 男性客のフル勃起チ○ポに囲まれ恥じらいながらもしごいてしゃぶってザーメン抜きまくり！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040419361361_20654_thumbnail.webp",
+      "actress": [
+        "白石渚",
+        "美木雛乃",
+        "蘆名穗花",
+        "天野花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-268"
+    },
+    {
+      "id": 4037,
+      "IDcode": "SODS-065",
+      "title": "巡察レディのお仕事～街中非行少年更生精子回収を行う24時間～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897df3d55337d7f7bbc783f/cover.jpg",
+      "actress": [
+        "森澤佳奈",
+        "夏川步美",
+        "大浦真奈美",
+        "藤田柚",
+        "星仲ここみ",
+        "天野花乃",
+        "広井そら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-065"
+    },
+    {
+      "id": 3906,
+      "IDcode": "DVMM-273",
+      "title": "同僚同士の社会人男女が中出し1発10万円の過激ミッションに挑戦！女子社員2人が職場の同僚男性とラブホテルで朝までハーレム逆3P連続射精セックス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093749577577_36548_thumbnail.webp",
+      "actress": [
+        "白石渚",
+        "菜月光",
+        "水乃菜乃華",
+        "天野花乃",
+        "しめじ",
+        "マリモン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-273"
+    },
+    {
+      "id": 2946,
+      "IDcode": "IENF-414",
+      "title": "和我家的女高中生妹妹以及她的朋友玩只有我一个男人的国王游戏-美咲音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212944931931_44799_thumbnail.webp",
+      "actress": [
+        "久和原聖羅",
+        "藤田梢",
+        "美咲音",
+        "東雲梓",
+        "天野花乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-414"
+    },
+    {
+      "id": 2203,
+      "IDcode": "NPJS-220",
+      "title": "NPJクンニ特化新企画！！ 女の子のワレメを舐め隊出動！！クンニが一番卑猥に見えるアングルにこだわった9人の素人娘おま○こぺろぺろ動画batch",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "八森若菜",
+        "二羽紗愛",
+        "雪代一鳳",
+        "真白みのり",
+        "音羽美鈴",
+        "天野花乃",
+        "相月菜緒",
+        "白浜美羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-220"
     }
   ]
 };

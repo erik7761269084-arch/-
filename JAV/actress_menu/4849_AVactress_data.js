@@ -4,7 +4,7 @@ window.actressData = {
   "name": "七瀬優美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 78730,
       "IDcode": "SIRO-4900",
-      "title": "【ナイスバディスケベ】すらっと伸びた脚、引き締まったウエストにヒップ、Fカップおっぱいとスタイルに非の打ち所のない下着店員のお姉さん。おまけにエッチなことに積極的で、ためらうことなくいやらしい姿を披露… ネットでAV応募→AV体験撮影 1856",
+      "title": "NiceBuddySkeve内衣店员的姐姐腿很细腰臀紧F罩杯奶有型此外他还活跃在顽皮的事情上毫不犹豫地展示了他的讨厌的外表......网络上的AV应用程序AV体验拍摄1856",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-06-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "七瀬優美"

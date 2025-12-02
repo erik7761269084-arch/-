@@ -4,7 +4,7 @@ window.actressData = {
   "name": "あのね未来",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106893,
       "IDcode": "JUFE-429",
-      "title": "想要嘗試最舒服的性愛 憧憬AV女優應募而來親切笑臉可愛的肉感現役女大生 亞乃音未來19歳AV出道！",
+      "title": "現役女子大生-あのね未来",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2022-10-19",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jufe429/jufe429pl.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "あのね未来"
       ],

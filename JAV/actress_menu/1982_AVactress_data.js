@@ -40,14 +40,14 @@ window.actressData = {
     {
       "id": 10760,
       "IDcode": "IPSE-007",
-      "title": "新人出道！因想體驗專業情色而應募女優的超級變態M美少女 首次亮相 AV DEBUT ~ 龍恩寺華夜",
+      "title": "プロのエロを経験したくて応募してきた超変態ドM美少女AVデビュー 竜恩寺華夜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107095637595595.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/e78e0a5af6ffb6053a5accecf7a888f1.jpg",
       "actress": [
         "竜恩寺華夜",
         "鲛岛",

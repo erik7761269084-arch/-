@@ -39,84 +39,84 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 1576,
-      "IDcode": "ABP-606",
-      "title": "汗流浹背SEX4本番！ 体育会系・熊倉祥子 act.07",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
-      "publish_date": "2017-06-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230404/a90b50e3-f031-464a-bd94-85427cf39bc7.jpg",
-      "actress": [
-        "熊倉祥子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-606"
-    },
-    {
       "id": 86952,
       "IDcode": "ABP-597",
       "title": "ヲタサーの姫。07 熊倉しょうこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2017-05-19",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210727-1/e91b72f0b5772ac547c9db614a0be457.jpg",
       "actress": [
         "熊倉祥子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-597"
     },
     {
-      "id": 1666,
-      "IDcode": "ABP-588",
-      "title": "插到恍神爽翻天超嗨幹砲 37 熊倉祥子",
+      "id": 87315,
+      "IDcode": "CHN-119",
+      "title": "新·絶対的美少女、お贷しします。 ACT.64",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
-      "publish_date": "2017-04-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230404/5818d6c9-33ad-4c8c-ae9d-5fcd742ac102.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230724-1/51a8c9b0dcec667c6aef682a614d49f7.jpg",
       "actress": [
         "熊倉祥子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-119"
     },
     {
       "id": 87252,
       "IDcode": "ABP-568",
-      "title": "熊倉しょうこの極上筆おろし 12",
+      "title": "熊仓しょうこの极上笔おろし",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-02-17",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/6f6c3593c6e1b25af9cfcd547afbb8bc.jpg",
       "actress": [
         "熊倉祥子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-568"
     },
     {
-      "id": 87315,
-      "IDcode": "CHN-119",
-      "title": "新・絶対的美少女、お貸しします。 ACT.64 熊倉しょうこ",
+      "id": 1666,
+      "IDcode": "ABP-588",
+      "title": "熊倉しょうこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "",
-      "publish_date": "2016-11-18",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/7366973619b3633148940529b38e5484.jpg",
       "actress": [
         "熊倉祥子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-588"
+    },
+    {
+      "id": 1576,
+      "IDcode": "ABP-606",
+      "title": "体育会系-熊倉しょうこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/41307bfc7e1379f29c888721ba20d96e.jpg",
+      "actress": [
+        "熊倉祥子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-606"
     }
   ]
 };

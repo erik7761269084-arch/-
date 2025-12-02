@@ -4,7 +4,7 @@ window.actressData = {
   "name": "爱田るか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,35 +19,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 2603,
-      "IDcode": "ROE-401",
-      "title": "聽說隔壁家的小子有巨根？飢渴人妻組團蜂擁而上輪番SEX ~ 愛田流花 小早川憐子",
+      "id": 5110,
+      "IDcode": "ROE-360",
+      "title": "超传奇美熟女复活第二弹-愛田るか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043342666666_42279_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091533597597_thumbnail.webp",
       "actress": [
-        "小早川怜子",
         "愛田流花",
-        "タクト",
-        "タイ",
         "爱田るか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-401"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-360"
     },
     {
       "id": 3336,
       "IDcode": "ROE-389",
-      "title": "暗戀的阿姨被我下媚藥10天後，徹底淪為瘋狂中出的肉便器 ~ 愛田流花",
+      "title": "连续十天给心仪的阿姨下药后-愛田るか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-08-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024839651651_90822_thumbnail.webp",
       "actress": [
         "愛田流花",
@@ -57,21 +54,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-389"
     },
     {
-      "id": 5110,
-      "IDcode": "ROE-360",
-      "title": "傳奇美熟女強勢回歸第二彈！與暗戀20年的繼母禁忌中出之戀 ~ 愛田流花",
+      "id": 2603,
+      "IDcode": "ROE-401",
+      "title": "「あのお宅の子、とってもデカチンらしいわよ…。」噂を聞きつけた近所の-愛田るか 小早川怜子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091533597597_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68cdf98079f1ac4ec4649ac6/cover.jpg",
       "actress": [
+        "小早川怜子",
         "愛田流花",
+        "タクト",
+        "タイ",
         "爱田るか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-360"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-401"
     }
   ]
 };

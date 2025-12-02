@@ -4,7 +4,7 @@ window.actressData = {
   "name": "柴崎佳奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 66803,
-      "IDcode": "LUXU-1720",
-      "title": "ラグジュTV 1705 『Mなので責められたいです…』おっとりした癒し系美女が初登場！ほんわかした雰囲気とは裏腹にいやらしいことに興味津々…！男優のテクニックでメロメロになりながらカメラの前で痴態を曝け出す淫猥セックス！",
+      "id": 495894,
+      "IDcode": "259LUXU-1720",
+      "title": "ラグジュTV 1705 『Mなので責められたいです…』おっとりした癒し系美女が初登",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2023-08-28",
-      "cover_url": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/086727001d2986b2310b9ee45791228c.jpg",
       "actress": [
         "柴崎佳奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1720"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1720"
     }
   ]
 };

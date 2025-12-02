@@ -79,14 +79,14 @@ window.actressData = {
     {
       "id": 7262,
       "IDcode": "NSFS-371",
-      "title": "【AI重制版】究極寢取NTR 把老婆給你操 名作永久保存版 223分鍾 ~ 藤宮櫻花 佐伯春菜 椎名綾 川上優 北條麻妃",
+      "title": "AIリマスター版究極の寝取られ 妻をあなたに差し上げます 名作永久保存版223分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250326/1d3efbdf-092b-413b-9154-2a38af3110f2.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "北条麻妃",
         "川上優",

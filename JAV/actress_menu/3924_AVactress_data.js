@@ -4,7 +4,7 @@ window.actressData = {
   "name": "斎藤ミオリ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 13,
+  "works_count": 18,
   "related_dramas": [
     {
       "id": 88940,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-11-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/5b168f3f07c653f5be58f3154053a580.jpg",
@@ -50,7 +50,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-12-27",
       "cover_url": "",
@@ -68,21 +68,159 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-805"
     },
     {
-      "id": 82698,
-      "IDcode": "NKKD-148",
-      "title": "終電を逃したそこのラブラブカップルさん！！偶然たまたま方向が同じなので良ければ我々大事な彼女さんとタクっていいですか！5",
+      "id": 520570,
+      "IDcode": "259LUXU-1142",
+      "title": "肉欲そそる魔性ボディが目を惹く美人バイヤー再び！全身が性感帯と化した身体が本能的に巨根を求め、美巨乳、美尻を揺らしながら喘ぎまくる！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2019-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221118-1/e0b1eb6c0108f7ff40e0f24c0145d2ce.jpg",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2019-06-12",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/778e92a0fd7f6d05d4b84f70ae12bf4d.jpg",
+      "actress": [
+        "小田切ジュン",
+        "斎藤ミオリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1142"
+    },
+    {
+      "id": 98816,
+      "IDcode": "RCTD-227",
+      "title": "せっかく女になったのに…不完全な女体化で下半身はふたなり！？4 ふたなり痴漢編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "2019-05-23",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241108-1/055ed8691920d326b3db6d618b83f2a3.jpg",
+      "actress": [
+        "黑川堇",
+        "葵玲奈",
+        "小泉真理",
+        "斎藤ミオリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-227"
+    },
+    {
+      "id": 102917,
+      "IDcode": "CLUB-513",
+      "title": "初めての極太ディルドで体ビクビク足腰ガクガク敏感おま○こトロトロ即イキ羞恥オナニー 制服女子編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "変態紳士倶楽部",
+      "publish_date": "2018-11-01",
+      "cover_url": "",
+      "actress": [
+        "铃木里美",
+        "川菜美铃",
+        "咲々原リン",
+        "本多成実",
+        "真白湖子",
+        "桐岛莉乃",
+        "爱乃零",
+        "心音にこ",
+        "斎藤ミオリ",
+        "竹内纱里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-513"
+    },
+    {
+      "id": 98577,
+      "IDcode": "BAZX-147",
+      "title": "迷奸玩弄内射OL装的职场丝袜精英女职员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桐香悠裡",
+        "迹美珠里",
+        "斎藤ミオリ",
+        "花崎りこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-147"
+    },
+    {
+      "id": 98456,
+      "IDcode": "GDHH-172",
+      "title": "奥さんのノーブラ乳首チラがエロ過ぎ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川崎亜里沙",
+        "斎藤ミオリ",
+        "长谷川まや",
+        "西村春香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-172"
+    },
+    {
+      "id": 98336,
+      "IDcode": "AP-720",
+      "title": "デカ尻家政婦ピタパン引き裂き強制挿入痴漢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/75e27bd5f02ce7e3ff4f8bc0b8bfeb93.jpg",
+      "actress": [
+        "小泉真理",
+        "森萤",
+        "水谷あおい",
+        "斎藤ミオリ",
+        "瀬戸すみれ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-720"
+    },
+    {
+      "id": 82698,
+      "IDcode": "NKKD-148",
+      "title": "終電を逃したそこのラブラブカップルさん！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/3aeaba98c45939bd7ed9f8e590a7d143.jpg",
       "actress": [
         "爱乃零",
         "斎藤ミオリ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-148"
+    },
+    {
+      "id": 78455,
+      "IDcode": "DOCP-043",
+      "title": "「童貞卒業したい！！」としつこくお願いすると渋々受け入れてくれた姉いざ挿入してみると相性抜群だったのかアソコをヒクヒク感じまくり！しかも「感じすぎるから騎乗位はダメ！」というので試してみると更に過敏になって高速騎乗位で連続マジイキ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "斎藤ミオリ",
+        "市桥惠理奈",
+        "さくらはる",
+        "西野悠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-043"
     },
     {
       "id": 77400,
@@ -91,10 +229,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2019-09-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/64cf2f811b89ba791f66a77e7064ec10.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ea05aaa2f591adc4e2360a10ac9d8887.jpg",
       "actress": [
         "佐倉陽菜",
         "麻里梨夏",
@@ -104,69 +242,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-264"
     },
     {
-      "id": 74725,
-      "IDcode": "LUXU-1142",
-      "title": "ラグジュTV 1115 肉欲そそる魔性ボディが目を惹く美人バイヤー再び！全身が性感帯と化した身体が本能的に巨根を求め、美巨乳、美尻を揺らしながら喘ぎまくる！",
+      "id": 73580,
+      "IDcode": "JUY-355",
+      "title": "被公公深喉到沉溺的人妻安西光",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2019-06-12",
-      "cover_url": "",
-      "actress": [
-        "小田切ジュン",
-        "斎藤ミオリ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1142"
-    },
-    {
-      "id": 70305,
-      "IDcode": "IENF-002",
-      "title": "ナマイキなヤンキー娘にイタズラされていたら生ハメを求められて、もう発射しそうなのにカニばさみでロックされて逃げられずそのまま中出し！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2019-05-09",
-      "cover_url": "",
-      "actress": [
-        "櫻木梨乃",
-        "富井美帆",
-        "MIRANO",
-        "斎藤ミオリ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-002"
-    },
-    {
-      "id": 71498,
-      "IDcode": "IENE-980",
-      "title": "義姉3人とハメっぱなしハーレム中出し大乱交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-03-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7a316db9e95bd735e3290cce1bbc8943.jpg",
       "actress": [
-        "早乙女らぶ",
-        "后藤由乃",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-980"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-355"
     },
     {
       "id": 73350,
       "IDcode": "SDMU-889",
-      "title": "ASMR淫語病棟24時",
+      "title": "淫语ASMR病栋24小时",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-10-11",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "波多野结衣",
@@ -179,16 +279,69 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-889"
     },
     {
+      "id": 71621,
+      "IDcode": "DVDMS-264",
+      "title": "ザ・マジックミラー 顔出し！美人奥様限定 子持ち人妻の膣奥にデカチ○ポぐりぐりピストン！！旦那の短小チ○ポでは届かなかった子宮を未経験の巨根でこねくり回されご無沙汰マ○コは連続絶頂！合計103回in池袋",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a205a90b3e25b03d0e0f8bbde9ba68cf.jpg",
+      "actress": [
+        "斎藤ミオリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-264"
+    },
+    {
+      "id": 71498,
+      "IDcode": "IENE-980",
+      "title": "義姉3人とハメっぱなしハーレム中出し大乱交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/bf12138696cf184cac253aa8815e0f2c.jpg",
+      "actress": [
+        "早乙女らぶ",
+        "后藤由乃",
+        "斎藤ミオリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-980"
+    },
+    {
+      "id": 70305,
+      "IDcode": "IENF-002",
+      "title": "被女流氓劫持",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250218-1/8e1a58c247b7845c42f1a04e9ee76030.jpg",
+      "actress": [
+        "櫻木梨乃",
+        "富井美帆",
+        "MIRANO",
+        "斎藤ミオリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-002"
+    },
+    {
       "id": 70258,
       "IDcode": "SDMU-888",
       "title": "素人娘は射精（だ）しても射精（だ）しても止めてあげない！ 知人男性のチ○ポを素手・お口で連続ザーメン発射！恋人以外の男女限定20名 恥ずかしいけどもっと射精（だ）して！Hな手コキ・フェラでたっぷり4時間SP",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-10-11",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/619741cdedac49fde287ad52ada40a2b.jpg",
       "actress": [
         "杉咲しずか",
         "百瀬凛花",
@@ -204,76 +357,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-888"
     },
     {
-      "id": 98577,
-      "IDcode": "BAZX-147",
-      "title": "働く新卒社会人と性交。VOL.007",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BAZOOKA",
-      "publish_date": "2018-08-10",
-      "cover_url": "",
-      "actress": [
-        "桐香悠裡",
-        "迹美珠里",
-        "斎藤ミオリ",
-        "花崎りこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-147"
-    },
-    {
       "id": 69615,
-      "IDcode": "SW-569",
-      "title": "ガリ勉学生の僕の目の前に突然ミニスカパンチラが！イタズラ好きなお姉さん達は僕の性欲を見抜いて勃起チ○ポをじっくり楽しんちゃうのです",
+      "IDcode": "SW-0569",
+      "title": "少年在路上看到小姐姐们露出内裤会勃起吗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2018-07-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5bd18c0370e83f60fff466dc1fed105a.jpg",
       "actress": [
         "君野步美",
         "爱乃零",
         "斎藤ミオリ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-569"
-    },
-    {
-      "id": 71621,
-      "IDcode": "DVDMS-264",
-      "title": "ザ・マジックミラー 顔出し！美人奥様限定 子持ち人妻の膣奥にデカチ○ポぐりぐりピストン！！旦那の短小チ○ポでは届かなかった子宮を未経験の巨根でこねくり回されご無沙汰マ○コは連続絶頂！合計103回in池袋",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/663820d3187c60e7624bc15656c8b9d3.jpg",
-      "actress": [
-        "斎藤ミオリ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-264"
-    },
-    {
-      "id": 78455,
-      "IDcode": "DOCP-043",
-      "title": "「童貞卒業したい！！」としつこくお願いすると渋々受け入れてくれた姉いざ挿入してみると相性抜群だったのかアソコをヒクヒク感じまくり！しかも「感じすぎるから騎乗位はダメ！」というので試してみると更に過敏になって高速騎乗位で連続マジイキ！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-05-04",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241122-1/b63ffc4b279d0de9eaf929727e6a098f.jpg",
-      "actress": [
-        "斎藤ミオリ",
-        "市桥惠理奈",
-        "さくらはる",
-        "西野悠"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0569"
     }
   ]
 };

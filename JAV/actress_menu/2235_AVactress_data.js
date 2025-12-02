@@ -35,13 +35,13 @@ window.actressData = {
     {
       "id": 16765,
       "IDcode": "EBWH-062",
-      "title": "新人報道！可愛到爆紅的相浦光是當地一家中餐館工作的迷人海報女郎（G罩杯），在沒有告訴經理的情況下意外出道AV出道 首次亮相 AV DEBUT",
+      "title": "巨乳可愛看板娘-相浦ひかる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2024-01-23",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113092436221221.jpg",
       "actress": [
         "相浦光",

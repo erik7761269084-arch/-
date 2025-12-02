@@ -34,15 +34,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 4947,
-      "IDcode": "CAWD-850",
-      "title": "IQ140 23歲科學系小姐姐，自製媚藥親自試驗爽翻天 ~ 涼音留衣",
+      "id": 5716,
+      "IDcode": "CAWD-840",
+      "title": "完美主义的研究生忘掉所有只凭本能的SEX-凉音留衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-06-27",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529080035174174_thumbnail.webp",
+      "actress": [
+        "涼音留衣",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-840"
+    },
+    {
+      "id": 4947,
+      "IDcode": "CAWD-850",
+      "title": "科学系学姐完成的绝密药剂永远无法出现在硕士论文中-涼音るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032410511511_thumbnail.webp",
       "actress": [
         "涼音留衣",
@@ -50,23 +67,6 @@ window.actressData = {
         "じゅうもんじ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-850"
-    },
-    {
-      "id": 5716,
-      "IDcode": "CAWD-840",
-      "title": "新人出道！IQ140 科學系學霸姐姐 23歲現役名校理工大學生 完美主義研究生拋開一切瘋狂本能性愛高潮不斷的日子 AV DEBUT ~ 涼音留衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529080035174174_thumbnail.webp",
-      "actress": [
-        "涼音留衣",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-840"
     }
   ]
 };

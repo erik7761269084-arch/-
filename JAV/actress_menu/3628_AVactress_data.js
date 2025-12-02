@@ -26,23 +26,39 @@ window.actressData = {
     "Mio"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 66759,
-      "IDcode": "GANA-2244",
-      "title": "マジ軟派、初撮。 1450 商店街でナンパした筋肉フェチのお洒落ガール♪警戒心むき出しだった彼女が男の筋肉を見た途端テンションブチ上げ♪屈強なカラダに激しく抱かれて蕩け顔♪",
+      "id": 230060,
+      "IDcode": "200GANA-2244",
+      "title": "在商业街搭讪喜欢肌肉男的美女大学生正好派一个猛男把她干上天",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-02-20",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "まりあ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2244"
+    },
+    {
+      "id": 153933,
+      "IDcode": "558-MIO-02",
+      "title": "想要做爱的我签名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250407-1/680bd8f7ed7d013ab2486f2b1d7fdb8c.jpg",
+      "actress": [
+        "まりあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=558-MIO-02"
     }
   ]
 };

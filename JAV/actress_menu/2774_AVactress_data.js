@@ -30,39 +30,39 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 5823,
-      "IDcode": "SCPX-528",
-      "title": "想當內衣模特的媽媽給兒子們的致命誘惑，忍不住直接中出 ~ 澤乃明日香 城咲京花 上田紗奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SCOOP",
-      "publish_date": "2025-05-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524010929350350_thumbnail.webp",
-      "actress": [
-        "上田紗奈",
-        "澤乃明日香",
-        "城咲京花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-528"
-    },
-    {
       "id": 70445,
       "IDcode": "LUCY-009",
       "title": "母の愛と家庭の事情",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "LUCY’S",
-      "publish_date": "2025-03-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8e4d77f3b7c929073b733/cover.jpg",
       "actress": [
         "瀬那瑠美奈",
         "城咲京花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUCY-009"
+    },
+    {
+      "id": 5823,
+      "IDcode": "SCPX-528",
+      "title": "下着モデルの母の溢れ出る色気に我慢できず中出しSEXに没頭した息子たち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c79db98bc99dfdde6ce5e/cover.jpg",
+      "actress": [
+        "上田紗奈",
+        "澤乃明日香",
+        "城咲京花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-528"
     }
   ]
 };

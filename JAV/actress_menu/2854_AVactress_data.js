@@ -54,20 +54,23 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 2028,
-      "IDcode": "CWPBD-88",
-      "title": "T台毒藥88 美麗少婦的本州盛宴：相咲麗拉",
+      "id": 98458,
+      "IDcode": "DOMD-007",
+      "title": "「実は私、脅迫されてて…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/cc825528-59c8-4752-93ad-b5a99caf7323.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "原千尋"
+        "原千尋",
+        "江波りゅう（RYU)",
+        "香澄果穗",
+        "本田莉子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-88"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOMD-007"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "@牛娘メイ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 5999,
       "IDcode": "VAIAV-013",
-      "title": "3.1次元 AI肉感寵物奶牛娘 胸部揉揉奶子擠擠",
+      "title": "【3.1次元】AIムチムチペットな牛娘ちゃん おっぱい揉み揉み＆おち●ぽミルクしこしこ @メイちゃん @牛娘メイ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BOTAN",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519214810265265_thumbnail.webp",
+      "type": "",
+      "company": "NOSKINS",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "@牛娘メイ"
       ],

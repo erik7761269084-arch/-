@@ -52,73 +52,31 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250927/2fc5cef8-ee6b-4755-af58-3d03012a2175_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250927/28779940-3e59-4b45-848b-d6b7eca42762_l.webp"
   ],
-  "works_count": 8,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 90656,
-      "IDcode": "NNNC-028",
-      "title": "正真正銘本物中出し3生中出しSEX ベロ出しアへ顔！？制服コスプレ淫乱ギャル「乳首敏感なの～！」 渚ひまわり",
+      "id": 2405,
+      "IDcode": "YSAD-055",
+      "title": "鬼畜繼父的大雞巴讓我無法自拔 4小時 總集編 ~ 皆月光 笹原麗 高梨ことり 高瀬りな 白橋裏帆 鈴音杏夏 泉莉音 渚向日葵 雪乃繪留",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-11-12",
-      "cover_url": "",
+      "type": "",
+      "company": "光夜蝶 (Komyo)",
+      "publish_date": "2025-09-26",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250926/20250926231740186186_28398_thumbnail.webp",
       "actress": [
+        "皆月光",
+        "泉莉音",
+        "高瀬りな",
+        "白橋里帆",
+        "鈴音杏夏",
+        "笹原麗",
+        "雪乃繪留",
+        "高梨ことり",
         "渚向日葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNNC-028"
-    },
-    {
-      "id": 88846,
-      "IDcode": "TENN-011",
-      "title": "【FANZA限定】実は偏差値65びちギャル家庭教師のエロキスから始まる童貞剥奪物語 渚ひまわり パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-09-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/18f89bae30951a68d4d41043d637e14b.jpg",
-      "actress": [
-        "渚向日葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-011"
-    },
-    {
-      "id": 90717,
-      "IDcode": "AMBI-168",
-      "title": "家出少女とオジサンの小さな恋の物語 渚ひまわり パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-05-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240207-1/c1ca8c89c52496712fb5a643846f6675.jpg",
-      "actress": [
-        "渚向日葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-168"
-    },
-    {
-      "id": 84797,
-      "IDcode": "HUNTB-276",
-      "title": "『嫌だって言ってるくせにイキそうなの？うけるwww』『簡単にはイカせないよ！』ヤリマンギャルばっかりの商業○校に入学してしまったボクは…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-05-24",
-      "cover_url": "",
-      "actress": [
-        "渚向日葵",
-        "朝阳えま",
-        "椎木くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-276"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-055"
     },
     {
       "id": 80218,
@@ -127,10 +85,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-02-08",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/afc2e44dd37092e029e6bf3abc6928f7.jpg",
       "actress": [
         "有栖露露",
         "渚向日葵"
@@ -138,20 +96,38 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-200"
     },
     {
-      "id": 69859,
-      "IDcode": "YST-219",
-      "title": "大好きな母と結婚した義父は鬼畜な人でした。 渚ひまわり",
+      "id": 98823,
+      "IDcode": "SVDVD-774",
+      "title": "セレブ母に連れられて高級エステに来た処女優等生 美人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-05-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250324-1/d6bd09134a3c6be4e5f777926b2d1d0c.jpg",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "2020-02-06",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906845371eb543bb0dfe9bb/poster2.jpg",
+      "actress": [
+        "河奈亜依",
+        "香苗レノン",
+        "渚向日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-774"
+    },
+    {
+      "id": 99853,
+      "IDcode": "APKH-118",
+      "title": "「イってる！イってるって！」 変態度急上昇中！敏感イキまくり制服美少女ハメ撮り 渚ひまわり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-09-25",
+      "cover_url": "",
       "actress": [
         "渚向日葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-118"
     },
     {
       "id": 75371,
@@ -160,10 +136,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/fad2af8994d64ebb25b09d5fd9baf93f.jpg",
       "actress": [
         "渚向日葵"
       ],
@@ -176,14 +152,96 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Hiyoko",
       "publish_date": "2018-10-25",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20240502-23/8e123d680ea8342a39edbdf8eec02691.jpg",
       "actress": [
         "渚向日葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-010"
+    },
+    {
+      "id": 90717,
+      "IDcode": "AMBI-168",
+      "title": "离家出走的少女-渚日葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "渚向日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-168"
+    },
+    {
+      "id": 90656,
+      "IDcode": "NNNC-028",
+      "title": "正真正銘本物中出し3生中出しSEX ベロ出しアへ顔！？制服コスプレ淫乱ギャル「乳首敏感なの～！」 渚ひまわり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/7adf0f9a44bb3cbffddd05a66df15488.jpg",
+      "actress": [
+        "渚向日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNNC-028"
+    },
+    {
+      "id": 88846,
+      "IDcode": "TENN-011",
+      "title": "【FANZA限定】実は偏差値65びちギャル家庭教師のエロキスから始まる童貞剥奪物語 渚ひまわり パンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240612-1/8a2d7aa59fb989d83dce81d8e01495e5.jpg",
+      "actress": [
+        "渚向日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-011"
+    },
+    {
+      "id": 84797,
+      "IDcode": "HUNTB-276",
+      "title": "我不会让你这么容易就射出来的",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "渚向日葵",
+        "朝阳えま",
+        "椎木くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-276"
+    },
+    {
+      "id": 69859,
+      "IDcode": "YST-219",
+      "title": "大好きな母と結婚した義父は鬼畜な人でした。 渚ひまわり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d6adf7a4f989daf1b43f6bc35db4042b.jpg",
+      "actress": [
+        "渚向日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-219"
     }
   ]
 };

@@ -38,8 +38,28 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/df40c4ee-872f-43bf-bc86-4df41fc08af6_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/6e2fe45c-dfca-4a69-98f2-1991f9b9ad4b_l.webp"
   ],
-  "works_count": 9,
+  "works_count": 12,
   "related_dramas": [
+    {
+      "id": 5067,
+      "IDcode": "KTRA-725",
+      "title": "巨乳女神中出特輯2 超長4小時 ~ 真白湖子 橫宮七海 逢咲由愛 雙葉良香 安部藍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623090730728728_thumbnail.webp",
+      "actress": [
+        "横宮七海",
+        "安部藍",
+        "逢咲由愛",
+        "真白湖子",
+        "双葉良香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-725"
+    },
     {
       "id": 88938,
       "IDcode": "UMSO-522",
@@ -47,7 +67,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-10-24",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/70a96271803c4e91a5ae7b8969586564.jpg",
@@ -71,8 +91,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
+      "type": "",
+      "company": "光夜蝶 (Komyo)",
       "publish_date": "2020-02-29",
       "cover_url": "",
       "actress": [
@@ -94,8 +114,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-25",
       "cover_url": "",
       "actress": [
@@ -112,34 +132,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-058"
     },
     {
-      "id": 75686,
-      "IDcode": "INCT-042",
-      "title": "男達の性玩具 黒髪美少女はオナペット 総集編5人 2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-13",
-      "cover_url": "",
-      "actress": [
-        "安部未華子",
-        "真白湖子",
-        "浅田结梨",
-        "皆野あい",
-        "青井いちご"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INCT-042"
-    },
-    {
       "id": 83638,
       "IDcode": "JKSR-427",
       "title": "温泉旅館で爆乳妻を夜●いしてみた。 8人4時間 1泊2日の旅行で朝から晩までハメられた人妻たち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BROLLE",
+      "type": "",
+      "company": "Big Morkal",
       "publish_date": "2019-12-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/a9eaf41809e8c77e41d25f798478a6df.jpg",
       "actress": [
@@ -155,21 +155,48 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-427"
     },
     {
-      "id": 69121,
-      "IDcode": "XRW-628",
-      "title": "地味なメガネっ子のクセにビンビン感じちゃう爆乳を持余すドスケベ女の懇願調教！ ここ 真白ここ",
+      "id": 102917,
+      "IDcode": "CLUB-513",
+      "title": "初めての極太ディルドで体ビクビク足腰ガクガク敏感おま○こトロトロ即イキ羞恥オナニー 制服女子編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-01-11",
+      "type": "",
+      "company": "変態紳士倶楽部",
+      "publish_date": "2018-11-01",
       "cover_url": "",
       "actress": [
+        "铃木里美",
+        "川菜美铃",
+        "咲々原リン",
+        "本多成実",
         "真白湖子",
-        "望月"
+        "桐岛莉乃",
+        "爱乃零",
+        "心音にこ",
+        "斎藤ミオリ",
+        "竹内纱里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-628"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-513"
+    },
+    {
+      "id": 96408,
+      "IDcode": "NNPJ-281",
+      "title": "男女朋友密室拍色情写真发情后一起干炮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "麻里梨夏",
+        "真白湖子",
+        "七瀬あいり",
+        "白石みくり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-281"
     },
     {
       "id": 88461,
@@ -178,15 +205,53 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2018-11-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231010-1/316095edca2e373a1542fb6f05191873.jpg",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/e25d0bdc8abd891476ae7ef644cdcb31.jpg",
       "actress": [
         "真白湖子",
         "新垣ことり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-105"
+    },
+    {
+      "id": 75686,
+      "IDcode": "INCT-042",
+      "title": "男達の性玩具 黒髪美少女はオナペット 総集編5人 2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/c9b383bdc9f35c578f557207ff0bf77a.jpg",
+      "actress": [
+        "安部未華子",
+        "真白湖子",
+        "浅田结梨",
+        "皆野あい",
+        "青井いちご"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INCT-042"
+    },
+    {
+      "id": 72430,
+      "IDcode": "AFS-034",
+      "title": "搭讪人妻到自己内射×PRESTIGEPREMIUM四名慾求不满人妻・新宿区15在丈夫不在的家里夫妻的圣域被玷污240う分钟",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/98db2c4d409fa12206dc67bb9c99d391.jpg",
+      "actress": [
+        "真白湖子",
+        "山本铃",
+        "竹内麻耶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-034"
     },
     {
       "id": 71200,
@@ -195,10 +260,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-08-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d13a857fdcf10dd73fe0baebff1ae40f.jpg",
       "actress": [
         "三原穗香",
         "霧島さくら",
@@ -210,22 +275,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-475"
     },
     {
-      "id": 72430,
-      "IDcode": "AFS-034",
-      "title": "人妻ナンパ自宅中出し×PRESTIGE PREMIUM 欲求不満な人妻4名in港区・新宿区 15 旦那のいない自宅で、夫婦の聖域を汚しまくる超特濃240分！！",
+      "id": 69121,
+      "IDcode": "XRW-628",
+      "title": "地味なメガネっ子のクセにビンビン感じちゃう爆乳を持余すドスケベ女の懇願調教！ ここ 真白ここ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/a270867e0ded4711df09d1fbaafadc51.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/65b2d85d6fd0458936e43dd8ff9d2b92.jpg",
       "actress": [
         "真白湖子",
-        "山本铃",
-        "竹内麻耶"
+        "望月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AFS-034"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-628"
     }
   ]
 };

@@ -35,19 +35,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240512/2eb7fd5b-aafe-46d2-88c4-2158de48a431.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 107137,
       "IDcode": "FERA-176",
-      "title": "セックスの練習台になってくれた母 母親とのセックスが良すぎるせいで彼女と別れた僕は夢中で何度も中出ししまくった 永野愛華",
+      "title": "成为我SEX练习台的母亲-永夜爱华",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-08-10",
-      "cover_url": "https://tutu1.space/images/2023/09/20/510ccec8037f1311113f848d466342fe.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/27/683585d0d6dba345751168db/cover.jpg",
       "actress": [
         "永野愛華"
       ],
@@ -56,13 +56,13 @@ window.actressData = {
     {
       "id": 89018,
       "IDcode": "VENX-224",
-      "title": "無防備なエロで無意識にボクを挑発するメスの匂いに無自覚な美しい叔母さん 山岸いずみ （ブルーレイディスク） （BOD）",
+      "title": "毫无自觉的美丽叔母-山岸泉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2023-08-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "永野愛華"
@@ -72,18 +72,35 @@ window.actressData = {
     {
       "id": 87725,
       "IDcode": "NSFS-205",
-      "title": "新・償い10 夫を許してもらうために妻は被害者の元へ‥ 永野愛華 （ブルーレイディスク） （BOD）",
+      "title": "被害者身边的妻子-永夜爱华",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2023-07-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230816-1/5bfd637e13a6dacbbb974db1fc8382ee.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "永野愛華"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-205"
+    },
+    {
+      "id": 11167,
+      "IDcode": "VENX-290",
+      "title": "从小便的声音开始-山岸泉水",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241019/804a9f97-adb7-43cd-bbc7-81a19f53b936.jpg",
+      "actress": [
+        "永野愛華",
+        "ひょこり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-290"
     }
   ]
 };

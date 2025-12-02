@@ -40,56 +40,72 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250515/725ac66a-25a2-45b8-b511-460abf5b167c_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250515/941f23c2-1583-4b8f-bdb8-3d554ef1b0c8_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 3592,
-      "IDcode": "MIDA-289",
-      "title": "生意氣傲嬌鹽對應 地雷妹被媚藥調教狂叫串刺侵犯 ~ 夕月悠琉",
+      "id": 6134,
+      "IDcode": "MIDA-171",
+      "title": "CUTIE MOON 新人 Gカップ現役女子大生 専属 夕月ゆる AV Debut！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030606264264_59418_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515040003840840_thumbnail.webp",
       "actress": [
         "夕月悠琉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-289"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-171"
+    },
+    {
+      "id": 5340,
+      "IDcode": "MIDA-205",
+      "title": "从龟头到屁眼都全力口交舔舐浓厚精液10发颜射-夕月ゆる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae01cf682e2e9281a5475e/cover.jpg",
+      "actress": [
+        "夕月悠琉",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-205"
     },
     {
       "id": 4523,
       "IDcode": "MIDA-245",
-      "title": "偷看內褲就硬了？緊貼小褲褲挑逗老師心癢癢，耳邊淫語手活讓你硬到不行，快來讓我爽個夠 ~ 夕月悠琉",
+      "title": "「パンツ見て勃ってるのぉ？」食い込みパンチラで先生達をムラムラ誘惑ッ 耳元囁き手コキでおチ○ポビンビンにするからそのまま私を…気持ち良くさ・せ・てッ 夕月ゆる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032725209209_76714_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c1ae4c92318f97d35b797/cover.jpg",
       "actress": [
         "夕月悠琉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-245"
     },
     {
-      "id": 5340,
-      "IDcode": "MIDA-205",
-      "title": "從龜頭到屁眼被舔得嗷嗷叫，猛烈口爆後瘋狂顏射10發 ~ 夕月悠琉",
+      "id": 3592,
+      "IDcode": "MIDA-289",
+      "title": "女孩被媚药侵染的理解声声入耳的凌辱-夕月ゆる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061105594594_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030606264264_59418_thumbnail.webp",
       "actress": [
-        "夕月悠琉",
-        "ナイアガラ翔"
+        "夕月悠琉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-289"
     }
   ]
 };

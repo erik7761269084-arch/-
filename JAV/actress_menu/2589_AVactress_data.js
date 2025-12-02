@@ -49,23 +49,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230426/6ca86d4d-1359-4f2e-bb96-8f2ea3536c4d.jpg",
     "https://picture.yoshiclub.xyz/20230426/9d1372c7-ef9b-4e48-bb84-c4fd337823c3.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 1541,
-      "IDcode": "HEYZO-2925",
-      "title": "對疑惑的素人妹子突然襲擊插入！Vol.2 大澤瑪麗亞",
+      "id": 159267,
+      "IDcode": "CARIB-051923-001",
+      "title": "x BOGA ～が僕のプレイを褒め称えてくれる～",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "HEYZO",
-      "publish_date": "2022-11-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230410/20230410035327652652.",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/YASXdKEM/1.jpg",
       "actress": [
         "香椎美鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-051923-001"
+    },
+    {
+      "id": 159190,
+      "IDcode": "CARIB-080823-001",
+      "title": "挿れたままデート ～膣に詰め込みたい特殊癖～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/3LXc7bWg/1.jpg",
+      "actress": [
+        "香椎美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-080823-001"
+    },
+    {
+      "id": 158197,
+      "IDcode": "1PONDO-060123_001",
+      "title": "Erotic Cowgirl",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250218/zpJLPhVP/1.jpg",
+      "actress": [
+        "香椎美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-060123_001"
+    },
+    {
+      "id": 59061,
+      "IDcode": "030524_001",
+      "title": "騎乗位タイムトライアル！朝比奈菜々子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683ace440b69f1d81635c2f0/cover.jpg",
+      "actress": [
+        "香椎美鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=030524_001"
     }
   ]
 };

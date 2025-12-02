@@ -60,8 +60,58 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250219/4d546397-6a82-4a2e-836d-a6b4f474192b.jpg",
     "https://picture.yoshiclub.xyz/20250219/67632a9c-601a-4234-82f9-1be767f39cf9.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
+    {
+      "id": 8149,
+      "IDcode": "KIBD-327",
+      "title": "忘掉劇本，忘掉監督，完全投入本能的舌吻！體液交換會欲望MAX！67發超暴交尾 大合集 ~ 逢見梨花 浜崎真緒 乙愛麗絲 北野未奈 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-02-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "森日向子",
+        "新村朱里",
+        "北野未奈",
+        "浜崎真緒",
+        "姫咲華",
+        "新井里真",
+        "東條夏",
+        "齋藤亞美里",
+        "宝田萌奈美",
+        "沙月芽衣",
+        "加藤桃香",
+        "水川蓳",
+        "推川悠里",
+        "逢見梨花",
+        "七草千歲",
+        "夏希栗",
+        "藤井蘭々",
+        "永井瑪麗亞",
+        "小栗操",
+        "神坂朋子",
+        "永野司",
+        "枢木葵",
+        "浅田結梨",
+        "皇柚子",
+        "三尾惠",
+        "河南実里",
+        "渋谷華",
+        "吉岡日和",
+        "南条一香",
+        "貓宮美結",
+        "一色さゆり",
+        "花園茉莉花",
+        "加藤蘿絲",
+        "ERINA"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-327"
+    },
     {
       "id": 81615,
       "IDcode": "HUNTA-753",
@@ -69,10 +119,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-07",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20241022/5jV3vmFz/1.jpg",
       "actress": [
         "河北春菜",
         "貓宮美結",
@@ -81,32 +131,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-753"
     },
     {
-      "id": 76195,
-      "IDcode": "GDHH-185",
-      "title": "エアセックス中にヌルっとズボっと生挿入！？同級生とエッチの練習がまさかの生本番に！！年上の彼氏をゲットして舞い上がっている同級生は初の…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/152fbfc0f120e82ac9afb2cd8b534f68.jpg",
-      "actress": [
-        "貓宮美結",
-        "浅田结梨",
-        "前田いろは",
-        "东山想叶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-185"
-    },
-    {
       "id": 81981,
       "IDcode": "SDMM-052",
       "title": "出産後の巨尻化にお悩みの奥様限定！マジックミラー号でエクササイズしてみませんか？イケメンムキムキトレーナーと旦那の前でガニ股イキまくりSEX！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-02-06",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/1936e26d3ab57f162563c58561579061.jpg",
@@ -123,9 +154,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-01-23",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/067831c2b576c2ab5d66038b8d42fa27.jpg",
       "actress": [
         "富田优衣",
@@ -135,6 +166,25 @@ window.actressData = {
         "宇佐木あいか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-050"
+    },
+    {
+      "id": 76195,
+      "IDcode": "GDHH-185",
+      "title": "エアセックス中にヌルっとズボっと生挿入！？同級生とエッチの練習がまさかの生本番に！！年上の彼氏をゲットして舞い上がっている同級生は初の…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/c25406c3723998e3c1fb971f85004888.jpg",
+      "actress": [
+        "貓宮美結",
+        "浅田结梨",
+        "前田いろは",
+        "东山想叶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-185"
     }
   ]
 };

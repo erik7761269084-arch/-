@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ハル",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 101117,
+      "IDcode": "SIRO-5191",
+      "title": "纤细蜜桃臀JD反应灵敏的纤细大学生她说当镜头靠近她时她感到很尴尬但她感觉自己的乳头也就是她的弱点受到了攻击忘掉找工作的压力尽情享受吧初拍AV线上申请AV体验拍摄2084",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ハル"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5191"
+    },
     {
       "id": 76185,
       "IDcode": "GUN-683",
@@ -25,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "RADIX",
-      "publish_date": "2019-12-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/09ab74a6c3ae6edb9ddcc2a291c6c29a.jpg",
       "actress": [
         "ちあき",
         "ハル",

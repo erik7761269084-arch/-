@@ -4,7 +4,7 @@ window.actressData = {
   "name": "高井露娜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-03-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230909-1/9b3b7724ae5c39991c34888838702297.jpg",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a3b0c0ea643764b00984c3f46ed02ef5.jpg",
       "actress": [
         "高井露娜"
       ],

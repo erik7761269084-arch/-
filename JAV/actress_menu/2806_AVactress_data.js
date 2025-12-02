@@ -43,13 +43,13 @@ window.actressData = {
     {
       "id": 4161,
       "IDcode": "MADB-001",
-      "title": "新人AV出道！身高152體重44的極品本物美女教師震撼下海 ~ 尋井海",
+      "title": "新人AV Debut「152センチ、44キロ」「●校教師」本物美人教師衝撃のAVデビュー 尋井うみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723231020736736_95326_thumbnail.webp",
       "actress": [
         "尋井海"

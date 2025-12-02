@@ -25,16 +25,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 78471,
-      "IDcode": "MCSR-369",
-      "title": "寝取られ巨乳妻 11人4時間",
+      "id": 519907,
+      "IDcode": "259LUXU-1484",
+      "title": "豪华电视1457 与多个男人发生性关系的美女工程师来了！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2019-12-28",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "美玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1484"
+    },
+    {
+      "id": 78471,
+      "IDcode": "MCSR-369",
+      "title": "寝取られ巨乳妻11人4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/66b37d810257dbfe70152b5195073edd.jpg",
       "actress": [
         "春菜华",
         "櫻木梨乃",
@@ -46,22 +62,6 @@ window.actressData = {
         "美玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-369"
-    },
-    {
-      "id": 79166,
-      "IDcode": "LUXU-1484",
-      "title": "- ラグジュTV 1457 複数の男性と性的関係を持つ美人エンジニアが登場！激しいピストンに卑猥な笑みを浮かべつつ何度も昇天する様子は必見！ - JAV目錄大全javmenu.com",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "美玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1484"
     }
   ]
 };

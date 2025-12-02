@@ -4,7 +4,7 @@ window.actressData = {
   "name": "壬生あおい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 89137,
       "IDcode": "VEO-074",
-      "title": "本物素人妻AV Debut！！地元を愛し地元客に愛される大衆居酒屋の看板陽キャ妻は男勃て上手 壬生あおい",
+      "title": "真正素人妻AV出道-壬生葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2023-10-24",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "壬生あおい"

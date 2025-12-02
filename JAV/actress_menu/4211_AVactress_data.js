@@ -4,7 +4,7 @@ window.actressData = {
   "name": "新井优香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,55 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 82247,
-      "IDcode": "ATID-411",
-      "title": "私をレ●プした大嫌いな年上の部下にもう一度抱いて欲しいと告白した訳 新井優香",
+      "id": 104798,
+      "IDcode": "PRED-141",
+      "title": "前电台主播新井优香会怀孕的中出解禁大高潮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2020-04-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/7c383a225eec6ce66db81ee9a442473f.jpg",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
+        "玉木玲",
         "新井优香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-411"
-    },
-    {
-      "id": 76363,
-      "IDcode": "ADN-231",
-      "title": "あなた、許して…。 夫の旧友に犯された私3 新井優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2019-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/1f291a74bc1313c12f4a836835addc29.jpg",
-      "actress": [
-        "新井优香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-231"
-    },
-    {
-      "id": 71877,
-      "IDcode": "ATID-380",
-      "title": "姦禁秘書 狂気の昏睡レイプ 新井優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2019-11-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/e5b11cf977bee45a37b8b937f158cc85.jpg",
-      "actress": [
-        "新井优香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-380"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-141"
     },
     {
       "id": 82883,
@@ -73,14 +42,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2019-07-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "新井优香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-163"
+    },
+    {
+      "id": 82247,
+      "IDcode": "ATID-411",
+      "title": "黑丝美女部长-新井優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "新井优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-411"
     },
     {
       "id": 77035,
@@ -89,10 +74,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2019-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241202-1/21500aac0585e0c73dc254e03e4d3e8d.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ad8b501c696bca2301bbb8f2b928c74b.jpg",
       "actress": [
         "田渊正浩",
         "新井优香"
@@ -102,19 +87,68 @@ window.actressData = {
     {
       "id": 76818,
       "IDcode": "PRED-097",
-      "title": "元地方局アナウンサー濃密ご奉仕パコパコ4本番 新井優香",
+      "title": "原电视台广播员-新井優香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2018-09-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241202-1/91bc99eefcbd8e7c1eadec2c2c33ef0d.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "鲛岛",
         "新井优香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-097"
+    },
+    {
+      "id": 76363,
+      "IDcode": "ADN-231",
+      "title": "被丈夫老友侵犯内射的人妻逐渐沉迷于这种快感",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/4aa402f0d1946a09fcdd2e2b79b7b255.jpg",
+      "actress": [
+        "新井优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-231"
+    },
+    {
+      "id": 72096,
+      "IDcode": "ATID-371",
+      "title": "声を出せない私14婚約者の裏の顔新井優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6bdbe2ab8ce67a0d4ec630064c0a3772.jpg",
+      "actress": [
+        "平井シンジ",
+        "新井优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-371"
+    },
+    {
+      "id": 71877,
+      "IDcode": "ATID-380",
+      "title": "被迷奸内射调教的黑丝新人秘书新井优香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1dac0b23ee6ab553bc32e61bfc14191e.jpg",
+      "actress": [
+        "新井优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-380"
     }
   ]
 };

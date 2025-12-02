@@ -4,7 +4,7 @@ window.actressData = {
   "name": "高槻れい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,37 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 11,
+  "works_count": 12,
   "related_dramas": [
-    {
-      "id": 4864,
-      "IDcode": "KSBJ-386",
-      "title": "精選！身材纖細卻擁有巨乳的美熟女TOP14 ~ 真木今日子 君島美緒 朝桐光 篠田步美 小早川憐子 谷梓 吹石玲奈 北條麻妃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224753113113_thumbnail.webp",
-      "actress": [
-        "真木今日子",
-        "小早川怜子",
-        "北条麻妃",
-        "吹石玲奈",
-        "君島美緒",
-        "朝桐光",
-        "篠田步美",
-        "谷梓",
-        "安倍亜沙美",
-        "君岛美绪",
-        "瀬崎彩音",
-        "芦名ユリア",
-        "白川千织",
-        "高槻れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
-    },
     {
       "id": 88895,
       "IDcode": "UMD-878",
@@ -54,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-07-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/3c25e8512ca492d2d0f6b5c6eef56105.jpg",
@@ -74,8 +45,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-19",
       "cover_url": "",
       "actress": [
@@ -90,8 +61,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-28",
       "cover_url": "",
       "actress": [
@@ -103,16 +74,48 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-063"
     },
     {
+      "id": 78787,
+      "IDcode": "VDD-156",
+      "title": "スチュワーデスin...（脅迫スイートルーム） 高槻れい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "2019-12-27",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/03f35319a197e2904da6a16c7cc8a88f.jpg",
+      "actress": [
+        "高槻れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-156"
+    },
+    {
+      "id": 520569,
+      "IDcode": "259LUXU-1148",
+      "title": "キスだけで目を润ませ快感に溺れていくスレンダー美女。舌を络ませながら小刻みに动かす腰遣いで男を魅了しながら喘ぐ姿は必见！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2019-07-15",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b2cd2363637913267b27b56a73ea0652.jpg",
+      "actress": [
+        "高槻れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1148"
+    },
+    {
       "id": 86987,
       "IDcode": "VGD-205",
       "title": "からだがかたりたがーる 裸の未亡人 高槻れい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/6494afbd2222177f65162f3f31942f8e.jpg",
       "actress": [
         "高槻れい",
         "梁井一"
@@ -126,9 +129,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-01-17",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "高槻れい"
@@ -138,18 +141,34 @@ window.actressData = {
     {
       "id": 77763,
       "IDcode": "KSBJ-066",
-      "title": "はだかの奥様 高槻れい",
+      "title": "全裸太太 高槻鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2019-12-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b12e0dc604bb10655af6444db6edb6bb.jpg",
       "actress": [
         "高槻れい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-066"
+    },
+    {
+      "id": 77721,
+      "IDcode": "NACR-270",
+      "title": "小叔（画家）诱惑下…志愿成为裸体模特儿的我 高槻铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "高槻れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-270"
     },
     {
       "id": 75527,
@@ -158,10 +177,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2019-12-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241224-1/789fa9b7a4ff71e1d414ac637acfdb78.jpg",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230317-1/c5ee1f65388b48ec56e7c126349ba77f.jpg",
       "actress": [
         "高槻れい",
         "神田リカコ"
@@ -175,10 +194,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/aaee5ec9556f6ab5010b073812769255.jpg",
       "actress": [
         "奏音花音",
         "高槻れい",
@@ -191,36 +210,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-477"
     },
     {
-      "id": 77721,
-      "IDcode": "NACR-270",
-      "title": "義理の弟（画家）を誘惑したくて…ヌードモデルに志願した私 高槻れい",
+      "id": 4864,
+      "IDcode": "KSBJ-386",
+      "title": "厳選！！細身なのに巨乳な美熟女BEST14人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2019-10-01",
-      "cover_url": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224753113113_thumbnail.webp",
       "actress": [
+        "真木今日子",
+        "小早川怜子",
+        "北条麻妃",
+        "吹石玲奈",
+        "君島美緒",
+        "朝桐光",
+        "篠田步美",
+        "谷梓",
+        "安倍亜沙美",
+        "君岛美绪",
+        "瀬崎彩音",
+        "芦名ユリア",
+        "白川千织",
         "高槻れい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-270"
-    },
-    {
-      "id": 74714,
-      "IDcode": "LUXU-1148",
-      "title": "ラグジュTV 1129 キスだけで目を潤ませ快感に溺れていくスレンダー美女。舌を絡ませながら小刻みに動かす腰遣いで男を魅了しながら喘ぐ姿は必見！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2019-07-15",
-      "cover_url": "",
-      "actress": [
-        "高槻れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-386"
     }
   ]
 };

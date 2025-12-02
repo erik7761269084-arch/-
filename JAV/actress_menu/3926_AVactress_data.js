@@ -4,7 +4,7 @@ window.actressData = {
   "name": "麻生えりな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 69629,
       "IDcode": "JUTA-164",
-      "title": "極上！！三十路奥さま初脱ぎAVドキュメント 麻生えりな",
+      "title": "三十岁人妻初脱-麻生惠理菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-04-01",
-      "cover_url": "",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250408-1/a60628f226622fcaeab110e1ad3b762d.jpg",
       "actress": [
         "麻生えりな"
       ],

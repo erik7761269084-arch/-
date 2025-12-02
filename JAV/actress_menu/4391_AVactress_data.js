@@ -4,7 +4,7 @@ window.actressData = {
   "name": "西仓まより",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-13",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221105-1/a5b08e44a6c428004a4b51e8d151e7ee.jpg",
       "actress": [
         "西仓まより"
       ],
@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
       "publish_date": "2020-04-10",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/iwo9noDx/1.jpg",
       "actress": [
         "河北春菜",
         "七海雛",
@@ -58,32 +58,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-616"
     },
     {
-      "id": 83166,
-      "IDcode": "PIYO-065",
-      "title": "思春期の性の暴走。黒人を責めまくるひよこビッチ。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Hiyoko",
-      "publish_date": "2020-03-12",
-      "cover_url": "",
-      "actress": [
-        "河奈亜依",
-        "山井すず",
-        "西仓まより"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-065"
-    },
-    {
       "id": 81994,
       "IDcode": "SHM-022",
       "title": "シロウト女子個人撮影ハメ撮り日記 むじゃきなビッチ天然オサせ まよりちゃんBかっぷ 西倉まより",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-22",
       "cover_url": "",
       "actress": [
@@ -98,7 +80,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-07-11",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/15eabc82f849ade5387e0e49d45927d5.jpg",
@@ -106,6 +88,24 @@ window.actressData = {
         "西仓まより"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-098"
+    },
+    {
+      "id": 83166,
+      "IDcode": "PIYO-065",
+      "title": "思春期の性の暴走。黒人を責めまくるひよこビッチ。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Hiyoko",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "河奈亜依",
+        "山井すず",
+        "西仓まより"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-065"
     }
   ]
 };

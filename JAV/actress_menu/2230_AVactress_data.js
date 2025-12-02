@@ -49,8 +49,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250706/280176fd-f87e-4e78-8c0d-df04669d455c_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250706/04deb43b-0a72-40e0-a745-0d2e0b4e4db0_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 4665,
+      "IDcode": "MUCH-192",
+      "title": "巨乳媽媽的豐滿肉感性愛精選2 4小時合集 ~ 福本芽衣 小西美香 鬼塚萌奈美 優木衣織",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706100455119119_44844_thumbnail.webp",
+      "actress": [
+        "鬼塚萌奈美",
+        "優木衣織",
+        "福本芽衣",
+        "小西美香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-192"
+    },
     {
       "id": 88935,
       "IDcode": "UMSO-510",
@@ -58,10 +77,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-07-25",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240830/3Y6hGA9u/1.jpg",
       "actress": [
         "美園和花",
         "吉根柚莉爱",
@@ -75,6 +94,25 @@ window.actressData = {
         "音无かおり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-510"
+    },
+    {
+      "id": 98452,
+      "IDcode": "DOMD-008",
+      "title": "「私なんてポチャだし…」",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "七草千歲",
+        "尾上若叶",
+        "永瀬里美",
+        "小西美香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOMD-008"
     }
   ]
 };

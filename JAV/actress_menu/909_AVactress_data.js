@@ -33,27 +33,41 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240904/b05f8238-1647-4720-88d5-417b8b9a4b31.jpg",
     "https://picture.yoshiclub.xyz/20240904/77232482-5ee7-46a8-9edf-a1f5d193e449.jpg"
   ],
-  "works_count": 4,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 3527,
-      "IDcode": "DVMM-279",
-      "title": "性愛就是高考戰場 ~ 令和8年度全國統一性愛測試 ~ 出演：蘆名穗花 前田美波 中城葵 若月もあ 渡邊まりか",
+      "id": 7432,
+      "IDcode": "HRSM-087",
+      "title": "“早上起來就幹一炮？”素顏也超可愛女友的鬧鍾惡作劇生中出し ~ 渡辺まりか 柏木小夏 鬆井日奈子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025347576576_41787_thumbnail.webp",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2025-03-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250319/0f6f449e-c2b6-4b76-804c-794b07e5238f.jpg",
       "actress": [
-        "前田美波",
-        "蘆名穗花",
-        "中城葵",
-        "若月もあ",
+        "柏木小夏",
+        "松井日奈子",
         "渡辺まりか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-087"
+    },
+    {
+      "id": 12259,
+      "IDcode": "CAWD-734",
+      "title": "新人出道！T系同女的女性身體裏面是個男人嗎？大雞巴插入惡魔 AV 首次亮相，結束了 20 年來模糊的性傾向！ ！ AV DEBUT ~ 渡辺まりか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2024-09-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830001343175175.jpg",
+      "actress": [
+        "渡辺まりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-734"
     },
     {
       "id": 63446,
@@ -62,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO TUBE",
-      "publish_date": "2025-06-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250618-1/b507215fb1e8b13a1699cfb158805faa.jpg",
       "actress": [
         "绀野光",
         "小野寺舞",
@@ -74,15 +88,50 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-122"
     },
     {
-      "id": 5267,
-      "IDcode": "SDJS-320",
-      "title": "五位單身SOD女子社員的聯誼 酒後放縱，在辦公室全裸暴露激烈做愛 匹配王様遊戲42 ~ 渡辺まりか 小鳩琉璃 水乃菜乃華",
+      "id": 6591,
+      "IDcode": "HRSM-093",
+      "title": "意識朦朧生刺し営業研修-精子で汚された新入社員4名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426021842512512_thumbnail.webp",
+      "actress": [
+        "松井日奈子",
+        "花音うらら",
+        "渡辺まりか",
+        "宮瀬夏純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-093"
+    },
+    {
+      "id": 6541,
+      "IDcode": "SAN-343",
+      "title": "恋するAV女優と厳しい社会の現実を知ったマネージャーの物語 渡辺まりか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba6d8d489841641837e3ef/cover.jpg",
+      "actress": [
+        "渡辺まりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-343"
+    },
+    {
+      "id": 5267,
+      "IDcode": "SDJS-320",
+      "title": "恋人がほしい5名がユーザー様と合コン 酒の力に身を任せてオフィス露出セックス SOD女子社員カンパイ！マッチング王様ゲーム42",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-06-17",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617090255462462_thumbnail.webp",
       "actress": [
         "水乃菜乃華",
@@ -97,23 +146,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-320"
     },
     {
-      "id": 6591,
-      "IDcode": "HRSM-093",
-      "title": "意識模糊無套會社新人培訓-四位新人OL被精液玷污 ~ 渡辺まりか 宮瀬夏純 花音うらら 松井日奈子",
+      "id": 3527,
+      "IDcode": "DVMM-279",
+      "title": "性大学入学考试全国统一性共通测试-蘆名ほのか 前田美波",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡漢廠",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426021842512512_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/19/b1f5365e217e11b7597a7359ef62546b.jpg",
       "actress": [
-        "松井日奈子",
-        "花音うらら",
-        "渡辺まりか",
-        "宮瀬夏純"
+        "前田美波",
+        "蘆名穗花",
+        "中城葵",
+        "若月もあ",
+        "渡辺まりか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-093"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-279"
     }
   ]
 };

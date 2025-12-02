@@ -4,7 +4,7 @@ window.actressData = {
   "name": "长泽ルナ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,32 +19,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 63082,
-      "IDcode": "SINN-001",
-      "title": "便女教育！「彼氏とラブラブだった私ですが、おじさんに寝取られてザーメン便器に教育されました」 るな18歳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2017-03-07",
-      "cover_url": "",
-      "actress": [
-        "长泽ルナ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SINN-001"
-    },
-    {
       "id": 70269,
       "IDcode": "SDMU-528",
       "title": "「マジックミラー号 スポーツに打ち込みすぎて女心を忘れたノーパン・ノーブラ女子体育大生激イカセ雪溶け生潮大噴射10人10連発！！彼女たちは痙攣しながら生ち○ぽを欲しがる！！その内6人は挿入まで…」",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-03-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/7aa4c71199fa001ed26a87c6c5e1dfef.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7c508c2c0fe13330442f582e8f98b2a6.jpg",
       "actress": [
         "迹美珠里",
         "长泽ルナ",
@@ -56,6 +40,22 @@ window.actressData = {
         "香纯あいか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-528"
+    },
+    {
+      "id": 63082,
+      "IDcode": "SINN-001",
+      "title": "便女教育！「彼氏とラブラブだった私ですが、おじさんに寝取られてザーメン便器に教育されました」 るな18歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "长泽ルナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SINN-001"
     }
   ]
 };

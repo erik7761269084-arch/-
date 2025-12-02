@@ -4,7 +4,7 @@ window.actressData = {
   "name": "神田リカコ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2019-12-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241224-1/789fa9b7a4ff71e1d414ac637acfdb78.jpg",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230317-1/c5ee1f65388b48ec56e7c126349ba77f.jpg",
       "actress": [
         "高槻れい",
         "神田リカコ"

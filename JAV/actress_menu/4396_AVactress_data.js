@@ -4,7 +4,7 @@ window.actressData = {
   "name": "令和れい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,60 +19,37 @@ window.actressData = {
   "works_count": 7,
   "related_dramas": [
     {
-      "id": 73638,
-      "IDcode": "NSFS-354",
-      "title": "事件に巻き込まれた夫婦 夫のそばで愛する妻がまわされた！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-01-28",
-      "cover_url": "",
-      "actress": [
-        "通野未帆",
-        "绀野光",
-        "佐倉陽菜",
-        "富田优衣",
-        "乃木遥",
-        "管野静香",
-        "梨々花",
-        "令和れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-354"
-    },
-    {
       "id": 86807,
       "IDcode": "BLK-485",
       "title": "＃パパ活募集でやってきたエロそうな爆乳ビッチが完全マグロでビジネスSEXしてきたのでムカついて媚薬チ●ポでキメパコ中出し",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KIRAKIRA",
-      "publish_date": "2021-01-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230213-1/b46e7e7ef06ce283dcacaf4226958ce9.jpg",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/29fddd34d2bea3d0e717ff9064c1b149.jpg",
       "actress": [
         "令和れい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-485"
     },
     {
-      "id": 89509,
-      "IDcode": "LUXU-1275",
-      "title": "ラグジュTV 1255 結婚するうえで男女の体の相性が一番大事と語る、美人婚活コンサルタントがAV出演！美脚を大胆に広げ巨根を受け入れ、柔美巨乳を揺らしながら喘ぎまくる！",
+      "id": 157751,
+      "IDcode": "259LUXU-1275",
+      "title": "ラグジュTV 1255 結婚するうえで男女の体の相性が一番大事と語る、美人婚活コン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
+      "type": "",
+      "company": "蚊香社",
       "publish_date": "2020-05-04",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/7a1aed40408224e04bc3f6707425a677.jpg",
       "actress": [
         "しみけん",
         "令和れい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1275"
     },
     {
       "id": 83638,
@@ -81,8 +58,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BROLLE",
+      "type": "",
+      "company": "Big Morkal",
       "publish_date": "2019-12-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/a9eaf41809e8c77e41d25f798478a6df.jpg",
       "actress": [
@@ -98,30 +75,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-427"
     },
     {
-      "id": 75068,
-      "IDcode": "XVSR-516",
-      "title": "不倫投稿日記 ハメ狂う不倫人妻の日常性活 令和れい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2019-12-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241227-1/d094fc85ffafd28eefef97f43c3eb98f.jpg",
-      "actress": [
-        "令和れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-516"
-    },
-    {
       "id": 83804,
       "IDcode": "REBD-431",
       "title": "Rei 感じる横乳 令和れい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2019-12-05",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/4af0491215a9548eb28d31763a6e0bdf.jpg",
       "actress": [
@@ -132,13 +93,13 @@ window.actressData = {
     {
       "id": 96515,
       "IDcode": "NNPJ-257",
-      "title": "搭訕泳裝巨乳素人泡進潤滑液泳池來乳交！",
+      "title": "巨乳素人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-11-03",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "若槻みづな",
@@ -146,6 +107,45 @@ window.actressData = {
         "令和れい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-257"
+    },
+    {
+      "id": 75068,
+      "IDcode": "XVSR-516",
+      "title": "找学生发泄性欲的不伦人妻为了治疗阳痿的老公在他面前被爆操刺激他勃起",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/84a813b65dbc944d00da8cfaccfb8927.jpg",
+      "actress": [
+        "令和れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-516"
+    },
+    {
+      "id": 73638,
+      "IDcode": "NSFS-354",
+      "title": "事件に巻き込まれた夫婦 夫のそばで愛する妻がまわされた！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250811-1/222bb338751b022573232f36fb5789ab.jpg",
+      "actress": [
+        "通野未帆",
+        "绀野光",
+        "佐倉陽菜",
+        "富田优衣",
+        "乃木遥",
+        "管野静香",
+        "梨々花",
+        "令和れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-354"
     }
   ]
 };

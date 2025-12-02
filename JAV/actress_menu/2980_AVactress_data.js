@@ -4,7 +4,7 @@ window.actressData = {
   "name": "吉村卓",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,42 +16,41 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 17041,
-      "IDcode": "ABF-059",
-      "title": "更多，120% 愛液 流川夕",
+      "id": 17468,
+      "IDcode": "CAWD-587",
+      "title": "我想繼續在這個黑暗陰險的世界裡被人操",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2023-12-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231228/edfdb20c-edf9-4012-a70c-e4c30f699b42.jpg",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2023-12-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20231202/cc548d68-6fd7-4dfa-9e42-e9339d632118.jpg",
       "actress": [
-        "流川夕",
+        "松岡美桜",
         "吉村卓"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-587"
     },
     {
-      "id": 18038,
-      "IDcode": "MIDV-495",
-      "title": "解除禁令：人生第一次中出性愛",
+      "id": 18517,
+      "IDcode": "MIFD-253",
+      "title": "新人! 我想拍AV 我想要做愛 我想改變我只能打乒乓球的人生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231104/e2c89b1a-21fe-46e8-b0e1-987c28fa6e7f.jpg",
+      "publish_date": "2023-10-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20230930/c2cfa9f7-201d-49d3-9807-d80617af9333.jpg",
       "actress": [
-        "小栗美優",
-        "吉村卓",
-        "小田切ジュン"
+        "清水かりん",
+        "吉村卓"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-253"
     },
     {
       "id": 18676,
@@ -60,7 +59,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2021-05-13",
       "cover_url": "https://picture.yoshiclub.xyz/20230918/20230918000448640640.jpg",
@@ -72,15 +71,49 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-651"
     },
     {
-      "id": 19388,
-      "IDcode": "IPX-053",
-      "title": "大量噴精解禁！往超正妹臉上噴射超濃精液！ 明里紬",
+      "id": 18803,
+      "IDcode": "IPX-590",
+      "title": "全都是第一次大絶頂4本番 專屬第2彈 全6段性欲覺醒SPECIAL",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-12-01",
+      "publish_date": "2021-01-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20230906/20230906013205856856.jpg",
+      "actress": [
+        "天使亜夢",
+        "吉村卓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-590"
+    },
+    {
+      "id": 19428,
+      "IDcode": "IPX-004",
+      "title": "奇跡美少女-明里つむぎ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230511/20230511035955510510.jpg",
+      "actress": [
+        "明里紬",
+        "吉村卓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-004"
+    },
+    {
+      "id": 19388,
+      "IDcode": "IPX-053",
+      "title": "用浓稠滚烫的精液来污染可爱小脸蛋",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230517/20230517230009552552.jpg",
       "actress": [
         "明里紬",
@@ -89,21 +122,110 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-053"
     },
     {
-      "id": 19428,
-      "IDcode": "IPX-004",
-      "title": "肏到美少女全身噴汁激吻幹砲 明里紬",
+      "id": 19375,
+      "IDcode": "IPX-068",
+      "title": "最棒的性爱体验-愛世くらら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-09-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230511/20230511035955510510.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/10/13/63f60239118517fdc4edb36fd928d937.jpg",
       "actress": [
-        "明里紬",
+        "愛世くらら",
+        "吉村卓",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-068"
+    },
+    {
+      "id": 19349,
+      "IDcode": "IPX-100",
+      "title": "究极痴女爱世绮罗淫荡接吻淫语性爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230528/20230528033753578578.jpg",
+      "actress": [
+        "愛世くらら",
+        "吉村卓",
+        "田渊正浩",
+        "爱世くらら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-100"
+    },
+    {
+      "id": 19176,
+      "IDcode": "IPX-275",
+      "title": "究极痴女筱田优的无敌榨精技巧",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a8d93ce4a60d7aa4ec59218ccaedef5f.jpg",
+      "actress": [
+        "篠田優",
         "吉村卓"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-275"
+    },
+    {
+      "id": 18736,
+      "IDcode": "IPX-628",
+      "title": "性禁令-桜空もも",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230911/20230911231956155155.jpg",
+      "actress": [
+        "桜空桃",
+        "吉村卓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-628"
+    },
+    {
+      "id": 18038,
+      "IDcode": "MIDV-495",
+      "title": "初次中出性交-小栗美由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/2f5bbb06318955b41a3096810fb0d70f.jpg",
+      "actress": [
+        "小栗美優",
+        "吉村卓",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-495"
+    },
+    {
+      "id": 17041,
+      "IDcode": "ABF-059",
+      "title": "吊带黑丝-流川夕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/01/19/1f70536073438ec3dbebcb0699de0bbe.jpg",
+      "actress": [
+        "流川夕",
+        "吉村卓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-059"
     }
   ]
 };

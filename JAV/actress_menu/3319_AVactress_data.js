@@ -4,7 +4,7 @@ window.actressData = {
   "name": "永野枫果",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,29 +19,13 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
-      "id": 61494,
-      "IDcode": "MMNM-037",
-      "title": "ふうか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-07-24",
-      "cover_url": "",
-      "actress": [
-        "永野枫果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMNM-037"
-    },
-    {
       "id": 89613,
       "IDcode": "SAN-193",
       "title": "マザー作品の中で最終的に不幸な結末を迎えてしまった女たち6人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/9289d09c70929288d2b8700d515682ad.jpg",
@@ -55,32 +39,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-193"
     },
     {
-      "id": 86123,
-      "IDcode": "SAN-032",
-      "title": "夫の計画に加担し全てを失い復讐され自らの命を絶った女の転落人生 / 永野楓果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2021-12-28",
-      "cover_url": "",
-      "actress": [
-        "永野枫果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-032"
-    },
-    {
       "id": 81370,
       "IDcode": "EVIS-362",
       "title": "蒸れて汗ばんだレギンス臭嗅ぎ舐めレズ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-07-19",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221002-1/fa539b26639a4daa8b98be55d7565276.jpg",
       "actress": [
         "望月綾香",
         "宫泽千春",
@@ -101,10 +69,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-25",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/928a521cfd420f3d512210c6177a8a45.jpg",
       "actress": [
         "永野枫果",
         "牧村柚希"
@@ -118,14 +86,46 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2020-02-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/a77b9cfcf4eedfa32965788b81a43e36.jpg",
       "actress": [
         "永野枫果"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMTY-022"
+    },
+    {
+      "id": 86123,
+      "IDcode": "SAN-032",
+      "title": "夫の計画に加担し全てを失い復讐され自らの命を絶った女の転落人生 / 永野楓果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6c730ae0dc3c8ca6c779105c88c6086c.jpg",
+      "actress": [
+        "永野枫果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-032"
+    },
+    {
+      "id": 61494,
+      "IDcode": "MMNM-037",
+      "title": "10ほど年上のガチ恋セフ限定でチョロがるJD：ふうか(19)【女がハマる甘い沼】ふうか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/cd0076f3291a2b4f742473e71475b22a.jpg",
+      "actress": [
+        "永野枫果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMNM-037"
     }
   ]
 };

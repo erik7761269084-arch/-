@@ -31,46 +31,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/w-Fitch/AI-Fix-真白希実.jpg"
   ],
-  "works_count": 3,
+  "works_count": 2,
   "related_dramas": [
-    {
-      "id": 1533,
-      "IDcode": "SKYHD-127",
-      "title": "雙重滲透 EX 12Girls 180 分鐘：Koi Azumi、Arisa Nakano、Hikaru Asagiri",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2015-01-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230504/b230a299-c6e8-412d-93c6-ac0b1761a0cc.webp",
-      "actress": [
-        "大槻响",
-        "篠惠美",
-        "京野结衣",
-        "爱杏美",
-        "花井佳音",
-        "真白希実",
-        "永作亜美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-127"
-    },
-    {
-      "id": 1513,
-      "IDcode": "SKYHD-041",
-      "title": "SKY ANGEL BLUE Vol.41 : 真白希實",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2010-12-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20230509/381068a2-9a94-46a3-be79-db0d27ac6a98.webp",
-      "actress": [
-        "真白希実"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-041"
-    },
     {
       "id": 83025,
       "IDcode": "HP-027",
@@ -78,7 +40,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2010-07-25",
       "cover_url": "",
@@ -86,6 +48,24 @@ window.actressData = {
         "真白希実"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HP-027"
+    },
+    {
+      "id": 103359,
+      "IDcode": "HUNT-209",
+      "title": "ベランダに干された黃色い下著は、団地妻達の「襲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2009-08-06",
+      "cover_url": "",
+      "actress": [
+        "真白希実",
+        "杉本蘭",
+        "仓本あいら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNT-209"
     }
   ]
 };

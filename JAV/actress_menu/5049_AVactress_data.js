@@ -4,7 +4,7 @@ window.actressData = {
   "name": "久我かのん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 81637,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2020-03-07",
       "cover_url": "",
@@ -41,16 +41,35 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNJR-024"
     },
     {
+      "id": 99183,
+      "IDcode": "BBAN-059",
+      "title": "ボイン大好きレズビアン、女友達に過激なレズイタズラ。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-10-07",
+      "cover_url": "",
+      "actress": [
+        "霧島さくら",
+        "青山未来",
+        "彩音遙菜",
+        "久我かのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-059"
+    },
+    {
       "id": 88482,
       "IDcode": "RCTD-163",
       "title": "爆乳エロプロレス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2018-11-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/8499ba7b46dd67eba0de80ec060c400d.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/76cd53e6a4812768bc1c1d733432dba9.jpg",
       "actress": [
         "優月真裡奈",
         "三苫海",
@@ -62,13 +81,13 @@ window.actressData = {
     {
       "id": 82941,
       "IDcode": "ZUKO-140",
-      "title": "乳首用媚薬クリームの訪問販売にハマった人妻さんたち",
+      "title": "乳首用媚薬クリーム",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-12-12",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221201-1/20c5a15c200f1dd65c1cbde8ee863c8f.jpg",
       "actress": [
         "塚田詩織",

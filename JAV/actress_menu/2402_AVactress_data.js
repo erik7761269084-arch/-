@@ -44,19 +44,37 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250514/b0605068-eab8-45dc-badb-0a6be98b00c9_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250514/993329e6-9441-4216-b66e-8f6405a909e7_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 107097,
-      "IDcode": "DROP-053",
-      "title": "素人娘 初めての「チ○ポ洗い」アルバイト4",
+      "id": 6167,
+      "IDcode": "TPIN-092",
+      "title": "無言中出 美少女素拍 ~ 伊織雛乃 比奈ひまり 工藤拉拉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OFFICE K’S",
-      "publish_date": "2021-01-01",
-      "cover_url": "",
+      "type": "",
+      "company": "椿鳳院",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250514/20250514090920592592_thumbnail.webp",
+      "actress": [
+        "伊織雛乃",
+        "工藤拉拉",
+        "比奈ひまり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-092"
+    },
+    {
+      "id": 107097,
+      "IDcode": "DROP-053",
+      "title": "洗小弟弟的兼职工作",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-7/90c21638ce1e3210af3a2ecfce449c55.jpg",
       "actress": [
         "星空萌愛",
         "比奈ひまり",

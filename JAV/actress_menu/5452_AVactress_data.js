@@ -4,7 +4,7 @@ window.actressData = {
   "name": "早坂リア",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,26 +16,26 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 87970,
-      "IDcode": "KISD-085",
-      "title": "kira★kira STREET GAL＆おやじっち×BLACK GAL SPECIAL おやじっちマッサージ師の凄テク施術テクニックに桃色オマ●コから愛液をダダ漏らし、我慢できずに施術師のパンツを強引に脱がせチ●ポを喉奥まで咥え込みジュボフェラ！ゴッドハンドの指マンに何度…",
+      "id": 99740,
+      "IDcode": "326GAR-416",
+      "title": "ギャルVS 悪ガキ痴漢レイプ！！ 4 病院＆映画館編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-06-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-02-05",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1gar416/1gar416pl.jpg",
       "actress": [
-        "保坂えり",
         "上原花恋",
+        "真岛かおる",
         "早坂リア",
-        "星崎キララ"
+        "西村江梨"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KISD-085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-416"
     },
     {
       "id": 88209,
@@ -44,10 +44,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2014-05-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/80b2cf5cbe785988751a5c3eaea06116.jpg",
       "actress": [
         "辻井悠",
         "早瀬ありす",
@@ -57,6 +57,25 @@ window.actressData = {
         "野々宫ここみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-354"
+    },
+    {
+      "id": 87970,
+      "IDcode": "KISD-085",
+      "title": "kira★kira STREET GAL＆おやじっち×BLACK GAL SPECIAL おやじっちマッサージ師の凄テク施術テクニックに桃色オマ●コから愛液をダダ漏らし、我慢できずに施術師のパンツを強引に脱がせチ●ポを喉奥まで咥え込みジュボフェラ！ゴッドハンドの指マンに何度…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/486a01f0a1c3f36678dfc7619de2ad20.jpg",
+      "actress": [
+        "保坂えり",
+        "上原花恋",
+        "早坂リア",
+        "星崎キララ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KISD-085"
     }
   ]
 };

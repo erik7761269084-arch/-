@@ -39,8 +39,90 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-美咲あや.jpg",
     "https://picture.yoshiclub.xyz/GFriends/.Recycled/KiraKira/朝倉ことみ.jpg"
   ],
-  "works_count": 1,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 492,
+      "IDcode": "HEYZO-0586",
+      "title": "對前來處理我的投訴的旅行會社員的惡作劇 我的要求就是讓我操你 ~ 朝倉琴美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2014-07-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20241231/31b23d0b-7865-4f4d-b316-500173c5178b.jpg",
+      "actress": [
+        "朝仓琴美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0586"
+    },
+    {
+      "id": 150648,
+      "IDcode": "H4610-KI200625",
+      "title": "朝仓琴美26岁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250301-1/4d96ce3b64130b3612beeb2e8e898205.jpg",
+      "actress": [
+        "朝仓琴美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-KI200625"
+    },
+    {
+      "id": 150629,
+      "IDcode": "H4610-KI200514",
+      "title": "朝仓琴美26岁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250301-1/546646d868a15159cefbc0c3bf65ddca.jpg",
+      "actress": [
+        "朝仓琴美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=H4610-KI200514"
+    },
+    {
+      "id": 142795,
+      "IDcode": "012716-083",
+      "title": "朝仓琴美BEST朝仓琴美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250203-1/60e0d8555fa2de714c54c508e93fe702.jpg",
+      "actress": [
+        "朝仓琴美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=012716-083"
+    },
+    {
+      "id": 96494,
+      "IDcode": "NNPJ-213",
+      "title": "用色色的小游戏测试男女之间是否纯在纯友谊",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "栄川乃亜",
+        "朝仓琴美",
+        "咲坂花恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-213"
+    },
     {
       "id": 70218,
       "IDcode": "SDMU-465",
@@ -48,10 +130,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-01-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/c043184d4b1c25bb82d3d2ec7fbee59e.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d7f039d8b151af4f6530cad22f188aa9.jpg",
       "actress": [
         "朝仓琴美",
         "小谷みのり",

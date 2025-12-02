@@ -37,9 +37,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-09-15",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "浜辺栞帆",
@@ -55,16 +55,51 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-531"
     },
     {
-      "id": 5004,
-      "IDcode": "MIRD-257",
-      "title": "青春無內少女的純真校園 私立無內學園 ~ 美澄玲衣 新垣まりん 花芽有朱 若月もあ 下川紬 朝海凪咲 湊波流 乙葉らぶ",
+      "id": 8996,
+      "IDcode": "HMN-658",
+      "title": "为了创造旅行回忆而出演AV的女孩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032726442442_thumbnail.webp",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116080221879879.jpg",
+      "actress": [
+        "新垣まりん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-658"
+    },
+    {
+      "id": 6593,
+      "IDcode": "HRSM-094",
+      "title": "シュミレーションゴルフ マンツーマンレッスン痴○",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426015911265265_thumbnail.webp",
+      "actress": [
+        "浜辺栞帆",
+        "逢月日葵",
+        "新垣まりん",
+        "汐梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-094"
+    },
+    {
+      "id": 5004,
+      "IDcode": "MIRD-257",
+      "title": "履いてない青春真っただ中の汚れなき少女たち 私立ノーパン学園",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dac14c92318f97d4a4254/cover.jpg",
       "actress": [
         "美澄玲衣",
         "湊波流",
@@ -80,41 +115,6 @@ window.actressData = {
         "小野寺ゆあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
-    },
-    {
-      "id": 6593,
-      "IDcode": "HRSM-094",
-      "title": "模擬高爾夫一對一教學的癡漢玩法 ~ 新垣まりん 逢月ひまり 浜辺栞帆 汐梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "癡漢廠",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426015911265265_thumbnail.webp",
-      "actress": [
-        "浜辺栞帆",
-        "逢月日葵",
-        "新垣まりん",
-        "汐梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-094"
-    },
-    {
-      "id": 8996,
-      "IDcode": "HMN-658",
-      "title": "新人出道！女孩決定在去東京旅行出演AV，拍照，吃拉面，購物，甚至做愛，接吻，中出都可以 首次亮相 AV DEBUT ~ 新垣まりん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116080221879879.jpg",
-      "actress": [
-        "新垣まりん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-658"
     }
   ]
 };

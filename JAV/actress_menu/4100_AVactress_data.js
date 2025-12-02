@@ -4,7 +4,7 @@ window.actressData = {
   "name": "イザベラ クラーク",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-03-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250304-1/910ea839b7b71b4e57bd34d4c47ce90f.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c05a2b8f5caf47de65b19751c4d10e85.jpg",
       "actress": [
         "イザベラ クラーク",
         "フロラナ・ラッセル"

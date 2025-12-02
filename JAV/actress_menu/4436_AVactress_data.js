@@ -4,7 +4,7 @@ window.actressData = {
   "name": "芹沢ゆず",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 74436,
@@ -25,15 +25,35 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
       "publish_date": "2019-08-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/01cf55d6d481e25f4e4467c6638c5be3.jpg",
       "actress": [
         "心菜りお",
         "芹沢ゆず"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-082"
+    },
+    {
+      "id": 104811,
+      "IDcode": "SDDE-532",
+      "title": "打飞机专用影片感受女生们围观",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "葵玲奈",
+        "幸田ユマ",
+        "小野寺梨纱",
+        "小谷みのり",
+        "芹沢ゆず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-532"
     }
   ]
 };

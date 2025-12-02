@@ -33,36 +33,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 17180,
-      "IDcode": "NACR-739",
-      "title": "客戶滿意度第一！極難預約的巨乳技师藤咲梨紅",
+      "id": 90753,
+      "IDcode": "NACR-718",
+      "title": "巨乳個性又好隨叫隨到聽話的炮友！！ 藤咲梨紅",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2023-12-20",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240210-1/234773f6b851bc3d4f2d28e27464b638.jpg",
+      "actress": [
+        "藤咲梨紅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-718"
+    },
+    {
+      "id": 17180,
+      "IDcode": "NACR-739",
+      "title": "顾客满足度NO.1-藤咲理未",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231220/d5f2abfa-e41a-4379-95b7-3e1dce9dd285.jpg",
       "actress": [
         "藤咲梨紅"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-739"
-    },
-    {
-      "id": 90753,
-      "IDcode": "NACR-718",
-      "title": "巨乳で性格も良く呼べばすぐに来て何でもやってくれる！？いいなりセフレちゃん！！ 藤咲りく 生写真とパンティ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-10-20",
-      "cover_url": "",
-      "actress": [
-        "藤咲梨紅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-718"
     }
   ]
 };

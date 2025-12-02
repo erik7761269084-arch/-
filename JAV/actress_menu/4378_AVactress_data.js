@@ -25,38 +25,38 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 73442,
-      "IDcode": "SNIS-385",
-      "title": "宴会コンパニオン 新山らん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2015-04-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/d48930ef84aed8ebd5ff80434891cc39.jpg",
-      "actress": [
-        "小田切ジュン",
-        "新山らん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-385"
-    },
-    {
       "id": 77116,
       "IDcode": "SNIS-100",
       "title": "交わる体液、濃密セックス 新山らん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-02-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e120aaf709eaf84edd75896541234e27.jpg",
       "actress": [
         "小田切ジュン",
         "新山らん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-100"
+    },
+    {
+      "id": 73442,
+      "IDcode": "SNIS-385",
+      "title": "宴会コンパニオン 新山らん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/3e78a8badf3980d6cc7cfa15674d6550.jpg",
+      "actress": [
+        "小田切ジュン",
+        "新山らん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-385"
     }
   ]
 };

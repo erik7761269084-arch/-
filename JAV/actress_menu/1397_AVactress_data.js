@@ -31,24 +31,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-加藤麻耶.jpg",
     "https://picture.yoshiclub.xyz/20230207/e96c7ed4-7234-435a-b57a-ff3e0d345d73.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1813,
-      "IDcode": "SMBD-119",
-      "title": "S Model 119 小胸敏感度檢查：Maya Kato",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/f9117159-d6a2-497c-9e0f-004cece33720.webp",
-      "actress": [
-        "加藤麻耶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-119"
-    },
     {
       "id": 1800,
       "IDcode": "MKBD-S87",
@@ -56,10 +40,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2014-12-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/2ca21c9f-d800-4bc5-bb56-a2dbe97423cb.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/cc8da04875ce8e1d83ae392156042add.jpg",
       "actress": [
         "加藤麻耶"
       ],

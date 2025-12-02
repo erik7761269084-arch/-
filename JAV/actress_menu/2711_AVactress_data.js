@@ -49,19 +49,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250705/4fb7b8d2-c0b5-43e2-afad-784e66cbd082_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250705/a10ab4cf-95c6-4632-ae3b-ecc0bc3fc5e5_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 90375,
-      "IDcode": "ADN-460",
-      "title": "妻が女友達と行った旅行で知らない男にナンパされていた。 藤井いよな",
+      "id": 4708,
+      "IDcode": "GAJK-025",
+      "title": "鄉下老宅倉庫裏被繩縛調教的女學生！變態爺爺狠狠教訓囂張小丫頭 ~ 足立める",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "GLOBAL MEDIA ANNEX",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705035128411411_thumbnail.webp",
+      "actress": [
+        "足立める"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAJK-025"
+    },
+    {
+      "id": 90375,
+      "IDcode": "ADN-460",
+      "title": "妻子和闺蜜们去旅行-藤井伊由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2023-03-31",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-4/21f609ea540b58e30153429b98795676.jpg",
       "actress": [
         "藤井一夜",
         "足立める"

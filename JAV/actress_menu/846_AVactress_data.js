@@ -39,34 +39,69 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230513/77983e1f-1e07-4ba7-b78f-9f9d26ab9fdb.jpg",
     "https://picture.yoshiclub.xyz/20230513/b662f706-1c3f-4c66-a949-622cbbbc6d69.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 19398,
-      "IDcode": "IPX-040",
-      "title": "吞精解禁！發狂吞精監禁調教 夏川明",
+      "id": 16600,
+      "IDcode": "SSNI-107",
+      "title": "最高級高潮性愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-11-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230515/20230515233520957957.jpg",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2018-02-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240126/202401252305503131.jpg",
       "actress": [
         "夏川明"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-107"
+    },
+    {
+      "id": 17047,
+      "IDcode": "SSNI-059",
+      "title": "禁欲一個月後，夏川明變得如此飢渴以至於腎上腺素爆炸！當她抽搐和被操時，她的騷勁暴露無遺",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2017-12-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20231227/20231227100322244244.jpg",
+      "actress": [
+        "夏川明"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-059"
+    },
+    {
+      "id": 100225,
+      "IDcode": "IPZ-865",
+      "title": "アイポケ×S1W専屬FIRSTIMPRESSION109昇天",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-12-25",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250917-1/59d0c4d058bb4201b34c08269f5784cd.jpg",
+      "actress": [
+        "夏川明",
+        "森林原人",
+        "鲛岛",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-865"
     },
     {
       "id": 19422,
       "IDcode": "IPX-008",
-      "title": "站姿克制！雙腿抽搐，噴，噴高潮！",
+      "title": "站立拘束被操到连续高潮的美女夏川明",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-09-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230512/20230512211550581581.jpg",
       "actress": [
         "夏川明"

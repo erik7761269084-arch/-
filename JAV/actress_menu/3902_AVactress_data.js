@@ -4,7 +4,7 @@ window.actressData = {
   "name": "优月せら",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,48 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
+      "id": 538805,
+      "IDcode": "259LUXU-1087",
+      "title": "ラグジュTV 1082 憧れていた男优とのセックスに性欲全开！揉み心地抜群のFカップおっぱいを揺らし、巨根と电マのW责めで放心状态に！1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2019-03-27",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/200115ba11e25523b51d0fbd5d55170d.jpg",
+      "actress": [
+        "优月せら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1087"
+    },
+    {
+      "id": 86975,
+      "IDcode": "NGOD-107",
+      "title": "着衣巨乳NTR 服の上から揉み揉みされて… 優月せら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f14f85f03a092cf5e5667/cover.jpg",
+      "actress": [
+        "优月せら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-107"
+    },
+    {
       "id": 75645,
       "IDcode": "MDTM-609",
       "title": "神アプリで知り合ったエロカワ現役女子大生に生中出し",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2020-02-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/a90e6b0d41dec5bb67ded5f680691017.jpg",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/75cd0f9d88789ab0870e0099e34478f3.jpg",
       "actress": [
         "七海雛",
         "星奈爱",
@@ -38,32 +70,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-609"
     },
     {
-      "id": 86975,
-      "IDcode": "NGOD-107",
-      "title": "着衣巨乳NTR 服の上から揉み揉みされて… 優月せら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2019-08-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230414-1/5cdf8267aaa3e3bc90975ae827ec07f5.jpg",
-      "actress": [
-        "优月せら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-107"
-    },
-    {
       "id": 71675,
       "IDcode": "CHRV-088",
       "title": "アクロバチックな妹の爆乳ブリッジは一見にしかず Gカップ96cmせら 妹パパ活、お兄ちゃんパパに勝つ？！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2019-06-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/bb00300447922c3216896ba24624742b.jpg",
       "actress": [
         "优月せら"
       ],
@@ -76,42 +92,26 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2019-04-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/91cc2fa9b483cf87054e217d177af4f7.jpg",
       "actress": [
         "优月せら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONB-126"
     },
     {
-      "id": 74617,
-      "IDcode": "LUXU-1087",
-      "title": "ラグジュTV 1082 憧れていた男優とのセックスに性欲全開！揉み心地抜群のFカップおっぱいを揺らし、巨根と電マのW責めで放心状態に！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2019-03-27",
-      "cover_url": "",
-      "actress": [
-        "优月せら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1087"
-    },
-    {
       "id": 69351,
       "IDcode": "TKI-104",
-      "title": "- 完全着衣拘束デカパイ奴● 03 巨乳を揉まれ揺らされ欲情しまくる肉奴● - JAV目錄大全javmenu.com",
+      "title": "完全着衣拘束デカパイ奴● 03 巨乳を揉まれ揺らされ欲情しまくる肉奴●",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/10e4f5ab06907e07ee4e5fbe425a7ff0.jpg",
       "actress": [
         "音海里奈",
         "优月せら"

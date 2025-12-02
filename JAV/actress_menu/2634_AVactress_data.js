@@ -40,14 +40,14 @@ window.actressData = {
     {
       "id": 9388,
       "IDcode": "JUTA-159",
-      "title": "新人出道 - 極上！ ！三十路人妻初脫下海 首次亮相 AVDEBUT ~ 大島絢香",
+      "title": "三十岁人妻初脱-大岛絢香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女JAPAN",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250105/aa0ef4a2-3db8-48de-bdaa-713efe23edb2.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250201-1/37513989d8b87089387cdffc910843fc.jpg",
       "actress": [
         "大島絢香"
       ],

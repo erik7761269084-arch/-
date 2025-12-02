@@ -4,7 +4,7 @@ window.actressData = {
   "name": "小峰るか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-09-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/fc304595b1f4121a9d80c8d538370f26.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/a8dcd9582c8a2a01426593b93b01a979.jpg",
       "actress": [
         "小峰るか"
       ],

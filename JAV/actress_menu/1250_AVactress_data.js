@@ -33,24 +33,122 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/17f27cd5-96bb-40f5-8d6e-d93d61b91edb.jpg",
     "https://picture.yoshiclub.xyz/20230124/ca4a1292-8e8d-4363-8d55-f8187510340f.jpg"
   ],
-  "works_count": 4,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 2369,
-      "IDcode": "LABY-006",
-      "title": "東京街頭不倫妻的巢穴 ~ 夏目玲香 青山未來",
+      "id": 99183,
+      "IDcode": "BBAN-059",
+      "title": "ボイン大好きレズビアン、女友達に過激なレズイタズラ。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "三和軟體",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223157534534_27656_thumbnail.webp",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-10-07",
+      "cover_url": "",
       "actress": [
+        "霧島さくら",
         "青山未来",
-        "夏目玲香"
+        "彩音遙菜",
+        "久我かのん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-059"
+    },
+    {
+      "id": 439505,
+      "IDcode": "HEYZO-3252",
+      "title": "青山未来撒尿了！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/29/68377293a0b87615b2db34dc/cover.jpg",
+      "actress": [
+        "青山未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3252"
+    },
+    {
+      "id": 143070,
+      "IDcode": "081017-001",
+      "title": "夏季裸体自然美少女和盛夏泳装SEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250205-1/a728de9ce4079bdb49653e8808e82e9b.jpg",
+      "actress": [
+        "青山未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=081017-001"
+    },
+    {
+      "id": 142555,
+      "IDcode": "011516-074",
+      "title": "喜欢左转",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250201-1/618c572d69bbc169e2a85cbc10a284aa.jpg",
+      "actress": [
+        "青山未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011516-074"
+    },
+    {
+      "id": 142048,
+      "IDcode": "042220-001",
+      "title": "早期的青山未来BEST青山未来",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250130-1/a69b4ff8a479618f8ba2aabbff68193f.jpg",
+      "actress": [
+        "青山未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=042220-001"
+    },
+    {
+      "id": 141648,
+      "IDcode": "082920-001",
+      "title": "未来的感情-乳头Nbin疗法可以立即恢复减弱的性欲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250128-1/30e6d67198b5a6fade01383405fb80d2.jpg",
+      "actress": [
+        "青山未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=082920-001"
+    },
+    {
+      "id": 141647,
+      "IDcode": "083121-001",
+      "title": "BOGAxBOGA青山未来夸我演技青山未来",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250128-1/90987821c7d5f187ff0fc6b8506bac16.jpg",
+      "actress": [
+        "青山未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=083121-001"
     },
     {
       "id": 76370,
@@ -59,9 +157,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2019-11-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "羽生ありさ",
@@ -72,38 +170,39 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-050"
     },
     {
-      "id": 1795,
-      "IDcode": "DRGBD-14",
-      "title": "PRINCESS COLLECTION 歡迎來到高級泡泡浴 青山未來",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATCHEYE",
-      "publish_date": "2016-11-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/11d40de2-17cb-497f-bea3-8a5c8cdd9975.webp",
-      "actress": [
-        "青山未来"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-14"
-    },
-    {
       "id": 73105,
       "IDcode": "YRH-089",
       "title": "働くオンナ猟り vol.21",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2015-06-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/040563656e6244380f431f129cc2ddd6.jpg",
       "actress": [
         "青山未来",
         "山内舞",
         "川原里奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YRH-089"
+    },
+    {
+      "id": 2369,
+      "IDcode": "LABY-006",
+      "title": "東京の街は不倫妻の巣窟",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "三和軟體",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "青山未来",
+        "夏目玲香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-006"
     }
   ]
 };

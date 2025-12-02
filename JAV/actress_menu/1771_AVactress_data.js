@@ -39,24 +39,40 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250814/572cfe36-a2d1-40b0-912d-c7dcbb9a8595_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 3596,
       "IDcode": "EBWH-256",
-      "title": "新人出道！柔軟X筋肉的超搭融合！全國級舞者小姐姐 青春肉感H杯身材晃奶跳舞 首秀 AV DEBUT ~ 山本琴音",
+      "title": "「やわ肉×筋肉」まさかの融合！実は全国クラスのダンサー 食べ盛り愛嬌ボディ女子大生は踊るたびにH乳が揺れ飛ぶAVデビュー 山本ことね",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034808546546_20060_thumbnail.webp",
       "actress": [
         "山本琴音",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-256"
+    },
+    {
+      "id": 2784,
+      "IDcode": "EBWH-266",
+      "title": "突然の豪雨で雨宿り中、不覚にも先輩の中出しピストンに堕ちてしまった濡れそぼりばいんぼいんおっぱいちゃん（20） 山本ことね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020121505505_80894_thumbnail.webp",
+      "actress": [
+        "山本琴音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-266"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "森咲みお",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
       "publish_date": "2014-03-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/4faaba874752d05897f4db85a04b6c29.jpg",
+      "cover_url": "",
       "actress": [
         "大岛丈",
         "森咲みお"

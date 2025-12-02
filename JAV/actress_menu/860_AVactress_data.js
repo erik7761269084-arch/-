@@ -42,47 +42,138 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240410/7a92871f-0805-499d-8c08-81dea20459f0.jpg",
     "https://picture.yoshiclub.xyz/20240410/c60a8c5b-12f2-4c00-89ef-68df81962c07.jpg"
   ],
-  "works_count": 3,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 8221,
-      "IDcode": "SYKH-135",
-      "title": "穿長靴的美人姐姐口暴合集 ~ 森澤佳奈 波多野結衣 浜崎真緒 二宮和香 黑木奈美等12名女優",
+      "id": 7986,
+      "IDcode": "MFCD-015",
+      "title": "MOON FORCE Pakopako 系人系列。Vol.15 ~ 楽園ミナ 小野せいら 新井裏真 葵美玲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250216/20250216070122967967.jpg",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-02-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250224/6276b01a-94f7-46b7-8887-076497369448.jpg",
       "actress": [
-        "波多野结衣",
-        "森澤佳奈",
-        "浜崎真緒",
-        "白石桃",
-        "三岳祐奈",
-        "黒木奈美",
-        "橘京花",
-        "恵沙也香",
-        "天宮かすみ",
-        "二宮和香",
-        "伊東沙蘭",
+        "新井里真",
+        "葵美玲",
         "楽園ミナ",
-        "浜崎真绪"
+        "小野せいら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-135"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCD-015"
+    },
+    {
+      "id": 106902,
+      "IDcode": "IPIT-042",
+      "title": "憧憬女间谍-乐园美娜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "楽園ミナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-042"
+    },
+    {
+      "id": 15500,
+      "IDcode": "FOCS-188",
+      "title": "變態老男人對女大學生連續內射十多次，直到變成肉便池 樂園米娜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a23bbac813dc779d96091/cover.jpg",
+      "actress": [
+        "楽園ミナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-188"
+    },
+    {
+      "id": 10832,
+      "IDcode": "PFAS-024",
+      "title": "夫妇交换 令和交换情侣交换邻里交换联盟- 成泽日并",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241106/da3d8f0a-f26b-4184-9661-faba9607c536.jpg",
+      "actress": [
+        "祈山愛",
+        "楽園ミナ",
+        "杉崎みさき",
+        "成澤ひなみ",
+        "成泽ひなみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-024"
+    },
+    {
+      "id": 10039,
+      "IDcode": "BACJ-129",
+      "title": "華麗な指技にリピーターが続出する極責めエステサロン 楽園ミナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241209/e7ab7fd6-0b00-4930-91aa-e7e74ba5a132.jpg",
+      "actress": [
+        "楽園ミナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-129"
+    },
+    {
+      "id": 8341,
+      "IDcode": "GNS-114",
+      "title": "尊嚴侵害，無恥性侵犯！被討厭的上司以出差的名義在溫泉旅館裏寢取",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GooNiES",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa34879550e292a785c867/cover.jpg",
+      "actress": [
+        "千石もなか",
+        "天美めあ",
+        "木野野葉惠里香",
+        "真白みのり",
+        "祈山愛",
+        "涼花くるみ",
+        "皇柚子",
+        "上野真奈美",
+        "楽園ミナ",
+        "七瀨華蓮",
+        "天海一華",
+        "東城ゆい",
+        "永瀬愛菜",
+        "美音夢",
+        "堀麻美子",
+        "汐見唯",
+        "加賀美真里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-114"
     },
     {
       "id": 8340,
       "IDcode": "GNS-113",
-      "title": "緊急拘捕！不要拍照！ ！廢墟中回蕩着女性的悲鳴 被強奸的女人 x 20名",
+      "title": "【緊急逮×！】「撮らないで！！」廃墟に響き渡る女性の悲鳴 女たちのヤリすて廃棄場強× 20名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GooNiES",
-      "publish_date": "2025-02-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/d382b06a4ba683ca1c390f593ad31314.jpg",
       "actress": [
         "千石もなか",
         "天美めあ",
@@ -105,20 +196,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
-      "id": 106902,
-      "IDcode": "IPIT-042",
-      "title": "女スパイに憧れて… ハニートラップをマスターしたくてAV出演！？美顔とデカ尻とスケベな腰使いで男を悩殺する韓国ハーフ美女AVデビュー 楽園ミナ",
+      "id": 8221,
+      "IDcode": "SYKH-135",
+      "title": "ブーツのお姉さんにしゃぶってもらいたい！ フェラチオ好きのブーツ女子12名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-09-12",
-      "cover_url": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250216/20250216070122967967.jpg",
       "actress": [
-        "楽園ミナ"
+        "波多野结衣",
+        "森澤佳奈",
+        "浜崎真緒",
+        "白石桃",
+        "三岳祐奈",
+        "黒木奈美",
+        "橘京花",
+        "恵沙也香",
+        "天宮かすみ",
+        "二宮和香",
+        "伊東沙蘭",
+        "楽園ミナ",
+        "浜崎真绪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPIT-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-135"
     }
   ]
 };

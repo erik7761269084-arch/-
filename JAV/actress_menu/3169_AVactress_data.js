@@ -4,7 +4,7 @@ window.actressData = {
   "name": "鸣海遥子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,15 +19,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 62287,
+      "IDcode": "VSED-267",
+      "title": "近所に住む色ボケ変態ババアに生中出ししてあげました！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "鸣海遥子",
+        "上岛美都子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-267"
+    },
+    {
       "id": 60295,
       "IDcode": "VSED-270",
       "title": "母と叔母と僕の三角関係",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-09-27",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "宝田さゆり",
@@ -38,23 +55,6 @@ window.actressData = {
         "岛田响子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-270"
-    },
-    {
-      "id": 62287,
-      "IDcode": "VSED-267",
-      "title": "近所に住む色ボケ変態ババアに生中出ししてあげました！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-07-26",
-      "cover_url": "",
-      "actress": [
-        "鸣海遥子",
-        "上岛美都子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-267"
     }
   ]
 };

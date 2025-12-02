@@ -4,7 +4,7 @@ window.actressData = {
   "name": "佐伯あかね",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 82469,
       "IDcode": "DTT-045",
-      "title": "AVデビュー美人外科医 抑えきれない性的衝動3発射 エロ麗し過ぎる女医 佐伯あかね 念願の他人棒でイキ乱れ狂う！！",
+      "title": "美人外科医生-佐伯あかね",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2020-01-10",
-      "cover_url": "",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b5e6c1d3606e4210dbd787ecfdfad7bd.jpg",
       "actress": [
         "佐伯あかね"
       ],

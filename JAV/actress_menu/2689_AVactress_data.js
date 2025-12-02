@@ -34,19 +34,41 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250625/48fb4f67-af1c-4e91-99e4-b7a52ede8e87_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 69381,
-      "IDcode": "NACX-151",
-      "title": "- 巨乳輪熟女10人BEST （BOD） - JAV目錄大全javmenu.com",
+      "id": 5038,
+      "IDcode": "UMSO-601",
+      "title": "豐滿美女性愛大全50人 ~ 九条さやか 塚田詩織 晶エリー 永井瑪麗亞 水澄光 真木今日子 美里詩織 高光真子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621083345527527_thumbnail.webp",
+      "actress": [
+        "真木今日子",
+        "永井瑪麗亞",
+        "水澄光",
+        "晶エリー",
+        "向井雫",
+        "美里詩織",
+        "高光真子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-601"
+    },
+    {
+      "id": 69381,
+      "IDcode": "NACX-151",
+      "title": "巨乳輪熟女10人BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/05/f5650939/vod.jpg",
+      "cover_url": "",
       "actress": [
         "武藤彩香",
         "谷梓",

@@ -23,16 +23,40 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
+      "id": 88932,
+      "IDcode": "UMSO-506",
+      "title": "バストもヒップもメーター越え！爆弾ボディ女優BEST10人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2023-06-27",
+      "cover_url": "https://tuaskbgnekr.com/20240830/nHxxb6d4/1.jpg",
+      "actress": [
+        "松本菜奈実",
+        "本真友里",
+        "七草千歲",
+        "塚田詩織",
+        "三苫海",
+        "愛咲りんか",
+        "松坂美纪",
+        "樱井夕树",
+        "真锅あや"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-506"
+    },
+    {
       "id": 68236,
       "IDcode": "NACX-152",
       "title": "Icup以上のデカパイオンリー！大きく熟れた乳を持つ熟女14人 （BOD）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-04-20",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/11/f902e1d2/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "山瀬美紀",
         "寺島志保",
@@ -55,9 +79,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-01",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250402/20250402111237558558.jpg",
       "actress": [
         "黑川堇",
@@ -78,30 +102,6 @@ window.actressData = {
         "宫本纱央里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-371"
-    },
-    {
-      "id": 88932,
-      "IDcode": "UMSO-506",
-      "title": "バストもヒップもメーター越え！爆弾ボディ女優BEST10人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2023-06-27",
-      "cover_url": "",
-      "actress": [
-        "松本菜奈実",
-        "本真友里",
-        "七草千歲",
-        "塚田詩織",
-        "三苫海",
-        "愛咲りんか",
-        "松坂美纪",
-        "樱井夕树",
-        "真锅あや"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-506"
     }
   ]
 };

@@ -26,18 +26,36 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250719/6cd79b02-3a9d-46e5-b188-2e725f8c44ee_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 4254,
-      "IDcode": "NSFS-403",
-      "title": "AI重製版 頂級濃情色片 瘋狂熱吻 經典永久收藏3小時 ~ 大友唯爱 石川さとこ 真心実 桜沢まひる 艶堂しほり 杉本兰",
+      "id": 103359,
+      "IDcode": "HUNT-209",
+      "title": "ベランダに干された黃色い下著は、団地妻達の「襲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2009-08-06",
+      "cover_url": "",
+      "actress": [
+        "真白希実",
+        "杉本蘭",
+        "仓本あいら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNT-209"
+    },
+    {
+      "id": 4254,
+      "IDcode": "NSFS-403",
+      "title": "AIリマスター版 極上濃厚エロビデオ もの凄い接吻 名作永久保存版3時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-07-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703605605_88783_thumbnail.webp",
       "actress": [
         "川上優",

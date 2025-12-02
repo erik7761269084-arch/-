@@ -33,23 +33,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/白咲舞.jpg",
     "https://picture.yoshiclub.xyz/20230208/d0ee3abc-89d6-4ff1-a69c-11b4c54f36fb.jpg"
   ],
-  "works_count": 4,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1831,
-      "IDcode": "SMBD-29",
-      "title": "S Model 29 : 女熱大陸 2011年超人氣AV女優男校降臨 ~ 白咲舞",
+      "id": 78865,
+      "IDcode": "ATID-166",
+      "title": "潜入捜査官、堕ちるまで… 白咲舞",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2011-05-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/3eb644cc-c8ae-4a9c-9906-34fb17a84656.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2011-01-07",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230315-1/973329a190e04e234f4a0855fda48e80.jpg",
       "actress": [
         "白咲舞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-29"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-166"
+    },
+    {
+      "id": 77240,
+      "IDcode": "RBD-231",
+      "title": "女人被男人调教-白咲舞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9c00fe31280b86f40d98ecc279248241.jpg",
+      "actress": [
+        "白咲舞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-231"
     },
     {
       "id": 1859,
@@ -58,46 +74,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2011-03-23",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230208/b961bd94-bb6d-4c73-b03c-fe66a4e19e59.webp",
       "actress": [
         "白咲舞"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-019"
-    },
-    {
-      "id": 77240,
-      "IDcode": "RBD-231",
-      "title": "男根に躾けられた女3 白咲舞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2010-12-07",
-      "cover_url": "",
-      "actress": [
-        "白咲舞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-231"
-    },
-    {
-      "id": 1907,
-      "IDcode": "S2MBD-011",
-      "title": "安可 Vol.11：白崎舞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2010-11-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20230208/0c965194-60f2-491b-82d9-9b27b1ff8753.webp",
-      "actress": [
-        "白咲舞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-011"
     }
   ]
 };

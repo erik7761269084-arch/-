@@ -52,19 +52,166 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230911/14e035f3-1675-49dc-81e8-8775802f2a05.jpg",
     "https://picture.yoshiclub.xyz/20230911/6f45ce85-c294-4a75-ab4a-264771441b75.jpg"
   ],
-  "works_count": 2,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 2554,
-      "IDcode": "UMSO-612",
-      "title": "爆棚美少女！火箭巨乳美人12人 VOL.02 ~ 藤森裏穂 朝日凜 冨安玲於奈 樞木美栞 浜崎真緒 寶田萌奈美 鬆本菜奈実 乙葉可憐 淺田結梨 流川莉央 奏自由 白石鈴",
+      "id": 7937,
+      "IDcode": "UMSO-586",
+      "title": "真實密室做愛：和可愛笑顏的美少女進行的無套中出性愛！ 共收錄11人 ~ 有村希 鬆本一香 朝日凜 笠木いちか 天野碧 中條あおい 紺野美衣奈 八尋麻衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250921/20250921065515917917_68784_thumbnail.webp",
+      "publish_date": "2025-02-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250226/9c34e4b5-1a61-4148-9943-cc2024fa306b.jpg",
+      "actress": [
+        "松本一香",
+        "有村希",
+        "葵玲奈",
+        "笠木いちか",
+        "朝日凜",
+        "雙葉胡桃",
+        "八尋麻衣",
+        "天野碧",
+        "紺野美衣奈",
+        "夏目愛莉",
+        "中条あおい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-586"
+    },
+    {
+      "id": 15080,
+      "IDcode": "MGOLD-022",
+      "title": "這就是我們家的家規 ~ 紺野琉璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2024-06-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240502/20240502182630962962.jpg",
+      "actress": [
+        "朝日凜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-022"
+    },
+    {
+      "id": 15686,
+      "IDcode": "MGOLD-021",
+      "title": "「沒有末班車的話，你會來嗎？」老婆在等我，我卻錯過了末班車，住在了一個後輩女同事家…巨乳讓我興奮不已從她工作的樣子來看，我無法想象我讓她以騎乘式的姿勢讓我內射她 ~ 紺野るり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2024-05-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240402/20240402020224807807.jpg",
+      "actress": [
+        "朝日凜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-021"
+    },
+    {
+      "id": 18744,
+      "IDcode": "TPPN-240",
+      "title": "乳首コリコリ！滲み出る汗！中出しされて感度MAXのマ●コを追撃でかき回す！チクイキ絶頂汗だくセックス 朝日りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TEPPAN 鐵板",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240616-1/22035c00cb3093cb90bf8b55452876b4.jpg",
+      "actress": [
+        "朝日凜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-240"
+    },
+    {
+      "id": 4226,
+      "IDcode": "NACX-156",
+      "title": "ロケットおっぱいの美女と本気セックス12人BESTVOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250720/20250720023424571571_27614_thumbnail.webp",
+      "actress": [
+        "美園和花",
+        "新村朱里",
+        "田中寧寧",
+        "藤森里穂",
+        "小花暖",
+        "沙月芽衣",
+        "水原みその",
+        "神坂朋子",
+        "朝日凜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-156"
+    },
+    {
+      "id": 3450,
+      "IDcode": "NACX-157",
+      "title": "前戯で高まった興奮を抑えきれずオチ〇ポにしゃぶりつく！フェラチオ20人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250820/202508200827344343_78720_thumbnail.webp",
+      "actress": [
+        "小花暖",
+        "東條夏",
+        "齋藤亞美里",
+        "宝田萌奈美",
+        "上坂芽衣",
+        "神坂朋子",
+        "青田悠華",
+        "月見伊織",
+        "安部未華子",
+        "安西天",
+        "朝日凜",
+        "野咲美桜",
+        "三舩美鈴",
+        "夜空亞美",
+        "堀沢茉由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-157"
+    },
+    {
+      "id": 3218,
+      "IDcode": "KTRA-737",
+      "title": "童顔美少女たちのパイパンま○こに中出し2 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b6cc192ee23a639b1646af/cover.jpg",
+      "actress": [
+        "皆月光",
+        "朝日凜",
+        "迹美珠里",
+        "原花音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-737"
+    },
+    {
+      "id": 2554,
+      "IDcode": "UMSO-612",
+      "title": "主張が過ぎる圧倒的存在感！！ロケットおっぱい美女12人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "浜崎真緒",
         "藤森里穂",
@@ -84,22 +231,6 @@ window.actressData = {
         "浅田结梨"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-612"
-    },
-    {
-      "id": 18744,
-      "IDcode": "TPPN-240",
-      "title": "乳頭滲出的汗水 在被內射後，以最大的敏感度刺激陰部！奇趣高潮汗流浹背的性愛！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TEPPAN 鐵板",
-      "publish_date": "2023-09-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230910/20230910215215355355.jpg",
-      "actress": [
-        "朝日凜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPPN-240"
     }
   ]
 };

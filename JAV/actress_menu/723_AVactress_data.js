@@ -40,19 +40,138 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240309/4a566c1a-fcdd-430a-97e6-4a8f73690d8b.jpg",
     "https://picture.yoshiclub.xyz/20240309/600f3635-5800-4a2b-8aa9-1da0a1c3e774.jpg"
   ],
-  "works_count": 1,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 7078,
-      "IDcode": "IPZZ-483",
-      "title": "被女上司一聲令下全員欺負到爆，不管插進去還是幹啥都被無視的我 ~ 杏可可 夕雛エミリ",
+      "id": 15600,
+      "IDcode": "IPZZ-260",
+      "title": "性愛G罩杯-夕雛惠美里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093109568568.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240512-1/5c228689781cd37cdb63cffd7878f7b8.jpg",
+      "actress": [
+        "夕雛エミリ",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-260"
+    },
+    {
+      "id": 14863,
+      "IDcode": "IPZZ-280",
+      "title": "泳装诱惑SEX-夕雏艾米丽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240609-1/4d7eca72f09dfdfb57b8c62c3b8e7983.jpg",
+      "actress": [
+        "夕雛エミリ",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-280"
+    },
+    {
+      "id": 14127,
+      "IDcode": "IPZZ-307",
+      "title": "出差遇到狂風暴雨-夕雛惠美里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/2f19496c6cc9f3660ae1a39ecb5e3ebd.jpg",
+      "actress": [
+        "夕雛エミリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-307"
+    },
+    {
+      "id": 13565,
+      "IDcode": "IPZZ-333",
+      "title": "对面房子里的巨乳写真偶像-夕雏艾米丽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/4c3a610752abdbfe546c84253342923e.jpg",
+      "actress": [
+        "夕雛エミリ",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-333"
+    },
+    {
+      "id": 12796,
+      "IDcode": "IPZZ-352",
+      "title": "淫蕩覺醒性愛-夕雛惠美里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/c090918d6e05631f11318d3f3af88190.jpg",
+      "actress": [
+        "夕雛エミリ",
+        "鲛岛",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-352"
+    },
+    {
+      "id": 12210,
+      "IDcode": "IPZZ-375",
+      "title": "新来的丝袜女教师-夕雛エミリ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67be9290cf22ae3e04fcc824/cover.jpg",
+      "actress": [
+        "夕雛エミリ",
+        "まーち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-375"
+    },
+    {
+      "id": 11525,
+      "IDcode": "IPZZ-395",
+      "title": "随意射精几次都OK-夕雛エミリ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/71cafe1c4507622c8de63712586a1c5f.jpg",
+      "actress": [
+        "夕雛エミリ",
+        "ハカー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-395"
+    },
+    {
+      "id": 7078,
+      "IDcode": "IPZZ-483",
+      "title": "在女上司的命令下被所有人欺负过度",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250416-1/42e57e3f14bf695b26fe81c7a98c3af2.jpg",
       "actress": [
         "杏可可",
         "夕雛エミリ"

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ふうかちゃん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 8283,
       "IDcode": "EBWH-197",
-      "title": "【你願意拍素人AV嗎】Youtuber在街頭很容易就說服了一名巨乳JD女子大生參演素人AV - 22歲 女大學生 160cm G罩杯 向往大城市",
+      "title": "要买这个素人的啪啪视频吗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-02-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074250171171.jpg",
       "actress": [
         "ふうかちゃん"

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "折坂麻衣子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,30 +25,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-04-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221026-1/630dc32d16a7ef2c294861fc3e4f47f7.jpg",
+      "cover_url": "",
       "actress": [
         "折坂麻衣子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-433"
     },
     {
-      "id": 83418,
-      "IDcode": "LUXU-1235",
-      "title": "ラグジュTV 1222 上品な美しさを持つ女性経営者がAV出演！豊満でたわわに実る胸に、愛液が滴る秘所を優しく責められ、久々の快楽にヨガる彼女に興奮すること間違いなし！！",
+      "id": 486854,
+      "IDcode": "259LUXU-1235",
+      "title": "单身一年的知性美女OL经过爱抚后慢慢把身体交给了男优 瞳みさ -C",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-02-17",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221224-1/a5739c5477516f3aec24d72b2bbf52d8.jpg",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/872d78c1a28c5e415a1c048cb9fc5530.jpg",
       "actress": [
         "折坂麻衣子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1235"
     }
   ]
 };

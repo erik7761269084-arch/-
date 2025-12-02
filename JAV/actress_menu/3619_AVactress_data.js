@@ -4,7 +4,7 @@ window.actressData = {
   "name": "长泽あずさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,19 +16,72 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 82858,
-      "IDcode": "MIGD-501",
-      "title": "搜查官慘遭觸手肏翻兩穴 長澤梓",
+      "id": 99704,
+      "IDcode": "JBD-160",
+      "title": "地獄のレディアタッカーズ3 拉致と拷問",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2013-04-01",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2013-03-07",
       "cover_url": "",
+      "actress": [
+        "川上優",
+        "吉田花",
+        "水沢真树",
+        "长泽あずさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-160"
+    },
+    {
+      "id": 102991,
+      "IDcode": "RBD-191",
+      "title": "奴隷城 6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2010-04-07",
+      "cover_url": "",
+      "actress": [
+        "长泽あずさ",
+        "姫咲りりあ",
+        "桥本杏子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-191"
+    },
+    {
+      "id": 100080,
+      "IDcode": "MIGD-450",
+      "title": "泼精中出肛交性爱-长泽梓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/17102db5/vod.jpg",
+      "actress": [
+        "长泽あずさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-450"
+    },
+    {
+      "id": 82858,
+      "IDcode": "MIGD-501",
+      "title": "追忆的搜查-长泽梓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/9e753902891bd744fe3ad6343b5fd3e4.jpg",
       "actress": [
         "长泽あずさ"
       ],
@@ -37,14 +90,14 @@ window.actressData = {
     {
       "id": 82652,
       "IDcode": "GG-165",
-      "title": "いとこの巨乳嫁 長澤あずさ",
+      "title": "在哥哥不注意的时候-長澤あずさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2013-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/07cbfcf9cdbd7259f3995d5d3dc5e60e.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "长泽あずさ"
       ],
@@ -53,14 +106,14 @@ window.actressData = {
     {
       "id": 66704,
       "IDcode": "HITMA-165",
-      "title": "我妻なたれ乳 HD（ブルーレイディスク）",
+      "title": "我妻子的乳房下垂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2012-12-21",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230220/LOSqDRGJ/1.jpg",
       "actress": [
         "本真友里",
         "杏美月",

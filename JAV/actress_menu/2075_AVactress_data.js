@@ -35,43 +35,13 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 5801,
-      "IDcode": "UMSO-596",
-      "title": "巨尻屬性美人20人大合集 ~ 水原みその 姫咲華 神阪朋子 小梅惠奈 優梨舞奈 篠田優 神宮寺奈緒 霧島さくら 月島花 淺美結花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-05-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/202505252143539797_thumbnail.webp",
-      "actress": [
-        "姫咲華",
-        "美谷朱里",
-        "優梨舞奈",
-        "神宫寺奈緒",
-        "水原みその",
-        "篠田優",
-        "小梅惠奈",
-        "神坂朋子",
-        "月島花",
-        "霧島さくら",
-        "浅美结花",
-        "神宫寺奈绪",
-        "安倍亜沙美",
-        "篠田优",
-        "优梨まいな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-596"
-    },
-    {
       "id": 88939,
       "IDcode": "UMSO-505",
       "title": "ちょっとお尻が大きめの桃尻美少女17人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-06-27",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/46f1de3d206cab27ff5dabe2d5dfa0bf.jpg",
@@ -91,16 +61,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-505"
     },
     {
+      "id": 88224,
+      "IDcode": "SDEN-038",
+      "title": "六本木のクラブで真正本物中出し大乱交ハードコアパーティ！！！！vol.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2ba2dc0e408547d9c505f6e3c8cae9ed.jpg",
+      "actress": [
+        "真木今日子",
+        "浅美结花",
+        "优梨まいな",
+        "爱里るい",
+        "真城杏",
+        "三浦あや"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDEN-038"
+    },
+    {
       "id": 77883,
       "IDcode": "KRU-048",
       "title": "本番ができると噂になっている欲求不満な美人妻が多数在籍している回春マッサージに入店したら…中出しまでさせてくれる超優良店だった！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-06-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/598c357fd3f8dcfe9557c46e3e94139c.jpg",
       "actress": [
         "桐香悠裡",
         "浅美结花",
@@ -112,25 +103,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-048"
     },
     {
-      "id": 88224,
-      "IDcode": "SDEN-038",
-      "title": "六本木のクラブで真正本物中出し大乱交ハードコアパーティ！！！！vol.2",
+      "id": 5801,
+      "IDcode": "UMSO-596",
+      "title": "巨尻属性の美女たち20人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-11-08",
-      "cover_url": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/202505252143539797_thumbnail.webp",
       "actress": [
-        "真木今日子",
+        "姫咲華",
+        "美谷朱里",
+        "優梨舞奈",
+        "神宫寺奈緒",
+        "水原みその",
+        "篠田優",
+        "小梅惠奈",
+        "神坂朋子",
+        "月島花",
+        "霧島さくら",
         "浅美结花",
-        "优梨まいな",
-        "爱里るい",
-        "真城杏",
-        "三浦あや"
+        "神宫寺奈绪",
+        "安倍亜沙美",
+        "篠田优",
+        "优梨まいな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDEN-038"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-596"
     }
   ]
 };

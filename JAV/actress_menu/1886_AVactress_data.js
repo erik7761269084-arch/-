@@ -34,15 +34,84 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 3491,
-      "IDcode": "MKCK-398",
-      "title": "巨乳晃不停，高潮時那小表情太撩人，我要射了！中出正常位精選4小時87人 ~ 有阪深雪 美園和花 有村希 清宮仁愛 希咲愛莉絲 莉莉遙香 雨宮響 宮本留衣 華澄結愛 鬼塚萌奈美 香阪紗梨 逢見梨花 藤井蘭々...",
+      "id": 84416,
+      "IDcode": "EBOD-922",
+      "title": "【FANZA限定】皆がシコッた大人気の地方局アナウンサーは俺の愛人 Hcupボディを一晩中独占する官能中出し性交 百瀬りこ 生写真3枚付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "publish_date": "2022-07-20",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/71ea5528167a902bcd9d447e3ec39a9e.jpg",
+      "actress": [
+        "百瀨莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-922"
+    },
+    {
+      "id": 88154,
+      "IDcode": "PPPE-039",
+      "title": "Hcupの巨乳が目立ち過ぎちゃってた元地方局アナウンサーAVデビュー 百瀬りこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OPPAI",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/186ea61c56302cfbd6067f62ce8e02e0.jpg",
+      "actress": [
+        "百瀨莉子",
+        "小田切ジュン",
+        "叶月桃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-039"
+    },
+    {
+      "id": 73092,
+      "IDcode": "URKK-069",
+      "title": "大奶壮阳沙龙-百瀬りこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "UNFINISHED",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "百瀨莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-069"
+    },
+    {
+      "id": 4404,
+      "IDcode": "TCHB-050",
+      "title": "とある男の撮影拐集03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e7e7a98bc99dfdd03327a/cover.jpg",
+      "actress": [
+        "宫泽千春",
+        "大原理央",
+        "紺野美衣奈",
+        "百瀨莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-050"
+    },
+    {
+      "id": 3491,
+      "IDcode": "MKCK-398",
+      "title": "揺れる巨乳とイキ顔がエロ過ぎて…俺もイッちゃうッ！種付け寸前の中出し正常位ベスト4時間87名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818045151795795_88584_thumbnail.webp",
       "actress": [
         "美園和花",
@@ -116,75 +185,6 @@ window.actressData = {
         "叶月桃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
-    },
-    {
-      "id": 4404,
-      "IDcode": "TCHB-050",
-      "title": "變態男的誘拐攝入集03 ~ 大原理央 宮澤千春 百瀨莉子 紺野美衣奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714204924266266_96030_thumbnail.webp",
-      "actress": [
-        "宫泽千春",
-        "大原理央",
-        "紺野美衣奈",
-        "百瀨莉子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-050"
-    },
-    {
-      "id": 73092,
-      "IDcode": "URKK-069",
-      "title": "最低10発はヌクッ！！巨乳を震わせながらイキまくる何発でも中出しOKの巨乳媚薬サロン 百瀬りこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "UNFINISHED",
-      "publish_date": "2022-10-08",
-      "cover_url": "",
-      "actress": [
-        "百瀨莉子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-069"
-    },
-    {
-      "id": 84416,
-      "IDcode": "EBOD-922",
-      "title": "【FANZA限定】皆がシコッた大人気の地方局アナウンサーは俺の愛人 Hcupボディを一晩中独占する官能中出し性交 百瀬りこ 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2022-07-20",
-      "cover_url": "",
-      "actress": [
-        "百瀨莉子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-922"
-    },
-    {
-      "id": 88154,
-      "IDcode": "PPPE-039",
-      "title": "Hcupの巨乳が目立ち過ぎちゃってた元地方局アナウンサーAVデビュー 百瀬りこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2022-06-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/ee7f008ea2cb50513dfc0cae8e02c49b.jpg",
-      "actress": [
-        "百瀨莉子",
-        "小田切ジュン",
-        "叶月桃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-039"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "永原菜由",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 82444,
       "IDcode": "EYAN-149",
-      "title": "永原菜由さん31歳 命令されるがままに悦んで腰を振る変態マゾヒスト人妻！ セックスレスで5歳の子持ち若い母親 4年ぶりのチ●ポで美巨乳震わせる膣内ザーメン漬けAVデビュー 懇願フェラでマ●コズブ濡れ！喉奥に男根突っ込みセルフイラマ！",
+      "title": "欲求不满的年轻人妻-永原菜由",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2020-03-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/28db50ead8e1650c9e4a9fabc61007c7.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b0a8c43d69727162985dc/cover.jpg",
       "actress": [
         "イセドン内村",
         "永原菜由"

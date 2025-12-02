@@ -35,7 +35,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-小高里保.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 87027,
@@ -44,15 +44,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-06-02",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231019/eRkGJaxw/1.jpg",
       "actress": [
         "小高里保",
         "凉宫琴音"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-368"
+    },
+    {
+      "id": 924,
+      "IDcode": "HEYZO-1164",
+      "title": "淫具高潮爽翻天！？～但還是肉棒最爽！～ - 小高里保",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-05-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20240410/20240410080958394394.jpg",
+      "actress": [
+        "小高里保"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1164"
     }
   ]
 };

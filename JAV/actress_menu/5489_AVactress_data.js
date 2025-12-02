@@ -4,7 +4,7 @@ window.actressData = {
   "name": "六本木リンダ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2013-05-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/00160a24335fba03eeba12e47c6746af.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/5a700bb85671a81e3595d5cab2e8c7e6.jpg",
       "actress": [
         "六本木リンダ"
       ],

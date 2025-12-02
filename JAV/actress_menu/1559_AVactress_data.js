@@ -34,19 +34,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-有森涼（事原みゆ）.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 4104,
-      "IDcode": "MKCK-394",
-      "title": "軟綿綿！極致肉感爆乳貼身挑逗 乳ワイパー21人240分鐘 ~ 宮本留衣 有森涼 有村希 吉根柚莉愛 深月芽衣 水原みその 碧波滴 雨宮響 楪可憐 神坂朋子",
+      "id": 12719,
+      "IDcode": "SSR-076",
+      "title": "美麗的女公司社長，以勾起欲望的性感身材身材，將聽話的員工訓練成性奴隸 ~ 有森涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-07-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040152470470_13582_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ebfb3452c12b4e6845fb0c/cover.jpg",
+      "actress": [
+        "有森涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSR-076"
+    },
+    {
+      "id": 4104,
+      "IDcode": "MKCK-394",
+      "title": "むにゅぅ。 密着おっぱいが最上級の肉感を魅せつける 乳ワイパー21名240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e718498bc99dfdd032d81/cover.jpg",
       "actress": [
         "吉根柚莉爱",
         "姫咲華",

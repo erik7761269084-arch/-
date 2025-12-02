@@ -22,8 +22,26 @@ window.actressData = {
     "Sakisaka Karen"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 96494,
+      "IDcode": "NNPJ-213",
+      "title": "用色色的小游戏测试男女之间是否纯在纯友谊",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "栄川乃亜",
+        "朝仓琴美",
+        "咲坂花恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-213"
+    },
     {
       "id": 83130,
       "IDcode": "MDTM-601",
@@ -31,10 +49,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2020-01-31",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221220-1/41e41c6b4a835bca2d1e0c58901605a6.jpg",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/3a8a0e8ce771c5f9f157d09d2520fac0.jpg",
       "actress": [
         "亜矢みつき",
         "桃尻かのん",
@@ -54,10 +72,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241224-1/737683ade7aab3cc104c056dc89e525f.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241201-1/118497e7a8cd3e8ee9b498344e4fb8f6.jpg",
       "actress": [
         "推川悠里",
         "妃月るい",

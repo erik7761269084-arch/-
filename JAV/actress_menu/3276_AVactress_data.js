@@ -22,45 +22,8 @@ window.actressData = {
     "Hirose Umi"
   ],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 61151,
-      "IDcode": "LABY-005",
-      "title": "幸せな生活に退屈を感じる日々…そんな人妻のハイリスクな男遊び",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "三和軟體",
-      "publish_date": "2025-08-31",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/43e16d77/vod.jpg",
-      "actress": [
-        "三吉菜々",
-        "新川优里",
-        "広瀬うみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-005"
-    },
-    {
-      "id": 82944,
-      "IDcode": "ZUKO-119",
-      "title": "うちのエリート家族に催眠術が効きすぎたから子作り",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2017-02-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221201-1/4eaf396c05913a9bcf8b31a0e1850fa0.jpg",
-      "actress": [
-        "安部未華子",
-        "佐佐木明希",
-        "神波多一花",
-        "広瀬うみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-119"
-    },
     {
       "id": 86938,
       "IDcode": "NHDTA-937",
@@ -68,8 +31,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
+      "type": "",
+      "company": "",
       "publish_date": "2017-01-19",
       "cover_url": "",
       "actress": [
@@ -80,15 +43,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-937"
     },
     {
-      "id": 100135,
-      "IDcode": "ZUKO-098",
-      "title": "うちの真面目な妹達が親戚のギャルに感化されよったから子作り",
+      "id": 98842,
+      "IDcode": "LID-044",
+      "title": "制服カメラ 広瀬うみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2017-01-06",
+      "cover_url": "",
+      "actress": [
+        "鲛岛",
+        "広瀬うみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LID-044"
+    },
+    {
+      "id": 100135,
+      "IDcode": "ZUKO-098",
+      "title": "亲戚的女孩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2016-04-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "AIKA",
@@ -98,6 +78,43 @@ window.actressData = {
         "広瀬うみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-098"
+    },
+    {
+      "id": 82944,
+      "IDcode": "ZUKO-119",
+      "title": "催眠大法让老妈和三个姐姐互相争夺我的肉棒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安部未華子",
+        "佐佐木明希",
+        "神波多一花",
+        "広瀬うみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZUKO-119"
+    },
+    {
+      "id": 61151,
+      "IDcode": "LABY-005",
+      "title": "幸せな生活に退屈を感じる日々…そんな人妻のハイリスクな男遊び",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "三和軟體",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "三吉菜々",
+        "新川优里",
+        "広瀬うみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-005"
     }
   ]
 };

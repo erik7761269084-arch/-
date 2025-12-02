@@ -37,8 +37,51 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240713/4e3f95ea-8ca7-47aa-b6bf-a6da2d154543.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 13335,
+      "IDcode": "MKCK-363",
+      "title": "享受從胸部到頸部的最佳體驗！ 騎乘式做愛 Best 56 本番大合集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712011500373373.jpg",
+      "actress": [
+        "柏木小夏",
+        "天月梓",
+        "北野未奈",
+        "羽月乃蒼",
+        "姫咲華",
+        "楪可憐",
+        "绫濑心",
+        "小花暖",
+        "天晴乃愛",
+        "星乃夏月",
+        "瀬田一花",
+        "水原みその",
+        "愛瀬優里",
+        "逢見梨花",
+        "花柳杏奈",
+        "莉莉遙香",
+        "菊乃らん",
+        "深田詠美",
+        "弓乃凜夢",
+        "雨宮響",
+        "小梅惠奈",
+        "鈴木心春",
+        "希咲愛莉絲",
+        "藤子未央",
+        "森下ことの",
+        "矢野沙衣",
+        "桃田香織",
+        "岩瀨里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-363"
+    },
     {
       "id": 82634,
       "IDcode": "HND-559",
@@ -46,8 +89,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
+      "type": "",
+      "company": "",
       "publish_date": "2018-08-25",
       "cover_url": "",
       "actress": [
@@ -62,7 +105,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
       "publish_date": "2018-05-13",
       "cover_url": "",
@@ -72,6 +115,24 @@ window.actressData = {
         "玉木玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-631"
+    },
+    {
+      "id": 96405,
+      "IDcode": "NNPJ-294",
+      "title": "搭訕男女好友混浴初體驗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "相沢夏帆",
+        "岩瀨里奈",
+        "雏鹤みお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-294"
     }
   ]
 };

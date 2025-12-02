@@ -49,83 +49,115 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230402/95cbfc31-3693-4735-a323-8df6246b8022.jpg",
     "https://picture.yoshiclub.xyz/20230402/f6e4662f-037d-457d-836f-815211578fe3.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 106392,
       "IDcode": "MIDE-080",
-      "title": "在南島的開放性愛 乃乃果花",
+      "title": "南国岛屿开放性爱-乃乃果花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-03-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/bc9af57406db4ef3a4691c15a58908d2.jpg",
       "actress": [
         "乃々果花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-080"
     },
     {
-      "id": 105608,
-      "IDcode": "MIDD-982",
-      "title": "女教師レイプ輪姦 乃々果花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-07-01",
-      "cover_url": "",
-      "actress": [
-        "乃々果花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-982"
-    },
-    {
       "id": 105746,
       "IDcode": "MIDD-970",
-      "title": "桃乳逆レイプナース 乃々果花",
+      "title": "美女巨乳护士-乃乃果花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-06-01",
-      "cover_url": "https://tutu1.space/images/2024/03/08/d937c0d4b3aeac1e24e5f5a1ae24acf5.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240309-1/2cf85da5295866fc3e05164f131a2929.jpg",
       "actress": [
         "乃々果花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-970"
     },
     {
-      "id": 105036,
-      "IDcode": "MIDD-857",
-      "title": "偶像的夢幻開苞 乃乃果花",
+      "id": 105608,
+      "IDcode": "MIDD-982",
+      "title": "女教师被强奸轮奸-乃々果花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2012-04-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240318-1/98efbe1671a5bd98ddb78f35fef16922.jpg",
+      "actress": [
+        "乃々果花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-982"
+    },
+    {
+      "id": 105222,
+      "IDcode": "MIMK-026",
+      "title": "老爸死后儿子想办法找人让妈妈怀孕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240505-1/ef8324ba96bed10e39bdccd01788d9b1.jpg",
+      "actress": [
+        "乃々果花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-026"
+    },
+    {
+      "id": 105036,
+      "IDcode": "MIDD-857",
+      "title": "帮助处男们童贞毕业的巨乳美女-乃乃果花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240521-1/c50ed19e7a1912a1f53d2c72ee3cda5f.jpg",
       "actress": [
         "乃々果花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-857"
     },
     {
+      "id": 104657,
+      "IDcode": "MIMK-036",
+      "title": "堕落的家庭教师-乃乃果花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e46eac944bbe4ef03046a2/cover.jpg",
+      "actress": [
+        "乃々果花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-036"
+    },
+    {
       "id": 1566,
       "IDcode": "MIDD-829",
-      "title": "七郎髒話野乃香",
+      "title": "乃乃果花淫语诱惑",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "MOODYZ",
-      "publish_date": "2012-01-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/4db3737a-4530-4104-aa0c-797e69aacd47.jpg",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/517bd286228c2f12346c38ec5bbb4e04.jpg",
       "actress": [
         "乃々果花"
       ],

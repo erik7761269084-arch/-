@@ -4,7 +4,7 @@ window.actressData = {
   "name": "朝霧ましろ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,31 +19,31 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 95442,
-      "IDcode": "MMRAA-351",
-      "title": "コスって！恋して！/朝霧ましろ チェキ付き",
+      "id": 445132,
+      "IDcode": "MMR-AA-351",
+      "title": "朝霧ましろコスって！恋して！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2024-11-27",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/28332bfd/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250625-1/5fa42e4a59fb721509ef3d4f0f30166d.jpg",
       "actress": [
         "朝霧ましろ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMRAA-351"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMR-AA-351"
     },
     {
       "id": 95978,
       "IDcode": "MARAA-193",
-      "title": "ふたりえっち！",
+      "title": "朝霧ましろ・月見るい ふたりえっち！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2024-10-30",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "月見るい",

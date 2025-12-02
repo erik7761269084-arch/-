@@ -41,36 +41,36 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250118/f1872248-2db3-4826-800a-7268e38bbf3c.jpg",
     "https://picture.yoshiclub.xyz/20250118/58e57bc8-acc6-4d1a-b27f-7d2c0e91028a.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 6894,
-      "IDcode": "MEYD-997",
-      "title": "醉後化身舌吻小惡魔！狂舔猛撩到失控 ~ 真北祈",
+      "id": 9020,
+      "IDcode": "MEYD-961",
+      "title": "前女播音员-真北祈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411230532681681.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074608849849.jpg",
       "actress": [
         "真北祈",
-        "日森一",
-        "えるる"
+        "鲛岛",
+        "ナイアガラ翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-997"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-961"
     },
     {
       "id": 8297,
       "IDcode": "MEYD-969",
-      "title": "她的眼神和扭動臀部的方式太騷了……！ 超淫蕩SUPER癡女姐姐以騎乘勢讓男人一射再射！ ~ 真北祈",
+      "title": "视线和腰肢实在是太过-真北祈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-02-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073055812812.jpg",
       "actress": [
         "真北祈",
@@ -81,22 +81,71 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-969"
     },
     {
-      "id": 9020,
-      "IDcode": "MEYD-961",
-      "title": "新人出道，前24歲的女主播，是沒幾天就要結婚的王牌次世代人妻 首次亮相 AV DEBUT ~ 真北祈",
+      "id": 7541,
+      "IDcode": "MEYD-984",
+      "title": "家にやって来たデカチ〇ポをつまみ食いしちゃうフェラチオ大好き奥さんです。 真北祈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074608849849.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084650955955.jpg",
+      "actress": [
+        "真北祈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-984"
+    },
+    {
+      "id": 6894,
+      "IDcode": "MEYD-997",
+      "title": "酔っぱらってベロキス魔になった真北祈にベロッベロに舐められまくって犯●れまくるー。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d08d6d52c12b4e68103891/cover.jpg",
       "actress": [
         "真北祈",
-        "鲛岛",
-        "ナイアガラ翔"
+        "日森一",
+        "えるる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-961"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-997"
+    },
+    {
+      "id": 6104,
+      "IDcode": "MFYD-003",
+      "title": "單身最後想做人生最爽的事-真北祈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515053153103103_thumbnail.webp",
+      "actress": [
+        "真北祈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-003"
+    },
+    {
+      "id": 3432,
+      "IDcode": "ARSO-25197",
+      "title": "舞ワイフ ～セレブ倶楽部～ 197",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROUND",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21d35fbe7fd63de7f71fc/cover.jpg",
+      "actress": [
+        "佐伯蓮加",
+        "真北祈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25197"
     }
   ]
 };

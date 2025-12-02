@@ -43,32 +43,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 2393,
-      "IDcode": "STZY-019",
-      "title": "AV出道前珍藏畫面曝光！I杯超拚打工女大學生20歲誘惑來襲 ~ 小笠原菜乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210845840840_14490_thumbnail.webp",
-      "actress": [
-        "小笠原菜乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-019"
-    },
-    {
       "id": 2490,
       "IDcode": "START-377",
-      "title": "SOD年度新人！I罩杯極品黃金比例身材 極致美顏寫真偶像 AV DEBUT ~ 小笠原菜乃",
+      "title": "Iカップ最強の黄金比美ボディ 新人グラビアアイドル AV DEBUT 小笠原菜乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/de0dee00/vod.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "小笠原菜乃",
         "鲛岛",
@@ -76,6 +60,22 @@ window.actressData = {
         "イセドン内村"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-377"
+    },
+    {
+      "id": 2393,
+      "IDcode": "STZY-019",
+      "title": "AVデビュー前の秘蔵映像公開！Iカップシャカリキアルバイター女子大学生（20）小笠原菜乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小笠原菜乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-019"
     }
   ]
 };

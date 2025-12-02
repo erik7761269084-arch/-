@@ -4,7 +4,7 @@ window.actressData = {
   "name": "杉咲あか里",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 71527,
       "IDcode": "MARAA-213",
-      "title": "園児たちにはナイショだよ！/杉咲あか里 チェキ付き",
+      "title": "園児たちにはナイショだよ！杉咲あか里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-03-26",
-      "cover_url": "https://tutu1.space/images/2025/10/01/79e4a71175181544a27dd6c6abb0b660.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "杉咲あか里"
       ],

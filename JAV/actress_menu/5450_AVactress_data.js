@@ -31,9 +31,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-16",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "推川悠里",

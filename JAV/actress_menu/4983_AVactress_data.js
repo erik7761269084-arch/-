@@ -4,7 +4,7 @@ window.actressData = {
   "name": "松尾江里子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 81334,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-09-24",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220925-1/a2ecda84c872353394bf8d75acb472fe.jpg",
@@ -41,8 +41,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-13",
       "cover_url": "",
       "actress": [
@@ -61,7 +61,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
       "publish_date": "2019-06-06",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/020c3d192341a57b2c831ed69551bfb4.jpg",
@@ -71,16 +71,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-108"
     },
     {
+      "id": 97956,
+      "IDcode": "AUKG-474",
+      "title": "レズ堕ち義姉妹～がまんできない喪服未",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "松尾江里子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-474"
+    },
+    {
       "id": 88374,
       "IDcode": "JUY-729",
       "title": "Madonna専属 第2弾！！ キャリアウーマンを首ったけにする唾液ねっちょり接吻性交 松尾江里子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-01-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/beedd7afa714c0ebd32ed3b88ae9d2cf.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/c7652d6053a9ef6159c9fe5d95aa2932.jpg",
       "actress": [
         "しみけん",
         "松尾江里子"

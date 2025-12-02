@@ -32,96 +32,69 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240713/7e090ae6-dc02-494a-a096-060ba6b4b1b7.jpg"
   ],
-  "works_count": 14,
+  "works_count": 20,
   "related_dramas": [
     {
-      "id": 2371,
-      "IDcode": "SUMU-004",
-      "title": "卸妝真面目！零修圖素顏誘惑 ~ 乙羽あむ",
+      "id": 12911,
+      "IDcode": "PKPD-316",
+      "title": "20 歲G罩杯女大學生，簡單的中出工作，讓你5秒內射精 ~ 乙羽あむ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Tender",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223142650650_39542_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-08-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240805/794ba5b4-2eb2-4b17-80ba-a225b1fd5a6a.jpg",
       "actress": [
         "乙羽あむ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUMU-004"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-316"
     },
     {
-      "id": 2578,
-      "IDcode": "PIYO-211",
-      "title": "禁忌小嫩妹被媚藥迷倒後，被極惡大雞巴狠狠鬼畜調教 特別篇第七彈 ~ 乙羽あむ 日向ひかげ 廣瀬好美 市川りく",
+      "id": 93407,
+      "IDcode": "NAMH-012",
+      "title": "膣キュン巨乳美少女に12発 はじめての真正中出し撮影 乙羽あむ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Hiyoko",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250920/20250920051414415415_82713_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/04ee9bf503ffd655f05c89748c7b53ed.jpg",
       "actress": [
-        "市川りく",
-        "日向ひかげ",
-        "乙羽あむ",
-        "廣瀬好美"
+        "乙羽あむ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-012"
     },
     {
-      "id": 3540,
-      "IDcode": "MUCD-333",
-      "title": "運動部美少女滿身大汗練完直接開幹青春激情SEX！6位運動妹子情侶內射精選合集 ~ 乙羽阿姆 倉木詩織 雅子里菜 皐月由拉 奈築里緒 望月蕾",
+      "id": 78229,
+      "IDcode": "RDVHJ-167",
+      "title": "素人！！母娘ナンパ中出し！！Vol 30",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140343525353_52339_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250109/2a2NkrTK/1.jpg",
       "actress": [
-        "望月蕾",
-        "倉木詩織",
-        "雅子裡菜",
         "乙羽あむ",
-        "皐月ゆら",
-        "奈築里緒",
-        "仓木诗织"
+        "姫川礼子",
+        "秋元美織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-333"
-    },
-    {
-      "id": 4070,
-      "IDcode": "FNTR-007",
-      "title": "美少女內射精選集 有男友卻被陌生大屌猛插內射的女高中生 5人5小時大合集 ~ 星七奈奈美 江澄ゆゆ 乙羽あむ 甘井くるみ 鬆井日奈子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-07-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250727/20250727110936375375_58683_thumbnail.webp",
-      "actress": [
-        "松井日奈子",
-        "星七奈奈美",
-        "乙羽あむ",
-        "甘井くるみ",
-        "江澄ゆゆ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNTR-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-167"
     },
     {
       "id": 69693,
       "IDcode": "DOKS-634",
-      "title": "口の中の感触をじっくりと味わう、優しいスロ～フェラチオ（4）",
+      "title": "口の中の感触をじっくりと味わう、優しいスロ～フェラチオ 4",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OFFICE K’S",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/08/1e7d803e/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "宇流木沙羅",
         "雅子裡菜",
@@ -133,110 +106,47 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-634"
     },
     {
-      "id": 7099,
-      "IDcode": "DSJH-012",
-      "title": "學生會中被抓包就完蛋！！遙控跳蛋羞恥PLAY ~ 宇流木さらら",
+      "id": 11776,
+      "IDcode": "MOOR-025",
+      "title": "上門訪問的看護師被調教 ~ 乙羽あむ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OFFICE K’S",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250402/c7a458d5-3e02-43b6-81ce-16d81491ce69.jpg",
-      "actress": [
-        "柏木小夏",
-        "宇流木沙羅",
-        "雅子裡菜",
-        "藤田梢",
-        "乙羽あむ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSJH-012"
-    },
-    {
-      "id": 8360,
-      "IDcode": "HUNTC-285",
-      "title": "我們這樣學習正經嗎? 復習累了的女同學們，開始釋放她們的性欲了... ~ 乙羽あむ 泉莉音 市井結夏 宇流木沙羅 市川りく 泉田栞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080953584584.jpg",
-      "actress": [
-        "宇流木沙羅",
-        "泉莉音",
-        "市川りく",
-        "市井結夏",
-        "乙羽あむ",
-        "泉田栞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-285"
-    },
-    {
-      "id": 8582,
-      "IDcode": "GEBB-009",
-      "title": "無防備女 睡眠奸盜撮II 被捕獲的4名素人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250202/20250202131028406406.jpg",
-      "actress": [
-        "堀北実来",
-        "美木雛乃",
-        "乙羽あむ",
-        "瀬戸ひなこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-009"
-    },
-    {
-      "id": 8572,
-      "IDcode": "SORA-586",
-      "title": "強制下藥中出：綁架巨乳早熟高中生！過度撮取媚藥導致性癮發作，被掐喉嚨翻着白眼的極限高潮！~ 乙羽あむ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250203/20250203094659618618.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/56ede9bee51c945c9cd8769aae184024.jpg",
       "actress": [
         "乙羽あむ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-025"
     },
     {
-      "id": 9295,
-      "IDcode": "AKDL-311",
-      "title": "[AKNR 戀物癖] 完全着衣光鮮的OL，我對她很興奮 ~ 乙羽あむ 堀北実來 若宮葉月",
+      "id": 10846,
+      "IDcode": "NACR-869",
+      "title": "巨乳美术大学生的悲剧-乙羽亚梦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109030437483483.jpg",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241105/7362a359-1f0c-48c4-9a22-74545f603ebf.jpg",
       "actress": [
-        "堀北実来",
-        "若宮葉月",
-        "乙羽あむ",
-        "若宫はずき"
+        "乙羽あむ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-311"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-869"
     },
     {
       "id": 10111,
       "IDcode": "HUNTC-295",
-      "title": "如果有大雞巴犒勞的話，我們一定好好練習！ 女子田徑合宿我的雞巴根本沒有喘息的機會!！",
+      "title": "「ご褒美チ○ポがあれば練習頑張れます！」合宿所のバイトは超多忙！だって女子陸上部の息抜きはボクのチ○ポだけだから！2 親戚が経営する合宿所で…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2024-12-10",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241206/20241206065355719719.jpg",
       "actress": [
         "皆月光",
@@ -251,54 +161,257 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-295"
     },
     {
-      "id": 78229,
-      "IDcode": "RDVHJ-167",
-      "title": "素人！！母娘ナンパ中出し！！Vol 30 秋元美織、水瀬さなのチェキとパンティ2枚付き",
+      "id": 9882,
+      "IDcode": "MUKD-518",
+      "title": "女校文化祭神企劃降臨！ ！ 後宮羣飛，讓每個人都興奮的風俗文化祭 ~ 乙羽あむ 奈築里緒 前田美波 倉木詩織 廣瀨好美 市川りく",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "塗鴉日本",
-      "publish_date": "2024-11-27",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787aba28daf6b1db43c3003/cover.jpg",
+      "actress": [
+        "前田美波",
+        "倉木詩織",
+        "市川りく",
+        "乙羽あむ",
+        "廣瀬好美",
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-518"
+    },
+    {
+      "id": 9295,
+      "IDcode": "AKDL-311",
+      "title": "完全着衣光沢サテンOL 同僚のつるつるサテンに発情しちゃった俺",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/70b7b46d/vod.jpg",
+      "actress": [
+        "堀北実来",
+        "若宮葉月",
+        "乙羽あむ",
+        "若宫はずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-311"
+    },
+    {
+      "id": 9188,
+      "IDcode": "HUNTC-282",
+      "title": "帰宅後30秒で『お帰り』からの即挿入！ボクの家が問題児女子生徒のたまり場になってしまい次々と教え子相手にハメまくり！中出ししまくり！4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080527618618.jpg",
+      "actress": [
+        "雅子裡菜",
+        "乙羽あむ",
+        "宮崎玲",
+        "白浜美羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-282"
+    },
+    {
+      "id": 9033,
+      "IDcode": "MUKD-519",
+      "title": "極惡非道的地獄繪圖 女子拉拉隊的合宿集團輪奸 ~ 乙羽あむ 奈築裏緒 前田美波 倉木詩織 廣瀬好美 市川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8e9f3cf22ae3e04db551c/cover.jpg",
+      "actress": [
+        "前田美波",
+        "倉木詩織",
+        "市川りく",
+        "乙羽あむ",
+        "廣瀬好美",
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-519"
+    },
+    {
+      "id": 8582,
+      "IDcode": "GEBB-009",
+      "title": "無防備女 睡眠姦盗撮II 4名捕獲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/032d11db7edb16cde9161e020498873c.jpg",
+      "actress": [
+        "堀北実来",
+        "美木雛乃",
+        "乙羽あむ",
+        "瀬戸ひなこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GEBB-009"
+    },
+    {
+      "id": 8572,
+      "IDcode": "SORA-586",
+      "title": "強●クスリ漬け 教え子の巨乳マセガキJ系を拉致！過剰摂取でガンギマリSEX依存 首締め鬼イラマ白目絶頂！ 乙羽あむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b90309cf22ae3e04db566b/cover.jpg",
+      "actress": [
+        "乙羽あむ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-586"
+    },
+    {
+      "id": 8360,
+      "IDcode": "HUNTC-285",
+      "title": "「そんな勉強よりエッチな勉強しようよ」真面目な勉強会がエッチなおち○ちん勉強会に！勉強に飽きたクラスメイト女子が勉強のストレスと性欲を…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080953584584.jpg",
+      "actress": [
+        "宇流木沙羅",
+        "泉莉音",
+        "市川りく",
+        "市井結夏",
+        "乙羽あむ",
+        "泉田栞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-285"
+    },
+    {
+      "id": 7809,
+      "IDcode": "DOKS-627",
+      "title": "乳首玩弄融入日常的世界 女學生渾然不覺被弄到乳首高潮的敏感乳首學園日常 ~ 乙羽あむ 雅子里菜 柏木小夏 藤田梢 宇流木沙羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dedc3cdbf24d4ed317dd3d/cover.jpg",
+      "actress": [
+        "柏木小夏",
+        "宇流木沙羅",
+        "雅子裡菜",
+        "藤田梢",
+        "乙羽あむ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-627"
+    },
+    {
+      "id": 7099,
+      "IDcode": "DSJH-012",
+      "title": "生徒会議中にバレたらヤバイ！！リモコンバイブ恥感",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250402/c7a458d5-3e02-43b6-81ce-16d81491ce69.jpg",
+      "actress": [
+        "柏木小夏",
+        "宇流木沙羅",
+        "雅子裡菜",
+        "藤田梢",
+        "乙羽あむ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSJH-012"
+    },
+    {
+      "id": 4070,
+      "IDcode": "FNTR-007",
+      "title": "美少女中出し総集編 大好きな彼氏がいるのに…他人棒デカチンをぶち込まれ中出しされた女子校生 5名収録",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
+        "松井日奈子",
+        "星七奈奈美",
         "乙羽あむ",
-        "姫川礼子",
-        "秋元美織"
+        "甘井くるみ",
+        "江澄ゆゆ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-167"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNTR-007"
     },
     {
-      "id": 93407,
-      "IDcode": "NAMH-012",
-      "title": "膣キュン巨乳美少女に12発 はじめての真正中出し撮影 乙羽あむ",
+      "id": 3540,
+      "IDcode": "MUCD-333",
+      "title": "部活帰りの汗だく美少女と練習着のまま即ハメ青春SEX！ 運動部女子6人 カップル中出しBEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-08-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/1ca9409fa29e47a821831290045ffdcf.jpg",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/26/8e919d1c43ee580ce3608edfabe787d2.jpg",
       "actress": [
-        "乙羽あむ"
+        "望月蕾",
+        "倉木詩織",
+        "雅子裡菜",
+        "乙羽あむ",
+        "皐月ゆら",
+        "奈築里緒",
+        "仓木诗织"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-333"
     },
     {
-      "id": 12911,
-      "IDcode": "PKPD-316",
-      "title": "20 歲G罩杯女大學生，簡單的中出工作，讓你5秒內射精 ~ 乙羽あむ",
+      "id": 2578,
+      "IDcode": "PIYO-211",
+      "title": "絶対に手を出してはいけないひよこ女子に媚薬まみれの極悪チ○コで鬼イラマチオ。そして… その漆 （7）特別編！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20240805/794ba5b4-2eb2-4b17-80ba-a225b1fd5a6a.jpg",
+      "type": "",
+      "company": "Hiyoko",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1822731a2714f1c1faf90/cover.jpg",
+      "actress": [
+        "市川りく",
+        "日向ひかげ",
+        "乙羽あむ",
+        "廣瀬好美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-211"
+    },
+    {
+      "id": 2371,
+      "IDcode": "SUMU-004",
+      "title": "ノーメイク！ノーフェイク！乙羽あむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Tender",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "乙羽あむ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUMU-004"
     }
   ]
 };

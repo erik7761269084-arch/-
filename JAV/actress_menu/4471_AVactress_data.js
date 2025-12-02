@@ -4,7 +4,7 @@ window.actressData = {
   "name": "舞岛あかり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,38 +19,16 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 75646,
-      "IDcode": "MGT-105",
-      "title": "街角シロウトナンパ！ vol.80 女子大生をガチ口説き。12",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-03-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/5cd76e2f829bfdd5be03fe2168fab54e.jpg",
-      "actress": [
-        "胡桃圓",
-        "鲛岛",
-        "インフィニティ",
-        "大原结莉",
-        "近藤れおな",
-        "舞岛あかり",
-        "夜空せいら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-105"
-    },
-    {
       "id": 74645,
       "IDcode": "CJOB-046",
       "title": "「丸出しチンチンみ～つけたっ！」絶対に脱がされない高みの立場から興味津々に 全裸の男をいじめる着衣のお姉さんたち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/af05023fce8b4e3689d5e70d81d0ba18.jpg",
       "actress": [
         "波多野结衣",
         "美谷朱里",
@@ -77,7 +55,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-01-30",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221119-1/4b5171b249b0fac004177db46fb1d7aa.jpg",
@@ -93,10 +71,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2018-10-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/318b8097aac089e74bc482d7f31a38db.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/3ecb64c6c186fc1665e13271985133c1.jpg",
       "actress": [
         "若菜奈央",
         "舞岛あかり"
@@ -106,18 +84,40 @@ window.actressData = {
     {
       "id": 82669,
       "IDcode": "HBAD-406",
-      "title": "罠に落ちた新妻 男を知った人妻の躰はオークションで売られ叔父に中出しされた 舞島あかり",
+      "title": "落入陷阱的新婚人妻-舞島あかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HIBINO",
-      "publish_date": "2018-02-22",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "舞岛あかり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-406"
+    },
+    {
+      "id": 75646,
+      "IDcode": "MGT-105",
+      "title": "街角シロウトナンパ！ vol.80 女子大生をガチ口説き。12",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/4aff4ed01e5fa350c14c31716ff02838.jpg",
+      "actress": [
+        "胡桃圓",
+        "鲛岛",
+        "インフィニティ",
+        "大原结莉",
+        "近藤れおな",
+        "舞岛あかり",
+        "夜空せいら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-105"
     }
   ]
 };

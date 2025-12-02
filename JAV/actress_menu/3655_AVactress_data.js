@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ゆーと",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,72 +19,38 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
-      "id": 92382,
-      "IDcode": "MOGI-077",
-      "title": "玄関開けたら即SEX!精巣パンパンパーンなMチ〇コを素人えちえちお姉さんが焦らして朝までたっぷり絞り取りFuck! 滝ゆいな",
+      "id": 100506,
+      "IDcode": "GVH-231",
+      "title": "性教育-瞳リョウ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-03-09",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "瞳リョウ",
+        "ゆーと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-231"
+    },
+    {
+      "id": 92382,
+      "IDcode": "MOGI-077",
+      "title": "业余性工作者",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/5ef9545df31b14cf7f6524d490f552aa.jpg",
       "actress": [
         "滝ゆいな",
         "ゆーと"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-077"
-    },
-    {
-      "id": 69254,
-      "IDcode": "RCTD-500",
-      "title": "近親相姦人狼ゲーム 本当にハメているのは誰だ？",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2023-01-09",
-      "cover_url": "",
-      "actress": [
-        "美園和花",
-        "吉根柚莉爱",
-        "ゆーと"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-500"
-    },
-    {
-      "id": 66864,
-      "IDcode": "FOCS-102",
-      "title": "ザコチ●コの逆襲！友人のくそ生意気なガキ妹をナマイキさせまくり！ミニマムマ●コに中出し激ピス！もうらめぇ…イきまくってるから… 由良かな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2022-11-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250505-1/1174e7431dd8e55479096cf8f7e1288c.jpg",
-      "actress": [
-        "ゆーと"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-102"
-    },
-    {
-      "id": 67764,
-      "IDcode": "SDJS-170",
-      "title": "「あなたのお背中、お流しします」攻められ好きなエゴマゾユーザー様宅のお風呂場で混浴接待 ジーっと見つめて丁寧に寄り添うハダカの密着SEX実習!ホテルコンシェルジュだった経験を活かした高〜いご奉仕精神でユーザー様のオチ●ポもカチンコチン!松川令奈(メディア事業部)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-11-10",
-      "cover_url": "",
-      "actress": [
-        "ゆーと",
-        "松川令奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-170"
     },
     {
       "id": 86165,
@@ -93,31 +59,65 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
-      "publish_date": "2022-10-11",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2bd4200f39f8f0826610f38116d1f519.jpg",
       "actress": [
         "ゆーと"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-078"
     },
     {
-      "id": 100506,
-      "IDcode": "GVH-231",
-      "title": "媽媽的幹砲性教育 瞳亮",
+      "id": 69254,
+      "IDcode": "RCTD-500",
+      "title": "近親交配的狼人殺遊戲 真正在抽插的人是誰呢？ 美園和花 寶田萌奈美 吉根柚莉愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2021-05-06",
-      "cover_url": "https://tutu1.space/images/2023/04/13/6623c390c97283605aadb23837871495.jpg",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250330-1/26db4e4fda16eee5076ea8fbf2988db7.jpg",
       "actress": [
-        "瞳リョウ",
+        "美園和花",
+        "吉根柚莉爱",
         "ゆーと"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-231"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-500"
+    },
+    {
+      "id": 67764,
+      "IDcode": "SDJS-170",
+      "title": "浴室里混合洗澡-松川令奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250413-1/a85cabdef0b20c7f77aee13ede39163e.jpg",
+      "actress": [
+        "ゆーと",
+        "松川令奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-170"
+    },
+    {
+      "id": 66864,
+      "IDcode": "FOCS-102",
+      "title": "我射得很厉害-良かな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/43a817c6609f05f5e4db1af591701f54.jpg",
+      "actress": [
+        "ゆーと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-102"
     }
   ]
 };

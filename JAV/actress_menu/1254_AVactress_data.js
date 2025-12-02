@@ -32,55 +32,118 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230122/ad96fe43-d94d-455c-b6ca-b2fa66091f53.jpg",
     "https://picture.yoshiclub.xyz/20230122/612a3b2c-f4d2-4d29-9142-d26bcf65b7a2.jpg"
   ],
-  "works_count": 11,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 101708,
-      "IDcode": "MIDE-339",
-      "title": "女友大姐偷偷淫誘惑 初川南",
+      "id": 97682,
+      "IDcode": "MDB-947",
+      "title": "ボクだけに迫ってくる淫乱美女たち！最後の一滴まで搾りとられるALL主観BEST4時間2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2016-07-01",
-      "cover_url": "https://tutu1.space/images/2023/08/25/7a44446e6b597b778a2bd16d8c3994c9.jpg",
-      "actress": [
-        "初川南",
-        "佳苗瑠華",
-        "ゆうき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-339"
-    },
-    {
-      "id": 88433,
-      "IDcode": "MIAD-889",
-      "title": "私立後宮淫語學園 波多野結衣 佳苗瑠華 大槻響",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2016-04-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231007-1/14a62d89051159c9e178f95467083e04.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-10-26",
+      "cover_url": "http://15.155250922.com/upload/vod/20230303/61mdb00947pl.jpg",
       "actress": [
         "波多野结衣",
-        "大槻响",
-        "佳苗瑠華"
+        "枢木葵",
+        "安部未華子",
+        "阿部乃美久",
+        "霧島さくら",
+        "麻里梨夏",
+        "尾上若叶",
+        "佳苗瑠華",
+        "水野朝陽",
+        "佐佐波绫"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-889"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-947"
+    },
+    {
+      "id": 100242,
+      "IDcode": "NHDTA-811",
+      "title": "アイドル癡漢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-04-21",
+      "cover_url": "http://15.155250922.com/upload/vod/20221006/1nhdta00811pl.jpg",
+      "actress": [
+        "葵玲奈",
+        "佳苗瑠華",
+        "小仓由纪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-811"
+    },
+    {
+      "id": 61237,
+      "IDcode": "NHDTA-667",
+      "title": "癡漢‘M’覺醒～在幹砲房間被輪姦覺醒快樂的從順少女～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-04-23",
+      "cover_url": "",
+      "actress": [
+        "仓多真央",
+        "佳苗瑠華",
+        "凉川绚音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-667"
+    },
+    {
+      "id": 99182,
+      "IDcode": "BBAN-034",
+      "title": "レズビアンハイスクール～放課後ノンストップ＆ハイテンシ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-04-07",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban034pl.jpg",
+      "actress": [
+        "阿部乃美久",
+        "佳苗瑠華",
+        "上原亞衣",
+        "凉宫琴音",
+        "槇原爱菜",
+        "小仓由纪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-034"
+    },
+    {
+      "id": 99123,
+      "IDcode": "BBAN-029",
+      "title": "家庭教師レズビアン 私、教え子の女子校生にレズ調教されています。 桜木優希音 佳苗るか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-02-07",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200726/bban029pl.jpg",
+      "actress": [
+        "佳苗瑠華",
+        "桜木优希音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-029"
     },
     {
       "id": 107161,
       "IDcode": "SDDE-404",
-      "title": "性欲処理専門 セックス外来医院 9 真正中出し科 ひとりで50人の患者と生性交する人妻看護師の1日に密着！碧しの＋シリーズ初のBEST盤付き 2枚組",
+      "title": "性治疗专家性门诊",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2015-06-06",
-      "cover_url": "https://tutu1.space/images/2022/12/15/66a76f7b05d2db75ec81b63b84a1587b.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/acb8c1f1efcea6cab751d532f7323c30.jpg",
       "actress": [
         "篠惠美",
         "羽月希",
@@ -94,66 +157,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-404"
     },
     {
-      "id": 61237,
-      "IDcode": "NHDTA-667",
-      "title": "癡漢‘M’覺醒～在幹砲房間被輪姦覺醒快樂的從順少女～",
+      "id": 101708,
+      "IDcode": "MIDE-339",
+      "title": "女朋友超可爱的虎牙姐姐其实是个小恶魔",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2015-04-23",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240418-1/081cb7ecb740b736238398cd12ff640f.jpg",
       "actress": [
-        "仓多真央",
+        "初川南",
         "佳苗瑠華",
-        "凉川绚音"
+        "ゆうき"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-667"
-    },
-    {
-      "id": 67295,
-      "IDcode": "FSET-544",
-      "title": "看著在學校搞起蕾絲邊的女性們肉棒插入後有感覺的我",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-04-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250426-1/f52e2f8b23d581c4cd1684e56b2332d5.jpg",
-      "actress": [
-        "佳苗瑠華",
-        "樱井步"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-544"
-    },
-    {
-      "id": 82400,
-      "IDcode": "GVG-080",
-      "title": "大人の身体に成長してた姪っ子にフル勃起が避けられない叔父とその息子 佳苗るか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2014-12-18",
-      "cover_url": "",
-      "actress": [
-        "佳苗瑠華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-339"
     },
     {
       "id": 97658,
       "IDcode": "SDDE-376",
-      "title": "デカちん執事をオナニー道具のために雇って、腰フリ騎乗位で快楽を満たす美人三姉妹",
+      "title": "美人三姉妹-波多野結衣 佳苗るか 早瀬ありす",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2014-11-20",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "波多野结衣",
@@ -169,46 +199,48 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2014-07-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231010-1/c6a212eb928f2585cea77ea821781962.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/e12e2f6ea4c8f5a3feb957a5c3fc4aa3.jpg",
       "actress": [
         "佳苗瑠華"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-601"
     },
     {
-      "id": 1965,
-      "IDcode": "LAFBD-26",
-      "title": "Laforet Girl Vol.26：香苗流花",
+      "id": 88433,
+      "IDcode": "MIAD-889",
+      "title": "私立后宫淫语学院的小痴女们全校师生的肉棒都只不过是她们的玩物罢了",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2014-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/09ecd2bd-3286-4708-b169-767a72d38ad8.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a5bfad18c88c05485ed84f6923aac781.jpg",
       "actress": [
+        "波多野结衣",
+        "大槻响",
         "佳苗瑠華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-26"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-889"
     },
     {
-      "id": 1938,
-      "IDcode": "CWPBD-104",
-      "title": "CATWALK POISON 104 果然我的妹妹太色了!! : 佳苗瑠華",
+      "id": 82400,
+      "IDcode": "GVG-080",
+      "title": "被好多年没见的叔叔和他的儿子侵犯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2014-06-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/3ed734c3-83e3-4906-b93e-7a7c6657d33f.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "佳苗瑠華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-104"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-080"
     },
     {
       "id": 77232,
@@ -217,14 +249,47 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/4f373a29e21e2d4355eb0f2aa1352ba0.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0feb50994f0e4f244df2042cdb6ac226.jpg",
       "actress": [
         "佳苗瑠華"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-532"
+    },
+    {
+      "id": 67295,
+      "IDcode": "FSET-544",
+      "title": "我在学校里找到女同性恋者",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/af977899c23dc288caaabb0771098201.jpg",
+      "actress": [
+        "佳苗瑠華",
+        "樱井步"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-544"
+    },
+    {
+      "id": 1938,
+      "IDcode": "CWPBD-104",
+      "title": "CATWALK POISON 104 果然我的妹妹太色了!! : 佳苗瑠華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230122/3ed734c3-83e3-4906-b93e-7a7c6657d33f.webp",
+      "actress": [
+        "佳苗瑠華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-104"
     }
   ]
 };

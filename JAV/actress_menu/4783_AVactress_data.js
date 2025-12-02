@@ -4,7 +4,7 @@ window.actressData = {
   "name": "五十岚かな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 7,
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 91726,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-09-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221019-1/0d0e3136cd0e705f581477de9760e530.jpg",
       "actress": [
@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-20",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221205-1/5a74cc719c4b72279c4d67797f3510d4.jpg",
       "actress": [
         "五十岚かな"
       ],
@@ -58,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/5baab635f4666ad9e7f730028b39e581.jpg",
@@ -68,16 +68,50 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MICA-025"
     },
     {
+      "id": 100142,
+      "IDcode": "HONB-161",
+      "title": "激熱 NANASE HINA/七瀬ひなFact，五十嵐かな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "2020-01-12",
+      "cover_url": "",
+      "actress": [
+        "七海雛",
+        "五十岚かな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONB-161"
+    },
+    {
+      "id": 99951,
+      "IDcode": "HONB-160",
+      "title": "激熱 IGARASHIKANA/五十嵐かなFact，七瀬ひな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "2020-01-12",
+      "cover_url": "",
+      "actress": [
+        "七海雛",
+        "五十岚かな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONB-160"
+    },
+    {
       "id": 81652,
       "IDcode": "FCH-046",
       "title": "【配信専用】ムチプリ肉厚極上尻コキ！！ 3 画面から飛び出さんとアナタの視界に迫り来る…デッカイたわわな桃尻…！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-01-03",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221031-1/960b297e000904cebda9304bd1e3a4b1.jpg",
       "actress": [
         "美園和花",
         "河北春菜",
@@ -98,10 +132,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
       "publish_date": "2019-12-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/ba3ff04edca47b57758ab503f9759e29.jpg",
+      "cover_url": "",
       "actress": [
         "岬梓沙",
         "七海ゆあ",
@@ -117,8 +151,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/bb721e8812ebdf27fc5f1c8f807e8fb2.jpg",
       "actress": [
@@ -134,16 +168,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-250"
     },
     {
+      "id": 105183,
+      "IDcode": "HOMA-025",
+      "title": "落魄的新娘",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "蓝川美夏",
+        "五十岚かな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-025"
+    },
+    {
       "id": 78181,
       "IDcode": "KIBD-232",
       "title": "生意気なギャルを黙らせて、無理矢理ねじ伏せ犯し続ける4時間BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2018-06-15",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/204cd1416d000265aabd03835e639698.jpg",
       "actress": [
         "AIKA",
         "椎名空",

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "川嶋さな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 106713,
       "IDcode": "VEO-067",
-      "title": "本物素人妻AV Debut！！Hカップが激しく揺れる！淫らに弾む！巨乳バレーボーラーママ 川嶋さな （ブルーレイディスク） （BOD）",
+      "title": "大胸的排球妈妈-川嶋さな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2022-10-18",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "川嶋さな"

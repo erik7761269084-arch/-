@@ -28,23 +28,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250804/95cec501-669a-40e2-8810-83a2dbdad59f_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 3893,
       "IDcode": "JUNY-159",
-      "title": "新人出道！現役護士兼職泳裝模特首次體驗極致快感，天然巨乳抖不停高潮 AV DEBUG ~ 一色ゆの",
+      "title": "新人 一色ゆの 撮影会の水着モデルもこなす現役ナースが初めて尽くしの快感に天然爆乳を弾ませながら絶頂AVデビュー！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-08-01",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084920824824_94241_thumbnail.webp",
       "actress": [
         "一色ゆの"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-159"
+    },
+    {
+      "id": 3179,
+      "IDcode": "MOER-013",
+      "title": "普段は地味なのにチ〇ポ狂いの淫乱ナースがエロい。Jカップ看護師がデカチンでイキ狂いたくてAVデビュー。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c558efd6fbef4e90a9189e/cover.jpg",
+      "actress": [
+        "一色ゆの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-013"
     }
   ]
 };

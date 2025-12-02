@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ここみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 89245,
-      "IDcode": "GANA-2255",
-      "title": "マジ軟派、初撮。 1456 激しい豪雨で荒れまくる街で可愛すぎる看護学生を突撃ナンパ！話を聞くと「彼氏は居ないがパパが居る！」イマドキの肉食系女子だった！？しかしながら「パパとのセックスは全然気持ちよくない！」と不満爆発！もっぱらAVでオナニーするのが日課な彼女に「AVに出てみない？」と提案してみると...！？",
+      "id": 479494,
+      "IDcode": "200GANA-2255",
+      "title": "认真的心柔软，第一张照片。 1456年，一个可爱的护理学生在一个狂暴的 星仲ここみ -C",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-03-01",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "ここみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2255"
     }
   ]
 };

@@ -41,24 +41,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250729/398952cf-5e17-4a57-9e75-8072ce580a76_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250729/a8d9f74b-49d8-4633-87ab-488c22dc3fbc_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 2381,
-      "IDcode": "START-412",
-      "title": "極致高潮開發！敏感身軀抖個不停，史上最爽巔峰體驗！巨根狂潮 ~ 新川空",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210843282282_12397_thumbnail.webp",
-      "actress": [
-        "新川空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-412"
-    },
     {
       "id": 61344,
       "IDcode": "START-369",
@@ -66,14 +50,62 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/05/1fba3dc5/vod.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/0e81babcd9272af9c92ea20caebbebdf.jpg",
       "actress": [
         "新川空"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-369"
+    },
+    {
+      "id": 3465,
+      "IDcode": "STZY-018",
+      "title": "初撮り！AVデビュー前の秘蔵SEX映像 沖縄離島育ちの女の子 新川空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "新川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STZY-018"
+    },
+    {
+      "id": 3252,
+      "IDcode": "START-389",
+      "title": "おもちゃ・大量顔射・初3P・オイルエステ もっと気持ち良くなるために初めての一人旅 3泊4日の性感開発トラベラー 新川空 あらかわそら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212137124124_80923_thumbnail.webp",
+      "actress": [
+        "新川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-389"
+    },
+    {
+      "id": 2381,
+      "IDcode": "START-412",
+      "title": "絶頂開発 敏感BODYをガクブル震わせながらジブン史上最高の激イキ！巨根大絶頂 新川空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "新川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-412"
     }
   ]
 };

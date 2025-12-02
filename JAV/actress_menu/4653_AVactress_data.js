@@ -25,16 +25,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 97918,
-      "IDcode": "ATID-239",
-      "title": "再会の君へ… 堀咲りあ",
+      "id": 79790,
+      "IDcode": "RBD-487",
+      "title": "狙われた美人キャスター ストーカー 狂気の妄想恋愛の果てに… 堀咲りあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2014-01-07",
-      "cover_url": "https://tutu1.space/images/2023/06/11/46d468d4ba9f9c710cec22dedc07ed3f.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2013-06-07",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/f5225987d71dd7bf64d913007c56f276.jpg",
+      "actress": [
+        "堀咲りあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-487"
+    },
+    {
+      "id": 97918,
+      "IDcode": "ATID-239",
+      "title": "致再会的你-堀咲莉亚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "堀咲りあ"
       ],
@@ -47,30 +63,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2013-08-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f97e52aa3f3d8412a9dd85421b305494.jpg",
       "actress": [
         "堀咲りあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-103"
-    },
-    {
-      "id": 79790,
-      "IDcode": "RBD-487",
-      "title": "狙われた美人キャスター ストーカー 狂気の妄想恋愛の果てに… 堀咲りあ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2013-06-07",
-      "cover_url": "",
-      "actress": [
-        "堀咲りあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-487"
     }
   ]
 };

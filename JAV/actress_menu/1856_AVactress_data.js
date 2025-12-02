@@ -27,34 +27,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-沖ひとみ.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1709,
-      "IDcode": "SKYHD-111",
-      "title": "SKY ANGEL 111 沖仁美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-08-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/88aaac2f-ce23-4184-8d4c-a5bbd1e13f78.webp",
-      "actress": [
-        "沖仁美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-111"
-    },
     {
       "id": 1823,
       "IDcode": "CWPBD-80",
-      "title": "CATWALK POISON 80 ～湯煙滿溢的中出旅行～ : 沖仁美（藍光版）",
+      "title": "猫步毒药-冲瞳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-04-18",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/d853548e-bdea-4086-be62-2284c6ada0ce.webp",
       "actress": [
         "沖仁美"

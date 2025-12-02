@@ -50,26 +50,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230402/2e49763f-1916-4fac-b60f-d54211687c85.jpg",
     "https://picture.yoshiclub.xyz/20230402/a3c92cc7-0ec0-4d53-b572-2635f1258290.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 70322,
-      "IDcode": "NTR-018",
-      "title": "＜神・回・爆・誕！ド鬱の無許可中出し！＞婚約中のスーパー美少女を冴えねー彼氏から寝取ってみた！彼氏の知らぬ所でうっかり(確信犯)中出し！半泣きの顔がそそる～！整いまくった胸、尻、そして鬼のようなくびれ！これで抜けなきゃ何で抜ける？？ NTR.net case18",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-04-29",
-      "cover_url": "",
-      "actress": [
-        "菅野松雪",
-        "森林原人",
-        "爱瀬るか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-018"
-    },
     {
       "id": 83476,
       "IDcode": "BDSR-413",
@@ -77,10 +59,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-22",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/4e7bbc1c8bf4c93b02c0e9719061880d.jpg",
       "actress": [
         "仓多真央",
         "西条沙羅",
@@ -94,16 +76,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-413"
     },
     {
-      "id": 77738,
-      "IDcode": "MCSR-355",
-      "title": "今日妻が浮気します 秋 4時間10人",
+      "id": 1546,
+      "IDcode": "PPPD-206",
+      "title": "淫蕩姊姊的伺候乳房美體沙龍 菅野佐由紀",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-09-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20230402/45daad3e-6360-4330-93a2-e28ca9aa5670.jpg",
+      "actress": [
+        "菅野松雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-206"
+    },
+    {
+      "id": 104191,
+      "IDcode": "MIDD-754",
+      "title": "ハメ狂い大乱交 菅野さゆき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-04-01",
+      "cover_url": "http://15.155250922.com/upload/vod/2022/09/zxyg5ocho1m.jpg",
+      "actress": [
+        "菅野松雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-754"
+    },
+    {
+      "id": 104874,
+      "IDcode": "MRXD-031",
+      "title": "管野松雪的轻度调教过程收录",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240601-1/cba42b9a0ad736d46c7bbb73984ed519.jpg",
+      "actress": [
+        "菅野松雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRXD-031"
+    },
+    {
+      "id": 77738,
+      "IDcode": "MCSR-355",
+      "title": "今日妻が浮気します秋4時間10人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "Big Morkal",
-      "publish_date": "2019-09-28",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/acc2dcbd4c12f462954ea12d711f81c5.jpg",
       "actress": [
         "風間由美",
         "新山枫",
@@ -117,32 +147,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-355"
     },
     {
-      "id": 1546,
-      "IDcode": "PPPD-206",
-      "title": "淫蕩姊姊的伺候乳房美體沙龍 菅野佐由紀",
+      "id": 70322,
+      "IDcode": "NTR-018",
+      "title": "将超级美艳的未婚妻",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "OPPAI",
-      "publish_date": "2012-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230402/45daad3e-6360-4330-93a2-e28ca9aa5670.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "菅野松雪"
+        "菅野松雪",
+        "森林原人",
+        "爱瀬るか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-018"
     },
     {
       "id": 68529,
       "IDcode": "MIDD-855",
-      "title": "菅野さゆきの極上風俗フルコース 菅野さゆき",
+      "title": "極上風俗-菅野さゆき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2012-04-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250330-1/4d7fb8e81e33796b4787bc0a69c11e63.jpg",
       "actress": [
         "菅野松雪"
       ],

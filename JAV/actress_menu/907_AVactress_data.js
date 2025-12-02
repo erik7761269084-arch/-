@@ -36,19 +36,70 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250116/237f1707-981d-417b-b259-ff29c3b3eca7.jpg",
     "https://picture.yoshiclub.xyz/20250116/69a1027a-92d1-4a3a-a6e4-220a9c2d32b6.jpg"
   ],
-  "works_count": 2,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 3647,
-      "IDcode": "NGHJ-021",
-      "title": "白衣天使的連射挑戰！高額獎金誘惑，溫柔護士小姐姐榨幹你爲止 ~ 湊波流 小野阪唯香 河北笑茉 美咲佳奈",
+      "id": 61692,
+      "IDcode": "OKK-095",
+      "title": "河北笑茉 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "河北笑茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-095"
+    },
+    {
+      "id": 9110,
+      "IDcode": "FFT-020",
+      "title": "新人報到！嚴肅精英OL的真面目。美人妻私底下靠性才能活着 30歲 首次亮相 AV DEBUT ~ 河北笑茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab612daffba992c0ffd0e0/cover.jpg",
+      "actress": [
+        "河北笑茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-020"
+    },
+    {
+      "id": 3919,
+      "IDcode": "DVEH-058",
+      "title": "姉弟が青空の下で照れ照れ超濃密ベロキス体験ww 童貞弟のファーストキッスを奪っちゃった姉が濃厚接吻でミラクル発情",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093950879879_35545_thumbnail.webp",
+      "actress": [
+        "美咲佳奈",
+        "小野坂唯香",
+        "湊波流",
+        "河北笑茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-058"
+    },
+    {
+      "id": 3647,
+      "IDcode": "NGHJ-021",
+      "title": "白衣の天使が何度も射精させるほど高額賞金GET！連続射精チャレンジ！4名全員SEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/202508110952264545_55809_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c556dcbf45974ea6db8b5b/cover.jpg",
       "actress": [
         "美咲佳奈",
         "小野坂唯香",
@@ -58,20 +109,61 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-021"
     },
     {
-      "id": 61692,
-      "IDcode": "OKK-095",
-      "title": "河北笑茉 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
+      "id": 2232,
+      "IDcode": "PFAS-038",
+      "title": "リアルバイオレンス 婦女暴行の地獄 家庭内逆恨み衝動的ストーカー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "親父の個撮",
-      "publish_date": "2025-07-24",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
+        "高城なぎさ",
+        "七藤優亜",
         "河北笑茉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-038"
+    },
+    {
+      "id": 2185,
+      "IDcode": "SDMM-211",
+      "title": "欲求不満なママさんバレー軍団がマジックミラー号で大乱交 in白子町",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "葵百合香",
+        "藤咲紫",
+        "月野ゆりね",
+        "河北笑茉",
+        "あずま鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-211"
+    },
+    {
+      "id": 2170,
+      "IDcode": "DVMM-297",
+      "title": "一般男女モニタリングAV 大学生カップル限定にデカ尻女子大生が挑戦！形・大きさの異なるフル勃起チ○ポで膣奥を刺激されイキ潮噴射が止まらない！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "柏木小夏",
+        "河北笑茉",
+        "雙葉步華",
+        "沖奈さくら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-297"
     }
   ]
 };

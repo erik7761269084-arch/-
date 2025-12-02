@@ -4,7 +4,7 @@ window.actressData = {
   "name": "篠原友香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,24 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
-    {
-      "id": 86202,
-      "IDcode": "SORA-252",
-      "title": "巨乳妻露胸部姿態讓露出狂歡喜！有末香織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-05-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/6d5dac76bd91bbf8c16898a998b2ee2f.jpg",
-      "actress": [
-        "篠原友香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-252"
-    },
     {
       "id": 81650,
       "IDcode": "DDOB-069",
@@ -41,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOGMA",
       "publish_date": "2020-03-19",
       "cover_url": "",
@@ -51,16 +35,66 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-069"
     },
     {
+      "id": 103532,
+      "IDcode": "VENU-825",
+      "title": "粘ピス義母痴漢 夫の連れ子に粘着質なスローピストンで深突きされて声を出せずに完堕ちした私 篠原友香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-11-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/venu825/venu825pl.jpg",
+      "actress": [
+        "望月",
+        "篠原友香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-825"
+    },
+    {
+      "id": 98093,
+      "IDcode": "AUKG-467",
+      "title": "人妻とその彼女～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "吉永塔子",
+        "篠原友香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-467"
+    },
+    {
+      "id": 86202,
+      "IDcode": "SORA-252",
+      "title": "大胸妻子-有末香織",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d83992d6fbef4e90ccbbe7/cover.jpg",
+      "actress": [
+        "篠原友香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-252"
+    },
+    {
       "id": 75663,
       "IDcode": "SOAV-060",
       "title": "人妻の浮気心 篠原友香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/384730fa0075f34fcfa6695a20cc0ddb.jpg",
       "actress": [
         "市川润",
         "篠原友香"
@@ -74,10 +108,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2019-04-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/3e39603b4f04b49950494214865b2175.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "篠原友香"
       ],

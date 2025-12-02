@@ -33,23 +33,81 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230831/6c1d7508-ec07-43dc-8c63-b2b90435c273.jpg",
     "https://picture.yoshiclub.xyz/20230831/0ad3ff11-3582-44d4-9bce-2af6c72c632e.jpg"
   ],
-  "works_count": 6,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 73124,
-      "IDcode": "FSDSS-580",
-      "title": "コスプレイベントの帰り。終電逃して僕の家に泊まる友人レイヤーに恋人が使うコスプレ衣装を着させたら…勃起するほど可愛くて一晩中ハメ狂った。いちか先生 パンティと写真付き",
+      "id": 11955,
+      "IDcode": "FCDSS-085",
+      "title": "讓男人潮吹4小時的終極蕩婦技術～FALENO精選～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2023-04-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/c2f9e7223583715524937b02da29232e.jpg",
+      "publish_date": "2024-10-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20240915/202409150500284949.jpg",
+      "actress": [
+        "沙月惠奈",
+        "吉高寧寧",
+        "天使萌",
+        "小野夕子",
+        "美乃雀",
+        "本郷愛",
+        "三葉千春",
+        "天川空",
+        "神木蘭",
+        "いちか先生",
+        "桃尻かなめ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-085"
+    },
+    {
+      "id": 18581,
+      "IDcode": "FSDSS-665",
+      "title": "今天，我想把這個微醺的 tiktoker 泡在春藥裡。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2023-10-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20230924/20230924031417853853.jpg",
       "actress": [
         "いちか先生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-580"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-665"
+    },
+    {
+      "id": 18868,
+      "IDcode": "FSDSS-616",
+      "title": "極致100~122分鐘的持續抽搐高潮~市老師",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2023-09-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20230831/20230831010403491491.jpg",
+      "actress": [
+        "いちか先生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-616"
+    },
+    {
+      "id": 18729,
+      "IDcode": "FSDSS-593",
+      "title": "強烈的射精持續到天亮 淫蕩的一香老師想要我操到精盡人亡",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2023-08-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20230912/20230912014049224224.jpg",
+      "actress": [
+        "いちか先生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-593"
     },
     {
       "id": 84516,
@@ -58,10 +116,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2022-11-10",
-      "cover_url": "",
+      "cover_url": "https://guzwiayz.com/20230318/jlIrWfBi/1.jpg?t=1680000222",
       "actress": [
         "いちか先生"
       ],
@@ -74,7 +132,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2022-10-06",
       "cover_url": "",
@@ -84,32 +142,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-465"
     },
     {
-      "id": 73598,
-      "IDcode": "FSDSS-447",
-      "title": "「勉強やめてキスの練習しない？」ペニスを握りベロチュウ指導。超人気T○kTokerの先生が教えるコスプレ家庭教師。 いちか先生 パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2022-09-22",
-      "cover_url": "",
-      "actress": [
-        "いちか先生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-447"
-    },
-    {
       "id": 83953,
       "IDcode": "FSDSS-433",
       "title": "どのキャラが興奮する？リアルなコス着て相手を責めまくる！コスプレ着せ替え3本番 いちか先生 パンティと写真付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2022-08-25",
-      "cover_url": "",
+      "cover_url": "https://pic.douimg.cc/upload/vod/20250812-1/70206bf5260129433d9a84f846ff3aea.jpg",
       "actress": [
         "いちか先生"
       ],
@@ -122,14 +164,47 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2022-07-21",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/l5zGBAFk.jpg",
       "actress": [
         "いちか先生"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-432"
+    },
+    {
+      "id": 73598,
+      "IDcode": "FSDSS-447",
+      "title": "「勉強やめてキスの練習しない？」ペニスを握りベロチュウ指導。超人気T○kTokerの先生が教えるコスプレ家庭教師。 いちか先生 パンティと写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/aa25ebf159a893c29458a178b39d4192.jpg",
+      "actress": [
+        "いちか先生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-447"
+    },
+    {
+      "id": 73124,
+      "IDcode": "FSDSS-580",
+      "title": "從角色扮演活動中歸來當我錯過了末班火車並讓在我家過夜的朋友Layer穿上她情人用過的Cosplay服裝時可愛到勃起並瘋狂性交了一整夜老師",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/f6142b2bc1b3f2847462944d781a2a99.jpg",
+      "actress": [
+        "いちか先生",
+        "一香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-580"
     }
   ]
 };

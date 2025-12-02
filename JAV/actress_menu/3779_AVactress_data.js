@@ -32,13 +32,13 @@ window.actressData = {
     {
       "id": 68110,
       "IDcode": "SGRS-022",
-      "title": "変態家族 近親相姦 歪んだ一家の日常記録",
+      "title": "変態家族日常記録",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2015-12-01",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "吉川いと",

@@ -47,35 +47,117 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240802/66333e03-9ae0-42f6-949b-ce5ef2411737.jpg",
     "https://picture.yoshiclub.xyz/20240802/b5741d00-2b38-4fe0-8431-6ea6db693924.jpg"
   ],
-  "works_count": 4,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 6756,
-      "IDcode": "ROYD-235",
-      "title": "成績飆升的爆乳祕籍！極品大奶家教用誘人獎勵讓小弟弟和腰杆子火力全開 ~ 安斉愛結",
+      "id": 12979,
+      "IDcode": "FPRE-086",
+      "title": "豔女 - Jcpu爆乳再次復出 傳說中的天後 ~ 安斉愛結",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROYAL",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092933798798_thumbnail.webp",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-08-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802001209504504.jpg",
+      "actress": [
+        "安斉愛結"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-086"
+    },
+    {
+      "id": 102726,
+      "IDcode": "HCM-003",
+      "title": "医院里引人注目的时刻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "安斉愛結",
-        "マサムー"
+        "奥野光香",
+        "栞菜まなみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HCM-003"
+    },
+    {
+      "id": 12372,
+      "IDcode": "FPRE-093",
+      "title": "中出解禁-安斉愛結",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829230012907907.jpg",
+      "actress": [
+        "安斉愛結",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-093"
+    },
+    {
+      "id": 11627,
+      "IDcode": "FPRE-099",
+      "title": "对女友爆乳母亲中出的第三天-安齐爱结",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/b19a3d7aa1bb0d94b798ebe0b6d9c318.jpg",
+      "actress": [
+        "安斉愛結"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-099"
+    },
+    {
+      "id": 10592,
+      "IDcode": "MVSD-623",
+      "title": "产后敏感度暴增的早漏人母-安斉愛結",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241201-1/0c3a96214cff579f624012e7f9481bfa.jpg",
+      "actress": [
+        "安斉愛結"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-623"
+    },
+    {
+      "id": 10311,
+      "IDcode": "MIAB-364",
+      "title": "種無し旦那に欲求不満ギャル人妻は玄関先でおじさん宅配員を爆乳丸出しで誘惑マラ喰いフェロモンむんむん騎乗位で孕ませ中出し性交 安斉愛結",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/24/99df6f34e731ef69cbaf2d6c6edafbda.jpg",
+      "actress": [
+        "安斉愛結"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-364"
     },
     {
       "id": 8487,
       "IDcode": "DASS-579",
-      "title": "她的母親比她更能滿足我的性欲，我的陰莖變得堅硬無比，疼痛難忍 ~ 安斉愛結",
+      "title": "比起女朋友她妈妈更符合我的性癖-安斉愛結",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DASDAS",
-      "publish_date": "2025-02-11",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075657863863.jpg",
       "actress": [
         "雫月心桜",
@@ -84,38 +166,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-579"
     },
     {
-      "id": 10592,
-      "IDcode": "MVSD-623",
-      "title": "產後敏感度急劇上升的早漏媽媽的陰道特色部位按摩 ~ 安斉愛結",
+      "id": 6756,
+      "IDcode": "ROYD-235",
+      "title": "成绩狂提升的爆乳授课！用极上的奖励胸部让蛋蛋甩动腰扭不停的巨乳家庭教师 安齐爱结",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114083159974974.jpg",
-      "actress": [
-        "安斉愛結"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-623"
-    },
-    {
-      "id": 102726,
-      "IDcode": "HCM-003",
-      "title": "クギづけ！ 目が奪われる瞬間 病院編",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2016-08-19",
-      "cover_url": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092933798798_thumbnail.webp",
       "actress": [
         "安斉愛結",
-        "奥野光香",
-        "栞菜まなみ"
+        "マサムー"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HCM-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-235"
     }
   ]
 };

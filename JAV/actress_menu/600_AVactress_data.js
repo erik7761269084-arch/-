@@ -36,35 +36,182 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240108/473820e1-0d36-4e0e-b6a4-d307a1f8da86.jpg",
     "https://picture.yoshiclub.xyz/20240108/5bc66332-0ca2-4468-a296-8791e6a9a5b0.jpg"
   ],
-  "works_count": 5,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 2677,
-      "IDcode": "FSDSS-938",
-      "title": "出差酒店與美腿人妻上司共處一室，童貞部下被嘲笑後暴走猛烈衝刺 ~ 臼井理佳",
+      "id": 16864,
+      "IDcode": "FSDSS-746",
+      "title": "新人出道 ！深夜偶像團體臼井梨花 AV DEBUT 首次亮相！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-09-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250916/20250916210426128128_68644_thumbnail.webp",
+      "publish_date": "2024-02-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20240108/20240107234319851851.jpg",
       "actress": [
         "臼井理佳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-938"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-746"
+    },
+    {
+      "id": 105319,
+      "IDcode": "FSDSS-768",
+      "title": "重复高潮的全力骑乘位AKE臼井里香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "臼井理佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-768"
+    },
+    {
+      "id": 16477,
+      "IDcode": "FSDSS-749",
+      "title": "多次淫亂高潮大絶頂-臼井理佳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240309-1/09d354c371cd3964cbd1d02d02a75ac5.jpg",
+      "actress": [
+        "臼井理佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-749"
+    },
+    {
+      "id": 15584,
+      "IDcode": "FSDSS-782",
+      "title": "从早到晚亲密性爱的女友的温馨同居生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240601-1/6631e60315c0f54735c037685b829827.jpg",
+      "actress": [
+        "臼井理佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-782"
+    },
+    {
+      "id": 14971,
+      "IDcode": "FSDSS-796",
+      "title": "丝袜美腿理疗师用礼貌的淫语-臼井リカ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/14ac5e1b92bca437ea0ab79d6d2c756c.jpg",
+      "actress": [
+        "臼井理佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-796"
+    },
+    {
+      "id": 14123,
+      "IDcode": "FSDSS-816",
+      "title": "喜欢丝袜的变态上司-臼井リカ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/68ec000bf0fc6fe43825484e717f029d.jpg",
+      "actress": [
+        "臼井理佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-816"
+    },
+    {
+      "id": 13510,
+      "IDcode": "FSDSS-833",
+      "title": "身材纤细的极品模特-臼井リカ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240827-1/e81a132b06bbe224023bb9d8041289e4.jpg",
+      "actress": [
+        "臼井理佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-833"
+    },
+    {
+      "id": 12793,
+      "IDcode": "FSDSS-854",
+      "title": "私人健身房的教练-臼井里卡",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/3507d60bc799f2af85b7a89dd496b07a.jpg",
+      "actress": [
+        "臼井理佳",
+        "ニック",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-854"
+    },
+    {
+      "id": 10031,
+      "IDcode": "FSDSS-880",
+      "title": "バストアップサロンで乳首責めされ敏感チクイキ体質になった結婚前の私 臼井リカ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241210/20241210014319997997.jpg",
+      "actress": [
+        "臼井理佳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-880"
+    },
+    {
+      "id": 8890,
+      "IDcode": "FSDSS-901",
+      "title": "按摩棒追击失禁高潮性交-臼井梨花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b8954fcf22ae3e04db4ff0/cover.jpg",
+      "actress": [
+        "臼井理佳",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-901"
     },
     {
       "id": 8330,
       "IDcode": "FSDSS-912",
-      "title": "男子毫無防備的被癡女突然逆向CKN襲擊 ~ 臼井理佳",
+      "title": "肆无忌惮地袭击毫无防备的男子-臼井リカ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213023144944944.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250319-1/24755b4477babb13b0eabb60cf4c7f9c.jpg",
       "actress": [
         "臼井理佳",
         "じゅうもんじ",
@@ -73,53 +220,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-912"
     },
     {
-      "id": 8890,
-      "IDcode": "FSDSS-901",
-      "title": "無論多少次，都會用最瘋狂的自慰器追求失禁性高潮 ~ 臼井理佳",
+      "id": 2677,
+      "IDcode": "FSDSS-938",
+      "title": "美脚の人妻上司と出張先のホテルで相部屋…童貞をからかわれた部下が暴走し無我夢中 臼井リカ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-02-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250124/20250124041636119119.jpg",
-      "actress": [
-        "臼井理佳",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-901"
-    },
-    {
-      "id": 10031,
-      "IDcode": "FSDSS-880",
-      "title": "結婚前，我在美胸沙龍裡受到了乳頭的無情折磨，變得敏感而刺痛。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2025-01-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241210/20241210014319997997.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/22/9ac1df5fbfdbe7a65a43561130c3bbba.jpg",
       "actress": [
         "臼井理佳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-880"
-    },
-    {
-      "id": 16477,
-      "IDcode": "FSDSS-749",
-      "title": "臼井理佳在 3 個大高潮中首次顫抖高潮",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2024-03-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240204/20240204040032900900.jpg",
-      "actress": [
-        "臼井理佳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-938"
     }
   ]
 };

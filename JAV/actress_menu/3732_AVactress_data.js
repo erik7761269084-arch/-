@@ -4,7 +4,7 @@ window.actressData = {
   "name": "イアン・エヴァ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 67467,
       "IDcode": "AIAV-023",
-      "title": "【AI同人】 恥。～異端として弄ばれた性なる僧侶～ イアン・エヴァ【3.1次元】",
+      "title": "恥。～異端として弄ばれた性なる僧侶～ イアン・エヴァ【3.1次元】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "NOSKINS",
-      "publish_date": "2025-05-02",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "イアン・エヴァ"

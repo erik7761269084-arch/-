@@ -35,16 +35,16 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230120/da03d775-44ae-4f27-a2fb-7941a5124dc3.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 1720,
-      "IDcode": "mkbd-s11",
-      "title": "KIRARI 11 : 西山希 (HD)",
+      "IDcode": "MKBD-S11",
+      "title": "KIRARI 11 : 西山希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2012-08-24",
       "cover_url": "https://picture.yoshiclub.xyz/20230120/20230120053742516516.jpg",
@@ -52,23 +52,7 @@ window.actressData = {
         "西山希",
         "远野春希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mkbd-s11"
-    },
-    {
-      "id": 1946,
-      "IDcode": "CWPBD-62",
-      "title": "秀場毒藥 62 ：西山希美 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-07-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/97187800-06fa-46a3-aa00-885886cf2e8b.webp",
-      "actress": [
-        "西山希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-62"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S11"
     }
   ]
 };

@@ -47,18 +47,42 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250506/b831b241-24d5-4f3b-bc72-7f0a23d1a150_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 74658,
-      "IDcode": "SSR-014",
-      "title": "【VR】彼と彼女のイチャラブ生活 日向ゆら",
+      "id": 176236,
+      "IDcode": "SACE-105",
+      "title": "现役SOD全民偶像组合2天1夜所有成全员的小穴归您一人占有",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-01-10",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2012-10-06",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "友田彩也香",
+        "七瀬あさ美",
+        "吉美さあや",
+        "琥珀歌",
+        "朝仓ことみ",
+        "秋元美穂",
+        "穂积マヤ",
+        "爱心"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-105"
+    },
+    {
+      "id": 74658,
+      "IDcode": "SSR-014",
+      "title": "魅惑の美人巨乳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "七瀬あさ美",

@@ -64,37 +64,20 @@ window.actressData = {
   "works_count": 7,
   "related_dramas": [
     {
-      "id": 70740,
-      "IDcode": "SAN-328",
-      "title": "全8シーン淫語で誘惑する痴女たち215分",
+      "id": 102727,
+      "IDcode": "RBD-489",
+      "title": "人妻性感帯-かすみりさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-03-18",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "",
-      "actress": [
-        "松岡仁美",
-        "浜崎真绪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-328"
-    },
-    {
-      "id": 9495,
-      "IDcode": "SAN-306",
-      "title": "你能忍受的了癡女連續200分鍾的攻擊嗎？ ~ 鬆岡仁美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2024-12-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20241231/8e466b53-ab6f-46e6-ad0f-3ccc214312bb.jpg",
       "actress": [
         "松岡仁美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-489"
     },
     {
       "id": 81411,
@@ -103,42 +86,60 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-04-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/25e7191a507b4cef9737095ca883f4ef.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d558d97564aaec7cea3ae89c19f60095.jpg",
       "actress": [
         "松岡仁美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-034"
     },
     {
-      "id": 102727,
-      "IDcode": "RBD-489",
-      "title": "あなた、許して…。人妻の性感帯2 かすみりさ",
+      "id": 76453,
+      "IDcode": "MIDD-748",
+      "title": "巨乳W女教師 ～極上BODYと夢の逆3P！～ かすみりさ ましろ杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2013-07-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/a823f40547beaf1c898687222f901485.jpg",
+      "actress": [
+        "松岡仁美",
+        "真城杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-748"
+    },
+    {
+      "id": 70740,
+      "IDcode": "SAN-328",
+      "title": "全8シーン淫語で誘惑する痴女たち215分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "松岡仁美"
+        "松岡仁美",
+        "浜崎真绪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-489"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-328"
     },
     {
       "id": 67930,
       "IDcode": "MIRD-122",
-      "title": "美しき潜入捜査官集団レイプ輪姦 かすみりさ 椎名ゆな さとう遥希",
+      "title": "潜入搜查官 集团轮奸 かすみりさ,椎名由奈,佐藤遥希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-06-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250404-1/b20c508dee576cba3ec548ac1e197272.jpg",
       "actress": [
         "椎名由奈",
         "佐藤遥希",
@@ -149,37 +150,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-122"
     },
     {
-      "id": 76453,
-      "IDcode": "MIDD-748",
-      "title": "巨乳W女教師 ～極上BODYと夢の逆3P！～ かすみりさ ましろ杏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-03-13",
-      "cover_url": "",
-      "actress": [
-        "松岡仁美",
-        "真城杏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-748"
-    },
-    {
       "id": 67434,
       "IDcode": "RBD-238",
-      "title": "それは銀行で起こった… かすみりさ",
+      "title": "它发生在一家银行-かすみりさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2011-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250420-1/1567936ced07d5de4c7efc653427f920.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250413-1/3e3c7a7d95560833f611039c14aa4e30.jpg",
       "actress": [
         "松岡仁美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-238"
+    },
+    {
+      "id": 9495,
+      "IDcode": "SAN-306",
+      "title": "耐えられるか？痴女が200分間あなたに襲いかかる！かすみりさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c69ac2cf22ae3e041b7990/cover.jpg",
+      "actress": [
+        "松岡仁美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-306"
     }
   ]
 };

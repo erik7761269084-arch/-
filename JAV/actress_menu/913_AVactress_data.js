@@ -30,50 +30,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250323/6de44697-4db3-439e-917e-a80dbb6c7adb.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 3347,
-      "IDcode": "ROE-380",
-      "title": "變態店長的人妻面試秘密檔案：42歲兼職人妻的羞恥遭遇 ~ 吉瀬葵",
+      "id": 7309,
+      "IDcode": "ROE-325",
+      "title": "前空姐已婚妇女吉濑葵42岁",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023339582582_68458_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110632863863.jpg",
       "actress": [
         "吉瀬葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-380"
-    },
-    {
-      "id": 5205,
-      "IDcode": "ROE-367",
-      "title": "禁忌情緣：與絕色後媽的非血緣親密羈絆 ~ 吉瀬葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619074345385385_thumbnail.webp",
-      "actress": [
-        "吉瀬葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-367"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-325"
     },
     {
       "id": 6759,
       "IDcode": "ROE-332",
-      "title": "MONROE專屬 前CA空姐人妻首次解禁內射中出！沉溺於禁忌之吻與受孕的日子 ~ 吉瀬葵",
+      "title": "M前空乘人妻-吉瀬葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-04-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417090122243243_thumbnail.webp",
       "actress": [
         "吉瀬葵",
@@ -82,20 +66,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-332"
     },
     {
-      "id": 7309,
-      "IDcode": "ROE-325",
-      "title": "新人出道！在飛機上被超猛機長幹翻的前空姐人妻 吉瀬葵 42歲 忘不了偷情的刺激 首次亮相 AV DEBUT ~ 吉瀬葵",
+      "id": 5896,
+      "IDcode": "ROE-351",
+      "title": "性相性極佳的兼職妻子-吉瀬葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110632863863.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080201561561_thumbnail.webp",
       "actress": [
         "吉瀬葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-325"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-351"
+    },
+    {
+      "id": 5205,
+      "IDcode": "ROE-367",
+      "title": "绝对不能出手的美丽母亲和我是没有血缘关系的母子关系-吉瀬葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896aec98bc99dfddc3a015/cover.jpg",
+      "actress": [
+        "吉瀬葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-367"
+    },
+    {
+      "id": 4281,
+      "IDcode": "ROE-374",
+      "title": "给心爱的姑妈注射春药10天后-吉瀬葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717032917600600_83065_thumbnail.webp",
+      "actress": [
+        "吉瀬葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-374"
+    },
+    {
+      "id": 3347,
+      "IDcode": "ROE-380",
+      "title": "とある変態店長のワイセツ人妻面接記録―。 パート妻42歳の場合。 吉瀬葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023339582582_68458_thumbnail.webp",
+      "actress": [
+        "吉瀬葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROE-380"
     }
   ]
 };

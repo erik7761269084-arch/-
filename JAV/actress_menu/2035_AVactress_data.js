@@ -38,7 +38,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-清音咲良.jpg"
   ],
-  "works_count": 7,
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 93083,
@@ -47,10 +47,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2024-07-23",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240724/fl5wwIrh/1.jpg",
       "actress": [
         "松本一香",
         "森日向子",
@@ -66,35 +66,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-568"
     },
     {
-      "id": 81455,
-      "IDcode": "DOCP-216",
-      "title": "「スッゴイ我慢汁◆」淫乱看護師が深夜の童貞狩り！ 雄臭い童貞チ●ポに我慢できず、自ら白衣をまくし上げ性の手ほどき…遂にはゴムがなくなり最後は中出し！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-04-17",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/a1f365d6e18ff31a6cebd3e42eba1f81.jpg",
-      "actress": [
-        "桐香悠裡",
-        "清音咲良",
-        "饭山香织",
-        "小鸟游ももえ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-216"
-    },
-    {
       "id": 81616,
       "IDcode": "HJMO-432",
       "title": "固定バイブだるまさんが転んだ17",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
       "publish_date": "2020-04-13",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/Hwy1EqS6/1.jpg",
       "actress": [
         "桐香悠裡",
         "桃尻かのん",
@@ -106,65 +87,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-432"
     },
     {
-      "id": 81471,
-      "IDcode": "DAC-006",
-      "title": "どっく あまちゅあ ちゃんねる vol.6",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-03-27",
-      "cover_url": "",
-      "actress": [
-        "藤森里穂",
-        "清音咲良",
-        "弥生美月"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAC-006"
-    },
-    {
-      "id": 83193,
-      "IDcode": "OYC-309",
-      "title": "会社の飲み会後、終電を逃して家に泊めた同僚であり親友の彼女。言葉巧みに口説いて、朝まで…彼氏（親友）に隠れてまでボクにエッチを求めてきた！2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-03-07",
-      "cover_url": "",
-      "actress": [
-        "富井美帆",
-        "清音咲良",
-        "若槻さくら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-309"
-    },
-    {
-      "id": 83208,
-      "IDcode": "PKPD-076",
-      "title": "円女交際 中出しoK18歳安産型むっちりEカップ娘 清音咲良",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-02-07",
-      "cover_url": "",
-      "actress": [
-        "清音咲良"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-076"
-    },
-    {
       "id": 81630,
       "IDcode": "DOCP-201",
       "title": "ボクの目を気にせずあられもない姿で家中をうろつく妹のカラダに我慢できず…即ズボ中出し！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-07",
       "cover_url": "",
@@ -176,6 +105,137 @@ window.actressData = {
         "优木しの"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-201"
+    },
+    {
+      "id": 19044,
+      "IDcode": "IPX-406",
+      "title": "在街角撿到並帶回家的活躍女大學生的 AV首秀",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2019-11-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20230802/20230802073924850850.jpg",
+      "actress": [
+        "清音咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-406"
+    },
+    {
+      "id": 83208,
+      "IDcode": "PKPD-076",
+      "title": "円女交際 中出しoK18歳安産型むっちりEカップ娘 清音咲良",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f7718f097573319efbe6d1380961d13c.jpg",
+      "actress": [
+        "清音咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-076"
+    },
+    {
+      "id": 83193,
+      "IDcode": "OYC-309",
+      "title": "会社の飲み会後、終電を逃して家に泊めた同僚であり親友の彼女。言葉巧みに口説いて、朝まで…彼氏（親友）に隠れてまでボクにエッチを求めてきた！2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "富井美帆",
+        "清音咲良",
+        "若槻さくら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-309"
+    },
+    {
+      "id": 81587,
+      "IDcode": "FCH-053",
+      "title": "【配信専用】イキたいの？まだダメっ！！寸止め焦らしオイル手コキ2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ae46d63a5dedb998c6718cdcfc4eb037.jpg",
+      "actress": [
+        "清音咲良",
+        "香坂みりな",
+        "ありむらえりか",
+        "大原结莉",
+        "鹰宫ゆい",
+        "七瀬もな",
+        "桜田みつ叶",
+        "夜空せいら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-053"
+    },
+    {
+      "id": 81471,
+      "IDcode": "DAC-006",
+      "title": "どっく あまちゅあ ちゃんねる vol.6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "藤森里穂",
+        "清音咲良",
+        "弥生美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAC-006"
+    },
+    {
+      "id": 81455,
+      "IDcode": "DOCP-216",
+      "title": "「スッゴイ我慢汁◆」淫乱看護師が深夜の童貞狩り！ 雄臭い童貞チ●ポに我慢できず、自ら白衣をまくし上げ性の手ほどき…遂にはゴムがなくなり最後は中出し！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d86b76fa31c9dc48337192226a36ec3e.jpg",
+      "actress": [
+        "桐香悠裡",
+        "清音咲良",
+        "饭山香织",
+        "小鸟游ももえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-216"
+    },
+    {
+      "id": 9374,
+      "IDcode": "MMPB-063",
+      "title": "NS Hotel 1.5 在傳聞中的大久保公園發現中出OK的超級可愛天使 ~ 鳳可憐 星七奈奈美 愛瀨優裏 春陽モカ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b15de15fdaf263a256e61c/cover.jpg",
+      "actress": [
+        "春陽萌花",
+        "愛瀬優里",
+        "鳳可怜",
+        "星七奈奈美",
+        "竹内美涼",
+        "清音咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-063"
     }
   ]
 };

@@ -27,7 +27,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/w-Prestige/AI-Fix-絵色千佳.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 1615,
@@ -36,30 +36,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2010-11-26",
       "cover_url": "https://picture.yoshiclub.xyz/20230331/8e89f00c-542c-441b-9b31-6bd3299703f0.jpg",
       "actress": [
         "絵色千佳"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-0047"
-    },
-    {
-      "id": 1545,
-      "IDcode": "SERO-0037",
-      "title": "我要跟野波麻衣一起去！混浴露天巴士之旅 野波舞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "TMA",
-      "publish_date": "2010-09-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20230331/22ebee2a-f71f-4f26-908b-a99a27027f97.jpg",
-      "actress": [
-        "絵色千佳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SERO-0037"
     }
   ]
 };

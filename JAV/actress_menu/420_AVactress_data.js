@@ -30,18 +30,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230723/c0020ea9-cc8a-4211-ab70-be423d0a4920.jpg",
     "https://picture.yoshiclub.xyz/20230723/e054deee-60f6-4551-8e09-21c64d840a60.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 10682,
-      "IDcode": "WWMM-002",
-      "title": "[臺灣女優] 鄰居們都鬱悶了！ ？與無法控制性欲的淫婦一起做愛！ ！ ~ 溫芮欣 宋雨川 孟若羽",
+      "id": 11257,
+      "IDcode": "WWMM-001",
+      "title": "『ヤリもく！！』台湾ローカルスポットで疑似ナンパ体験！？ Hでノリの良い台湾美女達とのハッピーSEXツアーガイド",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-11-12",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/bb92b4628b12fe5c0ef666ca0eadb6bc.jpg",
+      "actress": [
+        "仙兒媛",
+        "孟若羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WWMM-001"
+    },
+    {
+      "id": 10682,
+      "IDcode": "WWMM-002",
+      "title": "お隣さんはみんな欲求不満！？性欲を抑えられない女たちとラッキースケベでエロエロ展開！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241111/2c870948-c9c5-4be2-8ec7-ed6d92bd821a.jpg",
       "actress": [
         "孟若羽",

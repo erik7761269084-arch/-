@@ -63,14 +63,14 @@ window.actressData = {
     {
       "id": 830,
       "IDcode": "HEYZO-1031",
-      "title": "試衣順便試幹砲！ - 白咲碧",
+      "title": "服装店的白虎服务小姐一边被我干一边接待客人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2015-12-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20240529/1d4ce190-95b8-42f5-b9be-5145222221b6.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/17/7086baf23218e7a74e5306932fa39b77.jpg",
       "actress": [
         "白咲碧"
       ],

@@ -48,20 +48,21 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1816,
-      "IDcode": "SMBD-131",
-      "title": "S Model 131 制服黑髮清秀美女 ~ 金井美绪",
+      "id": 104875,
+      "IDcode": "TKI-007",
+      "title": "完璧性奴隶姐妹",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/64226442-6aaf-46c0-86cc-fc159ff04e47.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "金井美绪"
+        "金井美绪",
+        "早乙女ゆい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-131"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKI-007"
     }
   ]
 };

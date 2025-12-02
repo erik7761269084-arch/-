@@ -33,19 +33,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250213/d7b3a5f4-590d-44f9-8f88-82aced20f2bf.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 5385,
-      "IDcode": "TNIK-017",
-      "title": "巨乳軟妹被拘束撓癢癢爽到失控亂交派對 ~ 美神萌愛",
+      "id": 8316,
+      "IDcode": "FFT-021",
+      "title": "新人出道！一求乳魂H罩杯妻、前八王子黑道女社團會長（31歲）首次亮相 AV DEBUT ~ 美神萌愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MERCURY",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090755837837_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa43069550e292a7861548/cover.jpg",
+      "actress": [
+        "美神萌愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-021"
+    },
+    {
+      "id": 5385,
+      "IDcode": "TNIK-017",
+      "title": "デカパイぽよ娘 拘束縛りくすぐり悶絶悪戯乱交 美神もあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/28/68ade290e2544b92b9ab297e/cover.jpg",
       "actress": [
         "美神萌愛"
       ],

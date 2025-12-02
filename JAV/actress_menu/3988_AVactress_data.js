@@ -4,7 +4,7 @@ window.actressData = {
   "name": "まゆのゆま",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,34 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
+      "id": 88449,
+      "IDcode": "NHDTA-826",
+      "title": "接客中に顔を紅潮させながら感じまくるバイト娘 掛け持ちバイト看板娘中出しSP",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/61e31a3206111cfa48cc01de3321606a.jpg",
+      "actress": [
+        "乃木遥",
+        "まゆのゆま",
+        "松浦ゆきな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-826"
+    },
+    {
       "id": 77022,
       "IDcode": "SCOP-564",
       "title": "校内のラッキースケベ！！気になっていたアノ子の胸チラ乳首を見てしまった僕は興奮してしまい襲ってみると乳首イキする敏感娘だった！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2018-11-09",
-      "cover_url": "",
+      "type": "",
+      "company": "SCOOP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/15c59077687c1e1b2423d27d537f6192.jpg",
       "actress": [
         "山井すず",
         "枝川结衣",
@@ -43,10 +61,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-10-11",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/619741cdedac49fde287ad52ada40a2b.jpg",
       "actress": [
         "杉咲しずか",
         "百瀬凛花",
@@ -60,24 +78,6 @@ window.actressData = {
         "まゆのゆま"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-888"
-    },
-    {
-      "id": 88449,
-      "IDcode": "NHDTA-826",
-      "title": "接客中に顔を紅潮させながら感じまくるバイト娘 掛け持ちバイト看板娘中出しSP",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2016-05-26",
-      "cover_url": "",
-      "actress": [
-        "乃木遥",
-        "まゆのゆま",
-        "松浦ゆきな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-826"
     }
   ]
 };

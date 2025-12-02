@@ -29,7 +29,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240416/6c1fe51f-39a7-4501-8d05-d964b77fa8ec.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 14556,
@@ -38,7 +38,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-06-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240521/0e26f0cb-17cb-4b29-ad52-1d55d8a28ecb.jpg",
@@ -46,6 +46,22 @@ window.actressData = {
         "水谷いずみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-259"
+    },
+    {
+      "id": 15371,
+      "IDcode": "SDJS-252",
+      "title": "制作部入職一年的員工水谷いずみ（21歲），女優身體不適，水谷いずみ突然出現在她的位置！ ？挑戰人生第一次「直播中出」！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-05-09",
+      "cover_url": "",
+      "actress": [
+        "水谷いずみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-252"
     }
   ]
 };

@@ -38,19 +38,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241115/e30cb7fd-0a77-4ec6-88b7-49d7f17f08e0.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 66405,
-      "IDcode": "AUKG-627",
-      "title": "人妻レズ不倫 ～ご近所のセックスレス奥様同士が夫の留守に…～",
+      "id": 95407,
+      "IDcode": "ALDN-377",
+      "title": "你婆婆比我老婆好多了-碓冰纱也",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-06-03",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/03/1017f1c9/vod.jpg",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba8caa4898416418389013/cover.jpg",
+      "actress": [
+        "碓氷紗也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-377"
+    },
+    {
+      "id": 66405,
+      "IDcode": "AUKG-627",
+      "title": "人妻レズ不倫 ～ご近所のセックスレス奥様同士が夫の留守に…姫川礼子 碓氷紗也",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "姫川礼子",
         "碓氷紗也"
@@ -58,15 +74,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-627"
     },
     {
-      "id": 5659,
-      "IDcode": "BF-739",
-      "title": "第一次玩後門就直接雙洞全開！大量後門內射爽翻天！~ 碓氷紗也",
+      "id": 10571,
+      "IDcode": "JUTA-155",
+      "title": "40年代妻子的第一次脱衣AV资料",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BeFree",
-      "publish_date": "2025-05-30",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241129-1/474bfea03a371d596a78693c60f31e18.jpg",
+      "actress": [
+        "碓氷紗也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-155"
+    },
+    {
+      "id": 5659,
+      "IDcode": "BF-739",
+      "title": "初アナルなのに初2ケツ！大量アナル生中出し！ 碓氷紗也",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172256146146_thumbnail.webp",
       "actress": [
         "碓氷紗也",

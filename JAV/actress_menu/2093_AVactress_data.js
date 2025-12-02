@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 6904,
       "IDcode": "MUDR-311",
-      "title": "新人出道！渴望硬核玩法的19歲天才少女 震撼初次後庭SEX的AV首秀 純真美少女三穴同入高潮的驚豔反差 AV DEBUT ~ 湖高湊",
+      "title": "ハードプレイがしたくてAVのドアを叩いた19歳の逸材。 衝撃の初アナルセックスAVデビュー 純粋無垢な美少女が3穴で絶頂するギャップ姦。 湖高湊",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411005601465465.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/e9db050f79303bb38b12674cf8b8e05b.jpg",
       "actress": [
         "湖高湊"
       ],

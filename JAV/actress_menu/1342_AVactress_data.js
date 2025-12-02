@@ -40,20 +40,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1756,
-      "IDcode": "SMBD-100",
-      "title": "S Model 100 第一次中出性愛：紺野瑪麗惠",
+      "id": 812,
+      "IDcode": "HEYZO-1004",
+      "title": "想被睡走～少妻為夫給部下肏～ 瀧川惠里菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2014-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/12f5c747-8492-4511-b560-03b63b55dba4.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-11-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20240611/20240611233451751751.jpg",
       "actress": [
         "绀野真理惠"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-100"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1004"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ひなちゆん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 157785,
+      "IDcode": "259LUXU-1273",
+      "title": "ラグジュTV 1263 『彼氏の誕生日に熱い夜を過ごしたくて…』自分の全てを彼氏に",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/a42675954a448d7c24c143991fca06b3.jpg",
+      "actress": [
+        "ひなちゆん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1273"
+    },
+    {
       "id": 88204,
       "IDcode": "SDAM-053",
       "title": "精子の量が多ければ多いほど金額UP！男性の濃厚精子が溜まったチ○ポを抜いてくれませんか？素人5名がご自慢のテクで挑戦！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-08-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/9ce025729ccf13254a51e3a994586722.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f8b8974d718d6238a74ba7603b141596.jpg",
       "actress": [
         "香坂みりな",
         "椎木くるみ",
@@ -36,22 +52,6 @@ window.actressData = {
         "近藤れおな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-053"
-    },
-    {
-      "id": 67432,
-      "IDcode": "LUXU-1273",
-      "title": "ラグジュTV 1263 『彼氏の誕生日に熱い夜を過ごしたくて…』自分の全てを彼氏に捧げるべくAVの世界に足を踏み入れてしまった、性意識高きスケベ美女！刺激的過ぎるセックスが気持ち良すぎる故、行為がヒートアップするにつれ学びの心は薄れていき…、経験したこともない快楽に溺れ乱れる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-05-22",
-      "cover_url": "",
-      "actress": [
-        "ひなちゆん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1273"
     }
   ]
 };

@@ -39,14 +39,14 @@ window.actressData = {
     {
       "id": 6459,
       "IDcode": "MIDA-153",
-      "title": "神祕新人出道！口罩下擁有極品身體 偷偷瞞着公司下海拍片初登場 AV DEBUT ~ 清水小夏",
+      "title": "謎のマスク神美ボディ 会社に内緒で副業AV DEBUT 清水こなつ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042439293293_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/13/68220137197cffa350001f86/cover.jpg",
       "actress": [
         "清水小夏",
         "ナイアガラ翔"

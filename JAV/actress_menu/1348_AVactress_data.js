@@ -32,8 +32,41 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230904/48aaa8b5-afac-47cb-938a-534ea1d68b3e.jpg",
     "https://picture.yoshiclub.xyz/20230904/e87a8fa0-c32b-4ba9-badb-5b567444576a.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 18775,
+      "IDcode": "IPX-607",
+      "title": "來幹砲吧？超可愛制服美少女的校園性生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2021-02-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908211003897897.jpg",
+      "actress": [
+        "天使亜夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-607"
+    },
+    {
+      "id": 18803,
+      "IDcode": "IPX-590",
+      "title": "全都是第一次大絶頂4本番 專屬第2彈 全6段性欲覺醒SPECIAL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2021-01-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20230906/20230906013205856856.jpg",
+      "actress": [
+        "天使亜夢",
+        "吉村卓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-590"
+    },
     {
       "id": 18830,
       "IDcode": "IPX-573",
@@ -41,7 +74,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2020-12-13",
       "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903195748106106.jpg",

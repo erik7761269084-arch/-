@@ -37,66 +37,16 @@ window.actressData = {
   "works_count": 9,
   "related_dramas": [
     {
-      "id": 17365,
-      "IDcode": "SSIS-972",
-      "title": "每次去外景，她都會和自己討厭的製片人同住一間房間，並強迫她和他上床……一個女藝人，反覆性騷擾上癮。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-12-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20231209/503d90ad-4dc7-46e1-bf03-611a157f6d2e.jpg",
-      "actress": [
-        "四宮ありす"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-972"
-    },
-    {
-      "id": 18442,
-      "IDcode": "SSIS-900",
-      "title": "一個月的軟禁生活徹底暴露了芸能人的淫蕩本性 都快瘋了",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-10-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20231007/c8cc9674-754e-44ca-9459-2072484499ce.jpg",
-      "actress": [
-        "四宮ありす",
-        "みっちー"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-900"
-    },
-    {
-      "id": 107044,
-      "IDcode": "SSIS-862",
-      "title": "女子●生タレントの無邪気な誘惑に沼った担当マネージャー（既婚）の私。人間失格 四宮ありす （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-09-12",
-      "cover_url": "",
-      "actress": [
-        "四宮ありす",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-862"
-    },
-    {
       "id": 107472,
       "IDcode": "SSIS-828",
-      "title": "芸能人四宮ありす人生初大乱交！ 次から次に巨根おかわり無制限セックス 生写真3枚付き",
+      "title": "人生初次大乱交-四宫爱丽丝",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-08-09",
-      "cover_url": "https://tutu1.space/images/2023/09/20/e8a150db4bc02618f2ad86d0635ca1bd.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "四宮ありす",
         "鲛岛"
@@ -104,16 +54,49 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-828"
     },
     {
-      "id": 87656,
-      "IDcode": "SSIS-790",
-      "title": "本物芸能人 四宮ありすちゃんて連続何回イケるの？ノンストップ超々ロングSEXで見たことないオーガズム （ブルーレイディスク） （BOD）",
+      "id": 107044,
+      "IDcode": "SSIS-862",
+      "title": "陷入在女子高中生的誘惑當中的我（已婚）是她的經紀人 我是個失敗的人類 四宮有朱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-07-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230814-1/952612521cd7bb8fd5e43f5faa450e3a.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683b1d3e15dec3d802aa5eaf/cover.jpg",
+      "actress": [
+        "四宮ありす",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-862"
+    },
+    {
+      "id": 87708,
+      "IDcode": "SSIS-751",
+      "title": "极上回春按摩-四宫爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/24/6830a9c2cb21006f00c2d9c7/cover.jpg",
+      "actress": [
+        "四宮ありす"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-751"
+    },
+    {
+      "id": 87656,
+      "IDcode": "SSIS-790",
+      "title": "真正藝能人 四宮有朱能夠連續高潮幾回？不間斷超長做愛從未見過的高潮 四宮有朱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683afc8b0b69f1d816377db0/cover.jpg",
       "actress": [
         "四宮ありす",
         "小田切ジュン",
@@ -122,32 +105,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-790"
     },
     {
-      "id": 87708,
-      "IDcode": "SSIS-751",
-      "title": "芸能プロダクションから派遣された超高級エステティシャン‘四宮ありす’の極上回春マッサージ （ブルーレイディスク）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
-      "actress": [
-        "四宮ありす"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-751"
-    },
-    {
       "id": 73255,
       "IDcode": "SSIS-677",
-      "title": "完成！ 即イキプッシー芸能人四宮ありすの乳首/膣中/クリ 3大性感覚醒 ぶっちぎり大絶頂SEX （ブルーレイディスク） 生写真3枚付き",
+      "title": "完結篇！即刻噴水迎春名人四宮有朱的乳頭陰道陰蒂3大性感覺覺醒 爆裂極致高潮性交 四宮有朱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-04-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/d2ea4fecf3849cf67207c023f1a84c09.jpg",
       "actress": [
         "四宮ありす",
         "イセドン内村"
@@ -157,14 +124,14 @@ window.actressData = {
     {
       "id": 67935,
       "IDcode": "SSIS-638",
-      "title": "芸能人 四宮ありす オールヌード解禁 敏感100イキ 3本番 （ブルーレイディスク） 生写真3枚付き",
+      "title": "芸能人-四宮ありす",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-01-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/23/6830683c8c4b3b91d75eda0b/cover.jpg",
       "actress": [
         "四宮ありす",
         "鲛岛"
@@ -174,18 +141,51 @@ window.actressData = {
     {
       "id": 67870,
       "IDcode": "SSIS-569",
-      "title": "芸能人 四宮ありす （ブルーレイディスク）",
+      "title": "芸能人-四宮ありす",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2022-12-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/dfd5e3fa8521e9ee25f2da2200912062.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "四宮ありす"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-569"
+    },
+    {
+      "id": 18442,
+      "IDcode": "SSIS-900",
+      "title": "藝能人的好色本性 禁止自慰的一個月軟禁生活 隨後的禁慾解放！ 四宮有朱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231007/c8cc9674-754e-44ca-9459-2072484499ce.jpg",
+      "actress": [
+        "四宮ありす",
+        "みっちー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-900"
+    },
+    {
+      "id": 17365,
+      "IDcode": "SSIS-972",
+      "title": "每次出外景時-四宮有朱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231209/503d90ad-4dc7-46e1-bf03-611a157f6d2e.jpg",
+      "actress": [
+        "四宮ありす"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-972"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "カゲト",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 72191,
       "IDcode": "ALDN-416",
-      "title": "やっぱりこの歳だと中出しの快楽に溺れてしまう 翔田千里",
+      "title": "還是沉溺在中出的快樂中-翔田千里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TAKARA",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://tutu1.space/images/2025/02/20/78e30edeb6c536060a1089d596d005fc.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "翔田千里",
         "カゲト"

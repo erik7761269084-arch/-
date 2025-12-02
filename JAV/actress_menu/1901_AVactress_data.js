@@ -61,114 +61,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/5ca0acd7-c254-43f9-b8dd-b46d85c8a3bd.jpg",
     "https://picture.yoshiclub.xyz/20230124/b4b34084-bfa5-4e72-bed3-0419b0f94d3a.jpg"
   ],
-  "works_count": 21,
+  "works_count": 22,
   "related_dramas": [
-    {
-      "id": 73638,
-      "IDcode": "NSFS-354",
-      "title": "事件に巻き込まれた夫婦 夫のそばで愛する妻がまわされた！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-01-28",
-      "cover_url": "",
-      "actress": [
-        "通野未帆",
-        "绀野光",
-        "佐倉陽菜",
-        "富田优衣",
-        "乃木遥",
-        "管野静香",
-        "梨々花",
-        "令和れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-354"
-    },
-    {
-      "id": 106526,
-      "IDcode": "AARM-187",
-      "title": "柔らかおっぱいでハグされながら亀頭優しく撫でられ続ける天国性感3Pプレイ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-07-18",
-      "cover_url": "",
-      "actress": [
-        "乃木遥",
-        "爱花みちる",
-        "优木なお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-187"
-    },
-    {
-      "id": 89556,
-      "IDcode": "AARM-174",
-      "title": "続・エロ揉み熟女の全裸マッサージ 裏メニューで本番させてもらっちゃった僕。…の巻",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2023-04-11",
-      "cover_url": "",
-      "actress": [
-        "小早川怜子",
-        "乃木遥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-174"
-    },
-    {
-      "id": 66731,
-      "IDcode": "ALDN-086",
-      "title": "想要抱住的前妻 乃木遙",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2022-11-05",
-      "cover_url": "",
-      "actress": [
-        "乃木遥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-086"
-    },
-    {
-      "id": 84009,
-      "IDcode": "AUKG-536",
-      "title": "巨乳レズビアン ～モンスターペアレントに犯●れる爆乳女教師～ 岸和水 乃木はるか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2022-03-15",
-      "cover_url": "",
-      "actress": [
-        "乃木遥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-536"
-    },
-    {
-      "id": 85771,
-      "IDcode": "NSFS-072",
-      "title": "借金夫婦‥ 妻がダッチワイフにされました。2 ～夫の目の前で何十発と中出しされた妻～ 乃木はるか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2022-03-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230129-1/49ed7bad47e6031e832f599b6d696de3.jpg",
-      "actress": [
-        "乃木遥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-072"
-    },
     {
       "id": 84833,
       "IDcode": "HUNTB-166",
@@ -176,8 +70,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-12-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/ec01596b3f0d2f549b5e892cf319fc6a.jpg",
       "actress": [
@@ -188,32 +82,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-166"
     },
     {
-      "id": 84629,
-      "IDcode": "HBAD-606",
-      "title": "兄嫁の不倫相手は義父 旦那に内緒で義弟達も淫らな兄嫁の肉穴に吸い尽くされる 乃木はるか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2021-12-23",
-      "cover_url": "",
-      "actress": [
-        "乃木遥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-606"
-    },
-    {
       "id": 80457,
       "IDcode": "HUNTB-158",
       "title": "「姉ちゃんもしかしてオナニーしてる？」姉が四つん這いになって股間にペンを挟んでオナニーしていると思ったら下半身のトレーニングと聞いてビックリ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-12-14",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/4ca492431b71646708d4cdd82553514d.jpg",
       "actress": [
         "吉根柚莉爱",
         "佐伯由美香",
@@ -228,8 +106,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2021-11-16",
       "cover_url": "",
       "actress": [
@@ -239,30 +117,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-125"
     },
     {
-      "id": 84486,
-      "IDcode": "GS-411",
-      "title": "「裸にエプロン！？ハメあり出張セクシー巨乳家政婦」奥さんが親の介護で実家に帰ってるので、家事ができない俺は家事代行サービスを頼んだら…なんと巨乳でエロい家政婦のお姉さんがやってきた！ソソられまくりムラムラしていると、追い打ちをかけるようなパンチラ！！し…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GOGOS",
-      "publish_date": "2021-11-11",
-      "cover_url": "",
-      "actress": [
-        "乃木遥",
-        "叶月もえ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-411"
-    },
-    {
       "id": 79893,
       "IDcode": "NSFS-032",
       "title": "夫婦人質事件 ～朝から晩まで性欲の道具にされた妻～ 乃木はるか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
       "publish_date": "2021-10-12",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/51f0c7ce4b2cbfa291fd5112f0551f76.jpg",
@@ -278,10 +139,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-09-28",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/dd861d207ba2749f9e356b902294ba8d.jpg",
       "actress": [
         "乙愛麗絲",
         "望月綾香",
@@ -298,10 +159,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-01",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231228/q6eU3kEU/1.jpg",
       "actress": [
         "西山あさひ",
         "蒼空なつき",
@@ -322,8 +183,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
+      "type": "",
+      "company": "光夜蝶 (Komyo)",
       "publish_date": "2020-02-29",
       "cover_url": "",
       "actress": [
@@ -344,7 +205,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
       "publish_date": "2020-01-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/6719eb0994bb9c68164b40615379a95e.jpg",
@@ -359,37 +220,75 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-195"
     },
     {
-      "id": 71204,
-      "IDcode": "HBAD-346",
-      "title": "義父に求められ続け堕ちた私 夫の事を愛していたはずなのに… 成宮はるあ",
+      "id": 100167,
+      "IDcode": "ABP-443",
+      "title": "近所に住んでるセックスの神様 成宮はるあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2017-01-19",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-02-19",
       "cover_url": "",
       "actress": [
-        "乃木遥"
+        "乃木遥",
+        "ゆうき",
+        "森林原人",
+        "田渊正浩",
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-346"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-443"
     },
     {
-      "id": 1771,
-      "IDcode": "LAFBD-76",
-      "title": "Laforet Girl Vol.76 你想今晚點哪一個？ ！ ：一條理音、成宮春華",
+      "id": 159156,
+      "IDcode": "CARIB-062223-001",
+      "title": "早抜き 成宮はるあBEST ~ 成宮はるあ",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2016-10-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/671dbcdd-0b82-406d-86f3-e17f3a05efe3.webp",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/WFncLK2b/1.jpg",
       "actress": [
-        "一條莉音",
         "乃木遥"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-76"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-062223-001"
+    },
+    {
+      "id": 106526,
+      "IDcode": "AARM-187",
+      "title": "温柔爱抚天国性感3P",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/cd8fc2b82efc2cb22ab8e65f5f9db0f8.jpg",
+      "actress": [
+        "乃木遥",
+        "爱花みちる",
+        "优木なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-187"
+    },
+    {
+      "id": 89556,
+      "IDcode": "AARM-174",
+      "title": "熟女的全裸按摩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682812da5d899f636101a764/cover.jpg",
+      "actress": [
+        "小早川怜子",
+        "乃木遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-174"
     },
     {
       "id": 88449,
@@ -398,10 +297,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2016-05-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/61e31a3206111cfa48cc01de3321606a.jpg",
       "actress": [
         "乃木遥",
         "まゆのゆま",
@@ -410,13 +309,78 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-826"
     },
     {
-      "id": 79137,
-      "IDcode": "STARS-383",
-      "title": "- 売れっ子グラビアアイドルが事務所社長の俺を毛嫌いするなんて許さない、洗脳エステで女性弁護士共々俺の思い通りにしてやる！乃木蛍 - JAV目錄大全javmenu.com",
+      "id": 85771,
+      "IDcode": "NSFS-072",
+      "title": "借金夫婦-乃木はるか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/654e03a063005055a774b09e7690ab53.jpg",
+      "actress": [
+        "乃木遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-072"
+    },
+    {
+      "id": 84629,
+      "IDcode": "HBAD-606",
+      "title": "和我的公公有染-乃木はるか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "乃木遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-606"
+    },
+    {
+      "id": 84486,
+      "IDcode": "GS-411",
+      "title": "機械情報サイト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GOGOS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "乃木遥",
+        "叶月もえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-411"
+    },
+    {
+      "id": 84009,
+      "IDcode": "AUKG-536",
+      "title": "巨乳レズビアン ～モンスターペアレントに犯●れる爆乳女教師～ 岸和水 乃木はるか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc212f9a2e9b1d45c6630/cover.jpg",
+      "actress": [
+        "乃木遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-536"
+    },
+    {
+      "id": 79137,
+      "IDcode": "STARS-383",
+      "title": "女性弁護士-乃木蛍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
       "publish_date": "",
       "cover_url": "",
@@ -429,18 +393,73 @@ window.actressData = {
     {
       "id": 79066,
       "IDcode": "NSPS-990",
-      "title": "- 夫の上司に抱かれ子づくりしてしまった妻2 乃木はるか - JAV目錄大全javmenu.com",
+      "title": "夫の上司に抱かれ子づくりしてしまった妻2 乃木はるか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "素人Only",
       "publish_date": "",
       "cover_url": "",
       "actress": [
         "乃木遥"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-990"
+    },
+    {
+      "id": 73638,
+      "IDcode": "NSFS-354",
+      "title": "事件に巻き込まれた夫婦 夫のそばで愛する妻がまわされた！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250811-1/222bb338751b022573232f36fb5789ab.jpg",
+      "actress": [
+        "通野未帆",
+        "绀野光",
+        "佐倉陽菜",
+        "富田优衣",
+        "乃木遥",
+        "管野静香",
+        "梨々花",
+        "令和れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-354"
+    },
+    {
+      "id": 71204,
+      "IDcode": "HBAD-346",
+      "title": "爱我的丈夫-成宮はるあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/04836e94fb17d3376af5bcbaedeffaee.jpg",
+      "actress": [
+        "乃木遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-346"
+    },
+    {
+      "id": 66731,
+      "IDcode": "ALDN-086",
+      "title": "前妻们-乃木はるか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c43753ed39b57c0f24134/cover.jpg",
+      "actress": [
+        "乃木遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-086"
     }
   ]
 };

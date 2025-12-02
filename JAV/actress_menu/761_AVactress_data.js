@@ -46,50 +46,67 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250306/0ea4b1f3-40cf-4df0-be1b-617c65eb7b0f.jpg",
     "https://picture.yoshiclub.xyz/20250306/60692318-2da5-453c-993d-8ef2bf179d55.jpg"
   ],
-  "works_count": 5,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 3037,
-      "IDcode": "SONE-897",
-      "title": "蘿莉偶像溫泉攝影會真的像傳說中一樣全裸上陣嗎？地上波絕不敢放的枕營業激情實錄 ~ 櫻乃莉乃",
+      "id": 7749,
+      "IDcode": "SONE-662",
+      "title": "想要爆红的偶像网红樱乃莉乃AV出道",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/202509040218391111_51388_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f50757cf22ae3e04efe65b/cover.jpg",
       "actress": [
-        "櫻乃莉乃"
+        "櫻乃莉乃",
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-897"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-662"
     },
     {
-      "id": 4769,
-      "IDcode": "SONE-812",
-      "title": "甜笑勾引你慾火，滿臉精液也笑得甜，超貼心服務網紅妹子讓你爽到爆 ~ 櫻乃莉乃",
+      "id": 7029,
+      "IDcode": "SONE-663",
+      "title": "告别未知的性爱-桜乃りの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703042038597597_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403091934781781.jpg",
       "actress": [
         "櫻乃莉乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-812"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-663"
+    },
+    {
+      "id": 6322,
+      "IDcode": "SONE-701",
+      "title": "和我超级喜欢的大叔约会-桜乃りの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250509/4c5128d8-1930-4efa-8b3c-48d7cd153508_thumbnail.webp",
+      "actress": [
+        "櫻乃莉乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-701"
     },
     {
       "id": 5564,
       "IDcode": "SONE-778",
-      "title": "前偶像現役網路紅人 潮吹痙攣爆紅網路 ~ 櫻乃莉乃",
+      "title": "就算以前是偶像也想吹海潮-桜乃りの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035030920920_thumbnail.webp",
       "actress": [
         "櫻乃莉乃",
@@ -98,37 +115,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-778"
     },
     {
-      "id": 6322,
-      "IDcode": "SONE-701",
-      "title": "天生基因級迷戀大叔！ 超濃情過夜約會 爽到不行 舌吻不停 纏綿到天亮 ~ 櫻乃莉乃",
+      "id": 4769,
+      "IDcode": "SONE-812",
+      "title": "笑容满面地接受颜射-桜乃りの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250509/4c5128d8-1930-4efa-8b3c-48d7cd153508_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703042038597597_thumbnail.webp",
       "actress": [
         "櫻乃莉乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-701"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-812"
     },
     {
-      "id": 7749,
-      "IDcode": "SONE-662",
-      "title": "新人出道！夢、青春、性愛。NO.1STYLE 炙手可熱的網路紅人 首次亮相 AV DEBUT ~ 櫻乃莉乃",
+      "id": 3750,
+      "IDcode": "SONE-847",
+      "title": "中年教師の私は、教え子の眩しい笑顔と見つめる眼差しに負けてしまって、何度も性行為を求めてしまった。 桜乃りの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/202503051229233737.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030337766766_60870_thumbnail.webp",
       "actress": [
-        "櫻乃莉乃",
-        "小田切ジュン"
+        "櫻乃莉乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-662"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-847"
+    },
+    {
+      "id": 3037,
+      "IDcode": "SONE-897",
+      "title": "萝莉偶像温泉摄影会真的像传说中一样全裸上阵吗-桜乃りの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/202509040218391111_51388_thumbnail.webp",
+      "actress": [
+        "櫻乃莉乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-897"
+    },
+    {
+      "id": 2083,
+      "IDcode": "SONE-935",
+      "title": "绝对不行-桜乃りの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "櫻乃莉乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-935"
     }
   ]
 };

@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 1564,
       "IDcode": "HND-021",
-      "title": "女教師真正中出 阪野由梨",
+      "title": "诱惑学生无套插入内射的女教师-坂野由梨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "本中",
-      "publish_date": "2011-08-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20230330/80bfd949-4604-4c77-b85b-bd596ce881fe.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/398cde605fa6ad37d84f6bad759407b2.jpg",
       "actress": [
         "坂野由梨"
       ],

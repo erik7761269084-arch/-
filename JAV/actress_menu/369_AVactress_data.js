@@ -25,191 +25,31 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240220/ce43c6b5-5d4e-42cb-9eb1-0d357d760e8b.jpg",
     "https://picture.yoshiclub.xyz/20240220/f5fa7042-3b66-4cbe-b5ac-a0b7252a53d7.jpg"
   ],
-  "works_count": 16,
+  "works_count": 22,
   "related_dramas": [
     {
-      "id": 2640,
-      "IDcode": "JUR-425",
-      "title": "和絕倫阿姨的1泊2日榨精之旅 童貞覺醒後沉迷連續中出 ~ 古東まりこ",
+      "id": 6178,
+      "IDcode": "SODS-069",
+      "title": "真實人妻13人羞澀又背德的初次體驗合集 13場激戰10小時雙碟裝 ~ 玉城夏帆 白河花清 檜山百合香 望月瞳 澀谷夏 柊優衣 古東麻理子 真白梨麻 小谷舞花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021321322322_74913_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2025-05-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/202505122006104040_thumbnail.webp",
       "actress": [
+        "玉城夏帆",
         "古東まりこ",
-        "青沼"
+        "白河花清",
+        "小谷舞花",
+        "真白りま",
+        "渋谷夏",
+        "柊優衣",
+        "望月瞳",
+        "檜山百合香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-425"
-    },
-    {
-      "id": 4337,
-      "IDcode": "JUR-378",
-      "title": "豐滿繼母教你大人的吻技，幫你破處啦 ~ 古東麻里子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717003006630630_45682_thumbnail.webp",
-      "actress": [
-        "古東まりこ",
-        "ニック"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-378"
-    },
-    {
-      "id": 4812,
-      "IDcode": "MDON-078",
-      "title": "獨家配信 熟女天后真實解放 超猛自拍 ~ 古東麻里子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250701/20250701203253970970_thumbnail.webp",
-      "actress": [
-        "古東まりこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-078"
-    },
-    {
-      "id": 5117,
-      "IDcode": "JUR-339",
-      "title": "為了摯愛的丈夫，週末淪為肉便器！被超變態老男人狂中出到懷孕為止 ~ 古東麻里子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064735811811_thumbnail.webp",
-      "actress": [
-        "古東まりこ",
-        "ジェイ."
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-339"
-    },
-    {
-      "id": 5878,
-      "IDcode": "JUR-282",
-      "title": "靈魂肉體超契合的兩人：濃情熱吻風俗體驗 ~ 古東まりこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075449555555_thumbnail.webp",
-      "actress": [
-        "古東まりこ",
-        "さんたま"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-282"
-    },
-    {
-      "id": 6735,
-      "IDcode": "JUR-236",
-      "title": "畢業後的祕密驚喜：繼母給成年你的特別禮物 ~ 古東まりこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417085131781781_thumbnail.webp",
-      "actress": [
-        "古東まりこ",
-        "ニック"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-236"
-    },
-    {
-      "id": 7345,
-      "IDcode": "JUR-220",
-      "title": "裸模NTR 老婆跟上司沉迷羞恥的驚爆出軌視頻 ~ 古東まりこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110527422422.jpg",
-      "actress": [
-        "古東まりこ",
-        "左慈半造",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-220"
-    },
-    {
-      "id": 8113,
-      "IDcode": "JUR-145",
-      "title": "我和我兒子的朋友保持着若即若離的性關系五年了。 和年輕的男孩玩得真開心…… ~ 古東まりこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092324500500.jpg",
-      "actress": [
-        "古東まりこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-145"
-    },
-    {
-      "id": 8803,
-      "IDcode": "JUR-136",
-      "title": "我不能告訴妻子我嶽母懷孕了...... 1泊2日的溫泉之旅，迷失在嶽母的迷人身姿中 ~ 古東まりこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072815478478.jpg",
-      "actress": [
-        "古東まりこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-136"
-    },
-    {
-      "id": 9764,
-      "IDcode": "JUQ-965",
-      "title": "爲了幫破產欠下巨債的丈夫，人妻祕書接受了這份情人祕書的工作，每天的工作就是社長辦公室裏汗流浹背的做愛，美貌熟女愛人祕書誕生！ ~ 古東まりこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218094424468468.jpg",
-      "actress": [
-        "古東まりこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-965"
-    },
-    {
-      "id": 10462,
-      "IDcode": "JUQ-955",
-      "title": "電擊移籍 Madonna專屬第1作 超激烈接吻和體內射精 ~ 古東まりこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122001217650650.jpg",
-      "actress": [
-        "古東まりこ",
-        "トンガ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-955"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-069"
     },
     {
       "id": 12713,
@@ -218,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-09-12",
       "cover_url": "https://picture.yoshiclub.xyz/20240813/de66417c-1d27-4755-a95b-1934ef1d98f6.jpg",
@@ -234,7 +74,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-08-08",
       "cover_url": "https://picture.yoshiclub.xyz/20240703/51ee5235-f5a2-4125-9a10-308eb29c6967.jpg",
@@ -244,20 +84,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-024"
     },
     {
-      "id": 14046,
-      "IDcode": "SDMF-051",
-      "title": "從名牌大學畢業並將成爲醫生的兒子，還沒有辦法斷奶。~ 古東まりこ",
+      "id": 15955,
+      "IDcode": "SDNM-442",
+      "title": "孩子都大了 我也要開始尋找自己的幸福了 古東まりこ，43 歲 大雞巴即時性愛，連續陰道射精，原始性愛，大量中出",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240611/496f3657-b989-4266-9213-d46dafb8ddda.jpg",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220010957339339.jpg",
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-051"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-442"
+    },
+    {
+      "id": 94749,
+      "IDcode": "SUWK-012",
+      "title": "跟長子的年輕班導-古東真理子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/aef3c644a3cd19186c25c75a346baac8.jpg",
+      "actress": [
+        "古東まりこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-012"
+    },
+    {
+      "id": 15680,
+      "IDcode": "SPLY-015",
+      "title": "與在當地溫泉設施發現的滿頭大汗的 古東まりこ 女士舔舐並交配",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32a56735bb663f77c5dd7/cover.jpg",
+      "actress": [
+        "古東まりこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-015"
     },
     {
       "id": 14745,
@@ -266,30 +138,297 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240514/cb945259-1c7e-44a3-9bba-87ce118f3a21.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689d67d51cc1e2086915a475/cover.jpg",
       "actress": [
         "古東まりこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-018"
     },
     {
-      "id": 94749,
-      "IDcode": "SUWK-012",
-      "title": "長男の担任の若手教師と週一、1時間のカラオケ密会不倫で欲求不満を解消する絶倫PTAママ（43） 古東まりこ",
+      "id": 14046,
+      "IDcode": "SDMF-051",
+      "title": "今年从名门大学毕业成为医生的儿子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-04-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241101-1/aef3c644a3cd19186c25c75a346baac8.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240611/496f3657-b989-4266-9213-d46dafb8ddda.jpg",
       "actress": [
         "古東まりこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUWK-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-051"
+    },
+    {
+      "id": 10462,
+      "IDcode": "JUQ-955",
+      "title": "超浓厚亲吻中出三本番-古东真理子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122001217650650.jpg",
+      "actress": [
+        "古東まりこ",
+        "トンガ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-955"
+    },
+    {
+      "id": 9764,
+      "IDcode": "JUQ-965",
+      "title": "人妻秘书在满是汗水和热吻的社长室里被内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218094424468468.jpg",
+      "actress": [
+        "古東まりこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-965"
+    },
+    {
+      "id": 8803,
+      "IDcode": "JUR-136",
+      "title": "无论如何对妻子也说不出口-古东真理子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072815478478.jpg",
+      "actress": [
+        "古東まりこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-136"
+    },
+    {
+      "id": 8113,
+      "IDcode": "JUR-145",
+      "title": "风韵犹存的美胸少妇-古東まりこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092324500500.jpg",
+      "actress": [
+        "古東まりこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-145"
+    },
+    {
+      "id": 8095,
+      "IDcode": "JUR-031",
+      "title": "マドンナALL専属バスツアー2025 極上の美女を1人占めするのは僕だ！！夢のハーレムを掴み取れ！！総勢37名の大乱交SPECIAL！！前編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092235625625.jpg",
+      "actress": [
+        "橘瑪麗",
+        "藤森里穂",
+        "栗山莉緒",
+        "神宫寺奈緒",
+        "吉泽友贵",
+        "推川悠里",
+        "日下部加奈",
+        "椎名由奈",
+        "竹田夢",
+        "愛弓涼",
+        "沖宮那美",
+        "水户香奈",
+        "朝妃莉緒",
+        "白石茉莉奈",
+        "廣瀨百合",
+        "古東まりこ",
+        "吉永塔子",
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-031"
+    },
+    {
+      "id": 7345,
+      "IDcode": "JUR-220",
+      "title": "裸體模特兒NTR-古東真理子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110527422422.jpg",
+      "actress": [
+        "古東まりこ",
+        "左慈半造",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-220"
+    },
+    {
+      "id": 7344,
+      "IDcode": "JUR-032",
+      "title": "マドンナALL専属バスツアー2025 ハーレムを掴み取った男たちが極上の美女を独占！！酒池肉林のお祭りはまだまだ続く！！夢の大共演＆大乱交FESTIVAL！！後編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/05/67f08a174e7d663df483517c/cover.jpg",
+      "actress": [
+        "橘瑪麗",
+        "藤森里穂",
+        "通野未帆",
+        "栗山莉緒",
+        "神宫寺奈緒",
+        "吉泽友贵",
+        "推川悠里",
+        "日下部加奈",
+        "椎名由奈",
+        "竹田夢",
+        "愛弓涼",
+        "沖宮那美",
+        "水户香奈",
+        "朝妃莉緒",
+        "白石茉莉奈",
+        "廣瀨百合",
+        "古東まりこ",
+        "吉永塔子",
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-032"
+    },
+    {
+      "id": 6735,
+      "IDcode": "JUR-236",
+      "title": "毕业典礼后-古東まりこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417085131781781_thumbnail.webp",
+      "actress": [
+        "古東まりこ",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-236"
+    },
+    {
+      "id": 5878,
+      "IDcode": "JUR-282",
+      "title": "身心契合度极佳的两个人-古東まりこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075449555555_thumbnail.webp",
+      "actress": [
+        "古東まりこ",
+        "さんたま"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-282"
+    },
+    {
+      "id": 5117,
+      "IDcode": "JUR-339",
+      "title": "為了摯愛的丈夫，週末淪為肉便器！被超變態老男人狂中出到懷孕為止 ~ 古東麻里子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064735811811_thumbnail.webp",
+      "actress": [
+        "古東まりこ",
+        "ジェイ."
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-339"
+    },
+    {
+      "id": 4812,
+      "IDcode": "MDON-078",
+      "title": "配信限定 マドンナ専属女優の『リアル』解禁。 MADOOOON！！！！ 古東まりこ ハメ撮り",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "古東まりこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-078"
+    },
+    {
+      "id": 4337,
+      "IDcode": "JUR-378",
+      "title": "丰满的继母-古東まりこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717003006630630_45682_thumbnail.webp",
+      "actress": [
+        "古東まりこ",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-378"
+    },
+    {
+      "id": 3370,
+      "IDcode": "JUR-387",
+      "title": "バスタイム家庭内不倫 ～弟が来てから風呂好きの妻がより長風呂になった…。～ 古東まりこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024216748748_67240_thumbnail.webp",
+      "actress": [
+        "古東まりこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-387"
+    },
+    {
+      "id": 2640,
+      "IDcode": "JUR-425",
+      "title": "童貞的我跟好色巨乳叔母的性愛中出之旅-古東真理子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "古東まりこ",
+        "青沼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-425"
     }
   ]
 };

@@ -41,53 +41,53 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 8237,
-      "IDcode": "MIDV-940",
-      "title": "汗！潮！愛液！渾身沾滿體液的密着性交 ~ 倖月星羅",
+      "id": 10617,
+      "IDcode": "MIDV-864",
+      "title": "新人 現役女子大生 専属 脚なが長身175cm 倖月セラ AV Debut！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/202502130728081616.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/04/a1bd358b382c2352ef9e0cee670bd6c2.jpg",
       "actress": [
-        "倖月星羅",
-        "日森一"
+        "倖月星羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-940"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-864"
     },
     {
       "id": 9924,
       "IDcode": "MIDV-902",
-      "title": "初體驗！ ！性開發3本番特別制作！ ！ ~ 倖月星羅",
+      "title": "性别发展3生产Special-倖月セラ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211065722159159.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241231-1/5ff9a87846defd8001eefcd826c935ae.jpg",
       "actress": [
         "倖月星羅"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-902"
     },
     {
-      "id": 10617,
-      "IDcode": "MIDV-864",
-      "title": "新人出道！現役女子大生 專屬確定 長身175cm的超美腳 首次亮相 AV DEBUT ~ 幸月星羅",
+      "id": 8237,
+      "IDcode": "MIDV-940",
+      "title": "汗！潮！愛液！体液まみれで常にベロキス性交 倖月セラ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114081913157157.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8b07fcf22ae3e04db511e/cover.jpg",
       "actress": [
-        "倖月星羅"
+        "倖月星羅",
+        "日森一"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-864"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-940"
     }
   ]
 };

@@ -37,8 +37,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250207/3d485b33-c695-44d2-ace2-57446d9f36cf.jpg",
     "https://picture.yoshiclub.xyz/20250207/e04ba869-ca10-4b2e-8675-fa454be79c4b.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 8484,
+      "IDcode": "JNKD-010",
+      "title": "COSPLAY 插入部分特寫 Vol 06 ~ 前田美波 內田菫 朝比奈芹那 星乃夏月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-02-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250207/bf0330f9-a213-4c76-8a1b-6745639219b1.jpg",
+      "actress": [
+        "前田美波",
+        "星乃夏月",
+        "內田菫",
+        "朝比奈芹那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JNKD-010"
+    },
     {
       "id": 91368,
       "IDcode": "CHUC-039",
@@ -46,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-07-27",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/256e765001ce6334a7bb436f68499bc3.jpg",
       "actress": [
         "朝比奈芹那"
       ],

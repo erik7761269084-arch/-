@@ -41,19 +41,37 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250309/9d73df75-71e5-4c82-b96c-0802efc2fdc2.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 2567,
-      "IDcode": "CJOB-189",
-      "title": "騷氣姐姐們的W癡女口暴 輪流榨汁讓我爽到不行 BEST 4小時總集編 ~ 鬆本一香 木下日葵 森日向子 月乃露娜 北野未奈 辻井穗乃果 黑川堇 真木今日子 本真友裏 篠田優 AIKA 新村朱裏 通野未帆 藤森裏穗 永瀨唯 鬆本菜奈實 波多野結衣 美波桃 久留木玲 吉良鈴 吉根柚莉愛",
+      "id": 7650,
+      "IDcode": "MDTM-856",
+      "title": "可以提供生孩子服務的甜美小惡魔女僕 Vol.02 日向理名 萌波鈴 初愛寧寧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043355768768_25963_thumbnail.webp",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250309/46659589-27aa-48c2-ae8f-fc1f82eb65a5.jpg",
+      "actress": [
+        "萌波鈴",
+        "日向理名",
+        "初愛寧寧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-856"
+    },
+    {
+      "id": 2567,
+      "IDcode": "CJOB-189",
+      "title": "ドスケベお姉さんたちの奪い合い痴女フェラ 交互にドピュドピュ射精させられちゃったボク…BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "波多野结衣",
         "松本一香",
@@ -83,7 +101,6 @@ window.actressData = {
         "初愛寧寧",
         "美波桃",
         "安倍亜沙美",
-        "永濑唯",
         "初爱ねんね"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-189"

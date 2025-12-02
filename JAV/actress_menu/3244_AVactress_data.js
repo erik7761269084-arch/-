@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ししお",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,199 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 16,
+  "works_count": 19,
   "related_dramas": [
-    {
-      "id": 2974,
-      "IDcode": "NACT-009",
-      "title": "親友的妹妹偷情被我撞見，忍不住直接上手搶人了 ~ 長瀨麻美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045529547547_38476_thumbnail.webp",
-      "actress": [
-        "长濑麻美",
-        "ししお",
-        "长瀬麻美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-009"
-    },
-    {
-      "id": 3865,
-      "IDcode": "NACR-999",
-      "title": "爲了替廢柴兒子還債，五十路媽媽被迫下海拍片 ~ 平岡裏枝子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101540338338_69418_thumbnail.webp",
-      "actress": [
-        "平岡里枝子",
-        "平冈里枝子",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-999"
-    },
-    {
-      "id": 5186,
-      "IDcode": "NACR-970",
-      "title": "快遞小哥送貨上門，騷氣人妻脫褲迎接！露穴勾引太變態了！ ~ AIKA",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619080636525525_thumbnail.webp",
-      "actress": [
-        "AIKA",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-970"
-    },
-    {
-      "id": 5145,
-      "IDcode": "NACR-972",
-      "title": "無法在老公身上滿足而偷偷當起上門情人 ~ 三池小春",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091444645645_thumbnail.webp",
-      "actress": [
-        "三池小春",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-972"
-    },
-    {
-      "id": 5143,
-      "IDcode": "NACR-976",
-      "title": "福利爆棚！優梨舞奈的超神粉絲服務 ~ 優梨舞奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091531687687_thumbnail.webp",
-      "actress": [
-        "優梨舞奈",
-        "なっつ",
-        "ししお",
-        "优梨まいな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-976"
-    },
-    {
-      "id": 5576,
-      "IDcode": "NACR-966",
-      "title": "我的女友是AI智能娃娃 ~ 五芭",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-06-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604210224595595_thumbnail.webp",
-      "actress": [
-        "五芭",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-966"
-    },
-    {
-      "id": 5994,
-      "IDcode": "NACR-960",
-      "title": "爆乳肉感出張泡泡浴，柔軟豐滿身體讓你欲罷不能 ~ 柳可憐",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-05-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/202505192330147474_thumbnail.webp",
-      "actress": [
-        "柳可憐",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-960"
-    },
-    {
-      "id": 6683,
-      "IDcode": "NACR-943",
-      "title": "天啊，女兒長大後完全是我的菜！~ 桃瀨日葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-04-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420201726390390_thumbnail.webp",
-      "actress": [
-        "桃瀨日葵",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-943"
-    },
-    {
-      "id": 7779,
-      "IDcode": "NACR-926",
-      "title": "響咚響直播自慰！勾引送貨員並現場做愛！ ？網紅淫蕩主播 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-03-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/eb23f8f2-a1a7-470d-ae40-167614f6bdae.jpg",
-      "actress": [
-        "南條彩",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-926"
-    },
-    {
-      "id": 88732,
-      "IDcode": "WORL-010",
-      "title": "世界共通のBody Language スパニッシュ情熱美女をナンパでGET！生ハメ乱交で狂いまくる快楽SEXモンスター！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-11-28",
-      "cover_url": "",
-      "actress": [
-        "ししお",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-010"
-    },
-    {
-      "id": 88735,
-      "IDcode": "WORL-009",
-      "title": "世界共通のBody Language ノリノリで言いなりになるエッチな金髪美女を生ハメ乱交連続中出しハメ倒す",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-11-14",
-      "cover_url": "",
-      "actress": [
-        "ししお",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-009"
-    },
     {
       "id": 88750,
       "IDcode": "WORL-005",
@@ -216,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-09-12",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/cfce1268316045bdee42f8a50e564cb2.jpg",
@@ -233,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-08-22",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240911/SG5QTuNE/1.jpg",
       "actress": [
         "ししお",
         "戸川夏也"
@@ -244,32 +53,63 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-004"
     },
     {
-      "id": 88832,
-      "IDcode": "TKOU-005",
-      "title": "【FANZA限定】人間拘束 美少女クリトリス拷問 西丘エマ パンティと生写真付き",
+      "id": 105012,
+      "IDcode": "WORL-015",
+      "title": "全世界通用的肢體語言 只需一個翻譯就可以找到跑步的健康美女！一個沒有男朋友的沮喪金髮女人在 3PSEX 中瘋狂並被精液覆蓋！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-08-12",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "ししお",
-        "西丘エマ"
+        "ししお"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-015"
+    },
+    {
+      "id": 96557,
+      "IDcode": "WORL-017",
+      "title": "可爱美少女制服cos AV演出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-017"
+    },
+    {
+      "id": 95897,
+      "IDcode": "WORL-019",
+      "title": "通用肢体语言积极主动是有极限的",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-019"
     },
     {
       "id": 90879,
       "IDcode": "BIJN-242",
-      "title": "THE ドキュメント 本能丸出しでする絶頂SEX Jカップ爆乳豊満OL欲望剥き出し猛獣ファック 南畑颯花",
+      "title": "本能释出绝顶SEX-南畑颯花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-05-02",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "ししお",
@@ -280,19 +120,227 @@ window.actressData = {
     {
       "id": 90868,
       "IDcode": "BIJN-230",
-      "title": "現出本能的絕頂性愛  淫亂癡女無止盡快樂限界突破噴發亂交 濱崎真緒",
+      "title": "淫乱痴女-浜崎真緒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2022-10-15",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "浜崎真绪",
         "ししお"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-230"
+    },
+    {
+      "id": 88832,
+      "IDcode": "TKOU-005",
+      "title": "人體束縛美少女陰蒂酷刑艾瑪西岡",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240615-1/9a9bcb0cccbf435df88665832b4935ca.jpg",
+      "actress": [
+        "ししお",
+        "西丘エマ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TKOU-005"
+    },
+    {
+      "id": 88735,
+      "IDcode": "WORL-009",
+      "title": "世界共通的肢体语言",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ししお",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-009"
+    },
+    {
+      "id": 88732,
+      "IDcode": "WORL-010",
+      "title": "生目乱交狂乱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ししお",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-010"
+    },
+    {
+      "id": 7779,
+      "IDcode": "NACR-926",
+      "title": "自慰直播中突然门铃响了-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/eb23f8f2-a1a7-470d-ae40-167614f6bdae.jpg",
+      "actress": [
+        "南條彩",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-926"
+    },
+    {
+      "id": 6683,
+      "IDcode": "NACR-943",
+      "title": "我的女儿怎么这么迷人-桃濑日葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420201726390390_thumbnail.webp",
+      "actress": [
+        "桃瀨日葵",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-943"
+    },
+    {
+      "id": 5994,
+      "IDcode": "NACR-960",
+      "title": "爆乳！！ぷにゅぷにゅ肉厚出張ソープ 武田怜香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/202505192330147474_thumbnail.webp",
+      "actress": [
+        "柳可憐",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-960"
+    },
+    {
+      "id": 5576,
+      "IDcode": "NACR-966",
+      "title": "俺の彼女はAIラブドール 五芭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604210224595595_thumbnail.webp",
+      "actress": [
+        "五芭",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-966"
+    },
+    {
+      "id": 5186,
+      "IDcode": "NACR-970",
+      "title": "露出小穴诱惑他的淫荡人妻-AIKA",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619080636525525_thumbnail.webp",
+      "actress": [
+        "AIKA",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-970"
+    },
+    {
+      "id": 5145,
+      "IDcode": "NACR-972",
+      "title": "瞞著丈夫偷偷當跑腿太太-三池小春",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091444645645_thumbnail.webp",
+      "actress": [
+        "三池小春",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-972"
+    },
+    {
+      "id": 5143,
+      "IDcode": "NACR-976",
+      "title": "报酬也太多了吧神级粉丝服务-優梨まいな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091531687687_thumbnail.webp",
+      "actress": [
+        "優梨舞奈",
+        "なっつ",
+        "ししお",
+        "优梨まいな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-976"
+    },
+    {
+      "id": 3865,
+      "IDcode": "NACR-999",
+      "title": "一位母亲因她唯一的儿子的丑闻而被迫出现在成人视频中-平岡里枝子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101540338338_69418_thumbnail.webp",
+      "actress": [
+        "平岡里枝子",
+        "平冈里枝子",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-999"
+    },
+    {
+      "id": 2974,
+      "IDcode": "NACT-009",
+      "title": "看到朋友与妹妹做爱的现场受不了睡走妹妹的我-长濑麻美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045529547547_38476_thumbnail.webp",
+      "actress": [
+        "长濑麻美",
+        "ししお",
+        "长瀬麻美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-009"
     }
   ]
 };

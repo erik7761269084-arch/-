@@ -35,8 +35,47 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250212/ce22b88c-14d2-4b02-ac2d-e47f9707e0d0.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 6222,
+      "IDcode": "KTRA-715",
+      "title": "無毛貧乳少女的極致誘惑4小時全集 ~ 夏原唯 跡美珠裏 日泉舞香 市井結夏 小島りりか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101839517517_thumbnail.webp",
+      "actress": [
+        "日泉舞香",
+        "市井結夏",
+        "迹美珠里",
+        "夏原唯",
+        "小島りりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-715"
+    },
+    {
+      "id": 8336,
+      "IDcode": "KTRA-699",
+      "title": "無毛蘿莉娘 4小時 合集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-02-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250212/94867588-f1d5-4dd4-a805-8a14e5de99aa.jpg",
+      "actress": [
+        "工藤拉拉",
+        "夏原唯",
+        "涼宮うるは",
+        "小島りりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-699"
+    },
     {
       "id": 72433,
       "IDcode": "TYD-003",
@@ -44,10 +83,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DREAMTICKET",
-      "publish_date": "2021-01-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/d2580ef0be49da165d7047e0859865e9.jpg",
       "actress": [
         "小島りりか",
         "朝日滴",

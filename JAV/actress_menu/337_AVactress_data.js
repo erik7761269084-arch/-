@@ -55,103 +55,260 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250924/629bb3c2-b3d8-4f9b-9030-cbcdecb11c26_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250924/da7bf592-8d83-43a6-a04f-b041b39b6879_l.webp"
   ],
-  "works_count": 12,
+  "works_count": 22,
   "related_dramas": [
     {
-      "id": 3016,
-      "IDcode": "SONE-889",
-      "title": "誘惑肢體接觸！霸王硬上吻！騎乘激烈性愛！夏日合宿單戀逆NTR大作戰 ~ 川越仁子",
+      "id": 16392,
+      "IDcode": "SONE-088",
+      "title": "自然而又快樂的性愛，讓眼睛融化的新人 NO.1 STYLE 川越にこ AV首次亮相",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021846536536_19273_thumbnail.webp",
-      "actress": [
-        "川越仁子",
-        "日森一"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-889"
-    },
-    {
-      "id": 3784,
-      "IDcode": "SONE-838",
-      "title": "宅男殺手 川越仁子秋葉原逆撩素人男，誘惑後直接AV出演，7天10發爽到飛 ~ 川越仁子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030456477477_78256_thumbnail.webp",
+      "publish_date": "2024-02-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240209/2024020908141255.jpg",
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-838"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-088"
     },
     {
-      "id": 4783,
-      "IDcode": "SONE-804",
-      "title": "被敬愛的繼父調教後矛盾高潮的女學生 心碎欲裂卻溼透了 ~ 川越仁子",
+      "id": 15619,
+      "IDcode": "SONE-150",
+      "title": "停止不了的高潮-川越仁子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703044438698698_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405042624625625.jpg",
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-804"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-150"
     },
     {
-      "id": 5560,
-      "IDcode": "SONE-749",
-      "title": "一秒開舔瘋狂抽插爽到爆射 小臉被精液糊滿還能甜笑服務的口暴護士 ~ 川越仁子",
+      "id": 14879,
+      "IDcode": "SONE-194",
+      "title": "天生就受欢迎的SEX-川越にこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035854306306_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418234208755755.jpg",
       "actress": [
         "川越仁子",
         "鲛岛",
-        "イセドン内村"
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-749"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-194"
     },
     {
-      "id": 6286,
-      "IDcode": "SONE-711",
-      "title": "禁忌師生戀：兩個制服妹子的誘惑讓我徹底淪陷，學校家中狂熱開戰 ~ 川越仁子 淺野心",
+      "id": 14138,
+      "IDcode": "SONE-197",
+      "title": "我想要被射爆-川越仁子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065025368368_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a06f64846149d7bc4f44af/cover.jpg",
       "actress": [
-        "淺野心",
         "川越仁子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-711"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-197"
+    },
+    {
+      "id": 13592,
+      "IDcode": "SONE-258",
+      "title": "我现在最想拥抱的身体-川越にこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705003442532532.jpg",
+      "actress": [
+        "川越仁子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-258"
+    },
+    {
+      "id": 12832,
+      "IDcode": "SONE-301",
+      "title": "冰淇淋是大叔味的-川越仁子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d4aab6eb67774efbb6bf68/cover.jpg",
+      "actress": [
+        "川越仁子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-301"
+    },
+    {
+      "id": 12190,
+      "IDcode": "SONE-350",
+      "title": "被迫和性骚扰店长共处一室-川越仁子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/202409060103578787.jpg",
+      "actress": [
+        "川越仁子",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-350"
+    },
+    {
+      "id": 11478,
+      "IDcode": "SONE-395",
+      "title": "天性のモテSEX 川越にこ の身も心も！ゼロ距離フェラチオ10式",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/37e81023c755746ae0fc5d66d2a9b182.jpg",
+      "actress": [
+        "川越仁子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-395"
+    },
+    {
+      "id": 10726,
+      "IDcode": "SONE-446",
+      "title": "童貞の貴方 と 天性のモテSEX 川越にこ が2人きり、丸2日間、強●的に！相部屋お泊まり会！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107081336420420.jpg",
+      "actress": [
+        "川越仁子",
+        "アリト"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-446"
+    },
+    {
+      "id": 10154,
+      "IDcode": "SONE-487",
+      "title": "尽管她有男朋友-川越にこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/202412050808482828.jpg",
+      "actress": [
+        "川越仁子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-487"
+    },
+    {
+      "id": 10117,
+      "IDcode": "SONE-560",
+      "title": "S1 PRECIOUS GIRLS 2024 - 史上從來未有過的最大規模亂交！24場全明星大集合大亂交超絕亂舞 Special特輯 ~ 河北彩花 金鬆季步 本鄉愛 Miru 楓花戀 等24位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e04c6379f1ac4ec48c195b/cover.jpg",
+      "actress": [
+        "奥田咲",
+        "Miru",
+        "河北彩花",
+        "未步奈奈",
+        "小日向美優",
+        "七森莉莉",
+        "三田真鈴",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "本郷愛",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
+        "川越仁子",
+        "金松季歩",
+        "白上咲花",
+        "神樂桃果",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-560"
+    },
+    {
+      "id": 9266,
+      "IDcode": "SONE-533",
+      "title": "要一起来个大乱交吗-川越にこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787927a8daf6b1db43c2d55/cover.jpg",
+      "actress": [
+        "川越仁子",
+        "鲛岛",
+        "七尾神",
+        "輝大",
+        "しょーと",
+        "すぱいく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-533"
+    },
+    {
+      "id": 8465,
+      "IDcode": "SONE-582",
+      "title": "作为班主任的我-川越にこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b9615f4e7d663df48c25ca/cover.jpg",
+      "actress": [
+        "川越仁子",
+        "岩下たろう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-582"
     },
     {
       "id": 7751,
       "IDcode": "SONE-562",
-      "title": "S1 20周年紀念 AV史上最強組合力作 最佳顏值的女學生們放肆狂幹滿足來賓的S1學園射精祭 ~ 乃阪日和 小日向美優 兒玉七海 榊原萌 渚あいり 川越仁子 早阪ひめ 未步奈奈 倉木華 村上悠華 白上咲",
+      "title": "S1学院射精祭业界名女优集合",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122839266266.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6b2538cce1a927afdc031/cover.jpg",
       "actress": [
         "未步奈奈",
         "小日向美優",
@@ -172,105 +329,134 @@ window.actressData = {
     {
       "id": 7746,
       "IDcode": "SONE-628",
-      "title": "嫉妒妹妹每天早上榨幹我的晨勃小弟弟，只爲阻止我和女友開幹 ~ 川越仁子",
+      "title": "为了防止我和她做爱-川越仁子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123953952952.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb07814e7d663df4c48c4e/cover.jpg",
       "actress": [
         "川越仁子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-628"
     },
     {
-      "id": 8465,
-      "IDcode": "SONE-582",
-      "title": "你知道自己有多可愛嗎！作爲她的班主任，我無法抵抗她對我愛慕的誘惑，我們發生了多次不倫關系 ~ 川越仁子",
+      "id": 7056,
+      "IDcode": "SONE-673",
+      "title": "叔叔再多摸摸我-川越にこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075300948948.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897cc2055337d7f7bbb23b7/cover.jpg",
       "actress": [
-        "川越仁子",
-        "岩下たろう"
+        "川越仁子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-673"
     },
     {
-      "id": 9266,
-      "IDcode": "SONE-533",
-      "title": "無前例大亂交？我保證每個男人都會瘋狂的11人大亂交！ ~ 川越仁子",
+      "id": 6286,
+      "IDcode": "SONE-711",
+      "title": "教師の僕に2人の生徒が惚れて…元気な川越にこと清楚な浅野こころのコンビ誘惑に負けて学校でも、自宅でも、何度も背徳性交に溺れてしまった。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074720272272.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/08/68956cd06ccb447f8c4444d9/cover.jpg",
+      "actress": [
+        "淺野心",
+        "川越仁子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-711"
+    },
+    {
+      "id": 5560,
+      "IDcode": "SONE-749",
+      "title": "给病人口交被颜射的护士用精液弄脏可爱的脸蛋-川越铃子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035854306306_thumbnail.webp",
       "actress": [
         "川越仁子",
         "鲛岛",
-        "七尾神",
-        "輝大",
-        "しょーと",
-        "すぱいく"
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-533"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-749"
     },
     {
-      "id": 10154,
-      "IDcode": "SONE-487",
-      "title": "餐廳打工的兼職女後輩同事用舌吻寢取了我！就算我有女友，我的雞巴也無法忍受這個騷貨的誘惑 ~ 川越仁子",
+      "id": 4783,
+      "IDcode": "SONE-804",
+      "title": "曾经深爱的养父的性虐待让我产生了矛盾高潮的女学生的我-川越にこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/202412050808482828.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/05/6891eb50c92318f97d83ed25/cover.jpg",
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-487"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-804"
     },
     {
-      "id": 10726,
-      "IDcode": "SONE-446",
-      "title": "童貞處男的你，和天性淫蕩的川越仁子，整整兩天的強制獨處 ~ 川越仁子",
+      "id": 3784,
+      "IDcode": "SONE-838",
+      "title": "オタク好きの‘川越にこ’がアキバの一般男性達を翻弄誘惑で好きにさせてAV出演交渉、そしてSEX！計10発キュンキュンヌキヌキさせちゃったAV界のあざと女王",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107081336420420.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689db60ac49456085438933a/cover.jpg",
+      "actress": [
+        "川越仁子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-838"
+    },
+    {
+      "id": 3016,
+      "IDcode": "SONE-889",
+      "title": "诱惑身体接触强行亲亲亲-川越仁子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "川越仁子",
-        "アリト"
+        "日森一"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-446"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-889"
     },
     {
-      "id": 13592,
-      "IDcode": "SONE-258",
-      "title": "我最想擁抱的身體，川越にこ，顛覆了我的理智。 【禁欲x媚藥】童顏異常絕頂高潮",
+      "id": 2134,
+      "IDcode": "SONE-966",
+      "title": "優しくてピュアな最愛彼女が大嫌いな老害クソ上司とのセクハラ交尾でメス化していたなんて… 川越にこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-07-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705003442532532.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "川越仁子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-966"
     }
   ]
 };

@@ -45,14 +45,14 @@ window.actressData = {
     {
       "id": 3209,
       "IDcode": "CAWD-880",
-      "title": "新人出道！來自山梨縣的田舍純情少女初下海，渴望被大叔狠狠開發！ AV DEBUT ~ 柊美織",
+      "title": "森林の恵みを感じ、豊かな自然に育まれた、汚れなき子は、実は濃厚おじさんとエッチがしたい！ 山梨県の過疎地で、お爺ちゃんと2人暮らしの女の子AVデビュー 柊みおり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828022304487487_38332_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "柊美織"
       ],

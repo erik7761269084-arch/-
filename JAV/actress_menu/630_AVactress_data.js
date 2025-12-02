@@ -40,60 +40,266 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231228/b0cd3ec1-ad67-45a2-8d67-7793ca56f3c5.jpg",
     "https://picture.yoshiclub.xyz/20231228/496f8ee8-2b67-4629-9878-cce01c57e6ec.jpg"
   ],
-  "works_count": 8,
+  "works_count": 18,
   "related_dramas": [
     {
-      "id": 3225,
-      "IDcode": "REAL-933",
-      "title": "完全熟女的極致誘惑 瘋狂調教 狠狠插入精選總編集 ~ 倉與田 萌波鈴 阿部乃美久 一條美緒 永瀨唯 乙愛麗絲 美園和花 佐野夏 小那海綾 小早川憐子 渚光希 川菜美鈴 篠田優 水川潤 新村朱裏 天馬唯 末廣純 美泉咲",
+      "id": 94850,
+      "IDcode": "SW-0959",
+      "title": "「お風呂いっしょに入ろ！」従姉妹＆叔母さんとまさかの混浴。大人になった僕のチ○ポを目にして興奮が止まらず、みんなにバレないように握りしめ濡れ濡れマ○コに誘ってきた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827110955176176_71637_thumbnail.webp",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "2024-07-11",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20241104-1/8e8f783fad9419c9807ce60d08e18b5f.jpg",
       "actress": [
-        "美園和花",
-        "天馬唯",
-        "乙愛麗絲",
-        "彌生美月",
-        "皆月光",
-        "末広純",
-        "新村朱里",
-        "木下日葵",
-        "小那海綾",
-        "吉根柚莉爱",
-        "水川潤",
-        "田中寧寧",
-        "有村希",
-        "一条美緒",
-        "渚光希",
-        "冬愛琴音",
-        "若宮葉月",
-        "小早川怜子",
-        "篠田優",
-        "仓多真央",
-        "萌波鈴",
-        "前乃菜菜",
-        "藤田梢",
-        "蘭華",
-        "大浦真奈美",
-        "永瀬ゆい",
-        "美泉咲",
-        "星仲ここみ",
-        "倉與田",
-        "七碧乃蒼",
-        "川菜美铃",
-        "赤瀬尚子",
-        "阿部乃美久",
-        "佐野なつ",
-        "奏自由",
-        "河北春菜",
-        "安倍亜沙美",
-        "もなみ铃"
+        "七碧乃蒼"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-933"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0959"
+    },
+    {
+      "id": 14524,
+      "IDcode": "KANO-037",
+      "title": "與 G 罩杯中出色情女孩七碧乃蒼醬在酒店裏的恩愛之夜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "月刊彼女",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522232732899899.jpg",
+      "actress": [
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-037"
+    },
+    {
+      "id": 15245,
+      "IDcode": "HUBLK-013",
+      "title": "睡奸～ 咖啡館打工的女孩們的噩夢 ~ 七碧乃蒼 宇流木沙羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240420/20240420034246144144.jpg",
+      "actress": [
+        "宇流木沙羅",
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-013"
+    },
+    {
+      "id": 15659,
+      "IDcode": "YMDD-376",
+      "title": "讓我們把你灌醉吧！ ？一個喜歡被舔陰部的女孩，似乎正在崛起！好臉啊！好色醉美狂歡",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2024-04-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401093936384384.jpg",
+      "actress": [
+        "若宮葉月",
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-376"
+    },
+    {
+      "id": 16634,
+      "IDcode": "MDBK-318",
+      "title": "挑釁性的內褲偷拍學校，裏面都是厚臉皮蕩婦，喜歡小惡魔坐在臉上來取笑老師。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2024-01-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240122/be66e574-7d56-4cb6-8d06-5e12174e07c1.jpg",
+      "actress": [
+        "椿莉香",
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-318"
+    },
+    {
+      "id": 17154,
+      "IDcode": "AEGE-021",
+      "title": "肛門覺醒：射在她的屁眼裡",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AEGEAN",
+      "publish_date": "2023-12-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20231221/e713780b-26fc-4b37-ac4c-b967dcb72a18.jpg",
+      "actress": [
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-021"
+    },
+    {
+      "id": 88885,
+      "IDcode": "TUE-141",
+      "title": "団地妻尾行押し込み三穴強●性交映像",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLAYz",
+      "publish_date": "2023-10-05",
+      "cover_url": "https://tuaskbgnekr.com/20240829/JtI5CTnQ/1.jpg",
+      "actress": [
+        "蘭々",
+        "七碧乃蒼",
+        "夏目未來"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-141"
+    },
+    {
+      "id": 88717,
+      "IDcode": "XRLE-051",
+      "title": "極太2穴4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-07-25",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/f2243a07b43ae8ee388a6f5dfa1aad42.jpg",
+      "actress": [
+        "七碧乃蒼",
+        "南真悠",
+        "森萤",
+        "花宫レイ",
+        "叶月もえ",
+        "茜ことり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-051"
+    },
+    {
+      "id": 87129,
+      "IDcode": "NHDTB-785",
+      "title": "連日ケツ穴ほじくり痴● 指入れ拡張で感じてしまいアナル中出しされた美尻J○ 七碧のあさんのパンティとチェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "2023-06-22",
+      "cover_url": "https://tuaskbgnekr.com/20230929/yhQxsdVU/1.jpg",
+      "actress": [
+        "七碧乃蒼",
+        "夏目未來"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-785"
+    },
+    {
+      "id": 95396,
+      "IDcode": "MDBK-343",
+      "title": "上游泳衣的年轻护理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/553e7b1c120a98bae664e62fc51762e7.jpg",
+      "actress": [
+        "七碧乃蒼",
+        "佐佐波绫",
+        "一条美绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-343"
+    },
+    {
+      "id": 95268,
+      "IDcode": "NPH-127",
+      "title": "義理の妹の小悪魔挑発パンチラに兄二人が逆襲お仕置3PSEX！七碧のあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPH-127"
+    },
+    {
+      "id": 87877,
+      "IDcode": "REBD-754",
+      "title": "Noa 真夏のカラフルアイランド・七碧のあ パンティと写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/b78520204aec6deb6ca7993d17f01ba3.jpg",
+      "actress": [
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-754"
+    },
+    {
+      "id": 14984,
+      "IDcode": "YMDD-384",
+      "title": "七碧乃蒼放學後，肛門發育被開發",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec046152c12b4e68461b30/cover.jpg",
+      "actress": [
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-384"
+    },
+    {
+      "id": 11398,
+      "IDcode": "REAL-870",
+      "title": "温泉女子の尻は、いいぞ。効能で磨きがかかった美尻に種付けし、泣き叫ぶ旅館に早変わり。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/d522f7bbe7781a5cc9b030e1b4d8359d.jpg",
+      "actress": [
+        "一条美緒",
+        "前乃菜菜",
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-870"
+    },
+    {
+      "id": 10743,
+      "IDcode": "HUNTC-221",
+      "title": "啊？你插入了嗎？這是不可以的！突破了1毫米的紙內褲！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/3fe729377dd0ea2f64c126ef34321acd.jpg",
+      "actress": [
+        "有村希",
+        "千石もなか",
+        "乃木ちはる",
+        "七碧乃蒼",
+        "月美りょう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-221"
     },
     {
       "id": 5065,
@@ -102,9 +308,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -163,108 +369,85 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
-      "id": 95268,
-      "IDcode": "NPH-127",
-      "title": "義理の妹の小悪魔挑発パンチラに兄二人が逆襲お仕置3PSEX！七碧のあ",
+      "id": 3225,
+      "IDcode": "REAL-933",
+      "title": "オトナの女の完熟マ〇コ責めて、犯して、ハメ倒すBEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2024-11-11",
-      "cover_url": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827110955176176_71637_thumbnail.webp",
       "actress": [
-        "七碧乃蒼"
+        "美園和花",
+        "天馬唯",
+        "乙愛麗絲",
+        "彌生美月",
+        "皆月光",
+        "末広純",
+        "新村朱里",
+        "木下日葵",
+        "小那海綾",
+        "吉根柚莉爱",
+        "水川潤",
+        "田中寧寧",
+        "有村希",
+        "一条美緒",
+        "渚光希",
+        "冬愛琴音",
+        "若宮葉月",
+        "小早川怜子",
+        "篠田優",
+        "仓多真央",
+        "萌波鈴",
+        "前乃菜菜",
+        "藤田梢",
+        "蘭華",
+        "大浦真奈美",
+        "永瀬ゆい",
+        "美泉咲",
+        "星仲ここみ",
+        "倉與田",
+        "七碧乃蒼",
+        "川菜美铃",
+        "赤瀬尚子",
+        "阿部乃美久",
+        "佐野なつ",
+        "奏自由",
+        "河北春菜",
+        "安倍亜沙美",
+        "もなみ铃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPH-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-933"
     },
     {
-      "id": 94850,
-      "IDcode": "SW-959",
-      "title": "「お風呂いっしょに入ろ！」従姉妹＆叔母さんとまさかの混浴。大人になった僕のチ○ポを目にして興奮が止まらず、みんなにバレないように握りしめ濡れ濡れマ○コに誘ってきた",
+      "id": 2274,
+      "IDcode": "MMPB-096",
+      "title": "【半中半外】至高のマ●コにリアル中出し13人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2024-07-11",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "七碧乃蒼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-959"
-    },
-    {
-      "id": 88885,
-      "IDcode": "TUE-141",
-      "title": "団地妻尾行押し込み三穴強●性交映像",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLAYz",
-      "publish_date": "2023-10-05",
-      "cover_url": "",
-      "actress": [
+        "天馬唯",
+        "田中寧寧",
+        "由良佳奈",
+        "友田彩也香",
+        "一条美緒",
+        "绀野光",
+        "美波梢",
+        "鳳可怜",
         "蘭々",
-        "七碧乃蒼",
-        "夏目未來"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUE-141"
-    },
-    {
-      "id": 88717,
-      "IDcode": "XRLE-051",
-      "title": "極太2穴4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-07-25",
-      "cover_url": "",
-      "actress": [
-        "七碧乃蒼",
-        "南真悠",
-        "森萤",
-        "花宫レイ",
-        "叶月もえ",
-        "茜ことり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRLE-051"
-    },
-    {
-      "id": 87129,
-      "IDcode": "NHDTB-785",
-      "title": "連日ケツ穴ほじくり痴● 指入れ拡張で感じてしまいアナル中出しされた美尻J○ 七碧のあさんのパンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2023-06-22",
-      "cover_url": "",
-      "actress": [
-        "七碧乃蒼",
-        "夏目未來"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-785"
-    },
-    {
-      "id": 87877,
-      "IDcode": "REBD-754",
-      "title": "Noa 真夏のカラフルアイランド・七碧のあ パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-06-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/600cf1e3941137d66a3d1162734f1e0d.jpg",
-      "actress": [
+        "弘中優",
+        "辻櫻",
+        "香椎佳穂",
         "七碧乃蒼"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-754"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-096"
     }
   ]
 };

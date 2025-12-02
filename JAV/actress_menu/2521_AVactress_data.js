@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2021-05-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/c1e4c870750e3c2e4ed7a76ce7cf4930.jpg",
       "actress": [
         "天沢ゆきね",
         "皆川ゆうな",
@@ -54,36 +54,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-645"
     },
     {
-      "id": 88339,
-      "IDcode": "HUNTA-976",
-      "title": "同じマンションでよく見かける鍵っ子女子は、寂しがり屋で、声をかければすんなりと家についてきて、エッチを断らないし、イラマ・中出し…男の欲望を",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-03-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/647bb7309db06ba16eccd2711df97b9d.jpg",
-      "actress": [
-        "天沢ゆきね",
-        "篠原りこ",
-        "八寻麻衣",
-        "舞奈みく",
-        "希望光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-976"
-    },
-    {
       "id": 91479,
       "IDcode": "EBOD-802",
       "title": "恋が始まりそうで始まらない プラトニックな関係の仲良し4人組（男2女2）がエロ動画をきっかけにオスメスに目覚め獣みたいな乱交にハマってしまった ひと夏の思い出 天沢ゆきね 逢坂りの",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
       "publish_date": "2021-02-13",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/0e47afacc0330f752504c83898198a32.jpg",
       "actress": [
         "天沢ゆきね",
         "蓝井优太",
@@ -98,31 +78,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/67198c51b2cff85017c4dcbc7d701fc5.jpg",
+      "cover_url": "",
       "actress": [
         "天沢ゆきね"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-023"
-    },
-    {
-      "id": 67564,
-      "IDcode": "EBOD-737",
-      "title": "マジの変態！巨乳美白ボディの膣内部に射精されるとすぐにイッちゃう 受精中毒ロリスリム娘 現役女子大生みなみ（20歳）ののけ反り絶頂が凄すぎる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
-      "actress": [
-        "天沢ゆきね",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-737"
     },
     {
       "id": 83817,
@@ -131,58 +94,46 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2020-03-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221231-1/b6a0063d54cb8e2be0def8ea7996882d.jpg",
       "actress": [
         "天沢ゆきね"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-081"
     },
     {
-      "id": 70710,
-      "IDcode": "JUL-098",
-      "title": "車中泊NTR ―社員旅行の帰り道、ドライブレコーダーに記録された汗だく中出し映像― 栗栖みなみ",
+      "id": 88339,
+      "IDcode": "HUNTA-976",
+      "title": "同じマンションでよく見かける鍵っ子女子は、寂しがり屋で、声をかければすんなりと家についてきて、エッチを断らないし、イラマ・中出し…男の欲望を",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-01-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f1bb54bc7ca901c740bee4aa17c232f6.jpg",
       "actress": [
-        "天沢ゆきね"
+        "天沢ゆきね",
+        "篠原りこ",
+        "八寻麻衣",
+        "舞奈みく",
+        "希望光"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-098"
-    },
-    {
-      "id": 70780,
-      "IDcode": "JUL-058",
-      "title": "神々しいGカップの大型新人中出し解禁！！ 夫と子作りSEXをした後はいつも義父に中出しされ続けています…。 栗栖みなみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-12-07",
-      "cover_url": "",
-      "actress": [
-        "天沢ゆきね"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-976"
     },
     {
       "id": 75735,
       "IDcode": "JUL-023",
-      "title": "夫の上司に犯され続けて7日目、私は理性を失った…。 栗栖みなみ",
+      "title": "老爸病重指望不上无能的老公只能当老板的性奴隶用身体换医药费",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-11-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/36621722834c8fd2c350ae6d9604d2e9.jpg",
       "actress": [
         "天沢ゆきね"
       ],
@@ -195,15 +146,64 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-09-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/3482e626c8bca79e81037b2cde8de849.jpg",
       "actress": [
         "天沢ゆきね",
         "小田切ジュン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-957"
+    },
+    {
+      "id": 70780,
+      "IDcode": "JUL-058",
+      "title": "巨乳人妻在和老公做爱后再去让公公内射进去",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20240814-1/190b69309ae324c3ca14aa22469b37b0.jpg",
+      "actress": [
+        "天沢ゆきね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-058"
+    },
+    {
+      "id": 70710,
+      "IDcode": "JUL-098",
+      "title": "车中寝取社内旅行被记录器拍下的我老婆内射影片",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/1c5a66d22a90c3b5a00cad792ba6e370.jpg",
+      "actress": [
+        "天沢ゆきね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-098"
+    },
+    {
+      "id": 67564,
+      "IDcode": "EBOD-737",
+      "title": "受精中毒症的变态女大学生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/72474c678ef32d6d595c324dfab9c92c.jpg",
+      "actress": [
+        "天沢ゆきね",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-737"
     }
   ]
 };

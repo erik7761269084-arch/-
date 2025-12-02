@@ -4,7 +4,7 @@ window.actressData = {
   "name": "上原けいこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,34 +19,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 75541,
-      "IDcode": "VNDS-5195",
-      "title": "卑猥な匂い立つ 六十路熟女の還暦セックス",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-20",
-      "cover_url": "",
-      "actress": [
-        "上原けいこ",
-        "和久井由美子",
-        "大内友花里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5195"
-    },
-    {
       "id": 78486,
       "IDcode": "RUKO-045",
       "title": "母のムチムチした身体を襲う息子たち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7b6d629bc28084c9b7dace0a2d4514b5.jpg",
       "actress": [
         "白藤ゆりえ",
         "上原けいこ",
@@ -55,6 +37,24 @@ window.actressData = {
         "村井顺子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RUKO-045"
+    },
+    {
+      "id": 75541,
+      "IDcode": "VNDS-5195",
+      "title": "卑猥な匂い立つ 六十路熟女の還暦セックス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241203-1/4c312fa792d2b87c9018a82da0616d95.jpg",
+      "actress": [
+        "上原けいこ",
+        "和久井由美子",
+        "大内友花里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5195"
     }
   ]
 };

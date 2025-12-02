@@ -30,84 +30,231 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231216/c1ed7900-41cd-4741-bb72-b7ee8065a963.jpg"
   ],
-  "works_count": 9,
+  "works_count": 21,
   "related_dramas": [
     {
-      "id": 2605,
-      "IDcode": "FOCS-272",
-      "title": "被老公討厭的上司侵犯l強⬤的7天 芭蕾老師180度開腿身材被狂幹到蝦弓高潮 NTR內射房間10連發 ~ 森彩美",
+      "id": 105104,
+      "IDcode": "REBD-846",
+      "title": "Ayami Forest Attraction・森あやみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043503494494_98889_thumbnail.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/a2e3f6d2d1548afe6c470d40f2839af6.jpg",
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-846"
     },
     {
-      "id": 2962,
-      "IDcode": "HDKA-322",
-      "title": "全裸芭蕾舞老師的私教課 ~ 森彩美",
+      "id": 105456,
+      "IDcode": "FSDSS-766",
+      "title": "细长黑丝美腿森彩美浓密接吻SEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025654789789_86520_thumbnail.webp",
-      "actress": [
-        "森彩美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-322"
-    },
-    {
-      "id": 5275,
-      "IDcode": "FNS-077",
-      "title": "每天早上上班的電車上都要被一羣癡漢調教兩小時的柔體OL ~ 森彩美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-06-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250615/20250615201022247247_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-766"
     },
     {
-      "id": 7477,
-      "IDcode": "FSDSS-998",
-      "title": "M女淪爲肉便器的地獄拘束性愛 高顏值美人CA ~ 森彩美",
+      "id": 17214,
+      "IDcode": "FSDSS-718",
+      "title": "原地方电视台播音员-森あやみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-03-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20250316/20250316101351366366.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231216/20231216015127845845.jpg",
       "actress": [
         "森彩美",
-        "七尾神"
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-998"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-718"
+    },
+    {
+      "id": 16850,
+      "IDcode": "FSDSS-744",
+      "title": "通通都是第一次-森彩美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240219-1/d0b6b43d360c3073710398834a03e180.jpg",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-744"
+    },
+    {
+      "id": 16457,
+      "IDcode": "FSDSS-748",
+      "title": "前地方台播音员-森彩美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240327-1/8151dbff866d136125f291fcdd965f57.jpg",
+      "actress": [
+        "森彩美",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-748"
+    },
+    {
+      "id": 15583,
+      "IDcode": "FSDSS-780",
+      "title": "在16个小时内进行肉体交欢-森あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/f680d3b09e018c2e927005aabdde3d43.jpg",
+      "actress": [
+        "森彩美",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-780"
+    },
+    {
+      "id": 15008,
+      "IDcode": "FSDSS-794",
+      "title": "温柔魅惑大长腿老师-森あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240706-1/8991c55b12f2a94db571a40606ac949d.jpg",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-794"
+    },
+    {
+      "id": 12843,
+      "IDcode": "FSDSS-831",
+      "title": "認真又聰明的家庭老師-森彩美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/484040add975a3cee0c1c74cf98306a5.jpg",
+      "actress": [
+        "森彩美",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-831"
+    },
+    {
+      "id": 12678,
+      "IDcode": "FSDSS-861",
+      "title": "與因暴雨回不了家的人氣女主播",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240927-1/736f1ddfa1e7a266462e77f6b90a4d78.jpg",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-861"
+    },
+    {
+      "id": 11835,
+      "IDcode": "FSDSS-878",
+      "title": "美人鱼式的男士审美-森あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/b96a0d1aba6ccaf035cc1bc298390186.jpg",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-878"
+    },
+    {
+      "id": 11221,
+      "IDcode": "FSDSS-899",
+      "title": "初恋の恩師が忘れられなかった私は好きでもない彼の息子と結婚し義父となった彼と夜な夜な求愛SEXに明け暮れています。 森あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/dd64f8b125467bef474c1bacc8d2f059.jpg",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-899"
+    },
+    {
+      "id": 10541,
+      "IDcode": "FSDSS-925",
+      "title": "報復那個看不起我的港區女子的粘着性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241214-1/12c47c262102223fc11cb36e8b8d44b2.jpg",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-925"
+    },
+    {
+      "id": 9553,
+      "IDcode": "FSDSS-942",
+      "title": "到女上司家继续喝酒-森あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c13d5d57b64bfd0880b5/cover.jpg",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-942"
     },
     {
       "id": 8903,
       "IDcode": "FSDSS-972",
-      "title": "有教養的女孩被操到崩潰！當人取笑我時，我會很生氣。試圖人都理解，結果卻是... ~ 森彩美",
+      "title": "条件优越被众星捧月-森あやみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-02-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123021539756756.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/07/67cac352cf22ae3e04269423/cover.jpg",
       "actress": [
         "森彩美",
         "コグレハルト",
@@ -116,69 +263,117 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-972"
     },
     {
-      "id": 9553,
-      "IDcode": "FSDSS-942",
-      "title": "錯過了末班車，去無防備的女上司家看到她穿着真空睡衣時隱時現的奶子，再也無法抑制自己，背叛了女友操了女上司一整晚！ ~ 森彩美",
+      "id": 7477,
+      "IDcode": "FSDSS-998",
+      "title": "受虐狂女厕陷入拘留性爱-森あやみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-12-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20241228/202412280122377272.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/d917d08493be5695a569370cd43a2054.jpg",
+      "actress": [
+        "森彩美",
+        "七尾神"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-998"
+    },
+    {
+      "id": 6551,
+      "IDcode": "FSDSS-978",
+      "title": "亡き夫の父に迫られ肉棒で心の隙間を埋める禁断の背徳性交 森あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428230955212212_thumbnail.webp",
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-942"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-978"
     },
     {
-      "id": 10541,
-      "IDcode": "FSDSS-925",
-      "title": "報復那個看不起我的港區女子的粘着性交，讓她再也不能在六本木混 ~ 森彩美",
+      "id": 5275,
+      "IDcode": "FNS-077",
+      "title": "集団弄り魔たちに毎朝２時間躾された軟体OL 森あやみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241116/20241116215737917917.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250615/20250615201022247247_thumbnail.webp",
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-925"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-077"
     },
     {
-      "id": 105104,
-      "IDcode": "REBD-846",
-      "title": "Ayami Forest Attraction・森あやみ チェキ付き",
+      "id": 4372,
+      "IDcode": "FNS-078",
+      "title": "不動産レディーのピタパンぷり尻誘惑に即アナル舐めから激バックピストン 森あやみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2024-06-06",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/20250715231923743743_77784_thumbnail.webp",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-078"
+    },
+    {
+      "id": 2962,
+      "IDcode": "HDKA-322",
+      "title": "はだかのバレエ講師 森あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025654789789_86520_thumbnail.webp",
+      "actress": [
+        "森彩美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-322"
+    },
+    {
+      "id": 2605,
+      "IDcode": "FOCS-272",
+      "title": "我讨厌的老板-森あやみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "森彩美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-846"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-272"
     },
     {
-      "id": 17214,
-      "IDcode": "FSDSS-718",
-      "title": "新人出道！前地方廣播電台播音員森彩美 首次亮相 AV DEBUT",
+      "id": 2476,
+      "IDcode": "VEC-731",
+      "title": "朋友的老婆用不穿内裤的美腿勾引我-森彩美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2024-01-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20231216/20231216015127845845.jpg",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "森彩美",
-        "小田切ジュン"
+        "森彩美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-718"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-731"
     }
   ]
 };

@@ -34,50 +34,87 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231126/4883ed65-8416-4955-a326-9c2113aab439.jpg"
   ],
-  "works_count": 6,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 95257,
-      "IDcode": "RCTD-631",
-      "title": "ぬるてかパンストレズファイト3",
+      "id": 9604,
+      "IDcode": "DAZD-220",
+      "title": "64名美女4小時60次連續強暴，暴力活塞接連襲來，高潮不斷。強暴大合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2024-12-12",
-      "cover_url": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/20241225032906842842.jpg",
       "actress": [
+        "森澤佳奈",
+        "天馬唯",
+        "倉本菫",
+        "都月楓",
+        "椿莉香",
+        "松本一香",
+        "沙月惠奈",
+        "五日市芽依",
+        "木下日葵",
+        "美咲佳奈",
+        "吉根柚莉爱",
+        "白石桃",
+        "田中寧寧",
+        "美谷朱里",
+        "藤森里穂",
+        "皆瀨明里",
+        "辻井穗乃果",
+        "黑川堇",
+        "月野江翠",
+        "百永纱里奈",
+        "渚光希",
+        "小花暖",
+        "東條夏",
+        "尾崎惠梨香",
+        "優梨舞奈",
+        "冬愛琴音",
+        "月乃露娜",
+        "齋藤亞美里",
+        "沙月芽衣",
+        "花狩舞",
+        "加藤桃香",
+        "水原みその",
+        "篠田優",
+        "水川蓳",
+        "根尾朱里",
+        "向井藍",
+        "夏希栗",
+        "弓乃凜夢",
+        "仓多真央",
+        "前乃菜菜",
+        "日泉舞香",
+        "小栗操",
+        "加藤ツバキ",
+        "君島美緒",
+        "蘭々",
+        "初川南",
         "藤野つかさ",
-        "水谷梨明日"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-631"
-    },
-    {
-      "id": 15997,
-      "IDcode": "MIAB-124",
-      "title": "一位媽媽朋友（一位有尊嚴、受過良好教育的心理諮詢師）承擔起糾正兒子失控性欲的任務，但……他報復，在諮詢時被暴力強奸，釀成可怕的外遇。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-03-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20240301/20240301093134647647.jpg",
-      "actress": [
+        "浅田結梨",
+        "天然美月",
         "水谷梨明日",
-        "ニック"
+        "星宮菜奈",
+        "七海るな",
+        "丹羽すみれ",
+        "愛沢さら",
+        "七瀬るい",
+        "かわきためいさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-124"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-220"
     },
     {
       "id": 17182,
       "IDcode": "SDDE-712",
-      "title": "「制服、內衣、全裸」跨界貓咪航空 2023 新 CA 大型訓練版 共 11 人 + 1 位特約教練 團體貓咪艙課程 6 節 165 分鐘 雅子裡菜，黒木逢夢..........",
+      "title": "「制服、內衣、全裸」跨界貓咪航空 2023 新 CA 大型訓練版 共 11 人 + 1 位特約教練 團體貓咪艙課程 6 節 165 分鐘 雅子裡菜，黒木逢夢",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231219/c408f55c-05ae-4243-a474-529803cab372.jpg",
@@ -97,20 +134,71 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
+      "id": 16985,
+      "IDcode": "FJIN-003",
+      "title": "極受歡迎的無性別素人大學生水谷梨明日，在網球訓練營度假村被生操，她比我想象的還要敏感，開始反復射精",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-01-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240101/20240101023307573573.jpg",
+      "actress": [
+        "水谷梨明日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-003"
+    },
+    {
       "id": 89605,
-      "IDcode": "SBMO-1258",
+      "IDcode": "SBMO-01258",
       "title": "私のこと・・おヘンタイだと思いますか・・？/片瀬清良 チェキ付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-09-22",
       "cover_url": "",
       "actress": [
         "水谷梨明日"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-1258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-01258"
+    },
+    {
+      "id": 95257,
+      "IDcode": "RCTD-631",
+      "title": "ぬるてかパンストレズファイト3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251015-1/2e628f92bb72300a1353862b3abd018e.jpg",
+      "actress": [
+        "藤野つかさ",
+        "水谷梨明日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-631"
+    },
+    {
+      "id": 92333,
+      "IDcode": "MIFD-234",
+      "title": "色色回国子女-水谷梨明日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/e2a0629741b6a65896b82874dd189667.jpg",
+      "actress": [
+        "水谷梨明日",
+        "鲛岛",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-234"
     },
     {
       "id": 87851,
@@ -119,32 +207,63 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROOKIE",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/3f458a273011202778e449c019710d24.jpg",
       "actress": [
         "水谷梨明日"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-635"
     },
     {
-      "id": 92333,
-      "IDcode": "MIFD-234",
-      "title": "IQ140 インテリでボーイッシュなエロ頭良い帰国子女 スレンダー現役女子大生 AV デビュー 水谷梨明日 生写真3枚付き",
+      "id": 17647,
+      "IDcode": "FOCS-163",
+      "title": "容姿端麗又性感的女上司她巨大的奶头像阴蒂一样敏感，惹的我疯狂的强奸了她",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a69b48f1cbfc7a9c7dc45/cover.jpg",
+      "actress": [
+        "水谷梨明日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-163"
+    },
+    {
+      "id": 15997,
+      "IDcode": "MIAB-124",
+      "title": "一位妈妈朋友担负起纠正儿子失控性欲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-04-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/05/03/12d71fcdee55db8ca355b54a7db66c61.jpg",
       "actress": [
         "水谷梨明日",
-        "鲛岛",
-        "小田切ジュン"
+        "ニック"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-234"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-124"
+    },
+    {
+      "id": 9787,
+      "IDcode": "MTALL-137",
+      "title": "媚薬オイルでオマ●コ決壊するキメセク潮吹きエステサロン 水谷梨明日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MATERIALL",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6788fb115d57b64bfd6e579f/cover.jpg",
+      "actress": [
+        "水谷梨明日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-137"
     }
   ]
 };

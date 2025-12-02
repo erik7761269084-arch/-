@@ -4,7 +4,7 @@ window.actressData = {
   "name": "有坂祥子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 75937,
       "IDcode": "JURA-124",
-      "title": "初撮り人妻ドキュメント第二章 有坂祥子",
+      "title": "初次拍摄人妻document第二章-有坂祥子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://tutu1.space/images/2024/12/21/762958b2b7492d92cf1aad116c56d153.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241221-1/747e8c9e069087ae261fbb33480d80aa.jpg",
       "actress": [
         "有坂祥子"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "楪さき",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 76859,
       "IDcode": "PPPD-845",
-      "title": "おっパブ初出勤のぽっちゃり爆乳Iカップは乳首が敏感すぎちゃって仕事にならないからAV女優に転職させました",
+      "title": "爆乳Iカップは乳首が敏感",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2020-05-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/023e5c91f2c8c5e4bf7eb16099aa225a.jpg",
       "actress": [
         "Qべぇ",
         "楪さき"

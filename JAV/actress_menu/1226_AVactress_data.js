@@ -31,25 +31,45 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/7c673954-ac5f-483b-8f7c-244be29fee69.jpg",
     "https://picture.yoshiclub.xyz/20230210/18e1244c-268a-48b3-a0a0-f27321e06edb.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1973,
-      "IDcode": "SKYHD-116",
-      "title": "天空天使Plus 3：安住廉、武井真紀、椎名美優",
+      "id": 103257,
+      "IDcode": "326GAR-385",
+      "title": "極悪ギャルチ○ポ制裁復讐逆レイプ！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-10-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/38612eca-b94e-43e3-b46b-e4a7fd83e88b.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-03-06",
+      "cover_url": "",
       "actress": [
-        "爱杏美",
-        "椎名美優",
-        "武井麻希"
+        "武井麻希",
+        "広瀬藍子",
+        "滝沢かのん",
+        "相叶レイカ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-385"
+    },
+    {
+      "id": 103258,
+      "IDcode": "326GAR-375",
+      "title": "ちびっこという立場を利用してギャルにエッチなイタズラをしまくる悪ガキ3人組！！ ギャルVS悪ガキ痴漢レイプ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-12-05",
+      "cover_url": "",
+      "actress": [
+        "武井麻希",
+        "広瀬藍子",
+        "滝沢かのん",
+        "相叶レイカ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-375"
     }
   ]
 };

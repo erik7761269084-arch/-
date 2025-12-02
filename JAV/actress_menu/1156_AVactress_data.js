@@ -37,8 +37,47 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240513/32ca25d2-763b-49c4-ad43-ca153337cd13.jpg",
     "https://picture.yoshiclub.xyz/20240513/f3c6c97b-0642-4f29-9566-289dfc6f1d3f.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 9160,
+      "IDcode": "BASB-016",
+      "title": "我想要被職業OL寢取！！ 嚴選癡女OL 4小時 特輯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250113/e443dc4f-a29d-45c1-bb80-6d2f65fc2aad.jpg",
+      "actress": [
+        "花狩舞",
+        "妃光莉",
+        "萌波鈴",
+        "八乃翼",
+        "緒川春",
+        "辻芽愛里",
+        "瀬名未来",
+        "優木葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASB-016"
+    },
+    {
+      "id": 12305,
+      "IDcode": "SAN-271",
+      "title": "老婆最近很奇怪！無法停止做愛的兄妹 ~ 瀨名未來",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "2024-08-31",
+      "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901005029397397.jpg",
+      "actress": [
+        "瀬名未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-271"
+    },
     {
       "id": 14757,
       "IDcode": "RVG-219",
@@ -46,7 +85,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2024-05-14",
       "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512220912223223.jpg",
@@ -62,6 +101,22 @@ window.actressData = {
         "朝阳えま"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-219"
+    },
+    {
+      "id": 10187,
+      "IDcode": "MILK-228",
+      "title": "仅限想成为播音员的受过高等教育的女性",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241228-1/1db03d46d442cd2a55066146fc204caf.jpg",
+      "actress": [
+        "瀬名未来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-228"
     }
   ]
 };

@@ -35,100 +35,66 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240309/1201db17-57b4-469a-9f72-5616119f7835.jpg",
     "https://picture.yoshiclub.xyz/20240309/fdb47aa5-7041-47e7-b3ec-c8b6d785c4a3.jpg"
   ],
-  "works_count": 6,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 8433,
-      "IDcode": "SONE-584",
-      "title": "癡漢無法抗拒每天早上都會看到的那個看起來溫柔、瓜子臉的高中女生 ~ 中森心々奈",
+      "id": 15588,
+      "IDcode": "SONE-091",
+      "title": "曾經的藝人中森心々奈嘗試變態遊戲，來幾次真正的高潮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075320452452.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68eeb06852c12b4e684b53e2/cover.jpg",
       "actress": [
         "佐藤愛瑠"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-584"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-091"
     },
     {
-      "id": 9232,
-      "IDcode": "SONE-535",
-      "title": "對壓力敏感的求職生，遭受性騷擾、肢體接觸……在公司、營業廳偷偷被幹的社會新人 ~ 中森心々奈",
+      "id": 14880,
+      "IDcode": "SONE-195",
+      "title": "纯粹笑容和减抗美体-中森心々奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109075648232232.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418234027774774.jpg",
       "actress": [
         "佐藤愛瑠"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-195"
     },
     {
-      "id": 10152,
-      "IDcode": "SONE-489",
-      "title": "被筋肉男包圍着不間斷的追擊大亂交 ~ 中森心々奈",
+      "id": 14171,
+      "IDcode": "SONE-202",
+      "title": "性潜力迅速增长的前天才-中森心々奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205083014698698.jpg",
-      "actress": [
-        "佐藤愛瑠",
-        "日森一"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-489"
-    },
-    {
-      "id": 10746,
-      "IDcode": "SONE-447",
-      "title": "請一下場比賽輸給我們吧，我可以讓你操我 蕩婦俱樂部經理，爲了球隊而獻身 ~ 中森心々奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107085604419419.jpg",
-      "actress": [
-        "佐藤愛瑠",
-        "ニック"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-447"
-    },
-    {
-      "id": 12829,
-      "IDcode": "SONE-302",
-      "title": "相部屋NTR，討厭的經紀人瞄準了她超短裙下露出的白皙屁股，偶像最終被操到了早上 ~ 中森心々奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-08-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20240809/20240809000921530530.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607011717492492.jpg",
       "actress": [
         "佐藤愛瑠"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-302"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-202"
     },
     {
       "id": 13570,
       "IDcode": "SONE-259",
-      "title": "我的學生，穿着制服的漂亮女孩癡女，臉上總是掛着微笑 ~ 中森心々奈",
+      "title": "學生兼任偶像美少女-中森心心奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-07-09",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705003715618618.jpg",
       "actress": [
         "佐藤愛瑠",
@@ -136,6 +102,139 @@ window.actressData = {
         "ナイアガラ翔"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-259"
+    },
+    {
+      "id": 12829,
+      "IDcode": "SONE-302",
+      "title": "同房NTR-中森心心奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240809/20240809000921530530.jpg",
+      "actress": [
+        "佐藤愛瑠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-302"
+    },
+    {
+      "id": 12189,
+      "IDcode": "SONE-351",
+      "title": "可以在我身上練習做愛！和嘴脣性感的青梅竹馬練習接吻，舌頭和唾液交織在一起，我就止不住興奮了…… ~ 中森心々奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/19/68cd2ee32c5ed64ee9ac2c36/cover.jpg",
+      "actress": [
+        "佐藤愛瑠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-351"
+    },
+    {
+      "id": 11495,
+      "IDcode": "SONE-396",
+      "title": "大嫌いなオヤジ上司に副業メンズエステがバレる！ヌキも本番強要も断れない気弱な部下は…まさかのオジち●ぽにイキ惚れ！！ 中森心々奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250814-1/1d8d5410ea2447120d0977fab66f95aa.jpg",
+      "actress": [
+        "佐藤愛瑠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-396"
+    },
+    {
+      "id": 10746,
+      "IDcode": "SONE-447",
+      "title": "为了球队不断出卖身体的-中森心々奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678892e45d57b64bfd2c8050/cover.jpg",
+      "actress": [
+        "佐藤愛瑠",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-447"
+    },
+    {
+      "id": 10152,
+      "IDcode": "SONE-489",
+      "title": "被壮汉包围-中森心々奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a9068daf6b1db43c2fd1/cover.jpg",
+      "actress": [
+        "佐藤愛瑠",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-489"
+    },
+    {
+      "id": 9232,
+      "IDcode": "SONE-535",
+      "title": "经不住劝的就职学生-中森心心奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b0bf30833b4bf500271a/cover.jpg",
+      "actress": [
+        "佐藤愛瑠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-535"
+    },
+    {
+      "id": 8433,
+      "IDcode": "SONE-584",
+      "title": "毎朝見かける優しそうなたぬき顔J●を我慢できずにメチャクチャ痴●してやったら…彼氏よりも俺のテクの虜に。 中森心々奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7c261682e2e928199c3a3/cover.jpg",
+      "actress": [
+        "佐藤愛瑠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-584"
+    },
+    {
+      "id": 3250,
+      "IDcode": "SDAM-146",
+      "title": "なりきりダッチワイフカップルゲーム！彼氏が見ている目の前で一流AV 男優に激ピストンされても彼女が動かなければ100 万円！！3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212141857857_33748_thumbnail.webp",
+      "actress": [
+        "似鳥日菜",
+        "朝比ゆの",
+        "佐藤愛瑠",
+        "松丸香澄"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-146"
     }
   ]
 };

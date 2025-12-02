@@ -28,13 +28,13 @@ window.actressData = {
     {
       "id": 3940,
       "IDcode": "PFAS-035",
-      "title": "熟女的熱吻與激情 舌尖上的黏膜地獄 舔吸纏綿 ~ 香澄麗子 姬川禮子 桃井靜香",
+      "title": "おばさんの接吻＆セックス ベロツバ粘膜地獄 なめる吸うからめ合う",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2025-08-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032446746746_62364_thumbnail.webp",
       "actress": [
         "姫川礼子",

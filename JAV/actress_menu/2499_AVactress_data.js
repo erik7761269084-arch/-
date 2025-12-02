@@ -36,8 +36,32 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250927/cf2f1570-f0f5-4241-afdf-009ec84cb618_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250927/6fabc261-c33f-41d3-93cf-769dd7a4f4cf_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 2405,
+      "IDcode": "YSAD-055",
+      "title": "鬼畜繼父的大雞巴讓我無法自拔 4小時 總集編 ~ 皆月光 笹原麗 高梨ことり 高瀬りな 白橋裏帆 鈴音杏夏 泉莉音 渚向日葵 雪乃繪留",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "光夜蝶 (Komyo)",
+      "publish_date": "2025-09-26",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250926/20250926231740186186_28398_thumbnail.webp",
+      "actress": [
+        "皆月光",
+        "泉莉音",
+        "高瀬りな",
+        "白橋里帆",
+        "鈴音杏夏",
+        "笹原麗",
+        "雪乃繪留",
+        "高梨ことり",
+        "渚向日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-055"
+    },
     {
       "id": 82187,
       "IDcode": "TUS-083",
@@ -45,10 +69,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-17",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/xIFyUEee/1.jpg",
       "actress": [
         "小梅惠奈",
         "高梨ことり",
@@ -57,6 +81,22 @@ window.actressData = {
         "加贺美まり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TUS-083"
+    },
+    {
+      "id": 98414,
+      "IDcode": "CAWD-069",
+      "title": "ちっちゃいけどデカチン大好き！世間知らずな身長147cmミニマム少女AVデビュー高梨ことり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "高梨ことり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-069"
     }
   ]
 };

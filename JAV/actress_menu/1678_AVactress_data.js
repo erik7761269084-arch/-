@@ -44,31 +44,15 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 8252,
-      "IDcode": "MEAD-008",
-      "title": "本以爲她也是1本女優。天然I杯現役女子大生，中出釋放，潮吹高潮性愛，正真快樂的性愛 ~ 雪月花羽裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075655540540.jpg",
-      "actress": [
-        "雪月花羽里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEAD-008"
-    },
-    {
       "id": 9021,
       "IDcode": "MEAD-007",
-      "title": "新人出道！從小接受嚴肅教育，名門出生的女孩克服了害羞……天真無邪的天然I罩杯女大學生，堅決AV出道！ 首次亮相 AV DEBUT ~ 雪月花羽里",
+      "title": "从小被严格教育的名门千金-布瓦里节月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074828406406.jpg",
       "actress": [
         "雪月花羽里",
@@ -76,6 +60,22 @@ window.actressData = {
         "イセドン内村"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEAD-007"
+    },
+    {
+      "id": 8252,
+      "IDcode": "MEAD-008",
+      "title": "中出解禁潮吹高潮性愛-雪月舞羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075655540540.jpg",
+      "actress": [
+        "雪月花羽里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEAD-008"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "戸川夏也",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,57 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 59,
+  "works_count": 71,
   "related_dramas": [
     {
-      "id": 88732,
-      "IDcode": "WORL-010",
-      "title": "世界共通のBody Language スパニッシュ情熱美女をナンパでGET！生ハメ乱交で狂いまくる快楽SEXモンスター！",
+      "id": 77984,
+      "IDcode": "WANZ-910",
+      "title": "小蕾的技巧大挑战三分钟内让男优射出不然就要被惩罚",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-11-28",
-      "cover_url": "",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1acdb7e2b260c32f65044ce8469d3e5c.jpg",
       "actress": [
-        "ししお",
+        "蕾",
         "戸川夏也"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-010"
-    },
-    {
-      "id": 88735,
-      "IDcode": "WORL-009",
-      "title": "世界共通のBody Language ノリノリで言いなりになるエッチな金髪美女を生ハメ乱交連続中出しハメ倒す",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-11-14",
-      "cover_url": "",
-      "actress": [
-        "ししお",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-009"
-    },
-    {
-      "id": 88778,
-      "IDcode": "WORL-007",
-      "title": "世界共通のBody Language 出会い系アプリでゲットした金髪美少女を孕ませる程の快楽乱交連続中出しSEX",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-10-10",
-      "cover_url": "",
-      "actress": [
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-910"
     },
     {
       "id": 88750,
@@ -75,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-09-12",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231208-1/cfce1268316045bdee42f8a50e564cb2.jpg",
@@ -92,81 +59,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-08-22",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240911/SG5QTuNE/1.jpg",
       "actress": [
         "ししお",
         "戸川夏也"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-004"
-    },
-    {
-      "id": 88781,
-      "IDcode": "WORL-001",
-      "title": "世界共通のBody Language 出会い系でゲットした美少女がコスプレ中出し本気イキAV出演 リズ・オーシャン",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-07-11",
-      "cover_url": "",
-      "actress": [
-        "戸川夏也",
-        "リズ・オーシャン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-001"
-    },
-    {
-      "id": 90879,
-      "IDcode": "BIJN-242",
-      "title": "THE ドキュメント 本能丸出しでする絶頂SEX Jカップ爆乳豊満OL欲望剥き出し猛獣ファック 南畑颯花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-05-02",
-      "cover_url": "",
-      "actress": [
-        "ししお",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-242"
-    },
-    {
-      "id": 68738,
-      "IDcode": "STARS-680",
-      "title": "人生初・中出し解禁!イクイク体質がナマHでさらに増幅!スレンダーボディがゴムなし巨根ピストンで普段より波打つ!大量ザーメン子宮口注入ドキュメント 多香良",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-11-10",
-      "cover_url": "",
-      "actress": [
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-680"
-    },
-    {
-      "id": 86539,
-      "IDcode": "URE-084",
-      "title": "原作:山雲 無題のドキュメント 鬱勃起120％！！人気NTR同人を忠実実写化！！ 安みなみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2022-08-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230209-1/8c13e5f08bfd5046fba3940545af1d59.jpg",
-      "actress": [
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-084"
     },
     {
       "id": 87459,
@@ -175,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
       "publish_date": "2022-08-17",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/40272e31cfe37d03b812aee2be8d6a52.jpg",
       "actress": [
         "矢野沙衣",
         "戸川夏也"
@@ -192,8 +93,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "",
       "publish_date": "2022-07-26",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230720-1/c5167dfba4ad3f13f88bb57e18f5178c.jpg",
       "actress": [
@@ -202,86 +103,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMEM-074"
     },
     {
-      "id": 85822,
-      "IDcode": "PPPE-051",
-      "title": "時給アップと引き換えに極悪店長の性処理業務を受け入れた巨乳バイトの深夜シフトNTR 夕美しおん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2022-07-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230130-1/d88a1abe5740ab9e3820623d84372b24.jpg",
-      "actress": [
-        "夕美紫苑",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-051"
-    },
-    {
-      "id": 85060,
-      "IDcode": "JUNY-060",
-      "title": "ヤリたい時だけ連絡したくなる俺史上最高に都合が良い女 誘われたら絶対に断らない肉感ビッチと汁まみれ生中性交 夕季ちとせ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2022-04-05",
-      "cover_url": "",
-      "actress": [
-        "七草千歲",
-        "森林原人",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-060"
-    },
-    {
-      "id": 18118,
-      "IDcode": "IPX-828",
-      "title": "大叔春藥濃縮精液陰道深處大量注入！ 炮房軟禁嗑藥做愛輪姦 被中出快感倍增無盡高潮！ 二葉惠麻",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-03-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029011711727727.jpg",
-      "actress": [
-        "二葉惠麻",
-        "二叶エマ",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-828"
-    },
-    {
-      "id": 80839,
-      "IDcode": "BLK-554",
-      "title": "都合のいいタダマン オヤジ大好き欲求不満ビッチと朝までナマでパコパコ10",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2022-02-15",
-      "cover_url": "",
-      "actress": [
-        "藤井蘭々",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-554"
-    },
-    {
       "id": 85107,
       "IDcode": "JUNY-053",
       "title": "地味な同僚がデリヘルをやっている事を発見してしまい…脱がせたら凄い豊満介護士を生ハメ種付け調教 藤沢麗央",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
       "publish_date": "2021-12-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230119-1/55dde46d86bea6fbcc460c9089d61275.jpg",
       "actress": [
         "藤沢麗央",
         "戸川夏也"
@@ -295,8 +126,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "",
       "publish_date": "2021-11-16",
       "cover_url": "",
       "actress": [
@@ -306,123 +137,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-210"
     },
     {
-      "id": 18473,
-      "IDcode": "IPX-743",
-      "title": "禁欲之後、流汗絶頂汁滿溢交合的3日間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2021-10-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231003/20231003075855793793.jpg",
-      "actress": [
-        "桜空桃",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-743"
-    },
-    {
-      "id": 88286,
-      "IDcode": "BIJN-196",
-      "title": "THE ドキュメント 本能丸出しでする絶頂SEX 強欲美人OLザーメンまみれ悶絶失禁絶頂ファック 新村あかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2021-03-19",
-      "cover_url": "",
-      "actress": [
-        "新村晶",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-196"
-    },
-    {
-      "id": 107638,
-      "IDcode": "STARS-268",
-      "title": "大龜頭撞擊子宮口性交 夏目響",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-11-12",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1stars268/1stars268pl.jpg",
-      "actress": [
-        "森林原人",
-        "鲛岛",
-        "玉木玲",
-        "夏目响",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-268"
-    },
-    {
-      "id": 106446,
-      "IDcode": "BLK-468",
-      "title": "ボクの大好きな同級生ギャルのいちかちゃんが犯●れているのを見て…カメラと勃起を止めることができずにそのまま隠れて撮り続けた記録。 松本いちか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2020-09-19",
-      "cover_url": "",
-      "actress": [
-        "松本一香",
-        "玉木玲",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-468"
-    },
-    {
-      "id": 18889,
-      "IDcode": "IPX-536",
-      "title": "禁慾三天 渾身是汗和高潮的汁液 大量性交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2020-09-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230829/20230829012816121121.jpg",
-      "actress": [
-        "桃乃木香奈",
-        "イセドン内村",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-536"
-    },
-    {
-      "id": 70302,
-      "IDcode": "SSNI-788",
-      "title": "年下のクセに俺より仕事が出来る同僚と社内で2人きり… ゲリラ豪雨の夜、俺の理性は吹き飛んだ。 新名あみん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-05-19",
-      "cover_url": "",
-      "actress": [
-        "天國露露",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-788"
-    },
-    {
       "id": 83627,
       "IDcode": "KMHRS-014",
       "title": "妖精みたいなハーフ女子が巨大肉棒で見せたギャップありすぎ衝撃連続絶頂 宮澤エレン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-03-26",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/1e781f3d5b214710697deece37197ba7.jpg",
       "actress": [
         "今井由亞",
         "鲛岛",
@@ -431,158 +155,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-014"
     },
     {
-      "id": 82970,
-      "IDcode": "JUL-172",
-      "title": "パーソナルジムNTR トレーナーの力強さに溺れた妻の衝撃的浮気映像 向井藍",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-03-25",
-      "cover_url": "",
-      "actress": [
-        "向井藍",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-172"
-    },
-    {
-      "id": 81700,
-      "IDcode": "HND-807",
-      "title": "爽やか現役女子大生ウキウキ腰振り騎乗位で初めてのナマ中出し 渡辺みお",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2020-03-25",
-      "cover_url": "",
-      "actress": [
-        "イセドン内村",
-        "戸川夏也",
-        "渡辺みお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-807"
-    },
-    {
-      "id": 75787,
-      "IDcode": "BIJN-171",
-      "title": "関西既婚マンネリ妻が媚薬イカせ調教で淫乱牝覚醒、 妊娠覚悟の中出し哀願で人生で一番気持ちいい愛液まみれの乱交SEX 七海祐希",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-01-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/50de3b02b8aa34843e055b7db285862d.jpg",
-      "actress": [
-        "戸川夏也",
-        "七海祐希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-171"
-    },
-    {
-      "id": 75792,
-      "IDcode": "BIJN-170",
-      "title": "卑猥剛毛陰部を広げ嵌り狂うバツイチ女の疼くカラダ 高身長スレンダー美人OLイキ狂い受精覚悟の連続膣内射精乱交SEX 卯水咲流",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2019-12-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/71c8ff2225edf3f762db10bde496d742.jpg",
-      "actress": [
-        "卯水咲流",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-170"
-    },
-    {
       "id": 83530,
       "IDcode": "BBZA-014",
       "title": "濃厚豚汁 ラテン系肉感絶倫女拘束絶頂遊戯 黒川ゆきな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-12-13",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/01ebfb3aa3132ed69463e2562b391e6d.jpg",
       "actress": [
         "黒川ゆきな",
         "戸川夏也"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBZA-014"
-    },
-    {
-      "id": 77984,
-      "IDcode": "WANZ-910",
-      "title": "禁欲1か月で淫乱化したつぼみのケダモノ即ズボ逆レ×プ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-12-01",
-      "cover_url": "",
-      "actress": [
-        "蕾",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-910"
-    },
-    {
-      "id": 76876,
-      "IDcode": "PRED-187",
-      "title": "爽やか女子アナがイクイク絶頂 ポルチオ開発マッサージ 竹内有紀",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2019-10-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241202-1/8dd4ae3fc1dc9d49923a6a134ccf7491.jpg",
-      "actress": [
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-187"
-    },
-    {
-      "id": 88462,
-      "IDcode": "NCAC-145",
-      "title": "人妻潜入捜査官 屈辱拷問",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-09-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231010-1/7a2c99adff8862c129a83705420c3cb0.jpg",
-      "actress": [
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NCAC-145"
-    },
-    {
-      "id": 70666,
-      "IDcode": "SDDE-595",
-      "title": "筋肉女子のキツキツマ○コによる熾烈なチ○ポの奪い合い 新競技【セックスリング】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-09-12",
-      "cover_url": "",
-      "actress": [
-        "藤白桃羽",
-        "戸川夏也",
-        "佐久间恵美",
-        "沢原佑香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-595"
     },
     {
       "id": 72879,
@@ -591,70 +178,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/81964a70a8a94db861dd51c60c4cdc13.jpg",
       "actress": [
         "黒崎みか",
         "戸川夏也"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYAB-008"
-    },
-    {
-      "id": 99039,
-      "IDcode": "BDA-091",
-      "title": "女囚強姦 檻の中の悲劇 星奈あい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2019-05-19",
-      "cover_url": "",
-      "actress": [
-        "平花",
-        "星奈爱",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-091"
-    },
-    {
-      "id": 70834,
-      "IDcode": "JUFE-047",
-      "title": "超絶美ボディ痴女が絡みつく淫乱なめくじソープ 本田岬",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2019-05-01",
-      "cover_url": "",
-      "actress": [
-        "本田岬",
-        "イセドン内村",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-047"
-    },
-    {
-      "id": 77743,
-      "IDcode": "KRI-080",
-      "title": "欲求不満ドMシロウト人妻 美人妻たちの肉欲願望 2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-03-15",
-      "cover_url": "",
-      "actress": [
-        "若槻みづな",
-        "戸川夏也",
-        "野々宫みさと",
-        "渡良瀬りほ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-080"
     },
     {
       "id": 91290,
@@ -663,7 +195,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
       "publish_date": "2019-03-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240426-1/838ef0a59da000ee845874ecbaee7bf4.jpg",
@@ -681,50 +213,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
+      "type": "",
+      "company": "",
       "publish_date": "2019-01-13",
-      "cover_url": "",
+      "cover_url": "https://sex8sex8sex8.com/20250329/M2SV3D4S/1.jpg",
       "actress": [
         "戸川夏也",
         "长峯河南"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-132"
-    },
-    {
-      "id": 13124,
-      "IDcode": "SSNI-342",
-      "title": "超薄苗條美乳素體，強制身體開發，大雞巴x陰道超深性交 ~ 初乃文香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2018-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240723/20240723221619154154.jpg",
-      "actress": [
-        "初乃文香",
-        "森林原人",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-342"
-    },
-    {
-      "id": 73363,
-      "IDcode": "PRTD-020",
-      "title": "不感症麻酔女医ノア 開発体位で堕とされて… 水原乃亜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2018-10-07",
-      "cover_url": "https://tutu1.space/images/2025/01/27/4bbe7139060557af2d7499ff36fa84ba.jpg",
-      "actress": [
-        "水原乃亜",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-020"
     },
     {
       "id": 82620,
@@ -733,49 +230,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
+      "type": "",
+      "company": "",
       "publish_date": "2018-09-25",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/30UgCL7W.jpg",
       "actress": [
         "戸川夏也",
         "矢津田由贵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-565"
-    },
-    {
-      "id": 76819,
-      "IDcode": "MKMP-237",
-      "title": "佐倉絆 酒酔い巨根乱交 中出し30発4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2018-09-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/5a3ef446b090264cfa241ea1f7e7afae.jpg",
-      "actress": [
-        "戸川夏也",
-        "佐仓绊"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-237"
-    },
-    {
-      "id": 19295,
-      "IDcode": "IPX-159",
-      "title": "沉醉於與公公幹砲快感墮落幼妻",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2018-06-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230605/20230605233425261261.jpg",
-      "actress": [
-        "相澤南",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-159"
     },
     {
       "id": 80502,
@@ -784,10 +247,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "溜池",
       "publish_date": "2018-04-14",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/bc98acaf70c27e6ef72c93b04c95f05f.jpg",
       "actress": [
         "戸川夏也",
         "仲间明日香"
@@ -795,136 +258,105 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-362"
     },
     {
-      "id": 77672,
-      "IDcode": "MEYD-347",
-      "title": "女教師NTR 学年主任の妻が同僚と教育研修の下見へ行ったきり… 本田岬",
+      "id": 99282,
+      "IDcode": "JUY-061",
+      "title": "中年男を濃厚な接吻でおもてなす美熟女ソープ 香西咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-02-26",
-      "cover_url": "",
-      "actress": [
-        "本田岬",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-347"
-    },
-    {
-      "id": 97484,
-      "IDcode": "PPPD-504",
-      "title": "早起鄰居人妻奶罩太鬆倒垃圾真欠幹 JULIA",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2016-09-19",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/pppd504/pppd504pl.jpg",
-      "actress": [
-        "JULIA",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-504"
-    },
-    {
-      "id": 106572,
-      "IDcode": "ABP-376",
-      "title": "48時間耐久連続巨根アクメ 上原瑞穂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-10-22",
-      "cover_url": "",
-      "actress": [
-        "上原瑞穂",
-        "森林原人",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-376"
-    },
-    {
-      "id": 68415,
-      "IDcode": "MIDE-215",
-      "title": "今日、あなたの上司に犯されました。 佐山愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2015-03-13",
-      "cover_url": "",
-      "actress": [
-        "佐山爱",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-215"
-    },
-    {
-      "id": 67866,
-      "IDcode": "MXBD-185",
-      "title": "女子アナ★Acky！ 吉沢明歩 in HD（ブルーレイディスク）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAXING",
-      "publish_date": "2014-08-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250419-1/94b23af85ccfb50d272fc53159c1380b.jpg",
-      "actress": [
-        "吉沢明歩",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-185"
-    },
-    {
-      "id": 70296,
-      "IDcode": "SNIS-205",
-      "title": "巨根抽插 宇都宮紫苑",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-08-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/c241676bcedb39b906722e8e3d12bafc.jpg",
-      "actress": [
-        "安斋拉拉",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-205"
-    },
-    {
-      "id": 88333,
-      "IDcode": "DCOL-069",
-      "title": "油亮滑溜 精油般心春 鈴木心春",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2014-05-19",
+      "publish_date": "2017-01-13",
       "cover_url": "",
       "actress": [
-        "鈴木心春",
-        "鲛岛",
+        "大岛丈",
+        "戸川夏也",
+        "香西咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-061"
+    },
+    {
+      "id": 99474,
+      "IDcode": "MIMK-029",
+      "title": "痙攣アクメ痴獄 蓮実クレア",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "2015-02-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mimk029/mimk029pl.jpg",
+      "actress": [
+        "蓮実クレア",
+        "イセドン内村",
         "戸川夏也"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DCOL-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-029"
+    },
+    {
+      "id": 100212,
+      "IDcode": "MIDE-009",
+      "title": "女教師強暴輪姦 秋吉雛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-09-01",
+      "cover_url": "",
+      "actress": [
+        "秋吉ひな",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-009"
+    },
+    {
+      "id": 107638,
+      "IDcode": "STARS-268",
+      "title": "与大龟头性交-夏目響",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/17/67d7177c4e7d663df4f84321/cover.jpg",
+      "actress": [
+        "森林原人",
+        "鲛岛",
+        "玉木玲",
+        "夏目响",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-268"
+    },
+    {
+      "id": 107573,
+      "IDcode": "JUY-593",
+      "title": "我的子宫犹如潘多拉魔盒-壇えみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/8107ff61f462441405af92f6508a1e2d.jpg",
+      "actress": [
+        "戸川夏也",
+        "坛えみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-593"
     },
     {
       "id": 107307,
       "IDcode": "RBD-558",
-      "title": "美人女將 凌辱女體接待8 愛田奈奈",
+      "title": "温泉侍奉奴隶人妻-爱田奈奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2014-02-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "平井シンジ",
@@ -936,14 +368,14 @@ window.actressData = {
     {
       "id": 106769,
       "IDcode": "MIMK-015",
-      "title": "直到家庭老師墮落 JULIA",
+      "title": "家庭教師-JULIA",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-11-01",
-      "cover_url": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-11/785648c749aaaa524aacdd04104ac383.jpg",
       "actress": [
         "JULIA",
         "戸川夏也"
@@ -951,34 +383,537 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-015"
     },
     {
-      "id": 73448,
-      "IDcode": "SOE-910",
-      "title": "喜歡滿身臭汗的男人。傳聞的美女教練 吉澤明步",
+      "id": 106572,
+      "IDcode": "ABP-376",
+      "title": "耐久巨根连续怒干48小时-上原瑞穂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2013-04-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/c96618ee5cefad36283a5679db846626.jpg",
+      "actress": [
+        "上原瑞穂",
+        "森林原人",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-376"
+    },
+    {
+      "id": 106446,
+      "IDcode": "BLK-468",
+      "title": "我最喜欢的同学-松本いちか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c6aff5cf22ae3e041b8066/cover.jpg",
+      "actress": [
+        "松本一香",
+        "玉木玲",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-468"
+    },
+    {
+      "id": 105606,
+      "IDcode": "DV-1508",
+      "title": "为了让大家痛快射精-葵司",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "吉沢明歩",
-        "戸川夏也",
-        "笹木良一"
+        "葵司",
+        "沢井亮",
+        "戸川夏也"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-910"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1508"
+    },
+    {
+      "id": 105117,
+      "IDcode": "MIMK-049",
+      "title": "来自失踪妻子的绿帽子视频-三原ほのか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/bdfae0ba517e5615a4056afe8741afff.jpg",
+      "actress": [
+        "三原穗香",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-049"
+    },
+    {
+      "id": 104691,
+      "IDcode": "IPTD-916",
+      "title": "没有事先通知AV男优突然出击瞬间插入",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天海翼",
+        "南佳也",
+        "しみけん",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-916"
+    },
+    {
+      "id": 101465,
+      "IDcode": "DV-1338",
+      "title": "4秒内完成会面和合并-小島みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小島南",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1338"
+    },
+    {
+      "id": 99039,
+      "IDcode": "BDA-091",
+      "title": "檻中悲劇 -星奈あい 平花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677c76d8f9a2e9b1d45c06a5/cover.jpg",
+      "actress": [
+        "平花",
+        "星奈爱",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-091"
+    },
+    {
+      "id": 97484,
+      "IDcode": "PPPD-504",
+      "title": "乳首浮きブラ若妻さん JULIA",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/pppd504/pppd504pl.jpg",
+      "actress": [
+        "JULIA",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-504"
+    },
+    {
+      "id": 96607,
+      "IDcode": "ABP-295",
+      "title": "无套中出解禁-柚月亚衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/dc2706610432d4d4125625f52750dbf4.jpg",
+      "actress": [
+        "大岛丈",
+        "南佳也",
+        "沢井亮",
+        "戸川夏也",
+        "柚月あい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-295"
+    },
+    {
+      "id": 90879,
+      "IDcode": "BIJN-242",
+      "title": "本能释出绝顶SEX-南畑颯花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ししお",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-242"
+    },
+    {
+      "id": 88781,
+      "IDcode": "WORL-001",
+      "title": "世界共通のBody Language 出会い系でゲットした美少女がコスプレ中出し本気イキAV出演 リズ・オーシャン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20240225/worl001pl.jpg!320x216.jpg",
+      "actress": [
+        "戸川夏也",
+        "リズ・オーシャン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-001"
+    },
+    {
+      "id": 88778,
+      "IDcode": "WORL-007",
+      "title": "邂逅系APP上撩到的金发美少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-007"
+    },
+    {
+      "id": 88735,
+      "IDcode": "WORL-009",
+      "title": "世界共通的肢体语言",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ししお",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-009"
+    },
+    {
+      "id": 88732,
+      "IDcode": "WORL-010",
+      "title": "生目乱交狂乱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "ししお",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WORL-010"
+    },
+    {
+      "id": 88462,
+      "IDcode": "NCAC-145",
+      "title": "人妻潜入捜査官 屈辱拷問",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NCAC-145"
+    },
+    {
+      "id": 88333,
+      "IDcode": "DCOL-069",
+      "title": "油亮滑溜 精油般心春 鈴木心春",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/44ea948b7b1fe38789d0cb6432a14be6.jpg",
+      "actress": [
+        "鈴木心春",
+        "鲛岛",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DCOL-069"
+    },
+    {
+      "id": 88286,
+      "IDcode": "BIJN-196",
+      "title": "THE ドキュメント 本能丸出しでする絶頂SEX 強欲美人OLザーメンまみれ悶絶失禁絶頂ファック 新村あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/bce58a5af7e4007db29ec0859883f49a.jpg",
+      "actress": [
+        "新村晶",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-196"
+    },
+    {
+      "id": 86539,
+      "IDcode": "URE-084",
+      "title": "120%勃起-安みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/ca98594ecb0a44cc239b319d3124abe2.jpg",
+      "actress": [
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URE-084"
+    },
+    {
+      "id": 85822,
+      "IDcode": "PPPE-051",
+      "title": "兼职者的深夜轮班NTR-夕美しおん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OPPAI",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/c7e0a4069a6e08053566d5c6e82d8e8c.jpg",
+      "actress": [
+        "夕美紫苑",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-051"
+    },
+    {
+      "id": 85060,
+      "IDcode": "JUNY-060",
+      "title": "ヤリたい時だけ連絡したくなる俺史上最高に都合が良い女 誘われたら絶対に断らない肉感ビッチと汁まみれ生中性交 夕季ちとせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fad992cf22ae3e0412abf3/cover.jpg",
+      "actress": [
+        "七草千歲",
+        "森林原人",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-060"
+    },
+    {
+      "id": 82970,
+      "IDcode": "JUL-172",
+      "title": "私人健身房偷情NTR-向井藍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/870d2767d83ad4d787b1b9d6fb48ffb0.jpg",
+      "actress": [
+        "向井藍",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-172"
+    },
+    {
+      "id": 81700,
+      "IDcode": "HND-807",
+      "title": "满脑子想被内射的现役女大学生-渡辺みお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "イセドン内村",
+        "戸川夏也",
+        "渡辺みお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-807"
+    },
+    {
+      "id": 80839,
+      "IDcode": "BLK-554",
+      "title": "欲求不満",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "藤井蘭々",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-554"
+    },
+    {
+      "id": 79079,
+      "IDcode": "DASD-916",
+      "title": "美人母娘-初川みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "初川南",
+        "夏树カオル",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-916"
+    },
+    {
+      "id": 77743,
+      "IDcode": "KRI-080",
+      "title": "欲求不満ドMシロウト人妻 美人妻たちの肉欲願望 2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0d39a374bae09afe1032a3f921c0d42a.jpg",
+      "actress": [
+        "若槻みづな",
+        "戸川夏也",
+        "野々宫みさと",
+        "渡良瀬りほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRI-080"
+    },
+    {
+      "id": 77672,
+      "IDcode": "MEYD-347",
+      "title": "女教師NTR-本田岬",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "本田岬",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-347"
+    },
+    {
+      "id": 76876,
+      "IDcode": "PRED-187",
+      "title": "被下了媚药一边挑逗一边播报的新闻播报员竹内有紀",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9655f2beaa53d0533b6f73a6f052ffef.jpg",
+      "actress": [
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-187"
+    },
+    {
+      "id": 76819,
+      "IDcode": "MKMP-237",
+      "title": "佐倉絆 酒酔い巨根乱交 中出し30発4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/5a3ef446b090264cfa241ea1f7e7afae.jpg",
+      "actress": [
+        "戸川夏也",
+        "佐仓绊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-237"
+    },
+    {
+      "id": 75792,
+      "IDcode": "BIJN-170",
+      "title": "卑猥剛毛陰部を広げ嵌り狂うバツイチ女の疼くカラダ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/96ff8d88c4f5d96aa0a626404c15252f.jpg",
+      "actress": [
+        "卯水咲流",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-170"
+    },
+    {
+      "id": 75787,
+      "IDcode": "BIJN-171",
+      "title": "関西既婚マンネリ妻が媚薬イカせ調教で淫乱牝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/50de3b02b8aa34843e055b7db285862d.jpg",
+      "actress": [
+        "戸川夏也",
+        "七海祐希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-171"
     },
     {
       "id": 75560,
       "IDcode": "IPTD-959",
-      "title": "空中小姐的性接待服務 希崎潔希卡",
+      "title": "免费提供性接待服务的黑丝空姐-希崎杰西卡",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2012-10-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/981142009b35e3a27f3f87914db3e01f.jpg",
       "actress": [
         "希崎潔西卡",
         "しみけん",
@@ -988,15 +923,138 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-959"
     },
     {
-      "id": 69102,
-      "IDcode": "SOE-798",
-      "title": "亂擊！肉彈活塞運動 吉澤明歩",
+      "id": 74917,
+      "IDcode": "DV-1301",
+      "title": "女尻-辰巳唯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "辰巳ゆい",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1301"
+    },
+    {
+      "id": 73448,
+      "IDcode": "SOE-910",
+      "title": "喜歡滿身臭汗的男人。傳聞的美女教練 吉澤明步",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/cc493a0a271b962c6164be6c256cf67f.jpg",
+      "actress": [
+        "吉沢明歩",
+        "戸川夏也",
+        "笹木良一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-910"
+    },
+    {
+      "id": 73363,
+      "IDcode": "PRTD-020",
+      "title": "没有快感的麻醉女医师-水原乃亜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/01874e3ee99ee6d99984044eb4d974ed.jpg",
+      "actress": [
+        "水原乃亜",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-020"
+    },
+    {
+      "id": 70834,
+      "IDcode": "JUFE-047",
+      "title": "超绝美丝袜人妻本田岬的高级服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "本田岬",
+        "イセドン内村",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-047"
+    },
+    {
+      "id": 70666,
+      "IDcode": "SDDE-595",
+      "title": "筋肉女子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ef377b18252ff6e7c14857a625bb20ee.jpg",
+      "actress": [
+        "藤白桃羽",
+        "戸川夏也",
+        "佐久间恵美",
+        "沢原佑香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-595"
+    },
+    {
+      "id": 70302,
+      "IDcode": "SSNI-788",
+      "title": "黑丝人妻OL-新名あみん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "S1",
-      "publish_date": "2012-07-07",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/aacf73cb4a505a0f0228efcb9113f34e.jpg",
+      "actress": [
+        "天國露露",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-788"
+    },
+    {
+      "id": 70296,
+      "IDcode": "SNIS-205",
+      "title": "初次体验巨根的宇都宫紫苑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安斋拉拉",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-205"
+    },
+    {
+      "id": 69102,
+      "IDcode": "SOE-798",
+      "title": "猖獗的肉棒事件-吉沢明歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "吉沢明歩",
@@ -1006,39 +1064,196 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-798"
     },
     {
-      "id": 101465,
-      "IDcode": "DV-1338",
-      "title": "相遇4秒馬上幹 小島南",
+      "id": 68738,
+      "IDcode": "STARS-680",
+      "title": "人生初・中出し解禁！イクイク体質がナマHでさらに増幅！スレンダーボディがゴムなし巨根",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2011-12-09",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/53dv01338/53dv01338pl.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "小島南",
         "戸川夏也"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1338"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-680"
     },
     {
-      "id": 79079,
-      "IDcode": "DASD-916",
-      "title": "- DASD-916 - JAV目錄大全javmenu.com",
+      "id": 68415,
+      "IDcode": "MIDE-215",
+      "title": "我今天被你的老板强奸了-佐山愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/693e6184e0060645a3164bccfcdb621a.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250330-1/f66a340496ebb543b70dfcc7ff542000.jpg",
       "actress": [
-        "初川南",
-        "夏树カオル",
+        "佐山爱",
         "戸川夏也"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-916"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-215"
+    },
+    {
+      "id": 67866,
+      "IDcode": "MXBD-185",
+      "title": "女电视播音员-吉沢明歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/0bea9eb6e5b0a8158df9876b2680c47d.jpg",
+      "actress": [
+        "吉沢明歩",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXBD-185"
+    },
+    {
+      "id": 64107,
+      "IDcode": "MDYD-962",
+      "title": "人妻其实一直被丈夫的上司侵犯-东凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "东凛",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-962"
+    },
+    {
+      "id": 19295,
+      "IDcode": "IPX-159",
+      "title": "完全坠落于和公公性交的幼妻-相沢みなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/061fe01415eb0182cf09b15d218fdbb0.jpg",
+      "actress": [
+        "相澤南",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-159"
+    },
+    {
+      "id": 18889,
+      "IDcode": "IPX-536",
+      "title": "禁欲的终结-桃乃木かな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桃乃木香奈",
+        "イセドン内村",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-536"
+    },
+    {
+      "id": 18473,
+      "IDcode": "IPX-743",
+      "title": "禁慾的結果 汗水與高潮潮水佈滿全身的3天 櫻空桃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231003/20231003075855793793.jpg",
+      "actress": [
+        "桜空桃",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-743"
+    },
+    {
+      "id": 18118,
+      "IDcode": "IPX-828",
+      "title": "快感倍増-二葉エマ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029011711727727.jpg",
+      "actress": [
+        "二葉惠麻",
+        "二叶エマ",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-828"
+    },
+    {
+      "id": 15974,
+      "IDcode": "NIMA-027",
+      "title": "的老婆跟前AV男優部長的大肉棒一起打炮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302042537148148.jpg",
+      "actress": [
+        "菊乃らん",
+        "戸川夏也",
+        "菊野兰"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-027"
+    },
+    {
+      "id": 13124,
+      "IDcode": "SSNI-342",
+      "title": "超薄苗條美乳素體，強制身體開發，大雞巴x陰道超深性交 ~ 初乃文香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f7dc5d1e4b2d4819859addc85d2a2312.jpg",
+      "actress": [
+        "初乃文香",
+        "森林原人",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-342"
+    },
+    {
+      "id": 12639,
+      "IDcode": "EBWH-137",
+      "title": "華麗巨乳的導演-響蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/67875e58c179ffb1db907bcb/cover.jpg",
+      "actress": [
+        "響蓮",
+        "鲛岛",
+        "南佳也",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-137"
     }
   ]
 };

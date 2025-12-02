@@ -38,8 +38,26 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241003/d754a900-c869-4759-b167-d33b3632234f.jpg",
     "https://picture.yoshiclub.xyz/20241003/6cc95166-4aa4-46ac-b795-dc75cf1e0ac2.jpg"
   ],
-  "works_count": 1,
+  "works_count": 5,
   "related_dramas": [
+    {
+      "id": 8170,
+      "IDcode": "MUKD-523",
+      "title": "老頭樂援交的巨乳，美乳，JK制服少女3人組 順從肉便器編 ~ 海野いくら 鹿野愛萌 森本あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2025-02-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213075119891891.jpg",
+      "actress": [
+        "海野いくら",
+        "森本あかり",
+        "鹿野愛萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-523"
+    },
     {
       "id": 14044,
       "IDcode": "SDNM-461",
@@ -47,7 +65,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-07-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240611/75edfc3f-1f67-4b41-be88-5302aad96d7b.jpg",
@@ -55,6 +73,60 @@ window.actressData = {
         "鹿野愛萌"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-461"
+    },
+    {
+      "id": 11531,
+      "IDcode": "STSK-142",
+      "title": "電車內 集團癡漢猥褻 ~ 唯奈みつき 鹿野愛萌 八森若菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/020bfa8fce30b9a5efc2f4370a42e3f3.jpg",
+      "actress": [
+        "八森若菜",
+        "唯奈みつき",
+        "鹿野愛萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-142"
+    },
+    {
+      "id": 8150,
+      "IDcode": "HRSM-083",
+      "title": "傳聞中會提供超爽服務的粉紅色爆乳娘。客人如果一直加鍾到早上的話，將激活極度色情的祕密服務，你的蛋蛋會幹掉的哦 ~ 鹿野愛萌 羽月乃蒼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4eddce4a73d4f15c25ff2/cover.jpg",
+      "actress": [
+        "羽月乃蒼",
+        "鹿野愛萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-083"
+    },
+    {
+      "id": 2731,
+      "IDcode": "HRSM-111",
+      "title": "ミスマガ○○202X グランプリ ～君の大きな夢に近づける～ 人生の絶頂からの転落・中出しヒロイン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022550333333_29808_thumbnail.webp",
+      "actress": [
+        "皆月光",
+        "渡來楓",
+        "鹿野愛萌",
+        "大原日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-111"
     }
   ]
 };

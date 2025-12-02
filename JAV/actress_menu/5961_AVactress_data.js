@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 100839,
       "IDcode": "ABP-120",
-      "title": "最高のセックス。 玉名みら",
+      "title": "最好的性爱-玉名みら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-03-21",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-12/1ea718726678d2c46c4df8b92bd89eaf.jpg",
       "actress": [
         "玉名みら"
       ],

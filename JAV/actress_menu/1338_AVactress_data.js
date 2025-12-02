@@ -47,7 +47,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2011-03-23",
       "cover_url": "https://picture.yoshiclub.xyz/20230208/b4d0142b-2c5c-4a21-b5e7-22623078f56c.webp",
@@ -57,53 +57,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-020"
     },
     {
-      "id": 1931,
-      "IDcode": "SKYHD-020",
-      "title": "天天使藍 Vol.20 : 原小雪 : Part.1 (HD)",
+      "id": 104802,
+      "IDcode": "SSPD-047",
+      "title": "黑豹小泽玛利亚和她的姐妹们的凌辱历程",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小澤瑪麗亞",
+        "妃乃ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-047"
+    },
+    {
+      "id": 82563,
+      "IDcode": "IESP-505",
+      "title": "陷入圈套被毒贩用药物控制住的毒品搜查官小泽玛利亚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小澤瑪麗亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-505"
+    },
+    {
+      "id": 1931,
+      "IDcode": "SKYHD-020",
+      "title": "高个肉感十足的美女-原小雪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2010-10-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230209/1ddcd918-ba1f-433d-9c39-46a11125acfe.webp",
       "actress": [
         "小澤瑪麗亞",
         "原小雪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-020"
-    },
-    {
-      "id": 1860,
-      "IDcode": "SKYHD-022",
-      "title": "SKY ANGEL 22 小澤瑪麗亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2009-09-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/e8af4808-967e-4a55-89ca-f68e34c8d00e.webp",
-      "actress": [
-        "小澤瑪麗亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-022"
-    },
-    {
-      "id": 82563,
-      "IDcode": "IESP-505",
-      "title": "麻薬捜査官 ヤク漬け膣痙攣 小澤マリア",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2009-09-05",
-      "cover_url": "",
-      "actress": [
-        "小澤瑪麗亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-505"
     }
   ]
 };

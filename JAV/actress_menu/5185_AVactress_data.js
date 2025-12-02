@@ -4,7 +4,7 @@ window.actressData = {
   "name": "矢津田由贵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
+      "type": "",
+      "company": "",
       "publish_date": "2018-09-25",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/30UgCL7W.jpg",
       "actress": [
         "戸川夏也",
         "矢津田由贵"

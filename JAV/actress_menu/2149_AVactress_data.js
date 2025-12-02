@@ -47,8 +47,26 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230706/35ee9ff8-2675-4851-9809-e2288d4b4fb6.jpg",
     "https://picture.yoshiclub.xyz/20230706/4ce8a16c-032a-453f-951e-a71a1f89fe5d.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 99196,
+      "IDcode": "NANP-011",
+      "title": "予約しても中々現れないというJ○が働く噂のデリで、宝くじ一等当選並みの引きでJ○をリアルゲット！ウブなマ○コにニュポリ生ハメ『中はダメ』と言われながらのたっぷり強制中出し！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-07-27",
+      "cover_url": "",
+      "actress": [
+        "七瀬りん",
+        "岬澪",
+        "彩风のん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NANP-011"
+    },
     {
       "id": 74042,
       "IDcode": "SDMM-025",
@@ -56,10 +74,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-07-11",
-      "cover_url": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20250112-1/0280329a3b1173e16d30be0aee70d0a3.jpg",
       "actress": [
         "雨村梨花",
         "亜矢みつき",
@@ -78,14 +96,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-06-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221101-1/5dcd2ee51b0528000d6c579680e097df.jpg",
+      "cover_url": "",
       "actress": [
         "七瀬りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOI-031"
+    },
+    {
+      "id": 19162,
+      "IDcode": "IPX-288",
+      "title": "超名門大学文学部的文藝女孩在一個派對上第一次做愛后 成爲一年約炮40次的究極欲女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/247d6f107fab9455744143f1a23510a0.jpg",
+      "actress": [
+        "七瀬りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-288"
     }
   ]
 };

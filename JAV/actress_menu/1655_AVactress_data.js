@@ -38,7 +38,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2012-12-05",
       "cover_url": "https://picture.yoshiclub.xyz/20230131/6698f320-2f49-4366-886f-42a8e23304c7.webp",
@@ -50,13 +50,13 @@ window.actressData = {
     {
       "id": 1775,
       "IDcode": "CWPBD-73",
-      "title": "CATWALK POISON 73 ~降臨～：瑪莉卡 (HD)",
+      "title": "猫步毒药-茉莉香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-10-11",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/9804bd40-833a-4f98-8b03-5f6b05904cec.webp",
       "actress": [
         "長谷真理香"

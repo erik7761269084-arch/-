@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ルビー・アマゾネス・ナミ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 78021,
       "IDcode": "YMDD-422",
-      "title": "GIN GIRA GAL 鍛え抜かれたバンタム級Gカップムエタイ美女デビュー！獣の如きドS性欲ファイターがはじめてのスペシャルマッチでM転向！アドレナリン大放出スペクタクル！ ルビー・アマゾネス・ナミ",
+      "title": "GIN GIRA GAL 鍛え抜かれたバンタム級Gカップムエタイ美女デビュー！獣の如きドS性欲ファイターがはじめてのスペシャルマッチでM転向！アドレナリン大放出スペクタクル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://tutu1.space/images/2025/09/09/8a83f2342feec106294e40d04618b48c.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "ルビー・アマゾネス・ナミ"
       ],

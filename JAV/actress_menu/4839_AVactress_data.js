@@ -4,7 +4,7 @@ window.actressData = {
   "name": "绿川みやび",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-08-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/9d935709ddbca381e99e91b9c89c9bfe.jpg",
@@ -43,16 +43,67 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-514"
     },
     {
+      "id": 81191,
+      "IDcode": "DVDMS-788",
+      "title": "色白デカ尻の家事代行おばさんに即ハメ！デカチンの虜になった人妻が翌日勝手に押しかけてきたので満足するまで何度も中出ししてあげた 12 MIYABI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2022-03-15",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8e11bdb1d9308d14f7aef0fa866a4b3c.jpg",
+      "actress": [
+        "绿川みやび"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-788"
+    },
+    {
+      "id": 80778,
+      "IDcode": "SW-0830",
+      "title": "巨乳なのにUBUな妹達を心配したエロギャル姉さんが男に慣れさせようとして妹達に見せつけSEX！？ ムラムラを溜め込んだ妹達に姉さんがセフレを送り込んだら戸惑いながらもしっかりエッチな展開になっちゃいました！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "2022-02-10",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ba52adc355e6b58950076c5aba7b756b.jpg",
+      "actress": [
+        "露梨あやせ",
+        "今井まい",
+        "绿川みやび"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0830"
+    },
+    {
+      "id": 519977,
+      "IDcode": "259LUXU-1422",
+      "title": "豪华电视1398 美巨乳护士AV露面~寻求激情性爱！一心一意淫荡妖娆...喷出高潮太快了！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2021-04-30",
+      "cover_url": "",
+      "actress": [
+        "森林原人",
+        "绿川みやび"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1422"
+    },
+    {
       "id": 87267,
       "IDcode": "AARM-101",
       "title": "椅子にまたがった逆座り尻",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2022-07-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/4541e8cc2b01678cee98661b228f3069.jpg",
       "actress": [
         "如月夏希",
         "早乙女らぶ",
@@ -64,50 +115,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-101"
     },
     {
-      "id": 81191,
-      "IDcode": "DVDMS-788",
-      "title": "色白デカ尻の家事代行おばさんに即ハメ！デカチンの虜になった人妻が翌日勝手に押しかけてきたので満足するまで何度も中出ししてあげた 12 MIYABI",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-03-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8e11bdb1d9308d14f7aef0fa866a4b3c.jpg",
-      "actress": [
-        "绿川みやび"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-788"
-    },
-    {
-      "id": 80778,
-      "IDcode": "SW-830",
-      "title": "巨乳なのにUBUな妹達を心配したエロギャル姉さんが男に慣れさせようとして妹達に見せつけSEX！？ ムラムラを溜め込んだ妹達に姉さんがセフレを送り込んだら戸惑いながらもしっかりエッチな展開になっちゃいました！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2022-02-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ba52adc355e6b58950076c5aba7b756b.jpg",
-      "actress": [
-        "露梨あやせ",
-        "今井まい",
-        "绿川みやび"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-830"
-    },
-    {
       "id": 86703,
       "IDcode": "APAK-215",
       "title": "私がイクまで、イッたらダメ！ 見るだけで射精しちゃいそうなHカップ淫獣のセックス記録 MIYABI",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2022-02-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/460404d75bdad95b47a117f549594770.jpg",
       "actress": [
         "绿川みやび"
       ],
@@ -116,36 +133,19 @@ window.actressData = {
     {
       "id": 80567,
       "IDcode": "BLK-541",
-      "title": "朝まで飲み放題パコリ放題！ 乳輪ドえろいヤリマンスナックチーママ発掘 MIYABI",
+      "title": "性爱零食-MIYABI",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KIRAKIRA",
-      "publish_date": "2021-12-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/e59315840c9575edffb421752e2c2c2a.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/06/68427552bea44e0606187c6d/cover.jpg",
       "actress": [
         "绿川みやび",
         "MIYABI"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-541"
-    },
-    {
-      "id": 78629,
-      "IDcode": "LUXU-1422",
-      "title": "ラグジュTV 1398 美巨乳看護師が情熱的なセックスを求めてAV出演！卑猥に妖艶に一心不乱に乱れ…あまりの快楽に潮吹き絶頂！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2021-04-30",
-      "cover_url": "",
-      "actress": [
-        "森林原人",
-        "绿川みやび"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1422"
     }
   ]
 };

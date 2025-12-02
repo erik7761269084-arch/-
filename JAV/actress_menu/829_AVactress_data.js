@@ -35,8 +35,59 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240712/6797d1ff-4c97-4686-af79-61e3bb36f763.webp",
     "https://picture.yoshiclub.xyz/20240712/0c3fdc35-1b1d-4c68-8858-925c9f1c9798.jpg"
   ],
-  "works_count": 4,
+  "works_count": 8,
   "related_dramas": [
+    {
+      "id": 5078,
+      "IDcode": "HOIZ-166",
+      "title": "素人約炮日記15：一夜情神器匹配，帶你直衝愛巢 ~ 小野阪唯香 愛葉陽葵 葉月まゆ 宍戸裏帆",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623075542259259_thumbnail.webp",
+      "actress": [
+        "宍戸里帆",
+        "小野坂唯香",
+        "葉月まゆ",
+        "愛葉陽葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOIZ-166"
+    },
+    {
+      "id": 12630,
+      "IDcode": "HMN-589",
+      "title": "※※※放送禁止※※※ 「電臺MC即使在惡劣的情況下也應該能夠閱讀稿件！？」 高速做愛電臺，有10分鍾的耐心！如果堅持下來，你將獲得100萬日元的獎勵！如果你射了，就射在我體內吧！ ~ 愛葉陽葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815234904542542.jpg",
+      "actress": [
+        "愛葉陽葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-589"
+    },
+    {
+      "id": 13397,
+      "IDcode": "HMN-580",
+      "title": "MC和喘氣聲你喜歡哪個？地區電視臺主持，顏出NG的神隱少女，許可中出的那天，以前聽過這個聲音！新人愛葉陽葵首次亮相 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712002218646646.jpg",
+      "actress": [
+        "愛葉陽葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-580"
+    },
     {
       "id": 62061,
       "IDcode": "LULU-376",
@@ -44,41 +95,41 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "LUNATICS",
-      "publish_date": "2025-05-06",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/29/186cf7bc/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822d0229ed5b270bc9212a6/cover.jpg",
       "actress": [
         "愛葉陽葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-376"
     },
     {
-      "id": 8675,
-      "IDcode": "VENZ-041",
-      "title": "兼職人妻在會社附近的一家咖啡館工作，她是一位性感女神，喜歡吮吸精液和口交，用力操她直到達到多次高潮 ~ 愛葉陽葵",
+      "id": 9417,
+      "IDcode": "VEMA-235",
+      "title": "美人女教师-爱叶阳葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130084444451451.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250104/79b9a6d2-2c98-4310-81a9-ba608878994b.jpg",
       "actress": [
         "愛葉陽葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-235"
     },
     {
       "id": 9003,
       "IDcode": "DVMM-192",
-      "title": "美腳CA腳出本色出演 街中MM便15周年！顏出解禁！動車女服最高峯！大手航空公社初公開編 8人全員SEX ~ 西尾真裏奈 愛葉陽葵 靜河 稲森美憂 鈴音まゆ 朝陽伊都",
+      "title": "大手航空会社のキャビンアテンダント 初めての公開ディープキス編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071223830830.jpg",
       "actress": [
         "静河",
@@ -91,20 +142,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
     },
     {
-      "id": 9417,
-      "IDcode": "VEMA-235",
-      "title": "擔任俱樂部顧問的美人女教師是我的女友 - 與比我大的女友從早到晚的激情中出性愛 - 愛葉陽葵",
+      "id": 8675,
+      "IDcode": "VENZ-041",
+      "title": "昼ランチで行く会社近くのカフェで働くパート妻はエロ女神 愛葉陽葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250104/79b9a6d2-2c98-4310-81a9-ba608878994b.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130084444451451.jpg",
       "actress": [
         "愛葉陽葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-041"
+    },
+    {
+      "id": 3292,
+      "IDcode": "AGAV-146",
+      "title": "性フェロモン臭ムンムンな女に中出し睡眠姦 泥●して眠る新卒女子社員を知らぬ間に孕ませる極悪上司 愛葉陽葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033350511511_75430_thumbnail.webp",
+      "actress": [
+        "愛葉陽葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-146"
     }
   ]
 };

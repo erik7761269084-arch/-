@@ -4,7 +4,7 @@ window.actressData = {
   "name": "宇佐美まき",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106076,
       "IDcode": "JRZE-172",
-      "title": "初撮り人妻ドキュメント 宇佐美まき",
+      "title": "初次拍摄人妻-宇佐美真纪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-12-28",
-      "cover_url": "https://tutu1.space/images/2024/01/27/f8965627cccaade01e8cb950f90fcfab.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/2b4233d9a06dfb84f69b51ee9cbe1982.jpg",
       "actress": [
         "宇佐美まき"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "姬川优奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,47 +16,164 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 13,
+  "works_count": 21,
   "related_dramas": [
     {
-      "id": 6532,
-      "IDcode": "TEND-024",
-      "title": "超色小惡魔連家教跟親爹都勾引的狂野227分鐘 ~ 姫川ゆうな",
+      "id": 101912,
+      "IDcode": "SQTE-446",
+      "title": "魅惑の口内発射33連発 S-Cuteフェラチオコレクション2023",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Tender",
-      "publish_date": "2025-04-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250430/20250430054031773773_thumbnail.webp",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2022-12-31",
+      "cover_url": "https://tuaskbgnekr.com/20230113/MFX8RFmJ/1.jpg",
       "actress": [
-        "姫川ゆうな",
+        "美園和花",
+        "沙月惠奈",
+        "橘瑪麗",
+        "枢木葵",
+        "安部未華子",
+        "安倍亜沙美",
         "姬川优奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-446"
     },
     {
-      "id": 77926,
-      "IDcode": "XVSR-789",
-      "title": "有名女優のOFF SHOT SEX SPECIAL 実はこんなプライベートSEXしてました。 （BOD）",
+      "id": 79440,
+      "IDcode": "ROYD-066",
+      "title": "幼馴染と妹が僕を好きすぎて、嫉妬に誘惑、奪い愛。 枢木あおい 姫川ゆうな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://tutu1.space/images/2025/09/09/3307632a0e73b13765d32899bc5f73bd.jpg",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "2021-08-19",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/bb8d7f46babc7bb09d9c0923001ed8d4.jpg",
       "actress": [
-        "森日向子",
-        "沙月芽衣",
-        "加藤桃香",
-        "柊有希",
-        "岬梓沙",
-        "安倍亜沙美",
-        "一条美绪",
+        "枢木葵",
+        "タツ",
         "姬川优奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-066"
+    },
+    {
+      "id": 97801,
+      "IDcode": "200GANA-2057",
+      "title": "マジ軟派、初撮。 1314 サラサラ美髪の童顔美少女をゲット！貧困大学生は高額ギャラにクラリ…ダメダメ言いつつも敏感ボディは快感に抗えず色白ボディを真っ赤に染めてピクピク痙攣ピストンイキ！！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-04-13",
+      "cover_url": "",
+      "actress": [
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2057"
+    },
+    {
+      "id": 99797,
+      "IDcode": "LOVE-379",
+      "title": "女子校生革命！夏なんてぶっ飛ばせ！5人の美少女が制服大改造スーパークールビズで登校してきた！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-08-11",
+      "cover_url": "",
+      "actress": [
+        "一色さゆり",
+        "山川由奈",
+        "矢泽美々",
+        "姬川优奈",
+        "澄川鲇"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOVE-379"
+    },
+    {
+      "id": 142505,
+      "IDcode": "010117-339",
+      "title": "加勒比可爱Vol.30",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250201-1/afe654c4e3b115b694913b69674010df.jpg",
+      "actress": [
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=010117-339"
+    },
+    {
+      "id": 142250,
+      "IDcode": "080719-976",
+      "title": "姬川优奈BEST2姬川优奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250131-1/06e2d7d957a1718844d648e671278066.jpg",
+      "actress": [
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=080719-976"
+    },
+    {
+      "id": 142184,
+      "IDcode": "062718-693",
+      "title": "",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250130-1/b994a61398061f979a106b42f05ede08.jpg",
+      "actress": [
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=062718-693"
+    },
+    {
+      "id": 142105,
+      "IDcode": "051318-665",
+      "title": "肮脏自虐的娃娃脸少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250130-1/8eacd2fe6edbd62026d928802ecd22c1.jpg",
+      "actress": [
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=051318-665"
+    },
+    {
+      "id": 105631,
+      "IDcode": "CAWD-099",
+      "title": "超敏感体质穴内高潮天才-月城らん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "市川润",
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-099"
     },
     {
       "id": 91353,
@@ -65,10 +182,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2023-09-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/497852d1828341776e6b25da42c1d4e1.jpg",
       "actress": [
         "松本一香",
         "藤森里穂",
@@ -89,30 +206,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-08-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/dacab661e77200bf08c1e9d59f6bd5b9.jpg",
       "actress": [
         "姬川优奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRIN-004"
     },
     {
-      "id": 69498,
-      "IDcode": "JUQ-115",
-      "title": "夫の上司に犯●れ続けて7日目、私は理性を失った…。 姫川ゆうな",
+      "id": 88186,
+      "IDcode": "PGD-946",
+      "title": "彼氏がいるのに誘惑おしゃぶり女子校生 3 姫川ゆうな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2022-10-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/659158be84a289078e3e8c1275a4bcf1.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f6125f634a4a33a81122bf409e7a8e14.jpg",
       "actress": [
         "姬川优奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-946"
     },
     {
       "id": 84122,
@@ -121,10 +238,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-01-25",
-      "cover_url": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/240bd204c682ae8447d9b6b57986b5f4.jpg",
       "actress": [
         "枢木葵",
         "浅田结梨",
@@ -133,73 +250,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-329"
     },
     {
-      "id": 79440,
-      "IDcode": "ROYD-066",
-      "title": "幼馴染と妹が僕を好きすぎて、嫉妬に誘惑、奪い愛。 枢木あおい 姫川ゆうな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2021-08-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/bb8d7f46babc7bb09d9c0923001ed8d4.jpg",
-      "actress": [
-        "枢木葵",
-        "タツ",
-        "姬川优奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-066"
-    },
-    {
-      "id": 78169,
-      "IDcode": "MDTM-558",
-      "title": "顔面偏差値75点以上のスーパーアイドルBEST10 4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241126-1/bec883123b9ff1583c98ad09c7938270.jpg",
-      "actress": [
-        "蘭々",
-        "香坂紗梨",
-        "星奈爱",
-        "天野美优",
-        "姬川优奈",
-        "樱美雪",
-        "凉美ほのか",
-        "茉莉ひな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-558"
-    },
-    {
-      "id": 70952,
-      "IDcode": "HODV-21332",
-      "title": "素っぴん ホントの姫川ゆうな AVでまだ見せてないガチ性交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2018-11-02",
-      "cover_url": "",
-      "actress": [
-        "姬川优奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21332"
-    },
-    {
       "id": 78181,
       "IDcode": "KIBD-232",
       "title": "生意気なギャルを黙らせて、無理矢理ねじ伏せ犯し続ける4時間BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2018-06-15",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/204cd1416d000265aabd03835e639698.jpg",
       "actress": [
         "AIKA",
         "椎名空",
@@ -215,20 +275,50 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-232"
     },
     {
-      "id": 88186,
-      "IDcode": "PGD-946",
-      "title": "彼氏がいるのに誘惑おしゃぶり女子校生 3 姫川ゆうな",
+      "id": 78169,
+      "IDcode": "MDTM-558",
+      "title": "顔面偏差値75点以上のスーパーアイドルBEST10 4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2017-04-25",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241126-1/bec883123b9ff1583c98ad09c7938270.jpg",
+      "actress": [
+        "蘭々",
+        "香坂紗梨",
+        "星奈爱",
+        "天野美优",
+        "姬川优奈",
+        "樱美雪",
+        "凉美ほのか",
+        "茉莉ひな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-558"
+    },
+    {
+      "id": 77926,
+      "IDcode": "XVSR-789",
+      "title": "有名女優のOFF SHOT SEX SPECIAL 実はこんなプライベートSEXしてました。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
+        "森日向子",
+        "沙月芽衣",
+        "加藤桃香",
+        "柊有希",
+        "岬梓沙",
+        "安倍亜沙美",
+        "一条美绪",
         "姬川优奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PGD-946"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-789"
     },
     {
       "id": 77050,
@@ -237,14 +327,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-03-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4c367c712a799525708e19465454cb87.jpg",
       "actress": [
         "姬川优奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PLA-062"
+    },
+    {
+      "id": 70952,
+      "IDcode": "HODV-21332",
+      "title": "素っぴん ホントの姫川ゆうな AVでまだ見せてないガチ性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9fbd0ee8783c7d3ceae028cc19844326.jpg",
+      "actress": [
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21332"
     },
     {
       "id": 70268,
@@ -253,16 +359,49 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-03-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/1b63aae3bca95481ac7d4da2fcbfb720.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/65d799c14e9c2be949021442be2edcbb.jpg",
       "actress": [
         "通野未帆",
         "白石鈴",
         "姬川优奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-525"
+    },
+    {
+      "id": 69498,
+      "IDcode": "JUQ-115",
+      "title": "被我丈夫的老板强奸了-姫川ゆうな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/659158be84a289078e3e8c1275a4bcf1.jpg",
+      "actress": [
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-115"
+    },
+    {
+      "id": 6532,
+      "IDcode": "TEND-024",
+      "title": "超色小惡魔連家教跟親爹都勾引的狂野227分鐘 ~ 姫川ゆうな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Tender",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250430/20250430054031773773_thumbnail.webp",
+      "actress": [
+        "姫川ゆうな",
+        "姬川优奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEND-024"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "七栄ここ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
       "publish_date": "2020-04-13",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/78a0a6d3792335ae2a3098d6ff4853f2.jpg",
       "actress": [
         "葵玲奈",
         "前田沙羅",
@@ -42,34 +42,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-220"
     },
     {
-      "id": 81469,
-      "IDcode": "BBAN-275",
-      "title": "耳舐め囁き洗脳された巨乳レズビアンが彼女の前で寝取られ堕ちた日。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BIBIAN",
-      "publish_date": "2020-04-07",
-      "cover_url": "",
-      "actress": [
-        "渚光希",
-        "松本菜奈実",
-        "七栄ここ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-275"
-    },
-    {
       "id": 83577,
       "IDcode": "GDHH-183",
       "title": "引っ越し先は全裸シェアハウス 新しく引っ越したシェアハウスは女の子ばかりで男はボク1人！しかも住人は全員全裸の裸族！！どこを見ても裸！裸！…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-19",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221228-1/bfa7602e8691b2d32e7ef474f6351248.jpg",
       "actress": [
         "百瀬凛花",
         "今井由亞",
@@ -86,10 +68,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-01-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/113af374f0eefad8469f83a93a9324d1.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "百瀬凛花",
         "若宫穂乃",
@@ -97,6 +79,24 @@ window.actressData = {
         "新海珠理奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHYN-075"
+    },
+    {
+      "id": 81469,
+      "IDcode": "BBAN-275",
+      "title": "耳舐め囁き洗脳された巨乳レズビアンが彼女の前で寝取られ堕ちた日。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/875417a6e0e6ead331a98dada05201c8.jpg",
+      "actress": [
+        "渚光希",
+        "松本菜奈実",
+        "七栄ここ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-275"
     }
   ]
 };

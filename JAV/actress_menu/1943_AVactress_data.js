@@ -28,75 +28,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-石原莉奈.jpg"
   ],
-  "works_count": 15,
+  "works_count": 21,
   "related_dramas": [
-    {
-      "id": 77645,
-      "IDcode": "RBD-800",
-      "title": "沉淪於奴隸泡泡浴的女教師7 石原莉奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2016-09-07",
-      "cover_url": "",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-800"
-    },
-    {
-      "id": 74995,
-      "IDcode": "AVOP-227",
-      "title": "石原莉奈的幫你脫童貞初體驗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2016-09-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/d9f9c235c4f988d59be252cd6fe72e77.jpg",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-227"
-    },
-    {
-      "id": 99814,
-      "IDcode": "ADN-092",
-      "title": "恥辱の館 石原莉奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2016-04-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/adn092/adn092pl.jpg",
-      "actress": [
-        "石原莉奈",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-092"
-    },
-    {
-      "id": 88479,
-      "IDcode": "SSPD-124",
-      "title": "網球部女教師奴隸集訓",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2016-01-07",
-      "cover_url": "",
-      "actress": [
-        "阿部乃美久",
-        "石原莉奈",
-        "凉川绚音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-124"
-    },
     {
       "id": 74892,
       "IDcode": "AVOP-115",
@@ -104,139 +37,26 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
+      "type": "",
+      "company": "",
       "publish_date": "2015-09-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0a655dee6e2512ebad888d7fcd8efe62.jpg",
       "actress": [
         "石原莉奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-115"
     },
     {
-      "id": 101546,
-      "IDcode": "RBD-704",
-      "title": "貞操帯の女19 石原莉奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2015-08-07",
-      "cover_url": "https://tutu1.space/images/2023/01/28/6cf4f992e3575ae6909e5bada192c802.jpg",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-704"
-    },
-    {
-      "id": 19538,
-      "IDcode": "RBD-690",
-      "title": "癡漢電影院 9 石原莉奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2015-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/357d3372-5fb4-4471-a838-425f5d1506cd.jpg",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-690"
-    },
-    {
-      "id": 73819,
-      "IDcode": "ADN-046",
-      "title": "あなた、許して…。夫の従弟に迫られて 石原莉奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2015-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250123-1/50a8f7f12cb8cb5eb0b1d31d6b4d4aae.jpg",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-046"
-    },
-    {
-      "id": 106790,
-      "IDcode": "JUX-388",
-      "title": "大嫂被奪走～被小叔設局睡走～",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2014-08-07",
-      "cover_url": "",
-      "actress": [
-        "石原莉奈",
-        "冴岛かおり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-388"
-    },
-    {
-      "id": 88453,
-      "IDcode": "RBD-598",
-      "title": "被盯上的新人女優 跟蹤者 狂氣的妄想戀愛之下… 石原莉奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2014-07-07",
-      "cover_url": "",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-598"
-    },
-    {
-      "id": 19573,
-      "IDcode": "SHKD-546",
-      "title": "在丈夫面前被強暴－禁止的慾望 石原裡奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/b0a3073c-a71d-42be-a94f-a9c5463190b6.jpg",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-546"
-    },
-    {
-      "id": 101556,
-      "IDcode": "SHKD-541",
-      "title": "恥辱實習教師 7 石原莉奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-05-07",
-      "cover_url": "",
-      "actress": [
-        "石原莉奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-541"
-    },
-    {
       "id": 107204,
       "IDcode": "IPZ-310",
-      "title": "馬上幹 咦？現在要在這裡？ 石原莉奈",
+      "title": "在不知情的条件下直接插入-石原莉奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-02-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240118-1/9a3e0886b137776ef75492af183ffcf0.jpg",
       "actress": [
         "石原莉奈",
         "森林原人",
@@ -247,36 +67,313 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-310"
     },
     {
-      "id": 97563,
-      "IDcode": "IPZ-221",
-      "title": "カテキョ 超エロめちゃカワ家庭教師 石原莉奈",
+      "id": 106790,
+      "IDcode": "JUX-388",
+      "title": "由姐夫安排的绿帽子性行为",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-10-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/1e88ebeace400728fdbf70b239d7ca0f.jpg",
+      "actress": [
+        "石原莉奈",
+        "冴岛かおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-388"
+    },
+    {
+      "id": 105375,
+      "IDcode": "ADN-117",
+      "title": "女教師玩具化計画-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-117"
+    },
+    {
+      "id": 105338,
+      "IDcode": "RBD-725",
+      "title": "美女主播被偷拍的耻辱的身体-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-725"
+    },
+    {
+      "id": 105192,
+      "IDcode": "ATID-282",
+      "title": "把石原莉奈监禁起来凌辱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-282"
+    },
+    {
+      "id": 101721,
+      "IDcode": "RBD-780",
+      "title": "楚楚可怜的小护士-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原莉奈",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-780"
+    },
+    {
+      "id": 101556,
+      "IDcode": "SHKD-541",
+      "title": "看到学生被霸凌-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-541"
+    },
+    {
+      "id": 101546,
+      "IDcode": "RBD-704",
+      "title": "新人美女护士-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68defe21631cc64eb5942e16/cover.jpg",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-704"
+    },
+    {
+      "id": 99814,
+      "IDcode": "ADN-092",
+      "title": "耻辱之馆-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原莉奈",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-092"
+    },
+    {
+      "id": 97612,
+      "IDcode": "ADN-093",
+      "title": "被店长侵犯的未婚妻-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6784dab4c179ffb1db8527a8/cover.jpg",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-093"
+    },
+    {
+      "id": 97563,
+      "IDcode": "IPZ-221",
+      "title": "通过性爱帮学生舒压的美女家庭教师",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/5fcc04dd84844e1ab58f9c9e4740e32f.jpg",
       "actress": [
         "石原莉奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-221"
     },
     {
-      "id": 77632,
-      "IDcode": "IPZ-089",
-      "title": "歡迎來到世界最高級的泡泡浴 石原莉奈",
+      "id": 97498,
+      "IDcode": "SHKD-595",
+      "title": "美女柜台接待小姐石原莉奈被持续侵犯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-04-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "石原莉奈"
       ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-595"
+    },
+    {
+      "id": 88479,
+      "IDcode": "SSPD-124",
+      "title": "网球部奴隶合宿-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "阿部乃美久",
+        "石原莉奈",
+        "凉川绚音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-124"
+    },
+    {
+      "id": 88453,
+      "IDcode": "RBD-598",
+      "title": "妄想恋愛-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/37f7a20dff333d09a8bb1de7e20aea77.jpg",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-598"
+    },
+    {
+      "id": 77645,
+      "IDcode": "RBD-800",
+      "title": "被调教成服侍肉棒的风俗女-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-800"
+    },
+    {
+      "id": 77632,
+      "IDcode": "IPZ-089",
+      "title": "欢迎来到世界最高级的泡泡浴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/ae5ed32f9f36442796caa06c1da9064d.jpg",
+      "actress": [
+        "石原莉奈"
+      ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-089"
+    },
+    {
+      "id": 74995,
+      "IDcode": "AVOP-227",
+      "title": "温柔的大姐姐-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-227"
+    },
+    {
+      "id": 73819,
+      "IDcode": "ADN-046",
+      "title": "被我丈夫的表弟压住了-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d875a73b18b51289f99084fc04ba9063.jpg",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-046"
+    },
+    {
+      "id": 19573,
+      "IDcode": "SHKD-546",
+      "title": "禁忌の欲情-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230408/b0a3073c-a71d-42be-a94f-a9c5463190b6.jpg",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-546"
+    },
+    {
+      "id": 19538,
+      "IDcode": "RBD-690",
+      "title": "痴汉电影院-石原莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240309-1/ce034992b66c4176422dae8f3e5f7b0d.jpg",
+      "actress": [
+        "石原莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-690"
     }
   ]
 };

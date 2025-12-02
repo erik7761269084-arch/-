@@ -4,7 +4,7 @@ window.actressData = {
   "name": "沖本さとみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 3886,
       "IDcode": "JUTA-176",
-      "title": "極上！！三十路誘惑人妻初脫AV紀錄片 ~ 有岡みう",
+      "title": "三十多岁主妇的首部脱衣AV纪录片-沖本さとみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女JAPAN",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101306191191_74755_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/3a43c17e587210f88acf5d389dd483e4.jpg",
       "actress": [
         "有岡みう",
         "沖本さとみ"

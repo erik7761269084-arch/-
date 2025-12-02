@@ -38,14 +38,14 @@ window.actressData = {
     {
       "id": 9633,
       "IDcode": "SDNM-496",
-      "title": "優等家庭的幸福人妻 32歲 最終章 在超市，在自己家，在當地的情人酒店...人妻在生活圈5km範圍內偷情,沉溺於危險而又刺激的性愛中的不倫密會 ~ 早瀨文乃",
+      "title": "優しい家族に包まれて愛を育む幸せ奥さん 早瀬文乃 32歳 最終章 スーパー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241224/9fb702a7-34b8-4e0d-9c82-6bd87c2aaa4a.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b22408fbe7fd63de7f8c8f/cover.jpg",
       "actress": [
         "早瀬文乃"
       ],

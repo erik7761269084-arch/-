@@ -37,82 +37,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250304/48073bb0-ffac-40ff-907e-54d56a86e7ef.jpg",
     "https://picture.yoshiclub.xyz/20250304/83cc08e5-2f66-47b3-abc5-14689681090d.jpg"
   ],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2888,
-      "IDcode": "START-392",
-      "title": "晨跑辣妹、按摩小姐、OL白領、性感護士 一宮瑠衣的美腳誘惑4本番 ~ 一宮瑠衣",
+      "id": 7780,
+      "IDcode": "START-277",
+      "title": "学生時代は可愛過ぎて他校の生徒にも顔が知られた地元静岡のアイドル的存在 初めての撮影で生まれて初めてイッちゃった！ 一宮るい AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250908/20250908211305805805_21752_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250304/20250304022206690690.jpg",
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-392"
-    },
-    {
-      "id": 3645,
-      "IDcode": "START-366",
-      "title": "體液溼透狂扭極致身軀 汗水潮吹口水全都要的過激SEX 5本番 ~ 一宮瑠衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-08-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212617161161_84545_thumbnail.webp",
-      "actress": [
-        "一宮瑠衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-366"
-    },
-    {
-      "id": 4599,
-      "IDcode": "START-347",
-      "title": "東京夢幻約會 兩人獨處無止境潮吹瘋狂SEX ~ 一宮瑠衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707202937582582_69591_thumbnail.webp",
-      "actress": [
-        "一宮瑠衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-347"
-    },
-    {
-      "id": 6184,
-      "IDcode": "START-317",
-      "title": "想要更多高潮快感 連續絶頂性愛 ~ 一宮瑠衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512091837535535_thumbnail.webp",
-      "actress": [
-        "一宮瑠衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-277"
     },
     {
       "id": 6970,
       "IDcode": "START-294",
-      "title": "自慰玩具、3P、巨根、連續潮吹全部初解禁！纖細身體猛烈仰反的真爽性愛4連戰 ~ 一宮瑠衣",
+      "title": "玩具も3Pも巨根も連続潮吹きも全部初めて！華奢な体がギュンギュン仰け反る本当に気持ち良いセックス4本番 一宮るい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-08",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250408/4224db22-c78e-454e-8896-64161e324051.jpg",
       "actress": [
         "一宮瑠衣"
@@ -120,20 +72,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-294"
     },
     {
-      "id": 7780,
-      "IDcode": "START-277",
-      "title": "新人出道！學生時代就以長得可愛而聞名，是靜岡地區的偶像存在。第一次拍攝時，她還是有生以來第一次！首次亮相 AV DEBUT ~ 一宮瑠衣",
+      "id": 6184,
+      "IDcode": "START-317",
+      "title": "想更加更加地品尝高潮的感觉-一宫るい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250304/20250304022206690690.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512091837535535_thumbnail.webp",
       "actress": [
         "一宮瑠衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-277"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-317"
+    },
+    {
+      "id": 5434,
+      "IDcode": "START-325",
+      "title": "イっても止まらない突き上げピストンで連続潮吹き モデル級のくびれボディを限界まで捩らせるエビ反り騎乘位 一宮るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609192734773773_thumbnail.webp",
+      "actress": [
+        "一宮瑠衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-325"
+    },
+    {
+      "id": 4599,
+      "IDcode": "START-347",
+      "title": "憧れの東京で2人きりエンドレス潮吹きデート 一宮るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707202937582582_69591_thumbnail.webp",
+      "actress": [
+        "一宮瑠衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-347"
+    },
+    {
+      "id": 3645,
+      "IDcode": "START-366",
+      "title": "体液直流 极上高潮 汗水 潮吹 彻底享受一宫汁的五种情节 一宫留衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212617161161_84545_thumbnail.webp",
+      "actress": [
+        "一宮瑠衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-366"
+    },
+    {
+      "id": 2888,
+      "IDcode": "START-392",
+      "title": "按摩院女郎OL护士一宫留衣的超美腿",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250908/20250908211305805805_21752_thumbnail.webp",
+      "actress": [
+        "一宮瑠衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-392"
     }
   ]
 };

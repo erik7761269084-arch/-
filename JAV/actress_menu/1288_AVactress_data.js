@@ -35,8 +35,40 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230723/dede76b7-6e76-499f-9426-ac700c55e1ae.jpg",
     "https://picture.yoshiclub.xyz/20230723/09a517b4-561c-4f0e-8b96-407d0ad0a9c3.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 1358,
+      "IDcode": "HEYZO-2683",
+      "title": "與苗條美女大玩4P！Vol.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2021-12-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20230722/202307222128329393.jpg",
+      "actress": [
+        "山岸詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2683"
+    },
+    {
+      "id": 1347,
+      "IDcode": "HEYZO-2651",
+      "title": "操你那骯髒的新婚妻子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2021-11-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729003241821821.jpg",
+      "actress": [
+        "山岸詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2651"
+    },
     {
       "id": 75639,
       "IDcode": "MDTM-590",
@@ -44,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/8863bc4b168ee4151f34eb8ed9a5931a.jpg",
       "actress": [
         "有栖露露",
         "奏自由",
@@ -59,6 +91,22 @@ window.actressData = {
         "さくらはる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-590"
+    },
+    {
+      "id": 1333,
+      "IDcode": "HEYZO-2622",
+      "title": "我最好的異性朋友竟然對我提出了NTR的請求",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/20/67b6e15b4e7d663df484921f/cover.jpg",
+      "actress": [
+        "山岸詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2622"
     }
   ]
 };

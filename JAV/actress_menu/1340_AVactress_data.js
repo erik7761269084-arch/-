@@ -39,25 +39,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623102645510510_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623102645974974_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4839,
-      "IDcode": "SAN-370",
-      "title": "讓人完全把持不住的誘惑！小惡魔幼妻的致命勾引240分鐘 ~ 篠宮友里 保坂えり",
+      "id": 7305,
+      "IDcode": "REAL-901",
+      "title": "被侵犯的美少女：JK着衣強奸BEST 大合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-06-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220959916916_thumbnail.webp",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2025-03-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250323/182cc921-4b6e-4a7d-a6a0-221bc036f832.jpg",
       "actress": [
-        "篠宮友里",
-        "保坂えり",
-        "篠宫ゆり"
+        "美園和花",
+        "天馬唯",
+        "倉本菫",
+        "松本一香",
+        "皆月光",
+        "森日向子",
+        "胡桃櫻花",
+        "姫咲華",
+        "由良佳奈",
+        "一条美緒",
+        "渚光希",
+        "沙月芽衣",
+        "加藤桃香",
+        "逢見梨花",
+        "花柳杏奈",
+        "前乃菜菜",
+        "日泉舞香",
+        "藤田梢",
+        "小栗操",
+        "宫泽千春",
+        "姫野らん",
+        "永瀬ゆい",
+        "葵玲奈",
+        "広瀬みつき",
+        "奏音花音",
+        "大空七海",
+        "河奈亜依",
+        "有坂深雪",
+        "篠宮友里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-370"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-901"
     },
     {
       "id": 5065,
@@ -66,9 +92,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -125,6 +151,24 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
+    },
+    {
+      "id": 4839,
+      "IDcode": "SAN-370",
+      "title": "絶対に射精がガマンできない！男を誘惑する小悪魔幼妻たち240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220959916916_thumbnail.webp",
+      "actress": [
+        "篠宮友里",
+        "保坂えり",
+        "篠宫ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-370"
     }
   ]
 };

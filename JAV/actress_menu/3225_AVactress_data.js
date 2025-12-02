@@ -4,7 +4,7 @@ window.actressData = {
   "name": "仲条さき",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,15 +19,31 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 69277,
+      "IDcode": "CMN-252",
+      "title": "絶望の女潜入捜査官 踏みにじられた麗しの膣穴＆アナル 仲条さき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "CineMagic",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/6719c51ef0ea09c7f74c189ecc95f830.jpg",
+      "actress": [
+        "仲条さき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-252"
+    },
+    {
       "id": 60704,
       "IDcode": "PYM-531",
       "title": "アナタは私専用おちん○ん！ デカ尻ガニ股騎乗位 杭打ちディルドオナニー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-09-15",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "浜辺栞帆",
@@ -41,22 +57,6 @@ window.actressData = {
         "仲条さき"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-531"
-    },
-    {
-      "id": 69277,
-      "IDcode": "CMN-252",
-      "title": "- 絶望の女潜入捜査官 踏みにじられた麗しの膣穴＆アナル 仲条さき - JAV目錄大全javmenu.com",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "CineMagic",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "仲条さき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-252"
     }
   ]
 };

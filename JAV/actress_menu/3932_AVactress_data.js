@@ -4,7 +4,7 @@ window.actressData = {
   "name": "北川りこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-08-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/279f7bc82f06b3c089a04b99e3341ce5.jpg",
@@ -51,7 +51,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-05-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/64c1012b4b0c8011c5a357eb830f0ba3.jpg",
@@ -64,16 +64,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-654"
     },
     {
+      "id": 77338,
+      "IDcode": "MIST-177",
+      "title": "会社の性処理OLになった私の話。セクハラが日常茶飯事でした。北川りこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Mr.Michiru",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/e96253ff507ea760eb71bd3e6007e3ce.jpg",
+      "actress": [
+        "北川りこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-177"
+    },
+    {
       "id": 71168,
       "IDcode": "HUNTA-574",
       "title": "合宿中のママさんバレー部の息抜きはボクのチ○ポだけ！！3 親戚が経営する合宿所の手伝いに行ったらママさんバレー部の一行がやって来た！しかも全員爆乳…！！そんな爆乳揃いの奥さんたちを見てムラムラ…していたのはボクだけじゃなかった！ハードな練習＆禁欲集団…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-04-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d4c9d7e956ab7e1ba9225517b680cd7c.jpg",
       "actress": [
         "河音くるみ",
         "音海里奈",
@@ -86,34 +102,18 @@ window.actressData = {
     {
       "id": 69677,
       "IDcode": "YST-144",
-      "title": "私、脅迫されてます 北川りこ",
+      "title": "我被人威胁了 北川莉子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2018-04-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cf4aa50f94db20f635c30e811da74915.jpg",
       "actress": [
         "北川りこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YST-144"
-    },
-    {
-      "id": 77338,
-      "IDcode": "MIST-177",
-      "title": "会社の性処理OLになった私の話。セクハラが日常茶飯事でした。北川りこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Mr.Michiru",
-      "publish_date": "2017-10-05",
-      "cover_url": "",
-      "actress": [
-        "北川りこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-177"
     }
   ]
 };

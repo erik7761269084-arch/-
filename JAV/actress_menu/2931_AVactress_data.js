@@ -54,20 +54,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1908,
-      "IDcode": "CWPBD-95",
-      "title": "CATWALK POISON 95 豪快潮吹與初生中出!! : 黑川由良",
+      "id": 78815,
+      "IDcode": "SHKD-524",
+      "title": "女子校生監禁凌辱 鬼畜輪姦109 黒川ゆら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2014-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/5cebb357-735e-4500-a05a-4f065abc1933.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-11-07",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/fee2b159e7e5a1004701e6c5af005cbe.jpg",
       "actress": [
         "黒川ゆら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-95"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-524"
     }
   ]
 };

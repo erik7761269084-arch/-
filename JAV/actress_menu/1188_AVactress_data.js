@@ -40,32 +40,50 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 2595,
-      "IDcode": "FOCS-274",
-      "title": "隔壁絕倫G杯正妹的勾引，慾求不滿直播主私訊後被拉進房解放淫亂本色，熱吻歡迎連續中出 ~ 碧波滴",
+      "id": 9964,
+      "IDcode": "EBWH-175",
+      "title": "着用サンプル画像がエロすぎてアクセス数が凄いことになった元保育士の長身スレンダー巨乳水着モデルAVデビュー 碧波しずく",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043348627627_56182_thumbnail.webp",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064937494494.jpg",
+      "actress": [
+        "碧波滴",
+        "鲛岛",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-175"
+    },
+    {
+      "id": 9059,
+      "IDcode": "EBWH-176",
+      "title": "出張先で水着モデルの副業がバレ強●相部屋 大嫌いなオヤジ上司なのにドバドバ潮吹かされた挙句中出しされた長身スリム巨乳社員 碧波しずく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/02/67c36bbe4e7d663df4c1b683/cover.jpg",
       "actress": [
         "碧波滴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-176"
     },
     {
       "id": 4104,
       "IDcode": "MKCK-394",
-      "title": "軟綿綿！極致肉感爆乳貼身挑逗 乳ワイパー21人240分鐘 ~ 宮本留衣 有森涼 有村希 吉根柚莉愛 深月芽衣 水原みその 碧波滴 雨宮響 楪可憐 神坂朋子",
+      "title": "むにゅぅ。 密着おっぱいが最上級の肉感を魅せつける 乳ワイパー21名240分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-07-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040152470470_13582_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e718498bc99dfdd032d81/cover.jpg",
       "actress": [
         "吉根柚莉爱",
         "姫咲華",
@@ -84,38 +102,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-394"
     },
     {
-      "id": 9059,
-      "IDcode": "EBWH-176",
-      "title": "長身巨乳新入社員出差時被迫與變態上司相部屋，盡管她很討厭這個老頭，但還是被強迫潮吹，然後被內射 ~ 碧波滴",
+      "id": 2595,
+      "IDcode": "FOCS-274",
+      "title": "被隔壁的绝伦美女G罩杯诱惑-碧波滴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075022447447.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043348627627_56182_thumbnail.webp",
       "actress": [
         "碧波滴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-176"
-    },
-    {
-      "id": 9964,
-      "IDcode": "EBWH-175",
-      "title": "新人報到！身高165，胸圍90 Gcup，腰圍54：臀位：86 前保育員以高挑泳裝模特的AV出道，樣片形象如此色情，獲得了巨大的瀏覽量 AV DEBUT ~ 碧波滴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064937494494.jpg",
-      "actress": [
-        "碧波滴",
-        "鲛岛",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-175"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-274"
     }
   ]
 };

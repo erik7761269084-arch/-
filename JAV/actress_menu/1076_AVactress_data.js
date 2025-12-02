@@ -35,18 +35,66 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250522/e573a467-c6d7-4705-8f4b-606c4e2490a8_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250522/c96ee23a-2d5f-4742-96d8-862969e2d19a_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 3374,
-      "IDcode": "SONE-828",
-      "title": "極品L杯身材覺醒色欲，聖母般的高雅美女大潮吹，人生初大痙攣解禁 ~ 木村愛心",
+      "id": 5935,
+      "IDcode": "SONE-783",
+      "title": "气质非凡的美貌与神话级L杯真实存在的女神-木村爱心",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-21",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "木村愛心"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-783"
+    },
+    {
+      "id": 5194,
+      "IDcode": "SONE-787",
+      "title": "女神はやはり実在した_神のLカップを性感開発する初体験3本番 木村愛心",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae5366682e2e9281a54aff/cover.jpg",
+      "actress": [
+        "木村愛心"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-787"
+    },
+    {
+      "id": 4315,
+      "IDcode": "SONE-788",
+      "title": "大きくて柔らかくて尊い― 神のおっぱいでシコり尽くす 神話級Lカップ超堪能3時間スペシャル 木村愛心",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f6ae498bc99dfdd151f38/cover.jpg",
+      "actress": [
+        "木村愛心"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-788"
+    },
+    {
+      "id": 3374,
+      "IDcode": "SONE-828",
+      "title": "情欲觉醒宛如圣母般高洁的美女潮吹-木村愛心",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024224198198_53213_thumbnail.webp",
       "actress": [
         "木村愛心"
@@ -54,36 +102,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-828"
     },
     {
-      "id": 5194,
-      "IDcode": "SONE-787",
-      "title": "女神真的存在！L杯神乳性感開發3本番初體驗 ~ 木村愛心",
+      "id": 2635,
+      "IDcode": "SONE-866",
+      "title": "癒しの女神がLカップで甘えさせご奉仕してくれるおっぱい風俗天国 木村愛心",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063528842842_s.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6ef6ddbf24d4ed3075aeb/cover.jpg",
       "actress": [
         "木村愛心"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-787"
-    },
-    {
-      "id": 5935,
-      "IDcode": "SONE-783",
-      "title": "超大型新人出道！絕世美貌與神話級L杯 真實女神降臨 AV DEBUT ~ 木村愛心",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075226546546_s.webp",
-      "actress": [
-        "木村愛心"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-783"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-866"
     }
   ]
 };

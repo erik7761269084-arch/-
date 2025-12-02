@@ -38,19 +38,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250811/6e6c937b-1ba8-4365-9883-3f4ff51718b8_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 3676,
       "IDcode": "MUCH-193",
-      "title": "豐滿爆乳人妻精選集BEST 2 4小時大合輯 ~ 月元綾華 杉原繪裏 石原玲美 黑川雪菜 春日乃亞",
+      "title": "むっちり爆乳ワイフBEST2 4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811001636289289_38704_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/f94706f2/vod.jpg",
       "actress": [
         "杉原えり",
         "月元彩華",
@@ -60,6 +60,35 @@ window.actressData = {
         "神咲纱々"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-193"
+    },
+    {
+      "id": 3521,
+      "IDcode": "JFB-482",
+      "title": "巨乳美女を縛り上げ自由を奪う緊縛調教SEX 14名4時間BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/23/97363ce60877e79cc358d1cfaf1a6dc3.jpg",
+      "actress": [
+        "美園和花",
+        "都月楓",
+        "吉根柚莉爱",
+        "宮西光",
+        "辻井穗乃果",
+        "宝田萌奈美",
+        "吹石玲奈",
+        "菊乃らん",
+        "春菜华",
+        "三原穗香",
+        "優月真裡奈",
+        "月元彩華",
+        "晶エリー",
+        "桑田みのり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-482"
     }
   ]
 };

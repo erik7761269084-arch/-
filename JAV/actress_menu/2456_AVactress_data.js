@@ -62,13 +62,13 @@ window.actressData = {
     {
       "id": 2656,
       "IDcode": "SONE-962",
-      "title": "重量級新人出道！新人NO.1 STYLE 素人還是絕世尤物？AV DEBUT ~ 初美菜乃花",
+      "title": "重量級新人出道新人NO1STYLE素人還是絕世尤物初美菜乃花-初美菜乃花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-18",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "初美菜乃花",

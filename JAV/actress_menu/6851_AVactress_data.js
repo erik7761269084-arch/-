@@ -4,7 +4,7 @@ window.actressData = {
   "name": "秋山静香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 107214,
       "IDcode": "CEAD-071",
-      "title": "僕を溺愛する母 息子の不祥事をカラダで償う偏愛義母の贖罪性交潮吹き6発！ 秋山静香",
+      "title": "溺爱儿子的离婚单亲妈妈-秋山静香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
-      "publish_date": "2015-07-25",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "秋山静香"

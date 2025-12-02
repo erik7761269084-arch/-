@@ -40,7 +40,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250205/d6769bbd-68d9-4a75-8254-493717da6e7b.jpg"
   ],
-  "works_count": 10,
+  "works_count": 11,
   "related_dramas": [
     {
       "id": 82159,
@@ -49,10 +49,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
+      "type": "",
+      "company": "NATURAL HIGH",
       "publish_date": "2020-04-09",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/mY54nFRV/1.jpg",
       "actress": [
         "柊留衣",
         "生野光",
@@ -67,78 +67,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Gain Corporation",
       "publish_date": "2020-01-19",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/bd71af894daeed760d59d998f5830739.jpg",
       "actress": [
         "生野光"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BHG-036"
     },
     {
-      "id": 83191,
-      "IDcode": "OKB-079",
-      "title": "むちむちデカ尻 神ブルマ 生野ひかる ロリ美少女やぽっちゃり娘にピチピチブルマ＆体操着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写！さらに尻コキ、着衣お漏らし放尿やブルマぶっかけ、生中出し等ブルマ好きに送る完全着衣フェチAV",
+      "id": 88245,
+      "IDcode": "JUFE-042",
+      "title": "18歳 天然Hcup素人 青森から上京したての純粋な爆乳女子大生AVデビュー 生野ひかる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-01-09",
-      "cover_url": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ecb0db895dc7bb62ddd84ca45c2a54d1.jpg",
       "actress": [
-        "生野光"
+        "生野光",
+        "鲛岛",
+        "しみけん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-079"
-    },
-    {
-      "id": 73069,
-      "IDcode": "VEC-396",
-      "title": "母の親友 生野ひかる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
-      "actress": [
-        "生野光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-396"
-    },
-    {
-      "id": 75399,
-      "IDcode": "KNAM-010",
-      "title": "完ナマSTYLE@ひかる ＃Hカップ ＃女子大生 ＃初めての生円光 ＃超絶キツマン ＃大量中出し 生野ひかる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2019-12-27",
-      "cover_url": "",
-      "actress": [
-        "生野光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-010"
-    },
-    {
-      "id": 77947,
-      "IDcode": "URLH-012",
-      "title": "おっぱいで超誘惑してくる新人セクキャバ嬢 生野ひかる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241120-1/46a84e155ea3a1e0cdc1100c02f58c9f.jpg",
-      "actress": [
-        "生野光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URLH-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-042"
     },
     {
       "id": 83825,
@@ -147,26 +101,90 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221231-1/87e16ae576f9d6f6699b4f6737d14bfe.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678765a25d57b64bfde2361b/cover.jpg",
       "actress": [
         "生野光"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-015"
     },
     {
-      "id": 71800,
-      "IDcode": "CLUB-588",
-      "title": "巨乳水着ギャルばかりを狙う海の家ナンパエステ17",
+      "id": 83191,
+      "IDcode": "OKB-079",
+      "title": "むちむちデカ尻 神ブルマ 生野ひかる ロリ美少女やぽっちゃり娘にピチピチブルマ＆体操着を着せ、ハミパン、ムレムレワレメを毛穴まで見えるほどの超ドアップ接写！さらに尻コキ、着衣お漏らし放尿やブルマぶっかけ、生中出し等ブルマ好きに送る完全着衣フェチAV",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "変態紳士倶楽部",
-      "publish_date": "2019-12-01",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "生野光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKB-079"
+    },
+    {
+      "id": 77947,
+      "IDcode": "URLH-012",
+      "title": "超诱惑H乳风俗娘的侍奉服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5187c1f0c856fbf7160c48a9194d6238.jpg",
+      "actress": [
+        "生野光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URLH-012"
+    },
+    {
+      "id": 75399,
+      "IDcode": "KNAM-010",
+      "title": "完ナマSTYLE@ひかる ＃Hカップ ＃女子大生 ＃初めての生円光 ＃超絶キツマン ＃大量中出し 生野ひかる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/880109bc5b8f8d41f539b7501bf3f97a.jpg",
+      "actress": [
+        "生野光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-010"
+    },
+    {
+      "id": 73069,
+      "IDcode": "VEC-396",
+      "title": "母の親友生野ひかる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f6fe1a04877bf071690bd228d027453e.jpg",
+      "actress": [
+        "生野光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-396"
+    },
+    {
+      "id": 71800,
+      "IDcode": "CLUB-588",
+      "title": "因为免费体验按摩前来的泳装辣妹们被技师爆操内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "変態紳士倶楽部",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a95feafc2e315c5d4b8b61b36af3c164.jpg",
       "actress": [
         "辻井穗乃果",
         "富井美帆",
@@ -184,32 +202,35 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2019-05-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6da1fbce797349a4224da9c343eac436.jpg",
       "actress": [
         "生野光"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-695"
     },
     {
-      "id": 88245,
-      "IDcode": "JUFE-042",
-      "title": "18歳 天然Hcup素人 青森から上京したての純粋な爆乳女子大生AVデビュー 生野ひかる",
+      "id": 8530,
+      "IDcode": "HDKA-317",
+      "title": "全裸家政婦總集編6人4小時 Vol.8 ~ 莉莉遙香 春風光 根尾朱裏 美園和花 奏音花音 生野光",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2019-05-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230915-1/8c8ce0753637fba9e93e44193f627552.jpg",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa2a7bd7791f927305f718/cover.jpg",
       "actress": [
-        "生野光",
-        "鲛岛",
-        "しみけん"
+        "美園和花",
+        "莉莉遙香",
+        "根尾朱里",
+        "奏音花音",
+        "春風光",
+        "生野光"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-317"
     }
   ]
 };

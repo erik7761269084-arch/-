@@ -4,7 +4,7 @@ window.actressData = {
   "name": "水川えみる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,43 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 99660,
+      "IDcode": "DNW-025",
+      "title": "彼女が制服に着替えたら。5",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-03-15",
+      "cover_url": "",
+      "actress": [
+        "亜矢みつき",
+        "三田杏",
+        "水川えみる",
+        "矢野乃々华"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-025"
+    },
+    {
+      "id": 98886,
+      "IDcode": "MUDR-045",
+      "title": "制服美少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-11/c421d0210fdfd3fce7248ab795f962fa.jpg",
+      "actress": [
+        "水川えみる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-045"
+    },
     {
       "id": 77267,
       "IDcode": "MUDR-068",
@@ -25,10 +60,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2019-02-13",
-      "cover_url": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/93d5339b4996cf4ffcaa218a71386048.jpg",
       "actress": [
         "水川えみる"
       ],
@@ -41,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2018-12-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/ac81835640a29dd634709a575e37dcb0.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/27f5249a10f15fad1dda04e052d71722.jpg",
       "actress": [
         "乙愛麗絲",
         "迹美珠里",
@@ -58,22 +93,6 @@ window.actressData = {
         "水川えみる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-183"
-    },
-    {
-      "id": 98886,
-      "IDcode": "MUDR-045",
-      "title": "透明感抜群！ 脱いだらすごい！ 完璧ボディの制服美少女 無垢専属 超大量 生中出しデビュー 水川えみる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2018-08-13",
-      "cover_url": "",
-      "actress": [
-        "水川えみる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-045"
     }
   ]
 };

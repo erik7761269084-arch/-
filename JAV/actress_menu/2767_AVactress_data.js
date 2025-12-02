@@ -62,10 +62,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OLYMPUS",
+      "type": "",
+      "company": "",
       "publish_date": "2024-05-28",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241016-1/d1d7e28e294f009b22cd1d5cdff16ec5.jpg",
       "actress": [
         "内村里菜",
         "北川美雪"

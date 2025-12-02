@@ -52,20 +52,26 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1960,
-      "IDcode": "SMBD-15",
-      "title": "S Model 15 超級名模系列第15號 無邪氣的小惡魔美少女初解禁 ~ 直嶋愛",
+      "id": 98384,
+      "IDcode": "FSET-297",
+      "title": "女性専用洗体エステサロン ～女の体で女を洗うナチュラルBODYマッサージ～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2010-09-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/be698bd5-b263-48ac-a510-c1b17bd0730c.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2011-02-19",
+      "cover_url": "http://15.155250922.com/upload/vod/20220928/1fset00297pl.jpg",
       "actress": [
-        "直嶋爱"
+        "羽月希",
+        "星崎アンリ",
+        "直嶋爱",
+        "朝仓ことみ",
+        "小西レナ",
+        "进藤みく",
+        "橘美穂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-15"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-297"
     }
   ]
 };

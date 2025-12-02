@@ -28,19 +28,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231203/10680462-5749-456c-9f97-f79af4425eb4.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 16962,
-      "IDcode": "CAWD-610",
-      "title": "野阪志保裏. [官方] 2024年1月2日正式出道 人生第一次衝動，全力以赴。",
+      "id": 17461,
+      "IDcode": "CAWD-609",
+      "title": "新人出道 居住於宮城県仙台市青葉區的21歲大學生野坂しほり 首次亮相 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240102/202401020442586565.jpg",
+      "publish_date": "2023-12-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20231203/9f6ec7f9-116a-4adb-ab99-ef11504a2c33.jpg",
+      "actress": [
+        "野坂志保里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-609"
+    },
+    {
+      "id": 16962,
+      "IDcode": "CAWD-610",
+      "title": "人生第一次冲动-野坂诗织",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "野坂志保里"
       ],

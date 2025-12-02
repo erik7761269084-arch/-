@@ -33,26 +33,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/06566976-1376-43db-8dc0-c843cb7d8496.jpg",
     "https://picture.yoshiclub.xyz/20230210/361922f4-c2d1-4e66-aa36-a00e306c0c66.jpg"
   ],
-  "works_count": 3,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1530,
-      "IDcode": "SKYHD-112",
-      "title": "天空天使藍 Vol.111 ：藤北綾香、春本尤奈、舞花、宮山葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2014-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20230506/5a7fde1c-7a3a-4061-baa6-d90f0e5621e2.webp",
-      "actress": [
-        "宮間葵",
-        "藤北彩香",
-        "春本優菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-112"
-    },
     {
       "id": 106677,
       "IDcode": "KM-008",
@@ -60,33 +42,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2014-02-15",
-      "cover_url": "https://tutu1.space/images/2023/10/30/56a30e5a1a34c6670e241fbf2c3c5c0b.jpg",
+      "cover_url": "",
       "actress": [
         "宮間葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KM-008"
-    },
-    {
-      "id": 1899,
-      "IDcode": "SKYHD-109",
-      "title": "天空天使藍 Vol.108 ：藤北綾香、舞香、宮山葵、春本由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-08-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/fcaab6c4-c430-4850-a35e-42ad97e678c5.webp",
-      "actress": [
-        "宮間葵",
-        "Maika（MEW）",
-        "藤北彩香",
-        "春本優菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-109"
     }
   ]
 };

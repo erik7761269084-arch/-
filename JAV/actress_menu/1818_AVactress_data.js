@@ -34,34 +34,16 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 3182,
-      "IDcode": "RBK-118",
-      "title": "Bulbs犯罪集團 第一章 輪⬤絕色麗人 肛交雙空同入 ~ 神納花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032606982982_57875_thumbnail.webp",
-      "actress": [
-        "神納花",
-        "兎美かれん",
-        "管野静香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-118"
-    },
-    {
       "id": 60610,
       "IDcode": "CMF-089",
       "title": "おんな犬 完全M奴酷虐契約書 兎美かれん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "CineMagic",
-      "publish_date": "2025-08-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20251012/vraMWvpo/1.jpg",
       "actress": [
         "兎美かれん"
       ],
@@ -70,18 +52,36 @@ window.actressData = {
     {
       "id": 6105,
       "IDcode": "MFYD-018",
-      "title": "新人出道！原人妻藝人被變態制作人調教覺醒抖M屬性硬核出道 AV DEBUT ~ 兎美かれん",
+      "title": "一位前名人妻子因与某虐待狂电视制片人的性恩惠而唤醒-兎美かれん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-05-16",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515043940886886_thumbnail.webp",
       "actress": [
         "兎美かれん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-018"
+    },
+    {
+      "id": 3182,
+      "IDcode": "RBK-118",
+      "title": "アマリリス 第一章 犯●れた麗女の肛門",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032606982982_57875_thumbnail.webp",
+      "actress": [
+        "神納花",
+        "兎美かれん",
+        "管野静香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-118"
     }
   ]
 };

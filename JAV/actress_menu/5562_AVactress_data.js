@@ -33,10 +33,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-22",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240828/A68krqbO/1.jpg",
       "actress": [
         "愛名光莉",
         "乙都咲乃",

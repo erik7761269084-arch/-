@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ダガー",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2023-06-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240401-1/fa8b34e99ca88a31b3b43048edfcfa79.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/303641836a65d3a381f99d7d5bcee996.jpg",
       "actress": [
         "仲野梢",
         "ダガー"

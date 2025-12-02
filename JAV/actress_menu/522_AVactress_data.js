@@ -49,7 +49,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250314/dc33f537-0cd4-4cbb-bf1f-309732eb9a33.jpg",
     "https://picture.yoshiclub.xyz/20250314/1ebfe385-ef8b-4d07-aac8-8c64f7f1b034.jpg"
   ],
-  "works_count": 9,
+  "works_count": 15,
   "related_dramas": [
     {
       "id": 59916,
@@ -58,42 +58,123 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-09-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20251005/cdfACho3/1.jpg",
       "actress": [
         "夕木小彩"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-386"
     },
     {
-      "id": 2968,
-      "IDcode": "DASS-719",
-      "title": "147cm的小只馬田徑部女子大生被大屌們輪⬤！淪爲肉便器後的變態墮落！彌漫着愛液味的強制中出合宿 ~ 夕木小彩",
+      "id": 7521,
+      "IDcode": "MIDA-058",
+      "title": "Love＆Color 新人 Gcup現役女子大生 専属 夕木こいろ AV Debut！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045531989989_51891_thumbnail.webp",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083023689689.jpg",
+      "actress": [
+        "夕木小彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-058"
+    },
+    {
+      "id": 6877,
+      "IDcode": "MIDA-132",
+      "title": "ぜーんぶ初体験！！セックス開発 3本番Special！！ 夕木こいろ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d08fa952c12b4e681038b9/cover.jpg",
+      "actress": [
+        "夕木小彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-132"
+    },
+    {
+      "id": 6132,
+      "IDcode": "MIDA-169",
+      "title": "想要被深深亲吻-夕木こいろ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042708581581_thumbnail.webp",
+      "actress": [
+        "夕木小彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-169"
+    },
+    {
+      "id": 5380,
+      "IDcode": "MIDA-203",
+      "title": "部长为了节省经费安排了同房被年轻下属诱惑到崩溃-夕木こいろ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612063353920920_thumbnail.webp",
+      "actress": [
+        "夕木小彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-203"
+    },
+    {
+      "id": 4540,
+      "IDcode": "MIDA-243",
+      "title": "被侵犯的G罩杯新任女教师成为心怀怨恨的性欲旺盛学生们-夕木こいろ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100401485555_56209_thumbnail.webp",
       "actress": [
         "夕木小彩",
-        "太刀茜祢"
+        "ラヴズ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-243"
+    },
+    {
+      "id": 4134,
+      "IDcode": "OFES-018",
+      "title": "千●県船●市偏差値38女子校に通うおっぱい発育過剰J●塩対応マスク女子（SNSでパパ活始めたて）2人の中出しSEX映像公開",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688acae698bc99dfddd17401/cover.jpg",
+      "actress": [
+        "羽月乃蒼",
+        "夕木小彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-018"
     },
     {
       "id": 3614,
       "IDcode": "PPPE-363",
-      "title": "乳交不算偷吃吧 被閨蜜誘惑每天被她用胸榨乾 ~ 夕木小彩",
+      "title": "经不住诱惑每天被女友闺蜜用乳房和小穴-夕木こいろ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OPPAI",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040313670670_40345_thumbnail.webp",
       "actress": [
         "夕木小彩"
@@ -103,13 +184,13 @@ window.actressData = {
     {
       "id": 3564,
       "IDcode": "MFYD-035",
-      "title": "回老家撞見前女友變成離婚浪女單親媽，兩天一夜狂幹十發 ~ 夕木小彩",
+      "title": "回乡下后发现前女友变成离婚一次的砲友兼单亲妈妈-夕木小彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034808448448_48533_thumbnail.webp",
       "actress": [
         "夕木小彩",
@@ -120,14 +201,14 @@ window.actressData = {
     {
       "id": 3535,
       "IDcode": "HMN-730",
-      "title": "便利店套套庫存都要被榨幹了！性欲爆棚的巨乳兼職學生妹瘋狂勾引，已婚店長忍不住了，套套用光都不夠，直接在後倉搞起無套中出NTR ~ 夕木小彩",
+      "title": "直到我用完便利店的避孕套库存-夕木こいろ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040424193193_71506_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/29/983b4b1b/vod.jpg",
       "actress": [
         "夕木小彩",
         "真琴"
@@ -135,69 +216,85 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-730"
     },
     {
-      "id": 4540,
-      "IDcode": "MIDA-243",
-      "title": "G杯新任女教師遭侵犯 逆恨絕倫學生們的性慾發洩對象 ~ 夕木小彩",
+      "id": 3174,
+      "IDcode": "NPJS-215",
+      "title": "T●KT●Kでちょいバズりした野球部女子はオホ声抑えきれない性欲モンスターでした ＃野球女子 ＃内 野手兼投手 ＃第26回全国●校女子野球硬式大会出場",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100401485555_56209_thumbnail.webp",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032703413413_80795_thumbnail.webp",
+      "actress": [
+        "夕木小彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-215"
+    },
+    {
+      "id": 2968,
+      "IDcode": "DASS-719",
+      "title": "项目是短跑360度巨根轮奸147cm田径部女大学生-夕木小彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045531989989_51891_thumbnail.webp",
       "actress": [
         "夕木小彩",
-        "ラヴズ"
+        "太刀茜祢"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-243"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-719"
     },
     {
-      "id": 5380,
-      "IDcode": "MIDA-203",
-      "title": "部長，為了省經費我訂了同房啦！被小惡魔下屬勾引到崩潰，出差旅館被榨乾了 ~ 夕木小彩",
+      "id": 2855,
+      "IDcode": "APAK-311",
+      "title": "G罩杯147公分的肉感少女中出痉攣高潮蜜穴不停颤抖-夕木こいろ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612063353920920_thumbnail.webp",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906220205940940_69286_thumbnail.webp",
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-311"
     },
     {
-      "id": 6132,
-      "IDcode": "MIDA-169",
-      "title": "想要你狠狠親我 唾液狂纏舌吻的粘着性愛 ~ 夕木小彩",
+      "id": 2413,
+      "IDcode": "KNAM-080",
+      "title": "完ナマSTYLE@こいろ オフパコ中出し浮気 ネトゲで知り合った男と1対1の密室オフ会で媚薬を盛られハメられながら彼氏に電話。 夕木こいろ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042708581581_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-080"
     },
     {
-      "id": 6877,
-      "IDcode": "MIDA-132",
-      "title": "全部初體驗！性感開發三本番超刺激特訓 ~ 夕木小彩",
+      "id": 2323,
+      "IDcode": "FOCS-276",
+      "title": "G罩杯巨乳收集癖的丧女尼特义妹-夕木小彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250412/202504120040059696.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "夕木小彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-132"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-276"
     }
   ]
 };

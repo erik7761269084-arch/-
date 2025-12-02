@@ -48,26 +48,46 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250618/e2d6e6c1-55f2-4aa1-bd50-565d549f5fc0_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250618/efafa528-45a0-44ce-8187-914696360f6e_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 60849,
-      "IDcode": "KTRA-740",
-      "title": "じみ～な陰キャに中出し！！ 4時間",
+      "id": 4633,
+      "IDcode": "KTRA-727",
+      "title": "妹妹小穴被灌滿！兄妹中出激戰精選2 4小時 ~ 桐谷奈緒 優梨舞奈 富田優衣 星咲凜 如月真白",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K-Tribe",
-      "publish_date": "2025-09-09",
-      "cover_url": "",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/202507070334438686_15072_thumbnail.webp",
       "actress": [
-        "日泉舞香",
+        "優梨舞奈",
+        "富田优衣",
         "如月真白",
-        "加贺美さら",
-        "藤森朱音"
+        "星咲凛",
+        "桐谷奈緒"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-740"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-727"
+    },
+    {
+      "id": 5216,
+      "IDcode": "KTRA-721",
+      "title": "平胸小妹的誘惑：可愛貧乳妹妹的4小時狂歡 ~ 森日向子 渚光希 工藤拉拉 如月真白 ~ 森日向子 渚光希 工藤拉拉 如月真白",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618214322517517_thumbnail.webp",
+      "actress": [
+        "森日向子",
+        "渚光希",
+        "工藤拉拉",
+        "如月真白"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-721"
     },
     {
       "id": 86663,
@@ -76,10 +96,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2021-05-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/d929cebcb6f93534bcabdb74cfa07442.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9b0edfdb68e2ac196793c1fd40753bdf.jpg",
       "actress": [
         "如月真白"
       ],
@@ -92,10 +112,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "CineMagic",
-      "publish_date": "2020-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/c9495e6f3ca42c07c9266d86b449ad42.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/731cf188380f8aab7ce580673c946388.jpg",
       "actress": [
         "二宮和香",
         "星空萌愛",
@@ -107,6 +127,51 @@ window.actressData = {
         "青山のあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMV-140"
+    },
+    {
+      "id": 60849,
+      "IDcode": "KTRA-740",
+      "title": "じみ～な陰キャに中出し！！ 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "日泉舞香",
+        "如月真白",
+        "加贺美さら",
+        "藤森朱音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-740"
+    },
+    {
+      "id": 3263,
+      "IDcode": "UMSO-607",
+      "title": "セーラー美少女BEST11人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d308e2d6fbef4e90c10d5f/cover.jpg",
+      "actress": [
+        "渚光希",
+        "中城葵",
+        "南梨央奈",
+        "迹美珠里",
+        "八尋麻衣",
+        "早美怜夢",
+        "如月真白",
+        "友利ほのか",
+        "桃尻かのん",
+        "平花",
+        "山井鈴香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-607"
     }
   ]
 };

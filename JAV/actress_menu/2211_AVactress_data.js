@@ -39,8 +39,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230427/f1644d3c-6027-40a5-b2e7-1ab6e9e70b87.jpg",
     "https://picture.yoshiclub.xyz/20230427/bceac916-4b84-4db2-890a-e2859939b432.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 39516,
+      "IDcode": "110623-01",
+      "title": "秘蔵マンコセレクション 〜しほのおまんこ見てください〜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-11-06",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20250914-1/d29c96464c3a0399de39cda55c84b797.jpg",
+      "actress": [
+        "佐藤玲緒奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=110623-01"
+    },
     {
       "id": 1600,
       "IDcode": "HEYZO-2936",
@@ -48,7 +64,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2022-11-11",
       "cover_url": "https://picture.yoshiclub.xyz/20230410/20230410035045275275.",

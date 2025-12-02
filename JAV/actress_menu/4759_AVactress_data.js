@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2017-01-13",
-      "cover_url": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dd343679775df1273e3d0105590fa89b.jpg",
       "actress": [
         "黒崎ひなの"
       ],

@@ -34,50 +34,18 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250103/463578b5-f722-4cc8-ac0c-86974b8726e0.jpg",
     "https://picture.yoshiclub.xyz/20250103/50c61220-f40b-4715-98fc-81360b43a950.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 5708,
-      "IDcode": "CAWD-843",
-      "title": "惡劣寢取按摩被偷拍曝光！某縣某市女學生慘遭鹹豬手 ~ 石原青",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171918309309_thumbnail.webp",
-      "actress": [
-        "石原青"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-843"
-    },
-    {
-      "id": 67474,
-      "IDcode": "CAWD-830",
-      "title": "昨晩未明、帰宅途中の少女（学生）を狙い下半身を触るなど性的暴行を加えた疑いで50代男性（無職）を逮捕。 石原青",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-05-06",
-      "cover_url": "",
-      "actress": [
-        "石原青"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-830"
-    },
     {
       "id": 69634,
       "IDcode": "CAWD-821",
-      "title": "本屋で働く控えめな元カノと朝から晩までダラダラSEXでずっと種付けし続けたあのエクスタシーは一生忘れられない 石原青",
+      "title": "和在书店工作的前女友-石原青",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-04-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "石原青",
@@ -86,33 +54,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-821"
     },
     {
-      "id": 7863,
-      "IDcode": "CAWD-814",
-      "title": "在故鄉小鎮首次無套中出大冒險！家裏『還有』回憶滿滿的情人旅館都被精液灌滿啦 ~ 石原青",
+      "id": 67474,
+      "IDcode": "CAWD-830",
+      "title": "昨晩未明、帰宅途中の少女（学生）を狙い下半身を触るなど性的暴行を加えた疑いで50代男性（無職）を逮捕。 石原青",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/202502270659509090.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250615-1/0fa9ace2259646238bc2692d6a525768.jpg",
       "actress": [
-        "石原青",
-        "鲛岛",
-        "イセドン内村"
+        "石原青"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-814"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-830"
     },
     {
       "id": 9440,
       "IDcode": "CAWD-792",
-      "title": "新人出道！ 20歲的前偶像，現在在家鄉書店打工的普通女孩似乎是離AV女優最遠的清純女大學生，卻擁有對AV很重要的身材和敏感度 首次亮相 AV DEBUT ~ 石原青",
+      "title": "石原青 20歳 AV DEBUT 元アイドル、今は地元で本屋バイトの一般女子 AV女優から最も遠い女子大生はAVにドストライクなカラダと感度の持ち主でした…。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-01-07",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102073758543543.jpg",
       "actress": [
         "石原青",
@@ -121,6 +87,75 @@ window.actressData = {
         "日森一"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-792"
+    },
+    {
+      "id": 8710,
+      "IDcode": "CAWD-813",
+      "title": "AV女優から最も遠い元アイドルと一つ屋根の下で一晩中SEXした。 石原青",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130081034926926.jpg",
+      "actress": [
+        "石原青"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-813"
+    },
+    {
+      "id": 7863,
+      "IDcode": "CAWD-814",
+      "title": "生まれ育ったこの街で初めての生中出し。自分の家で、彼氏との想い出のラブホでゴム無しSEXして私の子宮にたくさん精子入れてもらったよ。 石原青",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c5a3ef4e7d663df4ca7764/cover.jpg",
+      "actress": [
+        "石原青",
+        "鲛岛",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-814"
+    },
+    {
+      "id": 5708,
+      "IDcode": "CAWD-843",
+      "title": "惡劣寢取按摩被偷拍曝光！某縣某市女學生慘遭鹹豬手 ~ 石原青",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171918309309_thumbnail.webp",
+      "actress": [
+        "石原青"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-843"
+    },
+    {
+      "id": 2208,
+      "IDcode": "SVMGM-041",
+      "title": "マジックミラー号ハードボイルド 水着ギャルが挑戦するスパイダー騎乗位チキンレース！1ピストン毎に100円get！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "黒咲華",
+        "櫻木繪里香",
+        "石原青",
+        "水瀬りた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-041"
     }
   ]
 };

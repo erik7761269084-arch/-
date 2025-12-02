@@ -4,7 +4,7 @@ window.actressData = {
   "name": "青山菜々",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2012-02-13",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20240526-1/e1b7851554cdde27e01a898ecd1e9202.jpg",
       "actress": [
         "青山菜々"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 77631,
       "IDcode": "RBD-341",
-      "title": "隣のお姉さんを犯したあの日…8 青山菜々",
+      "title": "侵犯了隔壁深爱的姐姐那天起给她原本就黑暗的人生又笼罩一层迷雾",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2012-02-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250826-1/1bab59d06c3ebae182a0a512e12540ff.jpg",
       "actress": [
         "青山菜々"
       ],

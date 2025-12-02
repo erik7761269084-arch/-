@@ -4,7 +4,7 @@ window.actressData = {
   "name": "海藤みずほ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-07-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250108-1/f823b26562c8b47002ec466c171861ae.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/b63fdab22dea0729238077a5739991b6.jpg",
       "actress": [
         "海藤みずほ"
       ],

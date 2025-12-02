@@ -31,37 +31,67 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250131/0f23ea09-9eae-4b95-9264-68f08051b692.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 2433,
-      "IDcode": "HRSM-114",
-      "title": "沙灘停車場偷窺比基尼辣妹換衣，無防備被直接侵犯強⬤中出 ~ 桃咲乃亞 小那海綾 綾波蓮 五芭",
+      "id": 69313,
+      "IDcode": "CAD-032",
+      "title": "シン・制服カメラ 綾波れん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡漢廠",
-      "publish_date": "2025-09-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250926/20250926035322524524_17577_thumbnail.webp",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba6c8b489841641837de2a/cover.jpg",
       "actress": [
-        "小那海綾",
-        "五芭",
-        "桃咲乃亞",
         "綾波蓮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-114"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAD-032"
+    },
+    {
+      "id": 8713,
+      "IDcode": "MIFD-575",
+      "title": "令和の新ギャルスター爆誕！！クラブとチ〇コがLOVE過ぎる博多No1小悪魔ギャル クラブで逆ナン→ノリでAVデビュー 綾波れん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec269952c12b4e6846f42b/cover.jpg",
+      "actress": [
+        "綾波蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-575"
+    },
+    {
+      "id": 2788,
+      "IDcode": "BLK-665",
+      "title": "肉食W教師GAL！！ ヤリマンぎゃる先生の潮吹き！中出し！精子キス！ やりたいホーダイな大乱交中出しSP！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/202509110207595858_11592_thumbnail.webp",
+      "actress": [
+        "逢澤美優",
+        "綾波蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-665"
     },
     {
       "id": 2680,
       "IDcode": "SDMM-209",
-      "title": "這個夏天在海灘出道！新人救生員限定性騷擾的講習 ~ 川上しずく 依本詩織 綾波蓮 及川莉央",
+      "title": "この夏っ！！！御宿のBeachでデビューするかも！？新人ライフセーバー限定海難救助セクハラ講習 夏休み前にどうしても資格が欲しい女子大生は多少Hな講習でも受け入れる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220106447447_17271_thumbnail.webp",
       "actress": [
         "依本詩織",
@@ -72,36 +102,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
     },
     {
-      "id": 8713,
-      "IDcode": "MIFD-575",
-      "title": "新人出道！全新令和辣妹爆誕！ ！博多第一大夜店小惡魔娘 ～ 夜店逆襲搭訕 → AV 出道 ~ 綾波蓮",
+      "id": 2433,
+      "IDcode": "HRSM-114",
+      "title": "狙われたビキニ美女…海の駐車場で生着替えする無防備な姿を覗かれ水着姿のまま奪われる身体…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130081123572572.jpg",
-      "actress": [
-        "綾波蓮"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-575"
-    },
-    {
-      "id": 69313,
-      "IDcode": "CAD-032",
-      "title": "- 【FANZA限定】シン・制服カメラ 綾波れん パンティと生写真付き - JAV目錄大全javmenu.com",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
+      "type": "",
+      "company": "癡漢廠",
       "publish_date": "",
       "cover_url": "",
       "actress": [
+        "小那海綾",
+        "五芭",
+        "桃咲乃亞",
         "綾波蓮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAD-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-114"
     }
   ]
 };

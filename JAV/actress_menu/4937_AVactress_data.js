@@ -4,7 +4,7 @@ window.actressData = {
   "name": "绀野まこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2015-01-22",
-      "cover_url": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/ef70f8a3fb3811e12b3d54e28d511cf2.jpg",
       "actress": [
         "市来美保",
         "绀野まこ"

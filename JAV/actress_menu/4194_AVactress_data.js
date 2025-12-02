@@ -22,8 +22,24 @@ window.actressData = {
     "Hamasaki Nao"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 103180,
+      "IDcode": "CESD-494",
+      "title": "アナル好き熟女が本気絶頂する本格派尻穴SEX 浜崎なお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-12-13",
+      "cover_url": "",
+      "actress": [
+        "浜崎なお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-494"
+    },
     {
       "id": 71808,
       "IDcode": "FINH-027",
@@ -31,10 +47,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2016-12-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250223-1/c5ba779a27921770b4b7bfd20e78fbf0.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ff22e1fb614bc0bd77af8a6da2d1f21c.jpg",
       "actress": [
         "浜崎なお"
       ],

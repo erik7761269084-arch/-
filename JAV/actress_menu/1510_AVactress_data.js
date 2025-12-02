@@ -28,24 +28,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-有村千佳.jpg",
     "https://picture.yoshiclub.xyz/20230405/87afc186-154d-479d-9b2b-3fa2131312f8.jpg"
   ],
-  "works_count": 7,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 70633,
-      "IDcode": "SAN-327",
-      "title": "ザーメンを搾り取る小悪魔痴女！ / 有村千佳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-03-18",
-      "cover_url": "",
-      "actress": [
-        "有村千佳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-327"
-    },
     {
       "id": 17548,
       "IDcode": "SAN-195",
@@ -53,7 +37,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
       "cover_url": "https://picture.yoshiclub.xyz/20231128/9782322e-f3f1-4623-9ad2-91b1bb2bd5c1.jpg",
@@ -72,10 +56,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2019-12-27",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230105-1/566cd7ee42b8535e63b3f59b59ba3520.jpg",
       "actress": [
         "美谷朱里",
         "AIKA",
@@ -91,14 +75,14 @@ window.actressData = {
     {
       "id": 97567,
       "IDcode": "IPZ-561",
-      "title": "射精するまで許してくれない インテリ系欲求不満痴女のわいせつW逆痴漢 初音みのり 有村千佳",
+      "title": "受挫的情人-初音みのり 有村千佳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-05-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/0618ce790babec4bc2c0572de179d08a.jpg",
       "actress": [
         "初音實",
         "有村千佳",
@@ -107,32 +91,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-561"
     },
     {
-      "id": 1685,
-      "IDcode": "FMES-037",
-      "title": "無碼流出 47分鐘 有村千佳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "FetishMonster",
-      "publish_date": "2014-01-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230405/202304050523221515.jpg",
-      "actress": [
-        "有村千佳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FMES-037"
-    },
-    {
       "id": 88231,
-      "IDcode": "SW-171",
-      "title": "夢の近親相姦！年頃の姉貴達の無防備パンチラに勃起、気付いた姉貴は家族にバレないようにこっそり僕のチ○ポの面倒みてくれました",
+      "IDcode": "SW-0171",
+      "title": "梦中乱伦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2013-03-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/df508c1182ec7b025f289ac039407b33.jpg",
       "actress": [
         "有村千佳",
         "間宮純",
@@ -141,23 +109,23 @@ window.actressData = {
         "村田ちか",
         "香岛りょう"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-171"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0171"
     },
     {
-      "id": 1544,
-      "IDcode": "HERY-001",
-      "title": "種付女學園…體育教師 有村千佳",
+      "id": 70633,
+      "IDcode": "SAN-327",
+      "title": "ザーメンを搾り取る小悪魔痴女！ 有村千佳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "2011-10-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230405/b0ce7ad9-1e3b-4fe0-a6da-18ce002d98fb.jpg",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "有村千佳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERY-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-327"
     }
   ]
 };

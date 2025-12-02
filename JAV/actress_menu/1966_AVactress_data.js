@@ -42,45 +42,27 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-高岡美鈴.jpg"
   ],
-  "works_count": 16,
+  "works_count": 19,
   "related_dramas": [
     {
-      "id": 90612,
-      "IDcode": "PPBD-263",
-      "title": "「もう壊れちゃうってばぁ！」 下からお構いなしにピストン！イッても追撃をやめない突き上げ乳揺れ騎乗位BEST",
+      "id": 8914,
+      "IDcode": "KTRA-692",
+      "title": "爆乳美少女圖鑑 4小時 ~ 綾瀨心 日和ももか 小此木雛乃 篠崎環奈 原花音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2023-08-15",
-      "cover_url": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250122/0024950c-ca2c-46c9-b3af-579e143ba58c.jpg",
       "actress": [
-        "月野香澄",
-        "堀北実来",
+        "绫濑心",
+        "篠崎環奈",
         "原花音",
-        "安倍亜沙美",
-        "田中瞳",
-        "羽生みずき"
+        "日和ももか",
+        "小此木雛乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-263"
-    },
-    {
-      "id": 89507,
-      "IDcode": "LUXU-1274",
-      "title": "ラグジュTV 1253 男を虜にする小悪魔的巨乳美女が再登場！グラマラスなボディを引き立てるランジェリーに身を包み、オイルで卑猥に光り輝くHカップの巨乳を激しく揺らしながら、久しぶりのセックスの快感に酔いしれる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-04-29",
-      "cover_url": "",
-      "actress": [
-        "原花音",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1274"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-692"
     },
     {
       "id": 81601,
@@ -89,10 +71,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2020-04-10",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/dKc0buwM/1.jpg",
       "actress": [
         "美咲佳奈",
         "奏自由",
@@ -101,21 +83,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-034"
     },
     {
-      "id": 99738,
-      "IDcode": "DOCP-210-",
-      "title": "最高のパパ活。ムッチムチ巨乳美少女2人の極上焦らしご奉仕プレイ",
+      "id": 164495,
+      "IDcode": "DOCP-210",
+      "title": "巨乳姐妹花一起出动",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-20",
-      "cover_url": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e312589def9b1b8c77c5d/cover.jpg",
       "actress": [
         "原花音",
         "结々萌奈実"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-210-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-210"
     },
     {
       "id": 83496,
@@ -124,7 +106,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-20",
       "cover_url": "",
@@ -143,7 +125,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-20",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/1a7d1997bff45f564f9725382e787592.jpg",
@@ -160,34 +142,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-051"
     },
     {
-      "id": 75207,
-      "IDcode": "HJMO-429",
-      "title": "親友対決！固定ディルド腰ふり競争1000回ふらなきゃ帰れまセン！！6",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HAJIME-KIKAKU",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
-      "actress": [
-        "原花音",
-        "天月叶菜",
-        "大原えりか",
-        "山本莲加",
-        "星岛るり",
-        "林爱菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
-    },
-    {
       "id": 83363,
       "IDcode": "KTRA-197",
       "title": "爆乳妹中出し 原花音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K-Tribe",
       "publish_date": "2020-03-10",
       "cover_url": "",
@@ -203,8 +164,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-07",
       "cover_url": "",
       "actress": [
@@ -219,7 +180,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-06",
       "cover_url": "",
@@ -238,8 +199,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "妄想族",
       "publish_date": "2020-03-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/26a83bb118f4f3c762d797b16f89645b.jpg",
       "actress": [
@@ -254,8 +215,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-28",
       "cover_url": "",
       "actress": [
@@ -273,10 +234,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2020-02-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/4ae91bcf77af6910aeb08588ba370e54.jpg",
+      "cover_url": "",
       "actress": [
         "原花音",
         "市川润"
@@ -284,16 +245,70 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-103"
     },
     {
-      "id": 82243,
-      "IDcode": "BF-600",
-      "title": "神乳オイルメイドいいなり中出し旅行 原花音",
+      "id": 530904,
+      "IDcode": "259LUXU-1231",
+      "title": "ラグジュTV 1215 爱らしい笑颜とは里腹に男を狂わす魅",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2020-01-31",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200810/259LUXU-1231.jpg",
+      "actress": [
+        "原花音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1231"
+    },
+    {
+      "id": 157749,
+      "IDcode": "259LUXU-1274",
+      "title": "ラグジュTV 1253 男を虜にする小悪魔的巨乳美女が再登場！グラマラスなボディを",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/b7b9ac04683a9c6d9ce8711f105127e0.jpg",
+      "actress": [
+        "原花音",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1274"
+    },
+    {
+      "id": 90612,
+      "IDcode": "PPBD-263",
+      "title": "「もう壊れちゃうってばぁ！」 下からお構いなしにピストン！イッても追撃をやめない突き上げ乳揺れ騎乗位BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/ab0e977c589f213f258fdc379df1d528.jpg",
+      "actress": [
+        "月野香澄",
+        "堀北実来",
+        "原花音",
+        "安倍亜沙美",
+        "田中瞳",
+        "羽生みずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-263"
+    },
+    {
+      "id": 82243,
+      "IDcode": "BF-600",
+      "title": "神级巨乳油性女仆的中出旅行-原花音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "Baby Entertainment",
-      "publish_date": "2020-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/08514a00be677b12d12a98bf33571f39.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "原花音"
       ],
@@ -302,14 +317,14 @@ window.actressData = {
     {
       "id": 78276,
       "IDcode": "PPPD-808",
-      "title": "美白柔らか超敏感！！おっぱい性感刺激オイルマッサージ 高岡美鈴",
+      "title": "美白柔らか超敏感-高岡美鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2019-11-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/655e991ce91cc71092e4fe22b907bf99.jpg",
       "actress": [
         "原花音"
       ],
@@ -318,14 +333,14 @@ window.actressData = {
     {
       "id": 77006,
       "IDcode": "MIFD-089",
-      "title": "巨乳がコンプレックスな現役女子大生AVデビュー 高岡美鈴",
+      "title": "現役女子大生-高岡美鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2019-11-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/abe700b9057b887b0d5a217d2d5a5aac.jpg",
       "actress": [
         "原花音",
         "鲛岛",
@@ -333,6 +348,46 @@ window.actressData = {
         "玉木玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-089"
+    },
+    {
+      "id": 75207,
+      "IDcode": "HJMO-429",
+      "title": "親友対決！固定ディルド腰ふり競争1000回ふらなきゃ帰れまセン！！6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HAJIME-KIKAKU",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/0206127028d254c5fd566233429fd8e5.jpg",
+      "actress": [
+        "原花音",
+        "天月叶菜",
+        "大原えりか",
+        "山本莲加",
+        "星岛るり",
+        "林爱菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
+    },
+    {
+      "id": 3218,
+      "IDcode": "KTRA-737",
+      "title": "童顔美少女たちのパイパンま○こに中出し2 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/02/68b6cc192ee23a639b1646af/cover.jpg",
+      "actress": [
+        "皆月光",
+        "朝日凜",
+        "迹美珠里",
+        "原花音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-737"
     }
   ]
 };

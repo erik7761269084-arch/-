@@ -4,7 +4,7 @@ window.actressData = {
   "name": "青山このみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 107181,
       "IDcode": "SDMM-139",
-      "title": "マジックミラー号でAVデビュー 童貞くんを筆おろししてくれた心優しい女子大生チアガールの躍動するもっちり美乳・美尻・美パイマンSEXをもう一度見たくて猛烈アタックしたところ徐々に性欲解放してイクSEX撮影に成功しましたよ!青山このみ(20歳/Fカップ)",
+      "title": "通过魔镜号AV出道-青山好",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-07-20",
-      "cover_url": "https://tutu1.space/images/2023/09/17/0b85721c22db595130d377134dd43f96.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/1a228d3d28087299905ccb01bcaeb757.jpg",
       "actress": [
         "青山このみ"
       ],

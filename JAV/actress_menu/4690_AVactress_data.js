@@ -4,7 +4,7 @@ window.actressData = {
   "name": "小日向かずさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2020-05-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241128-1/c0e6082cb380999c438957604e39bee2.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c10efa171b6edc8da5101b12dd53b783.jpg",
       "actress": [
         "玉木玲",
         "小日向かずさ"

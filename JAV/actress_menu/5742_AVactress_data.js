@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桜ゆり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
       "publish_date": "2020-07-13",
-      "cover_url": "",
+      "cover_url": "https://sex8sex8sex8.com/20250312/Xq9Fk3Yh/1.jpg",
       "actress": [
         "しみけん",
         "桜ゆり"

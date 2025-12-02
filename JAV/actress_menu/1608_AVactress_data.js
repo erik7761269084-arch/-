@@ -29,8 +29,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240709/735b5aea-4cce-4057-b470-98804501cdbc.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 12271,
+      "IDcode": "SDNM-483",
+      "title": "和總是微笑着傾聽我說話的人妻慈母一起面對溢出的性欲。 相良明裏 32歲 最終章 生了兩個女兒的大阪媽媽體質敏感 ~ 相良明裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240903/329d3c1d-4c01-4106-8fff-9d1fa65c50c4.jpg",
+      "actress": [
+        "相良明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-483"
+    },
     {
       "id": 13467,
       "IDcode": "SDNM-477",
@@ -38,7 +54,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-08-08",
       "cover_url": "https://picture.yoshiclub.xyz/20240709/6d655ff6-8acf-401b-b44c-ae6ea960995b.jpg",
@@ -54,10 +70,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-08-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678964405d57b64bfd9bcfe0/cover.jpg",
       "actress": [
         "相良明里"
       ],

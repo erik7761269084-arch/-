@@ -28,20 +28,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1975,
-      "IDcode": "CWPBD-158",
-      "title": "CATWALK POISON 158 放課後請準備好迅速插入 : 百木希",
+      "id": 1040,
+      "IDcode": "HEYZO-1454",
+      "title": "放學後美少女檔案第24號～小心翼翼地玩弄天真的少女～ - 百木希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2017-04-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/9f33d2ad-56c3-4a23-b3cc-b3409d0e3859.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-04-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105014729918918.jpg",
       "actress": [
         "百木希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1454"
     }
   ]
 };

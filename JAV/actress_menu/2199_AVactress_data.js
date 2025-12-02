@@ -30,24 +30,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250308/10c5eb7b-da08-4fd5-b21a-8d7b1d64fc39.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
-    {
-      "id": 69919,
-      "IDcode": "LULU-370",
-      "title": "地味だったクラスメイトと同窓会で再会したら僕の為に大切にとっておいたアナルを解禁するほどドスケベデカ尻美人妻になっていたので朝まで生肛門中出しセックスしまくった。 星奈茉奈花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "LUNATICS",
-      "publish_date": "2025-04-01",
-      "cover_url": "",
-      "actress": [
-        "星奈茉奈花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-370"
-    },
     {
       "id": 95207,
       "IDcode": "SORA-573",
@@ -55,16 +39,50 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://tutu1.space/images/2025/09/27/59b2fcfb32e117ac11fb1891c39495ab.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67874469c179ffb1db907b66/cover.jpg",
       "actress": [
         "佐久間楓",
         "星奈茉奈花",
         "加贺美さら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-573"
+    },
+    {
+      "id": 69919,
+      "IDcode": "LULU-370",
+      "title": "地味だったクラスメイトと同窓会で再会したら僕の為に大切にとっておいたアナルを解禁するほどドスケベデカ尻美人妻になっていたので朝まで生肛門中出しセックスしまくった。 星奈茉奈花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "LUNATICS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "星奈茉奈花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-370"
+    },
+    {
+      "id": 7665,
+      "IDcode": "BONY-137",
+      "title": "一人暮らしの美女を狙う鬼畜レ〇プ集団自宅押込み中出し性交 絶叫性奴●編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250308/20250308113650990990.jpg",
+      "actress": [
+        "加賀美さら",
+        "川栄結愛",
+        "星奈茉奈花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-137"
     }
   ]
 };

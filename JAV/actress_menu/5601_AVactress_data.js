@@ -4,7 +4,7 @@ window.actressData = {
   "name": "丸山結愛",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-07-06",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231222/FfNKOcQY/1.jpg",
       "actress": [
         "姫野らん",
         "白石環奈",
@@ -40,13 +40,13 @@ window.actressData = {
     {
       "id": 100594,
       "IDcode": "TPPN-235",
-      "title": "新人デビューH大好き保育士がAVに転身！エプロンの下に隠した美BODY美脚美乳！憧れの3Pと「初」中出し汗だく性交 丸山結愛",
+      "title": "最喜欢做爱的保育士-丸山结爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TEPPAN 鐵板",
-      "publish_date": "2023-04-25",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "丸山結愛"

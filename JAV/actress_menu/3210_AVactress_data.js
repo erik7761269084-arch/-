@@ -24,8 +24,40 @@ window.actressData = {
     "Yuuki Eve"
   ],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 98947,
+      "IDcode": "HERX-006",
+      "title": "爆乳スイマー制服少女狩り File.6女子校生ももか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-11-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/herx006/herx006pl.jpg",
+      "actress": [
+        "仁科百华"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HERX-006"
+    },
+    {
+      "id": 99096,
+      "IDcode": "LABS-41",
+      "title": "体育会系部活少女 テニス部 ももか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-07-27",
+      "cover_url": "",
+      "actress": [
+        "仁科百华"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABS-41"
+    },
     {
       "id": 81412,
       "IDcode": "BTH-024",
@@ -33,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-04-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/be3791bea87de9f87b23c130e961e04e.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f6d0ee46b72f97b09583e04a6f809eda.jpg",
       "actress": [
         "仁科百华"
       ],
@@ -45,14 +77,14 @@ window.actressData = {
     {
       "id": 70401,
       "IDcode": "WSP-152",
-      "title": "早漏チ●ポを玩ばれて、強制的に連続射精させられちゃった僕。BEST",
+      "title": "被玩弄早洩老二并被迫强制连续射精的我！ BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-11-30",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4e3458b774149cd1478e38ee40c31c1d.jpg",
       "actress": [
         "吉泽友贵",
         "高坂ますみ",
@@ -63,37 +95,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-152"
     },
     {
-      "id": 60568,
-      "IDcode": "RBD-331",
-      "title": "寡婦柔肌5仁科百華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2011-12-07",
-      "cover_url": "",
-      "actress": [
-        "仁科百华"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-331"
-    },
-    {
       "id": 67880,
       "IDcode": "RKI-129",
-      "title": "世界で一番大きなチンポを持つ男のSEX 北川瞳 仁科百華",
+      "title": "与拥有世界上最大阴茎的男人做爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROOKIE",
-      "publish_date": "2011-06-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/9806854e2af51212c742765267ad0189.jpg",
       "actress": [
         "仁科百华",
         "北川瞳"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-129"
+    },
+    {
+      "id": 60568,
+      "IDcode": "RBD-331",
+      "title": "美人寡妇-仁科百華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "仁科百华"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-331"
     }
   ]
 };

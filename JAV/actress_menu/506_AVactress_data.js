@@ -45,34 +45,166 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240801/6770b6a4-ffc9-40e8-8c33-3c9696ca1354.jpg",
     "https://picture.yoshiclub.xyz/20240801/d780cf8d-77ce-4953-8010-49b430da2f8a.jpg"
   ],
-  "works_count": 4,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 4550,
-      "IDcode": "ABF-248",
-      "title": "與頂級美人共度春宵 超豪華女優援交俱樂部 ~ 瀬緒凜",
+      "id": 7596,
+      "IDcode": "ABF-210",
+      "title": "廢宅公主也太離譜了！ 無職宅女性欲爆棚 操暴美少女重拾肉棒的快樂 ~ 瀨緒凜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710030829195195_63450_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2025-03-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/9b816729-5440-452b-8287-85db66f90d81.jpg",
       "actress": [
         "瀬緒凛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-248"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-210"
+    },
+    {
+      "id": 9288,
+      "IDcode": "ABF-190",
+      "title": "天然成分由來 120%的淫液 ~ 瀨緒凜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2025-01-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/6cff3917-1793-4f88-9566-f22993418b1a.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-190"
+    },
+    {
+      "id": 12385,
+      "IDcode": "ABF-147",
+      "title": "顏色的美學 25 ~ 瀨緒凜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2024-08-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20240829/3fb2f0c8-ba38-4b1a-9c5d-155e786f58d4.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-147"
+    },
+    {
+      "id": 96724,
+      "IDcode": "GNI-004",
+      "title": "向女播音员独家首次亮相-瀬绪凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-004"
+    },
+    {
+      "id": 13026,
+      "IDcode": "ABF-136",
+      "title": "私人温泉-瀬緒凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/f5422ff14753a3008946e30e2db4d7e9.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-136"
+    },
+    {
+      "id": 11715,
+      "IDcode": "ABF-156",
+      "title": "JK制服的美少女完全主觀的過激性愛 3本番 ~ 瀨緒凜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/312c35473184e5dc956d115d26baf050.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-156"
+    },
+    {
+      "id": 11089,
+      "IDcode": "ABF-167",
+      "title": "体育系运动少女SEX3本番-瀬緒凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/0d3dfea69b3ff3586d20573141dd39a5.jpg",
+      "actress": [
+        "瀬緒凛",
+        "森林原人",
+        "鲛岛",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-167"
+    },
+    {
+      "id": 10344,
+      "IDcode": "ABF-176",
+      "title": "義理の妹が完堕ちするまでぶっ壊された ずぶ濡れ性交 瀬緒凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787cb2c8daf6b1db43c33be/cover.jpg",
+      "actress": [
+        "瀬緒凛",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-176"
+    },
+    {
+      "id": 8510,
+      "IDcode": "ABF-198",
+      "title": "結合部接写。 瀬緒凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b8948a4e7d663df48c19bf/cover.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-198"
     },
     {
       "id": 6945,
       "IDcode": "ABF-220",
-      "title": "甜系抖S乳首狂 ~ 瀬緒凜",
+      "title": "甘サドちくびッ痴 瀬緒凛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-04-10",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250410/f3b39da8-ee08-42b0-bbe4-6cc3850f56ff.jpg",
       "actress": [
         "瀬緒凛",
@@ -81,37 +213,100 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-220"
     },
     {
-      "id": 8510,
-      "IDcode": "ABF-198",
-      "title": "超清晰插入特寫 ~ 瀨緒凜",
+      "id": 6342,
+      "IDcode": "ABF-228",
+      "title": "素人くんと丸1日2人きり。 瀬緒凛 マウスパッドと",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/6264a2bd-3071-4bc7-9732-68a457dc6cb8.jpg",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/13/f26a31687c0beb6c6e4c2dbe36466f89.jpg",
       "actress": [
         "瀬緒凛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-228"
     },
     {
-      "id": 10344,
-      "IDcode": "ABF-176",
-      "title": "和繼妹完墮於被場被雨淋的溼透的性愛中... ~ 瀨緒凜",
+      "id": 5567,
+      "IDcode": "ABF-236",
+      "title": "瀬緒凛 なまなかだし",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20241128/29e25f92-1aa5-4f73-b791-befe0b6d384f.jpg",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035701757757_thumbnail.webp",
       "actress": [
-        "瀬緒凛",
-        "蓝井优太"
+        "瀬緒凛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-176"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-236"
+    },
+    {
+      "id": 4550,
+      "IDcode": "ABF-248",
+      "title": "瀬緒凛と朝まで過ごせる 超高級デートクラブ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250718-1/7d638a69fc8ba493f41eb3679ee7709a.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-248"
+    },
+    {
+      "id": 3802,
+      "IDcode": "ABF-258",
+      "title": "本番オーケー！？噂の裏ピンサロ 26 瀬緒凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/dee8dd567cd3b0397aab8338ed60be6a.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-258"
+    },
+    {
+      "id": 3038,
+      "IDcode": "ABF-265",
+      "title": "リミットブレイクSEX 絶対的美少女の殻をブチ破るドM覚醒性交 VOL.12 瀬緒凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/fb047653/vod.jpg",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-265"
+    },
+    {
+      "id": 2143,
+      "IDcode": "ABF-277",
+      "title": "何もない田舎で幼馴染と、想いをさらけ出した濃厚SEXの日々。 case.15 瀬緒凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "瀬緒凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-277"
     }
   ]
 };

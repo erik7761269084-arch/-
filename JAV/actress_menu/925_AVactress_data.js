@@ -47,66 +47,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250327/d4fbaddf-4e03-4365-ac47-fa7d544caf92.jpg",
     "https://picture.yoshiclub.xyz/20250327/3435f4b2-058e-416c-a186-22b125e39b4a.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 2822,
-      "IDcode": "MIDA-266",
-      "title": "超討厭的宅男上司命令我室內無 bra 露奶 J 杯新進員工掉進巨乳職場霸凌羞辱 ~ 宮地莉央",
+      "id": 7206,
+      "IDcode": "MIDA-097",
+      "title": "LoveMachine 新人 Jcup現役女子大生 専属 宮地莉央 AV Debut！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/202509110206514545_78348_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/8c774c4c7a5b7e082040591e5f589260.jpg",
       "actress": [
         "宮地莉央"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-266"
-    },
-    {
-      "id": 3551,
-      "IDcode": "MIDA-311",
-      "title": "物價狂飆電費付不起，女子大生表妹來借浴室洗澡…軟糯J杯大胸隨便揉隨便幹的入浴偷情 ~ 宮地莉央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025348426426_45736_thumbnail.webp",
-      "actress": [
-        "宮地莉央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-311"
-    },
-    {
-      "id": 4935,
-      "IDcode": "MIDA-222",
-      "title": "肉感視角爆乳愛超近拍！揉到高潮的性感油壓大胸按摩滑溜溜爽翻天 ~ 宮地莉央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032027329329_thumbnail.webp",
-      "actress": [
-        "宮地莉央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-097"
     },
     {
       "id": 6441,
       "IDcode": "MIDA-151",
-      "title": "全是初體驗！性愛大開發 3本番特別篇 ~ 宮地莉央",
+      "title": "ぜーんぶ初体験！！セックス開発 3本番Special！！ 宮地莉央",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042646121121_thumbnail.webp",
       "actress": [
         "宮地莉央"
@@ -114,20 +82,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-151"
     },
     {
-      "id": 7206,
-      "IDcode": "MIDA-097",
-      "title": "新人出道！LoveMachine 新人J罩杯現役女大學生 Moodyz專屬 首次亮相 AV DEBUT ~ 宮地莉央",
+      "id": 5720,
+      "IDcode": "MIDA-186",
+      "title": "用雪白柔软巨乳为您服务-宮地莉央",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081854769769.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "宮地莉央"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-186"
+    },
+    {
+      "id": 4935,
+      "IDcode": "MIDA-222",
+      "title": "揉捏高潮的歐派性感精油按摩滑溜發光大絕頂-宮地莉央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032027329329_thumbnail.webp",
+      "actress": [
+        "宮地莉央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-222"
+    },
+    {
+      "id": 3551,
+      "IDcode": "MIDA-311",
+      "title": "大学女友的嫂子因物价超涨而付不起水电费同意中出-宮地莉央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025348426426_45736_thumbnail.webp",
+      "actress": [
+        "宮地莉央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-311"
+    },
+    {
+      "id": 2822,
+      "IDcode": "MIDA-266",
+      "title": "大嫌いなオタ上司のノーブラ屋内露出命令 Jカップ新入社員が沼った巨乳パワハラ羞恥業務 宮地莉央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/202509110206514545_78348_thumbnail.webp",
+      "actress": [
+        "宮地莉央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-266"
     }
   ]
 };

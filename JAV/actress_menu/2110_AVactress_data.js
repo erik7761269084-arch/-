@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 4548,
       "IDcode": "FFT-027",
-      "title": "新人出道！探索性愛真諦，理科系人妻的AV首秀 ~ 茜音",
+      "title": "セックスの真理を追求しにきました。リケジョの人妻 茜 音 34歳 AV Debut",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/202507100312281212_27916_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d6aa55337d7f7bbc250e/cover.jpg",
       "actress": [
         "茜音"
       ],

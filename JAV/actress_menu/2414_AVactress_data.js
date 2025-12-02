@@ -33,18 +33,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240218/9c0c3be1-5716-4c41-be1f-ecf6677227c6.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 72612,
-      "IDcode": "HOKS-186",
-      "title": "嘘とセックス 悪い女 恋音まい",
+      "id": 16223,
+      "IDcode": "EYAN-199",
+      "title": "平日裏能看到的美麗的人妻以AV出道。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218060617713713.jpg",
+      "actress": [
+        "恋音まい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EYAN-199"
+    },
+    {
+      "id": 72612,
+      "IDcode": "HOKS-186",
+      "title": "谎言和SEX-恋音舞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2024-11-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "恋音まい"

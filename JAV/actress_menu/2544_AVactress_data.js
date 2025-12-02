@@ -38,9 +38,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2025-06-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062617320320_thumbnail.webp",
       "actress": [
         "瀬下るい",

@@ -41,8 +41,44 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/6bf7dc0f-c684-4e40-888e-907ebb04dad5_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/7236e0aa-325e-488b-8e1c-f2ebebb58c1f_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 5067,
+      "IDcode": "KTRA-725",
+      "title": "巨乳女神中出特輯2 超長4小時 ~ 真白湖子 橫宮七海 逢咲由愛 雙葉良香 安部藍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623090730728728_thumbnail.webp",
+      "actress": [
+        "横宮七海",
+        "安部藍",
+        "逢咲由愛",
+        "真白湖子",
+        "双葉良香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-725"
+    },
+    {
+      "id": 96501,
+      "IDcode": "NNPJ-243",
+      "title": "离家出走的超苗条巨乳少女下海",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "双葉良香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-243"
+    },
     {
       "id": 88054,
       "IDcode": "KTRA-074",
@@ -50,10 +86,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K-Tribe",
-      "publish_date": "2018-10-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b297379ac56a7fb948d8ce12ad07babc.jpg",
       "actress": [
         "双葉良香"
       ],

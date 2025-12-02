@@ -34,16 +34,35 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
+      "id": 98477,
+      "IDcode": "DVDES-404",
+      "title": "ノンケでJKの私が下宿した先はビアンの女の人だらけ！ルームシェア（ハート）レズ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-04-21",
+      "cover_url": "http://15.155250922.com/upload/vod/20220928/1dvdes00404pl.jpg",
+      "actress": [
+        "大槻响",
+        "川上優",
+        "星優乃",
+        "しほのちさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-404"
+    },
+    {
       "id": 77192,
       "IDcode": "NSFS-341",
       "title": "AIリマスター版 夫には言えない秘め事 義父と嫁 名作永久保存版AI高画質225分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2024-12-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250106/uJ5wYDap/1.jpg",
       "actress": [
         "星優乃",
         "新尾きり子",
@@ -57,13 +76,13 @@ window.actressData = {
     {
       "id": 72924,
       "IDcode": "RKI-053",
-      "title": "世界で一番大きなチンポを持つ男のSEX 晶エリー 乃亜 早川瀬里奈 星優乃",
+      "title": "这世界上最大屌的男人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROOKIE",
-      "publish_date": "2010-01-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "早川瀬里奈",
@@ -72,22 +91,6 @@ window.actressData = {
         "鸟越乃亜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
-    },
-    {
-      "id": 1842,
-      "IDcode": "SHD-16",
-      "title": "星由乃 (Blu-ray)：星由乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2009-04-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20230208/cdb8a47f-895a-4e47-b069-fef491878206.webp",
-      "actress": [
-        "星優乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHD-16"
     }
   ]
 };

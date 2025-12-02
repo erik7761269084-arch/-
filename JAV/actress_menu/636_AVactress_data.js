@@ -39,52 +39,87 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250103/63786e19-6f5f-4b22-be3e-651506c00a21.jpg",
     "https://picture.yoshiclub.xyz/20250103/e3ef85fd-09c9-41b4-9b8e-2544f66d4517.jpg"
   ],
-  "works_count": 8,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 2538,
-      "IDcode": "NACT-018",
-      "title": "上門偷內衣的癡漢慘被甜美S娘調教成絕對服務的肉棒犬 ~ 牧野憐奈",
+      "id": 4670,
+      "IDcode": "NGHJ-018",
+      "title": "素人女大學生專屬！只隔一層薄膜和童貞小哥來場素股體驗？膜破了直接生插入！害羞素人妹子喊不要卻被直接中出！清純美少女精選＆奇跡連發中出初體驗特輯！ ~ 宮本聡美 牧野憐奈 北岡果林 市川りく",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/202509190755451313_33209_thumbnail.webp",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706095010446446_15863_thumbnail.webp",
       "actress": [
+        "北岡果林",
+        "市川りく",
+        "宮本聡美",
         "牧野怜奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-018"
     },
     {
-      "id": 2596,
-      "IDcode": "DASS-786",
-      "title": "美人母娘，一網打盡！多年後當初重逢當年被強奸的女人和她的女兒 ~ 柳可憐 牧野憐奈",
+      "id": 5658,
+      "IDcode": "QBD-102",
+      "title": "和JK美少女做愛記錄 ~ 牧野憐奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043349819819_62108_thumbnail.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-05-30",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291724015454_thumbnail.webp",
       "actress": [
-        "柳可憐",
         "牧野怜奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QBD-102"
+    },
+    {
+      "id": 75241,
+      "IDcode": "CAWD-790",
+      "title": "ヘアメイク歴2年目 メイクアップアーティスト牧野怜奈 20歳 AVデビュー kawaii裏方女子は、AV女優よりもスケベでした",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c69a84cf22ae3e041b798d/cover.jpg",
+      "actress": [
+        "牧野怜奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-790"
+    },
+    {
+      "id": 66192,
+      "IDcode": "SIS-136",
+      "title": "姉夜●い中出し盗撮レ●プ（SIS-136）宮城りえ 宮西ひかる 牧野怜奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/29/688864c8c92318f97d01fffd/cover.jpg",
+      "actress": [
+        "宮城理惠",
+        "牧野怜奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-136"
     },
     {
       "id": 61943,
       "IDcode": "NFG-001",
-      "title": "絶対手は使うなよっ！ザーメンごっくんノーハンドフェラ",
+      "title": "絶対手は使うなよっ！ザーメンごっくんノーハンドフェラ-天馬ゆい 宮西ひかる 雅子りな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-08-05",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/10/e052e777/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "天馬唯",
         "北岡果林",
@@ -97,67 +132,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NFG-001"
     },
     {
-      "id": 3910,
-      "IDcode": "SVCAO-017",
-      "title": "J系美少女放學給同學們枕營業賺外快 ~ 小森舞 牧野憐奈 市井結夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250803/20250803064818573573_96960_thumbnail.webp",
-      "actress": [
-        "市井結夏",
-        "牧野怜奈",
-        "小森舞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-017"
-    },
-    {
-      "id": 66192,
-      "IDcode": "SIS-136",
-      "title": "【FANZA限定】姉夜●い中出し盗撮レ●プ 牧野怜奈さんのパンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-06-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240910-1/0c4bc20dce52f8ad4da22d09acdc313c.jpg",
-      "actress": [
-        "宮城理惠",
-        "牧野怜奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-136"
-    },
-    {
-      "id": 6206,
-      "IDcode": "KNAM-070",
-      "title": "無套STYLE：為了當籃球部主力，跟教練開房交易 ~ 牧野怜奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-05-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512093307307307_thumbnail.webp",
-      "actress": [
-        "牧野怜奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-070"
-    },
-    {
       "id": 8686,
       "IDcode": "CAWD-804",
-      "title": "2年經驗的化妝師 牧野憐奈 20歲 第2章 現役女優們必須遵守的無理指令讓她們絕對高潮！！全身開發特輯 Special ~ 牧野憐奈 川上しずく 望月蕾 日向夏",
+      "title": "ヘアメイク歴2年目 牧野怜奈 20歳 第2章 現役女優たちからの絶頂イクイク無茶ぶり指令！！全身開発アクメspecial",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080430541541.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec25d152c12b4e6846ed89/cover.jpg",
       "actress": [
         "望月蕾",
         "日向夏",
@@ -167,20 +151,114 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-804"
     },
     {
-      "id": 75241,
-      "IDcode": "CAWD-790",
-      "title": "ヘアメイク歴2年目 メイクアップアーティスト牧野怜奈 20歳 AVデビュー kawaii*裏方女子は、AV女優よりもスケベでした",
+      "id": 6206,
+      "IDcode": "KNAM-070",
+      "title": "完ナマSTYLE@れな 「先生とHしたらレギュラーにしてくれますか？」バスケ部のレギュラーになる為、顧問教師と中出し性交 牧野怜奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-01-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512093307307307_thumbnail.webp",
+      "actress": [
+        "牧野怜奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-070"
+    },
+    {
+      "id": 4381,
+      "IDcode": "SUJI-282",
+      "title": "房間裏只有你和我 素人自拍自慰視頻合集 ~ 有馬美月 天馬唯 雅子裡菜 宮城理惠 白石渚 宮西光 天月梓 牧野憐奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bac5a0ce3e366423ce7eef/cover.jpg",
+      "actress": [
+        "天馬唯",
+        "天月梓",
+        "宮西光",
+        "北岡果林",
+        "宮城理惠",
+        "白石渚",
+        "雅子裡菜",
+        "有馬美月",
+        "牧野怜奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-282"
+    },
+    {
+      "id": 3910,
+      "IDcode": "SVCAO-017",
+      "title": "J系シェアリング クラスメイトにパンツを売って稼ぐ放課後ビズ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250803/20250803064818573573_96960_thumbnail.webp",
+      "actress": [
+        "市井結夏",
+        "牧野怜奈",
+        "小森舞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-017"
+    },
+    {
+      "id": 2756,
+      "IDcode": "HRSM-112",
+      "title": "温泉旅館 仲居さん狩り2 着物セックス 和服美人4名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec190c52c12b4e6846991e/cover.jpg",
+      "actress": [
+        "柏木小夏",
+        "牧野怜奈",
+        "四乃宮桃",
+        "佐野りか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-112"
+    },
+    {
+      "id": 2596,
+      "IDcode": "DASS-786",
+      "title": "来看看几十年前被我上了怀孕的女人和她的女儿-武田怜香 牧野怜奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043349819819_62108_thumbnail.webp",
+      "actress": [
+        "柳可憐",
+        "牧野怜奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-786"
+    },
+    {
+      "id": 2538,
+      "IDcode": "NACT-018",
+      "title": "優しそうな顔して下着ドロボーを捕らえ、バター犬に絶対服従させる女 牧野怜奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "牧野怜奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-018"
     }
   ]
 };

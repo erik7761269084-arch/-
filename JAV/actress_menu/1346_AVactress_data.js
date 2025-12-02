@@ -34,55 +34,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/2e7fb96a-5fcd-408f-bc43-6b5522cd23fb.jpg",
     "https://picture.yoshiclub.xyz/20230124/6cea3787-21de-4ca2-a781-fd8a03afef90.jpg"
   ],
-  "works_count": 3,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 3667,
-      "IDcode": "CEAD-697",
-      "title": "一之瀨鈴 超值精選合集近5小時",
+      "id": 82579,
+      "IDcode": "IENE-386",
+      "title": "穿越回过去的我居然误打误撞把少女时期的老妈破处还内射进去了",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "一之濑铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-386"
+    },
+    {
+      "id": 3667,
+      "IDcode": "CEAD-697",
+      "title": "一之瀬すず 2枚組ハイパーベスト4時間57分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "セレブの友",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811092957646646_85372_thumbnail.webp",
       "actress": [
         "一之濑铃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-697"
-    },
-    {
-      "id": 1930,
-      "IDcode": "MCBD-06",
-      "title": "MERCIBOKU 06 突然幹翻最近沉溺手機的妹妹。 : 一之瀨鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2015-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/9e29cf61-1d3c-4396-8872-4ef29eddbf04.webp",
-      "actress": [
-        "一之濑铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-06"
-    },
-    {
-      "id": 82579,
-      "IDcode": "IENE-386",
-      "title": "若かりし頃の母さんとの性交 一之瀬すず",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2014-04-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/26db29b3fea09988e319178dd12415e8.jpg",
-      "actress": [
-        "一之濑铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-386"
     }
   ]
 };

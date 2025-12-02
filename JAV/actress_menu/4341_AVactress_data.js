@@ -4,7 +4,7 @@ window.actressData = {
   "name": "落合丽香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-07-14",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/7c7b0335b4d14c7f0b8b24e861447ca3.jpg",
       "actress": [
         "新村晶",
         "落合丽香"
@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-12-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/f535f5f5d9d1cc63dbaf558315604778.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/06f206714d15cb5f7d2b0f2e15ca6d73.jpg",
       "actress": [
         "落合丽香"
       ],

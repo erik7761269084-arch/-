@@ -4,7 +4,7 @@ window.actressData = {
   "name": "月岛かのん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 88438,
       "IDcode": "SSNI-962",
-      "title": "交わる体液、濃密セックス 完全ノーカットスペシャル 月島かのん",
+      "title": "密集的性爱-月島かのん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2021-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231009-1/bb666664c4f2bc95dfdd49798179648f.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/195e21b7689ce09d82ac4ef6981b34ab.jpg",
       "actress": [
         "鲛岛",
         "月岛かのん"

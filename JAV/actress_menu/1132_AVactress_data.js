@@ -20,18 +20,66 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231201/666efaf1-fcc4-4ca6-9b02-d3f602aad621.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 9367,
-      "IDcode": "GEBB-007",
-      "title": "朋友的女友用她的熱褲和美臀誘惑了我...... ~ 秋廣衣緒 胡桃櫻花 大槻響 小那海綾",
+      "id": 16707,
+      "IDcode": "FFT-009",
+      "title": "最好的已婚女人和最好的中出性愛。井尾昭宏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-01-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20240118/784db1ce-e0e8-42cd-919a-ac4c0df190f8.jpg",
+      "actress": [
+        "秋廣衣緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-009"
+    },
+    {
+      "id": 16924,
+      "IDcode": "FFT-008",
+      "title": "寫實紀錄片，記錄失意人妻的性欲和身體之美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-01-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20240104/20240104072019715715.jpg",
+      "actress": [
+        "秋廣衣緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-008"
+    },
+    {
+      "id": 17508,
+      "IDcode": "FFT-006",
+      "title": "新人出道 ~ 喜歡這樣的身材嗎？ 最美私人教練，擁有美麗腹肌的人妻 秋広衣緒 首次亮相 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-11-30",
+      "cover_url": "https://picture.yoshiclub.xyz/20231201/2e2cbbd6-d86c-4ccc-b792-a3521bcad8aa.jpg",
+      "actress": [
+        "秋廣衣緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-006"
+    },
+    {
+      "id": 9367,
+      "IDcode": "GEBB-007",
+      "title": "友達の彼女がホットパンツ食い込み美尻で誘惑してきたので…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-01-07",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250105/20250105044026555555.jpg",
       "actress": [
         "胡桃櫻花",

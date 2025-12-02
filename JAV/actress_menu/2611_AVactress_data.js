@@ -33,14 +33,47 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
       "publish_date": "2022-09-27",
-      "cover_url": "",
+      "cover_url": "https://xing.sex8sex833.com/20251007/9ZuEYuYT/1.jpg",
       "actress": [
         "しいなのあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-793"
+    },
+    {
+      "id": 107276,
+      "IDcode": "HZGD-155",
+      "title": "中出しされ続けた人妻 椎名のあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻花園劇場",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1100hzgd155/h_1100hzgd155pl.jpg",
+      "actress": [
+        "しいなのあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-155"
+    },
+    {
+      "id": 94973,
+      "IDcode": "JUFE-115",
+      "title": "第一次接受禁欲男優大量精子超敏感美少女顫抖中出大絶頂！倉田安娜[有碼高清]",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8f71444c76c4d15ab59a4234a720955e.jpg",
+      "actress": [
+        "しいなのあ",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-115"
     },
     {
       "id": 79477,
@@ -49,10 +82,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-08-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf9a44eb67774efbab6572/cover.jpg",
       "actress": [
         "大浦真奈美",
         "川菜美铃",
@@ -65,34 +98,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-079"
     },
     {
-      "id": 18781,
-      "IDcode": "IPX-602",
-      "title": "【惡女教師】 嫉妬瘋狂不穿內庫誘惑女教師的異常奪取寢取。 「我已經沒有選擇手段了…」 明里紬",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2021-01-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908202111558558.jpg",
-      "actress": [
-        "明里紬",
-        "しいなのあ",
-        "明里䌷"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-602"
-    },
-    {
       "id": 73013,
       "IDcode": "SQTE-314",
       "title": "お父さん注意！元保育士は、合法ロリ巨乳。 椎名のあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
-      "publish_date": "2020-08-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ed1fc2f111ef7204e31b5e5786927fbb.jpg",
       "actress": [
         "しいなのあ",
         "タツ",
@@ -101,37 +116,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-314"
     },
     {
-      "id": 107276,
-      "IDcode": "HZGD-155",
-      "title": "絶倫チ○ポの上司と一晩中ヤリまくって中出しされ続けた人妻 椎名のあ",
+      "id": 18781,
+      "IDcode": "IPX-602",
+      "title": "誘惑女教師-明里つむぎ 椎名のあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "人妻花園劇場",
-      "publish_date": "2020-06-26",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1100hzgd155/h_1100hzgd155pl.jpg",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/30e6c8baa5644a9c371afe090dff9360.jpg",
       "actress": [
-        "しいなのあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-155"
-    },
-    {
-      "id": 94973,
-      "IDcode": "JUFE-115",
-      "title": "禁欲した男優の大量精子を人生で初めて受け止める超敏感美少女のビクビク中出し大絶頂！ 倉田アンナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2019-11-13",
-      "cover_url": "",
-      "actress": [
+        "明里紬",
         "しいなのあ",
-        "玉木玲"
+        "明里䌷"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-602"
     }
   ]
 };

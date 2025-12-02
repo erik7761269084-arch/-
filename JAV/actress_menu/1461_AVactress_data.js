@@ -43,37 +43,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 1030,
+      "IDcode": "HEYZO-1439",
+      "title": "束縛狂人 - Azumi Nakama",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-03-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111084641463463.jpg",
+      "actress": [
+        "市来美保"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1439"
+    },
+    {
       "id": 80143,
       "IDcode": "RCT-699",
       "title": "夫婦喧嘩をして全裸で閉め出された巨乳妻とそれを見てしまった隣人の僕 パート2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2015-01-22",
-      "cover_url": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241108-1/ef70f8a3fb3811e12b3d54e28d511cf2.jpg",
       "actress": [
         "市来美保",
         "绀野まこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-699"
-    },
-    {
-      "id": 1873,
-      "IDcode": "CWPBD-107",
-      "title": "走秀毒藥 107 色情 VIP：Miho Ichiki",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2014-08-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/ccff5026-06bf-445f-9098-0090fa4b8d22.webp",
-      "actress": [
-        "市来美保"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-107"
     }
   ]
 };

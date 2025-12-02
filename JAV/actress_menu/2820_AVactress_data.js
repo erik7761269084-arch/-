@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 4995,
       "IDcode": "CAWD-858",
-      "title": "新人出道！來自世谷區的千金大小姐想要做賤貨！首演AV就狂接37發顏射洗禮 AV DEBUT ~ 桃美久",
+      "title": "大小姐也其實是想被弄髒的噴射處女的我-桃美久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031330724724_s.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "桃美久"
       ],

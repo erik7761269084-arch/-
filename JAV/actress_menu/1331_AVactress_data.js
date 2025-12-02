@@ -38,48 +38,47 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 2537,
-      "IDcode": "NACT-017",
-      "title": "街頭站街巨乳妹 深夜出沒的背後故事大公開 ~ 尾崎實里",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919072010238238_88092_thumbnail.webp",
-      "actress": [
-        "尾崎實里",
-        "ロダン富士"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-017"
-    },
-    {
       "id": 60343,
       "IDcode": "BOBB-445",
-      "title": "Jカップ南国ハーフ娘のエキゾチック巨乳輪！魅惑のアジアンビューティボインを乳フェチズム責めで味わい尽くす！Boin「尾崎みのり」Box",
+      "title": "Jカップ南国ハーフ娘のエキゾチック巨乳輪！魅惑のアジアンビューティボインを乳フェチズム責めで味わい尽くす！Boin「尾崎みのり」",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-02",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20251008/UGbOMDMk/1.jpg",
       "actress": [
         "尾崎實里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-445"
     },
     {
-      "id": 3277,
-      "IDcode": "ONSG-095",
-      "title": "J杯巨乳風俗妹 超誘惑體驗 ~ 尾崎實里",
+      "id": 5721,
+      "IDcode": "MIFD-598",
+      "title": "高学歴なのにスケベな乳輪でごめんなさい…ものすごく卑猥なJカップAVデビュー 尾崎みのり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-2/3182196f44497edacc74f8e3a8434bd8.jpg",
+      "actress": [
+        "尾崎實里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-598"
+    },
+    {
+      "id": 3277,
+      "IDcode": "ONSG-095",
+      "title": "巨乳デリヘル Jカップ 尾崎みのり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "Gain Corporation",
-      "publish_date": "2025-08-22",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823041912801801_94279_thumbnail.webp",
       "actress": [
         "尾崎實里"
@@ -87,20 +86,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-095"
     },
     {
-      "id": 5721,
-      "IDcode": "MIFD-598",
-      "title": "新人出道！高學歷妹子卻有超色情乳暈真不好意思…J杯爆乳AV初登場 AV DEBUT ~ 尾崎實裏",
+      "id": 2537,
+      "IDcode": "NACT-017",
+      "title": "立ちんぼ巨乳女子 夜に立つ理由を密着取材！ 尾崎みのり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075742285285_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "尾崎實里"
+        "尾崎實里",
+        "ロダン富士"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-598"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-017"
     }
   ]
 };

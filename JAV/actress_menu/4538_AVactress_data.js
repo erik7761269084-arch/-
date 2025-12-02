@@ -4,7 +4,7 @@ window.actressData = {
   "name": "野崎ありす",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 83769,
+      "IDcode": "OVG-120",
+      "title": "強●中出しピストン騎乗位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-01-02",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/7zHwMsCZ.jpg",
+      "actress": [
+        "君岛美绪",
+        "凉南佳奈",
+        "石川祐奈",
+        "野崎ありす",
+        "音羽ななみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-120"
+    },
+    {
       "id": 75438,
       "IDcode": "OVG-127",
       "title": "性欲爆発挑発マンズリ本気で感じる誘惑オナニー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-02-20",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241201-1/6e89dfd41617c802a12fe75b03493cce.jpg",
       "actress": [
         "皆月光",
         "渚光希",
@@ -41,26 +61,6 @@ window.actressData = {
         "宫地亜衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-127"
-    },
-    {
-      "id": 83769,
-      "IDcode": "OVG-120",
-      "title": "強●中出しピストン騎乗位",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-02",
-      "cover_url": "",
-      "actress": [
-        "君岛美绪",
-        "凉南佳奈",
-        "石川祐奈",
-        "野崎ありす",
-        "音羽ななみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-120"
     }
   ]
 };

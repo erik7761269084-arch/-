@@ -26,39 +26,23 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-荒木りな.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 79724,
       "IDcode": "JUFD-367",
-      "title": "断りきれないノーブラ肉感居酒屋店員 荒木りな",
+      "title": "肉感居酒屋店員-荒木りな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DREAMTICKET",
-      "publish_date": "2014-05-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/bb0494ff809af6d488191d365ca7c552.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/09/12/0f0b00131bbf34299f8699850efc9198.jpg",
       "actress": [
         "荒木里菜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-367"
-    },
-    {
-      "id": 1926,
-      "IDcode": "SMBD-97",
-      "title": "S Model 97 105公分 I罩杯。爆乳生姦中出激烈搖晃 : 荒木里菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2014-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/be45fb41-c7e8-4c40-8991-d505ceae7ddc.webp",
-      "actress": [
-        "荒木里菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-97"
     }
   ]
 };

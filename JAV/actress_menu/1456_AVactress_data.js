@@ -34,8 +34,89 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-秋野千尋.jpg",
     "https://picture.yoshiclub.xyz/20240522/be3e01f7-5618-47f8-9192-a7126a743640.jpg"
   ],
-  "works_count": 1,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 818,
+      "IDcode": "HEYZO-1013",
+      "title": "秋野千尋的AV演員採訪 - 秋野千尋",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-11-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20240611/202406112330023737.jpg",
+      "actress": [
+        "秋野千尋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1013"
+    },
+    {
+      "id": 158102,
+      "IDcode": "1PONDO-062724_001",
+      "title": "セクシー女優スペシャル版",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250218/SNf3dOM3/1.jpg",
+      "actress": [
+        "北条麻妃",
+        "秋野千尋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-062724_001"
+    },
+    {
+      "id": 145182,
+      "IDcode": "091616-015",
+      "title": "月刊",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250211-1/bc05cd1c29d94478279f7b88ecaf0370.jpg",
+      "actress": [
+        "秋野千尋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=091616-015"
+    },
+    {
+      "id": 141984,
+      "IDcode": "032018-625",
+      "title": "过度性瘾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250130-1/c6d4abb7c767880edba13de9684b31e0.jpg",
+      "actress": [
+        "秋野千尋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=032018-625"
+    },
+    {
+      "id": 141913,
+      "IDcode": "021118-602",
+      "title": "最佳泡泡公主故事Vol.58",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250129-1/944d5a3fcad51068dd3ccb6146b85415.jpg",
+      "actress": [
+        "秋野千尋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=021118-602"
+    },
     {
       "id": 70396,
       "IDcode": "XRW-591",
@@ -43,10 +124,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/645998b44a64258ccf0a3350c9da1a96.jpg",
       "actress": [
         "秋野千尋",
         "柊木のあ",

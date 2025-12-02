@@ -56,13 +56,13 @@ window.actressData = {
     {
       "id": 2183,
       "IDcode": "CAWD-879",
-      "title": "新人出道！kawaii史上最害羞的女主角 脫了！ AV DEBUT ~ 谷村凪咲",
+      "title": "可爱史上最害羞的女主角脱掉了衣服-谷村凪咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-10-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021214546546_46046_thumbnail.webp",
       "actress": [
         "谷村凪咲"

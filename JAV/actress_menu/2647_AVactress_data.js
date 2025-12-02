@@ -42,14 +42,14 @@ window.actressData = {
     {
       "id": 7511,
       "IDcode": "MIFD-591",
-      "title": "新人出道！永恆女孩 首次亮相 AV DEBUT ~ 岡田奈々",
+      "title": "新人 永遠の少女AVデビュー 岡田奈々",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084044829829.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84296d6fbef4e90ccdc9e/cover.jpg",
       "actress": [
         "岡田奈々"
       ],

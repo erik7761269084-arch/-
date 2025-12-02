@@ -4,7 +4,7 @@ window.actressData = {
   "name": "绫波ゆめ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 92357,
       "IDcode": "MKMP-020",
-      "title": "超萌可愛角色扮演妹 綾波夢",
+      "title": "卡哇伊cosplay-綾波ゆめ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2015-10-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240815-1/9cde509d325392628086c64da9426dfc.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250320-1/53f7394b576a3fc15d7e6e1c19e6bae4.jpg",
       "actress": [
         "绫波ゆめ"
       ],

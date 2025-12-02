@@ -59,18 +59,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231129/5af5981c-d27c-45f2-8972-c33e1d5bcb26.jpg",
     "https://picture.yoshiclub.xyz/20231129/705c3590-bb3d-411f-8728-15aeaf5ed0a1.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 97852,
-      "IDcode": "NHDTA-782",
-      "title": "姉を犯してしまったところを母親に見られ後戻りができず泥沼中出し親子丼",
+      "id": 1100,
+      "IDcode": "HEYZO-1577",
+      "title": "懷孕不如結婚！ ?? ~ 放進去！ ~",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2016-02-18",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-09-30",
+      "cover_url": "https://picture.yoshiclub.xyz/20231129/20231129033157954954.jpg",
+      "actress": [
+        "来栖みさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1577"
+    },
+    {
+      "id": 97852,
+      "IDcode": "NHDTA-782",
+      "title": "母亲看到他强奸她的妹妹时",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "堀口奈津美",

@@ -50,127 +50,184 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240907/041a3902-24ea-4919-9073-3f506bd4ca1b.jpg",
     "https://picture.yoshiclub.xyz/20240907/eae5be54-819f-4937-a772-8916bdd6c2a3.jpg"
   ],
-  "works_count": 12,
+  "works_count": 18,
   "related_dramas": [
     {
-      "id": 3771,
-      "IDcode": "SONE-841",
-      "title": "竟然要我不穿內褲上班… 臉紅心跳被撩到不行的居酒屋娘 ~ 乃阪日和",
+      "id": 5915,
+      "IDcode": "SONE-564",
+      "title": "被世界顶级美女环绕-未歩なな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031019404404_81622_thumbnail.webp",
-      "actress": [
-        "乃坂日和"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-841"
-    },
-    {
-      "id": 4318,
-      "IDcode": "SONE-566",
-      "title": "S1二十週年紀念 最強聯手神作 1對18 新人助理導演被頂級性感女優偷偷挑逗 陷入職場桃色誘惑 ~ 田野憂 五條戀 未步奈奈 白上咲花 神樂桃果 楓富愛 明日葉三葉 村上悠華 淺野心 渚愛梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
+      "publish_date": "2025-06-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/202505220753447272_thumbnail.webp",
       "actress": [
         "未步奈奈",
         "村上悠華",
-        "明日葉三葉",
-        "楓富愛",
-        "淺野心",
         "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
         "田野憂",
         "渚愛梨",
         "白上咲花",
         "神樂桃果",
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-564"
+    },
+    {
+      "id": 12174,
+      "IDcode": "SONE-329",
+      "title": "新进S罩杯隱藏巨乳母狗乃坂日和AV出道",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906010156324324.jpg",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-329"
+    },
+    {
+      "id": 11483,
+      "IDcode": "SONE-331",
+      "title": "細くて巨乳のズルいカラダ快感！初・体・験とびっきりの初イキッ Gカップ性感開発スペシャル 乃坂ひより",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/fc262cdd699842b0ef5474913e4711d7.jpg",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-331"
+    },
+    {
+      "id": 10745,
+      "IDcode": "SONE-377",
+      "title": "ぐちょぐちょ下品に舌を絡ませる 中年おじさんと唾液まみれ濃厚ベロキス性交 乃坂ひより",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107090548653653.jpg",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-377"
+    },
+    {
+      "id": 10123,
+      "IDcode": "SONE-421",
+      "title": "激イキ220回！痙攣6690回！イキ潮4400cc！ 絶品BODY女子大生 エロス覚醒 はじめての大・痙・攣スペシャル 乃坂ひより",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/19/582a4281/vod.jpg",
+      "actress": [
         "乃坂日和",
-        "安倍亜沙美"
+        "鲛岛",
+        "タイ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-421"
     },
     {
-      "id": 4775,
-      "IDcode": "SONE-753",
-      "title": "靦腆新人女職員出差相部屋後秒變超淫蕩小妖精，榨到精液都透明了 ~ 乃阪日和",
+      "id": 10117,
+      "IDcode": "SONE-560",
+      "title": "S1 PRECIOUS GIRLS 2024 - 史上從來未有過的最大規模亂交！24場全明星大集合大亂交超絕亂舞 Special特輯 ~ 河北彩花 金鬆季步 本鄉愛 Miru 楓花戀 等24位",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703074136672672_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e04c6379f1ac4ec48c195b/cover.jpg",
       "actress": [
-        "乃坂日和"
+        "奥田咲",
+        "Miru",
+        "河北彩花",
+        "未步奈奈",
+        "小日向美優",
+        "七森莉莉",
+        "三田真鈴",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "本郷愛",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
+        "川越仁子",
+        "金松季歩",
+        "白上咲花",
+        "神樂桃果",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-753"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-560"
     },
     {
-      "id": 5551,
-      "IDcode": "SONE-715",
-      "title": "內向順從女學生被癡漢瘋狂調教後…比男友還迷戀我的技術 ~ 乃阪日和",
+      "id": 9254,
+      "IDcode": "SONE-491",
+      "title": "大量失禁-乃坂日和",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/202506050431302727_thumbnail.webp",
-      "actress": [
-        "乃坂日和"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-715"
-    },
-    {
-      "id": 6330,
-      "IDcode": "SONE-655",
-      "title": "女友巨乳妹妹超好推倒，偷偷開幹讓她淪陷我的大肉棒，調教成敏感秒高潮體質 ~ 乃坂日和",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065432747747_thumbnail.webp",
-      "actress": [
-        "乃坂日和"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-655"
-    },
-    {
-      "id": 7021,
-      "IDcode": "SONE-633",
-      "title": "從臉蛋到蛋蛋、肉棒到菊花全舔遍，口水直流全身舔舐加口交的癡女服務女僕 ~ 乃阪日向",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092352785785.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678792b58daf6b1db43c2d56/cover.jpg",
       "actress": [
         "乃坂日和",
-        "鲛岛"
+        "もんご"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-633"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-491"
+    },
+    {
+      "id": 8452,
+      "IDcode": "SONE-556",
+      "title": "完全禁止做愛與自慰-乃坂日和",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075141434434.jpg",
+      "actress": [
+        "乃坂日和",
+        "鲛岛",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-556"
     },
     {
       "id": 7751,
       "IDcode": "SONE-562",
-      "title": "S1 20周年紀念 AV史上最強組合力作 最佳顏值的女學生們放肆狂幹滿足來賓的S1學園射精祭 ~ 乃阪日和 小日向美優 兒玉七海 榊原萌 渚あいり 川越仁子 早阪ひめ 未步奈奈 倉木華 村上悠華 白上咲",
+      "title": "S1学院射精祭业界名女优集合",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122839266266.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6b2538cce1a927afdc031/cover.jpg",
       "actress": [
         "未步奈奈",
         "小日向美優",
@@ -191,13 +248,13 @@ window.actressData = {
     {
       "id": 7735,
       "IDcode": "SONE-607",
-      "title": "超絕可愛又嬌俏的美少女露出妮可妮可笑臉迎接精液洗禮的大量顏射助攻 ~ 乃阪日和",
+      "title": "对身材和魅力都出众的美少女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123617597597.jpg",
       "actress": [
         "乃坂日和"
@@ -205,73 +262,144 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-607"
     },
     {
-      "id": 8452,
-      "IDcode": "SONE-556",
-      "title": "全面禁止性行爲和手淫！經過一個月的克制，她變得性欲旺盛，當她品嘗到自己溼潤敏感的身體，並在這場禁欲最佳的性交中噴出大量精液 ~ 乃阪日和",
+      "id": 7021,
+      "IDcode": "SONE-633",
+      "title": "从脸部到睾丸再到肉棒甚至肛门都舔遍",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075141434434.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092352785785.jpg",
       "actress": [
         "乃坂日和",
-        "鲛岛",
-        "小田切ジュン"
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-633"
     },
     {
-      "id": 9254,
-      "IDcode": "SONE-491",
-      "title": "巨漢×巨根×小穴全開×追撃×亂交×大量失禁 極上BODY大改造超級大痙攣FUCK ~ 乃阪日和",
+      "id": 6330,
+      "IDcode": "SONE-655",
+      "title": "被推倒的她的巨乳妹妹-乃坂日和",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074311928928.jpg",
-      "actress": [
-        "乃坂日和",
-        "もんご"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-491"
-    },
-    {
-      "id": 10123,
-      "IDcode": "SONE-421",
-      "title": "220次強烈高潮！ 6690抽搐！高潮潮吹4400cc！ 精致BODY女大學生愛神覺醒第一大抽搐特輯 ~ 乃阪日和",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205084936474474.jpg",
-      "actress": [
-        "乃坂日和",
-        "鲛岛",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-421"
-    },
-    {
-      "id": 10745,
-      "IDcode": "SONE-377",
-      "title": "與中年男子粗俗地糾纏舌頭，舌吻沾滿唾液 ~ 乃阪日和",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107090548653653.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/08/68956d876ccb447f8c4444fd/cover.jpg",
       "actress": [
         "乃坂日和"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-377"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-655"
+    },
+    {
+      "id": 5551,
+      "IDcode": "SONE-715",
+      "title": "忍不住对文静乖巧的女学生疯狂痴汉-乃坂ひより",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e78c898bc99dfdd03304f/cover.jpg",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-715"
+    },
+    {
+      "id": 4775,
+      "IDcode": "SONE-753",
+      "title": "文靜女同事出差過夜變成蕩婦把我榨乾-乃坂ひより",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703074136672672_thumbnail.webp",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-753"
+    },
+    {
+      "id": 4318,
+      "IDcode": "SONE-566",
+      "title": "新人助理导演-楓ふうあ 未歩なな 明日葉みつは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
+      "actress": [
+        "未步奈奈",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "五条恋",
+        "田野憂",
+        "渚愛梨",
+        "白上咲花",
+        "神樂桃果",
+        "乃坂日和",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
+    },
+    {
+      "id": 3771,
+      "IDcode": "SONE-841",
+      "title": "在居酒屋打工的女孩-乃坂日和",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031019404404_81622_thumbnail.webp",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-841"
+    },
+    {
+      "id": 3191,
+      "IDcode": "MIDA-315",
+      "title": "覚醒移籍 S級ボディにたっぷり初中出し 乃坂ひより",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828022302666666_90988_thumbnail.webp",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-315"
+    },
+    {
+      "id": 2339,
+      "IDcode": "MIDA-357",
+      "title": "婚礼前夕的年轻妻子在无良美容师的诱导下-乃坂日和",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002035724742742_20195_thumbnail.webp",
+      "actress": [
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-357"
     }
   ]
 };

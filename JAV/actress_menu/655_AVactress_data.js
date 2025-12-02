@@ -26,8 +26,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241212/67a1fb31-ac7c-453a-92e4-ef6b0b342100.jpg",
     "https://picture.yoshiclub.xyz/20241212/d7135731-c060-4f43-b617-15ab91c540c7.jpg"
   ],
-  "works_count": 7,
+  "works_count": 11,
   "related_dramas": [
+    {
+      "id": 4705,
+      "IDcode": "BAGR-065",
+      "title": "顏值撩爆你！超近距離顏面特化POV 甜美小惡魔女友的早泄調教日常 ~ 浦上日紀",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705040946737737_thumbnail.webp",
+      "actress": [
+        "浦上日紀"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-065"
+    },
     {
       "id": 62540,
       "IDcode": "AGMX-232",
@@ -35,10 +51,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/b204d6f6/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "水乃菜乃華",
         "廣瀬好美",
@@ -50,48 +66,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-232"
     },
     {
-      "id": 4236,
-      "IDcode": "APAK-309",
-      "title": "坂道系甜美少女日紀醬 受不了啦！要高潮啦！ 女學生激烈交合 F杯火辣身材直擊子宮絕頂 ~ 浦上日紀",
+      "id": 9923,
+      "IDcode": "MIDV-956",
+      "title": "新人 女子●生ミスコンFINALIST 衝撃、AVDebut ●校生から雑誌やSNSでランウェイを歩くモデルとしても大活躍のあの娘がAV出演！！ 浦上ひのり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211041354354_45083_thumbnail.webp",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787ea7d5d57b64bfd10d5fe/cover.jpg",
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-309"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-956"
     },
     {
-      "id": 5901,
-      "IDcode": "FOCS-250",
-      "title": "婚禮前夕F杯新娘在未婚夫身邊墮落…婚前美容按摩NTR！媚藥搞得她水漫金山瘋狂潮吹痙攣高潮內射 ~ 浦上日紀",
+      "id": 9077,
+      "IDcode": "MIDV-982",
+      "title": "女高中生选美大赛的总决赛选手，穿上当年比赛时的制服，跟制服控的大叔约会！ 每一场都换不同的制服，和不同的大叔打情骂俏，还直接开干了3次 浦上日纪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522083219766766_thumbnail.webp",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b3f3082cbbe464027d5566/cover.jpg",
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-250"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-982"
+    },
+    {
+      "id": 8211,
+      "IDcode": "MIDA-022",
+      "title": "超配合的丰满专用肉便器-浦上日纪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8ab5acf22ae3e04db5115/cover.jpg",
+      "actress": [
+        "浦上日紀"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-022"
     },
     {
       "id": 7574,
       "IDcode": "MIDA-080",
-      "title": "不知情加入種馬社團的選美大學生，被40發精液榨幹的集體輪奸 精液塗滿全身 ~ 浦上日紀",
+      "title": "大學生精液耗盡40發連續射-浦上日紀",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084228176176.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/16/67d6ac06cf22ae3e044145f6/cover.jpg",
       "actress": [
         "浦上日紀",
         "ラリアット黒川",
@@ -102,52 +134,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-080"
     },
     {
-      "id": 8211,
-      "IDcode": "MIDA-022",
-      "title": "我的小女友，只要打電話給她，她馬上就能跑過來舔我的雞巴。全東京最好的專用肉便器！ ~ 浦上日紀",
+      "id": 5901,
+      "IDcode": "FOCS-250",
+      "title": "婚前夜NTR-浦上日纪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/202502130735023131.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522083219766766_thumbnail.webp",
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-022"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-250"
     },
     {
-      "id": 9077,
-      "IDcode": "MIDV-982",
-      "title": "參加過女性選美比賽的女學生和老頭約會。每個場景都是不同的制服，和不同的老人發生性關系 ~ 浦上日紀",
+      "id": 5819,
+      "IDcode": "APNS-374",
+      "title": "「オッパイもオシリも滅茶苦茶にして…おじさん…」中年チ〇ポ偏愛女学生 … 浦上ひのり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072411906906.jpg",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523235830835835_thumbnail.webp",
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-982"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-374"
     },
     {
-      "id": 9923,
-      "IDcode": "MIDV-956",
-      "title": "新人女性 選美決賽入圍 衝擊AV出道 活躍的女子大生，同時也是在雜志和SNS上走秀的模特 首次亮相 AV DEBUT ~ 浦上日紀",
+      "id": 4236,
+      "IDcode": "APAK-309",
+      "title": "グラマーFカップボディの子宮直撃絶頂！ 浦上ひのり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211063504369369.jpg",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211041354354_45083_thumbnail.webp",
       "actress": [
         "浦上日紀"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-309"
+    },
+    {
+      "id": 2311,
+      "IDcode": "NPJS-231",
+      "title": "マッチングアプリで知り合った素人娘 SEXのために上京してくれるセフレをハメ撮りAV出演させてみた。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "浦上日紀"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-231"
+    },
+    {
+      "id": 2230,
+      "IDcode": "SQDE-024",
+      "title": "『糸引きマ〇コをいじめてください』美乳美尻の甘えん坊エロ娘。S-Cuteデビュー 浦上ひのり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "浦上日紀"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQDE-024"
     }
   ]
 };

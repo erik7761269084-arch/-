@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桃井ひかる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 106638,
       "IDcode": "SDMF-036",
-      "title": "画家である父にヌードモデルをさせられて10年・・・ 今、口に性器をねじ込まれ黙々と絵を描かれています。 桃井ひかる",
+      "title": "被畫家父親當作裸體模特兒10年… 現在嘴巴插入性器沉默繪畫。 桃色家族Vol.38 桃井光",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-11-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "桃井ひかる"

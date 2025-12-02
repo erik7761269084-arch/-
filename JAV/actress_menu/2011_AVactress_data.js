@@ -38,37 +38,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 4247,
-      "IDcode": "CMC-328",
-      "title": "墮落成家畜娼婦 SM特色風俗店潛入調查 ~ 奧乃美加奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "CineMagic",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718215833393393_66256_thumbnail.webp",
-      "actress": [
-        "奥乃美加奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-328"
-    },
-    {
       "id": 7513,
       "IDcode": "MEYD-989",
-      "title": "深喉吞精內射全OK！覺醒變態不倫SEX的方便人妻AV出道 ~ 奧乃美加奈",
+      "title": "イラマごっくん中出し ALL OK！変態不倫SEXに目覚めた都合のいい人妻AV デビュー 奥乃美加奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-03-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084839106106.jpg",
       "actress": [
         "奥乃美加奈",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-989"
+    },
+    {
+      "id": 4247,
+      "IDcode": "CMC-328",
+      "title": "家畜娼婦に転落した女 SMイメクラ嗜虐の潜入捜査 奥乃美加奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "CineMagic",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718215833393393_66256_thumbnail.webp",
+      "actress": [
+        "奥乃美加奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-328"
     }
   ]
 };

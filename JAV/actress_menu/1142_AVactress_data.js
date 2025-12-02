@@ -32,7 +32,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/94ef1994-568e-4dc0-8758-45d8ca9a0fdc.jpg",
     "https://picture.yoshiclub.xyz/20230210/46c394af-c988-4ca7-aaaf-43a55e7e69af.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 83645,
@@ -41,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Mr.Michiru",
       "publish_date": "2019-12-12",
       "cover_url": "",
@@ -53,22 +53,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-285"
     },
     {
-      "id": 1973,
-      "IDcode": "SKYHD-116",
-      "title": "天空天使Plus 3：安住廉、武井真紀、椎名美優",
+      "id": 1006,
+      "IDcode": "HEYZO-1401",
+      "title": "美癡女～淫蕩課外授業",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-02-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124230947944944.jpg",
+      "actress": [
+        "椎名美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1401"
+    },
+    {
+      "id": 158583,
+      "IDcode": "PACOPACOMAMA-071623_878",
+      "title": "人妻なでしこ調教 ～浴衣を捲って後ろから前からパンパンパン～",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-10-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/38612eca-b94e-43e3-b46b-e4a7fd83e88b.webp",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/zk9c8SEz/1.jpg",
       "actress": [
-        "爱杏美",
-        "椎名美優",
-        "武井麻希"
+        "椎名美優"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PACOPACOMAMA-071623_878"
     }
   ]
 };

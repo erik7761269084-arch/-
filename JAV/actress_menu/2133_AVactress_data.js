@@ -34,14 +34,14 @@ window.actressData = {
     {
       "id": 17093,
       "IDcode": "FOCS-169",
-      "title": "新人出道 170cm原老師里中愛奈～新人女優，不斷被中出～ AV DEBUT",
+      "title": "170cm前教师-里中爱奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20231225/00f601db-5b11-4ba6-8c84-e270559ea312.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/11/68703c523ed39b57c0cd7f9c/cover.jpg",
       "actress": [
         "里中愛奈"
       ],

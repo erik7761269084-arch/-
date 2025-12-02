@@ -26,8 +26,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250117/49dc42b7-af1a-404c-a816-6968edd5e9e4.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 7815,
+      "IDcode": "HALE-059",
+      "title": "媽媽朋友的連環獵豔 vol.54 初嘗不倫 ~ 淺桜エリ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-03-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250302/20250302122813163163.jpg",
+      "actress": [
+        "浅桜エリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALE-059"
+    },
     {
       "id": 62659,
       "IDcode": "AGMX-231",
@@ -35,10 +51,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/a65ee057/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250727-1/534f65ea2f79193bcecc24dddb06c176.jpg",
       "actress": [
         "希咲那奈",
         "久和原聖羅",
@@ -49,6 +65,22 @@ window.actressData = {
         "鳴海まりる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-231"
+    },
+    {
+      "id": 9058,
+      "IDcode": "MEYD-962",
+      "title": "浅桜エリ28歳 ハードに責められてイキまくるマゾ願望たっぷりのむっつり看護師AV DEBUT！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075120804804.jpg",
+      "actress": [
+        "浅桜エリ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-962"
     }
   ]
 };

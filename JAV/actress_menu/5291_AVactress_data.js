@@ -4,7 +4,7 @@ window.actressData = {
   "name": "前田のの",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 83697,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
+      "type": "",
+      "company": "",
       "publish_date": "2019-12-27",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230107-1/157b05c6671664aacfe36250cb269135.jpg",
       "actress": [
         "橘瑪麗",
         "塚田詩織",
@@ -41,6 +41,26 @@ window.actressData = {
         "有坂りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-581"
+    },
+    {
+      "id": 98740,
+      "IDcode": "BBAN-068",
+      "title": "リアル女友達3人組が仲良しデート後のレズSEXを自撮りしちゃいました！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-12-07",
+      "cover_url": "",
+      "actress": [
+        "乙愛麗絲",
+        "阿部乃美久",
+        "奏自由",
+        "星野ひびき",
+        "前田のの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-068"
     }
   ]
 };

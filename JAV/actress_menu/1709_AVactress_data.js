@@ -38,35 +38,16 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 76789,
-      "IDcode": "SCPX-371",
-      "title": "客の僕をダサいってバカにしてたくせに…試着室で2人になった瞬間デカチン勃起見せつけたらエロ笑顔でニッコリ微笑んで来たギャル店員「お客様…内緒ですよ」",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "",
-      "actress": [
-        "星咲ひな",
-        "REN(月乃なつき)",
-        "南なつき",
-        "黒石ジュリア"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
-    },
-    {
       "id": 75126,
       "IDcode": "GETS-126",
       "title": "おじさん大好き黒ストギャル上司が社内搾り取りミーティングで社畜チ○ポを徹底射精管理！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-08-09",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/822055be58f13acc22dc0ec555b0b30a.jpg",
       "actress": [
         "REN(月乃なつき)",
         "岩下たろう",
@@ -83,7 +64,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-10-07",
       "cover_url": "https://picture.yoshiclub.xyz/20231220/c5ccf4a6-0e13-450c-990f-f5b69a7df0d3.jpg",
@@ -91,6 +72,25 @@ window.actressData = {
         "REN(月乃なつき)"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1486"
+    },
+    {
+      "id": 76789,
+      "IDcode": "SCPX-371",
+      "title": "微笑店員",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d4c1f19072af1ee579e9c82b5579676c.jpg",
+      "actress": [
+        "星咲ひな",
+        "REN(月乃なつき)",
+        "南なつき",
+        "黒石ジュリア"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
     }
   ]
 };

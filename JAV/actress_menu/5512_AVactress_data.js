@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2017-04-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/b34c3df222fcdeb55e07f99ee7de51f2.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8677192b4931f00a7de19e00c13af6c7.jpg",
       "actress": [
         "尾上若叶",
         "樱美雪",

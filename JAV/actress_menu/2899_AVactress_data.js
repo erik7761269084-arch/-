@@ -34,13 +34,13 @@ window.actressData = {
     {
       "id": 16878,
       "IDcode": "JUQ-525",
-      "title": "天真漂亮的女播音員有瘀傷，可愛的已婚婦女水無月尤裏 32 歲 AV DEBUT 首次亮相！",
+      "title": "清純可愛女主播 -水無月百合",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-09",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106053112738738.jpg",
       "actress": [
         "水無月百合"

@@ -36,37 +36,243 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240402/e7588220-54b2-44cf-8a92-ebcad731344c.jpg",
     "https://picture.yoshiclub.xyz/20240402/f8b64a27-7d32-4d90-894f-75a6f94e4b24.jpg"
   ],
-  "works_count": 9,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 3098,
-      "IDcode": "NEKK-005",
-      "title": "風俗店面試SEX盜撮 本番推薦風俗店面試 -> 實戰SEX體驗培訓全泄露 四人超長245分鍾 ~ 一條美緒 桐谷すずね 有棲舞衣 美園和花",
+      "id": 15692,
+      "IDcode": "XVSR-750",
+      "title": "來自日本北方的高學歷美少女，身高148cm，天然材質，性欲無限。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/20250830202649298298_85851_thumbnail.webp",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "2024-04-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401085247939939.jpg",
       "actress": [
-        "美園和花",
-        "有栖舞衣",
-        "一条美緒",
         "桐谷すずね"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEKK-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-750"
+    },
+    {
+      "id": 70429,
+      "IDcode": "AGMX-217",
+      "title": "AGMX-217 女装して虐められるクロスドレッシングプレイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d76d27e1ae1e49a4377fd/cover.jpg",
+      "actress": [
+        "桐谷すずね",
+        "横峯めぐ",
+        "松下莉子",
+        "藍瀬ミナ",
+        "成田紬",
+        "六華ノア",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-217"
+    },
+    {
+      "id": 68230,
+      "IDcode": "TPIN-090",
+      "title": "妻子就在旁边",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "椿鳳院",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桐谷すずね",
+        "优梨まいな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-090"
+    },
+    {
+      "id": 66989,
+      "IDcode": "DFE-097",
+      "title": "微笑む口便器 桐谷すずね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桐谷すずね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-097"
+    },
+    {
+      "id": 63626,
+      "IDcode": "SAN-358",
+      "title": "義父に寝取られて妊娠までしてしまったミニ系エロ妻 桐谷すずね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桐谷すずね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-358"
+    },
+    {
+      "id": 15004,
+      "IDcode": "XVSR-754",
+      "title": "用針頭扎乳頭射精才會結束 ~ 桐谷すずね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a1ebbac813dc779d9605c/cover.jpg",
+      "actress": [
+        "桐谷すずね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-754"
+    },
+    {
+      "id": 14245,
+      "IDcode": "XVSR-758",
+      "title": "暴露本能的不间断激烈性爱-桐谷すずね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240602/20240602033958357357.jpg",
+      "actress": [
+        "桐谷すずね",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-758"
+    },
+    {
+      "id": 13632,
+      "IDcode": "XVSR-762",
+      "title": "我人生中第一次內射！想要哥哥精子的無毛妹妹的要求 桐谷すずね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daffd9d6fbef4e90d26330/cover.jpg",
+      "actress": [
+        "桐谷すずね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-762"
+    },
+    {
+      "id": 11388,
+      "IDcode": "SDDE-737",
+      "title": "背面性交クリニック2 4名のナースによる業務的バックピストン治療180分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251029-1/a2fe6cd5b5d85e5c0145378212324d4f.jpg",
+      "actress": [
+        "美咲佳奈",
+        "永野鈴",
+        "清巳麗乃",
+        "桐谷すずね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-737"
+    },
+    {
+      "id": 7963,
+      "IDcode": "SAN-321",
+      "title": "お宅拝見！！ ワンギャルコレクションROOM",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250225/20250225015417951951.jpg",
+      "actress": [
+        "桐谷すずね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-321"
+    },
+    {
+      "id": 6685,
+      "IDcode": "SCPX-526",
+      "title": "突如其來的暴雨讓全身溼透的女性友人來我家避雨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b94c52489841641836f2b3/cover.jpg",
+      "actress": [
+        "瀬那瑠美奈",
+        "桐谷すずね",
+        "野上しおり",
+        "希和みこと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-526"
+    },
+    {
+      "id": 4886,
+      "IDcode": "KTKL-136",
+      "title": "オマセな長い乳頭の二十歳のチビガキ。理沙 145cm",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/8a2a0295dee0cc84c7dd2f656f204c57.jpg",
+      "actress": [
+        "桐谷すずね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKL-136"
+    },
+    {
+      "id": 4806,
+      "IDcode": "HUNTC-202",
+      "title": "不想穿胸罩的小妹妹的乳头灵敏度超群",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889736fc92318f97d1d6819/cover.jpg",
+      "actress": [
+        "五十嵐美月",
+        "桐谷すずね",
+        "水瀬りた",
+        "愛野ひなた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
     },
     {
       "id": 4165,
       "IDcode": "DOA-124",
-      "title": "震驚！絕世美女居然玩絲襪變臉，臉崩到不行！~ 小花暖 彌生美月 西田卡莉娜 望月綾香 前乃菜菜 河合陽菜 有賀千里 竹內夏希 桐谷鈴音",
+      "title": "衝撃！こんな美女が！？パンスト変顔で顔面崩壊！？",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212741129129_45173_thumbnail.webp",
       "actress": [
         "彌生美月",
@@ -88,129 +294,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-124"
     },
     {
-      "id": 4886,
-      "IDcode": "KTKL-136",
-      "title": "嬌小身材20歲的大乳首小萌妹 145cm ~ 桐谷すずね",
+      "id": 3098,
+      "IDcode": "NEKK-005",
+      "title": "風俗面接SEX盗撮 本番推奨風俗店の面接→SEX体験講習パーフェクト流出！！ ＃002 面接シロウト 4名245分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629013354435435_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b429585fdaf263a25c81d1/cover.jpg",
       "actress": [
+        "美園和花",
+        "有栖舞衣",
+        "一条美緒",
         "桐谷すずね"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTKL-136"
-    },
-    {
-      "id": 4806,
-      "IDcode": "HUNTC-202",
-      "title": "不愛穿內衣的貧乳妹妹乳頭超敏感！無防備晃蕩被哥哥玩弄到主動求高潮 ~ 桐谷すずね 五十嵐美月 水瀬りた 愛野ひなた",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/2025061909223233_thumbnail.webp",
-      "actress": [
-        "五十嵐美月",
-        "桐谷すずね",
-        "水瀬りた",
-        "愛野ひなた"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
-    },
-    {
-      "id": 63626,
-      "IDcode": "SAN-358",
-      "title": "【FANZA限定】義父に寝取られて妊娠までしてしまったミニ系エロ妻 / 桐谷すずね チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-05-31",
-      "cover_url": "https://tutu1.space/images/2025/06/03/042c553043da48789765b4233306e941.jpg",
-      "actress": [
-        "桐谷すずね"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-358"
-    },
-    {
-      "id": 66989,
-      "IDcode": "DFE-097",
-      "title": "微笑む口便器 桐谷すずね （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
-      "publish_date": "2025-05-04",
-      "cover_url": "",
-      "actress": [
-        "桐谷すずね"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFE-097"
-    },
-    {
-      "id": 6685,
-      "IDcode": "SCPX-526",
-      "title": "暴雨淋溼女閨蜜借宿換上我的T恤，巨乳誘惑直接開大，兄弟情秒變炮友日常 ~ 野上しおり 桐谷すずね 瀬那瑠美奈 希和みこと",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SCOOP",
-      "publish_date": "2025-04-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420075438577577_thumbnail.webp",
-      "actress": [
-        "瀬那瑠美奈",
-        "桐谷すずね",
-        "野上しおり",
-        "希和みこと"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-526"
-    },
-    {
-      "id": 70429,
-      "IDcode": "AGMX-217",
-      "title": "女装して虐められるクロスドレッシングプレイ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-03-25",
-      "cover_url": "",
-      "actress": [
-        "桐谷すずね",
-        "横峯めぐ",
-        "松下莉子",
-        "藍瀬ミナ",
-        "成田紬",
-        "六華ノア",
-        "しみけん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-217"
-    },
-    {
-      "id": 68230,
-      "IDcode": "TPIN-090",
-      "title": "【FANZA限定】妻が隣に居るのに…エステティシャンにこっそり中出し搾り取られても拒めない夫 末広純さんのブラ・パンティ上下とチェキセット",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-03-12",
-      "cover_url": "",
-      "actress": [
-        "桐谷すずね",
-        "优梨まいな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEKK-005"
     }
   ]
 };

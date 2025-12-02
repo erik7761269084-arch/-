@@ -4,7 +4,7 @@ window.actressData = {
   "name": "本上郁",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91036,
       "IDcode": "JUTA-135",
-      "title": "極上！！三十路奥さま初脱ぎAVドキュメント 本上郁",
+      "title": "三十岁人妻初脱-本上郁",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-08-01",
-      "cover_url": "",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240309-1/3cfafb95e138cb6a30632af561f4dedf.jpg",
       "actress": [
         "本上郁"
       ],

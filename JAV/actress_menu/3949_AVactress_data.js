@@ -4,7 +4,7 @@ window.actressData = {
   "name": "一二三铃",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2022-07-27",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230804-1/15af35b05f9fae5d9a31b9e08d657739.jpg",
       "actress": [
         "塚田詩織",
         "汐河佳奈",
@@ -44,7 +44,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-06",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/7828a33f000d1b4e00f6a684c5a34965.jpg",
@@ -67,10 +67,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-01-07",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20200613-1/cb49c46c15a1b411af08ebf35750243d.jpg",
       "actress": [
         "仓多真央",
         "永野司",
@@ -91,33 +91,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-02-05",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/08b41694422805aeff06763442f81192.jpg",
       "actress": [
         "一二三铃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-362"
-    },
-    {
-      "id": 69867,
-      "IDcode": "SUPA-401",
-      "title": "露出度が高い過激な服装のビッチ素人ナンパ！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S級素人",
-      "publish_date": "2018-12-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/54a0b71dda63b7c7a89291b1849ed3df.jpg",
-      "actress": [
-        "寶生莉莉",
-        "椎叶みくる",
-        "一二三铃",
-        "柳川まこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
     },
     {
       "id": 71422,
@@ -126,10 +107,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-11-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250228-1/ce4e460793b696c3a14f26b6ab0447e5.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1b48484e59607ce2b10dbfe226ff9663.jpg",
       "actress": [
         "三岛奈津子",
         "一二三铃",
@@ -137,6 +118,25 @@ window.actressData = {
         "花咲ひらり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-519"
+    },
+    {
+      "id": 69867,
+      "IDcode": "SUPA-401",
+      "title": "露出度が高い過激な服装のビッチ素人ナンパ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S級素人",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/62cd3a0f0ac9e9e6468acaea35f74138.jpg",
+      "actress": [
+        "寶生莉莉",
+        "椎叶みくる",
+        "一二三铃",
+        "柳川まこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-401"
     }
   ]
 };

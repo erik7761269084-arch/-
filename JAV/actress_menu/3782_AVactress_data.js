@@ -4,7 +4,7 @@ window.actressData = {
   "name": "さくら",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,39 +16,55 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 68172,
-      "IDcode": "MAAN-1068",
-      "title": "精子提供を希望する人妻に夫に代わって孕ませ代行20【さくら】",
+      "id": 520866,
+      "IDcode": "200GANA-2960",
+      "title": "マジ软派、初撮。 1993 脱がせればオトナの色気溢れる三十路美人！声かけに応じた女を谛めるな！押せ押せおせっくす！寂しがり欲求不満ボディとしっかり合体！気持ちよすぎて强●二回戦突入！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DOC",
-      "publish_date": "2025-04-19",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-11-21",
       "cover_url": "",
       "actress": [
         "さくら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1068"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2960"
     },
     {
-      "id": 79152,
-      "IDcode": "NTK-563",
-      "title": "- 祝！！新性人！！黒髪乙女の誘惑F乳！！すでに色香は超新成人級！？記念のバニーコスでエチ美ボディをフル活用で圧倒的ボッキ誘発力を発揮！！負けず劣らずエチエチボディの友人と性の祭典大乱交4Pでお互いのアクメをクロスオーバー大昇天！！※タイマンSEXもあるよ！！ - JAV目錄大全javmenu.com",
+      "id": 519740,
+      "IDcode": "300NTK-563",
+      "title": "The Sex Appeal Is Already Super New Adult Class!",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/fe8ce14b6456775b47bc6454ffcdd1a5.jpg",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/fe8ce14b6456775b47bc6454ffcdd1a5.jpg",
       "actress": [
         "さくら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTK-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-563"
+    },
+    {
+      "id": 68172,
+      "IDcode": "300MAAN-1068",
+      "title": "さくらさん 神谷咲良",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "さくら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1068"
     }
   ]
 };

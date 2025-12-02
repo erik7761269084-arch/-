@@ -35,32 +35,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230512/4048510c-fa63-4119-b477-07d9f4a65816.jpg"
   ],
-  "works_count": 3,
+  "works_count": 2,
   "related_dramas": [
-    {
-      "id": 4254,
-      "IDcode": "NSFS-403",
-      "title": "AI重製版 頂級濃情色片 瘋狂熱吻 經典永久收藏3小時 ~ 大友唯爱 石川さとこ 真心実 桜沢まひる 艶堂しほり 杉本兰",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703605605_88783_thumbnail.webp",
-      "actress": [
-        "川上優",
-        "桜沢まひる",
-        "真心実",
-        "艶堂しほり",
-        "杉本蘭",
-        "大友唯爱",
-        "远藤しおり",
-        "石川さとこ",
-        "真白希美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-403"
-    },
     {
       "id": 72813,
       "IDcode": "NSFS-359",
@@ -68,10 +44,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://tutu1.space/images/2025/08/10/3617687dc20c14e51ff95b2ea84c588e.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "風間由美",
         "翔田千里",
@@ -85,20 +61,28 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-359"
     },
     {
-      "id": 1492,
-      "IDcode": "SKYHD-011",
-      "title": "天天使藍 Vol.11 : Yuu Mahiru : Part.1 (HD)",
+      "id": 4254,
+      "IDcode": "NSFS-403",
+      "title": "AIリマスター版 極上濃厚エロビデオ もの凄い接吻 名作永久保存版3時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2011-07-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230512/e46f45ea-fa02-4388-b263-90c0c513d908.webp",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703605605_88783_thumbnail.webp",
       "actress": [
-        "桜沢まひる"
+        "川上優",
+        "桜沢まひる",
+        "真心実",
+        "艶堂しほり",
+        "杉本蘭",
+        "大友唯爱",
+        "远藤しおり",
+        "石川さとこ",
+        "真白希美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-403"
     }
   ]
 };

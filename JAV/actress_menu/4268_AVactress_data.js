@@ -22,26 +22,8 @@ window.actressData = {
     "Hatsumi Rin"
   ],
   "gallery": [],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 107658,
-      "IDcode": "RBD-939",
-      "title": "南京袋の女",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2019-10-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/rbd939/rbd939pl.jpg",
-      "actress": [
-        "大槻响",
-        "河合乃乃花",
-        "初美りん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-939"
-    },
     {
       "id": 82763,
       "IDcode": "HNDS-064",
@@ -49,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-08-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/87dfd1df63723edcceb41a51d2263eb6.jpg",
       "actress": [
         "乙愛麗絲",
         "向井藍",
@@ -66,20 +48,38 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-064"
     },
     {
-      "id": 77380,
-      "IDcode": "RCTD-210",
-      "title": "ふたなロイド",
+      "id": 104109,
+      "IDcode": "XVSR-360",
+      "title": "初美りん4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2019-03-21",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "2018-03-25",
       "cover_url": "",
       "actress": [
         "初美りん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-210"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-360"
+    },
+    {
+      "id": 107658,
+      "IDcode": "RBD-939",
+      "title": "被绑架装在麻袋中运送的女人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c2bf4f9a2e9b1d45ba7d8/cover.jpg",
+      "actress": [
+        "大槻响",
+        "河合乃乃花",
+        "初美りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-939"
     },
     {
       "id": 99085,
@@ -88,9 +88,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Sadistic Village",
-      "publish_date": "2018-10-11",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "大槻响",
@@ -101,38 +101,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-686"
     },
     {
-      "id": 72429,
-      "IDcode": "AKA-059",
-      "title": "シロウト制服美人 16 超美人広報の美顔＆淫尻を汚しまくる！特濃精子25発",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-06-29",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/06d70b1a3a2e2522e2338ff7d41159dd.jpg",
-      "actress": [
-        "鲛岛",
-        "初美りん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKA-059"
-    },
-    {
       "id": 78463,
       "IDcode": "DOCP-051",
       "title": "「ダメ…声出ちゃうって！」声を出しちゃいけない状況でカワイイあの子の股間を陰湿イタズラ責め！スリルとドキドキ感でマ○コが爆濡れ！アヘ声を我慢しながら連続真性中出しSEX！！2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-06-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "初美りん",
         "なつめ爱梨"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-051"
+    },
+    {
+      "id": 77380,
+      "IDcode": "RCTD-210",
+      "title": "双性具AI机器人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "初美りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-210"
+    },
+    {
+      "id": 72429,
+      "IDcode": "AKA-059",
+      "title": "シロウト制服美人 16 超美人広報の美顔＆淫尻を汚しまくる！特濃精子25発",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2472c128eb64ab4d19d6b70367abdbc5.jpg",
+      "actress": [
+        "鲛岛",
+        "初美りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKA-059"
     }
   ]
 };

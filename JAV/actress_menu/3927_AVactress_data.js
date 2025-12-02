@@ -4,7 +4,7 @@ window.actressData = {
   "name": "出口結絆",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 69633,
       "IDcode": "CAWD-826",
-      "title": "満足できる男とセックスに巡り会えず男を漁りまくる現役JDドラム美女がうねりとグルーヴを生み出す腰使いで リズミカルにイキ跳ねブッ飛びAVデビュー 出口結絆",
+      "title": "滿意的男人與性愛相會-出口結絆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-04-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68caa596eb67774efba4055e/cover.jpg",
       "actress": [
         "鲛岛",
         "出口結絆"

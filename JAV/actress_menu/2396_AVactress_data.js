@@ -36,8 +36,28 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241128/b60fa5d3-f84a-46aa-a82b-9e1b2547e96c.jpg",
     "https://picture.yoshiclub.xyz/20241128/42e06ab4-71e2-4b09-9b4c-74665f3332de.jpg"
   ],
-  "works_count": 8,
+  "works_count": 10,
   "related_dramas": [
+    {
+      "id": 10343,
+      "IDcode": "ONEX-071",
+      "title": "卑賤的媚態懷孕請求 代孕OK的服務女僕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ONE MORE",
+      "publish_date": "2024-12-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/191eca3a-1081-4814-a30e-040de42d14f6.jpg",
+      "actress": [
+        "渚光希",
+        "若月玛丽亚",
+        "持田栞里",
+        "四葉麗",
+        "心菜りお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEX-071"
+    },
     {
       "id": 89764,
       "IDcode": "RVG-210",
@@ -45,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2023-11-07",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231110/dzKw1LDI/1.jpg",
       "actress": [
         "椿莉香",
         "夏希栗",
@@ -60,33 +80,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-210"
     },
     {
-      "id": 88317,
-      "IDcode": "DOCP-242",
-      "title": "心菜りお×葉山夏菜 金髪エロカワギャルズ男に跨り杭打ちピストン騎乗位！ 暴発不可避の本生中SEX！！ 12発射4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-08-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231004-1/e6fae853ec32363029cd7e28077ba079.jpg",
-      "actress": [
-        "心菜りお",
-        "菊川みつ叶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-242"
-    },
-    {
       "id": 81591,
       "IDcode": "HRV-026",
       "title": "新人 専属女優デビューBEST 8時間 vol.03 圧倒的美少女の【セックス解禁】の瞬間を見逃すな！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/1X96fz0W/1.jpg",
       "actress": [
         "有村希",
         "野野浦暖",
@@ -100,49 +103,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRV-026"
     },
     {
-      "id": 88327,
-      "IDcode": "DOCP-212",
-      "title": "デカチンの義父を、母がいない3日間弄び続ける、性に奔放な連れ子の美少女姉妹",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-03-20",
-      "cover_url": "",
-      "actress": [
-        "奏音花音",
-        "心菜りお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-212"
-    },
-    {
-      "id": 78180,
-      "IDcode": "MDTM-550",
-      "title": "新放課後美少女回春リフレクソロジー＋ Vol.025 真奈りおな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "",
-      "actress": [
-        "心菜りお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-550"
-    },
-    {
       "id": 73468,
       "IDcode": "ONEZ-198",
       "title": "常に腋見せフェチイメクラ 真奈りおな Vol.001",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-02",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/eeadf80b8ca91676780c4216062c8f94.jpg",
       "actress": [
         "心菜りお"
       ],
@@ -155,10 +125,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
       "publish_date": "2019-08-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/01cf55d6d481e25f4e4467c6638c5be3.jpg",
       "actress": [
         "心菜りお",
         "芹沢ゆず"
@@ -172,8 +142,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-06-21",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241231-1/7da760d28ccdb46c86ddcbdb8e3bcd91.jpg",
       "actress": [
@@ -181,6 +151,72 @@ window.actressData = {
         "沢井亮"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-869"
+    },
+    {
+      "id": 529236,
+      "IDcode": "DOCP-212",
+      "title": "两姐妹趁妈不在家搞垮老爸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20241122-1/886ddb5ae3a25247f87e02cba6371b45.jpg",
+      "actress": [
+        "奏音花音",
+        "心菜りお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-212"
+    },
+    {
+      "id": 103187,
+      "IDcode": "MDTM-563",
+      "title": "イクイク早漏敏感妹と排卵日子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "心菜りお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-563"
+    },
+    {
+      "id": 88317,
+      "IDcode": "DOCP-242",
+      "title": "心菜りお×葉山夏菜 金髪エロカワギャルズ男に跨り杭打ちピストン騎乗位！ 暴発不可避の本生中SEX！！ 12発射4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/95109063570fa87034c4db135612b6fc.jpg",
+      "actress": [
+        "心菜りお",
+        "菊川みつ叶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-242"
+    },
+    {
+      "id": 78180,
+      "IDcode": "MDTM-550",
+      "title": "新放課後美少女回春-真奈りおな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/70240781d22ff13ffc930ae2187af59d.jpg",
+      "actress": [
+        "心菜りお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-550"
     }
   ]
 };

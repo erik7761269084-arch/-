@@ -30,8 +30,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240305/bb6d6e91-e6ee-43f7-8d76-f885d6374f55.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 96762,
+      "IDcode": "HAWA-317",
+      "title": "过着平凡生活的妾室-山下佳恋",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Cosmos 映像",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "山下佳恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-317"
+    },
     {
       "id": 93327,
       "IDcode": "MYBA-071",
@@ -39,10 +55,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-06-18",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/01116f875e98defa2b94f94b95e5e5e2.jpg",
       "actress": [
         "山下佳恋"
       ],
@@ -51,14 +67,14 @@ window.actressData = {
     {
       "id": 91879,
       "IDcode": "VEMA-222",
-      "title": "美人女教師の彼女はクラスの担任で部活の顧問でボクの恋人～年上彼女と朝から晩まで禁断情熱中出しSEX～ 山下佳恋",
+      "title": "美人女教师-山下佳恋",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2024-05-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240617-1/f517591c811cd97e67ce7a6a5278e6fc.jpg",
       "actress": [
         "山下佳恋"
       ],

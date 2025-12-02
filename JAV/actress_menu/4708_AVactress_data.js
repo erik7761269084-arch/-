@@ -4,7 +4,7 @@ window.actressData = {
   "name": "朝宫凉子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Mellow Moon",
-      "publish_date": "2024-12-10",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/17/9ffbca2e1e96ed2bd40880ff5842d64a.jpg",
       "actress": [
         "朝宫凉子"
       ],

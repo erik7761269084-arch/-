@@ -45,19 +45,36 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20251001/ce745dab-bed7-43f5-8e04-84814c7131b9_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20251001/9e25ed59-9cd2-4f3e-af6b-8ae257fba812_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 2357,
-      "IDcode": "DLDSS-438",
-      "title": "當年的清純美蘿莉再次復活出道！43歲了你敢信？上司出差期間與他夫人瘋狂舌吻纏綿的日子 ~ 糸矢芽衣",
+      "id": 98734,
+      "IDcode": "ATID-169",
+      "title": "女忍者凌辱傳 ―活在影子下的命運― 小川朝美 糸矢芽衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2011-02-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid169/atid169pl.jpg",
+      "actress": [
+        "小川阿佐美",
+        "糸矢芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-169"
+    },
+    {
+      "id": 2357,
+      "IDcode": "DLDSS-438",
+      "title": "神乳素人！？ 圧倒的なスタイルで男を虜にするショートカット美女 角奈保",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2025-10-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251001/20251001224436470470_47884_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "糸矢芽衣"
       ],

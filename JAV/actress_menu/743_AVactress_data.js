@@ -37,57 +37,73 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/7153808f-a680-4f44-b96d-985fc483281a.jpg",
     "https://picture.yoshiclub.xyz/20230124/c5a2f6f2-722e-41c6-b439-ce13f6754028.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 1786,
-      "IDcode": "lafbd-37",
-      "title": "Laforet Girl Vol.37 真泉里奈",
+      "id": 836,
+      "IDcode": "HEYZO-1037",
+      "title": "濕一整天插一整天天國 - 星咲優菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2014-12-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/64a9f067-328f-49aa-9218-10f7c571cb02.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-12-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240522/17e47cf9-576a-44b3-9065-4afd1af00e4b.jpg",
       "actress": [
         "星咲優菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=lafbd-37"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1037"
     },
     {
-      "id": 1779,
-      "IDcode": "SKYHD-099",
-      "title": "SKY ANGEL 99 星咲優菜",
+      "id": 159146,
+      "IDcode": "CARIB-061323-001",
+      "title": "仕事の疲れを爆乳Hカップで労ってくれる妻",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-09-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/4989944f-116f-4d5e-af24-5d4e0047bcb2.webp",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/LZwUEQ49/1.jpg",
       "actress": [
         "星咲優菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-061323-001"
     },
     {
-      "id": 1791,
-      "IDcode": "SKYHD-113",
-      "title": "SKY ANGLE 113 三大超人氣SEX美乳美女齊上陣潮吹 ~ 上原保奈美, 中野亞里沙, 星咲優菜",
+      "id": 104853,
+      "IDcode": "EBWH-081",
+      "title": "一代风靡的AV女优身体与色情魅力倍增回归",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-09-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/245a80a0-3318-4187-b20d-edce4a013253.webp",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "星咲優菜",
-        "中野亚梨沙",
-        "上原保奈美"
+        "小田切ジュン",
+        "星咲优菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-113"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-081"
+    },
+    {
+      "id": 14661,
+      "IDcode": "EBWH-095",
+      "title": "高桥由罗想要疗癒私人体验",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517040857289289.jpg",
+      "actress": [
+        "星咲優菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-095"
     }
   ]
 };

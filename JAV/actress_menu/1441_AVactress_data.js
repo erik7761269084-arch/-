@@ -31,39 +31,40 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Nanairo/愛内希.jpg",
     "https://picture.yoshiclub.xyz/20230210/d082cd7a-ce0b-4624-9f7b-d0d7f33feffb.jpg"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 1528,
-      "IDcode": "SKYHD-095",
-      "title": "SKY ANGEL BLUE Vol.95 : 愛內希",
+      "id": 98511,
+      "IDcode": "LADYA-001",
+      "title": "女好きの女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-07-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230506/468d1b04-8781-44cf-8195-19efbd4a5a16.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-06-07",
+      "cover_url": "",
       "actress": [
-        "爱内希"
+        "爱内希",
+        "管野静香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-095"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LADYA-001"
     },
     {
-      "id": 1753,
-      "IDcode": "SKYHD-082",
-      "title": "SKY ANGEL 82 愛內希",
+      "id": 143257,
+      "IDcode": "101713-457",
+      "title": "纯真学园偶像的认真Part1",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-11-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/df0c248d-d71f-41f7-88bf-492423330b65.webp",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250206-1/728c0c17fec2a5144a7f7408d6190e7a.jpg",
       "actress": [
         "爱内希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-082"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=101713-457"
     },
     {
       "id": 75768,
@@ -72,14 +73,46 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2012-04-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241208-1/778e534cd8150b4290308dda6beebce4.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/71f7e6689b4fc29e793bf98c96a78ef2.jpg",
       "actress": [
         "爱内希"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-448"
+    },
+    {
+      "id": 1528,
+      "IDcode": "SKYHD-095",
+      "title": "SKY ANGEL BLUE Vol.95 : 愛內希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SKY HIGH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/14f9b2890714a250bd29cbd6d130e9a2.jpg",
+      "actress": [
+        "爱内希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-095"
+    },
+    {
+      "id": 136,
+      "IDcode": "HEYZO-0097",
+      "title": "密室中的狂熱激情～體液交融～ ~ 爱内希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c6e8ba79f1ac4ec459e2b4/cover.jpg",
+      "actress": [
+        "爱内希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0097"
     }
   ]
 };

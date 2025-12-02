@@ -4,7 +4,7 @@ window.actressData = {
   "name": "鬼頭りりか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 77927,
       "IDcode": "NVH-036",
-      "title": "拘束されて雌イキの快楽を刷り込まれる！美しい狂気！ニューハーフ逆アナルセックス 鬼頭りりか （BOD）",
+      "title": "拘束されて雌イキの快楽を刷り込まれる！美しい狂気！ニューハーフ逆アナルセックス 鬼頭りりか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://tutu1.space/images/2025/09/08/6cc831006b6f4d4bf53479e71c14e7d9.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d788e7e1ae1e49a43853e/cover.jpg",
       "actress": [
         "鬼頭りりか"
       ],

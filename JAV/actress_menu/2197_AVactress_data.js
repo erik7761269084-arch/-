@@ -34,20 +34,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 19510,
-      "IDcode": "AVZG-023",
-      "title": "求月老賜下正妹來搭訕！ 岸田歩美",
+      "id": 82269,
+      "IDcode": "CHN-123",
+      "title": "岸田步美初次拍摄体验AV的感觉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2017-11-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230407/8ee44a17-fa1b-400a-ad23-b65c534836e1.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "岸田歩美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVZG-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-123"
     }
   ]
 };

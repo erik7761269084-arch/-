@@ -39,13 +39,13 @@ window.actressData = {
     {
       "id": 5783,
       "IDcode": "SDAM-140",
-      "title": "新人出道！新潟出身的音大才女（22歲）只體驗過一次性愛，畢業前夕勇敢踏入AV界，半年後F罩杯美乳在鏡頭前搖曳。 ~平井花音",
+      "title": "経験人数たった1人。新潟出身のお嬢様音大生 平井花音さん（22）卒業直前にAV出演。処女喪失からわずか半年でカメラの前でFカップの美乳を揺らす",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526205711248248_thumbnail.webp",
       "actress": [
         "平井花音"

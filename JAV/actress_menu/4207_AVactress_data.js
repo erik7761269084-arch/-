@@ -26,8 +26,24 @@ window.actressData = {
     "Nakao Mio"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 96502,
+      "IDcode": "NNPJ-203",
+      "title": "搬家公司巨乳妹也下海啦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "黒木澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-203"
+    },
     {
       "id": 88359,
       "IDcode": "HUNTA-354",
@@ -35,10 +51,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-10-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/dec95f420cfb1564e8852f06a97fe8a1.jpg",
       "actress": [
         "南真悠",
         "若菜奈央",
@@ -47,6 +63,26 @@ window.actressData = {
         "黒木澪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-354"
+    },
+    {
+      "id": 71861,
+      "IDcode": "AP-526",
+      "title": "巨尻家政婦 寝バックハードピストン中出し痴漢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/75197bc43f51d217347a1c391c470074.jpg",
+      "actress": [
+        "小泉真理",
+        "三原穗香",
+        "若槻みづな",
+        "小泉沙彩",
+        "黒木澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-526"
     }
   ]
 };

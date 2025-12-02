@@ -4,7 +4,7 @@ window.actressData = {
   "name": "恵凛音",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2019-07-12",
-      "cover_url": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20250102-1/9818044188c6b8b05b10de8aed8b0c32.jpg",
       "actress": [
         "森林原人",
         "恵凛音"

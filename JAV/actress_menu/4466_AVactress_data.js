@@ -4,7 +4,7 @@ window.actressData = {
   "name": "城山若菜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-03",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/luQLrZLt/1.jpg",
       "actress": [
         "城山若菜"
       ],
@@ -41,8 +41,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/9d4c9a16a98be8f97118bf645a6269ee.jpg",
       "actress": [
@@ -58,8 +58,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-20",
       "cover_url": "",
       "actress": [
@@ -68,15 +68,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTS-010"
     },
     {
+      "id": 94921,
+      "IDcode": "DVDMS-471",
+      "title": "一般男女モニタリングAV終電間際の社会人男女に突撃交渉！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/339f3d0468b837d59502df03d04fdfcd.jpg",
+      "actress": [
+        "三岛奈津子",
+        "逢泽真里亚",
+        "城山若菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-471"
+    },
+    {
       "id": 83164,
       "IDcode": "RCTD-292",
       "title": "真・時間が止まる腕時計パート15",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2019-12-26",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "凛音とうか",
@@ -87,34 +105,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-292"
     },
     {
-      "id": 94921,
-      "IDcode": "DVDMS-471",
-      "title": "一般男女モニタリングAV 終電間際の社会人男女に突撃交渉！人妻OLは後輩男子社員とラブホテルで2人っきりになったら旦那を忘れて1発10万円の連続射精セックスしてしまうのか！？ 6 女上司の乱れた姿にフル勃起した後輩チ○ポと女を思い出した人妻オマ○コの同僚には秘密の…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-19",
-      "cover_url": "",
-      "actress": [
-        "三岛奈津子",
-        "逢泽真里亚",
-        "城山若菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-471"
-    },
-    {
       "id": 74624,
       "IDcode": "DTT-034",
       "title": "セックスレスで盛りづく30歳長身美脚人妻某有名漢字会派 書道師範 城山若菜AVデビュー 身長170cmFカップ美乳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-08-30",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/993f5e718bdda6839daaec1fa6115415.jpg",
       "actress": [
         "南佳也",
         "城山若菜"

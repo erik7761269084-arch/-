@@ -40,13 +40,13 @@ window.actressData = {
     {
       "id": 2832,
       "IDcode": "FFT-031",
-      "title": "新人出道！奇跡の美貌 42歲人妻，前國際空姐初次下海，顏值逆天你見過嗎？ AV DEBUT ~ 七沢えま",
+      "title": "前国际空姐人妻初次下海-七沢えま",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-09-19",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911024247131131_98813_thumbnail.webp",
       "actress": [
         "七沢えま",

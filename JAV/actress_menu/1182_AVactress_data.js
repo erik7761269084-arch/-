@@ -29,24 +29,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240317/3d8d9a53-8c99-45db-bd96-da372a4e94dd.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
-    {
-      "id": 13921,
-      "IDcode": "PRST-014",
-      "title": "工作蕩婦姐姐 女人越勤奮，性欲就越強。小阪蘭",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2024-06-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614030554764764.jpg",
-      "actress": [
-        "小坂蘭"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-014"
-    },
     {
       "id": 14639,
       "IDcode": "PRST-013",
@@ -54,14 +38,46 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-05-21",
       "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517044116606606.jpg",
       "actress": [
         "小坂蘭"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-013"
+    },
+    {
+      "id": 15442,
+      "IDcode": "PRST-010",
+      "title": "苗條美乳正妹被肉棒抽插到高潮失禁升天",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412230501515515.jpg",
+      "actress": [
+        "小坂蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-010"
+    },
+    {
+      "id": 13921,
+      "IDcode": "PRST-014",
+      "title": "工作荡妇姐姐-小坂兰",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614030554764764.jpg",
+      "actress": [
+        "小坂蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-014"
     }
   ]
 };

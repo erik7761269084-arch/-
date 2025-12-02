@@ -29,34 +29,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 77137,
-      "IDcode": "NHDTA-805",
-      "title": "扉を開けたらお姉ちゃんが手を使わないフェラの練習中！初めて見た姉の舌使いに欲情した弟は抑えがきかず禁断の近親相姦",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2016-04-07",
-      "cover_url": "",
-      "actress": [
-        "石田美久",
-        "麻里梨夏",
-        "白石悠"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-805"
-    },
-    {
       "id": 64051,
       "IDcode": "NHDTA-785",
       "title": "背後位肏到學生妹生癡漢電車",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
+      "type": "",
+      "company": "",
       "publish_date": "2016-02-18",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230401-39/1863a7f259d23b02999183c23c406f39.jpg",
+      "cover_url": "",
       "actress": [
         "南梨央奈",
         "安部藍",
@@ -64,6 +46,24 @@ window.actressData = {
         "白石悠"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-785"
+    },
+    {
+      "id": 77137,
+      "IDcode": "NHDTA-805",
+      "title": "禁断近親相姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20241005-1/17926eb554114b7870593d4b6bcb1c6e.jpg",
+      "actress": [
+        "石田美久",
+        "麻里梨夏",
+        "白石悠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-805"
     }
   ]
 };

@@ -31,23 +31,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/美神あや.jpg",
     "https://picture.yoshiclub.xyz/20230124/44fe060c-e11f-40a9-a363-a1cd6217951d.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1958,
-      "IDcode": "LAFBD-64",
-      "title": "林間少女 64 高級SPA : 美神彩",
+      "id": 931,
+      "IDcode": "HEYZO-1172",
+      "title": "內射試衣間～肏翻巨乳店員～ - 美神彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2015-12-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/89b93128-5795-45e7-bf02-ee0d77aaefb7.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-05-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20240404/e419fa7f-d8ee-4ffe-a065-78bcf3fe30dd.jpg",
       "actress": [
         "美神彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-64"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1172"
+    },
+    {
+      "id": 817,
+      "IDcode": "HEYZO-1011",
+      "title": "足交少女 - 美神彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-11-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20240611/20240611233049486486.jpg",
+      "actress": [
+        "美神彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1011"
     }
   ]
 };

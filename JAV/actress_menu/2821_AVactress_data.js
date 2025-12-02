@@ -42,13 +42,13 @@ window.actressData = {
     {
       "id": 6442,
       "IDcode": "MIZD-453",
-      "title": "剛入職的嫩妹OL被摧毀未來的鬼畜侵犯合集40選 ~ 小野六花 八木奈奈 葵伊吹 水卜櫻 二葉惠麻 初川南 水原美園 琴音華 二見玲 佐久良咲希",
+      "title": "入社直後の若手OLの未来を破壊した鬼畜レ×プ事件集40選 同僚、上司、レ●プ魔の鬼畜チ●ポがドストライクすぎて屈辱絶頂を繰り返す地獄の4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-02",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043734209209_thumbnail.webp",
       "actress": [
         "森澤佳奈",

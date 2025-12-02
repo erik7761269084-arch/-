@@ -27,13 +27,13 @@ window.actressData = {
     {
       "id": 70739,
       "IDcode": "JUFD-707",
-      "title": "巨根の虜 爆乳と膣が欲しがるデカマラディープFUCK 江藤ゆい",
+      "title": "巨根の虜-江藤ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DREAMTICKET",
-      "publish_date": "2017-03-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "江藤ゆい"

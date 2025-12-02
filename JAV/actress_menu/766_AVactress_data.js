@@ -48,42 +48,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240923/9a4cf962-e3b3-4cb3-a582-328b4e91b360.jpg",
     "https://picture.yoshiclub.xyz/20240923/0b6703be-fbad-4d2f-b461-2fb6951cc0ab.jpg"
   ],
-  "works_count": 3,
+  "works_count": 8,
   "related_dramas": [
-    {
-      "id": 9506,
-      "IDcode": "SSNI-535",
-      "title": "【強奸，顏射初解禁】身材高挑、美腳空服CA，被輪奸了好幾天 ~ 乾立夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241230/20241230032910603603.jpg",
-      "actress": [
-        "乾立夏",
-        "干立夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-535"
-    },
-    {
-      "id": 9567,
-      "IDcode": "SSNI-511",
-      "title": "渴望瘦身維持形體的美少女被變態理療店猥褻寢取 ~ 乾立夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-07-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241227/20241227045601686686.jpg",
-      "actress": [
-        "乾立夏",
-        "干立夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-511"
-    },
     {
       "id": 10193,
       "IDcode": "SSNI-489",
@@ -91,7 +57,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
       "publish_date": "2019-06-07",
       "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205014559419419.jpg",
@@ -102,6 +68,120 @@ window.actressData = {
         "干立夏"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-489"
+    },
+    {
+      "id": 10359,
+      "IDcode": "SSNI-470",
+      "title": "絕頂高潮開發 巨根 x 陰道高潮 ~ 乾立夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-05-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20241127/20241127060737255255.jpg",
+      "actress": [
+        "乾立夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-470"
+    },
+    {
+      "id": 11001,
+      "IDcode": "SSNI-449",
+      "title": "182次強烈高潮！痙攣4550回！ 10,000cc大潮噴！ 170cm 8頭身性愛覺醒大大大・痙・攣ス！ ~ 乾立夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-04-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20241026/202410260146481414.jpg",
+      "actress": [
+        "乾立夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-449"
+    },
+    {
+      "id": 11227,
+      "IDcode": "SSNI-429",
+      "title": "體液交換，濃密的性愛 ~ 乾立夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-03-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017072053618618.jpg",
+      "actress": [
+        "乾立夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-429"
+    },
+    {
+      "id": 11754,
+      "IDcode": "SSNI-387",
+      "title": "新人 NO.1 STYLE 首次亮相 AV DEBUT ~ 乾立夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-01-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240923/20240923032017314314.jpg",
+      "actress": [
+        "乾立夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-387"
+    },
+    {
+      "id": 11383,
+      "IDcode": "SSNI-407",
+      "title": "初体験3本番スペシャル 乾りっか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241009/20241009003549753753.jpg",
+      "actress": [
+        "乾立夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-407"
+    },
+    {
+      "id": 9567,
+      "IDcode": "SSNI-511",
+      "title": "憧憬细腰曲线的少女-乾りっか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0cc78cda0a02488d650dba99cd518b90.jpg",
+      "actress": [
+        "乾立夏",
+        "干立夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-511"
+    },
+    {
+      "id": 9506,
+      "IDcode": "SSNI-535",
+      "title": "被连日轮奸的高挑黑丝美腿空姐-乾りっか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241230/20241230032910603603.jpg",
+      "actress": [
+        "乾立夏",
+        "干立夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-535"
     }
   ]
 };

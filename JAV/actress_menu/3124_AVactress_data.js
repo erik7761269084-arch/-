@@ -4,7 +4,7 @@ window.actressData = {
   "name": "友永ありさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 59880,
       "IDcode": "TRDDS-017",
-      "title": "- Ten-nyo（天女）/友永ありさ （ブルーレイディスク） - JAV目錄大全javmenu.com",
+      "title": "Ten-nyo（天女）友永ありさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/30/6445a121/vod.jpg",
+      "cover_url": "",
       "actress": [
         "友永ありさ"
       ],

@@ -35,18 +35,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231210/255815c0-a797-40c2-a572-4b9496419379.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 16872,
-      "IDcode": "JUQ-519",
-      "title": "麥當娜獨家第 2 部分!! 受過高等教育的精英妻子中出禁令解除!! 我被我丈夫最好的朋友操了",
+      "id": 17339,
+      "IDcode": "JUQ-495",
+      "title": "超高学历精英人妻-松莉乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-09",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231210/abe85c24-fe3c-4948-9767-ba12d05e57ed.jpg",
+      "actress": [
+        "松莉乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-495"
+    },
+    {
+      "id": 16872,
+      "IDcode": "JUQ-519",
+      "title": "高學歷人妻-松莉乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106061440993993.jpg",
       "actress": [
         "松莉乃",
@@ -55,20 +71,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-519"
     },
     {
-      "id": 17339,
-      "IDcode": "JUQ-495",
-      "title": "新人出道！！性標準70+的高學歷菁英人妻松莉乃 首次亮相 AV DEBUT",
+      "id": 16366,
+      "IDcode": "JUQ-574",
+      "title": "黑丝女教師NTR-松莉乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231210/abe85c24-fe3c-4948-9767-ba12d05e57ed.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240211/20240211003327414414.jpg",
       "actress": [
         "松莉乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-574"
+    },
+    {
+      "id": 11949,
+      "IDcode": "DDOB-136",
+      "title": "淫乱ブーツ生中出し 美脚妻を連続ファックやりたい放題 松乃りの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240916/de38ec17-0c9b-40ba-91e5-943d42370eb5.jpg",
+      "actress": [
+        "松莉乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-136"
     }
   ]
 };

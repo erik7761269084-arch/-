@@ -4,7 +4,7 @@ window.actressData = {
   "name": "浅倉まいな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "NOSKINS",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://tutu1.space/images/2025/06/27/673419f1f68754b915ef07bb546dbb3c.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-2/2942b055b247dd0024dd97b242043ae2.jpg",
       "actress": [
         "浅倉まいな"
       ],

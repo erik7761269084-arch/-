@@ -4,7 +4,7 @@ window.actressData = {
   "name": "陆畑ひなの",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,32 +19,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 66793,
-      "IDcode": "GANA-2272",
-      "title": "百戦錬磨のナンパ師のヤリ部屋で、連れ込みSEX隠し撮り 156 彼氏とマンネリ気味なスレンダー巨乳美女！パートナーには言えないドMな性癖を打ち明けて、手首を縛られイジワルされまくり！犯されSEXで『彼氏より気持ちいぃ…！』のお言葉いただきました！！",
+      "id": 196686,
+      "IDcode": "200GANA-2272",
+      "title": "在身经百战的约炮达人房间内和身材苗条却又巨乳的美女啪啪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-04-09",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "陆畑ひなの"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2272"
     },
     {
       "id": 78199,
       "IDcode": "DASD-584",
-      "title": "隣人に俺の彼女が寝取られて。「ベランダに忍び寄る怪しい人影編」 陸畑ひなの",
+      "title": "隣人に俺の彼女が寝取られて。「ベランダに忍び寄る怪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-09-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20221020/dasd00584pl.jpg",
       "actress": [
         "陆畑ひなの"
       ],
@@ -53,14 +53,14 @@ window.actressData = {
     {
       "id": 74734,
       "IDcode": "ARA-396",
-      "title": "【清純】21歳【美乳】ひなのちゃん参上！大学に通う彼女の応募理由は『冒険したくて…♪』世間知らずのお嬢様！爽やかなイメージとは真逆などエロいキスを披露！【超大量潮吹き】連続は見所！一世一代のアドベンチャーに【大興奮の激イキ】このSEX見逃すな！",
+      "title": "无辜21岁美乳Hina-chan来了她申请上大学的原因是我想冒险......一个天真的年轻女士炫耀与令人耳目一新的图像完全相反的色情吻超海量喷连续是亮点不要错过这个性别",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-07-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/e52218878368f1f4ffdeea76bce34be1.jpg",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250402-1/21654d75959f056280f3947c68b29960.jpg",
       "actress": [
         "陆畑ひなの"
       ],

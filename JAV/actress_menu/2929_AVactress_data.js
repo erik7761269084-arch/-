@@ -51,19 +51,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230714/0a86ab4e-6e10-4190-87d3-5953a6b3e43e.jpg",
     "https://picture.yoshiclub.xyz/20230714/5a20be9b-cd8b-4f2a-bac8-c45c6fb13717.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1370,
-      "IDcode": "HEYZO-2712",
-      "title": "與自慰到溼透的女孩絶頂性交Vol.24",
+      "id": 439487,
+      "IDcode": "HEYZO-3277",
+      "title": "白井奈奈尿湿了！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2022-02-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230714/20230714223516467467.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683acb9b15dec3d802a67117/cover.jpg",
+      "actress": [
+        "水蜜りえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3277"
+    },
+    {
+      "id": 439406,
+      "IDcode": "HEYZO-3306",
+      "title": "因误会与女友的妹妹发生性关系 ～Beauty Collection Vol.18～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/05/68412d6441a147ed1a5c697c/cover.jpg",
+      "actress": [
+        "水蜜りえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3306"
+    },
+    {
+      "id": 1370,
+      "IDcode": "HEYZO-2712",
+      "title": "白井菜奈Shirina小菜Rimaku和Guchogucho与NadsukebeMusumeVol.24的暨性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250207-1/94deb1846ffd12e169f330fbaba90255.jpg",
       "actress": [
         "水蜜りえ"
       ],

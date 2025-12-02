@@ -29,18 +29,53 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250310/00c34d15-fcef-4365-b263-f7ea36ade6f1.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4592,
-      "IDcode": "HUNTC-349",
-      "title": "媽媽排球隊的緊身ブルマ誘惑，翹臀太犯規了！繼母帶隊友來秀制服勾引我 ~ 小鬆杏 戶川奈美 胡桃多惠 大槻響 星川りく",
+      "id": 7641,
+      "IDcode": "DOCD-049",
+      "title": "技藝超羣的美容師100%超高回頭率 超濃密貼身服務讓欲求不滿的淫亂美女沉迷 真實偷拍 ~ 南條彩 花音うらら 工藤百合 星川りく",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-03-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250310/08e960dc-7530-4a36-bb98-c3c7e0bd7986.jpg",
+      "actress": [
+        "南條彩",
+        "花音うらら",
+        "工藤百合",
+        "星川りく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-049"
+    },
+    {
+      "id": 67126,
+      "IDcode": "DOKS-566",
+      "title": "美少女优等生放课后-星川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/ce5da7fdf85ea7f641869f094e9df846.jpg",
+      "actress": [
+        "星川りく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-566"
+    },
+    {
+      "id": 4592,
+      "IDcode": "HUNTC-349",
+      "title": "ママさんバレーのむちむちブルマの誘惑突き出し尻が超エロ過ぎる！義母が所属するママさんバレーのチームメイトを連れて来てボクにユニフォーム披露！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-07-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083034429429_thumbnail.webp",
       "actress": [
         "大槻响",
@@ -50,22 +85,6 @@ window.actressData = {
         "星川りく"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-349"
-    },
-    {
-      "id": 67126,
-      "IDcode": "DOKS-566",
-      "title": "美少女優等生 放課後変態黒パンスト倶楽部 星川りく パンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OFFICE K’S",
-      "publish_date": "2022-08-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250429-1/5c58cdc71d8bc58e50908c34ea2e387e.jpg",
-      "actress": [
-        "星川りく"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-566"
     }
   ]
 };

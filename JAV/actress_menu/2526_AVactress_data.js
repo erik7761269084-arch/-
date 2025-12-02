@@ -60,13 +60,13 @@ window.actressData = {
     {
       "id": 5391,
       "IDcode": "PIYO-219",
-      "title": "新人出道！這種妹子不推倒還等啥 AV出道新星 AV DEBUT ~ 咲愛あやか",
+      "title": "こんな子、●すしかないやろ～～【AVデビュー】咲愛あやか 男性とちゃんとお付き合いしたことはまだありません。オナニーは小3から…お母さんが隠していたピンク色の本で性に目ざめました。スレンダーな身体",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Hiyoko",
-      "publish_date": "2025-06-12",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090505275275_thumbnail.webp",
       "actress": [
         "咲愛あやか",

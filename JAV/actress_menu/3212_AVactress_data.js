@@ -4,7 +4,7 @@ window.actressData = {
   "name": "青葉ねね",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 3342,
       "IDcode": "XYZA-002",
-      "title": "喉奧鬼畜遊戱2 ~ 青葉寧寧",
+      "title": "喉奥鬼畜遊戯2 青葉ねね",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "豊彥",
-      "publish_date": "2025-08-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823085127415415_40311_thumbnail.webp",
       "actress": [
         "青葉ねね"

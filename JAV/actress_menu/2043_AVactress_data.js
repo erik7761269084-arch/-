@@ -33,7 +33,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250128/f24ec2ec-eb2d-4761-bb4a-8772bd336d95.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 91517,
@@ -42,14 +42,46 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2023-08-08",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/9c76d3da3e439086d4857002b989d55c.jpg",
       "actress": [
         "黒宮えりか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-414"
+    },
+    {
+      "id": 8741,
+      "IDcode": "SAN-309",
+      "title": "インチキ霊媒師 黒宮えりかbatch",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8eed67f3b7c929073e6f0/cover.jpg",
+      "actress": [
+        "黒宮えりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-309"
+    },
+    {
+      "id": 3087,
+      "IDcode": "SAN-385",
+      "title": "AV現場あるあるシリーズ 新人ADの悪行 黒宮えりか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831004159844844_55997_thumbnail.webp",
+      "actress": [
+        "黒宮えりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-385"
     }
   ]
 };

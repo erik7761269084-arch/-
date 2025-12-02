@@ -67,10 +67,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2015-12-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240522/de66a93f-709d-4e0a-b37f-9d66b256e91f.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "羽鳥みか"
       ],

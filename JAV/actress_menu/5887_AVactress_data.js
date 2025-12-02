@@ -4,7 +4,7 @@ window.actressData = {
   "name": "月丘みほ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 94951,
       "IDcode": "DTT-042",
-      "title": "廃刊寸前の多数雑誌をV字回復！ 株主からも絶賛 バリキャリ子持ち妻某有名育児情報誌 敏腕編集長 月丘みほ 35歳 AVデビュー プライドの高い欲求不満な美人妻が織りなす恥じらいSEX",
+      "title": "廃刊寸前の多数雑誌をV字回復！株主からも絶賛バリキャリ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-11-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c79caaddbe97fc2ea26847291f2a4cd3.jpg",
       "actress": [
         "森林原人",
         "月丘みほ"

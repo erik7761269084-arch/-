@@ -58,26 +58,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230207/28f09b7e-440a-4f9a-b120-0ec4713ba00a.jpg",
     "https://picture.yoshiclub.xyz/20230207/5c8a6e24-cc6d-4aa1-8a2b-857023e7bbda.jpg"
   ],
-  "works_count": 7,
+  "works_count": 10,
   "related_dramas": [
-    {
-      "id": 35440,
-      "IDcode": "MIAD-682",
-      "title": "被狂瞪的強暴人妻編-神波多一花 大場唯 樱井步",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MOODYZ",
-      "publish_date": "2025-08-14",
-      "cover_url": "",
-      "actress": [
-        "大场唯",
-        "神波多一花",
-        "樱井步"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-682"
-    },
     {
       "id": 88940,
       "IDcode": "UMSO-526",
@@ -85,7 +67,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-11-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/5b168f3f07c653f5be58f3154053a580.jpg",
@@ -110,10 +92,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2018-07-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240910-1/1a9a588e34a1f5482d1134a48a86d5ed.jpg",
       "actress": [
         "大场唯",
         "椎叶みくる"
@@ -127,8 +109,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2016-06-07",
       "cover_url": "",
       "actress": [
@@ -141,13 +123,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-161"
     },
     {
-      "id": 100015,
-      "IDcode": "SW-352-",
-      "title": "プールの女子更衣室にまんまと入った悪ガキ供は大人の女のカラダ",
+      "id": 99365,
+      "IDcode": "BBAN-056",
+      "title": "オフィスレディレズ痴漢～蒸れた黒パンスト、真夏の汗だく女性専用車両～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-10-07",
+      "cover_url": "",
+      "actress": [
+        "神ユキ",
+        "大场唯",
+        "千乃杏美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-056"
+    },
+    {
+      "id": 99421,
+      "IDcode": "RCT-772",
+      "title": "全裸オイルキャットファイト 5 ヘビー級GP2015",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2015-09-10",
+      "cover_url": "",
+      "actress": [
+        "杏美月",
+        "大场唯",
+        "神波多一花",
+        "有奈めぐみ",
+        "黒宫えいみ",
+        "甲斐ミハル",
+        "佐野玲华",
+        "芦川芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-772"
+    },
+    {
+      "id": 224762,
+      "IDcode": "SW-0352",
+      "title": "sw-352 对女人身体感兴趣的坏孩子们",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SWITCH",
       "publish_date": "2015-08-20",
       "cover_url": "",
@@ -155,19 +178,54 @@ window.actressData = {
         "大场唯",
         "神波多一花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-352-"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0352"
+    },
+    {
+      "id": 99121,
+      "IDcode": "BBAN-019",
+      "title": "レズに堕ちていく私～一寸先はレズ地獄～大場ゆい春原未来",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2014-11-07",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f7cc077de28f4ede9c1204/poster2.jpg",
+      "actress": [
+        "春原未来",
+        "大场唯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-019"
+    },
+    {
+      "id": 102907,
+      "IDcode": "GNE-070",
+      "title": "濃厚汗まみれSEX 01",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-07-10",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_479gne070/h_479gne070pl.jpg",
+      "actress": [
+        "大场唯",
+        "神波多一花",
+        "二宫ナナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNE-070"
     },
     {
       "id": 82935,
       "IDcode": "ZIZG-012",
-      "title": "【実写版】監獄戦艦～要塞都市の洗脳改造～ 大場ゆい 倉多まお 佐々木恋海",
+      "title": "监狱战舰被洗脑的美少女战士",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2015-06-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e55815e4a73d4f15c3303d/cover.jpg",
       "actress": [
         "仓多真央",
         "大场唯",
@@ -176,20 +234,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZIZG-012"
     },
     {
-      "id": 1845,
-      "IDcode": "MKBD-S75",
-      "title": "KIRARI 75 「見面〇秒合體」一看到就馬上幹！ : 大場唯",
+      "id": 35440,
+      "IDcode": "MIAD-682",
+      "title": "被狂瞪的強暴人妻編-神波多一花 大場唯 樱井步",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2014-07-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/723c1272-95dc-4be9-a1b1-d11714725c03.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "大场唯"
+        "大场唯",
+        "神波多一花",
+        "樱井步"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S75"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-682"
     }
   ]
 };

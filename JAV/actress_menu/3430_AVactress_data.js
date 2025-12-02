@@ -4,7 +4,7 @@ window.actressData = {
   "name": "池谷佳纯",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,61 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 9,
+  "works_count": 14,
   "related_dramas": [
-    {
-      "id": 4265,
-      "IDcode": "ALDN-486",
-      "title": "內心掙扎卻又渴望被綑綁的快感 ~ 池谷佳純",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220109700700_44436_thumbnail.webp",
-      "actress": [
-        "池谷佳純",
-        "ひょこり",
-        "池谷佳纯"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-486"
-    },
-    {
-      "id": 72863,
-      "IDcode": "RCTD-649",
-      "title": "洗脳セクサロイド化光線銃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://tutu1.space/images/2025/08/17/ecfc5d6560679f2d4233b71ecc262b08.jpg",
-      "actress": [
-        "松井日奈子",
-        "西野絵美",
-        "池谷佳纯"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-649"
-    },
-    {
-      "id": 95586,
-      "IDcode": "HAWA-333",
-      "title": "結婚して21年、平凡な生活を送る主婦。最近。年齢を重ねるごとに心が冷めていくのを感じる…もう一度だけ10代の頃のようにキスしただけでドキドキする燃えるようなSEXがしたい。1日限定彼氏と最初で最後の不貞中出しSEXさゆりさん（42歳）練馬区在住 子供:娘（19歳）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Cosmos 映像",
-      "publish_date": "2024-10-24",
-      "cover_url": "https://tutu1.space/images/2025/10/07/7ff82b149b8770da867c4a0c07f445d1.jpg",
-      "actress": [
-        "イセドン内村",
-        "池谷佳纯"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-333"
-    },
     {
       "id": 93965,
       "IDcode": "RCTD-605",
@@ -78,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
       "publish_date": "2024-08-08",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241020-1/b36d660f944345787d731b1d249beb00.jpg",
       "actress": [
         "二宮和香",
         "田所百合",
@@ -91,32 +38,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-605"
     },
     {
-      "id": 91591,
-      "IDcode": "ALDN-240",
-      "title": "あん時のセフレは…友人の母親 花撫あや",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2023-11-28",
-      "cover_url": "",
-      "actress": [
-        "池谷佳纯"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-240"
-    },
-    {
       "id": 88954,
       "IDcode": "UMSO-521",
       "title": "中年男と密会不倫 浮気を楽しむ一部始終を記録した人妻ハメ撮り10人VOL.05 パンティと生写真付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-10-25",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240831/B9uKIBbT/1.jpg",
       "actress": [
         "東條夏",
         "桐香悠裡",
@@ -135,7 +66,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-08-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/9d935709ddbca381e99e91b9c89c9bfe.jpg",
@@ -153,16 +84,83 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-514"
     },
     {
-      "id": 91653,
-      "IDcode": "ALDN-183",
-      "title": "【FANZA限定】お義母さん、にょっ女房よりずっといいよ… 花撫あや チェキ付き",
+      "id": 105785,
+      "IDcode": "ALDN-271",
+      "title": "丈夫保持沉默巨乳老婆-花抚绫",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TAKARA",
-      "publish_date": "2023-07-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240522-1/16c2aed83a8d49e33fcaf4b2f16b9d80.jpg",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-271"
+    },
+    {
+      "id": 100675,
+      "IDcode": "MDVHJ-073",
+      "title": "娘の夫に犯●れた母たち…（3）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb4260cf22ae3e0415a854/cover.jpg",
+      "actress": [
+        "赤瀬尚子",
+        "しみけん",
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-073"
+    },
+    {
+      "id": 96006,
+      "IDcode": "ALDN-361",
+      "title": "果然单亲妈妈什么的最棒了-花抚彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-361"
+    },
+    {
+      "id": 95586,
+      "IDcode": "HAWA-333",
+      "title": "結婚して21年、平凡な生活を送る主婦。最近。年齢を重ねるごとに心が冷めていくのを感じる…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Cosmos 映像",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/d775912bbdde6584c536aabb9340b453.jpg",
+      "actress": [
+        "イセドン内村",
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-333"
+    },
+    {
+      "id": 91653,
+      "IDcode": "ALDN-183",
+      "title": "比新娘更可爱-花抚彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "左慈半造",
         "池谷佳纯"
@@ -170,20 +168,110 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-183"
     },
     {
-      "id": 90742,
-      "IDcode": "ALDN-157",
-      "title": "夫に内緒で義父に頼んだ妊活 花撫あや",
+      "id": 91591,
+      "IDcode": "ALDN-240",
+      "title": "あん時のセフレは…友人の母親 花撫あや",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TAKARA",
-      "publish_date": "2023-04-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240204-1/88368c649ce82d0f7c263670b8ce8720.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240516-1/2d69201406eb94e6543c3ba9339f0ab4.jpg",
+      "actress": [
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-240"
+    },
+    {
+      "id": 90742,
+      "IDcode": "ALDN-157",
+      "title": "义父的妊娠性生活-花抚彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "池谷佳纯"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-157"
+    },
+    {
+      "id": 72863,
+      "IDcode": "RCTD-649",
+      "title": "洗脳セクサロイド化光線銃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "松井日奈子",
+        "西野絵美",
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-649"
+    },
+    {
+      "id": 13803,
+      "IDcode": "JUQ-708",
+      "title": "突发人妻NTR-大島優香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621010828460460.jpg",
+      "actress": [
+        "大島優香",
+        "左慈半造",
+        "大岛丈",
+        "池谷佳纯",
+        "大岛优香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-708"
+    },
+    {
+      "id": 11142,
+      "IDcode": "ALDN-379",
+      "title": "和我女儿的男朋友-花抚あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/b546995a4b88373fc146d71f967261fb.jpg",
+      "actress": [
+        "池谷佳純",
+        "ひょこり",
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-379"
+    },
+    {
+      "id": 4265,
+      "IDcode": "ALDN-486",
+      "title": "こころは無理…でも縛られたい 花撫あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220109700700_44436_thumbnail.webp",
+      "actress": [
+        "池谷佳純",
+        "ひょこり",
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-486"
     }
   ]
 };

@@ -35,8 +35,57 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230513/0cd26e6a-874c-479b-a4f7-88b5f4b169a3.jpg",
     "https://picture.yoshiclub.xyz/20230513/6335a3e9-2bf6-4e1d-8de6-44a7b72c39c7.jpg"
   ],
-  "works_count": 7,
+  "works_count": 13,
   "related_dramas": [
+    {
+      "id": 106339,
+      "IDcode": "ABP-776",
+      "title": "性爱宠物-有原あゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有原あゆみ",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-776"
+    },
+    {
+      "id": 82586,
+      "IDcode": "IPX-030",
+      "title": "超级VIP性爱服务-有原あゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有原あゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-030"
+    },
+    {
+      "id": 73341,
+      "IDcode": "ABP-787",
+      "title": "粉色沙龙头牌技师有原步美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "有原あゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-787"
+    },
     {
       "id": 71743,
       "IDcode": "ABP-809",
@@ -44,10 +93,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-12-21",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3e837502b5922bbca1acd3e0688dc988.jpg",
       "actress": [
         "有原あゆみ"
       ],
@@ -56,13 +105,13 @@ window.actressData = {
     {
       "id": 71600,
       "IDcode": "ABP-799",
-      "title": "人生初・トランス状態 激イキ絶頂セックス 49 媚薬煙吸引！カラダがしびれ鬼痙攣！ 有原あゆみ",
+      "title": "有原步美痉挛绝顶无限高潮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-11-16",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "有原あゆみ",
@@ -72,64 +121,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-799"
     },
     {
-      "id": 73341,
-      "IDcode": "ABP-787",
-      "title": "本番オーケー！？噂の裏ピンサロ AV界随一の170cm高身長美ボディを味わい尽くせ！ 有原あゆみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-10-19",
-      "cover_url": "https://tutu1.space/images/2025/01/27/5383706641f11a0f027d504f355cefff.jpg",
-      "actress": [
-        "有原あゆみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-787"
-    },
-    {
-      "id": 106339,
-      "IDcode": "ABP-776",
-      "title": "女子マネージャーは、僕達の性処理ペット。 有原あゆみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-09-21",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp776/118abp776pl.jpg",
-      "actress": [
-        "有原あゆみ",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-776"
-    },
-    {
-      "id": 19306,
-      "IDcode": "IPX-150",
-      "title": "職場癡女正解的黑絲美腿誘惑 有原步美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2018-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230605/20230605050539466466.jpg",
-      "actress": [
-        "有原あゆみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-150"
-    },
-    {
       "id": 19394,
       "IDcode": "IPX-046",
-      "title": "美女教師一對一課後幹砲教學 有原步美",
+      "title": "淫荡女教师的秘密授课-有原あゆみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-11-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230516/202305162008305252.jpg",
       "actress": [
         "有原あゆみ",
@@ -138,20 +138,119 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-046"
     },
     {
-      "id": 82586,
-      "IDcode": "IPX-030",
-      "title": "超VIPセックス お客様は横になっているだけで結構です。 有原あゆみ",
+      "id": 19382,
+      "IDcode": "IPX-062",
+      "title": "大潮噴-有原あゆみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-10-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230522/20230521215823266266.jpg",
       "actress": [
         "有原あゆみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-062"
+    },
+    {
+      "id": 19351,
+      "IDcode": "IPX-095",
+      "title": "傲慢美女社长-有原あゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230528/202305280259482424.jpg",
+      "actress": [
+        "有原あゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-095"
+    },
+    {
+      "id": 19338,
+      "IDcode": "IPX-110",
+      "title": "有原步美究极的疯狂手枪必备技巧",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230529/20230529022211899899.jpg",
+      "actress": [
+        "有原あゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-110"
+    },
+    {
+      "id": 19319,
+      "IDcode": "IPX-125",
+      "title": "淫荡女教师下课后痴女私密",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677d5be489def9b1b8bec2dc/cover.jpg",
+      "actress": [
+        "柚月ひまわり",
+        "有原あゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-125"
+    },
+    {
+      "id": 19306,
+      "IDcode": "IPX-150",
+      "title": "美脚誘惑セックス 有原あゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250414-1/6cc4514c18ec5132ed122410f6b205f3.jpg",
+      "actress": [
+        "有原あゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-150"
+    },
+    {
+      "id": 19303,
+      "IDcode": "IPX-138",
+      "title": "变态淫荡痴女医生-有原あゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230605/20230605040344425425.jpg",
+      "actress": [
+        "有原あゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-138"
+    },
+    {
+      "id": 19287,
+      "IDcode": "IPX-167",
+      "title": "究极风俗痴女三姐妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230608/20230608054557159159.jpg",
+      "actress": [
+        "有原あゆみ",
+        "本田岬",
+        "水野朝陽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-167"
     }
   ]
 };

@@ -31,9 +31,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2018-04-06",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "森春流",
@@ -51,19 +51,19 @@ window.actressData = {
     },
     {
       "id": 73273,
-      "IDcode": "LUXU-837",
+      "IDcode": "259LUXU-0837",
       "title": "ラグジュTV 803",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2017-10-07",
-      "cover_url": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8cb04ed30a3124ecf2aa96131e904655.jpg",
       "actress": [
         "星井笑"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-837"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0837"
     }
   ]
 };

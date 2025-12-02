@@ -4,7 +4,7 @@ window.actressData = {
   "name": "麻生恵令奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "素人Only",
       "publish_date": "2015-07-03",
-      "cover_url": "https://tutu1.space/images/2023/03/10/cd94b9b59c4fa3c9626d3094ff1294fd.jpg",
+      "cover_url": "",
       "actress": [
         "麻生恵令奈"
       ],

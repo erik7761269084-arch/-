@@ -4,7 +4,7 @@ window.actressData = {
   "name": "美谷雪絵",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 78246,
       "IDcode": "JUY-821",
-      "title": "年上の人妻 美谷雪絵 43歳 AVDebut！！ 夫の部下に告白されて目覚めてしまいました―。",
+      "title": "儿子都十岁的熟女人妻美谷雪绘因为七年没做爱了下定决定出演AV来获得快感",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-04-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0168c0d7d54d2dd83e465379c06be005.jpg",
       "actress": [
         "森林原人",
         "美谷雪絵"

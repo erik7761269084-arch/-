@@ -22,8 +22,42 @@ window.actressData = {
     "Naomi"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 100227,
+      "IDcode": "EBOD-511",
+      "title": "褐色×美白ボディ H＆H美巨乳密着サンドイッチ逆3P ティア NAOMI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "2016-05-13",
+      "cover_url": "",
+      "actress": [
+        "蒂亚",
+        "NAOMI"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-511"
+    },
+    {
+      "id": 91263,
+      "IDcode": "EBOD-476",
+      "title": "褐色少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "森林原人",
+        "NAOMI"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-476"
+    },
     {
       "id": 90421,
       "IDcode": "PPBD-242",
@@ -31,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/cc988ac8d5a1cf1b908edb39c16d19de.jpg",
       "actress": [
         "安部藍",
         "蒼空なつき",
@@ -48,23 +82,6 @@ window.actressData = {
         "天音ありす"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
-    },
-    {
-      "id": 91263,
-      "IDcode": "EBOD-476",
-      "title": "絶頂127回！！褐色少女の激イキ！初体験セックス NAOMI",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2015-11-13",
-      "cover_url": "",
-      "actress": [
-        "森林原人",
-        "NAOMI"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-476"
     }
   ]
 };

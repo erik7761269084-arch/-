@@ -41,83 +41,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250403/79f28637-a05b-437a-936f-cbba7542e174.jpg",
     "https://picture.yoshiclub.xyz/20250403/fa6f8a6f-4f3d-4ab1-a908-6e06f562c864.jpg"
   ],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2981,
-      "IDcode": "JUR-465",
-      "title": "和公公一起住的4年裏，我被他生中出到迷失自我幹到懷孕 ~ 岬光莉",
+      "id": 7081,
+      "IDcode": "JUR-039",
+      "title": "愛渴望的創業家-岬光莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021029952952_22339_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092224149149.jpg",
       "actress": [
         "岬光莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-465"
-    },
-    {
-      "id": 3794,
-      "IDcode": "JUR-427",
-      "title": "公司慰安旅行NTR：老婆被慾火焚身的上司們輪流侵犯 ~ 岬光莉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030452685685_84055_thumbnail.webp",
-      "actress": [
-        "岬光莉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-427"
-    },
-    {
-      "id": 4749,
-      "IDcode": "JUR-397",
-      "title": "畢業典禮後的祕密禮物：繼母的禁忌誘惑 ~ 岬光莉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703050555390390_thumbnail.webp",
-      "actress": [
-        "岬光莉",
-        "ナイアガラ翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-397"
-    },
-    {
-      "id": 5512,
-      "IDcode": "JUR-384",
-      "title": "還能有這種服務！？ 5秒鍾就射了！ 鄰居人妻將自宅改裝成風俗按摩店後，我的榨幹日常 ~ 岬光莉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042723202202_thumbnail.webp",
-      "actress": [
-        "岬光莉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-039"
     },
     {
       "id": 6296,
       "IDcode": "JUR-343",
-      "title": "被算準生理期…大屌男狂吃不停，辦公室偷情妊娠確定的不倫SEX ~ 岬光莉",
+      "title": "办公室外遇性爱-岬ひかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-05-09",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065118785785_thumbnail.webp",
       "actress": [
         "岬光莉",
@@ -126,20 +77,85 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-343"
     },
     {
-      "id": 7081,
-      "IDcode": "JUR-039",
-      "title": "新人出道！32歲 渴望愛的女企業家，百萬美元的極品尤物 首次亮相 AV DEBUT ~ 岬光莉",
+      "id": 5512,
+      "IDcode": "JUR-384",
+      "title": "邻居老婆把房子装修成美容院-岬ひかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092224149149.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042723202202_thumbnail.webp",
       "actress": [
         "岬光莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-039"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-384"
+    },
+    {
+      "id": 4749,
+      "IDcode": "JUR-397",
+      "title": "继母送给成年后的你的礼物-岬ひかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703050555390390_thumbnail.webp",
+      "actress": [
+        "岬光莉",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-397"
+    },
+    {
+      "id": 3794,
+      "IDcode": "JUR-427",
+      "title": "慰安旅行NTR-岬ひかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030452685685_84055_thumbnail.webp",
+      "actress": [
+        "岬光莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-427"
+    },
+    {
+      "id": 2981,
+      "IDcode": "JUR-465",
+      "title": "義父と同居して4年…これは私が生で挿入され続けて、快感に目覚めて、妊娠するまでの話です。 岬ひかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021029952952_22339_thumbnail.webp",
+      "actress": [
+        "岬光莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-465"
+    },
+    {
+      "id": 2102,
+      "IDcode": "JUR-501",
+      "title": "绝对不能对妻子说竟然把岳母搞大了肚子-岬光莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "岬光莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-501"
     }
   ]
 };

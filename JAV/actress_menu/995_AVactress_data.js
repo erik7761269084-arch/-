@@ -40,50 +40,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250215/bbb2a13e-c9c0-4584-832a-165a7bc682ef.jpg",
     "https://picture.yoshiclub.xyz/20250215/dd71fd6e-560e-4b52-988a-583514af8917.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 2625,
-      "IDcode": "DASS-772",
-      "title": "被派遣按摩師摸到私密部位，爽到受不了直接被寝取 ~ 涼風憂",
+      "id": 8247,
+      "IDcode": "EBWH-198",
+      "title": "毫无保留的真实高潮连发-涼風うい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043110676676_40290_thumbnail.webp",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8de1acf22ae3e04db5371/cover.jpg",
       "actress": [
-        "涼風憂"
+        "涼風憂",
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-772"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-198"
     },
     {
-      "id": 2947,
-      "IDcode": "IENF-413",
-      "title": "最高級美女風俗泡泡浴體驗 ~ 涼風憂",
+      "id": 7540,
+      "IDcode": "EBWH-206",
+      "title": "女友去上普拉提课时-涼風うい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-08-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212931939939_32019_thumbnail.webp",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084137781781.jpg",
       "actress": [
         "涼風憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-413"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-206"
     },
     {
       "id": 4511,
       "IDcode": "EBWH-250",
-      "title": "去女友家玩結果發現她姐姐是我情人？！火辣巨乳姐妹花爭搶中出後宮",
+      "title": "彼女の家に遊びに行ったら彼女のお姉さんが二股相手！？ スレンダー巨乳姉妹に中出ししまくり奪い合いハーレム 涼風うい 天羽りりか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-07-11",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040417521521_94010_thumbnail.webp",
       "actress": [
         "天羽梨梨花",
@@ -92,37 +93,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-250"
     },
     {
-      "id": 7540,
-      "IDcode": "EBWH-206",
-      "title": "把網紅女友介紹給熟人學普拉提，卻被下了媚藥，穿性感運動裝高潮失禁快感墮落 ~ 涼風憂",
+      "id": 2947,
+      "IDcode": "IENF-413",
+      "title": "顶级美女给你的泡泡浴中出体验-涼風うい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084137781781.jpg",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906212931939939_32019_thumbnail.webp",
       "actress": [
         "涼風憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-206"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-413"
     },
     {
-      "id": 8247,
-      "IDcode": "EBWH-198",
-      "title": "新人出道！從事美容化妝行事的細身巨乳網路紅人 在AV首秀中達到了真正的本氣高潮 首次亮相 AV DEBUT ~ 涼風憂",
+      "id": 2625,
+      "IDcode": "DASS-772",
+      "title": "被派遣按摩师过度触摸敏感部位因无法承受快感而被攻陷-涼風うい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213072707292292.jpg",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043110676676_40290_thumbnail.webp",
       "actress": [
-        "涼風憂",
-        "鲛岛"
+        "涼風憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-772"
+    },
+    {
+      "id": 2419,
+      "IDcode": "KNMB-109",
+      "title": "完生タダまん 中出し出来るGカップキャバ嬢 すずか（21）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "涼風憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMB-109"
     }
   ]
 };

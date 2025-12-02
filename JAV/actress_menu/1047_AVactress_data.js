@@ -30,7 +30,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230506/0472fc70-adbb-4c43-9ce5-22a7c836fec2.jpg",
     "https://picture.yoshiclub.xyz/20230506/dc4fbeb1-a0da-4e1c-89f9-243c30740a13.jpg"
   ],
-  "works_count": 4,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 89609,
@@ -39,7 +39,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e24da32b55c8b2e11fb51ebeffc577d7.jpg",
@@ -58,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-10-31",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/0c452c5e3d2e87121c99fc2d8a861b82.jpg",
@@ -78,31 +78,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-05-30",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231122/jk6LhADd/1.jpg",
       "actress": [
         "松本痲里奈",
         "松嶋友里恵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-137"
-    },
-    {
-      "id": 1532,
-      "IDcode": "SKYHD-106",
-      "title": "SKY ANGLE BLUE Vol.106 : 松本痲里奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-10-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230506/84ce1943-3626-4ec0-8b94-087cb3df4bfb.webp",
-      "actress": [
-        "松本痲里奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-106"
     }
   ]
 };

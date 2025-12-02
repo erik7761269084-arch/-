@@ -34,18 +34,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250202/abb14112-d841-4d09-8f9e-3fbf39b76965.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 8609,
       "IDcode": "KSBJ-358",
-      "title": "嚴選11位細腰美熟女中出合集 Vol.02 ~ 森澤佳奈 大槻響 東凜 二宮和香 鈴森裏香 青森玲 白河花清 等",
+      "title": "艶めかしい細腰を持つ美熟女たちに中出し11人vol.02",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-02-04",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250202/20250202004711966966.jpg",
       "actress": [
         "森澤佳奈",
@@ -64,6 +64,36 @@ window.actressData = {
         "东凛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-358"
+    },
+    {
+      "id": 2281,
+      "IDcode": "KSBJ-398",
+      "title": "熟女だから中出しOK！？20人VOL.03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "波多野结衣",
+        "新村朱里",
+        "本田瞳",
+        "夏川步美",
+        "小早川怜子",
+        "妃光莉",
+        "翔田千里",
+        "織田真子",
+        "结城乃乃",
+        "春菜华",
+        "黒川晴美",
+        "青木玲",
+        "杏奈",
+        "白石美希",
+        "牧村彩香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-398"
     }
   ]
 };

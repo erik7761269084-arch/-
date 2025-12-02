@@ -4,7 +4,7 @@ window.actressData = {
   "name": "松冈すず",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,61 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 17,
+  "works_count": 18,
   "related_dramas": [
     {
-      "id": 3622,
-      "IDcode": "KBR-030",
-      "title": "人妻兔女郎NTR 為愛夫甘願被玩弄的乖順小兔子 ~ 松岡鈴",
+      "id": 102734,
+      "IDcode": "ABW-048",
+      "title": "只要是为了满足客人-松冈玲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-09-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140226467777_83514_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/18950c3f53ac51929e81ffb6c99042d7.jpg",
       "actress": [
-        "松岡鈴",
-        "鲛岛",
+        "田渊正浩",
         "松冈すず"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-030"
-    },
-    {
-      "id": 6800,
-      "IDcode": "KBR-022",
-      "title": "酷暑之夜被上司老婆撩到失控燃燒 ~ 松岡すず",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/bc06043e-7527-40d0-9e22-f8dfd7b5787b_thumbnail.webp",
-      "actress": [
-        "松岡鈴",
-        "松冈すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-022"
-    },
-    {
-      "id": 12848,
-      "IDcode": "KBR-018",
-      "title": "在外出差和女總監住一個房間，突然她就變身癡女，搞的我不斷中出 ~ 鬆岡すず",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-08-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20240808/d4957f7f-4113-432a-b5dd-1a688bc937b1.jpg",
-      "actress": [
-        "松岡鈴",
-        "蓝井优太",
-        "松冈すず",
-        "时多しほり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-048"
     },
     {
       "id": 88916,
@@ -79,8 +42,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/62aae863e99d98b9e8051454697bd2dc.jpg",
       "actress": [
@@ -99,65 +62,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
-      "id": 68399,
-      "IDcode": "KBI-095",
-      "title": "輸給恩師太太過剩誘惑中出的我。 全編女性主導 中出4連發 松岡鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-12-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250415-1/40bb3c0c1de076580483bad9bc45aec6.jpg",
-      "actress": [
-        "松冈すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-095"
-    },
-    {
-      "id": 85182,
-      "IDcode": "KBI-089",
-      "title": "欲望夜遊 1對1密會性愛3本番 松岡鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-10-20",
-      "cover_url": "",
-      "actress": [
-        "田渊正浩",
-        "松冈すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-089"
-    },
-    {
-      "id": 67996,
-      "IDcode": "KBI-086",
-      "title": "究極快樂主義 松岡鈴的以’喜歡’為主題全新一面緊迫密著檔案",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-09-22",
-      "cover_url": "",
-      "actress": [
-        "松冈すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-086"
-    },
-    {
       "id": 102322,
       "IDcode": "KBI-083",
-      "title": "KANBi專屬 電擊移籍第1彈 濃厚濃密認真4本番 松岡鈴 更加美豔、更加淫蕩、『松岡鈴』的新章開始了！",
+      "title": "電撃移籍第1弾-松岡すず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-08-18",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/1aae9a4cd20fbb2da9ce8ab4bccb8ffd.jpg",
       "actress": [
         "松冈すず"
       ],
@@ -170,79 +84,48 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2022-07-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240124-1/f98b91a099b826358d1781e886a8ca30.jpg",
       "actress": [
         "松冈すず"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPT-127"
     },
     {
-      "id": 67057,
-      "IDcode": "ABW-257",
-      "title": "大嫂的子宮在咆哮，中出+α11發射！！ 真人版 松岡鈴",
+      "id": 88293,
+      "IDcode": "BGN-058",
+      "title": "新人 Prestige專屬出道 超越美少女的絕對『美女』 松岡鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-07-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/28ebea53c78f179ec5cbeb66396ac33f.jpg",
       "actress": [
+        "森林原人",
         "松冈すず",
-        "タツ"
+        "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-058"
     },
     {
       "id": 86988,
       "IDcode": "ABW-247",
-      "title": "天然正妹汁120％ 最大級淫汁大噴出 松岡鈴",
+      "title": "更多的淫液120%-松岡すず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-06-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/e383e0d87b6b8d6285acb7e8bf6e855e.jpg",
       "actress": [
         "松冈すず"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-247"
-    },
-    {
-      "id": 80806,
-      "IDcode": "ABW-202",
-      "title": "強制中出 射精執行官 09 松村鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-02-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/6b45aa624fc642be7e28b42d793465f4.jpg",
-      "actress": [
-        "松冈すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-202"
-    },
-    {
-      "id": 80315,
-      "IDcode": "ABW-177",
-      "title": "「妖艷的」精油滿溢4本番  松岡鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-12-02",
-      "cover_url": "",
-      "actress": [
-        "松冈すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-177"
     },
     {
       "id": 86706,
@@ -251,10 +134,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2021-06-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/1b5477dbb0d145dd3d8cf8a450fbaa05.jpg",
       "actress": [
         "松冈すず"
       ],
@@ -267,26 +150,75 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-12-18",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/6bb78ce8fff578c5b4885908f27ec697.jpg",
       "actress": [
         "松冈すず"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-037"
     },
     {
-      "id": 73593,
-      "IDcode": "ABP-996",
-      "title": "スポコス汗だくSEX4本番！ 体育会系・松岡すず act.25 汗だくで繰り広げられる全力の爽快SEX！！！",
+      "id": 85182,
+      "IDcode": "KBI-089",
+      "title": "渴望夜游1对1的秘密性行为",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-08-14",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250412-1/23c38026dcdf5b5d44af1be92be786de.jpg",
+      "actress": [
+        "田渊正浩",
+        "松冈すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-089"
+    },
+    {
+      "id": 80806,
+      "IDcode": "ABW-202",
+      "title": "射精执行官-松冈铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/6b45aa624fc642be7e28b42d793465f4.jpg",
+      "actress": [
+        "松冈すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-202"
+    },
+    {
+      "id": 80315,
+      "IDcode": "ABW-177",
+      "title": "精油横溢四本番-松岡すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "松冈すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-177"
+    },
+    {
+      "id": 73593,
+      "IDcode": "ABP-996",
+      "title": "体育会系-松岡すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8f467da19a86c962ae514983286e5c5e.jpg",
       "actress": [
         "小田切ジュン",
         "松冈すず"
@@ -294,22 +226,107 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-996"
     },
     {
-      "id": 88293,
-      "IDcode": "BGN-058",
-      "title": "新人 Prestige專屬出道 超越美少女的絕對『美女』 松岡鈴",
+      "id": 68399,
+      "IDcode": "KBI-095",
+      "title": "屈服于我以前的老师-松岡すず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-05-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231003-1/953310d16a347acbc1d0cfe8401e14ba.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/06/686a213b43d6972716c431d5/cover.jpg",
       "actress": [
-        "森林原人",
-        "松冈すず",
-        "玉木玲"
+        "松冈すず"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-095"
+    },
+    {
+      "id": 67996,
+      "IDcode": "KBI-086",
+      "title": "究極快楽主義-松岡すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250330-1/11eeb17546601e6462ceb7323b9287bb.jpg",
+      "actress": [
+        "松冈すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBI-086"
+    },
+    {
+      "id": 67057,
+      "IDcode": "ABW-257",
+      "title": "子宫在哭泣-松岡すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250419-1/0513247f137277444ea66629a095bc7c.jpg",
+      "actress": [
+        "松冈すず",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-257"
+    },
+    {
+      "id": 12848,
+      "IDcode": "KBR-018",
+      "title": "性情大变的女上司痴女中出压榨我",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240808/d4957f7f-4113-432a-b5dd-1a688bc937b1.jpg",
+      "actress": [
+        "松岡鈴",
+        "蓝井优太",
+        "松冈すず",
+        "时多しほり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-018"
+    },
+    {
+      "id": 6800,
+      "IDcode": "KBR-022",
+      "title": "憧れだった上司の奥さんに、痴女られた熱帯夜 松岡すず【限定特典映像15分付き】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6ffef8cce1a927afe926a/cover.jpg",
+      "actress": [
+        "松岡鈴",
+        "松冈すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-022"
+    },
+    {
+      "id": 3622,
+      "IDcode": "KBR-030",
+      "title": "人妻兔女郎的NTR-松岡铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140226467777_83514_thumbnail.webp",
+      "actress": [
+        "松岡鈴",
+        "鲛岛",
+        "松冈すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-030"
     }
   ]
 };

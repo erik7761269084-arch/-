@@ -33,8 +33,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-25",
       "cover_url": "",
       "actress": [

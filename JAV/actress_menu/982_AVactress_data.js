@@ -27,8 +27,182 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240312/424c35f4-9a2a-40cd-b057-e4127986871d.jpg"
   ],
-  "works_count": 13,
+  "works_count": 15,
   "related_dramas": [
+    {
+      "id": 12119,
+      "IDcode": "APAK-286",
+      "title": "中出無垢絕頂高潮「請插進來！我高潮了！我高潮了！」 害羞又好奇的美少女尖叫起來！淫亂絕叫生徒指導 ~ 東城ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "2024-09-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240909/1732c560-59f5-4098-a8f8-1ac403ce457b.jpg",
+      "actress": [
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-286"
+    },
+    {
+      "id": 64048,
+      "IDcode": "NHDTB-953",
+      "title": "女風呂で悪ノリおしっこする合宿女子を捕まえハメながら掃除の刑 有栖かなうさんのパンティとチェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "2024-08-08",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241016-1/62d970fcd46da06a6dded9085aa0c07e.jpg",
+      "actress": [
+        "皆月光",
+        "有棲奏羽",
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-953"
+    },
+    {
+      "id": 93114,
+      "IDcode": "MMPB-047",
+      "title": "パイパン美少女10人にタップリ生中出し 綺麗なワレメから溢れ出す濃厚ザーメン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2024-08-06",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/ea3e5b330463bb98011139441e0316b7.jpg",
+      "actress": [
+        "千石もなか",
+        "工藤拉拉",
+        "竹内美涼",
+        "東城ゆい",
+        "月宫ねね",
+        "NAOO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-047"
+    },
+    {
+      "id": 14585,
+      "IDcode": "NOSKN-094",
+      "title": "迷人的幸運後宮！ W小惡魔黑發短反3P ~ 東城ゆい 市川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NOSKINS",
+      "publish_date": "2024-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222708571571.jpg",
+      "actress": [
+        "市川りく",
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-094"
+    },
+    {
+      "id": 94708,
+      "IDcode": "STSK-115",
+      "title": "【顔晒し】債務者の娘。2 借金まみれの両親のかわりに、嫌がるのを完全無視して容赦なく体で払えと口を塞がれもがき中出しさせられた学生さん4名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-03-07",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20241031-1/e0e0f984a8d004619a9dc4d4caed6f53.jpg",
+      "actress": [
+        "花音うらら",
+        "宫泽千春",
+        "虹色久美",
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-115"
+    },
+    {
+      "id": 94677,
+      "IDcode": "STSK-113",
+      "title": "悪ノリ2 盗撮魔をお仕置きするJ●グループ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-03-07",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241031-1/069816946e88aec99585f23305835cab.jpg",
+      "actress": [
+        "千石もなか",
+        "宫泽千春",
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-113"
+    },
+    {
+      "id": 95439,
+      "IDcode": "DRPT-074",
+      "title": "野ション女子生徒連鎖開脚拘束おしっこ噴射4 もなみ鈴 有加里ののか 東城ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/55f2de018ebd71aefb6fa3f212e42f52.jpg",
+      "actress": [
+        "東城ゆい",
+        "もなみ铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-074"
+    },
+    {
+      "id": 91529,
+      "IDcode": "APNS-338",
+      "title": "令嬢調教 懐妊までの地獄の30日間 東城ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/f629528fd0b3cb2be37f4c34fc18db01.jpg",
+      "actress": [
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-338"
+    },
+    {
+      "id": 91520,
+      "IDcode": "APAA-435",
+      "title": "スゴ～く！制服の似合う素敵な娘 東城ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/01e7b30b245a2f1a21c0c5c380f88e86.jpg",
+      "actress": [
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-435"
+    },
+    {
+      "id": 91065,
+      "IDcode": "CAWD-535",
+      "title": "想要了解性爱的种种-东城唯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "東城ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-535"
+    },
     {
       "id": 60498,
       "IDcode": "ADHN-006",
@@ -36,9 +210,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Anderuhen",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "小野寺舞",
@@ -47,33 +221,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADHN-006"
     },
     {
-      "id": 7227,
-      "IDcode": "MIDA-101",
-      "title": "要不要偷偷練色色？多管閒事！青梅竹馬的澪雖然是早漏體質卻要教我如何做愛 ~ 石川澪",
+      "id": 15239,
+      "IDcode": "APAA-440",
+      "title": "與純樸美少女變態的過夜性愛，她的愛情汁液濺落一地 ~ 東城ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327082011816816.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/46d0b8dde71855d9295d7dda0585db29.jpg",
       "actress": [
-        "石川澪",
         "東城ゆい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-440"
+    },
+    {
+      "id": 8341,
+      "IDcode": "GNS-114",
+      "title": "尊嚴侵害，無恥性侵犯！被討厭的上司以出差的名義在溫泉旅館裏寢取",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GooNiES",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa34879550e292a785c867/cover.jpg",
+      "actress": [
+        "千石もなか",
+        "天美めあ",
+        "木野野葉惠里香",
+        "真白みのり",
+        "祈山愛",
+        "涼花くるみ",
+        "皇柚子",
+        "上野真奈美",
+        "楽園ミナ",
+        "七瀨華蓮",
+        "天海一華",
+        "東城ゆい",
+        "永瀬愛菜",
+        "美音夢",
+        "堀麻美子",
+        "汐見唯",
+        "加賀美真里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-114"
     },
     {
       "id": 8340,
       "IDcode": "GNS-113",
-      "title": "緊急拘捕！不要拍照！ ！廢墟中回蕩着女性的悲鳴 被強奸的女人 x 20名",
+      "title": "【緊急逮×！】「撮らないで！！」廃墟に響き渡る女性の悲鳴 女たちのヤリすて廃棄場強× 20名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GooNiES",
-      "publish_date": "2025-02-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/d382b06a4ba683ca1c390f593ad31314.jpg",
       "actress": [
         "千石もなか",
         "天美めあ",
@@ -96,178 +301,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
     },
     {
-      "id": 95439,
-      "IDcode": "DRPT-074",
-      "title": "野ション女子生徒連鎖開脚拘束おしっこ噴射4 もなみ鈴 有加里ののか 東城ゆい 東城ゆいちゃんのパンティとチェキ付き",
+      "id": 7227,
+      "IDcode": "MIDA-101",
+      "title": "要不要试试色色的秘密练习-石川澪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-11-07",
-      "cover_url": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f2793acf22ae3e04e1f8e2/cover.jpg",
       "actress": [
-        "東城ゆい",
-        "もなみ铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-074"
-    },
-    {
-      "id": 64048,
-      "IDcode": "NHDTB-953",
-      "title": "女風呂で悪ノリおしっこする合宿女子を捕まえハメながら掃除の刑 有栖かなうさんのパンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2024-08-08",
-      "cover_url": "",
-      "actress": [
-        "皆月光",
-        "有棲奏羽",
+        "石川澪",
         "東城ゆい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-953"
-    },
-    {
-      "id": 93114,
-      "IDcode": "MMPB-047",
-      "title": "パイパン美少女10人にタップリ生中出し 綺麗なワレメから溢れ出す濃厚ザーメン",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2024-08-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/ea3e5b330463bb98011139441e0316b7.jpg",
-      "actress": [
-        "千石もなか",
-        "工藤拉拉",
-        "竹内美涼",
-        "東城ゆい",
-        "月宫ねね",
-        "NAOO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-047"
-    },
-    {
-      "id": 14585,
-      "IDcode": "NOSKN-094",
-      "title": "迷人的幸運後宮！ W小惡魔黑發短反3P ~ 東城ゆい 市川りく",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NOSKINS",
-      "publish_date": "2024-06-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222708571571.jpg",
-      "actress": [
-        "市川りく",
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-094"
-    },
-    {
-      "id": 15239,
-      "IDcode": "APAA-440",
-      "title": "與純樸美少女變態的過夜性愛，她的愛情汁液濺落一地 ~ 東城ゆい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2024-04-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240421/3b0701dc-88f4-4d6d-aa57-d45ec3b9bd48.jpg",
-      "actress": [
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-440"
-    },
-    {
-      "id": 91529,
-      "IDcode": "APNS-338",
-      "title": "令嬢調教 懐妊までの地獄の30日間 東城ゆい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2024-04-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/5c649574e4e1805efd7a48cc7de078d4.jpg",
-      "actress": [
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-338"
-    },
-    {
-      "id": 91520,
-      "IDcode": "APAA-435",
-      "title": "スゴ～く！制服の似合う素敵な娘 東城ゆい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2024-03-12",
-      "cover_url": "",
-      "actress": [
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAA-435"
-    },
-    {
-      "id": 94708,
-      "IDcode": "STSK-115",
-      "title": "【顔晒し】債務者の娘。2 借金まみれの両親のかわりに、嫌がるのを完全無視して容赦なく体で払えと口を塞がれもがき中出しさせられた学生さん4名",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-03-07",
-      "cover_url": "",
-      "actress": [
-        "花音うらら",
-        "宫泽千春",
-        "虹色久美",
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-115"
-    },
-    {
-      "id": 94677,
-      "IDcode": "STSK-113",
-      "title": "悪ノリ2 盗撮魔をお仕置きするJ●グループ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241031-1/069816946e88aec99585f23305835cab.jpg",
-      "actress": [
-        "千石もなか",
-        "宫泽千春",
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-113"
-    },
-    {
-      "id": 91065,
-      "IDcode": "CAWD-535",
-      "title": "経験人数1人のままプロポーズされたから、イったことも、潮吹いたこともない！ 結婚前に色々知りたくて… 23歳 癒しの保育士 東城ゆい AVデビュー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2023-05-02",
-      "cover_url": "",
-      "actress": [
-        "東城ゆい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-535"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-101"
     }
   ]
 };

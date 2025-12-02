@@ -52,11 +52,11 @@ window.actressData = {
     {
       "id": 1772,
       "IDcode": "MKBD-S16",
-      "title": "KIRARI 16 : 野野村美雪 (HD)",
+      "title": "KIRARI 16 : 野野村美雪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2012-10-08",
       "cover_url": "https://picture.yoshiclub.xyz/20230124/214714b6-a5db-44cf-b313-577e1ba3f6f6.webp",

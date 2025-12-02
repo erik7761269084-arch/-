@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/af05023fce8b4e3689d5e70d81d0ba18.jpg",
       "actress": [
         "波多野结衣",
         "美谷朱里",
@@ -57,14 +57,14 @@ window.actressData = {
     {
       "id": 88036,
       "IDcode": "HND-445",
-      "title": "僕だけ勝手に子作り！アイドルイベント時間停止中出し！！ 関根奈美",
+      "title": "時間停止-関根奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2017-11-03",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/da211e44f0e798fcba480245780f0e27.jpg",
       "actress": [
         "関根奈美"
       ],

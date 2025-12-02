@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桥本ちなつ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
       "publish_date": "2021-11-23",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/53a9c3c54de86143ac4c21ef64e0a8fe.jpg",
       "actress": [
         "緒川春",
         "桥本ちなつ"

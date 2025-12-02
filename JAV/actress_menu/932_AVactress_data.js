@@ -35,18 +35,68 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241213/a4cec058-bbbc-4ba6-9623-6e9550570f27.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 6366,
-      "IDcode": "SDMM-197",
-      "title": "魔鏡一號！感謝支持第三彈！10人出演6小時 保健體育課外教學 在現役女學生面前秀出成人濃烈性愛！點燃青春期性好奇心 首次體驗杭打騎乘位直達高潮體驗3",
+      "id": 9953,
+      "IDcode": "MIFD-556",
+      "title": "新人！SNSで配信中に1秒ポロリしちゃった！この陥没乳首をビンビンに勃起させてください！笑顔かわいい現役女子大生がおっぱいマ○コ丸出しAVデビュー！ 川口乃々華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/f6f7cc6b/vod.jpg",
+      "actress": [
+        "川口乃乃華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-556"
+    },
+    {
+      "id": 9087,
+      "IDcode": "MIFD-567",
+      "title": "禁欲后解禁内射3次高潮250次",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/07/67cac460cf22ae3e04269426/cover.jpg",
+      "actress": [
+        "川口乃乃華",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-567"
+    },
+    {
+      "id": 6553,
+      "IDcode": "VOV-146",
+      "title": "最強騷貨大集合！接力亂交SEX派對vol.81 姐姐能介紹比你更辣的朋友嗎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "木曜日！全員集合！！",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b958032ee23a639b178cae/cover.jpg",
+      "actress": [
+        "九井珠奈緒",
+        "川口乃乃華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-146"
+    },
+    {
+      "id": 6366,
+      "IDcode": "SDMM-197",
+      "title": "【おかげさまで第3弾！10名出演6時間】マジックミラー号 保健体育の課外授業 現役女子〇生の目の前でオトナの濃厚SEXを見せつける！思春期の性的好奇心に火を点けて初めての杭打ち騎乘位で中イキ体験3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/13185a29-5fff-4348-9ef6-03eda06a2da8_thumbnail.webp",
       "actress": [
         "千川とわ",
@@ -61,37 +111,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
-      "id": 9087,
-      "IDcode": "MIFD-567",
-      "title": "只需一秒鍾！炙手可熱的網路影響者！禁欲後中出解禁3本番 絕頂250次！腔內高潮2300次！ 3000cc的高潮體液！ ~ 川口乃乃華",
+      "id": 6037,
+      "IDcode": "MUKD-534",
+      "title": "水泳終わりの濡れ蒸れパンティ投げつけてノーパン挑発してくるW小悪魔巨乳美少女。 盗撮バレて人生終了かと思いきや神展開。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116073919875875.jpg",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/15/a09aebe837a82e337de5b7c0a08538bc.jpg",
       "actress": [
-        "川口乃乃華",
-        "タイ"
+        "美木雛乃",
+        "川口乃乃華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-534"
     },
     {
-      "id": 9953,
-      "IDcode": "MIFD-556",
-      "title": "新人報到！經常在SNS上直播的網紅！請讓你內陷的乳頭挺立起來！可愛微笑的現役女子大生暴露乳房和陰戶 首次亮相 AV DEBUT ~ 川口乃乃華",
+      "id": 3184,
+      "IDcode": "NPJS-129",
+      "title": "彼氏の目の前でAV出演。寝取られ好きの彼氏のために、剛毛彼女がメスになる瞬間。無責任中出し！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211070122695695.jpg",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828034857111111_37574_thumbnail.webp",
       "actress": [
         "川口乃乃華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-556"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-129"
     }
   ]
 };

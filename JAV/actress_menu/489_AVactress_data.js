@@ -51,68 +51,198 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240706/aa668954-cb64-449d-85e5-c9dbcd55151d.jpg",
     "https://picture.yoshiclub.xyz/20240706/cbdd0f39-d140-4f30-94df-a9d48bbfcda5.jpg"
   ],
-  "works_count": 10,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 3004,
-      "IDcode": "SONE-890",
-      "title": "哭著求饒吧！保健室火辣老師被暗戀學生瘋狂報復 ~ 花愛麗絲",
+      "id": 13553,
+      "IDcode": "SONE-284",
+      "title": "經過一年半的禁欲-花愛麗絲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045419497497_99936_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705002645953953.jpg",
+      "actress": [
+        "花愛麗絲",
+        "小田切ジュン",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-284"
+    },
+    {
+      "id": 12791,
+      "IDcode": "SONE-306",
+      "title": "永远摇来摇去的G乳-花艾丽斯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234156103103.jpg",
+      "actress": [
+        "花愛麗絲",
+        "鲛岛",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-306"
+    },
+    {
+      "id": 12172,
+      "IDcode": "SONE-354",
+      "title": "您讨厌超级柔软的吗-花艾丽斯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/202409060130467575.jpg",
       "actress": [
         "花愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-890"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-354"
     },
     {
-      "id": 3764,
-      "IDcode": "SONE-839",
-      "title": "發現絕色女上司竟是我每晚幻想的色情Vtuber主播 ~ 花愛麗絲",
+      "id": 11465,
+      "IDcode": "SONE-400",
+      "title": "出差时意外地和性骚扰-花アリス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031134919919_11186_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/da551db2239b63d8204a478ba25865d5.jpg",
       "actress": [
-        "花愛麗絲",
-        "左慈半造"
+        "花愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-839"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-400"
     },
     {
-      "id": 4788,
-      "IDcode": "SONE-805",
-      "title": "23歲慾求不滿的小少婦愛麗絲連衝4間情趣酒店偷情 ~ 花愛麗絲",
+      "id": 10742,
+      "IDcode": "SONE-468",
+      "title": "至今仍难以忘怀-花アリス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/202507030831415656_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678893655d57b64bfd2c8eb5/cover.jpg",
       "actress": [
-        "花愛麗絲",
-        "イセドン内村"
+        "花愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-468"
+    },
+    {
+      "id": 10131,
+      "IDcode": "SONE-488",
+      "title": "G罩杯的可爱COS小姐姐用她的手淫技术",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/202412050813169494.jpg",
+      "actress": [
+        "花愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-488"
+    },
+    {
+      "id": 9273,
+      "IDcode": "SONE-534",
+      "title": "她的姐姐-花アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080307320320.jpg",
+      "actress": [
+        "花愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-534"
+    },
+    {
+      "id": 8445,
+      "IDcode": "SONE-583",
+      "title": "哥哥的苦甜精子的味道-花アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080451237237.jpg",
+      "actress": [
+        "花愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-583"
+    },
+    {
+      "id": 7711,
+      "IDcode": "SONE-629",
+      "title": "如果因为敏感部位的脱毛而勃起了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305124413770770.jpg",
+      "actress": [
+        "花愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-629"
+    },
+    {
+      "id": 7061,
+      "IDcode": "SONE-674",
+      "title": "舔阴还是舒服的抽插-花アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093358752752.jpg",
+      "actress": [
+        "花愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-674"
+    },
+    {
+      "id": 6324,
+      "IDcode": "SONE-712",
+      "title": "我把精液泼在她的腿上和屁股上-花爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065400132132_thumbnail.webp",
+      "actress": [
+        "花愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-712"
     },
     {
       "id": 5561,
       "IDcode": "SONE-750",
-      "title": "對不起讓你硬了哦！和表姐混浴小弟弟直接起立！表姐偷偷幫我解決 ~ 花愛麗絲",
+      "title": "和表姐共浴时我的鸡巴硬得发烫-花アリス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605045536783783_thumbnail.webp",
       "actress": [
         "花愛麗絲",
@@ -121,102 +251,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-750"
     },
     {
-      "id": 6324,
-      "IDcode": "SONE-712",
-      "title": "每天早上被癡漢扣到腿軟，射滿美腿翹臀，癡漢的技術遠比男友的好 ~ 花愛麗絲",
+      "id": 4788,
+      "IDcode": "SONE-805",
+      "title": "有錢有時間又好色的年輕妻子愛麗絲小姐-花愛麗絲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065400132132_thumbnail.webp",
-      "actress": [
-        "花愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-712"
-    },
-    {
-      "id": 7711,
-      "IDcode": "SONE-629",
-      "title": "VIO陽萎治療時硬了怎麼辦？溫柔又色色的姐姐貼心幫我解決 ~ 花愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305124413770770.jpg",
-      "actress": [
-        "花愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-629"
-    },
-    {
-      "id": 8445,
-      "IDcode": "SONE-583",
-      "title": "只有我（23歲）知道哥哥（45歲）精液的苦澀味道 ~ 花愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080451237237.jpg",
-      "actress": [
-        "花愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-583"
-    },
-    {
-      "id": 9273,
-      "IDcode": "SONE-534",
-      "title": "女友姐姐（她迷人的樣子誰都會多看兩眼）完全愛上了我！ ？苗條性感的巨乳女，每天幫我自慰！ ~ 花愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080307320320.jpg",
-      "actress": [
-        "花愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-534"
-    },
-    {
-      "id": 10131,
-      "IDcode": "SONE-488",
-      "title": "苗條G胸姐姐用她連續的癡女技術一遍又一遍地擠出你的精液 ~ 花愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/202412050813169494.jpg",
-      "actress": [
-        "花愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-488"
-    },
-    {
-      "id": 13553,
-      "IDcode": "SONE-284",
-      "title": "最美女人禁欲一年半後復出……流汗、潮水、淫水的3本番，敏感度最高，失去理智 ~ 花愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-07-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705002645953953.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/202507030831415656_thumbnail.webp",
       "actress": [
         "花愛麗絲",
-        "小田切ジュン",
-        "南佳也"
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-284"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-805"
+    },
+    {
+      "id": 3764,
+      "IDcode": "SONE-839",
+      "title": "憧憬的美人上司竟然是个色情到死的自慰配信者-花爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689db592c494560854389315/cover.jpg",
+      "actress": [
+        "花愛麗絲",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-839"
+    },
+    {
+      "id": 3004,
+      "IDcode": "SONE-890",
+      "title": "哭喊着接受教训男学生因爱生恨在保健室中强奸美女老师-花アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045419497497_99936_thumbnail.webp",
+      "actress": [
+        "花愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-890"
     }
   ]
 };

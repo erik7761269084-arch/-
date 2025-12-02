@@ -35,39 +35,16 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 77740,
-      "IDcode": "MCSR-343",
-      "title": "「奥さんの家でお茶の間セックスしませんか？」3 4時間12人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2019-06-22",
-      "cover_url": "",
-      "actress": [
-        "堀口奈津美",
-        "西川りおん",
-        "青木りん",
-        "山本美和子",
-        "白咲美羽",
-        "北村りょう",
-        "佐々木恋海",
-        "ゆうきさやか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-343"
-    },
-    {
       "id": 88174,
       "IDcode": "NPV-021",
       "title": "ナンパTV×大漁！！穫れたて激エロ美女10名を踊り喰い！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-10-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230910-1/15deb7a902a0c7d8db83cae0931db9b8.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/07e19c506edc1d1e8fb3b422438aab66.jpg",
       "actress": [
         "富田优衣",
         "佐佐木明希",
@@ -82,32 +59,57 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPV-021"
     },
     {
-      "id": 68385,
-      "IDcode": "IENE-404",
-      "title": "男が僕一人ぼっちの温泉家族旅行でまさかの童貞喪失！！10年ぶりの混浴に、僕は必死に包茎チ○ポをかくしたのですが、それをからかう母と姉のイタズラが、禁断の性教育に発展してしまったのです！お父さんごめんなさい！～3",
+      "id": 81382,
+      "IDcode": "SDMT-948",
+      "title": "安静的女学生来书店",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2014-04-24",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "西川りおん",
-        "美绪みくる"
+        "吉美さあや",
+        "入江爱美",
+        "山本美羽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-404"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-948"
+    },
+    {
+      "id": 77740,
+      "IDcode": "MCSR-343",
+      "title": "「奥さんの家でお茶の間セックスしませんか？」3 4時間12人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "堀口奈津美",
+        "西川りおん",
+        "青木りん",
+        "山本美和子",
+        "白咲美羽",
+        "北村りょう",
+        "佐々木恋海",
+        "ゆうきさやか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-343"
     },
     {
       "id": 76868,
       "IDcode": "RCT-592",
-      "title": "母親と息子の親子ヌードデッサン教室一転近親相姦",
+      "title": "教室一転近親相姦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2014-03-20",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/590319443c1b905212aa6140419dd220.jpg",
       "actress": [
         "新山枫",
@@ -119,23 +121,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-592"
     },
     {
-      "id": 81382,
-      "IDcode": "SDMT-948",
-      "title": "本屋に参考書を買いに来た真面目でおとなしそうな女子校生に媚薬をたっぷり塗ったチ○ポで即ハメしたらアヘ顔で痙攣するほど感じてイキまくった 3",
+      "id": 68385,
+      "IDcode": "IENE-404",
+      "title": "男人的独自温泉旅行 没想到的破处 西川丽音 鹫尾芽衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2013-06-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221004-3/beaf5e2af6d266111fd6ed705b136134.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250402-1/52b2939b949e060d8b912e04f9d942c3.jpg",
       "actress": [
         "西川りおん",
-        "吉美さあや",
-        "入江爱美",
-        "山本美羽"
+        "美绪みくる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-948"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-404"
     }
   ]
 };

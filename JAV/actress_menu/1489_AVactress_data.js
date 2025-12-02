@@ -37,18 +37,53 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240913/2297a310-a39b-49d2-9747-13ec1601fa45.jpg",
     "https://picture.yoshiclub.xyz/20240913/e74c0200-4288-477e-b761-b449471691d4.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 6573,
-      "IDcode": "PAKO-089",
-      "title": "Disco 獵豔 Vol.02",
+      "id": 4573,
+      "IDcode": "DRPT-088",
+      "title": "溫柔可愛保育員專屬！魔鏡號乳頭K歌挑戰 一首歌唱完就有獎金！忍不住就來場羞羞懲罰遊戲！ ~ 美木雛乃 望月蕾 夏海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2025-07-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709031903670670_10091_thumbnail.webp",
+      "actress": [
+        "望月蕾",
+        "美木雛乃",
+        "夏海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-088"
+    },
+    {
+      "id": 12013,
+      "IDcode": "PRED-711",
+      "title": "現役老闆秘書-夏海",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912102404371371.jpg",
+      "actress": [
+        "夏海",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-711"
+    },
+    {
+      "id": 6573,
+      "IDcode": "PAKO-089",
+      "title": "ディスコナンパ02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2025-04-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427104700952952_thumbnail.webp",
       "actress": [
         "夏海"

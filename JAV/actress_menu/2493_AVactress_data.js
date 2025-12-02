@@ -44,19 +44,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 1606,
-      "IDcode": "LUXU-467",
+      "IDcode": "259LUXU-0467",
       "title": "豪華電視456",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "蚊香社",
       "publish_date": "2016-10-25",
       "cover_url": "https://picture.yoshiclub.xyz/20230331/ba1811ff-f6fe-4c31-b782-baad3cecc2cb.jpg",
       "actress": [
         "高坂麗子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-467"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0467"
     }
   ]
 };

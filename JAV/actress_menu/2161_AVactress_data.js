@@ -44,18 +44,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230406/082160b5-ab6c-4821-9b9c-43b3d981d117.jpg",
     "https://picture.yoshiclub.xyz/20230406/2e3b6b16-360e-46af-9dee-8d268fa1469c.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 106920,
-      "IDcode": "ABS-128",
-      "title": "人妻午夜巡航 朱音結衣",
+      "id": 107120,
+      "IDcode": "ABS-072",
+      "title": "全裸家政妇朱音唯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2012-07-03",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "朱音ゆい",
+        "志戸哲也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-072"
+    },
+    {
+      "id": 106920,
+      "IDcode": "ABS-128",
+      "title": "人妻深夜邮轮-朱音唯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "朱音ゆい"
@@ -65,13 +82,13 @@ window.actressData = {
     {
       "id": 19500,
       "IDcode": "ABS-086",
-      "title": "情色之星 朱音結衣",
+      "title": "色情明星完美的身材-朱音唯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2012-02-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230406/3db1da9b-3ab9-4f73-a448-473aefc37486.jpg",
       "actress": [
         "朱音ゆい"

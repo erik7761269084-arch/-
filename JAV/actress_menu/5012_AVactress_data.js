@@ -4,7 +4,7 @@ window.actressData = {
   "name": "优希まこと",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,19 +16,51 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 82464,
-      "IDcode": "DV-1666",
-      "title": "毎日やらしいパンスト履いてる女子社員 優希まこと",
+      "id": 100099,
+      "IDcode": "MIDD-737",
+      "title": "突然ファンのお宅に優希まことが訪問！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2014-09-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/179325236e479fd87aed07daed00019a.jpg",
+      "publish_date": "2011-02-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd737/midd737pl.jpg",
+      "actress": [
+        "优希まこと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-737"
+    },
+    {
+      "id": 100162,
+      "IDcode": "MIDD-713",
+      "title": "青姦露出 優希まこと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-12-13",
+      "cover_url": "",
+      "actress": [
+        "优希まこと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-713"
+    },
+    {
+      "id": 82464,
+      "IDcode": "DV-1666",
+      "title": "每天穿着下流连裤丝袜的痴女社员优希真琴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "优希まこと"
       ],
@@ -37,14 +69,14 @@ window.actressData = {
     {
       "id": 81451,
       "IDcode": "DV-1196",
-      "title": "女尻 優希まこと",
+      "title": "女尻-優希まこと",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2010-10-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/c0330a8cfae07ba67fe7f234c900c956.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "优希まこと"
       ],

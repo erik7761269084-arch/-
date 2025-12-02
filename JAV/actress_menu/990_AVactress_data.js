@@ -30,37 +30,63 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250208/72d41f7e-52dd-4674-bdf8-3f9a6baac1fa.jpg"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 4806,
-      "IDcode": "HUNTC-202",
-      "title": "不愛穿內衣的貧乳妹妹乳頭超敏感！無防備晃蕩被哥哥玩弄到主動求高潮 ~ 桐谷すずね 五十嵐美月 水瀬りた 愛野ひなた",
+      "id": 7660,
+      "IDcode": "KTRA-705",
+      "title": "誘惑小惡魔（心）甜蜜色色精選集 4小時 ~ 東條夏 美衣みかな 百咲未色 真白みのり 愛野ひなた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/2025061909223233_thumbnail.webp",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250309/ef9f736c-4614-426b-a78e-adcd417592ee.jpg",
       "actress": [
-        "五十嵐美月",
-        "桐谷すずね",
-        "水瀬りた",
+        "東條夏",
+        "花衣つばき",
+        "真白みのり",
+        "百咲未色",
         "愛野ひなた"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-705"
+    },
+    {
+      "id": 8415,
+      "IDcode": "BASB-017",
+      "title": "我要讓那個可愛的女孩高潮！JK制服女生4小時精選合集 ~ 鬆本一香 河奈亜依 來棲美久 花音うらら 深月芽衣 宮澤千春 樞木葵 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a8dfcc7f3b7c92907398d8/cover.jpg",
+      "actress": [
+        "松本一香",
+        "花音うらら",
+        "上坂芽衣",
+        "宫泽千春",
+        "枢木葵",
+        "深月芽衣",
+        "河奈亜依",
+        "唯奈みつき",
+        "愛野ひなた",
+        "來栖美久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASB-017"
     },
     {
       "id": 8175,
       "IDcode": "SDMM-192",
-      "title": "魔鏡一號！平均年齡19.6歲！ ！ 【露肩女大學生限定】首次深度胸部按摩！有些羞恥，嘆了口氣還是接受了。胸部敏感娘能接受生中出嗎？ ~ 南日菜乃 小日向める 四乃宮もも 愛野ひなた",
+      "title": "マジックミラー号 平均年齢19.6歳！！【オフショル女子大生限定】初めてのDEEP乳揉み！恥ずかしいけど吐息を漏らしちゃう おっぱい敏感娘は生ち○ぽだって受け入れちゃう？？鎖骨の綺麗な素人娘5名全員SEX収録",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-03-20",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250218/41571f18-11c2-4776-8198-00008e5c610a.jpg",
       "actress": [
         "南日菜乃",
@@ -70,6 +96,45 @@ window.actressData = {
         "本田萌音"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-192"
+    },
+    {
+      "id": 4806,
+      "IDcode": "HUNTC-202",
+      "title": "不想穿胸罩的小妹妹的乳头灵敏度超群",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889736fc92318f97d1d6819/cover.jpg",
+      "actress": [
+        "五十嵐美月",
+        "桐谷すずね",
+        "水瀬りた",
+        "愛野ひなた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
+    },
+    {
+      "id": 4203,
+      "IDcode": "KTRA-732",
+      "title": "無毛なロリっ娘2 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221733135135_82108_thumbnail.webp",
+      "actress": [
+        "琴音華",
+        "愛野ひなた",
+        "神野雛",
+        "熊野あゆ",
+        "山井鈴香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-732"
     }
   ]
 };

@@ -31,8 +31,33 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231202/367c8532-0ca0-485f-918b-f5cc8e6a1a55.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
+    {
+      "id": 9318,
+      "IDcode": "SQTE-584",
+      "title": "至尊愛的連續33次口交 S-Cute Fellatio Collection 2025",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2025-01-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250108/3e629541-da26-46e6-ae74-2b5216876be8.jpg",
+      "actress": [
+        "都月楓",
+        "宮西光",
+        "渚光希",
+        "久和原聖羅",
+        "美咲音",
+        "月本海咲",
+        "姫川ゆうな",
+        "武田萌奈美",
+        "日向理名",
+        "さくらいちはる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-584"
+    },
     {
       "id": 12939,
       "IDcode": "SQTE-556",
@@ -40,7 +65,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2024-08-06",
       "cover_url": "https://picture.yoshiclub.xyz/20240804/24ce816d-aeb7-40b7-aace-84fffa568c39.jpg",
@@ -52,46 +77,30 @@ window.actressData = {
     {
       "id": 93866,
       "IDcode": "QBD-097",
-      "title": "制服美少女と性交 武田もなみ （BOD）",
+      "title": "制服美少女与性交-武田萌奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2024-08-04",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a31631a2714f1c2034ab/cover.jpg",
       "actress": [
         "武田萌奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QBD-097"
     },
     {
-      "id": 17483,
-      "IDcode": "MIDV-543",
-      "title": "帶著溫柔微笑的純潔天使的第一次中出",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231202/ba9fee82-e2cf-4581-beb7-0b54defa1c44.jpg",
-      "actress": [
-        "武田萌奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-543"
-    },
-    {
       "id": 92316,
       "IDcode": "MIDV-423",
-      "title": "イチャLOVEしてからドキドキ高まり合う「もっと気持ち良くなりたい！」お泊りデート 濃密エッチ3本番 武田もなみ （ブルーレイディスク） （BOD）",
+      "title": "心动一夜情-武田萌奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-08-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/ee4c8b244acdc907baf5944842c03a96.jpg",
       "actress": [
         "武田萌奈美",
         "小田切ジュン"
@@ -101,18 +110,50 @@ window.actressData = {
     {
       "id": 92292,
       "IDcode": "MIDV-394",
-      "title": "原石 きっと、君は天使 ふんわり笑顔と恥じらい関西弁にキュン 新人AVdebut 武田もなみ",
+      "title": "你一定是天使-武田萌奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-07-04",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/772d2921023f7e6f6fc2c63418fdc07d.jpg",
       "actress": [
         "武田萌奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-394"
+    },
+    {
+      "id": 17483,
+      "IDcode": "MIDV-543",
+      "title": "甜蜜笑容-武田萌奈美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/02f88506d306bf18842f0614f236e559.jpg",
+      "actress": [
+        "武田萌奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-543"
+    },
+    {
+      "id": 13405,
+      "IDcode": "DVMM-123",
+      "title": "持續懇求中出撒嬌的妹妹-武田萌奈美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5ab43eb67774efbb87ed6/cover.jpg",
+      "actress": [
+        "武田萌奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-123"
     }
   ]
 };

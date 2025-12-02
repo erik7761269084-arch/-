@@ -4,7 +4,7 @@ window.actressData = {
   "name": "成海美雨",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2021-09-21",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221022-1/83ccfd781c4af0a11259fdc1ee3f3fc6.jpg",
       "actress": [
         "成海美雨"
       ],

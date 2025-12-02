@@ -37,13 +37,13 @@ window.actressData = {
     {
       "id": 3537,
       "IDcode": "JUTA-177",
-      "title": "頂級三十路人妻初脫AV紀實 ~ 石原綾音",
+      "title": "三十多岁妻子第一次脱衣服-石原あやね",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女JAPAN",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040309395395_85144_thumbnail.webp",
       "actress": [
         "石原あやね"

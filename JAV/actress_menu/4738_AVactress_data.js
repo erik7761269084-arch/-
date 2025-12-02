@@ -4,7 +4,7 @@ window.actressData = {
   "name": "柏木あみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
+      "type": "",
+      "company": "NATURAL HIGH",
       "publish_date": "2021-09-09",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/62a202c441c9868051e72cca5084b45b.jpg",
       "actress": [
         "藤森朱音",
         "柏木あみ"
@@ -36,16 +36,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-577"
     },
     {
-      "id": 77618,
-      "IDcode": "SDDE-653",
-      "title": "時間を止められる男は実在した！超THE REVIVAL※史上最多、被害者数9名―‘夏の青春’をしている部活女子○生たちに中出しレ○プ編―",
+      "id": 86646,
+      "IDcode": "ANZD-056",
+      "title": "コスプレHが大好きな巨乳図書館司書 みずき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8bcc16e7d7da36f083828f667f791191.jpg",
+      "actress": [
+        "柏木あみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANZD-056"
+    },
+    {
+      "id": 77618,
+      "IDcode": "SDDE-653",
+      "title": "能停止时间的男人-八乃翼 稻场流花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2021-09-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6bc389def9b1b80dc510/cover.jpg",
       "actress": [
         "星仲ここみ",
         "八乃翼",
@@ -55,22 +71,6 @@ window.actressData = {
         "柏木あみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-653"
-    },
-    {
-      "id": 86646,
-      "IDcode": "ANZD-056",
-      "title": "コスプレHが大好きな巨乳図書館司書 みずき",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-01-25",
-      "cover_url": "",
-      "actress": [
-        "柏木あみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANZD-056"
     }
   ]
 };

@@ -29,7 +29,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-宮澤ケイト.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 1984,
@@ -38,30 +38,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2010-08-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20230201/20230201053417144144.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/dc2a17c94bbcd10a55749f9a89a8339c.jpg",
       "actress": [
         "宮澤凱特"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-037"
-    },
-    {
-      "id": 1710,
-      "IDcode": "SKYHD-001",
-      "title": "SKY ANGLE 1 穿紅色網襪綁起來幹 ~ 宮澤凱特",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2008-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/d93b2af2-73de-466a-830a-be9844edb2b5.webp",
-      "actress": [
-        "宮澤凱特"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-001"
     }
   ]
 };

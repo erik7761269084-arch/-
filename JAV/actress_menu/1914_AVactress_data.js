@@ -30,18 +30,38 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241106/ac672af4-8b57-4727-9423-62531d34084a.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 6407,
-      "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "id": 10832,
+      "IDcode": "PFAS-024",
+      "title": "夫妇交换 令和交换情侣交换邻里交换联盟- 成泽日并",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241106/da3d8f0a-f26b-4184-9661-faba9607c536.jpg",
+      "actress": [
+        "祈山愛",
+        "楽園ミナ",
+        "杉崎みさき",
+        "成澤ひなみ",
+        "成泽ひなみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-024"
+    },
+    {
+      "id": 6407,
+      "IDcode": "KSBJ-378",
+      "title": "巨尻熟女ベストセレクション52人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",

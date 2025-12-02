@@ -31,58 +31,26 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2023-10-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/d103d424c9d297096969f82f2eb68d2f.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/f85c632bb338df587786ee1ce5ce722b.jpg",
       "actress": [
         "篠崎ゆう"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAIS-053"
     },
     {
-      "id": 89002,
-      "IDcode": "VENX-229",
-      "title": "体の相性が最高すぎる夫の連れ子と都合の良い女の三日三晩あやまちセックス 川原まな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2023-09-05",
-      "cover_url": "",
-      "actress": [
-        "篠崎ゆう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-229"
-    },
-    {
-      "id": 89066,
-      "IDcode": "VEC-603",
-      "title": "母の親友 川原まな （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2023-08-01",
-      "cover_url": "",
-      "actress": [
-        "篠崎ゆう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-603"
-    },
-    {
       "id": 89107,
       "IDcode": "VOD-018",
-      "title": "本物素人妻ドキュメント第3弾 美しきプラチナKカップ爆乳妻が欲望剥き出しで求めあうベロキス密着セックス 川原まな （ブルーレイディスク） （BOD）",
+      "title": "爆乳妻的欲望释出-川原真菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2023-07-04",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/38cc0bff96f879a084f0baad553d2ce6.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "篠崎ゆう"
       ],
@@ -91,13 +59,13 @@ window.actressData = {
     {
       "id": 89089,
       "IDcode": "VOD-017",
-      "title": "本物素人妻ドキュメント第2弾 美しきプラチナKカップ爆乳妻、初めての連続中出し3Pセックス 川原まな （ブルーレイディスク） （BOD）",
+      "title": "美丽的K罩杯爆乳人妻-川原真菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2023-06-06",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "篠崎ゆう",
@@ -106,16 +74,48 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-017"
     },
     {
+      "id": 89066,
+      "IDcode": "VEC-603",
+      "title": "母亲的朋友-川原真菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "篠崎ゆう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-603"
+    },
+    {
+      "id": 89002,
+      "IDcode": "VENX-229",
+      "title": "跟身體非常符合的繼子 三天三夜 不能說的性愛秘密 川原真菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240617-1/44785422c83639ffce6f5732418ea384.jpg",
+      "actress": [
+        "篠崎ゆう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-229"
+    },
+    {
       "id": 73120,
       "IDcode": "SNIS-424",
       "title": "Jcupの初体験7 恥じらいと絶頂のマイクロ水着7コスチューム 篠崎ゆう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2015-06-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/8ce47af20cd92dfc26547f1dc843438d.jpg",
       "actress": [
         "森林原人",
         "篠崎ゆう"

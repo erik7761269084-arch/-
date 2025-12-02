@@ -39,9 +39,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-06-20",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091704784784_thumbnail.webp",
       "actress": [
         "皆瀨明里",

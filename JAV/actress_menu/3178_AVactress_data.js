@@ -4,7 +4,7 @@ window.actressData = {
   "name": "糸芝はるほ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,36 +19,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 60363,
-      "IDcode": "JDNC-001",
-      "title": "J系ダンサーズ♪",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-09-23",
-      "cover_url": "https://tutu1.space/images/2025/10/03/03c568be5e90f26cbefc7d6d3a33716c.jpg",
-      "actress": [
-        "糸芝はるほ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JDNC-001"
-    },
-    {
       "id": 63787,
       "IDcode": "MZK-003",
       "title": "優等生ボテ腹中出し少女 糸芝はるほ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-05-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/01/bf568ed2/vod.jpg",
       "actress": [
         "糸芝はるほ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MZK-003"
+    },
+    {
+      "id": 60363,
+      "IDcode": "JDNC-001",
+      "title": "J系ダンサーズ♪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/03/03c568be5e90f26cbefc7d6d3a33716c.jpg",
+      "actress": [
+        "糸芝はるほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JDNC-001"
     }
   ]
 };

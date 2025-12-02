@@ -4,7 +4,7 @@ window.actressData = {
   "name": "长瀬広臣",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-26",
       "cover_url": "",
       "actress": [
@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/eed9ade72d83fa1c28e5eb8b98d25254.jpg",
+      "cover_url": "",
       "actress": [
         "宫村ななこ",
         "长瀬広臣"
@@ -59,8 +59,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-20",
       "cover_url": "",
       "actress": [
@@ -71,13 +71,13 @@ window.actressData = {
     },
     {
       "id": 81699,
-      "IDcode": "GRCH-2801",
+      "IDcode": "GRCH-280",
       "title": "GIRL’S CH 5周年 ユーザー様が選ぶ Best select 【復刻版】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-13",
       "cover_url": "",
       "actress": [
@@ -86,7 +86,7 @@ window.actressData = {
         "有马芳彦",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-280"
     },
     {
       "id": 76191,
@@ -95,9 +95,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-12-05",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "赤瀬尚子",

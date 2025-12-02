@@ -29,18 +29,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250427/47198833-f262-43b3-bb91-9b8a6e7ca8da_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 5764,
-      "IDcode": "FSBK-009",
-      "title": "身高140cm迷你爐利少女被媚藥束縛抽搐人體實驗：媽媽帶我來做詭異臨床試驗 ~ 谷田かりな",
+      "id": 6568,
+      "IDcode": "TENN-032",
+      "title": "生娘処女 AVデビュー 今日で私は大人になります…私の初めて貰って下さい… 谷田かりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FIRST STAR",
-      "publish_date": "2025-05-27",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427110327671671_thumbnail.webp",
+      "actress": [
+        "谷田かりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-032"
+    },
+    {
+      "id": 5764,
+      "IDcode": "FSBK-009",
+      "title": "低身長140cmの炉利娘で媚薬拘束痙攣人体実験",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527114106658658_thumbnail.webp",
       "actress": [
         "谷田かりな"
@@ -48,20 +64,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-009"
     },
     {
-      "id": 6568,
-      "IDcode": "TENN-032",
-      "title": "純情少女初體驗 AV出道 今天我正式成人 請收下我的第一次 ~ 谷田かりな",
+      "id": 4873,
+      "IDcode": "NECO-004",
+      "title": "熱帶小美人 陽光般笑容的褐色小妖精 被惡作劇心滿滿侵犯未發育的小秘密",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FIRST STAR",
-      "publish_date": "2025-04-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427110327671671_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dabf9c92318f97d4a4253/cover.jpg",
       "actress": [
         "谷田かりな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-032"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NECO-004"
     }
   ]
 };

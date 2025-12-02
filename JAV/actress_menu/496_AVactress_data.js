@@ -41,71 +41,170 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231108/5ee666b5-20a7-47c9-82f0-5327ac00ecaa.jpg",
     "https://picture.yoshiclub.xyz/20231108/a7ce2d0d-bc6d-48a0-9b8a-726ab102635e.jpg"
   ],
-  "works_count": 10,
+  "works_count": 19,
   "related_dramas": [
     {
-      "id": 7862,
-      "IDcode": "RBK-112",
-      "title": "奴女之淚 那一天我失去了明天，淪爲人偶 ~ 工藤由羅",
+      "id": 107067,
+      "IDcode": "STARS-809",
+      "title": "何発射精-工藤ゆら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072354253253.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-809"
     },
     {
-      "id": 9454,
-      "IDcode": "ATID-621",
-      "title": "最喜歡的青梅竹馬和父親抱在了一起.... ~ 工藤由羅",
+      "id": 105809,
+      "IDcode": "ADN-542",
+      "title": "漂流少女-工藤由拉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102080927255255.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/a5202186cae6076a10de83c7dad9d591.jpg",
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-621"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-542"
     },
     {
-      "id": 10280,
-      "IDcode": "RBK-101",
-      "title": "貞操帶的女人 35 ~ 工藤由羅",
+      "id": 73243,
+      "IDcode": "STARS-829",
+      "title": "世界上最糟糕的初恋男友-工藤由良",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102938254254.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6fc089def9b1b80dcedd/cover.jpg",
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-101"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-829"
     },
     {
-      "id": 12947,
-      "IDcode": "SAME-123",
-      "title": "制服少女監禁凌辱 鬼畜輪姦",
+      "id": 68571,
+      "IDcode": "STARS-780",
+      "title": "我想随时为你口交-工藤ゆら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802024121577577.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250406-1/7c54762d8f9c969b60da67d27d031d81.jpg",
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-780"
+    },
+    {
+      "id": 17991,
+      "IDcode": "SAME-083",
+      "title": "漂流少女-工藤由拉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787f737f9a2e9b1d4a5319a/cover.jpg",
+      "actress": [
+        "工藤由羅",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-083"
+    },
+    {
+      "id": 17480,
+      "IDcode": "ATID-582",
+      "title": "報復の地下室 ~ 富家女被囚禁的日子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787fd10478d611da775222f/cover.jpg",
+      "actress": [
+        "工藤由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-582"
+    },
+    {
+      "id": 16971,
+      "IDcode": "ADN-513",
+      "title": "中年自由职业者-工藤由拉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/8033db7a3eb8b63162beaf7706273757.jpg",
+      "actress": [
+        "工藤由羅",
+        "工藤由罗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-513"
+    },
+    {
+      "id": 16417,
+      "IDcode": "SAME-095",
+      "title": "女員工剛搬到東京不久就遭到暴力強奸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d544fecf22ae3e043cb98a/cover.jpg",
+      "actress": [
+        "工藤由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-095"
+    },
+    {
+      "id": 15064,
+      "IDcode": "ADN-554",
+      "title": "最后的性-工藤ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/9103080e0859982e23432f597a87f218.jpg",
+      "actress": [
+        "工藤由羅",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-554"
+    },
+    {
+      "id": 14284,
+      "IDcode": "ADN-572",
+      "title": "在丈夫面前被强暴──强公司住房事件工藤由良",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/a83a3e3c5242b986c92c3cb39151baff.jpg",
+      "actress": [
+        "工藤由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-572"
     },
     {
       "id": 13688,
@@ -114,95 +213,149 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2024-07-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240628/202406280115307070.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67879de3c179ffb1db907d36/cover.jpg",
       "actress": [
         "工藤由羅"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-115"
     },
     {
-      "id": 16971,
-      "IDcode": "ADN-513",
-      "title": "中年打工大叔被新來的兼職女吸引的故事。漂流少女 第02集",
+      "id": 12990,
+      "IDcode": "ATID-605",
+      "title": "美女们被下媚药玩弄的历史三大事件",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802060637107107.jpg",
+      "actress": [
+        "水川潤",
+        "友田彩也香",
+        "工藤由羅",
+        "いち",
+        "由爱可奈",
+        "工藤由罗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-605"
+    },
+    {
+      "id": 12947,
+      "IDcode": "SAME-123",
+      "title": "制服少女監禁凌辱 鬼畜輪姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240101/20240101100623606606.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878fe82a47ebb1a8b44d9a/cover.jpg",
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-513"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-123"
     },
     {
-      "id": 17991,
-      "IDcode": "SAME-083",
-      "title": "漂流少女 Runaway girl 工藤由羅",
+      "id": 12327,
+      "IDcode": "ADN-605",
+      "title": "被老公最好的朋友拥抱-工藤ゆら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231105/20231105225815546546.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240929-1/f62b6eec6aa4c63d67251cec21c09c98.jpg",
+      "actress": [
+        "工藤由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-605"
+    },
+    {
+      "id": 11683,
+      "IDcode": "RBK-100",
+      "title": "花と縄 工藤ゆら初緊縛作品",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/f8efd6692cb5d32aa61fc428fed7aec5.jpg",
+      "actress": [
+        "工藤由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-100"
+    },
+    {
+      "id": 10986,
+      "IDcode": "ADN-628",
+      "title": "身代わりの天使 工藤ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/11/229fc51b/vod.jpg",
+      "actress": [
+        "工藤由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-628"
+    },
+    {
+      "id": 10280,
+      "IDcode": "RBK-101",
+      "title": "贞操带的女人-工藤由良",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678902c75d57b64bfd8199fc/cover.jpg",
       "actress": [
         "工藤由羅",
-        "日森一"
+        "工藤由罗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-101"
     },
     {
-      "id": 73243,
-      "IDcode": "STARS-829",
-      "title": "世界で一番最悪な初恋 大好きなカレシが私とのSEX映像を知り合いに拡散!その結果、輪姦されまくってしまいました。 工藤ゆら",
+      "id": 9454,
+      "IDcode": "ATID-621",
+      "title": "最喜欢的青梅竹马居然和我老爸搞在一起了 工藤由罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-05-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/5478657d3031ad929d4f515d0b666706.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b1ed30833b4bf50076cf/cover.jpg",
       "actress": [
-        "工藤由羅"
+        "工藤由羅",
+        "工藤由罗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-829"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-621"
     },
     {
-      "id": 107067,
-      "IDcode": "STARS-809",
-      "title": "「1ヶ月オナ禁した童貞クンは何発射精できるのか？」ヤリまくり無限筆下ろしドキュメント3本番！！！ 工藤ゆら",
+      "id": 7862,
+      "IDcode": "RBK-112",
+      "title": "隷女の涙 奪われた明日、私が人形になったあの日。 工藤ゆら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-03-14",
-      "cover_url": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072354253253.jpg",
       "actress": [
         "工藤由羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-809"
-    },
-    {
-      "id": 68571,
-      "IDcode": "STARS-780",
-      "title": "いつでもフェラしたい!絶倫彼氏とバレたらヤバい所でフェラチオ個撮しまくりの年下チンしゃぶビッチ彼女 工藤ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-03-09",
-      "cover_url": "",
-      "actress": [
-        "工藤由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-112"
     }
   ]
 };

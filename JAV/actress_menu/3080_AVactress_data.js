@@ -4,7 +4,7 @@ window.actressData = {
   "name": "里海ゆうひ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 61696,
       "IDcode": "JRZE-253",
-      "title": "初撮り六十路妻ドキュメント 里海ゆうひ",
+      "title": "初次拍摄六十路人妻纪录片-里海夕日",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-07-17",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/feaad8176708860b60202c58ec32635e.jpg",
       "actress": [
         "里海ゆうひ"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 59711,
       "IDcode": "JURA-164",
-      "title": "- 初撮り六十路妻ドキュメント第三章 里海ゆうひ - JAV目錄大全javmenu.com",
+      "title": "初撮り六十路妻ドキュメント第三章 里海ゆうひ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/5864b9fc/vod.jpg",
+      "cover_url": "",
       "actress": [
         "里海ゆうひ"
       ],

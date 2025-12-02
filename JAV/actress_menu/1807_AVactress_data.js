@@ -32,7 +32,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250513/2a9c5c4b-ab33-4afc-9ce4-c352d9640edd_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 92526,
@@ -41,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2017-11-01",
       "cover_url": "",
@@ -55,6 +55,22 @@ window.actressData = {
         "仁科さゆり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CP-009"
+    },
+    {
+      "id": 160,
+      "IDcode": "HEYZO-0137",
+      "title": "讓我來寵你嘛～咱倆的小秘密～ ~ 吉野艷子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2012-10-13",
+      "cover_url": "",
+      "actress": [
+        "吉野艶子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0137"
     }
   ]
 };

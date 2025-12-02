@@ -29,13 +29,13 @@ window.actressData = {
     {
       "id": 7820,
       "IDcode": "PFAS-031",
-      "title": "債務/浪費/破產 令與輓歌 女人、眼淚與性",
+      "title": "女人與眼淚和性愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2025-03-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250302/2f64707d-4149-495d-b744-fca3afe89d88.jpg",
       "actress": [
         "野上しおり",

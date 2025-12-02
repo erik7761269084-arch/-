@@ -35,19 +35,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241202/aab797a5-cb10-4522-9c97-122c2be4dcc4.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 9444,
-      "IDcode": "MIFD-562",
-      "title": "再見。請你射在我體內，我要以此堅決和男友分手。在她的AV首秀30天後......她對出軌男友的最後報復是她人生中的初次無套中出 ~ 月乃楓羽梨",
+      "id": 10247,
+      "IDcode": "MIFD-552",
+      "title": "我出轨也没关系的对吧-月乃风和",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102083246551551.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241215-1/7330bb2b6a852628d462b15d6b271c26.jpg",
+      "actress": [
+        "月乃楓羽梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-552"
+    },
+    {
+      "id": 9444,
+      "IDcode": "MIFD-562",
+      "title": "AVデビューから30日後…浮気彼氏に最後の仕返しは人生初めてのナマ中出し 月乃ふわり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/5d9e9996/vod.jpg",
       "actress": [
         "月乃楓羽梨"
       ],

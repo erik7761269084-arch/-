@@ -41,13 +41,13 @@ window.actressData = {
     {
       "id": 8347,
       "IDcode": "SDNM-503",
-      "title": "新人出道！優雅氣質與母愛滿滿的職場媽媽，工作與家庭都很完美 35歲 首次亮相 AV DEBUT ~ 常葉遙",
+      "title": "漂う気品と溢れる母性 家庭も仕事も順風満帆なキャリアママ 常葉遥 35歳 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-03-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250211/d2ebd030-cfa7-48c2-8ded-9d5623dbf003.jpg",
       "actress": [
         "常葉遥"

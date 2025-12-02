@@ -38,13 +38,13 @@ window.actressData = {
     {
       "id": 16689,
       "IDcode": "JUQ-558",
-      "title": "新人出道！帶着素人人妻登場!! 傳說中的女上位戰士人妻柴咲蓝乃35歲 首次亮相 AV DEBUT",
+      "title": "傳說中的騎乘位-柴咲藍乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-30",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119074009295295.jpg",
       "actress": [
         "柴咲あいの",

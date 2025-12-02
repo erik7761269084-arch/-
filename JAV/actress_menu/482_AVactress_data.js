@@ -45,67 +45,164 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240713/82e7f6e6-d106-411b-a0ce-d6c8cdd64358.jpg",
     "https://picture.yoshiclub.xyz/20240713/01330818-c705-48ca-ac47-40248ae2d20b.jpg"
   ],
-  "works_count": 8,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 3217,
-      "IDcode": "MIDA-310",
-      "title": "去風俗店還不如讓我幫你爽！被暗戀的青梅竹馬一邊罵一邊吸到爆24小時 ~ 塔乃花鈴",
+      "id": 12613,
+      "IDcode": "MIDV-828",
+      "title": "身體太敏感了！只要逗弄乳頭就能高潮！ 絕對活躍的女大學生平面寫真偶像！絕對！驚人的技術特訓性愛專輯，不會屈服於快感 ~ 塔乃花鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/202508280236504444_64273_thumbnail.webp",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815225602552552.jpg",
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-310"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-828"
     },
     {
-      "id": 4944,
-      "IDcode": "MIDA-221",
-      "title": "對我們這些底層工人也溫柔以待的社長千金，作為謝禮狠狠侵犯她吧！員工旅行和公司裡都來一發...鬼畜工人的逆襲令嬢侵犯 ~ 塔乃花鈴",
+      "id": 13347,
+      "IDcode": "MIDV-797",
+      "title": "現役女大學生塔乃花玲AV出道！新人專屬解禁 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/202506260313308585_thumbnail.webp",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712001551507507.jpg",
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-797"
     },
     {
-      "id": 5738,
-      "IDcode": "MIDA-185",
-      "title": "美術部少女被迫當素描模特 被男同學視奸到發情後強制插入 性欲失控狂插開腿失禁高潮 ~ 塔乃花鈴",
+      "id": 73496,
+      "IDcode": "MIDV-937",
+      "title": "就算射了一次，也会盯着你看，轻声细语帮你再来一次的回春按摩店 塔乃花铃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505290841449898_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250126-1/2f85fb56daa2670c8f34767d6669aeb6.jpg",
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-185"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-937"
+    },
+    {
+      "id": 12040,
+      "IDcode": "MIDV-859",
+      "title": "現役女子大生グラビアアイドルがぶっ壊れる 禁欲焦らしオーガズム超覚醒スペシャル1ヶ月溜め込んだ性欲が爆発した1日 絶頂169回！痙攣3482回！本気汁＆イキ潮14523cc！ 塔乃花鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/11/10/66cddc81b79e2366c5c32d195060db86.jpg",
+      "actress": [
+        "塔乃花鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-859"
+    },
+    {
+      "id": 11346,
+      "IDcode": "MIDV-895",
+      "title": "最喜欢精液-塔乃花鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/75a0762a0f85f19cdd36ef41b21b9ada.jpg",
+      "actress": [
+        "塔乃花鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-895"
+    },
+    {
+      "id": 10331,
+      "IDcode": "MIDV-969",
+      "title": "跟老师在酒店共度一夜-塔乃花鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241215-1/b25c73a322f5ea9e5abe2b884ad9be68.jpg",
+      "actress": [
+        "塔乃花鈴",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-969"
+    },
+    {
+      "id": 8692,
+      "IDcode": "MIDA-035",
+      "title": "「恋人のためなら…」 乳首イキ開発失禁エステ沼 媚薬マッサージで異常体質に転生した女子大生の末路 塔乃花鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/8c8157afea739f061e87417078561604.jpg",
+      "actress": [
+        "塔乃花鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-035"
+    },
+    {
+      "id": 7890,
+      "IDcode": "MIDA-073",
+      "title": "上学电车中，我被痴汉集团盯上了……制服美少女高中生拼命抵抗，却被不停玩弄敏感小穴，还被射得满身都是，连叫出声都不行地被轮● 塔乃花铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4b5a35f03a092cf66ecb4/cover.jpg",
+      "actress": [
+        "塔乃花鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-073"
+    },
+    {
+      "id": 7172,
+      "IDcode": "MIDA-111",
+      "title": "用巨根开发G点高潮-塔乃花鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081713454454.jpg",
+      "actress": [
+        "塔乃花鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-111"
     },
     {
       "id": 6517,
       "IDcode": "MIDA-147",
-      "title": "新生歡迎會NTR！胸糞注意！現役寫真偶像女友上大學想過普通生活，結果在歡迎會上被渣男學長整夜狂幹 ~ 塔乃花鈴",
+      "title": "胸粪注意普通大学生-塔乃花鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501041223271271_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc418a48984164183c78bc/cover.jpg",
       "actress": [
         "塔乃花鈴",
         "いち",
@@ -115,68 +212,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-147"
     },
     {
-      "id": 7172,
-      "IDcode": "MIDA-111",
-      "title": "巨根開發子宮頸 高潮小穴被追擊猛插潮吹覺醒極樂 ~ 塔乃花鈴",
+      "id": 5738,
+      "IDcode": "MIDA-185",
+      "title": "美术社成员被迫成为人体模特-塔乃花鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081713454454.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505290841449898_thumbnail.webp",
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-185"
     },
     {
-      "id": 7890,
-      "IDcode": "MIDA-073",
-      "title": "通學電車上被癡漢團夥盯上的我…反抗的制服J系敏感小妹妹被玩弄『精子噴射』聲音壓制無聲輪奸 ~塔乃花鈴",
+      "id": 4944,
+      "IDcode": "MIDA-221",
+      "title": "对我们也温柔以待的社长千金-塔乃花鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227065214130130.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae891e81bce592e9c18caf/cover.jpg",
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-221"
     },
     {
-      "id": 8692,
-      "IDcode": "MIDA-035",
-      "title": "爲了我的愛人… 乳首開發高潮失禁的美學沼澤 被媚藥按摩的女大學生的末路 ~ 塔乃花鈴",
+      "id": 4001,
+      "IDcode": "MIDA-263",
+      "title": "担任教師の僕は生徒の誘惑に負けて放課後ラブホで何度も、何度もセックスしてしまった… 塔乃花鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130075623428428.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085538866866_34007_thumbnail.webp",
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-035"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-263"
     },
     {
-      "id": 73496,
-      "IDcode": "MIDV-937",
-      "title": "一度射精しても見つめて、囁きヌイてくれる回春エステ 塔乃花鈴",
+      "id": 3217,
+      "IDcode": "MIDA-310",
+      "title": "去风俗店还不如让我帮你爽-塔乃花铃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-01-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/202508280236504444_64273_thumbnail.webp",
       "actress": [
         "塔乃花鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-937"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-310"
+    },
+    {
+      "id": 2337,
+      "IDcode": "MIDA-349",
+      "title": "用手撸不算出轨哦-塔乃花铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://img.cdn202511.com/videos/202510/25/68fbc6a364aaf75735711009/poster2.jpg",
+      "actress": [
+        "塔乃花鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-349"
     }
   ]
 };

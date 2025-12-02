@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桜木あむ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 100452,
       "IDcode": "HMN-329",
-      "title": "夢はIDOL！美少女アルバイトちゃん初めてのナマ中出し 桜木あむ",
+      "title": "我的梦想是成为一名K-POP-桜木あむ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2023-03-24",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836af93a0b87615b2d38059/cover.jpg",
       "actress": [
         "鲛岛",
         "桜木あむ"
@@ -38,14 +38,14 @@ window.actressData = {
     {
       "id": 92327,
       "IDcode": "MIFD-228",
-      "title": "新人 夢はK-POPアイドル♪めっちゃ敏感アルバイト美少女ちゃん AVDEBUT 桜木あむ （ブルーレイディスク） （BOD）",
+      "title": "兼职美女-桜木あむ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-02-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240810-1/754daa6e589e686dd7aa8e6049be347d.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-4/8b43d86ef2a4873ba050668f3ed1d23f.jpg",
       "actress": [
         "桜木あむ"
       ],

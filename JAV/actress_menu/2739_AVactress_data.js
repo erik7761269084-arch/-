@@ -39,20 +39,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1538,
-      "IDcode": "HEYZO-2928",
-      "title": "讓素人妹穿上性感內衣來一發！ 中川貴子",
+      "id": 158628,
+      "IDcode": "PACOPACOMAMA-080423_887",
+      "title": "人妻マンコ図鑑 162 デラックス版 ~ 砂田弘子橋本洋子",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "HEYZO",
-      "publish_date": "2022-11-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20230410/20230410035128180180.",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/DbEmLmyn/1.jpg",
       "actress": [
         "中川貴子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2928"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PACOPACOMAMA-080423_887"
     }
   ]
 };

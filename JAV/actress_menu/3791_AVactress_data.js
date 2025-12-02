@@ -4,7 +4,7 @@ window.actressData = {
   "name": "水谷千奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 68309,
       "IDcode": "JUTA-165",
-      "title": "極上！！四十路奥さま初脱ぎAVドキュメント 水谷千奈",
+      "title": "四十歲主婦初次AV紀錄-水谷千奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://tutu1.space/images/2025/04/24/a0de2c6340f113d296d43a3978363f35.jpg",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250425-1/4b25a5da068f92d7812bdf11e8584e85.jpg",
       "actress": [
         "水谷千奈"
       ],

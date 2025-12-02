@@ -50,7 +50,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2024-08-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/7ea71f34711809d8f9992db63fd8e2e0.jpg",
@@ -68,25 +68,41 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
       "publish_date": "2021-10-01",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/Ooa09UTS.jpg",
       "actress": [
         "斎藤みくる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-463"
     },
     {
-      "id": 97774,
-      "IDcode": "KIR-039",
-      "title": "借金のカタに女子大生の妹を寝取られてしまいました。天上みさ",
+      "id": 520007,
+      "IDcode": "300NTK-569",
+      "title": "成长H罩杯火箭厚脸巨乳妹泳装狂暴！ ！！感觉就像被摩擦和吸吮并从 Naka 弄湿！ ！！谢谢 Gachipaizuri 服务超级棒！ ！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2021-05-02",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/7071a10340e15d0762794fc98e7add1f.jpg",
+      "actress": [
+        "斎藤みくる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300NTK-569"
+    },
+    {
+      "id": 97774,
+      "IDcode": "KIR-039",
+      "title": "女子大生-天上みさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "NEXT",
-      "publish_date": "2021-07-20",
+      "publish_date": "",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_254kir039/h_254kir039pl.jpg",
       "actress": [
         "斎藤みくる"
@@ -94,32 +110,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-039"
     },
     {
-      "id": 78628,
-      "IDcode": "NTK-569",
-      "title": "成長中Hカップのロケット生意気ボイン美少女が水着で大暴れ！！揉まれ吸われ感じまくりナカから濡れまくる！！お礼のガチパイズリご奉仕は超見もの！！どこで覚えてきたんだパイズリテクシャンめ！！騎乗位でも乳テク発揮の生ナカ出し誘発！！搾精の騎乗位は必見！！/ラブホドキュメンタリー休憩2時間/104",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-05-02",
-      "cover_url": "",
-      "actress": [
-        "斎藤みくる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTK-569"
-    },
-    {
       "id": 79088,
       "IDcode": "BAHP-075",
-      "title": "- STRAWBERRY PUSSY AMAGAMI MISA 天上みさ - JAV目錄大全javmenu.com",
+      "title": "STRAWBERRY PUSSY AMAGAMI MISA 天上みさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221014-1/efeda2fd099743b90147047a7597d1c2.jpg",
       "actress": [
         "斎藤みくる"
       ],

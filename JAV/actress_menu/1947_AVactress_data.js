@@ -42,15 +42,39 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3286,
-      "IDcode": "NSFS-411",
-      "title": "AI重製版 讓我吃醋吧… 禁忌母女交換·愛女玩偶 永久珍藏版277分鐘 ~ 真心實 内藤斐奈 蕾 加納瞳 水嶋愛 結城美佐 円城ひとみ 早乙女愛",
+      "id": 4254,
+      "IDcode": "NSFS-403",
+      "title": "AIリマスター版 極上濃厚エロビデオ もの凄い接吻 名作永久保存版3時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-08-22",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703605605_88783_thumbnail.webp",
+      "actress": [
+        "川上優",
+        "桜沢まひる",
+        "真心実",
+        "艶堂しほり",
+        "杉本蘭",
+        "大友唯爱",
+        "远藤しおり",
+        "石川さとこ",
+        "真白希美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-403"
+    },
+    {
+      "id": 3286,
+      "IDcode": "NSFS-411",
+      "title": "AIリマスター版 私を嫉妬させてください… 禁断スワップ母娘・愛娘ダッチワイフ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/202508230339243737_81876_thumbnail.webp",
       "actress": [
         "早乙女らぶ",
@@ -67,30 +91,6 @@ window.actressData = {
         "夏目レイコ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-411"
-    },
-    {
-      "id": 4254,
-      "IDcode": "NSFS-403",
-      "title": "AI重製版 頂級濃情色片 瘋狂熱吻 經典永久收藏3小時 ~ 大友唯爱 石川さとこ 真心実 桜沢まひる 艶堂しほり 杉本兰",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703605605_88783_thumbnail.webp",
-      "actress": [
-        "川上優",
-        "桜沢まひる",
-        "真心実",
-        "艶堂しほり",
-        "杉本蘭",
-        "大友唯爱",
-        "远藤しおり",
-        "石川さとこ",
-        "真白希美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-403"
     }
   ]
 };

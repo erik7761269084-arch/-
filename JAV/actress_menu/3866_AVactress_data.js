@@ -4,7 +4,7 @@ window.actressData = {
   "name": "なつみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,19 +20,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 68951,
-      "IDcode": "MAAN-1062",
-      "title": "【プリケツ揺らすパリピギャル】チ●ポと酒をこよなく愛するノリよし！ずぶ濡れ！無限大ピストンビートな女子が気持ち良すぎてエンドレス絶頂！フレッシュ尿で新感覚のびしょ濡れ体験♪腰振りまくりエチエチはっちゃけSEX！！【シン・ナンパ】【なつみ】",
+      "IDcode": "300MAAN-1062",
+      "title": "【プリケツ揺らすパリピギャル】チ●ポと酒をこよなく愛するノリよし！ずぶ濡れ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOC",
-      "publish_date": "2025-03-23",
-      "cover_url": "https://tutu1.space/images/2025/07/04/75cd7122e1b2441053e13ed6fe5c05d0.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "なつみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1062"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1062"
     }
   ]
 };

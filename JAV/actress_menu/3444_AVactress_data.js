@@ -22,27 +22,8 @@ window.actressData = {
     "Mizushiro Rino"
   ],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 5328,
-      "IDcode": "MIKR-023",
-      "title": "美腳長身 用露出的嫩穴極致款待中出的風俗店 ~ 森日向子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061411409409_thumbnail.webp",
-      "actress": [
-        "森日向子",
-        "里见まゆ",
-        "水城りの",
-        "叶山美空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-023"
-    },
     {
       "id": 82116,
       "IDcode": "XRW-805",
@@ -50,7 +31,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-12-27",
       "cover_url": "",
@@ -68,14 +49,30 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-805"
     },
     {
+      "id": 99845,
+      "IDcode": "MMYM-009",
+      "title": "デカ尻イキ人形 水城りの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MARRION",
+      "publish_date": "2017-06-01",
+      "cover_url": "http://15.155250922.com/upload/vod/2022/09/lgmpwf2cmpn.jpg",
+      "actress": [
+        "水城りの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMYM-009"
+    },
+    {
       "id": 86915,
       "IDcode": "HUNTA-161",
       "title": "「ダメダメ挿っちゃう！擦るだけの約束でしょう」乗車率120％の超満員電車＆バスで義姉に超密着で強制素股状態！！突然出来た義姉と通勤通学を共にしていたある日、満員の車両で義姉と超密着していたら髪の匂い＆お尻の感触…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2016-06-07",
       "cover_url": "",
       "actress": [
@@ -90,13 +87,13 @@ window.actressData = {
     {
       "id": 98746,
       "IDcode": "RCT-841",
-      "title": "私立スペレズ女学院 2 壁チ○ポ部活動編",
+      "title": "私立スペレズ女学院2壁チポ部活動編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2016-03-17",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "凉川绚音",
@@ -104,6 +101,25 @@ window.actressData = {
         "冈本希"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-841"
+    },
+    {
+      "id": 5328,
+      "IDcode": "MIKR-023",
+      "title": "用美腿高个饱满小穴热情招待-森日向子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061411409409_thumbnail.webp",
+      "actress": [
+        "森日向子",
+        "里见まゆ",
+        "水城りの",
+        "叶山美空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIKR-023"
     }
   ]
 };

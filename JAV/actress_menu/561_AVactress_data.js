@@ -44,8 +44,97 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240929/be04fd12-2bd0-40b7-9041-b3cdb30295a0.jpg",
     "https://picture.yoshiclub.xyz/20240929/f0769980-6029-4309-9d2d-bc03636aaa56.jpg"
   ],
-  "works_count": 3,
+  "works_count": 13,
   "related_dramas": [
+    {
+      "id": 5814,
+      "IDcode": "CHC-020",
+      "title": "清純正妹被大叔隨意玩弄私密拍攝～絕對服從的羞恥性愛 花乃春日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "CHC工作室",
+      "publish_date": "2025-05-24",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525021831496496_thumbnail.webp",
+      "actress": [
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-020"
+    },
+    {
+      "id": 6647,
+      "IDcode": "FGAN-145",
+      "title": "臉騎自慰 變態妹子用下體磨男人臉爽翻天 ~ 星乃夏月 赤名いと 川越ゆい 花乃春日 片寄しゅうか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "2025-04-24",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424005717440440_thumbnail.webp",
+      "actress": [
+        "星乃夏月",
+        "赤名いと",
+        "花乃春日",
+        "片寄しゅうか",
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-145"
+    },
+    {
+      "id": 7818,
+      "IDcode": "PKPD-357",
+      "title": "透視泳裝POV 犬系撒嬌鬼春日＆白眼秒高潮變態抖M辣妹乃乃 ~ 北城希 花乃春日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-03-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250302/20250302121122608608.jpg",
+      "actress": [
+        "花乃春日",
+        "北城希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-357"
+    },
+    {
+      "id": 7989,
+      "IDcode": "DOCD-047",
+      "title": "隱藏攝像機拍攝的與素人在房間裏發生性關系的鏡頭，AV發售 Vol.8 ~ 南條彩 宮城理惠 葉月まゆ 花乃春日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-02-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250224/c9465b95-2f5b-4d6b-9ce5-c0f5f572bdc1.jpg",
+      "actress": [
+        "宮城理惠",
+        "南條彩",
+        "葉月まゆ",
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-047"
+    },
+    {
+      "id": 8902,
+      "IDcode": "FGAN-137",
+      "title": "不斷用淫語騷話撩撥你的JK少女 ~ 花乃春日 潤うるる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "2025-01-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/2f34d513-4cc9-4020-a542-fc51c781b239.jpg",
+      "actress": [
+        "潤うるる",
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-137"
+    },
     {
       "id": 63978,
       "IDcode": "FGAN-148",
@@ -53,10 +142,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-05-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/03/ed93bacb/vod.jpg",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "赤名いと",
         "花乃春日",
@@ -67,37 +156,119 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-148"
     },
     {
-      "id": 7246,
-      "IDcode": "NEOS-014",
-      "title": "尾行 Vol.14 清楚系美少女的尖叫聲被祭典喧囂掩蓋，在無人救援的絕望中被持續侵犯 ~ 花乃春日",
+      "id": 11620,
+      "IDcode": "CAWD-754",
+      "title": "ドキッとするロリ感×あざとい笑顔 見た目にそぐわない不適切なエロさがクセになる某有名店指名NO.1！超人気メイドAV転身デビュー 花乃はるひ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-03-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/3b45ac6d-6010-472a-a560-ff34fa5e0dae.jpg",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240926/20240926072033779779.jpg",
       "actress": [
         "花乃春日"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOS-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-754"
+    },
+    {
+      "id": 10957,
+      "IDcode": "CAWD-755",
+      "title": "萝莉脸的最佳射精-花乃はるひ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031073840940940.jpg",
+      "actress": [
+        "花乃春日",
+        "鲛岛",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-755"
+    },
+    {
+      "id": 10337,
+      "IDcode": "CAWD-767",
+      "title": "学生过于拼命的猛烈要求-花乃はるひ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787f9545d57b64bfd1a60f3/cover.jpg",
+      "actress": [
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-767"
+    },
+    {
+      "id": 8517,
+      "IDcode": "PIYO-213",
+      "title": "教え子の押しかけ誘惑に負けた日…家出してきた地味J〇と中出し懇願同棲生活。2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Hiyoko",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/0b288198-6540-4f4d-aa25-a77e353ee1dc.jpg",
+      "actress": [
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-213"
+    },
+    {
+      "id": 8319,
+      "IDcode": "FJIC-001",
+      "title": "ジュニアイ01 大手芸能プロダクション アップルライン アイドル志望のDカップでパイパンのはるひちゃんが底辺堕ち！着エロイメージビデオでSEX収録！無許可中出しでAV流出！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/a619a572-79ca-46f1-99c1-34317c5415ad.jpg",
+      "actress": [
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIC-001"
     },
     {
       "id": 7925,
       "IDcode": "FGAN-139",
-      "title": "傳聞中的信金銷售小姐會勾引顧客。用她的性感身體來換取顧客購買高價商品 ~ 潤うるる 花乃春日",
+      "title": "噂のタイトミニ信金営業レディー パンチラで挑発しながら高額商品へ誘導するエロテクニック",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "萌眼社",
-      "publish_date": "2025-02-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250227/c13ec14e-343b-4944-843b-0a08ee339eb5.jpg",
       "actress": [
         "潤うるる",
         "花乃春日"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-139"
+    },
+    {
+      "id": 7246,
+      "IDcode": "NEOS-014",
+      "title": "つきまとい14 楽しそうに歩く美少女を悲鳴は祭りの音でかき消され、誰も来ない絶望の中犯●れ続ける",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250327/3b45ac6d-6010-472a-a560-ff34fa5e0dae.jpg",
+      "actress": [
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOS-014"
     }
   ]
 };

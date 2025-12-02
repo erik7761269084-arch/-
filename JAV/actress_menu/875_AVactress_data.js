@@ -42,39 +42,101 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250404/105763de-5f52-4825-9db8-c8fa5d825b7c.jpg",
     "https://picture.yoshiclub.xyz/20250404/fe9028cf-bf82-4001-b783-4dcc3dd82502.jpg"
   ],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2374,
-      "IDcode": "SDAM-149",
-      "title": "那須鹽原溫泉鄉邂逅的小姐姐 就裹條毛巾進男湯？美嫩皮膚水滑水滑的 大雞巴忍不住就要狂插了！ 超人氣任務《用嘴玩套圈》7人特別篇 ~ 天羽梨梨花 本城花 那津乃千奈美 柴又詩穗 小鬆本果",
+      "id": 7015,
+      "IDcode": "IPSE-012",
+      "title": "新人出道！ 【寢取られSEX卒業論文】知性派女大學生AV出演。瞞着男友真實高潮NTR性交。 首次亮相 AV DEBUT ~ 小鬆本果",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213400254254_36744_thumbnail.webp",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "天羽梨梨花",
-        "那津乃千奈美",
-        "小松本果",
-        "本城花",
-        "柴又詩穗"
+        "小松本果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-012"
+    },
+    {
+      "id": 6334,
+      "IDcode": "IPSE-014",
+      "title": "瞞著男友與他人肉棒度過畢業旅行-小松本果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小松本果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-014"
+    },
+    {
+      "id": 5520,
+      "IDcode": "IPSE-015",
+      "title": "もう彼氏のSEXではイケない身体にインテリ女子大生の脳が快楽に支配されたエグい本気絶頂小松本果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小松本果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-015"
+    },
+    {
+      "id": 4786,
+      "IDcode": "IPSE-016",
+      "title": "连智商高达68的精英女大学生都被洗脑恳求发生性关系-小松本果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小松本果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-016"
+    },
+    {
+      "id": 3526,
+      "IDcode": "DVMM-280",
+      "title": "孩子气女孩反向三人行同时受到折磨和舌头咀嚼攻击-小松本果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1493b15c08d63a9907ab7/cover.jpg",
+      "actress": [
+        "虹村由美",
+        "小松本果",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-280"
     },
     {
       "id": 2487,
       "IDcode": "SDJS-334",
-      "title": "全裸上班體驗！SOD女子社員全裸僅一條毛巾挑戰男湯任務測試玩法 社內暴露＆ 同事榨精5人報告 ~ 九井珠奈緒 鈴河めぐみ 池上乙葉 小森舞 小鬆本果",
+      "title": "会社で服を着ていないのは一人だけ！ハダカの尊さを身をもって学ぶ SOD女子社員",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250922/20250922211125593593_63746_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "九井珠奈緒",
         "小森舞",
@@ -90,70 +152,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
     },
     {
-      "id": 3526,
-      "IDcode": "DVMM-280",
-      "title": "雙飛青梅竹馬！短發青梅竹馬當我是兄弟卻在旅行中瘋狂挑逗乳頭和溼吻 ~ 小鬆本果 虹村由美",
+      "id": 2374,
+      "IDcode": "SDAM-149",
+      "title": "名湯の湯もはじく若肌へ茹だった精子が思わず飛び出すびゅるっと暴発ぶっかけ連発 大人気ミッション《口だけでち〇ぽ輪投げ》7名スペシャル編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025352399399_41936_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "虹村由美",
+        "天羽梨梨花",
+        "那津乃千奈美",
         "小松本果",
-        "ニック"
+        "本城花",
+        "柴又詩穗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-280"
-    },
-    {
-      "id": 4786,
-      "IDcode": "IPSE-016",
-      "title": "高智商女大學生也被洗腦成性奴！變態中年教授的絕對催眠實驗 ~ 小松本果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703045257347347_thumbnail.webp",
-      "actress": [
-        "小松本果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-016"
-    },
-    {
-      "id": 6334,
-      "IDcode": "IPSE-014",
-      "title": "偷情溫泉之旅 瞞着男友和別人雞巴的畢業旅行 ~ 小鬆本果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/202505080636321515_thumbnail.webp",
-      "actress": [
-        "小松本果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-014"
-    },
-    {
-      "id": 7015,
-      "IDcode": "IPSE-012",
-      "title": "新人出道！ 【寢取られSEX卒業論文】知性派女大學生AV出演。瞞着男友真實高潮NTR性交。 首次亮相 AV DEBUT ~ 小鬆本果",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092526446446.jpg",
-      "actress": [
-        "小松本果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
     }
   ]
 };

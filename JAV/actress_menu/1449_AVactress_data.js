@@ -31,7 +31,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/小西まりえ.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-藤間みう.jpg"
   ],
-  "works_count": 10,
+  "works_count": 12,
   "related_dramas": [
     {
       "id": 87076,
@@ -40,31 +40,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-06-02",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231019/WCH6hXfb/1.jpg",
       "actress": [
         "小西真理繪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-367"
-    },
-    {
-      "id": 98811,
-      "IDcode": "RCTD-310",
-      "title": "父の再婚相手の連れ子は毎日喧嘩するほど仲の悪いクラスメイトだった。両親に心配をかけたくない私達は声を押し殺して女同士の喧嘩をするようになった。喘ぎ声とイキ我慢をする新感覚喧嘩レズバトル",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2020-02-20",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1rctd310/1rctd310pl.jpg",
-      "actress": [
-        "神楽アイネ",
-        "小西真理繪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-310"
     },
     {
       "id": 81520,
@@ -73,10 +56,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
       "publish_date": "2020-01-13",
-      "cover_url": "",
+      "cover_url": "https://sex8sex8sex8.com/20250401/easuCPVG/1.jpg",
       "actress": [
         "波多野结衣",
         "大槻响",
@@ -90,61 +73,95 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-283"
     },
     {
+      "id": 98602,
+      "IDcode": "RCT-723",
+      "title": "鬼百合女子校の拷問部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2015-04-09",
+      "cover_url": "",
+      "actress": [
+        "川越ゆい",
+        "石田美久",
+        "小西真理繪",
+        "春日野结衣",
+        "宫野えみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-723"
+    },
+    {
+      "id": 98408,
+      "IDcode": "AP-127",
+      "title": "女子校生通学路連れ回し痴漢 お嬢様女子校の通学路でウブそうなお嬢様女子校生に声をかけ道を聞くフリをして路地に連れ込みお漏らしするほど感じさせろ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-06-19",
+      "cover_url": "",
+      "actress": [
+        "通野未帆",
+        "小西真理繪",
+        "橘咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-127"
+    },
+    {
+      "id": 98811,
+      "IDcode": "RCTD-310",
+      "title": "新女同战斗-小西まりえ 神楽アイネ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c29e4f9a2e9b1d45ba4bb/cover.jpg",
+      "actress": [
+        "神楽アイネ",
+        "小西真理繪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-310"
+    },
+    {
+      "id": 97848,
+      "IDcode": "HUNTA-657",
+      "title": "想像以上に大人になった幼馴染のエロ過ぎる体でフル勃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20220927/hunta657pl.jpg",
+      "actress": [
+        "岬梓沙",
+        "有栖露露",
+        "小西真理繪",
+        "立花芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-657"
+    },
+    {
       "id": 86891,
       "IDcode": "CPDE-998",
       "title": "最強属性特別編 3周年記念 小西まりえ/川越ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "最強屬性",
-      "publish_date": "2019-12-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/942daf22903e925d62e96e8247b1b682.jpg",
       "actress": [
         "川越ゆい",
         "小西真理繪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-998"
-    },
-    {
-      "id": 71193,
-      "IDcode": "GS-262",
-      "title": "可愛いソソる新人女子社員を会社で歓迎会！飲ませて一発と考えていたが…彼女は飲んだら大暴れの露出狂！！上司には、ため口で酷いこと言うし、玩具で自慰るし、とてもかなわないエロ女に豹変！皆が逃げる中、逃げ遅れた僕が彼女の性欲を全部受け止め腰が抜けるほど…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GOGOS",
-      "publish_date": "2019-05-23",
-      "cover_url": "",
-      "actress": [
-        "小西真理繪",
-        "冲田里绪",
-        "斉藤ゆいか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-262"
-    },
-    {
-      "id": 71411,
-      "IDcode": "BBAN-227",
-      "title": "レズテクNO.1決定戦台本なしのイカセ合いバトル！ DOCUMENT LESBIAN 2019 ガチレズセックス大乱交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BIBIAN",
-      "publish_date": "2019-05-07",
-      "cover_url": "",
-      "actress": [
-        "美谷朱里",
-        "塚田詩織",
-        "葵玲奈",
-        "小西真理繪",
-        "星奈爱",
-        "管野静香",
-        "原さくら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-227"
     },
     {
       "id": 76879,
@@ -153,10 +170,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2018-12-14",
-      "cover_url": "",
+      "type": "",
+      "company": "SCOOP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/47d007a6cf5afeb251502ab9b92fa17f.jpg",
       "actress": [
         "大島愛里亞",
         "亜矢みつき",
@@ -173,10 +190,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-07-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/31500c72f5d4f9d704ef8116c14b948e.jpg",
       "actress": [
         "今井栞菜",
         "小西真理繪",
@@ -186,36 +203,63 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-081"
     },
     {
-      "id": 2050,
-      "IDcode": "SMBD-110",
-      "title": "S Model 110 超大黑操超可愛肛交女傭：小西瑪莉惠",
+      "id": 71411,
+      "IDcode": "BBAN-227",
+      "title": "レズテクNO.1決定戦台本なしのイカセ合いバトル！ DOCUMENT LESBIAN 2019 ガチレズセックス大乱交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2014-12-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/35da037c-8217-4cc2-a5be-363a275c1389.webp",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d094d3cbd632319750b3661fa7560c8e.jpg",
       "actress": [
-        "小西真理繪"
+        "美谷朱里",
+        "塚田詩織",
+        "葵玲奈",
+        "小西真理繪",
+        "星奈爱",
+        "管野静香",
+        "原さくら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-110"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-227"
     },
     {
-      "id": 1996,
-      "IDcode": "LAFBD-23",
-      "title": "林間少女 23 小西真理繪",
+      "id": 71193,
+      "IDcode": "GS-262",
+      "title": "可愛いソソる新人女子社員を会社で歓迎会！飲ませて一発と考えていたが…彼女は飲んだら大暴れの露出狂！！上司には、ため口で酷いこと言うし、玩具で自慰るし、とてもかなわないエロ女に豹変！皆が逃げる中、逃げ遅れた僕が彼女の性欲を全部受け止め腰が抜けるほど…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2014-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/b4936039-12ca-4d5a-ab2d-dc48c1d66577.webp",
+      "type": "",
+      "company": "GOGOS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/73c8d24eb4d7b40f4a9638c3e78d4cbc.jpg",
       "actress": [
-        "小西真理繪"
+        "小西真理繪",
+        "冲田里绪",
+        "斉藤ゆいか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-23"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-262"
+    },
+    {
+      "id": 19189,
+      "IDcode": "IPX-267",
+      "title": "后宫淫乱女仆",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230630/20230630012345295295.jpg",
+      "actress": [
+        "川菜美铃",
+        "亜矢瀬もな",
+        "小西真理繪",
+        "宫崎彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-267"
     }
   ]
 };

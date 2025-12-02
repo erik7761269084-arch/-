@@ -27,7 +27,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240222/429c84fc-5617-4a99-9cc3-c0a386fd7862.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 93954,
@@ -36,7 +36,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
       "publish_date": "2024-07-11",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/1717bc80373a31dd53117ba309abac4d.jpg",
@@ -56,14 +56,46 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2024-07-11",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241016-1/a39514949a6b8579b7da39d333736aed.jpg",
       "actress": [
         "浅羽ゆめ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-163"
+    },
+    {
+      "id": 14976,
+      "IDcode": "MOOR-016",
+      "title": "充滿第一次的情色發展，無盡的持續高潮 淺羽ゆめ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-05-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505084538630630.jpg",
+      "actress": [
+        "浅羽ゆめ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-016"
+    },
+    {
+      "id": 16159,
+      "IDcode": "MUDR-260",
+      "title": "從我十幾歲起，這就是我的夢想。天真微笑的無辜女孩，新人AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240221/20240221075536182182.jpg",
+      "actress": [
+        "浅羽ゆめ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-260"
     }
   ]
 };

@@ -46,172 +46,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250427/7a35de40-42e6-41ca-b665-7a8509333d3b_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250427/16e247ce-ade8-42df-9aad-3e318f9967ce_l.webp"
   ],
-  "works_count": 12,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 104377,
-      "IDcode": "IPZ-619",
-      "title": "美雪愛麗絲口爆走透透",
+      "id": 97824,
+      "IDcode": "IPZ-394",
+      "title": "我的女上司美雪艾莉丝十个不择不扣的痴女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-09-01",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ipz619/ipz619pl.jpg",
-      "actress": [
-        "美雪愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-619"
-    },
-    {
-      "id": 19506,
-      "IDcode": "IPZ-602",
-      "title": "我和潔希卡與愛麗絲的超甜蜜同居性生活 ~ 希崎潔希卡 美雪愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/a960a27a-146a-43d8-a1bb-1bb4cfbe4b11.jpg",
-      "actress": [
-        "希崎潔西卡",
-        "美雪愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-602"
-    },
-    {
-      "id": 19521,
-      "IDcode": "IPZ-476",
-      "title": "緊身裙 癡女醫的淫蕩誘惑 美雪愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-11-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/7b1aed4f-726b-4370-a8b8-7a8146b76170.jpg",
-      "actress": [
-        "美雪愛麗絲",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-476"
-    },
-    {
-      "id": 103517,
-      "IDcode": "IPZ-203",
-      "title": "在丈夫面前被侵犯 美雪愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-10-01",
-      "cover_url": "",
-      "actress": [
-        "美雪愛麗絲",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-203"
-    },
-    {
-      "id": 68407,
-      "IDcode": "IPZ-141",
-      "title": "秘密女搜查官 美雪愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-07-01",
-      "cover_url": "",
-      "actress": [
-        "美雪愛麗絲",
-        "しみけん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-141"
-    },
-    {
-      "id": 72385,
-      "IDcode": "DV-1399",
-      "title": "相遇4秒馬上幹 AGAIN 美雪愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2012-06-08",
-      "cover_url": "https://tutu1.space/images/2025/02/18/40febff761cba80172e5d647981a4291.jpg",
-      "actress": [
-        "美雪愛麗絲",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1399"
-    },
-    {
-      "id": 1642,
-      "IDcode": "DV-1349",
-      "title": "早洩改善治療 美雪愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "2012-01-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/8ce08ff6-054c-4d84-a786-7486b06cb784.jpg",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://lust103.cc/upload/vod/20240601-1/547558f4099cbd77311eadcca349f267.jpg",
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1349"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-394"
     },
     {
-      "id": 1678,
-      "IDcode": "DV-1329",
-      "title": "香汗淋漓淫水四溢 ~ 美雪愛麗絲",
+      "id": 102675,
+      "IDcode": "IPZ-347",
+      "title": "快感スパイラル ありすをイカせてイカせてイカせまくり！ 美雪ありす",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "",
-      "publish_date": "2011-11-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/ac8b68e9-145d-4a64-ad01-7acccfbbba15.jpg",
+      "publish_date": "2014-04-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ipz347/ipz347pl.jpg",
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1329"
-    },
-    {
-      "id": 1649,
-      "IDcode": "DV-1282",
-      "title": "日本獨家女星美雪愛麗絲的超級奢華泡泡浴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "",
-      "publish_date": "2011-07-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/1f9201bb-b267-4cf6-a010-1faa44c85762.jpg",
-      "actress": [
-        "美雪愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1282"
-    },
-    {
-      "id": 82478,
-      "IDcode": "DV-1252",
-      "title": "女尻 美雪ありす",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2011-04-08",
-      "cover_url": "",
-      "actress": [
-        "美雪愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-347"
     },
     {
       "id": 1597,
@@ -220,7 +87,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "",
       "publish_date": "2011-02-11",
       "cover_url": "https://picture.yoshiclub.xyz/20230403/bd81f89a-8925-49e9-919f-22f2cdbe758d.jpg",
@@ -230,20 +97,187 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1233"
     },
     {
+      "id": 105265,
+      "IDcode": "IPZ-560",
+      "title": "美女推销员美雪艾莉丝的床上营销",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240502-1/5e67fe3b003427febc14af857cf3997a.jpg",
+      "actress": [
+        "美雪愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-560"
+    },
+    {
+      "id": 104377,
+      "IDcode": "IPZ-619",
+      "title": "奶嘴的探索-美雪ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/04/27/16ce1ede955566aeb99cc93cd6de7b77.jpg",
+      "actress": [
+        "美雪愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-619"
+    },
+    {
+      "id": 103517,
+      "IDcode": "IPZ-203",
+      "title": "在她丈夫面前被强奸-美雪ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-9/339cbb170e128f1a8c0e3c633383577d.jpg",
+      "actress": [
+        "美雪愛麗絲",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-203"
+    },
+    {
+      "id": 96498,
+      "IDcode": "IPZ-121",
+      "title": "究极的美臀癖性爱-美雪爱丽丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240820-1/30c13ab25a617a808d7fbba2505b0d1d.jpg",
+      "actress": [
+        "美雪愛麗絲",
+        "森林原人",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-121"
+    },
+    {
+      "id": 82478,
+      "IDcode": "DV-1252",
+      "title": "高高翘起的圆润美尻-美雪ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美雪愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1252"
+    },
+    {
+      "id": 72385,
+      "IDcode": "DV-1399",
+      "title": "见面4秒就合体再临-美雪艾莉丝",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美雪愛麗絲",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1399"
+    },
+    {
+      "id": 68407,
+      "IDcode": "IPZ-141",
+      "title": "秘密女捜査官-美雪ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/1f01c2d5d307e44f59d9d7be596d7c0a.jpg",
+      "actress": [
+        "美雪愛麗絲",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-141"
+    },
+    {
+      "id": 19521,
+      "IDcode": "IPZ-476",
+      "title": "紧身短裙痴女医生-美雪ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240502-1/196399e6f97ef5b24517cc513a0b9de5.jpg",
+      "actress": [
+        "美雪愛麗絲",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-476"
+    },
+    {
+      "id": 19506,
+      "IDcode": "IPZ-602",
+      "title": "与两位女神甜蜜的主观同居性生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/e37b28093ea1278f84861a484fb5cf2e.jpg",
+      "actress": [
+        "希崎潔西卡",
+        "美雪愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-602"
+    },
+    {
       "id": 1650,
       "IDcode": "DV-1224",
-      "title": "用高潮來鍛鍊電視明星美雪愛麗絲的性愛課程",
+      "title": "TVタレント美雪ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8c9c04e7d663df48c1cc9/cover.jpg",
+      "actress": [
+        "美雪愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1224"
+    },
+    {
+      "id": 1642,
+      "IDcode": "DV-1349",
+      "title": "美雪艾莉丝最新听译版",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "",
-      "publish_date": "2011-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/62e1c536-87e4-46b6-b050-a1f12b229a7b.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230403/8ce08ff6-054c-4d84-a786-7486b06cb784.jpg",
       "actress": [
         "美雪愛麗絲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1224"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1349"
     }
   ]
 };

@@ -31,24 +31,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/w-Attackers/AI-Fix-ももかりん.jpg",
     "https://picture.yoshiclub.xyz/20230120/e45e16d7-972e-4515-926c-0c4b0653fd93.jpg"
   ],
-  "works_count": 5,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 2067,
-      "IDcode": "CWPBD-40",
-      "title": "時裝表演毒藥 40：桃華凜 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-11-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/20230121030800226226.jpg",
-      "actress": [
-        "桃夏凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-40"
-    },
     {
       "id": 1746,
       "IDcode": "S2MBD-032",
@@ -56,7 +40,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2011-08-19",
       "cover_url": "https://picture.yoshiclub.xyz/20230208/3a47c107-cfed-449f-82e0-c523539861bd.webp",
@@ -72,9 +56,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2011-06-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "桃夏凛",
@@ -84,36 +68,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-276"
     },
     {
-      "id": 1837,
-      "IDcode": "SMBD-27",
-      "title": "S Model 27 : 桃花凜 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2011-03-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/6daaed74-ac6b-4ece-aeb0-ecf1abda9af1.webp",
-      "actress": [
-        "桃夏凛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-27"
-    },
-    {
       "id": 103249,
       "IDcode": "SHKD-431",
-      "title": "キチクリンカン93",
+      "title": "菊林馆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2011-01-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd431/shkd431pl.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "桃夏凛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-431"
+    },
+    {
+      "id": 2067,
+      "IDcode": "CWPBD-40",
+      "title": "猫步毒药-桃香林",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桃夏凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-40"
     }
   ]
 };

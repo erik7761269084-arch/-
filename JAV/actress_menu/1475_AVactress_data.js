@@ -38,19 +38,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250829/4517530e-0e48-477a-a2e5-1dcbddb65041_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250829/c505e9a1-686b-4b5e-9b33-fec62810550f_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 2374,
-      "IDcode": "SDAM-149",
-      "title": "那須鹽原溫泉鄉邂逅的小姐姐 就裹條毛巾進男湯？美嫩皮膚水滑水滑的 大雞巴忍不住就要狂插了！ 超人氣任務《用嘴玩套圈》7人特別篇 ~ 天羽梨梨花 本城花 那津乃千奈美 柴又詩穗 小鬆本果",
+      "id": 3185,
+      "IDcode": "QBD-103",
+      "title": "制服美少女と性交 柴又しほ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "柴又詩穗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QBD-103"
+    },
+    {
+      "id": 2374,
+      "IDcode": "SDAM-149",
+      "title": "名湯の湯もはじく若肌へ茹だった精子が思わず飛び出すびゅるっと暴発ぶっかけ連発 大人気ミッション《口だけでち〇ぽ輪投げ》7名スペシャル編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213400254254_36744_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "天羽梨梨花",
         "那津乃千奈美",
@@ -59,6 +75,26 @@ window.actressData = {
         "柴又詩穗"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
+    },
+    {
+      "id": 2184,
+      "IDcode": "SDJS-337",
+      "title": "平日オフィスに1人だけ全裸の男子社員が居たら…チ○ポが気になって仕事になりません！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/10/7337f0db3fdc7909b6e64a4d5de98d4f.jpg",
+      "actress": [
+        "澄河美花",
+        "広瀬美結",
+        "神村彩月",
+        "横峯めぐ",
+        "柴又詩穗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-337"
     }
   ]
 };

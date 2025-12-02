@@ -42,15 +42,31 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 4965,
-      "IDcode": "CAWD-849",
-      "title": "獻身系偶像非我莫屬！綑綁中出4P隨便搞都沒問題 ~ 橘伊織",
+      "id": 5725,
+      "IDcode": "CAWD-841",
+      "title": "新人出道！以枕營業換飯吃的獻身系偶像，超欲怪物上線 AV DEBUT ~ 橘伊織",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-06-27",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075739468468_thumbnail.webp",
+      "actress": [
+        "橘伊織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-841"
+    },
+    {
+      "id": 4965,
+      "IDcode": "CAWD-849",
+      "title": "作为献身系偶像被捆绑内射4P都没问题-橘いおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032727694694_thumbnail.webp",
       "actress": [
         "橘伊織",
@@ -58,22 +74,6 @@ window.actressData = {
         "ニック"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-849"
-    },
-    {
-      "id": 5725,
-      "IDcode": "CAWD-841",
-      "title": "新人出道！以枕營業換飯吃的獻身系偶像，超欲怪物上線 AV DEBUT ~ 橘伊織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529075739468468_thumbnail.webp",
-      "actress": [
-        "橘伊織"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-841"
     }
   ]
 };

@@ -24,51 +24,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/上原瑞穂.jpg"
   ],
-  "works_count": 5,
+  "works_count": 9,
   "related_dramas": [
-    {
-      "id": 19542,
-      "IDcode": "ABP-454",
-      "title": "我和瑞穗的甜蜜辦公室愛情性生活瑞穗上原",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2016-03-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230406/d2bd4d43-36a4-45e1-8997-4a47446910e2.jpg",
-      "actress": [
-        "上原瑞穂"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-454"
-    },
-    {
-      "id": 1641,
-      "IDcode": "abp-408",
-      "title": "79分鐘 流出我專用的淫尻妹 ~ 上原瑞穗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "蚊香社",
-      "publish_date": "2015-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230406/8fc3517e-73e0-495c-8514-1f1309d846b7.jpg",
-      "actress": [
-        "上原瑞穂"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=abp-408"
-    },
     {
       "id": 106572,
       "IDcode": "ABP-376",
-      "title": "48時間耐久連続巨根アクメ 上原瑞穂",
+      "title": "耐久巨根连续怒干48小时-上原瑞穂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-10-22",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/c96618ee5cefad36283a5679db846626.jpg",
       "actress": [
         "上原瑞穂",
         "森林原人",
@@ -77,36 +45,135 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-376"
     },
     {
-      "id": 87978,
-      "IDcode": "ABP-361",
-      "title": "働く痴女系お姉さん vol.02 上原瑞穂",
+      "id": 106567,
+      "IDcode": "BGN-018",
+      "title": "上原瑞穂復活",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-09-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/1861e5efb42ee95ebaa7c1503e55aa35.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "上原瑞穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-018"
+    },
+    {
+      "id": 96422,
+      "IDcode": "MAS-052",
+      "title": "素人女孩借给你-上原瑞穂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "上原瑞穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAS-052"
+    },
+    {
+      "id": 96273,
+      "IDcode": "ABP-526",
+      "title": "本能的性爱四本番-上原瑞穗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/c0d54d45a798c7d194f07db99f4e5d38.jpg",
+      "actress": [
+        "上原瑞穂",
+        "森林原人",
+        "大岛丈",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-526"
+    },
+    {
+      "id": 96092,
+      "IDcode": "ABS-047",
+      "title": "美少女完全予約制-上原瑞穂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240923-1/0f1739712cf4ecf7f3e526df97cbfa1b.jpg",
+      "actress": [
+        "上原瑞穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-047"
+    },
+    {
+      "id": 95628,
+      "IDcode": "ABP-517",
+      "title": "浓厚的秘密接触-上原瑞穗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/6b6c1e468b9d03b3331f94d05291a88a.jpg",
+      "actress": [
+        "上原瑞穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-517"
+    },
+    {
+      "id": 87978,
+      "IDcode": "ABP-361",
+      "title": "工作的痴女系小妹-上原瑞穗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/4de8d1731340600fee7c4dd73747d652.jpg",
       "actress": [
         "上原瑞穂"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-361"
     },
     {
-      "id": 106567,
-      "IDcode": "BGN-018",
-      "title": "上原瑞穗 復活",
+      "id": 19542,
+      "IDcode": "ABP-454",
+      "title": "甘過ぎる社内恋愛SEXライフ-上原瑞穂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2015-02-20",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/e07c1f9d363cb631e2f7987e045ffd87.jpg",
       "actress": [
         "上原瑞穂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BGN-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-454"
+    },
+    {
+      "id": 1641,
+      "IDcode": "ABP-408",
+      "title": "上原瑞穂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/4a7d69f874cab6c8e9d6330e0e5f1476.jpg",
+      "actress": [
+        "上原瑞穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-408"
     }
   ]
 };

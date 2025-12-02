@@ -25,31 +25,14 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 62066,
-      "IDcode": "JHEM-035",
-      "title": "禁忌の背徳感に悦ぶ変態性癖 寝取られ妻 他人棒にヨガり悶える不貞妻の痴態と、それに興奮してしまった夫。異常興奮NTR濃厚ドラマ 3名収録 120分",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-08-05",
-      "cover_url": "",
-      "actress": [
-        "高城彩",
-        "高木千里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JHEM-035"
-    },
-    {
       "id": 81849,
       "IDcode": "NASH-206",
       "title": "【胸糞注意】NTR 寝取られた嫁「あなた、ごめんなさい…」 夫の知らない所で他人に抱かれた人妻4人の物語",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-12-27",
       "cover_url": "",
       "actress": [
@@ -59,6 +42,23 @@ window.actressData = {
         "福田凉子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-206"
+    },
+    {
+      "id": 62066,
+      "IDcode": "JHEM-035",
+      "title": "禁忌の背徳感に悦ぶ変態性癖 寝取られ妻 他人棒にヨガり悶える不貞妻の痴態と、それに興奮してしまった夫。異常興奮NTR濃厚ドラマ 3名収録 120分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/b260332176a13fa88c188e8a473fdc01.jpg",
+      "actress": [
+        "高城彩",
+        "高木千里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JHEM-035"
     }
   ]
 };

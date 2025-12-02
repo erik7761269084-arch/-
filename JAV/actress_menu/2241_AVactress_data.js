@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/f6b416dc/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "堀北実来",
         "绀野光",
@@ -58,14 +58,14 @@ window.actressData = {
     {
       "id": 8277,
       "IDcode": "HMN-661",
-      "title": "新人出道！鄉下來東京找工作的女子大生，求職間隙參拍了AV 首次亮相 AV DEBUT ~ 南紫音",
+      "title": "私、就活の合間にAV出演します 地方から企業面接のために上京して来た女子大生。面接と面接の空き時間に中出しAVデビュー！！ 南紫音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073632613613.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b966234e7d663df48c25ec/cover.jpg",
       "actress": [
         "南紫音"
       ],

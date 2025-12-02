@@ -38,18 +38,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240913/e631d314-c86d-4400-9720-752cecb15962.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 9003,
-      "IDcode": "DVMM-192",
-      "title": "美腳CA腳出本色出演 街中MM便15周年！顏出解禁！動車女服最高峯！大手航空公社初公開編 8人全員SEX ~ 西尾真裏奈 愛葉陽葵 靜河 稲森美憂 鈴音まゆ 朝陽伊都",
+      "id": 12023,
+      "IDcode": "MIFD-518",
+      "title": "差点正式出道的偶像转而AV出道",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241001-1/0cb00d9c6c79bc41bc3b4cabcf405647.jpg",
+      "actress": [
+        "朝陽伊都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-518"
+    },
+    {
+      "id": 9003,
+      "IDcode": "DVMM-192",
+      "title": "大手航空会社のキャビンアテンダント 初めての公開ディープキス編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071223830830.jpg",
       "actress": [
         "静河",

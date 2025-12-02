@@ -4,7 +4,7 @@ window.actressData = {
   "name": "时田こずえ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,51 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 9,
+  "works_count": 10,
   "related_dramas": [
-    {
-      "id": 61935,
-      "IDcode": "PAP-260",
-      "title": "デカい！デカ過ぎる！デカチン男の巨大チ〇ポでメス堕ちした熟女の物語！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "RUBY",
-      "publish_date": "2025-07-15",
-      "cover_url": "",
-      "actress": [
-        "时田こずえ",
-        "松本ゆり子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAP-260"
-    },
-    {
-      "id": 68236,
-      "IDcode": "NACX-152",
-      "title": "Icup以上のデカパイオンリー！大きく熟れた乳を持つ熟女14人 （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-04-20",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/11/f902e1d2/vod.jpg",
-      "actress": [
-        "山瀬美紀",
-        "寺島志保",
-        "愛咲りんか",
-        "松坂美纪",
-        "安倍亜沙美",
-        "今藤雾子",
-        "时田こずえ",
-        "樱井夕树",
-        "白鸟寿美礼",
-        "秋吉多恵子",
-        "有沢実纱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-152"
-    },
     {
       "id": 88943,
       "IDcode": "UMSO-512",
@@ -68,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-08-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/279f7bc82f06b3c089a04b99e3341ce5.jpg",
@@ -94,10 +51,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Nadeshiko",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20230922/fPAg6EmB/1.jpg",
       "actress": [
         "时田こずえ"
       ],
@@ -110,8 +67,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/8f6a5e129ef9b6ec317324e56792b38a.jpg",
       "actress": [
@@ -126,8 +83,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/60227e81e04573afc55e1be381636ec4.jpg",
       "actress": [
@@ -144,20 +101,27 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-050"
     },
     {
-      "id": 83581,
-      "IDcode": "HDKA-202",
-      "title": "はだかの訪問介護士 時田こずえ",
+      "id": 99941,
+      "IDcode": "DBER-048",
+      "title": "残酷女体狂乱淫動装置 完全撮り下ろし！！快楽漬けマシーンの餌食となった8名のイキっぱなし女体",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2020-03-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-12-19",
+      "cover_url": "http://15.155250922.com/upload/vod/2022/09/13qboiayt5g.jpg",
       "actress": [
-        "时田こずえ"
+        "河西亞美",
+        "时田こずえ",
+        "上野菜穂",
+        "滝川かのん",
+        "ゆうひ菜那",
+        "皆野あい",
+        "蓝川美夏",
+        "白井仁美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-202"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBER-048"
     },
     {
       "id": 81718,
@@ -166,7 +130,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-12-05",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221101-1/7b5ae66eb9e9e9ccb81d86b5350fca1e.jpg",
@@ -177,20 +141,79 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IWAN-008"
     },
     {
-      "id": 77884,
-      "IDcode": "KSBJ-060",
-      "title": "爆乳すぎる新しいお義母さん 時田こずえ",
+      "id": 83581,
+      "IDcode": "HDKA-202",
+      "title": "訪問介護士-時田こずえ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "时田こずえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-202"
+    },
+    {
+      "id": 77884,
+      "IDcode": "KSBJ-060",
+      "title": "爆乳すぎる新しいお義母さん時田こずえ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2019-09-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "时田こずえ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-060"
+    },
+    {
+      "id": 68236,
+      "IDcode": "NACX-152",
+      "title": "Icup以上のデカパイオンリー！大きく熟れた乳を持つ熟女14人 （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "山瀬美紀",
+        "寺島志保",
+        "愛咲りんか",
+        "松坂美纪",
+        "安倍亜沙美",
+        "今藤雾子",
+        "时田こずえ",
+        "樱井夕树",
+        "白鸟寿美礼",
+        "秋吉多恵子",
+        "有沢実纱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-152"
+    },
+    {
+      "id": 61935,
+      "IDcode": "PAP-260",
+      "title": "デカい！デカ過ぎる！デカチン男の巨大チ〇ポでメス堕ちした熟女の物語！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "时田こずえ",
+        "松本ゆり子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAP-260"
     }
   ]
 };

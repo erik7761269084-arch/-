@@ -30,25 +30,45 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-瀬名あゆむ.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 19558,
-      "IDcode": "IPZ-266",
-      "title": "和女友姐的危險性關係 前田香織",
+      "id": 103257,
+      "IDcode": "326GAR-385",
+      "title": "極悪ギャルチ○ポ制裁復讐逆レイプ！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/d693e63c-fd12-4c2b-a26c-969bba59e4cf.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-03-06",
+      "cover_url": "",
       "actress": [
-        "前田香織",
+        "武井麻希",
         "広瀬藍子",
-        "大岛丈"
+        "滝沢かのん",
+        "相叶レイカ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-385"
+    },
+    {
+      "id": 103258,
+      "IDcode": "326GAR-375",
+      "title": "ちびっこという立場を利用してギャルにエッチなイタズラをしまくる悪ガキ3人組！！ ギャルVS悪ガキ痴漢レイプ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-12-05",
+      "cover_url": "",
+      "actress": [
+        "武井麻希",
+        "広瀬藍子",
+        "滝沢かのん",
+        "相叶レイカ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-375"
     },
     {
       "id": 88016,
@@ -57,10 +77,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
-      "publish_date": "2012-10-05",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/57abb1febd5a12b0e213e39092a41c32.jpg",
       "actress": [
         "大槻响",
         "広瀬藍子"
@@ -70,13 +90,13 @@ window.actressData = {
     {
       "id": 68519,
       "IDcode": "UPSM-185",
-      "title": "馬上幹中出專門外送風俗女郎",
+      "title": "中式快餐",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2012-01-13",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/ed96a8aa9daa8ead1e0fad2184ad0fcd.jpg",
       "actress": [
         "本真友里",
@@ -88,20 +108,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UPSM-185"
     },
     {
-      "id": 1511,
-      "IDcode": "SKYHD-043",
-      "title": "天天使藍 Vol.43 : 廣瀨愛子 : Part.1 (HD)",
+      "id": 19558,
+      "IDcode": "IPZ-266",
+      "title": "终极性爱秘技教学-桃乃木香奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2011-01-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230509/faaec9cf-92fa-4862-b7d6-1a3a44be1247.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250305-1/039ebca098c5c89a8bc6d4af844b8d34.jpg",
       "actress": [
-        "広瀬藍子"
+        "前田香織",
+        "広瀬藍子",
+        "大岛丈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-266"
     }
   ]
 };

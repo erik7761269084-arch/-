@@ -34,23 +34,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250704/7f65d611-6c9c-47d7-b652-3aae1da7dfcb_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 4743,
       "IDcode": "JUR-047",
-      "title": "新人出道！ J杯人妻 曾經的賽車女王 37歲震撼出道 AV DEBUT ~ 百野真利奈",
+      "title": "前赛车女郎J罩杯人妻-百野真利奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-07-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703063806717717_thumbnail.webp",
       "actress": [
         "百野真利奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-047"
+    },
+    {
+      "id": 2993,
+      "IDcode": "JUR-474",
+      "title": "绝对不能让老婆知道丈母娘怀了我的小孩-ももの真利奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025702394394_95616_thumbnail.webp",
+      "actress": [
+        "百野真利奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-474"
     }
   ]
 };

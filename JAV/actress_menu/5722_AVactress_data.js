@@ -4,7 +4,7 @@ window.actressData = {
   "name": "真木さゆり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91110,
       "IDcode": "JRZE-125",
-      "title": "初撮り五十路妻ドキュメント 真木さゆり",
+      "title": "初撮五十路妻-真木さゆり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2022-09-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250401-1/1a0824394f176cba77760c0ce518405c.jpg",
       "actress": [
         "真木さゆり"
       ],

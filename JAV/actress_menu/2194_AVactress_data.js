@@ -54,8 +54,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623085018298298_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623085018776776_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 5073,
+      "IDcode": "NSFS-395",
+      "title": "AI重製版 心愛的妻子被寝取 名作永久珍藏版271分鐘 ~ 仓木澪 黒木唯香 笠木忍 青木美空",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081435540540_thumbnail.webp",
+      "actress": [
+        "笠木忍",
+        "青木美空",
+        "仓木澪",
+        "黒木唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-395"
+    },
     {
       "id": 81501,
       "IDcode": "BTH-022",
@@ -63,8 +82,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-20",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/a3788083de3aba36c9e12b42ec14624a.jpg",
       "actress": [
@@ -79,7 +98,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2015-02-26",
       "cover_url": "",
@@ -87,6 +106,54 @@ window.actressData = {
         "笠木忍"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DB-01"
+    },
+    {
+      "id": 143513,
+      "IDcode": "010112-902",
+      "title": "复活的笠木忍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250207-1/72ac4a847cfa28301ed0b8dfb2bc39a4.jpg",
+      "actress": [
+        "笠木忍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=010112-902"
+    },
+    {
+      "id": 142563,
+      "IDcode": "011812-918",
+      "title": "复活特辑未公开笠木忍的真实意图笠木忍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250201-1/e28b2ed71b1ebc6e72c6ca54c3c709f7.jpg",
+      "actress": [
+        "笠木忍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011812-918"
+    },
+    {
+      "id": 79007,
+      "IDcode": "MIGD-434",
+      "title": "真性中出し 笠木忍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/d147f0a18431b200dd10db02f35e7749.jpg",
+      "actress": [
+        "笠木忍"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-434"
     }
   ]
 };

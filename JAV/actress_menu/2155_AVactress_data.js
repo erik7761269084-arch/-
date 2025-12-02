@@ -59,13 +59,13 @@ window.actressData = {
     {
       "id": 1988,
       "IDcode": "CWPBD-16",
-      "title": "走秀毒藥 16：第 1 部分（高清）",
+      "title": "加護範子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2009-12-22",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230120/20230120083749450450.jpg",
       "actress": [
         "加護範子"

@@ -22,8 +22,57 @@ window.actressData = {
     "Kase Kanako"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 99596,
+      "IDcode": "JUY-107",
+      "title": "声も出せずクンニに悶える人妻介護 加瀬かなこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-03-19",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/juy107/juy107pl.jpg",
+      "actress": [
+        "田渊正浩",
+        "加濑佳奈子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-107"
+    },
+    {
+      "id": 99497,
+      "IDcode": "JUY-081",
+      "title": "初撮り本物人妻 AV出演ドキュメント 妄想大好きなムッツリ歯科助手 加瀬かなこ 33歳 AVデビュー！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-02-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/juy081/juy081pl.jpg",
+      "actress": [
+        "加濑佳奈子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-081"
+    },
+    {
+      "id": 105213,
+      "IDcode": "ADN-191",
+      "title": "被隔壁邻居操到高潮出轨的人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240505-1/089439a862ff3474fff300a6d941c670.jpg",
+      "actress": [
+        "加濑佳奈子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-191"
+    },
     {
       "id": 70899,
       "IDcode": "JUFD-949",
@@ -31,9 +80,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DREAMTICKET",
-      "publish_date": "2018-09-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "加濑佳奈子"

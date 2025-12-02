@@ -30,18 +30,56 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231119/a36c94c0-ef9e-4903-a783-c11321df77d5.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 6555,
-      "IDcode": "JKSR-682",
-      "title": "現役女學生被強制中出調教！鎖定制服蘿莉塔9人 ~ 澪川遙 斉藤月乃 まなみ静奈 久和原聖羅 早見奈奈 希和みこと 北岡果林 森咲はるの 恵沙也香",
+      "id": 11786,
+      "IDcode": "AGMX-197",
+      "title": "足控最佳合集 ~ 春谷美雨 広瀬結香 二宮和香 紺野光 まなみ靜奈 夜空亞美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-09-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20240922/1bbb68e8-baf1-4f41-9ba2-5dcd33ba00bc.jpg",
+      "actress": [
+        "绀野光",
+        "二宮和香",
+        "広瀬結香",
+        "夜空亞美",
+        "まなみ静奈",
+        "春谷美雨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-197"
+    },
+    {
+      "id": 101233,
+      "IDcode": "SIRO-5178",
+      "title": "活跃JD巨乳娇小萝莉虽然她拥有诱人的身材但她并没有太多的经验享受这个阴沉顽皮的女孩可耻的性交吧初拍AV线上申请AV体验拍摄2097",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "まなみ静奈",
+        "しずな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5178"
+    },
+    {
+      "id": 6555,
+      "IDcode": "JKSR-682",
+      "title": "現○女子○生 強●中出し指導！！狙われた制服ロ○ータ9名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "Big Morkal",
-      "publish_date": "2025-04-26",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428111457182182_thumbnail.webp",
       "actress": [
         "北岡果林",

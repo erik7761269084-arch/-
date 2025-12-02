@@ -4,7 +4,7 @@ window.actressData = {
   "name": "まいな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 92158,
@@ -25,14 +25,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2024-03-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240715-1/170f403d1b6a61d80deb1f071922174d.jpg",
+      "cover_url": "",
       "actress": [
         "まいな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCW-020"
+    },
+    {
+      "id": 103630,
+      "IDcode": "300MAAN-0937",
+      "title": "【チ●ポ狂いの淫獣美尻OL】新企画、初回からとんでもないドエロ女登場ww理知的なバリキャリ美女は密室になると誰彼構わずヤリたくなるビョーキだった！？男優の到着が遅れると、スタッフが餌食に､､､彼女と2人きりになった男は必ず●●れる！エリートOLドスケベネキの口とマ●コで濃厚3発射！！【即ヤリゲッチュー】【まいな】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/24/6859d61443d69727161e03dc/cover.jpg",
+      "actress": [
+        "まいな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0937"
     }
   ]
 };

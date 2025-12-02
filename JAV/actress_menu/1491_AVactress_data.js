@@ -36,16 +36,34 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 19550,
-      "IDcode": "IPZ-370",
-      "title": "被帶上貞操帶的女性 Rio",
+      "id": 19593,
+      "IDcode": "IPZ-127",
+      "title": "与RIO和希志爱野的幸福同居生活",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-05-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/d6999dbb-438c-4bd9-8ade-c09b367f58bd.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/40d9283352edc4c9f53e511f10a39aa4.jpg",
+      "actress": [
+        "柚木緹娜",
+        "希志爱野",
+        "柚木蒂娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-127"
+    },
+    {
+      "id": 19550,
+      "IDcode": "IPZ-370",
+      "title": "结婚纪念日被强奸-Rio",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240502-1/fc2466a5b7639a7a779cbc0befa51c16.jpg",
       "actress": [
         "柚木緹娜",
         "森林原人",
@@ -57,36 +75,18 @@ window.actressData = {
     {
       "id": 19513,
       "IDcode": "IPZ-275",
-      "title": "究極的褲襪性愛 Rio",
+      "title": "美腿终极诱惑-RIO",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2014-01-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/bf232fe2-6616-43ec-9074-8bd70556f6aa.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/6dcdc4c8ddf73ef1b16522980658cde7.jpg",
       "actress": [
         "柚木緹娜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-275"
-    },
-    {
-      "id": 19593,
-      "IDcode": "IPZ-127",
-      "title": "我和Rio與小愛的超甜蜜同居性生活 Rio 希志愛野",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2013-06-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/58cb98f1-bc1c-4892-a586-446c0e23c0d3.jpg",
-      "actress": [
-        "柚木緹娜",
-        "希志爱野",
-        "柚木蒂娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-127"
     }
   ]
 };

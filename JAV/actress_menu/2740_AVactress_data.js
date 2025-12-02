@@ -52,7 +52,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250915/20250915092214779779_32697_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250915/20250915092215124124_81298_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 94953,
@@ -61,10 +61,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-06",
-      "cover_url": "",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/96b6a98f7b57ab1d62f6df4d4cda4422.jpg",
       "actress": [
         "美谷朱里",
         "柊シエル",
@@ -73,6 +73,38 @@ window.actressData = {
         "七海ゆあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-189"
+    },
+    {
+      "id": 439492,
+      "IDcode": "HEYZO-3278",
+      "title": "擅长奶嘴的半美人～美女合集Vol.14～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683ad3c80b69f1d8163619a8/cover.jpg",
+      "actress": [
+        "柊シエル"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3278"
+    },
+    {
+      "id": 158810,
+      "IDcode": "HEYZO-3090",
+      "title": "がネットリなめてジックリしゃぶる！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/WSDczorS/1.jpg",
+      "actress": [
+        "柊シエル"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3090"
     }
   ]
 };

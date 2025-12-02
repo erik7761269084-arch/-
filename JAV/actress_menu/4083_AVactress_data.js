@@ -4,7 +4,7 @@ window.actressData = {
   "name": "近藤ユキ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,34 +19,15 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 77155,
-      "IDcode": "POST-453",
-      "title": "ボクが知らない彼女の真実 寿退社しボクと結婚する彼女の上司から送られてきた会社の上司から脅迫されていた彼女は…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-08-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241201-1/f9be27f4ae14a23e17e564bc0aae6077.jpg",
-      "actress": [
-        "川越ゆい",
-        "近藤ユキ",
-        "NIMO",
-        "河原かえで"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
-    },
-    {
       "id": 78050,
       "IDcode": "DOCP-070",
       "title": "清楚でやさしい巨乳美人妻が人生初の恥じらいぬるぬるソープに挑戦！！夫婦生活がマンネリ気味な奥様が大量ローションぬるぬるソーププレイでグチョグチョになった生マ○コ素股からヌルッと挿入！？",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-08-03",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "秋本詩音",
@@ -57,16 +38,35 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-070"
     },
     {
+      "id": 77155,
+      "IDcode": "POST-453",
+      "title": "ボクが知らない彼女の真実 寿退社しボクと結婚する彼女の上司から送られてきた会社の上司から脅迫されていた彼女は…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b04ed0749cc59cacf590297e0752f37d.jpg",
+      "actress": [
+        "川越ゆい",
+        "近藤ユキ",
+        "NIMO",
+        "河原かえで"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
+    },
+    {
       "id": 70848,
       "IDcode": "BAZX-109",
       "title": "ガチンコ風俗調査団 1時間10万円！！最高級デリヘルNo.1嬢の『絶対にイカせる』凄テク素股我慢出来たら生中出しSEX！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BAZOOKA",
-      "publish_date": "2018-01-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250222-1/b35e3b3d53198e61f7c1ca8a7241230b.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7975b37704a0f7ff4c0159da24955a94.jpg",
       "actress": [
         "森春流",
         "并木杏梨",

@@ -31,8 +31,41 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240613/c98293d9-1551-47c6-b9b9-6b3f05093bcf.jpg",
     "https://picture.yoshiclub.xyz/20240613/e971b9b1-20ec-4f4b-b850-b29da2d0ca56.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 99463,
+      "IDcode": "APKH-090",
+      "title": "「あゝいっぱい擦れて気持ちいいの...」 Eカップの美乳と極上のクビレを魅せる純朴制服娘を、ビッチになるまで濃厚セックス 初乃ふみか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-13",
+      "cover_url": "",
+      "actress": [
+        "初乃文香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-090"
+    },
+    {
+      "id": 99106,
+      "IDcode": "JUFD-988",
+      "title": "接吻乳首責めレズビアン ～先輩レースクイーンの卑猥なレズキスニップル調教～ 初乃ふみか 美谷朱里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "2018-12-01",
+      "cover_url": "",
+      "actress": [
+        "美谷朱里",
+        "初乃文香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-988"
+    },
     {
       "id": 77100,
       "IDcode": "HBAD-464",
@@ -40,9 +73,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HIBINO",
-      "publish_date": "2019-02-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "初乃文香"
@@ -56,10 +89,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/56e3a26335d508d5e6f3ef1f1eb4ea4a.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d36eca5940c8420078cea91549e57429.jpg",
       "actress": [
         "水原乃亜",
         "初乃文香",
@@ -68,40 +101,40 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-111"
     },
     {
-      "id": 13124,
-      "IDcode": "SSNI-342",
-      "title": "超薄苗條美乳素體，強制身體開發，大雞巴x陰道超深性交 ~ 初乃文香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2018-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240723/20240723221619154154.jpg",
-      "actress": [
-        "初乃文香",
-        "森林原人",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-342"
-    },
-    {
       "id": 13263,
       "IDcode": "SSNI-320",
       "title": "體液交換，激烈的性愛 ~ 初乃文香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-10-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240717/202407170116277878.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250330-1/3862b02d0e0300f5dc7d8f4e592a2a68.jpg",
       "actress": [
         "初乃文香",
         "鲛岛",
         "玉木玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-320"
+    },
+    {
+      "id": 13124,
+      "IDcode": "SSNI-342",
+      "title": "超薄苗條美乳素體，強制身體開發，大雞巴x陰道超深性交 ~ 初乃文香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f7dc5d1e4b2d4819859addc85d2a2312.jpg",
+      "actress": [
+        "初乃文香",
+        "森林原人",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-342"
     }
   ]
 };

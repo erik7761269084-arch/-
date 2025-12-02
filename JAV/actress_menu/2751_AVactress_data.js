@@ -34,50 +34,16 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 18432,
-      "IDcode": "SSIS-811",
-      "title": "元氣滿滿的美晴暖與上司出差同住一屋 墜入從早到晚不停的絕倫性交",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-10-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20231008/f3435707-8b29-4de4-874e-70408c882f1b.jpg",
-      "actress": [
-        "美晴のん",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-811"
-    },
-    {
-      "id": 107050,
-      "IDcode": "SSIS-771",
-      "title": "すごい褐色美尻！すごい腰使い！高速杭打ち騎乗位スペシャル 美晴のん （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-09-12",
-      "cover_url": "",
-      "actress": [
-        "美晴のん",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-771"
-    },
-    {
       "id": 107442,
       "IDcode": "SSIS-730",
-      "title": "激イキ189回！痙攣5022回！イキ潮1800cc！無邪気な笑顔で天才的SEX エロス覚醒 はじめての大・痙・攣スペシャル 美晴のん 生写真3枚付き",
+      "title": "潮吹1800cc-美晴暖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-08-09",
-      "cover_url": "https://tutu1.space/images/2023/09/10/ae19afca17bad14b927595f105055e69.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/24/68309b03cb21006f00c16669/cover.jpg",
       "actress": [
         "美晴のん",
         "小田切ジュン",
@@ -86,21 +52,55 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-730"
     },
     {
-      "id": 87704,
-      "IDcode": "SSIS-694",
-      "title": "交わる体液、濃密セックス 完全ノーカットスペシャル 美晴のん （ブルーレイディスク） 生写真3枚付き",
+      "id": 107050,
+      "IDcode": "SSIS-771",
+      "title": "褐色美尻-美晴暖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-07-12",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683afb470b69f1d816376ec1/cover.jpg",
+      "actress": [
+        "美晴のん",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-771"
+    },
+    {
+      "id": 87704,
+      "IDcode": "SSIS-694",
+      "title": "體液直流 濃密性愛！完全無剪接大特輯 美晴暖",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "美晴のん",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-694"
+    },
+    {
+      "id": 18432,
+      "IDcode": "SSIS-811",
+      "title": "一位以精力充沛着称的新员工-美晴のん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231008/f3435707-8b29-4de4-874e-70408c882f1b.jpg",
+      "actress": [
+        "美晴のん",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-811"
     }
   ]
 };

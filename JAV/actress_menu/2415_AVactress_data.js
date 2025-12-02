@@ -29,19 +29,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231014/7fea79b7-d63b-408d-83db-b70dcad5092a.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 100705,
       "IDcode": "MIDV-485",
-      "title": "サークル飲みNTR 僕のカノジョのむぎちゃんがヤリチン元カレと性欲チ○ポバカ仲間らにズボズボハメられまくってぶしゃぶしゃ潮吹きながら イキ淫れまくって寝取られてしまった胸クソ鬱勃起映像。 小関むぎ",
+      "title": "小圈圈喝酒NTR-小关麦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-09-19",
-      "cover_url": "https://tutu1.space/images/2023/10/11/6c2d711540f0c4eef544076013110be5.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/14513d3232c406c5d5d3ce2722c44470.jpg",
       "actress": [
         "小關麥",
         "タイ",
@@ -52,14 +52,14 @@ window.actressData = {
     {
       "id": 92307,
       "IDcode": "MIDV-411",
-      "title": "性感開発3本番びちゃびちゃお漏らしオーガズム 小関むぎ （ブルーレイディスク） 生写真3枚付き",
+      "title": "性感开发3本番湿透失禁高潮 小关麦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-07-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/e481767d88cd06e4bfbd4ae5e974a093.jpg",
       "actress": [
         "小關麥",
         "鲛岛"
@@ -69,18 +69,34 @@ window.actressData = {
     {
       "id": 92283,
       "IDcode": "MIDV-378",
-      "title": "新人 お嬢様女子大に通う潮吹き女神の候補生☆ 将来は有名大企業に就職せずに潮吹きを活かせる仕事をしたくてAVデビュー 小関むぎ",
+      "title": "潮吹女神候补生-小关麦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-06-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/3d3abc427b9e8c3c33e6dac70bbcd654.jpg",
       "actress": [
         "小關麥"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-378"
+    },
+    {
+      "id": 18330,
+      "IDcode": "MIDV-509",
+      "title": "被迫與老男人同住被輪姦變成他們的肉便器",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67893edd89def9b1b809622f/cover.jpg",
+      "actress": [
+        "小關麥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-509"
     }
   ]
 };

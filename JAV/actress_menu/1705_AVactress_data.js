@@ -42,18 +42,66 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/8-KiraKira/美竹すず.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 19585,
-      "IDcode": "SNIS-710",
-      "title": "交叉體液，深度性愛 ~ 美竹鈴",
+      "id": 156082,
+      "IDcode": "EBOD-504",
+      "title": "版紧身皮衣潜入搜查官",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2016-08-07",
+      "type": "无码",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240923-1/fe1ec028c6f63bc0dc6169fdca887e74.jpg",
+      "actress": [
+        "美竹鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-504"
+    },
+    {
+      "id": 77718,
+      "IDcode": "NACR-264",
+      "title": "抱紧我…。爱上邻居的单身妈妈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美竹鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-264"
+    },
+    {
+      "id": 76611,
+      "IDcode": "KSBJ-062",
+      "title": "全裸太太",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/aaa62bb90c5b92a2ec79caec8038982a.jpg",
+      "actress": [
+        "美竹鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-062"
+    },
+    {
+      "id": 19585,
+      "IDcode": "SNIS-710",
+      "title": "交织的体液缠绵的性爱-美竹铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230409/9cc13a2c-97b4-49f2-a16c-be30476c1db3.jpg",
       "actress": [
         "美竹鈴",

@@ -34,26 +34,101 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230907/59747d60-347a-4cd8-b7d1-a4077aa93da0.jpg",
     "https://picture.yoshiclub.xyz/20230907/e94f759f-bd0b-4bfc-b867-42681b468d09.jpg"
   ],
-  "works_count": 5,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 2512,
-      "IDcode": "GOHM-006",
-      "title": "GAL HOME SNS 辣妹召回家 素人實錄2 ～ 瀬那瑠美奈 二宮桃 渋谷夏 藤原真帆",
+      "id": 6178,
+      "IDcode": "SODS-069",
+      "title": "真實人妻13人羞澀又背德的初次體驗合集 13場激戰10小時雙碟裝 ~ 玉城夏帆 白河花清 檜山百合香 望月瞳 澀谷夏 柊優衣 古東麻理子 真白梨麻 小谷舞花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919072950556556_11399_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2025-05-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/202505122006104040_thumbnail.webp",
       "actress": [
-        "瀬那瑠美奈",
-        "藤原真帆",
-        "二宮桃",
+        "玉城夏帆",
+        "古東まりこ",
+        "白河花清",
+        "小谷舞花",
+        "真白りま",
+        "渋谷夏",
+        "柊優衣",
+        "望月瞳",
+        "檜山百合香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-069"
+    },
+    {
+      "id": 7436,
+      "IDcode": "NPS-458",
+      "title": "硬核搭訕！只限正經清純又憋得慌的酒店妹和美容員！首次逆向撩漢挑戰！10分鍾內射出來就給100萬！大屌面前臉紅發騷，興奮過頭制服都不脫連射不停！壓力滿滿的小穴爽到不行，懷孕級無限高潮！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "2025-03-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20250319/9b88ec3b-59ac-4ddf-8234-61b06e31bc79.jpg",
+      "actress": [
+        "十束流羽",
+        "花里明理",
+        "一色さら",
+        "白雪美月",
         "渋谷夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-458"
+    },
+    {
+      "id": 107515,
+      "IDcode": "SDNM-385",
+      "title": "回到女人的开朗正统妈妈-涉谷夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "渋谷夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-385"
+    },
+    {
+      "id": 67345,
+      "IDcode": "DOCD-058",
+      "title": "ボクを下僕扱いする高飛車パワハラ女上司をリバースメンタリング（立場逆転）で教育的指導してやった。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天馬唯",
+        "依本詩織",
+        "渋谷夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-058"
+    },
+    {
+      "id": 66178,
+      "IDcode": "HNAMH-019",
+      "title": "子宮に本物ザーメン注入3発 ラブホで真正中出し解禁初撮影 渋谷なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd5ee2006939637678bd61/cover.jpg",
+      "actress": [
+        "渋谷夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-019"
     },
     {
       "id": 61810,
@@ -62,9 +137,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-15",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "吉泽友贵",
@@ -80,54 +155,71 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-527"
     },
     {
-      "id": 66178,
-      "IDcode": "HNAMH-019",
-      "title": "子宮に本物ザーメン注入3発 ラブホで真正中出し解禁初撮影 渋谷なつ",
+      "id": 18797,
+      "IDcode": "SDNM-396",
+      "title": "娘が保育園の間だけ女に戻る明るいチャキチャキママ 渋谷なつ 32歳 最終章 旦那も娘もいる身でありなが",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-05",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20240702/SDNM396.jpg!320x216.jpg",
+      "actress": [
+        "渋谷夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-396"
+    },
+    {
+      "id": 16069,
+      "IDcode": "BONY-086",
+      "title": "傲慢的OL渋谷夏被老板侵犯墮入地獄",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a3ecaac813dc779d961bf/cover.jpg",
+      "actress": [
+        "渋谷夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-086"
+    },
+    {
+      "id": 2512,
+      "IDcode": "GOHM-006",
+      "title": "【GAL HOME】 SNSで引っ掛けたギャルを家に召喚して酒をキメて語らうハメ撮りドキュメント2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbda2fce5a404e9bc17c4a/cover.jpg",
+      "actress": [
+        "瀬那瑠美奈",
+        "藤原真帆",
+        "二宮桃",
+        "渋谷夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-006"
+    },
+    {
+      "id": 2410,
+      "IDcode": "PAKO-094",
+      "title": "俺の肉便器不倫妻の義理母、義理父に電話で不貞をバラしたビデオ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "渋谷夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-019"
-    },
-    {
-      "id": 67345,
-      "IDcode": "DOCD-058",
-      "title": "ボクを下僕扱いする高飛車パワハラ女上司をリバースメンタリング（立場逆転）で教育的指導してやった。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOC",
-      "publish_date": "2025-05-02",
-      "cover_url": "",
-      "actress": [
-        "天馬唯",
-        "依本詩織",
-        "渋谷夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-058"
-    },
-    {
-      "id": 107515,
-      "IDcode": "SDNM-385",
-      "title": "娘が保育園の間だけ女に戻る明るいチャキチャキママ 渋谷なつ 32歳 AV DEBUT",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-07-11",
-      "cover_url": "https://tutu1.space/images/2023/09/02/b09152c95c13a1e05c46461d2b3e95a0.jpg",
-      "actress": [
-        "渋谷夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAKO-094"
     }
   ]
 };

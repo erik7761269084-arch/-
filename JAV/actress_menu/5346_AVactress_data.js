@@ -4,7 +4,7 @@ window.actressData = {
   "name": "鈴音りん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 86447,
       "IDcode": "STARS-675",
-      "title": "パパ活アプリで出会った女の子がまさかの元教え子だった!?すっかりSに成長した痴女っ子に弱味を握られドMに調教された。 鈴音りん",
+      "title": "她抓住了我的弱点-鈴音りん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2022-08-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230208-1/3cfe561ca3f9b8a347ee4e69502053f0.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/4c1023ed4810a0097986f9378b0f1b71.jpg",
       "actress": [
         "鈴音りん"
       ],

@@ -34,18 +34,51 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240403/e25ad4c6-dc03-49a1-aabd-a8f838dcc94e.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 15658,
-      "IDcode": "KSBJ-298",
-      "title": "小川葉子，敏感的人妻，多次被不忠的公公強奸內射",
+      "id": 101282,
+      "IDcode": "NACR-758",
+      "title": "无论什么烦恼都可以来相谈室-小川葉子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-04-02",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小川葉子",
+        "まーち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-758"
+    },
+    {
+      "id": 88612,
+      "IDcode": "DTT-116",
+      "title": "曾是偶像的人妻-小川叶子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小川葉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-116"
+    },
+    {
+      "id": 15658,
+      "IDcode": "KSBJ-298",
+      "title": "一位敏感的妻子-小川叶子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401094047601601.jpg",
       "actress": [
         "小川葉子"
@@ -53,20 +86,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-298"
     },
     {
-      "id": 88612,
-      "IDcode": "DTT-116",
-      "title": "145cm低身長 超ミニマムBODY 元・アイドルの人妻 小川葉子 26歳 AV デビュー 極小ま○こ妻の膣奥を限界までぶち●す。",
+      "id": 6964,
+      "IDcode": "SODS-012",
+      "title": "SOD女子社員 接写＆局部アップ濃厚SEX会議300分 モザイクギリギリを目指してワギナグイ込み生着替えさセクハラ 5名議事録",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-04-06",
-      "cover_url": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250409/20250409045454848848.jpg",
       "actress": [
-        "小川葉子"
+        "本田桃",
+        "夢乃陽菜",
+        "上白美央",
+        "小川葉子",
+        "如月なみか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-012"
     }
   ]
 };

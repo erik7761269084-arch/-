@@ -22,19 +22,37 @@ window.actressData = {
     "Sakashita Satomi"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 70297,
-      "IDcode": "SIV-033",
-      "title": "シロウトTV×PRESTIGE PREMIUM 30 バイトの延長感覚で撮られた、素人アイドル達の初出し映像！8名240分",
+      "id": 104185,
+      "IDcode": "RDT-253",
+      "title": "目の前に止まった車の助手席にいる、すまし顔した女の胸があまりにも大きくて… 7",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2018-03-26",
-      "cover_url": "",
+      "publish_date": "2016-05-10",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118rdt253/118rdt253pl.jpg",
+      "actress": [
+        "このは結衣",
+        "坂下里美",
+        "松冈香纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDT-253"
+    },
+    {
+      "id": 70297,
+      "IDcode": "SIV-033",
+      "title": "素人TV×PRESTIGE PREMIUM 30 用振动棒的伸长感拍摄的，素人偶像们的出道视频！8名240分种",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/259e2ba717825a66bc4fecbc115534f9.jpg",
       "actress": [
         "有村希",
         "河合明日菜",

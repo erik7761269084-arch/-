@@ -25,49 +25,23 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 68316,
-      "IDcode": "MKMP-632",
-      "title": "キャパいGALと鬼ヤバSEX！TOP OF GAL PARADICE BEST 240分",
+      "id": 90059,
+      "IDcode": "RCTD-042",
+      "title": "マジックミラー号 ハロウィン仮装ギャルナンパin渋谷2017",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-04-22",
-      "cover_url": "https://tutu1.space/images/2025/07/10/96b7ec50da8dbcb83b4e621313881098.jpg",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/6eb8f3d82d9f7929d249ef5fd57fd50a.jpg",
       "actress": [
-        "椿莉香",
-        "AIKA",
-        "葵玲奈",
-        "川菜美铃",
-        "長谷川玲",
-        "長谷川夏樹",
-        "川原かなえ",
-        "中尾芽衣子",
-        "安倍亜沙美",
         "MIRANO",
-        "双叶ゆきな"
+        "桜アン",
+        "悠月アイシャ",
+        "一ノ瀬夏摘"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-632"
-    },
-    {
-      "id": 70305,
-      "IDcode": "IENF-002",
-      "title": "ナマイキなヤンキー娘にイタズラされていたら生ハメを求められて、もう発射しそうなのにカニばさみでロックされて逃げられずそのまま中出し！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2019-05-09",
-      "cover_url": "",
-      "actress": [
-        "櫻木梨乃",
-        "富井美帆",
-        "MIRANO",
-        "斎藤ミオリ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
     },
     {
       "id": 71154,
@@ -76,10 +50,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-07-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250223-1/721e484f6279844e5793957232c29d97.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/349eff6ee1ba67477b09439677c78dab.jpg",
       "actress": [
         "塚田詩織",
         "大島愛里亞",
@@ -95,23 +69,49 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-112"
     },
     {
-      "id": 90059,
-      "IDcode": "RCTD-042",
-      "title": "マジックミラー号 ハロウィン仮装ギャルナンパin渋谷2017",
+      "id": 70305,
+      "IDcode": "IENF-002",
+      "title": "被女流氓劫持",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2017-11-02",
-      "cover_url": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250218-1/8e1a58c247b7845c42f1a04e9ee76030.jpg",
       "actress": [
+        "櫻木梨乃",
+        "富井美帆",
         "MIRANO",
-        "桜アン",
-        "悠月アイシャ",
-        "一ノ瀬夏摘"
+        "斎藤ミオリ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-002"
+    },
+    {
+      "id": 68316,
+      "IDcode": "MKMP-632",
+      "title": "キャパいGALと鬼ヤバSEX！TOP OF GAL PARADICE BEST 240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/1f03b153afb2930dcb25cb916e33a0a4.jpg",
+      "actress": [
+        "椿莉香",
+        "AIKA",
+        "葵玲奈",
+        "川菜美铃",
+        "長谷川玲",
+        "長谷川夏樹",
+        "川原かなえ",
+        "中尾芽衣子",
+        "安倍亜沙美",
+        "MIRANO",
+        "双叶ゆきな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-632"
     }
   ]
 };

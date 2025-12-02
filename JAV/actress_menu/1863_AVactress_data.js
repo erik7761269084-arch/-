@@ -22,23 +22,55 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240619/0c37055d-b143-4a8c-9adc-c31b784d2966.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 86221,
-      "IDcode": "SDTH-028",
-      "title": "高速のSAで…路線バスで…営業中のBarで…、絶対にバレてはいけない場所でのお漏らしSEX 東京都台東区■■商店街 色白金髪バーテンダー 結菜さき(仮名・23歳)2度目のAV出演",
+      "id": 13875,
+      "IDcode": "GUPP-012",
+      "title": "開關一打開，大屁股見習老師就變成淫蕩的蕩婦！ ~ 結菜さき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-08-25",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-06-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240619/20240619023028714714.jpg",
+      "actress": [
+        "結菜さき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GUPP-012"
+    },
+    {
+      "id": 86221,
+      "IDcode": "SDTH-028",
+      "title": "色白金髪-結菜さき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "結菜さき"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDTH-028"
+    },
+    {
+      "id": 11404,
+      "IDcode": "BACJ-121",
+      "title": "唾液の匂いで脳がバグるくらい舐め散らかして自由が奪われた男のチ●ポをぶっ壊す 結菜さき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241007/4afadbe2-323e-4a15-a55f-433964f55f08.jpg",
+      "actress": [
+        "結菜さき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-121"
     }
   ]
 };

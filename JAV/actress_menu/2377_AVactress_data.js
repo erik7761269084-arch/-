@@ -51,14 +51,14 @@ window.actressData = {
     {
       "id": 106291,
       "IDcode": "HOKS-171",
-      "title": "幼妻4 中年男のあこがれ",
+      "title": "中年男的向往",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2023-12-19",
-      "cover_url": "https://tutu1.space/images/2024/01/04/c3a509e44e007b68cd51d54c0b146ed6.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "新川ゆず",
         "高梨有纱"
@@ -72,10 +72,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-09-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230909/8wcCoIjQ/1.jpg",
       "actress": [
         "新川ゆず"
       ],
@@ -88,10 +88,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "CineMagic",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/36250e22711fbb11e2383c7d4283b9a2.jpg",
       "actress": [
         "新川ゆず",
         "桥野爱琉"

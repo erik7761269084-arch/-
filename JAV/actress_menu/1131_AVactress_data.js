@@ -33,7 +33,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-ラグジュTV/AI-Fix-美月るな.jpg",
     "https://picture.yoshiclub.xyz/20240112/2247e811-5e4f-4ff6-952a-588848090950.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 1031,
@@ -42,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-11-16",
       "cover_url": "https://picture.yoshiclub.xyz/20240112/77ca82c2-04d8-40c0-bdda-f746cd4d474e.jpg",
@@ -50,6 +50,38 @@ window.actressData = {
         "美月瑠奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1443"
+    },
+    {
+      "id": 990,
+      "IDcode": "HEYZO-1377",
+      "title": "健美操課上的甜蜜戀愛——美月瑠奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-01-15",
+      "cover_url": "",
+      "actress": [
+        "美月瑠奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1377"
+    },
+    {
+      "id": 946,
+      "IDcode": "HEYZO-1196",
+      "title": "肏翻沒管好狗的女飼主 - 美月瑠奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-06-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20240327/a3916d57-433b-42aa-b8fc-f67c550dda29.jpg",
+      "actress": [
+        "美月瑠奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1196"
     }
   ]
 };

@@ -31,16 +31,34 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3709,
-      "IDcode": "DAZD-253",
-      "title": "本氣激情做愛幹到滿射是汗超性感！本能爆發！汁水四濺！野獸般瘋狂交合 50本番4小時BEST大合集！~ 東條夏 五日市芽依 月野江翠 愛田飛鳥 深田詠美 八乃翼 逢澤美優 小花暖 都月楓 根尾朱裏 鬆本菜奈実 有阪深雪等",
+      "id": 19253,
+      "IDcode": "IPX-194",
+      "title": "現役體育記者痙攣絕頂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0bc8200b25e555404fdae05015bffcce.jpg",
+      "actress": [
+        "島永彩生",
+        "鲛岛",
+        "岛永彩生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-194"
+    },
+    {
+      "id": 3709,
+      "IDcode": "DAZD-253",
+      "title": "本気だから吹き出る汗！本能剥き出し！弾けるマン汁！美谷朱里 八乃つばさ 松永さな 牧村柚希 東条蒼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "DASDAS",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031320486486_48349_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689da5e9c49456085437e0c9/cover.jpg",
       "actress": [
         "都月楓",
         "五日市芽依",
@@ -70,24 +88,6 @@ window.actressData = {
         "东条苍"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-253"
-    },
-    {
-      "id": 19253,
-      "IDcode": "IPX-194",
-      "title": "現役體育記者痙攣絕頂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2018-08-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230613/20230613214819196196.jpg",
-      "actress": [
-        "島永彩生",
-        "鲛岛",
-        "岛永彩生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-194"
     }
   ]
 };

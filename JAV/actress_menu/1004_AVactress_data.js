@@ -41,8 +41,59 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230209/5112d584-1a4f-421f-84b6-5644dd564d1a.jpg",
     "https://picture.yoshiclub.xyz/20230209/2ea8775a-21d9-4fba-814f-a2c825188821.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 17548,
+      "IDcode": "SAN-195",
+      "title": "出現在溫泉專門吃男人雞雞的蕩婦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "2023-11-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20231128/9782322e-f3f1-4623-9ad2-91b1bb2bd5c1.jpg",
+      "actress": [
+        "初美沙希",
+        "有村千佳",
+        "高梨步",
+        "しずく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
+    },
+    {
+      "id": 154096,
+      "IDcode": "689-SHIZUKU-05",
+      "title": "可耻和害羞的蚀刻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "初美沙希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=689-SHIZUKU-05"
+    },
+    {
+      "id": 11566,
+      "IDcode": "SAN-282",
+      "title": "告白全集 義母の寝室",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/4360137321229af917bb4e0901c4f5f8.jpg",
+      "actress": [
+        "初美沙希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-282"
+    },
     {
       "id": 5065,
       "IDcode": "REAL-920",
@@ -50,9 +101,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -111,23 +162,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
-      "id": 17548,
-      "IDcode": "SAN-195",
-      "title": "出現在溫泉專門吃男人雞雞的蕩婦",
+      "id": 3093,
+      "IDcode": "SAN-388",
+      "title": "可愛い顔してエロすぎる俺たちの初美沙希260分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231128/9782322e-f3f1-4623-9ad2-91b1bb2bd5c1.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831004142293293_85601_thumbnail.webp",
       "actress": [
-        "初美沙希",
-        "有村千佳",
-        "高梨步",
-        "しずく"
+        "初美沙希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-388"
     },
     {
       "id": 1828,
@@ -136,10 +184,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2012-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230201/202302011049295555.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4b9280f76ac0c20732a3afd03dc710c1.jpg",
       "actress": [
         "初美沙希"
       ],

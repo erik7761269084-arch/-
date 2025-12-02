@@ -41,121 +41,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241107/0efaec1b-6ed8-46c5-8fbc-ec84a032b38e.jpg",
     "https://picture.yoshiclub.xyz/20241107/e14c1ef4-d15c-4c08-a571-15e6a80c158c.jpg"
   ],
-  "works_count": 8,
+  "works_count": 11,
   "related_dramas": [
-    {
-      "id": 60109,
-      "IDcode": "CAWD-882",
-      "title": "美少女姉妹は10年ぶりに親戚おじさんと遊びたい。思春期の姪っ子にカラダを触って欲しいとねだられ…じっくりねっとり触れた卑猥なキモ叔父。 ひなたなつ 日向由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-10-07",
-      "cover_url": "",
-      "actress": [
-        "日向由奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-882"
-    },
-    {
-      "id": 3208,
-      "IDcode": "CAWD-873",
-      "title": "在鄰居堆滿垃圾的房間裏被臭氣薰天的大叔監禁強⬤調教，被連續中出43發直到懷孕的JK制服妹子的末路 ~ 日向由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023847898898_20871_thumbnail.webp",
-      "actress": [
-        "日向由奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-873"
-    },
-    {
-      "id": 4765,
-      "IDcode": "IPZZ-615",
-      "title": "外表蘿莉內心騷浪的小只馬女教師，把學生們全都調教成蘿莉控！ ~ 日向由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703073137823823_thumbnail.webp",
-      "actress": [
-        "日向由奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-615"
-    },
-    {
-      "id": 5545,
-      "IDcode": "IPZZ-624",
-      "title": "蘿莉少女被凌辱輪奸 全班同學都討厭的小可憐 ~ 日向由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042213581581_thumbnail.webp",
-      "actress": [
-        "日向由奈",
-        "七尾神"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-624"
-    },
-    {
-      "id": 6304,
-      "IDcode": "IPZZ-620",
-      "title": "男湯突現小妖精！光滑無毛挑逗大叔，痴女蘿莉嘴饞硬棒棒，抱著狂吻猛幹到射爆 ~ 日向由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064940372372_thumbnail.webp",
-      "actress": [
-        "日向由奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-620"
-    },
-    {
-      "id": 7036,
-      "IDcode": "IPZZ-567",
-      "title": "和我一起上班的小惡魔J系女生的調皮耳語蜜糖陷阱 學生打工妹背着老板和客人在店裏偷情NTR ~ 日向由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092614234234.jpg",
-      "actress": [
-        "日向由奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-567"
-    },
-    {
-      "id": 9249,
-      "IDcode": "IPZZ-473",
-      "title": "J系妹妹零距離耳語誘惑，哥哥的雞巴瞬間就硬了 ~ 日向由奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074652381381.jpg",
-      "actress": [
-        "日向由奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-473"
-    },
     {
       "id": 95317,
       "IDcode": "IPZZ-449",
@@ -163,15 +50,176 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2024-11-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/cce8bd67cba1703ccb23f04cb220a2d0.jpg",
       "actress": [
         "日向由奈",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-449"
+    },
+    {
+      "id": 60109,
+      "IDcode": "CAWD-882",
+      "title": "美少女姉妹は10年ぶりに親戚おじさんと遊びたい。思春期の姪っ子にカラダを触って欲しいとねだられ…じっくりねっとり触れた卑猥なキモ叔父。 ひなたなつ 日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e02eb579f1ac4ec48bbe17/cover.jpg",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-882"
+    },
+    {
+      "id": 10121,
+      "IDcode": "IPZZ-471",
+      "title": "おじさん、由奈と大人の修学旅行デートしてその後いっぱいキスしてぐちゅぐちゅ濃厚セックスしようよ 日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787f9b75d57b64bfd1a60ff/cover.jpg",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-471"
+    },
+    {
+      "id": 9249,
+      "IDcode": "IPZZ-473",
+      "title": "把哥哥的鸡巴搞的邦邦硬-日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b1e55d57b64bfdfc3c3e/cover.jpg",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-473"
+    },
+    {
+      "id": 8459,
+      "IDcode": "IPZZ-494",
+      "title": "おじさんがとっておきのおまじないしてあげる。 日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/06608df84a5b3c19e321ef7e299df749.jpg",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-494"
+    },
+    {
+      "id": 7036,
+      "IDcode": "IPZZ-567",
+      "title": "配合我上班时间排班的小恶魔JK",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250415-1/ebd80857237399516013d704cdfceb55.jpg",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-567"
+    },
+    {
+      "id": 6304,
+      "IDcode": "IPZZ-620",
+      "title": "外表像个小学生的白虎小姐姐-日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/05/21/63c0ccaffaef7ed6d119ecf86783cc14.jpg",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-620"
+    },
+    {
+      "id": 5545,
+      "IDcode": "IPZZ-624",
+      "title": "洛莉美少女輪姦班上同學全都討厭她的小受害者-日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e77b298bc99dfdd032fe2/cover.jpg",
+      "actress": [
+        "日向由奈",
+        "七尾神"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-624"
+    },
+    {
+      "id": 4765,
+      "IDcode": "IPZZ-615",
+      "title": "外表是少女內在卻是蕩婦的合法蘿莉女教師讓學生覺醒成為蘿莉控-日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703073137823823_thumbnail.webp",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-615"
+    },
+    {
+      "id": 3952,
+      "IDcode": "CAWD-863",
+      "title": "高端的猎手总以猎物的方式出现-日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085744995995_92710_thumbnail.webp",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-863"
+    },
+    {
+      "id": 3208,
+      "IDcode": "CAWD-873",
+      "title": "在邻居的垃圾房里监禁和训练一个制服女孩-日向由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023847898898_20871_thumbnail.webp",
+      "actress": [
+        "日向由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-873"
     }
   ]
 };

@@ -38,8 +38,44 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250529/6aec563f-bbbc-4fb8-97e8-9277a4502d42_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250529/51d3aa5e-0682-4a60-89c4-0d7e69a40e2a_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 5744,
+      "IDcode": "KTRA-720",
+      "title": "調皮小惡魔的種付狂操 4小時 ~ 雙葉胡桃 朝日滴 泉莉音 加賀美さら 永作ねね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-24",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529084855706706_thumbnail.webp",
+      "actress": [
+        "泉莉音",
+        "加賀美さら",
+        "雙葉胡桃",
+        "永作ねね",
+        "朝日滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-720"
+    },
+    {
+      "id": 84118,
+      "IDcode": "CEMD-103",
+      "title": "朝、目覚めたら憧れの女性になっていた俺！ 朝日しずく ～憧れの朝日しずくのちっぱいとマ○コをとりあえずイタズラしてみた俺！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2021-12-28",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/1623acd7244b861bbb5f5a5264a515d6.jpg",
+      "actress": [
+        "朝日滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-103"
+    },
     {
       "id": 80739,
       "IDcode": "HUNTB-235",
@@ -47,10 +83,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-03-22",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc2f1f9a2e9b1d45c674b/cover.jpg",
       "actress": [
         "乙愛麗絲",
         "谷梓",
@@ -61,32 +97,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-235"
     },
     {
-      "id": 84118,
-      "IDcode": "CEMD-103",
-      "title": "朝、目覚めたら憧れの女性になっていた俺！ 朝日しずく ～憧れの朝日しずくのちっぱいとマ○コをとりあえずイタズラしてみた俺！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2021-12-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230105-1/1623acd7244b861bbb5f5a5264a515d6.jpg",
-      "actress": [
-        "朝日滴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-103"
-    },
-    {
       "id": 72433,
       "IDcode": "TYD-003",
       "title": "制服女子ぎゅうぎゅう痴●バス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DREAMTICKET",
-      "publish_date": "2021-01-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/d2580ef0be49da165d7047e0859865e9.jpg",
       "actress": [
         "小島りりか",
         "朝日滴",

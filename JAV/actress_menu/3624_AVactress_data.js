@@ -4,7 +4,7 @@ window.actressData = {
   "name": "まゆみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,24 +16,41 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 66739,
-      "IDcode": "GANA-3005",
-      "title": "マジ軟派、初撮。 2021 「二年間彼氏がいないんです…」新宿でナンパしたアパレル店員ちゃんは欲求不満！スレンダーな身体は正直に反応して…整った顔立ちからは想像できない涎を垂らしての下品なフェラがエロい！",
+      "id": 486622,
+      "IDcode": "200GANA-3005",
+      "title": "マジ軟派、初撮。 2021 「二年間彼氏がいないんです…」新宿でナンパしたアパレル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2024-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/5904ec72d31debb6ff14778082e807d8.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "まゆみ",
         "白河まゆみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-3005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-3005"
+    },
+    {
+      "id": 100928,
+      "IDcode": "SIRO-5166",
+      "title": "妖娆美女来了喜欢刺激开始寻找性刺激于是就开始出演AV她身材高挑修长张开长腿大胆疯狂初拍AV线上申请AV体验拍摄2056",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "まゆみ",
+        "白河まゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5166"
     }
   ]
 };

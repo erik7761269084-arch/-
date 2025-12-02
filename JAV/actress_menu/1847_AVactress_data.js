@@ -32,7 +32,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250528/20250528053918692692_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 222,
@@ -41,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2013-02-01",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250528/20250528041108968968_thumbnail.webp",
@@ -49,6 +49,22 @@ window.actressData = {
         "今井乃愛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0237"
+    },
+    {
+      "id": 141,
+      "IDcode": "HEYZO-0108",
+      "title": "誘惑學生的女子大生家教老師 ~ 今井乃愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2012-08-31",
+      "cover_url": "",
+      "actress": [
+        "今井乃愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0108"
     }
   ]
 };

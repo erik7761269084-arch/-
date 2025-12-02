@@ -32,23 +32,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230123/ca41362d-9fab-47be-8595-f42ef8df0518.jpg",
     "https://picture.yoshiclub.xyz/20230123/3db0012a-48e0-4706-8bbb-b2c41edf0333.jpg"
   ],
-  "works_count": 3,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1758,
-      "IDcode": "LAFBD-85",
-      "title": "林間少女 85 OL一線鮑妹俱樂部！ : 七瀨里菜",
+      "id": 1027,
+      "IDcode": "HEYZO-1433",
+      "title": "美麗的蕩婦～苗條巨乳娃娃想要被操 七瀨莉娜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2017-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/d51bfc71-93e3-4ed4-9575-a0a6069745fb.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-07-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20240112/2c78a3f8-48c4-4e56-a447-079dbc581a14.jpg",
       "actress": [
         "七濑莉娜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-85"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1433"
     },
     {
       "id": 1063,
@@ -57,7 +57,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-05-11",
       "cover_url": "https://picture.yoshiclub.xyz/20231220/d6ab1e15-d616-4761-a27f-f6e2df8ff63a.jpg",
@@ -65,22 +65,6 @@ window.actressData = {
         "七濑莉娜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1495"
-    },
-    {
-      "id": 1803,
-      "IDcode": "CWPBD-161",
-      "title": "CATWALK POISON 161 24小時斷斷續續的性愛，你絕對不該射精：七瀨裡奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2017-05-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/82ae692e-0803-492c-8529-dd6995e63e0e.webp",
-      "actress": [
-        "七濑莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-161"
     }
   ]
 };

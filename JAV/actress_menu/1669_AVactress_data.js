@@ -31,19 +31,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250205/1e0fbea2-c823-4d6b-b24f-be32a50069e4.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 7786,
-      "IDcode": "SDNM-504",
-      "title": "給每個孩子買一臺遊戲機是不是太寵溺了？34歲 最終章 首次多人玩法高潮過頭痙攣失控 ~ 桃井ゆづき",
+      "id": 8531,
+      "IDcode": "SDNM-498",
+      "title": "新人出道！會給每個孩子都買遊戲機的寵子狂魔的34歲素人人妻 首次亮相 AV DEBUT ~ 桃井ゆづき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250303/4783838e-a3ae-45b7-94cc-4ebe08c5a61f.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc39331eb0592de65ce14/cover.jpg",
+      "actress": [
+        "桃井ゆづき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-498"
+    },
+    {
+      "id": 7786,
+      "IDcode": "SDNM-504",
+      "title": "●どもに1人1台ずつゲーム機を買うのって甘やかし過ぎですか？ 桃井ゆづき 34歳 最終章 初めての複数プレイでイキ過ぎ痙攣大絶頂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dce811ce5a404e9bc43dc5/cover.jpg",
       "actress": [
         "桃井ゆづき"
       ],

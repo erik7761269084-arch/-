@@ -38,8 +38,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240911/68b2fe3b-228c-4042-8ee1-da998ea922c1.jpg",
     "https://picture.yoshiclub.xyz/20240911/436be613-ddf4-43a3-a15a-32f77f130808.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 689,
+      "IDcode": "HEYZO-0826",
+      "title": "爲了工作轉正而不得不付出被操的代價 後編 ~ 綾瀬唯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-04-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20240911/1f6fcf7f-fa83-4216-8337-e064854dc813.jpg",
+      "actress": [
+        "綾瀬唯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0826"
+    },
     {
       "id": 526,
       "IDcode": "HEYZO-0624",
@@ -47,7 +63,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2014-06-23",
       "cover_url": "https://picture.yoshiclub.xyz/20241216/6c656daf-3897-4ef9-9a1b-3fe74799d59d.jpg",

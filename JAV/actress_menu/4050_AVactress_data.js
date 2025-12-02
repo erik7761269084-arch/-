@@ -4,7 +4,7 @@ window.actressData = {
   "name": "沢原佑香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,35 +19,16 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 70666,
-      "IDcode": "SDDE-595",
-      "title": "筋肉女子のキツキツマ○コによる熾烈なチ○ポの奪い合い 新競技【セックスリング】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-09-12",
-      "cover_url": "",
-      "actress": [
-        "藤白桃羽",
-        "戸川夏也",
-        "佐久间恵美",
-        "沢原佑香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-595"
-    },
-    {
       "id": 81618,
       "IDcode": "HOI-032",
       "title": "ゆーちゃん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-06-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/8954e77b250318898dc1eb45b9214c92.jpg",
+      "cover_url": "",
       "actress": [
         "沢原佑香"
       ],
@@ -60,15 +41,34 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-06-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250101-1/b928a50af4c46c127ff4dc815b2625bc.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/520dfb1d9dd4435e5773952b5638711f.jpg",
       "actress": [
         "タツ",
         "沢原佑香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DIC-061"
+    },
+    {
+      "id": 70666,
+      "IDcode": "SDDE-595",
+      "title": "筋肉女子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ef377b18252ff6e7c14857a625bb20ee.jpg",
+      "actress": [
+        "藤白桃羽",
+        "戸川夏也",
+        "佐久间恵美",
+        "沢原佑香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-595"
     }
   ]
 };

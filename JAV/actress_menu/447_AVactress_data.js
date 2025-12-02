@@ -45,23 +45,211 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230908/a697a797-b0ff-4a5d-97a7-5e34a2283fb7.jpg",
     "https://picture.yoshiclub.xyz/20230908/72854c37-2c29-4eac-b6bf-93bd04f80dde.jpg"
   ],
-  "works_count": 8,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 6061,
-      "IDcode": "FNS-031",
-      "title": "被信賴的上司背叛，沉淪於媚藥後淪爲交易對象的美人女子社員 ~ 時田亜美",
+      "id": 8202,
+      "IDcode": "FCDSS-095",
+      "title": "【FALENO癡女特選】喜歡被你舔陰的女孩 最佳癡女4小時大合集 ~ 天使萌 小野夕子 吉高寧寧 本鄉愛 時田亞美 等12名女優",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-05-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250518/20250518003543442442_thumbnail.webp",
+      "publish_date": "2025-02-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20250217/20250217020836437437.jpg",
+      "actress": [
+        "沙月惠奈",
+        "吉高寧寧",
+        "天使萌",
+        "東條夏",
+        "小野夕子",
+        "美乃雀",
+        "本郷愛",
+        "三葉千春",
+        "時田亜美",
+        "天川空",
+        "神木蘭",
+        "戸田真琴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCDSS-095"
+    },
+    {
+      "id": 17889,
+      "IDcode": "FSDSS-683",
+      "title": "打工時愛上的女孩…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2023-12-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111223706246246.jpg",
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-683"
+    },
+    {
+      "id": 69619,
+      "IDcode": "FSDSS-549",
+      "title": "催促的性交命令-時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829cc6a5d899f636112602d/cover.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-549"
+    },
+    {
+      "id": 18769,
+      "IDcode": "FSDSS-666",
+      "title": "記録下我對朋友的女友施以媚藥",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/79fe6fcf0baf4386323f8ce7d77b34cd.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-666"
+    },
+    {
+      "id": 18252,
+      "IDcode": "FSDSS-679",
+      "title": "早泄姑娘-時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/78f1864376c49ed9f798b67d1ca0ffc2.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-679"
+    },
+    {
+      "id": 17328,
+      "IDcode": "FSDSS-684",
+      "title": "清纯美少女-時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240118-1/87b7538e05387fa677cb266133187f93.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-684"
+    },
+    {
+      "id": 16041,
+      "IDcode": "FSDSS-654",
+      "title": "被擅長扭捏的青梅竹馬持續玩弄乳頭高潮的同居3日間 時田亞美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240226/20240226104822273273.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-654"
+    },
+    {
+      "id": 11119,
+      "IDcode": "FSDSS-917",
+      "title": "提供全套枕营业服务-時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788a17530833b4bf53b5954/cover.jpg",
+      "actress": [
+        "時田亜美",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-917"
+    },
+    {
+      "id": 10441,
+      "IDcode": "FSDSS-931",
+      "title": "男友達の家で目が覚めた土曜の朝。お昼ご飯食べてセックスして夜のコンビニ行ってセックスしてまた一緒に寝る日曜の夜。時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/6e45c9f0/vod.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-931"
+    },
+    {
+      "id": 9864,
+      "IDcode": "FSDSS-939",
+      "title": "田舎の置屋 小さいころから育った村の男を癒す純朴美少女 時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/f7e4010b58ac90bd16793d23855d73a1.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-939"
+    },
+    {
+      "id": 9006,
+      "IDcode": "FSDSS-976",
+      "title": "終電後に友達の彼女から甘～いお誘い…時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/dab7727df84d85d2b688f3d5418f2ed1.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-976"
+    },
+    {
+      "id": 8036,
+      "IDcode": "FSDSS-987",
+      "title": "结果来了个未来光明的女新人职员-時田亜美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cd758b4e7d663df4db88e7/cover.jpg",
+      "actress": [
+        "時田亜美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-987"
     },
     {
       "id": 7171,
@@ -70,10 +258,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-04-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20250329/20250329050057478478.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efe81e4e7d663df47f763b/cover.jpg",
       "actress": [
         "時田亜美",
         "トイボーイ相沢"
@@ -81,100 +269,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-990"
     },
     {
-      "id": 8036,
-      "IDcode": "FSDSS-987",
-      "title": "打電話叫了援交，來的居然是我公司剛入社的那位美人新員工，很輕鬆就把她變成了我的專屬性玩偶 ~ 時田亞美",
+      "id": 6648,
+      "IDcode": "FNS-010",
+      "title": "時田亜美の顔でヌく！【完全主観】ずっと見つめっぱなしSEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-02-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20250223/20250223051335134134.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-987"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-010"
     },
     {
-      "id": 9006,
-      "IDcode": "FSDSS-976",
-      "title": "末班車走了後，朋友的女友邀請我去她們家再喝一杯...她真空穿睡衣真美...我忍不住了 ~ 時田亞美",
+      "id": 6061,
+      "IDcode": "FNS-031",
+      "title": "信頼していた上司に裏切られキメセク漬けで取引先にSEX上納された美人女子社員 時田亜美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-02-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250118/20250118235758545545.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250518/20250518003543442442_thumbnail.webp",
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-031"
     },
     {
-      "id": 9864,
-      "IDcode": "FSDSS-939",
-      "title": "田舍小屋 從小在鄉下長大的純樸美少女治愈了村裏無數男人 ~ 時田亞美",
+      "id": 4101,
+      "IDcode": "FNS-067",
+      "title": "热爱泳衣的痴迷大叔的私人写真-時田亜美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-01-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20241215/20241215001547925925.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250725/20250725233000237237_52848_thumbnail.webp",
       "actress": [
         "時田亜美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-939"
-    },
-    {
-      "id": 17328,
-      "IDcode": "FSDSS-684",
-      "title": "從街對面的窗戶引誘我的天真無邪的美麗女孩已經長大",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2024-01-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231210/20231210040154344344.jpg",
-      "actress": [
-        "時田亜美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-684"
-    },
-    {
-      "id": 18252,
-      "IDcode": "FSDSS-679",
-      "title": "女孩被脊椎物理治療師無情的猥褻治療而陷入快感陷阱",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2023-11-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20231008/20231008080715801801.jpg",
-      "actress": [
-        "時田亜美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-679"
-    },
-    {
-      "id": 18769,
-      "IDcode": "FSDSS-666",
-      "title": "我一直想幹朋友的女友 偷偷給她吃了春藥後兩天兩夜瘋狂的做愛 完整NTR",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2023-10-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230908/20230908213101793793.jpg",
-      "actress": [
-        "時田亜美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-067"
     }
   ]
 };

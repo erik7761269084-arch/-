@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-24",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240907/PKz4Bt0d/1.jpg",
       "actress": [
         "花冈よし乃",
         "原千岁",
@@ -43,39 +43,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-216"
     },
     {
-      "id": 68414,
-      "IDcode": "WSP-169",
-      "title": "いかにも童貞な年下男に「おばさんねぇ…ウブな男の子がタイプなの◆」と聞かれてもいないのに自己申告して期待を持たせる巨乳妻は熟フェロモンで誘惑した初体験チ●ポを舌舐めずってタダ喰いする",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-06-28",
-      "cover_url": "",
-      "actress": [
-        "七草千歲",
-        "川上優",
-        "山瀬美紀",
-        "緒川春",
-        "佐佐木明希",
-        "原千岁",
-        "水无瀬优夏",
-        "二阶堂ゆり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-169"
-    },
-    {
       "id": 72680,
       "IDcode": "TOMN-078",
       "title": "超巨根性交 デカチンに魅せられる女達3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-01-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/882c0bf2a67ab2a2d7f673b91545038e.jpg",
       "actress": [
         "森澤佳奈",
         "AIKA",
@@ -91,36 +68,59 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOMN-078"
     },
     {
-      "id": 61039,
-      "IDcode": "CEAD-146",
-      "title": "インテリ眼鏡の僕のママ3 原ちとせ",
+      "id": 68414,
+      "IDcode": "WSP-169",
+      "title": "我是那种天真的男孩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2016-03-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/a0c21c9f70710471fcb03cac7b7fd277.jpg",
       "actress": [
-        "原千岁"
+        "七草千歲",
+        "川上優",
+        "山瀬美紀",
+        "緒川春",
+        "佐佐木明希",
+        "原千岁",
+        "水无瀬优夏",
+        "二阶堂ゆり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-146"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-169"
     },
     {
       "id": 61503,
       "IDcode": "ADN-078",
-      "title": "あなたに愛されたくて。 原ちとせ",
+      "title": "我想被你所爱-原ちとせ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2015-11-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "原千岁"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-078"
+    },
+    {
+      "id": 61039,
+      "IDcode": "CEAD-146",
+      "title": "妈妈带着她的智力眼镜-原ちとせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "原千岁"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-146"
     }
   ]
 };

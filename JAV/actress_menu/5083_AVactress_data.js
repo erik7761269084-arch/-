@@ -4,7 +4,7 @@ window.actressData = {
   "name": "松冈しずえ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-19",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/62ee570732591b150c5d2da89e34cdd9.jpg",
       "actress": [
         "松冈しずえ"
       ],

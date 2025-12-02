@@ -62,8 +62,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240522/854cf36b-07e3-432e-9ff7-7c08a2361cd3.jpg",
     "https://picture.yoshiclub.xyz/20240522/4527cbaa-7a1b-4122-a2cb-0c33af32fe8a.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 837,
+      "IDcode": "HEYZO-1038",
+      "title": "和聖誕妹聖夜來一發吧！？ - 橋本怜奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20240522/91d4b7e4-2ba9-4bec-b674-1416c71bbb1c.jpg",
+      "actress": [
+        "橋本怜奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1038"
+    },
     {
       "id": 74445,
       "IDcode": "SGA-134",
@@ -71,10 +87,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-10-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241228-1/582f8cbf0defc2a86293716b5277f33c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/2307db5ff3146d017a54cbb6b9627402.jpg",
       "actress": [
         "橋本怜奈",
         "森林原人"
@@ -88,10 +104,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2016-05-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/c0e3f6fb3fc6cbf781201f0d7ed0cf8c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7c98aa1ee2ca4fc8a3e34b74ea5acfce.jpg",
       "actress": [
         "椎名空",
         "眞白愛梨",

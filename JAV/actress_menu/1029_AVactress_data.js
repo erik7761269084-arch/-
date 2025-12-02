@@ -31,24 +31,40 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230610/ce0288cb-361d-41b8-9fb2-ad1371eea7bc.jpg",
     "https://picture.yoshiclub.xyz/20230610/54052609-f418-4a5c-ac14-3ffd2506eb5d.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 19220,
       "IDcode": "IPX-224",
-      "title": "性慾超強女教師的一對一誘惑授課",
+      "title": "誘惑授業 日乃原杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-11-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230621/20230621002240284284.jpg",
       "actress": [
         "日乃原杏",
         "天河れい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-224"
+    },
+    {
+      "id": 19200,
+      "IDcode": "IPX-241",
+      "title": "連擊猛肏到禁慾肉穴漏尿高潮！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/39c635638ed23e6cc8280e94c779ad23.jpg",
+      "actress": [
+        "日乃原杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-241"
     }
   ]
 };

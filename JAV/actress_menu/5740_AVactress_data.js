@@ -4,7 +4,7 @@ window.actressData = {
   "name": "壬生恋白",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "CineMagic",
-      "publish_date": "2023-09-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/e143ad53d3d1efb8aa6d6372c7dd4765.jpg",
       "actress": [
         "壬生恋白"
       ],

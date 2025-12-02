@@ -4,7 +4,7 @@ window.actressData = {
   "name": "白鸟ゆな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 79807,
       "IDcode": "JUX-187",
-      "title": "義父の言いなり嫁 白鳥ゆな",
+      "title": "妻子受公公的摆布-白鳥ゆな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2013-11-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/09/27/d0bdbe2a34123e2ab343da5c21e38e26.jpg",
       "actress": [
         "大岛丈",
         "白鸟ゆな"

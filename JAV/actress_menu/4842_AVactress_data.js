@@ -26,39 +26,72 @@ window.actressData = {
     "Sana"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 95565,
-      "IDcode": "MAAN-1024",
-      "title": "精子提供を希望する人妻に夫に代わって孕ませ代行8【サナ】",
+      "id": 577732,
+      "IDcode": "200GANA-2995",
+      "title": "マジ软派、初撮。 2013 声が可爱い美白美尻大学生を恵比寿でナンパ！付き合った人数は",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DOC",
-      "publish_date": "2024-10-19",
-      "cover_url": "https://tutu1.space/images/2025/10/08/e58e6f80676fd90dcde4bc42ef065372.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-02-09",
+      "cover_url": "",
       "actress": [
         "さな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2995"
     },
     {
       "id": 78650,
       "IDcode": "SIRO-4971",
-      "title": "【現在20歳で初体験は18歳】ついこの間(？)処女を捨てた大学生。経験人数もまだ少なく時折照れを見せながらの初々しい前戯がエロカワイイ！しかし本番になると生肉棒の気持ちよさに照れる余裕もなく喘ぎっぱなしに……！ ネットでAV応募→AV体験撮影 1880",
+      "title": "现在20岁第一次经历是18岁刚刚放弃童贞的大学生有经验的人还很少偶尔露出害羞的纯真前戏色情可爱但是实际制作时我可不能因为生肉棒的舒适而害羞不停地喘气网络AV应用AV体验拍摄1880",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-07-18",
       "cover_url": "",
       "actress": [
         "さな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-4971"
+    },
+    {
+      "id": 101735,
+      "IDcode": "SIRO-5229",
+      "title": "放学回家路上AV登场你可能以为她是随处可见的普通女大学生其实她是个相当淫荡的女孩她白皙的身体被吃得一团糟初拍AV线上申请AV体验拍摄2129",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "霧島さな",
+        "さな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5229"
+    },
+    {
+      "id": 95565,
+      "IDcode": "300MAAN-1024",
+      "title": "精子提供を希望する人妻に夫に代わって孕ませ代行8【サナ】 一場サナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "さな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1024"
     }
   ]
 };

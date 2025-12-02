@@ -22,8 +22,24 @@ window.actressData = {
     "Shirosaki Touko"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 99700,
+      "IDcode": "HAWA-068",
+      "title": "夫に内緒で他人棒SEX「実は主人の精液も飲んだことないんです」40歳すぎて初めての精飲 早漏敏感妻 みさこさん41歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Cosmos 映像",
+      "publish_date": "2016-04-07",
+      "cover_url": "",
+      "actress": [
+        "城崎桐子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-068"
+    },
     {
       "id": 66466,
       "IDcode": "NASK-251",
@@ -31,9 +47,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2025-06-10",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "大槻响",

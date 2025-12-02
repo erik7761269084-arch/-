@@ -43,19 +43,70 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240507/ea654347-0127-4f91-b4b9-b2a74da7fadc.jpg",
     "https://picture.yoshiclub.xyz/20240507/ee0236bf-cb2a-4b9c-a933-fd1c2883e6e3.jpg"
   ],
-  "works_count": 3,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 70429,
-      "IDcode": "AGMX-217",
-      "title": "女装して虐められるクロスドレッシングプレイ",
+      "id": 7648,
+      "IDcode": "NGHJ-003",
+      "title": "純真可愛素人妹挑戰超色任務：讓處男射出30毫升精液贏百萬！羞澀榨精中發情 奇跡生插初體驗連射中出狂歡 ~ 西尾真裏奈 鬆下莉子 四乃宮もも 星乃蓳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250310/c1b8af74-b5f7-40a7-8473-c829bd369215.jpg",
+      "actress": [
+        "西尾真里奈",
+        "松下莉子",
+        "四乃宮桃",
+        "星乃蓳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-003"
+    },
+    {
+      "id": 13620,
+      "IDcode": "MGOLD-030",
+      "title": "在一次現場演出之旅中，經紀人被失意的偶像引誘並與她發生性關系 ~ 鬆下莉子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2024-08-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20240703/20240703005023382382.jpg",
+      "actress": [
+        "松下莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-030"
+    },
+    {
+      "id": 14124,
+      "IDcode": "MGOLD-029",
+      "title": "30天完全禁欲 - 高潮後，鬆下莉子追求活塞運動",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2024-07-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607213201779779.jpg",
+      "actress": [
+        "松下莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-029"
+    },
+    {
+      "id": 70429,
+      "IDcode": "AGMX-217",
+      "title": "AGMX-217 女装して虐められるクロスドレッシングプレイ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-03-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/21/682d76d27e1ae1e49a4377fd/cover.jpg",
       "actress": [
         "桐谷すずね",
         "横峯めぐ",
@@ -68,36 +119,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-217"
     },
     {
-      "id": 8806,
-      "IDcode": "FOCS-232",
-      "title": "向資深同事坦白自己的性冷淡時，我的乳頭意外的被煥發了性欲…… 今日業務中的被玩弄後早漏的乳首 ~ 鬆下莉子",
+      "id": 12126,
+      "IDcode": "MGOLD-032",
+      "title": "ディレクターとロケ帰り相部屋に…。大雪で帰れなくなった新人女子アナが粘着中年オヤジチ○ポに何度も何度もイカされ相性良すぎて朝まで絶倫性交 松下りこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075321918918.jpg",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240908/20240908234055663663.jpg",
       "actress": [
         "松下莉子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-032"
     },
     {
       "id": 9494,
       "IDcode": "SAN-303",
-      "title": "年齡差30歲的美嬌妻，爲什麼嫁給老男人呢？ ~ 鬆下莉子",
+      "title": "年の差30歳 なぜこんなオヤジが幼妻と結婚できたのか？ 松下りこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
-      "publish_date": "2024-12-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241231/20241231030805810810.jpg",
       "actress": [
         "松下莉子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-303"
+    },
+    {
+      "id": 8806,
+      "IDcode": "FOCS-232",
+      "title": "不感症烦恼后竟然用乳头开发觉醒了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075321918918.jpg",
+      "actress": [
+        "松下莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-232"
     }
   ]
 };

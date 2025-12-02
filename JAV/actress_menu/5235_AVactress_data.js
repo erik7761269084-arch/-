@@ -4,7 +4,7 @@ window.actressData = {
   "name": "黒崎さく",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 88953,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-11-28",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240831/npuoYGAT/1.jpg",
       "actress": [
         "安倍亜沙美",
         "青井いちご",
@@ -44,16 +44,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-524"
     },
     {
+      "id": 96499,
+      "IDcode": "HUNTA-837",
+      "title": "假如揉捏青梅竹马的胸会怎么样",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石原希望",
+        "星仲ここみ",
+        "夏原唯",
+        "水沢つぐみ",
+        "黒崎さく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-837"
+    },
+    {
       "id": 88349,
       "IDcode": "HUNTA-972",
       "title": "ドエロな黒パンスト姿にフル勃起！普段は厳しい女上司が酔うとエッチになりドスケベな黒パンスト姿でボクを誘惑！？いつも厳しい女上司が終電を逃して",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-03-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/30af3f6ed57b97e3150e11bbb51e1bef.jpg",
       "actress": [
         "望月綾香",
         "矢乃花音",
@@ -70,9 +90,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Hiyoko",
-      "publish_date": "2020-03-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "宫泽千春",

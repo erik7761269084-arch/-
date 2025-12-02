@@ -48,99 +48,233 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231209/de4370a9-2501-4bb8-9784-4612b91d24e3.jpg",
     "https://picture.yoshiclub.xyz/20231209/0c69d0d7-763b-4414-a89a-1d989e5deb8d.jpg"
   ],
-  "works_count": 9,
+  "works_count": 19,
   "related_dramas": [
     {
-      "id": 2753,
-      "IDcode": "PRED-805",
-      "title": "出差溫泉旅館淪爲中出套房！被惡心的絕倫老頭們輪番中出到天亮，瘋狂高潮的客戶招待 ~ 蒼乃美月",
+      "id": 13850,
+      "IDcode": "ABF-117",
+      "title": "天然成分由來 蒼乃美月淫汁 120% 84",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020000631631_23798_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2024-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620050710603603.jpg",
       "actress": [
         "蒼乃美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-805"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-117"
     },
     {
-      "id": 3609,
-      "IDcode": "PRED-803",
-      "title": "公公，請放開我… 若妻沉迷於絕倫公公的中出激情日常 ~ 蒼乃美月",
+      "id": 15345,
+      "IDcode": "ABF-097",
+      "title": "與蚊香社專屬女優蒼乃美月體驗完全主觀SEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034342768768_95834_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2024-04-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418033749710710.jpg",
       "actress": [
         "蒼乃美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-803"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-097"
     },
     {
-      "id": 4508,
-      "IDcode": "PRED-790",
-      "title": "新任女教師遭侵犯～絕倫學生的懷孕比賽中出輪姦～ 出演：蒼乃美月",
+      "id": 16922,
+      "IDcode": "ABF-062",
+      "title": "臉部射精的美學 24",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032818471471_86938_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2024-01-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240104/2024010407153788.jpg",
+      "actress": [
+        "蒼乃美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-062"
+    },
+    {
+      "id": 17377,
+      "IDcode": "GNI-003",
+      "title": "治愈系新人出道！蒼乃美月~蚊香社专属高身長165cm G罩杯 首次亮相 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2023-12-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20231208/a16e7548-49cf-4c64-9c50-794e807e8612.jpg",
+      "actress": [
+        "蒼乃美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNI-003"
+    },
+    {
+      "id": 103626,
+      "IDcode": "SIRO-5176",
+      "title": "身高165cmG罩杯沼丸这个治愈一个普通的美丽女孩请看一下最终boss登场前拍摄的正宗第一部电影初拍AV线上申请AV体验拍摄2093",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "蒼乃美月",
-        "左慈半造"
+        "美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5176"
     },
     {
-      "id": 5375,
-      "IDcode": "PRED-789",
-      "title": "巨乳人妻按摩調教爽到爆 老公就在旁邊卻被媚藥搞到離不開技師的大棒 ~ 蒼乃美月",
+      "id": 16286,
+      "IDcode": "ABF-077",
+      "title": "美少女温泉濃密性交-苍乃美月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/2025061206242700_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240303-1/b5acd8b49bd38c9b7f7989edb5783974.jpg",
       "actress": [
-        "蒼乃美月"
+        "蒼乃美月",
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-077"
     },
     {
-      "id": 6072,
-      "IDcode": "PRED-780",
-      "title": "出差相部屋被老色批上司幹翻…媚藥迷亂中出寢取 ~ 蒼乃美月",
+      "id": 14700,
+      "IDcode": "ABF-107",
+      "title": "在無所事事的鄉下跟青梅竹馬-蒼乃美月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515044638936936_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240820-1/c5b636e85cfe55236db247a3e00c8d75.jpg",
+      "actress": [
+        "蒼乃美月",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-107"
+    },
+    {
+      "id": 13250,
+      "IDcode": "ABF-128",
+      "title": "风俗塔-蒼乃美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240820-1/73f0f01fdc76fca2ca829359aebc7717.jpg",
       "actress": [
         "蒼乃美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-780"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-128"
+    },
+    {
+      "id": 12677,
+      "IDcode": "ABF-140",
+      "title": "苍乃美月生中出 15分鐘附贈僅在MGS提供的片",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240830-1/1470dde6db7978dbe6b4a80d58f7d602.jpg",
+      "actress": [
+        "蒼乃美月",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-140"
+    },
+    {
+      "id": 11897,
+      "IDcode": "ABF-151",
+      "title": "本番オーケー！？噂の裏ピンサロ 25 蒼乃美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/11/07/a285c55d8d577ad7c01a399531bf228b.jpg",
+      "actress": [
+        "蒼乃美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-151"
+    },
+    {
+      "id": 11238,
+      "IDcode": "ABF-162",
+      "title": "リミットブレイクSEX 絶対的美少女の殻をブチ破るドM覚醒性交 VOL.09 蒼乃美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/541534c3b69ac3e88bd7d0c27c9715fe.jpg",
+      "actress": [
+        "蒼乃美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-162"
+    },
+    {
+      "id": 10645,
+      "IDcode": "ABF-172",
+      "title": "喷来喷去的美月 苍乃美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/182ee67afeb3c3115f2981a85fb7a793.jpg",
+      "actress": [
+        "蒼乃美月",
+        "美月",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-172"
+    },
+    {
+      "id": 9784,
+      "IDcode": "ABF-181",
+      "title": "疯狂不停止的激FUCK-蒼乃美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678906115d57b64bfd8ef53c/cover.jpg",
+      "actress": [
+        "蒼乃美月",
+        "美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-181"
     },
     {
       "id": 9107,
       "IDcode": "ABF-191",
-      "title": "我們生個孩子吧？ 子宮深出發出的乞求中出的懇願 4場景 ~ 蒼乃美月",
+      "title": "「赤ちゃん作ろ？」と子宮で欲しがる中出し懇願 4シチュエーション 蒼乃美月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-01-16",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/4b328d93-21eb-40d2-8968-36af0a1f4db3.jpg",
       "actress": [
         "蒼乃美月",
@@ -149,54 +283,86 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-191"
     },
     {
-      "id": 9784,
-      "IDcode": "ABF-181",
-      "title": "完全主觀×鬼畜既視感！即使射精也不會停止的FUCK！ ！ ！追擊5.000次大力抽插 ~ 蒼乃美月",
+      "id": 6072,
+      "IDcode": "PRED-780",
+      "title": "在合住房间里被中年上司侵犯-蒼乃美月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241219/8da06cab-ed74-451e-bb40-447913c0edc4.jpg",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515044638936936_thumbnail.webp",
       "actress": [
         "蒼乃美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-780"
     },
     {
-      "id": 10645,
-      "IDcode": "ABF-172",
-      "title": "超級潮噴娘 ~ 蒼乃美月",
+      "id": 5375,
+      "IDcode": "PRED-789",
+      "title": "大奶妻子基美塞克开发按摩就在丈夫旁边-蒼乃美月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/6ef8ea65-75a9-4f52-9151-ad5cda32161e.jpg",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/2025061206242700_thumbnail.webp",
       "actress": [
-        "蒼乃美月",
-        "イセドン内村"
+        "蒼乃美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-789"
     },
     {
-      "id": 16286,
-      "IDcode": "ABF-077",
-      "title": "25歲美少女蒼乃美月、私人溫泉、激烈的性愛。",
+      "id": 4508,
+      "IDcode": "PRED-790",
+      "title": "拥有绝伦身材的新人女教师被校园混混当成一样肉便器-蒼乃美月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-02-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20240215/20240215044444606606.jpg",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7e193682e2e92819a616e/cover.jpg",
       "actress": [
         "蒼乃美月",
-        "小田切ジュン"
+        "左慈半造",
+        "苍乃美月"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-790"
+    },
+    {
+      "id": 3609,
+      "IDcode": "PRED-803",
+      "title": "年轻妻子在与岳父发生性关系时溺水的日子-蒼乃美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814034342768768_95834_thumbnail.webp",
+      "actress": [
+        "蒼乃美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-803"
+    },
+    {
+      "id": 2753,
+      "IDcode": "PRED-805",
+      "title": "出差温泉旅馆变身孕妇房- 蒼乃美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020000631631_23798_thumbnail.webp",
+      "actress": [
+        "蒼乃美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-805"
     }
   ]
 };

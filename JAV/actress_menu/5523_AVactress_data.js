@@ -4,7 +4,7 @@ window.actressData = {
   "name": "さとう白音",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 88396,
       "IDcode": "JUL-269",
-      "title": "綺麗なお姉さん系Gカップ《母乳ママ》シリーズ初登場！！ 抱かれたくない男に死にたくなるほどイカされて… さとう白音",
+      "title": "綺麗なお姉さん系-さとう白音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-07-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/d315d627ab3c0979534041c758604b15.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/49415558c386c9df2d33ae8671fb923c.jpg",
       "actress": [
         "さとう白音"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 88394,
       "IDcode": "JUL-206",
-      "title": "綺麗なお姉さん系《母乳ママ》マドンナ専属 第2弾！！ 美しい妻の妹 背徳のミルクシャワー さとう白音",
+      "title": "陪妻子回娘家-さとう白音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-05-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/a5c9d9309b151219b147b0dffcb3560c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/b6b5c4d5460f6fd421430a35a8d8e811.jpg",
       "actress": [
         "小田切ジュン",
         "さとう白音"

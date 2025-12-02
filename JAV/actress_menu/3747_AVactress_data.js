@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
+      "type": "",
+      "company": "",
       "publish_date": "2017-08-01",
-      "cover_url": "",
+      "cover_url": "https://sha.lashayu.com/upload/vod/20250428-1/227c9b37d075fc96badce17f41e0cde0.jpg",
       "actress": [
         "结月恭子"
       ],

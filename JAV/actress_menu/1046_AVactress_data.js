@@ -41,18 +41,18 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241025/e3bf2502-8714-4169-b20f-2b49903ed19d.jpg",
     "https://picture.yoshiclub.xyz/20241025/cd792597-886b-4b4e-8766-394bc377ab30.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 6687,
       "IDcode": "UMSO-593",
-      "title": "門口勾引快遞小哥正嗨時，隔壁大叔來串門！VOL.03 ~ 田彩也香 海埜ほたる 川上優",
+      "title": "玄関先で宅配業者を誘惑してフェラ中に、隣の旦那さんが回覧板を持ってやって来た！！VOL.03",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-04-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420075425292292_thumbnail.webp",
       "actress": [
         "友田彩也香",
@@ -62,6 +62,49 @@ window.actressData = {
         "立岡杏菜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-593"
+    },
+    {
+      "id": 2925,
+      "IDcode": "NSFS-415",
+      "title": "屈辱の寝取られ まわされた7人の妻たち 総集編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906213939483483_87153_thumbnail.webp",
+      "actress": [
+        "葵百合香",
+        "八乃翼",
+        "香椎佳穂",
+        "杉崎みさき",
+        "海埜ほたる",
+        "田原凛花",
+        "悠木あやね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-415"
+    },
+    {
+      "id": 2921,
+      "IDcode": "NSFS-414",
+      "title": "まさか私の妻が… 2泊3日の夫婦交換生活 6組の夫婦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/202509062223266868_72302_thumbnail.webp",
+      "actress": [
+        "夏川步美",
+        "武藤彩香",
+        "美丘さとみ",
+        "七瀬いおり",
+        "海埜ほたる",
+        "久野和咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-414"
     }
   ]
 };

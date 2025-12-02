@@ -4,7 +4,7 @@ window.actressData = {
   "name": "长谷川るい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 88916,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/62aae863e99d98b9e8051454697bd2dc.jpg",
       "actress": [
@@ -45,20 +45,89 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
-      "id": 72288,
-      "IDcode": "ABP-660",
-      "title": "絶対的美少女、お貸しします。 全国縦断Special 沖縄、九州、関西、中部 長谷川るい",
+      "id": 100248,
+      "IDcode": "ABP-510",
+      "title": "ヲタサーの姫。01 長谷川るい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-11-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/2f56bb50e84bbc20a80434575cad08d2.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-08-19",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp510/118abp510pl.jpg",
+      "actress": [
+        "イセドン内村",
+        "长谷川るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-510"
+    },
+    {
+      "id": 104221,
+      "IDcode": "ABP-476",
+      "title": "讓長谷川留衣在馬上幹整人秀中高潮吧！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-05-10",
+      "cover_url": "http://15.155250922.com/upload/vod/2022/09/keczjkedadq.jpg",
+      "actress": [
+        "森林原人",
+        "小田切ジュン",
+        "长谷川るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-476"
+    },
+    {
+      "id": 105586,
+      "IDcode": "ABP-718",
+      "title": "长谷川留衣的引退作品",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "森林原人",
+        "小田切ジュン",
+        "长谷川るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-718"
+    },
+    {
+      "id": 104468,
+      "IDcode": "ABP-704",
+      "title": "色情的妄想长谷川留衣都能实现",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6786709b30833b4bf5c1a3f7/cover.jpg",
       "actress": [
         "长谷川るい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-660"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-704"
+    },
+    {
+      "id": 99998,
+      "IDcode": "ABP-314",
+      "title": "一起玩cosplay-長谷川るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/12/11/5ca2a7d5ff52199d95a1930dca05b738.jpg",
+      "actress": [
+        "长谷川るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-314"
     },
     {
       "id": 75769,
@@ -67,10 +136,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-12-10",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/351767c0666836a7f5079b09b7d3fda8.jpg",
       "actress": [
         "森林原人",
         "长谷川るい"
@@ -78,20 +147,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-403"
     },
     {
-      "id": 99998,
-      "IDcode": "ABP-314",
-      "title": "長谷川るいの、いっぱいコスって萌えてイこう！",
+      "id": 72288,
+      "IDcode": "ABP-660",
+      "title": "絶対的美少女、お貸しします。 全国縦断Special 沖縄、九州、関西、中部 長谷川るい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-06-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9f9cf732226b3f8c20173816d42a1875.jpg",
       "actress": [
         "长谷川るい"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-314"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-660"
     }
   ]
 };

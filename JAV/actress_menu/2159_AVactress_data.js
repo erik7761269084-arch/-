@@ -25,53 +25,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-久保今日子.jpg"
   ],
-  "works_count": 9,
+  "works_count": 11,
   "related_dramas": [
-    {
-      "id": 72500,
-      "IDcode": "KSBJ-361",
-      "title": "【FANZA限定】中出し性交に乱れる嫁の母10人 生写真とパンティ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-02-19",
-      "cover_url": "https://tutu1.space/images/2025/08/03/4337db1595167450891417650e44dfca.jpg",
-      "actress": [
-        "川上優",
-        "翔田千里",
-        "井上綾子",
-        "汐河佳奈",
-        "青木玲",
-        "久保今日子",
-        "一条绮美香",
-        "森下美绪",
-        "片瀬仁美",
-        "浅井舞香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-361"
-    },
-    {
-      "id": 95096,
-      "IDcode": "NACX-145",
-      "title": "未亡人の義母と嫁の留守を狙い禁断の中出し性交5人VOL.02 （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2024-11-20",
-      "cover_url": "",
-      "actress": [
-        "久保今日子",
-        "加山なつ子",
-        "音羽文子",
-        "円城ひとみ",
-        "柏木舞子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-145"
-    },
     {
       "id": 13751,
       "IDcode": "SDMM-174",
@@ -79,7 +34,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-07-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240625/1e83ba35-fd3a-4ae0-8cf5-e3823e36b366.jpg",
@@ -104,8 +59,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-16",
       "cover_url": "",
       "actress": [
@@ -127,8 +82,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BROLLE",
+      "type": "",
+      "company": "Big Morkal",
       "publish_date": "2019-12-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/9661cffa2417fd47f3032cae29223c4e.jpg",
       "actress": [
@@ -138,15 +93,89 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-426"
     },
     {
+      "id": 100175,
+      "IDcode": "GUN-739",
+      "title": "噂のベロチューおっパブ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "2019-12-12",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/433gun739/433gun739pl.jpg",
+      "actress": [
+        "一之瀨戀",
+        "菊市桃子",
+        "久保今日子",
+        "新垣智江"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GUN-739"
+    },
+    {
+      "id": 98507,
+      "IDcode": "LZDM-024",
+      "title": "義母と娘の偏愛レズビアン ～色気付いた娘に股間を湿らせるムッツリスケベな継母～ 久保今日子 白鳥すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-02-19",
+      "cover_url": "",
+      "actress": [
+        "久保今日子",
+        "白鸟すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZDM-024"
+    },
+    {
+      "id": 71005,
+      "IDcode": "BBAN-214",
+      "title": "レズNGの久保今日子に酒を飲ませてべろんべろんに酔った勢いでレズ解禁！ 久保今日子 葵百合香 鈴木さとみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2019-01-07",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/65b295b83bb1fe45445fb8b9bc7af846.jpg",
+      "actress": [
+        "葵百合香",
+        "铃木里美",
+        "久保今日子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-214"
+    },
+    {
+      "id": 95096,
+      "IDcode": "NACX-145",
+      "title": "未亡人の義母と嫁の留守を狙い禁断の中出し性交5人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250105/jwjeYub2/1.jpg",
+      "actress": [
+        "久保今日子",
+        "加山なつ子",
+        "音羽文子",
+        "円城ひとみ",
+        "柏木舞子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-145"
+    },
+    {
       "id": 83136,
       "IDcode": "SDDE-605",
       "title": "パパママ頑張れ！ぬるぬるローションで仲良し家族対抗イキ我慢選手権！合計中出し9発射！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-12-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "天馬唯",
@@ -168,10 +197,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-11-30",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a631a35cd341e8666944224b3b5aafcf.jpg",
       "actress": [
         "久保今日子",
         "横山纱江子"
@@ -179,22 +208,29 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RD-967"
     },
     {
-      "id": 71005,
-      "IDcode": "BBAN-214",
-      "title": "レズNGの久保今日子に酒を飲ませてべろんべろんに酔った勢いでレズ解禁！ 久保今日子 葵百合香 鈴木さとみ",
+      "id": 72500,
+      "IDcode": "KSBJ-361",
+      "title": "中出し性交に乱れる嫁の母10人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BIBIAN",
-      "publish_date": "2019-01-07",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "葵百合香",
-        "铃木里美",
-        "久保今日子"
+        "川上優",
+        "翔田千里",
+        "井上綾子",
+        "汐河佳奈",
+        "青木玲",
+        "久保今日子",
+        "一条绮美香",
+        "森下美绪",
+        "片瀬仁美",
+        "浅井舞香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-361"
     },
     {
       "id": 66343,
@@ -203,10 +239,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2018-10-07",
-      "cover_url": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7dc720bd4ed49045c7f3c601d5f4b8dc.jpg",
       "actress": [
         "久保今日子"
       ],

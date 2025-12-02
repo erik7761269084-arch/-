@@ -37,18 +37,101 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241003/e3a16e06-ee81-4624-9ce3-d6431008af87.jpg",
     "https://picture.yoshiclub.xyz/20241003/b41172f8-b661-4844-94ea-495359371218.jpg"
   ],
-  "works_count": 2,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 3914,
-      "IDcode": "MFCT-021",
-      "title": "月之力2代 素人啪啪精選集 vol.21 ~ 希咲那奈 月見若葉 北岡果林 椎名琪琪",
+      "id": 5104,
+      "IDcode": "GHAT-159",
+      "title": "醉酒辣妹帶回家迷糊開幹 ~ 一条美緒 椎名琪琪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2025-06-20",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622045922929929_thumbnail.webp",
+      "actress": [
+        "一条美緒",
+        "椎名琪琪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-159"
+    },
+    {
+      "id": 11539,
+      "IDcode": "HMRK-021",
+      "title": "欲求不満のヤリマン美女は、彼氏そっちのけで男優とノリノリセックス！！美しく迫力のある桃尻を上下に激しく弾ませて悶えイキ！ 椎名キキ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "DOC",
-      "publish_date": "2025-08-01",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "椎名琪琪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMRK-021"
+    },
+    {
+      "id": 5105,
+      "IDcode": "TAMA-037",
+      "title": "老爸調教辣妹兒媳 絕對保密的不貞關系 ~ 椎名琪琪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NEXT",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/688972b1c92318f97d1d67d4/cover.jpg",
+      "actress": [
+        "椎名琪琪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TAMA-037"
+    },
+    {
+      "id": 4652,
+      "IDcode": "BACJ-154",
+      "title": "舐め×痴女×GAL 椎名キキ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706104835575575_44929_thumbnail.webp",
+      "actress": [
+        "椎名琪琪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-154"
+    },
+    {
+      "id": 4112,
+      "IDcode": "HODV-21988",
+      "title": "素人妻中出し種付けナンパ SEXするなら絶対金曜の人妻 旦那が帰るまではショート不倫の時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724173323247247_74731_thumbnail.webp",
+      "actress": [
+        "逢見梨花",
+        "中城葵",
+        "椎名琪琪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21988"
+    },
+    {
+      "id": 3914,
+      "IDcode": "MFCT-021",
+      "title": "MOON FORCE 2nd ぱこぱこしろうとコレクション。 vol.21",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101306986986_93936_thumbnail.webp",
       "actress": [
         "北岡果林",
@@ -59,22 +142,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCT-021"
     },
     {
-      "id": 4112,
-      "IDcode": "HODV-21988",
-      "title": "素人人妻內射種付搭訕 周五的寂寞人妻最適合偷情 老公回家前趕緊來一發 ~ 椎名琪琪 中城葵 逢見梨花",
+      "id": 3520,
+      "IDcode": "MFCD-021",
+      "title": "MOON FORCE ぱこぱこしろうとコレクション。 vol.21",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2025-07-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724173323247247_74731_thumbnail.webp",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040429465465_67557_thumbnail.webp",
       "actress": [
-        "逢見梨花",
-        "中城葵",
+        "椿莉香",
+        "春陽萌花",
+        "夢莉梨花",
+        "西尾真里奈",
         "椎名琪琪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCD-021"
+    },
+    {
+      "id": 3068,
+      "IDcode": "XVSR-837",
+      "title": "男も思わず喘ぐフェラテク15名の撮り下ろし精子ゴックン・口内発射フェラチオ170分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210812811811_88083_thumbnail.webp",
+      "actress": [
+        "望月蕾",
+        "有栖舞衣",
+        "若宮穂乃",
+        "逢月日葵",
+        "希咲那奈",
+        "八森若菜",
+        "小梅惠奈",
+        "幾田真知",
+        "真白風羽里",
+        "真白みのり",
+        "音羽美鈴",
+        "椎名琪琪",
+        "宮崎玲",
+        "一之瀨戀",
+        "山口由愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-837"
     }
   ]
 };

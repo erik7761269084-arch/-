@@ -32,23 +32,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250823/49e8a0e1-dda6-4fc8-8829-5f081781c955_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 3338,
       "IDcode": "VEO-081",
-      "title": "本物素人妻出道！天使笑容加絕品身材，最強萌系人氣嬌妻 AV DEBUT ~ 本吉沙彩",
+      "title": "天使般的笑容和绝色身材-本吉沙彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-08-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823092341523523_98565_thumbnail.webp",
       "actress": [
         "本吉沙彩"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-081"
+    },
+    {
+      "id": 2474,
+      "IDcode": "VOD-047",
+      "title": "最强的女主人公妻子-本吉沙彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "本吉沙彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-047"
     }
   ]
 };

@@ -37,19 +37,132 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241130/3aac0637-40ac-40ce-b47f-ba9e20c2672f.jpg",
     "https://picture.yoshiclub.xyz/20241130/8615eb98-d2dc-4d96-98b1-2a23a9edd512.jpg"
   ],
-  "works_count": 5,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 2487,
-      "IDcode": "SDJS-334",
-      "title": "全裸上班體驗！SOD女子社員全裸僅一條毛巾挑戰男湯任務測試玩法 社內暴露＆ 同事榨精5人報告 ~ 九井珠奈緒 鈴河めぐみ 池上乙葉 小森舞 小鬆本果",
+      "id": 62079,
+      "IDcode": "DVRT-058",
+      "title": "普段ボクを男としてみていない義理の妹がピタ尻を見せつけてくる！ガマンできずにデカチン即ハメ激ズボ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小森舞",
+        "コグレハルト",
+        "冬爱琴音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-058"
+    },
+    {
+      "id": 10285,
+      "IDcode": "FPRE-157",
+      "title": "ついこの間まで制服を着て登校していた田舎育ちの素朴な18歳 天然Hカップ美少女 新人 小森まい AVデビュー 小森まい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787fa8b5d57b64bfd1a6a22/cover.jpg",
+      "actress": [
+        "小森舞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-157"
+    },
+    {
+      "id": 8619,
+      "IDcode": "FPRE-153",
+      "title": "18岁天然HCUP美少女-小森舞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8b2dc4e7d663df48c1b4a/cover.jpg",
+      "actress": [
+        "小森舞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-153"
+    },
+    {
+      "id": 3910,
+      "IDcode": "SVCAO-017",
+      "title": "J系シェアリング クラスメイトにパンツを売って稼ぐ放課後ビズ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250803/20250803064818573573_96960_thumbnail.webp",
+      "actress": [
+        "市井結夏",
+        "牧野怜奈",
+        "小森舞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-017"
+    },
+    {
+      "id": 2959,
+      "IDcode": "HNTRZ-021",
+      "title": "スレンダー巨乳な女子大生ギャルに自主制作AVを作らないかと巻き込まれてしまった僕。 佐々木かんな 鳥楽ひな 上坂めい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072859692692_87084_thumbnail.webp",
+      "actress": [
+        "上坂芽衣",
+        "鳥楽ひな",
+        "小森舞",
+        "トイボーイ相沢",
+        "伊崎悠人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
+    },
+    {
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
+      "actress": [
+        "绫濑心",
+        "泉莉音",
+        "東雲梓",
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
+    },
+    {
+      "id": 2487,
+      "IDcode": "SDJS-334",
+      "title": "会社で服を着ていないのは一人だけ！ハダカの尊さを身をもって学ぶ SOD女子社員",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250922/20250922211125593593_63746_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "九井珠奈緒",
         "小森舞",
@@ -65,76 +178,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-334"
     },
     {
-      "id": 2959,
-      "IDcode": "HNTRZ-021",
-      "title": "被苗條巨乳女子大生辣妹拉去一起拍自制AV ~ 鳥楽ひな 小森舞 上阪芽衣",
+      "id": 2275,
+      "IDcode": "PKPD-387",
+      "title": "半中半外半彼女 かんな 佐々木かんな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072859692692_87084_thumbnail.webp",
-      "actress": [
-        "上坂芽衣",
-        "鳥楽ひな",
-        "小森舞",
-        "トイボーイ相沢",
-        "伊崎悠人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-021"
-    },
-    {
-      "id": 62079,
-      "IDcode": "DVRT-058",
-      "title": "普段ボクを男としてみていない義理の妹がピタ尻を見せつけてくる！ガマンできずにデカチン即ハメ激ズボ！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-08-05",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "小森舞",
-        "コグレハルト",
-        "冬爱琴音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVRT-058"
-    },
-    {
-      "id": 3910,
-      "IDcode": "SVCAO-017",
-      "title": "J系美少女放學給同學們枕營業賺外快 ~ 小森舞 牧野憐奈 市井結夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250803/20250803064818573573_96960_thumbnail.webp",
-      "actress": [
-        "市井結夏",
-        "牧野怜奈",
         "小森舞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVCAO-017"
-    },
-    {
-      "id": 8619,
-      "IDcode": "FPRE-153",
-      "title": "她很單純，卻熱愛性愛！ 18歲天然H杯美少女身穿校園情趣服裝 裸露絕頂生中出攝影會 ~ 小森舞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130083025495495.jpg",
-      "actress": [
-        "小森舞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-153"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-387"
     }
   ]
 };

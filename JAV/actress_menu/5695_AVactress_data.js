@@ -4,7 +4,7 @@ window.actressData = {
   "name": "吉瀬栞菜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 90716,
       "IDcode": "ARSO-22162",
-      "title": "舞ワイフ ～セレブ倶楽部～ 162",
+      "title": "名人俱乐部",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROUND",
-      "publish_date": "2022-09-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240209-1/f93bc6b0f50b1bdc6b667a6296bd88ac.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c5e543ed39b57c0f4ae4e/cover.jpg",
       "actress": [
         "五十嵐未華子",
         "吉瀬栞菜"

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "三上りの",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 95479,
       "IDcode": "MARAA-198",
-      "title": "おくすりの！/三上りの チェキ付き",
+      "title": "三上りの おくすりの！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2024-11-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/e1c35d013a9b749b9882ea658fc49344.jpg",
       "actress": [
         "三上りの"
       ],

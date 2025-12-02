@@ -53,14 +53,14 @@ window.actressData = {
     {
       "id": 2554,
       "IDcode": "UMSO-612",
-      "title": "爆棚美少女！火箭巨乳美人12人 VOL.02 ~ 藤森裏穂 朝日凜 冨安玲於奈 樞木美栞 浜崎真緒 寶田萌奈美 鬆本菜奈実 乙葉可憐 淺田結梨 流川莉央 奏自由 白石鈴",
+      "title": "主張が過ぎる圧倒的存在感！！ロケットおっぱい美女12人VOL.02",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250921/20250921065515917917_68784_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "浜崎真緒",
         "藤森里穂",

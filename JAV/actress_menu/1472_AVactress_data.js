@@ -32,23 +32,55 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230615/e5dd6f9e-ce0a-4e37-8b46-493bbbd3a541.jpg",
     "https://picture.yoshiclub.xyz/20230615/5e4127ad-dc4e-4b6c-8dde-3e4e67d7f7ff.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 5234,
-      "IDcode": "INSTNA-004",
-      "title": "人妻明日香30歲 和肌肉猛男出軌3P汗流浹背硬核內射 ~ 飛鳥美音",
+      "id": 1382,
+      "IDcode": "HEYZO-2839",
+      "title": "新來的泡泡女女孩~給你一個最爽的體驗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2025-06-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618111537440440_thumbnail.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2022-08-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20230711/20230711012144554554.jpg",
+      "actress": [
+        "飛鳥美音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2839"
+    },
+    {
+      "id": 5234,
+      "IDcode": "INSTNA-004",
+      "title": "人妻あすかさん 30歳 ヤリチン筋肉男たちと浮気3P汗だく中出しハードSEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "飛鳥美音"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INSTNA-004"
+    },
+    {
+      "id": 2871,
+      "IDcode": "BACJ-162",
+      "title": "新人女王 凄く嫌だけど彼の為ならM性感で働ける、痴女にだってなれる あすかみおん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250907/20250907005933305305_60246_thumbnail.webp",
+      "actress": [
+        "飛鳥美音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-162"
     }
   ]
 };

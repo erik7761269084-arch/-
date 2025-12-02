@@ -40,24 +40,72 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250703/7e44c1d8-2e16-4f90-9591-0b30bc82deba_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250703/9ff512f2-8ea7-4417-83cc-d48471f9fa91_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 2931,
-      "IDcode": "IPZZ-694",
-      "title": "天真無邪制服美少女超迷戀口交 校園內天天含着大雞巴 ~ 山田鈴奈",
+      "id": 4760,
+      "IDcode": "IPZZ-610",
+      "title": "FIRST IMPRESSION 182 王道とイマドキのハイブリッド美少女 山田鈴奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021032296296_47112_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "山田鈴奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-610"
+    },
+    {
+      "id": 3787,
+      "IDcode": "IPZZ-644",
+      "title": "天真的偶像第一次禁欲再服用春药极限高潮-山田铃奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/60dfe2e7/vod.jpg",
+      "actress": [
+        "山田鈴奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-644"
+    },
+    {
+      "id": 2931,
+      "IDcode": "IPZZ-694",
+      "title": "天真烂漫的制服美少女的趣味口交-山田铃奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/12/54b36772565533019e8f06b44266a80a.jpg",
       "actress": [
         "山田鈴奈",
         "イセドン内村"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-694"
+    },
+    {
+      "id": 2092,
+      "IDcode": "IPZZ-692",
+      "title": "制服可爱女孩痴迷于偶像级沉迷于公开高潮的羞耻和快感-山田鈴奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/21/509a074fa172c05eaa2f2d8bd3341ee2.jpg",
+      "actress": [
+        "山田鈴奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-692"
     }
   ]
 };

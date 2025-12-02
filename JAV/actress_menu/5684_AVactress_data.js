@@ -4,7 +4,7 @@ window.actressData = {
   "name": "橘花いろは",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-10-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/521bdb6a6dd1ea7b7d99ea083e154400.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/95e99903f99a146029d369b8af882fec.jpg",
       "actress": [
         "橘花いろは"
       ],

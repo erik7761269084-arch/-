@@ -45,82 +45,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250402/77c05d26-da0b-4031-b132-c0b5090330d0.jpg",
     "https://picture.yoshiclub.xyz/20250402/3f833ebb-17db-4ec1-b0e1-df9c58cb1bbc.jpg"
   ],
-  "works_count": 7,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 2711,
-      "IDcode": "FNS-098",
-      "title": "瞞着女友和性感女子大生的1泊2日露天溫泉10發種付中出溫泉之行，二人世界的性愛合宿 ~ 濱邊彌生",
+      "id": 6650,
+      "IDcode": "FSFST-003",
+      "title": "AV出道前夜…珍藏私拍影片 ~ 濱邊彌生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2025-09-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250913/20250913205915528528_35280_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2025-05-08",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423084118812812_thumbnail.webp",
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSFST-003"
     },
     {
-      "id": 3767,
-      "IDcode": "FNS-088",
-      "title": "曾經覺得是小孩的妹妹居然不穿內衣引誘我，乘爸媽旅遊時忍不住幹了好幾炮 ~ 濱邊彌生",
+      "id": 70488,
+      "IDcode": "FNS-003",
+      "title": "新人 20歳 AVdebut 浜辺やよい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250808/20250807235936778778_12921_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-088"
-    },
-    {
-      "id": 4794,
-      "IDcode": "FNS-064",
-      "title": "舌尖交纏口水氾濫 超濃厚舌吻激情 ~ 濱邊彌生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2025-07-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250702/20250702220624392392_thumbnail.webp",
-      "actress": [
-        "濱邊彌生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-064"
-    },
-    {
-      "id": 5577,
-      "IDcode": "FNS-045",
-      "title": "體液交融的極致官能性愛 ~ 濱邊彌生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2025-06-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604205712886886_thumbnail.webp",
-      "actress": [
-        "濱邊彌生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-045"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-003"
     },
     {
       "id": 7104,
       "IDcode": "FNS-008",
-      "title": "新人出道 請看着我高潮… 初體驗滿滿的性感開發3次大戰特別版 首次亮相 AV DEBUT~ 濱邊彌生",
+      "title": "满是初次性感开发3本番特别编-滨边弥生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-05-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250402/20250402010106419419.jpg",
       "actress": [
         "濱邊彌生",
@@ -131,13 +99,13 @@ window.actressData = {
     {
       "id": 6403,
       "IDcode": "FNS-030",
-      "title": "超絕口交的最高美少女 ~ 濱邊彌生",
+      "title": "超级偏爱口交的清纯美少女-浜辺やよい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-05-05",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250505/20250505021131134134_thumbnail.webp",
       "actress": [
         "濱邊彌生"
@@ -145,20 +113,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-030"
     },
     {
-      "id": 70488,
-      "IDcode": "FNS-003",
-      "title": "新人 1億人のヒロイン 浜辺やよい 20歳 Avdebut 生写真5枚付き",
+      "id": 5577,
+      "IDcode": "FNS-045",
+      "title": "透過體液交感的無止境官能性愛-濱邊彌生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/e90a5fc4/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250604/20250604205712886886_thumbnail.webp",
       "actress": [
         "濱邊彌生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-045"
+    },
+    {
+      "id": 4794,
+      "IDcode": "FNS-064",
+      "title": "舌头与唾液交织深吻性爱-浜辺やよい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250702/20250702220624392392_thumbnail.webp",
+      "actress": [
+        "濱邊彌生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-064"
+    },
+    {
+      "id": 3767,
+      "IDcode": "FNS-088",
+      "title": "ちょっと前までガキだと思っていた妹がパンチラ誘惑してきたから両親が旅行中に何度もセッ… 浜辺やよ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250808/20250807235936778778_12921_thumbnail.webp",
+      "actress": [
+        "濱邊彌生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-088"
+    },
+    {
+      "id": 2711,
+      "IDcode": "FNS-098",
+      "title": "瞒着彼此的恋人两日一夜带露天浴池10次射精-滨边弥生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250913/20250913205915528528_35280_thumbnail.webp",
+      "actress": [
+        "濱邊彌生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-098"
     }
   ]
 };

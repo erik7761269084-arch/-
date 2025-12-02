@@ -4,7 +4,7 @@ window.actressData = {
   "name": "星宮咲妃",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 8057,
       "IDcode": "JAHA-001",
-      "title": "本物元芸能人變態SEX公開 ~ 星宮咲妃",
+      "title": "本物元芸能人変態SEX公開 星宮咲妃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "豊彥",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250222/46c51adf-85d9-4b05-ad65-854663a2c912.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/88fcb908029a5c8b5b2b81b9f8bddeac.jpg",
       "actress": [
         "星宮咲妃"
       ],

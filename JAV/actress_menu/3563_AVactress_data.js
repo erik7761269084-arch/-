@@ -4,7 +4,7 @@ window.actressData = {
   "name": "杉田美奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 66286,
       "IDcode": "JRZE-239",
-      "title": "初撮り人妻ドキュメント 杉田美奈",
+      "title": "初次拍摄人妻纪录-杉田美奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-04-17",
-      "cover_url": "https://tutu1.space/images/2025/05/14/d43808c56f8b2391e64e80b9515e16aa.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "杉田美奈"
       ],

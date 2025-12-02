@@ -4,7 +4,7 @@ window.actressData = {
   "name": "中谷響",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 107082,
       "IDcode": "NSPS-954",
-      "title": "思春期兒子的體驗談 淫蕩的母親 3 米津響",
+      "title": "青春期儿子的体验谈讨厌的母亲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-12-25",
-      "cover_url": "https://tutu1.space/images/2023/09/27/785bb50a05e12bb7c91a6bee7ff98f2c.jpg",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "米津响",
         "中谷響"

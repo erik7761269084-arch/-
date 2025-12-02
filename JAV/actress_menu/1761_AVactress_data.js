@@ -39,37 +39,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 7741,
-      "IDcode": "IPZZ-514",
-      "title": "禁欲解放與媚藥覺醒 雙重效果下的超嗨狂歡性愛 ~ 白雲雨",
+      "id": 8431,
+      "IDcode": "IPZZ-491",
+      "title": "像偶像的美少女-白雲あめ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123641653653.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250224-1/89628203d55cdb4a39df138c0f68c0ce.jpg",
+      "actress": [
+        "白雲雨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-491"
+    },
+    {
+      "id": 7741,
+      "IDcode": "IPZZ-514",
+      "title": "第一次挑战禁欲春药高潮-白云雨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250327-1/5399b45f6768b84e375084db7c6c617c.jpg",
       "actress": [
         "白雲雨",
         "小田切ジュン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-514"
-    },
-    {
-      "id": 8431,
-      "IDcode": "IPZZ-491",
-      "title": "超大型新人！拒絕偶像出道而轉身出道於AV的美少女！ 首次亮相 AV DEBUT ~ 白雲雨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206074521422422.jpg",
-      "actress": [
-        "白雲雨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-491"
     }
   ]
 };

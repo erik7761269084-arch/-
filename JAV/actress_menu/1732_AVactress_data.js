@@ -32,37 +32,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 8646,
-      "IDcode": "MIFD-574",
-      "title": "對天真清楚系未熟娘的大量中出！2000回最激烈痙攣！追擊中出3本番 ~ 愛望莉裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130082624914914.jpg",
-      "actress": [
-        "愛望莉里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-574"
-    },
-    {
       "id": 75246,
       "IDcode": "MIFD-564",
-      "title": "新人 素朴な笑顔と透明感にキュン この子と性春をやり直したいッ！チ○ポ大好きニコニコ笑顔と積極的スケベな僕らの’カノジョ’代表！ AV debut！ 愛望莉里 （BOD）",
+      "title": "新人 素朴な笑顔と透明感にキュン この子と性春をやり直したいッ！チ○ポ大好きニコニコ笑顔と積極的スケベな僕らの’カノジョ’代表！ 愛望莉里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-01-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1410815c08d63a99051b3/cover.jpg",
       "actress": [
         "愛望莉里",
         "タイ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-564"
+    },
+    {
+      "id": 8646,
+      "IDcode": "MIFD-574",
+      "title": "未熟女子に大量中出し。もうイッてるってばぁ！ピクピク痙攣2000回！追撃ピストンではじめての中出し3本番。 愛望莉里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb0c454e7d663df4c48ce0/cover.jpg",
+      "actress": [
+        "愛望莉里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-574"
     }
   ]
 };

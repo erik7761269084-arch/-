@@ -4,7 +4,7 @@ window.actressData = {
   "name": "相楽ゆり子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 81550,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2020-04-02",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/099bd080a1895b2d2d8613edf3cade78.jpg",
@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2019-07-11",
-      "cover_url": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20250112-1/5eda142e9abf2372e6ead2223fc0c23f.jpg",
       "actress": [
         "相楽ゆり子"
       ],
@@ -57,16 +57,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2019-06-06",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5499c849a26d6a2014843228ae849f3b.jpg",
       "actress": [
         "小田切ジュン",
         "イセドン内村",
         "相楽ゆり子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-001"
+    },
+    {
+      "id": 169986,
+      "IDcode": "TOEN-022",
+      "title": "叔母ゆり子38歳彼女の目の前で甥を寝取る不貞おばさん(乱伦)",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "相楽ゆり子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOEN-022"
     }
   ]
 };

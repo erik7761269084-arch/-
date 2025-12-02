@@ -34,15 +34,47 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 6607,
-      "IDcode": "HODV-21964",
-      "title": "忘不了偷情的刺激 人妻外遇搭訕DX ~ 大槻ゆりか 円井萌華 五十嵐美月",
+      "id": 95566,
+      "IDcode": "586HNHU-0126",
+      "title": "個撮ナンパ＃病院受付勤務のかわいい系美女発見！＃顔騎イキ！＃美乳最高＃エロ下着＃なま中だし",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "大槻ゆりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=586HNHU-0126"
+    },
+    {
+      "id": 14277,
+      "IDcode": "NPJS-038",
+      "title": "虽然看起来是这样",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240531/202405310442061212.jpg",
+      "actress": [
+        "大槻ゆりか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-038"
+    },
+    {
+      "id": 6607,
+      "IDcode": "HODV-21964",
+      "title": "火遊びを忘れられない 不倫人妻ナンパDX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "H.M.P 芳友舍",
-      "publish_date": "2025-04-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250425/20250425035653297297_thumbnail.webp",
       "actress": [
         "円井萌華",
@@ -50,38 +82,6 @@ window.actressData = {
         "大槻ゆりか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21964"
-    },
-    {
-      "id": 95566,
-      "IDcode": "HNHU-126",
-      "title": "個撮ナンパ＃病院受付勤務のかわいい系美女発見！＃顔騎イキ！＃美乳最高＃エロ下着＃なま中だし",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2024-10-26",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/46a1d7ff/vod.jpg",
-      "actress": [
-        "大槻ゆりか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNHU-126"
-    },
-    {
-      "id": 14277,
-      "IDcode": "NPJS-038",
-      "title": "最近喪失了童貞的處女後沉迷於約炮的興奮，可愛女人 (27)，忍不住享受她剛剛學到的性愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2024-06-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20240531/202405310442061212.jpg",
-      "actress": [
-        "大槻ゆりか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-038"
     }
   ]
 };

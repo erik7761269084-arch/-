@@ -31,23 +31,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/佐々木マリア.jpg",
     "https://picture.yoshiclub.xyz/20230124/075f11fb-20f9-44aa-983e-d2f89c6e6c01.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1944,
-      "IDcode": "LAFBD-67",
-      "title": "林間少女 67 拘束猛鬼高潮 : 佐佐木真理亞",
+      "id": 896,
+      "IDcode": "HEYZO-1121",
+      "title": "一次又一次的高潮 ！ ~ - 佐佐木真裏亞",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2015-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/8aa7f8ce-f9a9-442e-98f8-071585885297.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-03-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20240424/20240423222137539539.jpg",
       "actress": [
         "佐佐木真理亞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-67"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1121"
+    },
+    {
+      "id": 872,
+      "IDcode": "HEYZO-1096",
+      "title": "我的洩慾寵物來拍A片啦！？ - 佐佐木真理亞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-02-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240501/e96910d2-4d0d-4cb9-b107-f925c27fa1e6.jpg",
+      "actress": [
+        "佐佐木真理亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1096"
     }
   ]
 };

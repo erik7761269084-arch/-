@@ -32,8 +32,40 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/9-AVDBS/AI-Fix-すみれ美香.jpg",
     "https://picture.yoshiclub.xyz/20231019/00befa31-c1be-40e3-b79b-991c2e4d32f8.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 1146,
+      "IDcode": "HEYZO-1784",
+      "title": "Z～極品妓女的美麗巨乳～ - Mika Sumire",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2018-07-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20231101/202311012321372626.jpg",
+      "actress": [
+        "堇美香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1784"
+    },
+    {
+      "id": 58114,
+      "IDcode": "052522-001",
+      "title": "邻居是MotocareNTR美妻真正要的对像不是老公",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250125-1/9833c13cc73d9629670a2a6b6a444787.jpg",
+      "actress": [
+        "堇美香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=052522-001"
+    },
     {
       "id": 5065,
       "IDcode": "REAL-920",
@@ -41,9 +73,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",

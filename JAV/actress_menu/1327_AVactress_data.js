@@ -32,24 +32,56 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231224/e905253f-8f8b-480d-a125-e9ac8b9a1995.jpg",
     "https://picture.yoshiclub.xyz/20231224/d09a68d0-8401-49f6-85b3-ba16e4ffd50d.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 17112,
-      "IDcode": "SONE-006",
-      "title": "新人 NO.1STYLE Haruno Rara AV 首次亮相",
+      "id": 16679,
+      "IDcode": "SONE-007",
+      "title": "一個飽受焦慮困擾的天真的女孩的第一次經歷，她第一次無法阻止快感的高潮！ 4本番",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-12-26",
+      "publish_date": "2024-01-30",
+      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119073934991991.jpg",
+      "actress": [
+        "春野拉拉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-007"
+    },
+    {
+      "id": 17112,
+      "IDcode": "SONE-006",
+      "title": "安倍亜沙美 S1 新人报到",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231223/20231223073803459459.jpg",
       "actress": [
         "春野拉拉",
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-006"
+    },
+    {
+      "id": 16127,
+      "IDcode": "SONE-085",
+      "title": "交錯的體液-春野拉拉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240223/20240223082142652652.jpg",
+      "actress": [
+        "春野拉拉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-085"
     }
   ]
 };

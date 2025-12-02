@@ -52,8 +52,25 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250903/20250903074819284284_44695_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250903/20250903074819623623_39276_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 98236,
+      "IDcode": "APKH-035",
+      "title": "～3Pヘブン～旅館のアルバイトJKの2人は、宿泊客と競っ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-07-13",
+      "cover_url": "",
+      "actress": [
+        "月野優里亞",
+        "七海ゆあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-035"
+    },
     {
       "id": 71723,
       "IDcode": "GAPL-026",
@@ -61,10 +78,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-05-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/197a925971b8c0aa9dfefbf8a2e03b15.jpg",
       "actress": [
         "彩音遙菜",
         "宫崎彩",
@@ -75,22 +92,22 @@ window.actressData = {
     },
     {
       "id": 70585,
-      "IDcode": "SW-539",
+      "IDcode": "SW-0539",
       "title": "同窓会で会った初恋の女は人妻になっていた5 旦那と上手くいっていないのか彼女いない歴28年の僕のチ○コを机の下で握りしめて放さない。みんなの目を盗んで店内でヤッちゃった！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2018-02-22",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/61d99874d989b785b5be2d4748a0a2a8.jpg",
       "actress": [
         "若槻みづな",
         "尾上若叶",
         "月野優里亞",
         "花笑一杏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-539"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0539"
     }
   ]
 };

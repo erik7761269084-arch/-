@@ -50,13 +50,13 @@ window.actressData = {
     {
       "id": 5349,
       "IDcode": "DEAB-004",
-      "title": "神級新人出道！超曲線美胸BODY首秀！SNS爆紅女大學生coser AV DEBUT ~ 北島愛菜",
+      "title": "人气女大学生北島愛菜的首次COSPlay的AV亮相-北島愛菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-06-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055919656656_thumbnail.webp",
       "actress": [
         "北島愛菜"

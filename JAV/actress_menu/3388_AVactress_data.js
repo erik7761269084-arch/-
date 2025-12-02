@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ほの",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,19 +20,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 62403,
-      "IDcode": "MAAN-1086",
-      "title": "【Hカップのド級パイズリ】レスに悩む専業主婦が巨根で好き放題イキまくり！？ローションいらずの高粘度フェラ&amp;チ●コが埋もれる贅沢パイズリ！お互い何回イッても終わらない不倫セックス！！【東京 Bitch Girl】【ほの】",
+      "IDcode": "300MAAN-1086",
+      "title": "Hカップのド級パイズリ】レスに悩む専業主婦が巨根で好き放題イキまくり！ほの 28歳 専業主婦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOC",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/03/17c8bb46/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "ほの"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1086"
     }
   ]
 };

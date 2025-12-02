@@ -53,19 +53,151 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231214/bb67e0ff-2a82-46ec-9f1c-db7f2a373e90.jpg",
     "https://picture.yoshiclub.xyz/20231214/fd283033-2ae2-4372-a086-2e9edf9aadc7.jpg"
   ],
-  "works_count": 1,
+  "works_count": 9,
   "related_dramas": [
     {
-      "id": 16172,
-      "IDcode": "SSNI-146",
-      "title": "湊莉久的最後一個粉絲感謝祭。暴露全素顔發布!! 醉酒狂歡!! 做任何你想做的最後 240 分鍾",
+      "id": 16717,
+      "IDcode": "SSNI-092",
+      "title": "5年後重聚情感真實性愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240221/2024022106592233.jpg",
+      "publish_date": "2018-01-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20240117/20240117094033735735.jpg",
+      "actress": [
+        "凑莉久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-092"
+    },
+    {
+      "id": 17145,
+      "IDcode": "SSNI-046",
+      "title": "大亂交!!24大雞巴 VS 湊莉久 連續24次不間斷高潮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2017-11-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20231222/8ff8d555-c6a1-49ba-b3d5-b04b47c24fe4.jpg",
+      "actress": [
+        "凑莉久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-046"
+    },
+    {
+      "id": 17243,
+      "IDcode": "SSNI-023",
+      "title": "凑莉久是个非常喜欢精液並喜欢反覆插入、口交和親吻的 PTM 蕩婦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2017-10-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20231214/7e36ccd2-d7b8-4be0-b24c-9e008545db97.jpg",
+      "actress": [
+        "凑莉久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-023"
+    },
+    {
+      "id": 100245,
+      "IDcode": "NNPJ-087",
+      "title": "湊莉久＆女監督なんともJAPANが行く仲良し2人組限定！親友の目の前",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-05-25",
+      "cover_url": "",
+      "actress": [
+        "凑莉久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-087"
+    },
+    {
+      "id": 103004,
+      "IDcode": "MDYD-994",
+      "title": "私、実は夫の上司に犯され続けてます… 湊莉久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-02-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mdyd994/mdyd994pl.jpg",
+      "actress": [
+        "凑莉久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDYD-994"
+    },
+    {
+      "id": 104107,
+      "IDcode": "CLUB-145",
+      "title": "結婚式前に写真スタジオで撮影するカップルの新郎が待つ隣で新婦を寝取りレイプ2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "変態紳士倶楽部",
+      "publish_date": "2015-01-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/club145/club145pl.jpg",
+      "actress": [
+        "凑莉久",
+        "野々宫みさと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-145"
+    },
+    {
+      "id": 98342,
+      "IDcode": "WANZ-212",
+      "title": "アナル舐めレズビアン アンナと花子全面監修 乙葉ななせ 湊莉久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-07-01",
+      "cover_url": "",
+      "actress": [
+        "凑莉久",
+        "乙叶ななせ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-212"
+    },
+    {
+      "id": 103138,
+      "IDcode": "DVDES-743",
+      "title": "レズ奴隷 VOL.10 驕心壊落・砕けちる知的で傲慢な女医のプライド",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-06-05",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6904001fbf45974ea6508017/poster2.jpg",
+      "actress": [
+        "凑莉久",
+        "樱井步",
+        "佐々木恋海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-743"
+    },
+    {
+      "id": 16172,
+      "IDcode": "SSNI-146",
+      "title": "凑莉久AV隐退作品",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ec7c9fedea1423c6b31eda8ef1b83e3d.jpg",
       "actress": [
         "凑莉久",
         "鲛岛",

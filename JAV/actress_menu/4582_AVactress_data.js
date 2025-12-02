@@ -4,7 +4,7 @@ window.actressData = {
   "name": "渚沢まゆ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-06-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/10c5fbbb7cea8ef01d0b00209d035ec7.jpg",
       "actress": [
         "渚沢まゆ"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 75734,
       "IDcode": "MIFD-102",
-      "title": "ガチ絶頂シンフォニーが止まらない♪底なし性欲 美尻ピアニストAVデビュー！ 渚沢まゆ",
+      "title": "无底性欲的钢琴家AV出道-渚沢まゆ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2020-03-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/be2c9cc457811f1888f208a51b6eaabe.jpg",
       "actress": [
         "渚沢まゆ"
       ],

@@ -42,8 +42,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240827/3a6d81ea-9efb-41b0-854f-e69622c9307d.jpg",
     "https://picture.yoshiclub.xyz/20240827/1695fcdf-db4b-449e-8c21-69cb372f5d8a.jpg"
   ],
-  "works_count": 6,
+  "works_count": 9,
   "related_dramas": [
+    {
+      "id": 12404,
+      "IDcode": "START-151",
+      "title": "真人實寫版：我那奇怪的NTR癖好，女友春野ゆこ x 人氣同人漫畫家 Terrace MC 合作作品！~ 春野ゆこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-09-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240827/bf3d9161-164d-418d-8fe7-7fc3880f7cf0.jpg",
+      "actress": [
+        "春野ゆこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-151"
+    },
     {
       "id": 14386,
       "IDcode": "START-067",
@@ -51,8 +67,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-06-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240528/4f809b90-2259-445e-81dd-ceaa607857a3.jpg",
       "actress": [
@@ -67,10 +83,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/temp/20240409020918938938.jpg",
+      "cover_url": "",
       "actress": [
         "春野ゆこ"
       ],
@@ -83,10 +99,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-03-12",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241027-1/b5eb58557a26e8ec19d35a0eb5882b51.jpg",
       "actress": [
         "春野ゆこ"
       ],
@@ -99,7 +115,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-02-20",
       "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220010353982982.jpg",
@@ -115,7 +131,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-09-21",
       "cover_url": "",
@@ -132,7 +148,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-07-06",
       "cover_url": "",
@@ -140,6 +156,38 @@ window.actressData = {
         "春野ゆこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-799"
+    },
+    {
+      "id": 14060,
+      "IDcode": "START-102",
+      "title": "暗之I罩杯爆乳攝影會，被令人毛骨悚然的御宅族包圍，性虐寵物 ~ 春野ゆこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a079e2cf22ae3e04a01a7a/cover.jpg",
+      "actress": [
+        "春野ゆこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-102"
+    },
+    {
+      "id": 12087,
+      "IDcode": "START-173",
+      "title": "被NTR的爆乳清純人妻-春野夕子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240910/7e763795-27e8-4561-b690-830deec882a4.jpg",
+      "actress": [
+        "春野ゆこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-173"
     }
   ]
 };

@@ -55,8 +55,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250325/b6bf673f-8ae5-49ad-882b-06dc3dede3f4.jpg",
     "https://picture.yoshiclub.xyz/20250325/1fc6d8b8-c360-4015-924c-780e6ccd0f58.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 89625,
+      "IDcode": "SBMO-01254",
+      "title": "純恋スレイブ/小島梨花 チェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-07-28",
+      "cover_url": "",
+      "actress": [
+        "夏目れみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-01254"
+    },
     {
       "id": 91676,
       "IDcode": "AGAV-100",
@@ -64,9 +80,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-01-24",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240524-1/ab20c985272e0592e0786ff11bd5e71d.jpg",
       "actress": [
         "夏目れみ"
@@ -80,10 +96,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "NEXT",
-      "publish_date": "2023-12-20",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/68de4689e0065a735e117ed6869597dd.jpg",
       "actress": [
         "堀内美香",
         "夏目れみ"
@@ -91,20 +107,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-003"
     },
     {
-      "id": 89625,
-      "IDcode": "SBMO-1254",
-      "title": "純恋スレイブ/小島梨花 チェキ付き",
+      "id": 7275,
+      "IDcode": "INSTNA-003",
+      "title": "夏目れみ 七変化",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-07-28",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "夏目れみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-1254"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=INSTNA-003"
     }
   ]
 };

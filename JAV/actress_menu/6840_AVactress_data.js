@@ -4,7 +4,7 @@ window.actressData = {
   "name": "成海和花",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 107149,
       "IDcode": "JJDD-006",
-      "title": "年下の男の子にお願いされたら中出しセックスにもノーと言えないおばさん家政婦06 優しさにつけこんで突撃生ハメドキュメント",
+      "title": "连中出SEX都可以接受的家政妇",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-08-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/dc08e1c2d4b6b904dcd44431c2a1850d.jpg",
       "actress": [
         "成海和花"
       ],

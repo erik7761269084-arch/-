@@ -31,24 +31,40 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231119/c6f212db-3814-4e0e-bd31-76dbf877bc9b.jpg"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 16238,
-      "IDcode": "PRED-555",
-      "title": "美麗的筧梓爲你進行泡泡浴性愛",
+      "id": 105512,
+      "IDcode": "PRED-565",
+      "title": "与女子主播姐姐淫乱地交缠的浓密饭店约会",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2024-02-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20240217/20240217094358431431.jpg",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250714-1/8797eae44b59154a7ad31901ade2f4c4.jpg",
       "actress": [
         "筧梓",
-        "タイ"
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-555"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-565"
+    },
+    {
+      "id": 17748,
+      "IDcode": "PRED-528",
+      "title": "前地方台播音员-筧梓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/1aa616cca5c194a46254fc5548766e2a.jpg",
+      "actress": [
+        "筧梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-528"
     },
     {
       "id": 17234,
@@ -57,10 +73,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2023-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20231215/ee92abf0-1c3f-4cd5-9eaa-63df3dd871e4.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/b8e30bbd0ebd85b45d7768bd5c78ef88.jpg",
       "actress": [
         "筧梓",
         "鲛岛"
@@ -68,20 +84,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-535"
     },
     {
-      "id": 17748,
-      "IDcode": "PRED-528",
-      "title": "智力與愛欲的雙重運用。前當地電台播音員 AV 首次亮相",
+      "id": 16238,
+      "IDcode": "PRED-555",
+      "title": "高貴的漂亮姐姐-筧梓",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2023-11-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231118/20231118094516282282.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240217/20240217094358431431.jpg",
+      "actress": [
+        "筧梓",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-555"
+    },
+    {
+      "id": 15468,
+      "IDcode": "PRED-671",
+      "title": "現場工作人員的復仇性愛-筧梓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412051511874874.jpg",
       "actress": [
         "筧梓"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-528"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-671"
     }
   ]
 };

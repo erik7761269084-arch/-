@@ -41,41 +41,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/f33a9bdf-61df-4b96-89a2-0d428b16f30f.jpg",
     "https://picture.yoshiclub.xyz/20230210/eb3517ea-f026-4a10-a8df-1db51e468780.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
-      "id": 2043,
-      "IDcode": "SKYHD-123",
-      "title": "天空天使Plus 4：愛野奈美、佐倉明菜、綾瀨露娜",
+      "id": 732,
+      "IDcode": "HEYZO-0884",
+      "title": "用你的身體服務！地下偶像粉絲交流會 - 渾身都是精液 ~ 櫻明菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2014-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/4be4a2c3-29d7-4f5c-9406-cd22be794ab6.webp",
-      "actress": [
-        "愛乃娜美",
-        "櫻明菜",
-        "夏川純子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-123"
-    },
-    {
-      "id": 1889,
-      "IDcode": "SKYHD-119",
-      "title": "天空天使藍 Vol.115：佐倉明菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-11-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/ed596665-05a2-4ea4-adea-747dc365d674.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-06-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240806/8bf4b170-6fd3-4058-9183-0e95a057a0d4.jpg",
       "actress": [
         "櫻明菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0884"
     }
   ]
 };

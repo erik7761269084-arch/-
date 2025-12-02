@@ -39,310 +39,175 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240607/858df776-2153-493f-9ce4-5c779f90afd1.jpg",
     "https://picture.yoshiclub.xyz/20240607/7100c237-e880-48b9-94a2-6d39330dff88.jpg"
   ],
-  "works_count": 40,
+  "works_count": 66,
   "related_dramas": [
     {
-      "id": 60280,
-      "IDcode": "FTHTD-137",
-      "title": "地味な隠れデカパイ新人看護師は押しに弱くてセクハラを断れないドMちゃん。性欲が溜まった入院患者の性処理までもお世話しています 小野坂ゆいか",
+      "id": 4865,
+      "IDcode": "HRSM-102",
+      "title": "汗流浹背桑拿妹 被迫中出整頓身心 ~ 小野阪唯香 三葉彌生 小日向める 望月蕾",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FALENO TUBE",
-      "publish_date": "2025-09-25",
-      "cover_url": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006585585_thumbnail.webp",
       "actress": [
-        "小野坂唯香"
+        "望月蕾",
+        "小野坂唯香",
+        "三葉彌生",
+        "小日向める"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-102"
     },
     {
-      "id": 2486,
-      "IDcode": "HALT-069",
-      "title": "【個撮】口暴大全 VOL.12 ~ 大原理央 小野阪唯香 南條彩 葉山小百合 橘日向 水川潤 花裏明理 澄河美花 御影れみ",
+      "id": 5078,
+      "IDcode": "HOIZ-166",
+      "title": "素人約炮日記15：一夜情神器匹配，帶你直衝愛巢 ~ 小野阪唯香 愛葉陽葵 葉月まゆ 宍戸裏帆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919065057692692_39525_thumbnail.webp",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623075542259259_thumbnail.webp",
       "actress": [
-        "水川潤",
+        "宍戸里帆",
         "小野坂唯香",
-        "南條彩",
-        "葉山小百合",
-        "橘日向",
-        "澄河美花",
-        "花里明理",
-        "大原理央",
-        "御影れみ"
+        "葉月まゆ",
+        "愛葉陽葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOIZ-166"
     },
     {
-      "id": 60848,
-      "IDcode": "MADV-600",
-      "title": "競泳水着NTR 黒髪巨乳な隣人美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 小野坂ゆいか",
+      "id": 5057,
+      "IDcode": "SVHOT-003",
+      "title": "深夜魔鏡號值班小助理被精飲狂熱人妻逆推，帶回家瘋狂造人內射生活全記錄 ~ 小野阪唯香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "水晶映像",
-      "publish_date": "2025-09-09",
-      "cover_url": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2025-06-20",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623104929516516_thumbnail.webp",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-600"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVHOT-003"
     },
     {
-      "id": 2902,
-      "IDcode": "HSODA-085",
-      "title": "姐妹催眠 老色批繼父把女兒們調教成專屬肉便器 ~ 皆月光 小野阪唯香",
+      "id": 12220,
+      "IDcode": "IPZZ-382",
+      "title": "高潮覺醒 沒有性我就活不下去了……159次高潮，4403次陰部痙攣，3612次回鬼畜活塞，快感潮測定不能 ~ 小野阪唯香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025657773773_55754_thumbnail.webp",
-      "actress": [
-        "皆月光",
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-085"
-    },
-    {
-      "id": 2899,
-      "IDcode": "HUNTC-449",
-      "title": "隨便插到爽！無限插新城鎮 整座小鎮隨便插特別篇 ~ 真白風羽裏 小野阪唯香 桐香悠裡 蘆名穗花 足立友梨 高城なぎさ 神村彩月 廣瀬好美 紫月由香裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025153547547_54671_thumbnail.webp",
-      "actress": [
-        "小野坂唯香",
-        "桐香悠裡",
-        "足立友梨",
-        "蘆名穗花",
-        "真白風羽里",
-        "高城なぎさ",
-        "廣瀬好美",
-        "神村彩月",
-        "紫月由香里",
-        "マサムー",
-        "ラビットけんと"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
-    },
-    {
-      "id": 60096,
-      "IDcode": "CRNX-245",
-      "title": "【4K】単身赴任男を際どい水着で寝取りました… 小野坂ゆいか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://tutu1.space/images/2025/09/13/478e3d15e586e233c4cd726afcac68ec.jpg",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2024-09-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906013719988988.jpg",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRNX-245"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-382"
     },
     {
-      "id": 3131,
-      "IDcode": "BF-744",
-      "title": "辣妹家教色誘教學 ~ 小野坂唯香",
+      "id": 14163,
+      "IDcode": "IPZZ-292",
+      "title": "肉感新人女優出道！擁有活力迷人的微笑和成熟鮮嫩的 H 型罩杯～小野阪唯香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BeFree",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828040358662662_47907_thumbnail.webp",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2024-06-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607010048360360.jpg",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-744"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-292"
     },
     {
-      "id": 3727,
-      "IDcode": "CEMD-719",
-      "title": "公司內的性慾處理專員秘書4 ~ 小野坂唯香",
+      "id": 69632,
+      "IDcode": "FOCS-242",
+      "title": "在暴雨中湿透的前辈那生动诱人的H罩杯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013748378378_49056_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efe7d44e7d663df47f763a/cover.jpg",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-242"
     },
     {
-      "id": 3647,
-      "IDcode": "NGHJ-021",
-      "title": "白衣天使的連射挑戰！高額獎金誘惑，溫柔護士小姐姐榨幹你爲止 ~ 湊波流 小野阪唯香 河北笑茉 美咲佳奈",
+      "id": 69375,
+      "IDcode": "DVAJ-688",
+      "title": "拘束スローピストンでゆっくりチ○ポを抜き挿しされてイヤがる顔が次第にアヘアヘして中出し快楽堕ちする一部始終をじっくり観察されたJ●ちゃん 小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/202508110952264545_55809_thumbnail.webp",
-      "actress": [
-        "美咲佳奈",
-        "小野坂唯香",
-        "湊波流",
-        "河北笑茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-021"
-    },
-    {
-      "id": 61002,
-      "IDcode": "CRNX-235",
-      "title": "【4K】自慢のご奉仕メイドと杭打ち騎乗位SEX 小野坂ゆいか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-07-30",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/15/9d3737de/vod.jpg",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250709-1/70cb37d4448e27289582c54a6d76a22a.jpg",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRNX-235"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-688"
     },
     {
-      "id": 4260,
-      "IDcode": "NSFS-401",
-      "title": "寢取之館 12 ～我的妻子淪爲了別人的性玩偶 ～ 小野阪唯香",
+      "id": 69355,
+      "IDcode": "NACR-932",
+      "title": "我被突降的暴雨淋湿-小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210259760760_35513_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-401"
-    },
-    {
-      "id": 4482,
-      "IDcode": "PPPE-355",
-      "title": "放課後與巨乳學生在情趣酒店瘋狂內射停不下來 ~ 小野坂唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040147526526_77464_thumbnail.webp",
-      "actress": [
-        "小野坂唯香",
-        "七尾神"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-355"
-    },
-    {
-      "id": 4680,
-      "IDcode": "CEMD-706",
-      "title": "淚眼汪汪無間斷高潮狂歡58 ~ 小野坂唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2025-07-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705120144780780_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-706"
-    },
-    {
-      "id": 4617,
-      "IDcode": "HZGD-310",
-      "title": "老爸再婚對象慾求不滿太騷了…用淫語和巨乳夾擊我的變態爆乳後媽 ~ 小野坂唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻花園劇場",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083035370370_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-310"
-    },
-    {
-      "id": 4593,
-      "IDcode": "HUNTC-402",
-      "title": "午休時間我的大屌被女同事排隊搶着用！2 ~ 小野阪唯香 岡本莉裏 深月芽衣 二宮桃 足立友梨 愛瀬優裏 星仲ここみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083258839839_thumbnail.webp",
-      "actress": [
-        "小野坂唯香",
-        "愛瀬優里",
-        "足立友梨",
-        "岡本莉里",
-        "二宮桃",
-        "神坂朋子",
-        "星仲ここみ",
-        "深月芽衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-402"
-    },
-    {
-      "id": 63400,
-      "IDcode": "BOKO-025",
-      "title": "上京前夜 友達から恋人に変わる日 小野坂ゆいか 宇流木さらら 宇流木さららさんのパンティとチェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-06-26",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "小野坂唯香",
-        "宇流木沙羅"
+        "ナイアガラ翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKO-025"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-932"
     },
     {
-      "id": 4356,
-      "IDcode": "AKDL-331",
-      "title": "全包緊身衣 閃亮連體衣＆絲襪陪你對視一起爽到爆 ~ 小野坂唯香",
+      "id": 68983,
+      "IDcode": "MEYD-992",
+      "title": "小野坂ゆいかレズ解禁 夜勤ナース妻レズビアンNTR AM000女だけの深夜病棟に鳴り響く卑猥なナースコール 小野坂ゆいか 波多野結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2025-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716083319918918_13754_thumbnail.webp",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/02/68145ee5c57e2706695c326c/cover.jpg",
+      "actress": [
+        "波多野结衣",
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-992"
+    },
+    {
+      "id": 66606,
+      "IDcode": "SVGAL-018",
+      "title": "童貞チ●ポにロックオン！ デカ尻お姉ちゃんに誘惑されて中出しし放題 気持ちよすぎる夢のような筆下ろし 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ChuChuGirl",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dea58c92318f97d525259/cover.jpg",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-331"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVGAL-018"
     },
     {
       "id": 63661,
@@ -351,10 +216,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-24",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/9226dc3b/vod.jpg",
       "actress": [
         "小坂ひまり",
         "小野坂唯香",
@@ -373,10 +238,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-24",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250713/rmK1W7oL/1.jpg",
       "actress": [
         "小野坂唯香",
         "花里明理",
@@ -389,50 +254,434 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-228"
     },
     {
-      "id": 5029,
-      "IDcode": "HALT-065",
-      "title": "濕熱黑絲襪的挑逗香氣 殘業時用悶騷黑絲勾引同事 大屁股巨乳保險小姐姐騎乘猛幹 ~ 小野坂唯香",
+      "id": 63400,
+      "IDcode": "BOKO-025",
+      "title": "上京前夜 友達から恋人に変わる日 小野坂ゆいか 宇流木さらら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210649121010_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab64375f03a092cf718505/cover.jpg",
       "actress": [
         "小野坂唯香",
-        "タイ"
+        "宇流木沙羅"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOKO-025"
     },
     {
-      "id": 5166,
-      "IDcode": "ROYD-252",
-      "title": "被鄰居侵犯後性慾爆發，巨乳人妻一次次被射滿，汗如雨下沉迷肉慾 ~ 小野坂唯香",
+      "id": 61002,
+      "IDcode": "CRNX-235",
+      "title": "自慢のご奉仕メイドと杭打ち騎乗位SEX 小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROYAL",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747536536_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRNX-235"
+    },
+    {
+      "id": 60848,
+      "IDcode": "MADV-600",
+      "title": "競泳水着NTR 黒髪巨乳な隣人美女のハイレグ姿にフル勃起 結婚しているにも関わらず濃厚SEXで何度もイカされちゃいました 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADV-600"
+    },
+    {
+      "id": 60280,
+      "IDcode": "FTHTD-137",
+      "title": "地味な隠れデカパイ新人看護師は押しに弱くてセクハラを断れないドＭちゃん。ています",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO TUBE",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-137"
+    },
+    {
+      "id": 60096,
+      "IDcode": "CRNX-245",
+      "title": "単身赴任男を際どい水着で寝取りました… 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CRNX-245"
+    },
+    {
+      "id": 13560,
+      "IDcode": "IPZZ-336",
+      "title": "调教性交三本番-小野坂唯香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240801-1/a067b11ba0c85fd86eae81ceeb61c25f.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-336"
+    },
+    {
+      "id": 12817,
+      "IDcode": "IPZZ-359",
+      "title": "我的肉奴寵，肉欲旺盛，早泄，受虐狂。現在，正是繁殖期。~ 小野阪唯香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678963a35d57b64bfd9bcfdc/cover.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-359"
+    },
+    {
+      "id": 11528,
+      "IDcode": "IPZZ-401",
+      "title": "小姐你是第一個來的看護-小野坂唯香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/6080d3be60729e131f39023252aba264.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-401"
+    },
+    {
+      "id": 10790,
+      "IDcode": "IPZZ-421",
+      "title": "法学部の大学生は美人家政婦の大きいスケベ尻を犯してしまいました。 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/c0b87ccd21bc9b650c6899aa59f8f866.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-421"
+    },
+    {
+      "id": 8894,
+      "IDcode": "SHF-005",
+      "title": "最好的情妇和最好的中出性交-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/7790d6ec-a6c3-4360-9e8f-abfc28e927a9.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHF-005"
+    },
+    {
+      "id": 8187,
+      "IDcode": "PPPE-306",
+      "title": "女友的姊姊是巨乳中出OK誘惑我-小野坂唯香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OPPAI",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8e622cf22ae3e04db538e/cover.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-306"
+    },
+    {
+      "id": 7858,
+      "IDcode": "NPJS-142",
+      "title": "发送爱情活动赚了5亿-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072212861861.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-142"
+    },
+    {
+      "id": 7694,
+      "IDcode": "VEC-687",
+      "title": "带我一起打工的漂亮已婚女人-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250307/8b38cdfa-a51d-4339-af2f-876029c21617.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-687"
+    },
+    {
+      "id": 7194,
+      "IDcode": "NPJS-165",
+      "title": "我想和某个高档酒廊里最火辣的女孩做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083107243243.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-165"
+    },
+    {
+      "id": 7005,
+      "IDcode": "NGOD-257",
+      "title": "マッスル回春サロンに堕ちた妻 マッチョな男達の筋肉とデカチンでたっぷりねっとり愛撫され続けた妻 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250405/b570cfb7-31c3-46b4-a95d-462d921aa834.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-257"
+    },
+    {
+      "id": 6621,
+      "IDcode": "PFES-094",
+      "title": "邻居房间的暴露狂大姐姐以无比淫荡的性感内衣姿势-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205314137137_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-094"
+    },
+    {
+      "id": 6620,
+      "IDcode": "PFES-093",
+      "title": "一个巨乳女内衣店员来我家-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205421320320_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-093"
+    },
+    {
+      "id": 6580,
+      "IDcode": "ARSO-25193",
+      "title": "舞ワイフ～セレブ倶楽部 193",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROUND",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/c2dead84/vod.jpg",
       "actress": [
         "小野坂唯香",
-        "青木りょう"
+        "葉月まゆ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25193"
+    },
+    {
+      "id": 6494,
+      "IDcode": "MIAB-481",
+      "title": "「パンツで擦るだけならSEXじゃないよ」布越し3秒の攻防！おせっかいな姉のヤリすぎ種搾りプレスで童貞奪われ何度も敗北射精させられたボク（弟）！ 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/ba8fc05eaff7fd1b200370311a4ed80b.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-481"
+    },
+    {
+      "id": 6493,
+      "IDcode": "WAAA-500",
+      "title": "巨乳妻子费洛蒙的汗流浃背婚外恋交配",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501045258362362_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-500"
+    },
+    {
+      "id": 6458,
+      "IDcode": "VOD-041",
+      "title": "已婚妇女中出温泉外遇之旅-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044749511511_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-041"
+    },
+    {
+      "id": 6428,
+      "IDcode": "NPJS-157",
+      "title": "タダマンの品格 関係が切れた元セフレに蘇りの呪文（ザ●ラル）メール！返信が来た欲求不満な人妻とヤリまくる！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044952149149_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-157"
+    },
+    {
+      "id": 6190,
+      "IDcode": "SMJD-006",
+      "title": "街で見かけた焼肉屋店員 ゆいかさん 22歳 出会って即ハメした働く女性とセフレ関係になって中出ししまくった記録",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/20250512091842186186_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMJD-006"
+    },
+    {
+      "id": 6058,
+      "IDcode": "KSBJ-379",
+      "title": "被公公玩弄一周-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517110606830830_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-379"
+    },
+    {
+      "id": 6057,
+      "IDcode": "PKPD-368",
+      "title": "素人性愛友人記錄：高挑SSS風格H杯美人師Yuika（22）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250524-1/d51b7006dfc45155389b4c08af850f86.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-368"
+    },
+    {
+      "id": 5938,
+      "IDcode": "DANDY-982",
+      "title": "内緒でエグい接客してくれた美人CAをホテルに誘って生ハメしたら何度も求めるヤリマンだったVOL.5",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014501304304_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-982"
     },
     {
       "id": 5336,
       "IDcode": "MIAB-501",
-      "title": "高身長・美巨乳 社團裏唯一的妹子灌醉後 汗・涎・潮 汁水潮噴串刺輪奸 ~ 小野阪唯香",
+      "title": "高身長・美巨乳・彼氏持ちサークル紅一点の女子を酒でドロドロに酔い潰して 汗・涎・潮まみれ体液ドバドバ串刺し輪●レ×プ 小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062111532532_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/18/0e95199b3ddc4229021856543d58d160.jpg",
       "actress": [
         "小野坂唯香",
         "いち",
@@ -443,295 +692,502 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-501"
     },
     {
-      "id": 66606,
-      "IDcode": "SVGAL-018",
-      "title": "童貞チ●ポにロックオン！デカ尻お姉ちゃんに誘惑されて中出しし放題気持ちよすぎる夢のような筆下ろし小野坂ゆいか",
+      "id": 5166,
+      "IDcode": "ROYD-252",
+      "title": "性欲超强的妻子被邻居强奸一次之后被他的大鸡巴深深折服-小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ChuChuGirl",
-      "publish_date": "2025-06-12",
-      "cover_url": "",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVGAL-018"
-    },
-    {
-      "id": 5938,
-      "IDcode": "DANDY-982",
-      "title": "偷偷提供超勁爆服務的美豔空姐被我帶到酒店開房，瘋狂索求的騷貨VOL.5 ~ 小野阪唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DANDY",
-      "publish_date": "2025-05-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014501304304_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-982"
-    },
-    {
-      "id": 6494,
-      "IDcode": "MIAB-481",
-      "title": "隔著內褲磨磨不算上床啦 3秒極限挑逗 愛管閒事的姐姐用大屁股榨汁奪走我的童貞還讓我連敗射爆 ~ 小野坂唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044514420420_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-481"
-    },
-    {
-      "id": 6493,
-      "IDcode": "WAAA-500",
-      "title": "欲火焚身巨乳人妻出軌狂歡 大屌狂頂到高潮滿身香汗 ~ 小野阪唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WANZ FACTORY",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501045258362362_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-500"
-    },
-    {
-      "id": 6458,
-      "IDcode": "VOD-041",
-      "title": "人妻溫泉偷情之旅：瞞著老公瘋狂輸出的壹泊貳日禁忌紀錄 ~ 小野坂唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044749511511_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-041"
-    },
-    {
-      "id": 6428,
-      "IDcode": "NPJS-157",
-      "title": "免費炮的尊嚴：給前炮友發復活咒語郵件，欲求不滿的人妻秒回瘋狂開戰 ~ 小野阪ゆいか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044952149149_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-157"
-    },
-    {
-      "id": 6621,
-      "IDcode": "PFES-094",
-      "title": "男人根本拒絕不了！對面房間的暴露狂小姐姐穿着超色情內衣勾引中年大叔 ~ 小野阪唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205314137137_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-094"
-    },
-    {
-      "id": 6620,
-      "IDcode": "PFES-093",
-      "title": "老婆跑路後，巨乳內衣推銷妹上門被我發泄調教成肉便器 ~ 小野阪唯香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205421320320_thumbnail.webp",
-      "actress": [
-        "小野坂唯香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-093"
-    },
-    {
-      "id": 6580,
-      "IDcode": "ARSO-25193",
-      "title": "優雅人妻高級俱樂部 193 ~ 小野阪唯香 葉月まゆ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROUND",
-      "publish_date": "2025-04-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250426235921400400_thumbnail.webp",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747536536_thumbnail.webp",
       "actress": [
         "小野坂唯香",
-        "葉月まゆ"
+        "青木りょう"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-252"
     },
     {
-      "id": 68983,
-      "IDcode": "MEYD-992",
-      "title": "小野坂ゆいかレズ解禁 夜勤ナース妻レズビアンNTR AM0:00女だけの深夜病棟に鳴り響く卑猥なナースコール 小野坂ゆいか 波多野結衣",
+      "id": 5029,
+      "IDcode": "HALT-065",
+      "title": "濕熱黑絲襪的挑逗香氣 殘業時用悶騷黑絲勾引同事 大屁股巨乳保險小姐姐騎乘猛幹 ~ 小野坂唯香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-04-15",
-      "cover_url": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210649121010_thumbnail.webp",
       "actress": [
-        "波多野结衣",
+        "小野坂唯香",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-065"
+    },
+    {
+      "id": 4680,
+      "IDcode": "CEMD-706",
+      "title": "淚眼汪汪無間斷高潮狂歡58 ~ 小野坂唯香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705120144780780_thumbnail.webp",
+      "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-992"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-706"
     },
     {
-      "id": 69632,
-      "IDcode": "FOCS-242",
-      "title": "ゲリラ豪雨でズブ濡れ先輩の生々しく艶めかしいHカップに理性ぶっ飛びオス発動激突きSEX 小野坂ゆいか",
+      "id": 4617,
+      "IDcode": "HZGD-310",
+      "title": "親父の再婚相手が欲求不満でエロすぎて…淫語とパイズリでぼくを責めてくる爆乳の変態ママ 小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "人妻花園劇場",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083035370370_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-310"
+    },
+    {
+      "id": 4593,
+      "IDcode": "HUNTC-402",
+      "title": "ボクのチ○ポは大盛況で女子社員がお昼休みに大行列！2 女子だらけの会社に男は清掃員のボク1人！昼休みは順番待ちしてまでボクのチ○ポをハメに…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab7942edc101930b4b4d51/cover.jpg",
+      "actress": [
+        "小野坂唯香",
+        "愛瀬優里",
+        "足立友梨",
+        "岡本莉里",
+        "二宮桃",
+        "神坂朋子",
+        "星仲ここみ",
+        "深月芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-402"
+    },
+    {
+      "id": 4482,
+      "IDcode": "PPPE-355",
+      "title": "放学后在情侣酒店与由衣香多次内射-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OPPAI",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e863198bc99dfdd033568/cover.jpg",
+      "actress": [
+        "小野坂唯香",
+        "七尾神"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-355"
+    },
+    {
+      "id": 4356,
+      "IDcode": "AKDL-331",
+      "title": "【AKNRフェティシズム】 完全着衣 光沢レオタード＆パンスト君を見つめ合いながらヌイてあげるね 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716083319918918_13754_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-331"
+    },
+    {
+      "id": 4260,
+      "IDcode": "NSFS-401",
+      "title": "我的妻子变成了性玩偶-小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688e0b1a98bc99dfddfd6f6d/cover.jpg",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-401"
+    },
+    {
+      "id": 4091,
+      "IDcode": "CEAD-694",
+      "title": "ヤバイほど極限まで乱れ狂った「アヘ顔絶頂」オナニー Vol.3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718211703205205_42471_thumbnail.webp",
+      "actress": [
+        "北野未奈",
+        "宮城理惠",
+        "小野坂唯香",
+        "葉山小百合",
+        "夏川步美",
+        "吉泽友贵",
+        "藤咲紫",
+        "吹石玲奈",
+        "白木優子",
+        "竹内夏希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-694"
+    },
+    {
+      "id": 4016,
+      "IDcode": "AVSA-389",
+      "title": "顔面騎乘アナルクンニで舌先1cmずつズボズボ挿入！むれた尻穴ヒクつかせて杭打ち騎乘位で中出しへと導くデカ尻痴女ナースさん 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-04-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718210305318318_68212_thumbnail.webp",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-242"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-389"
     },
     {
-      "id": 7194,
-      "IDcode": "NPJS-165",
-      "title": "想跟某高級酒廊No.1的超正妹開幹 在高檔餐廳吃飯後酒店套房續攤，微醉甜蜜過夜中出性愛 ~ 小野阪唯香",
+      "id": 3921,
+      "IDcode": "DVEH-059",
+      "title": "隣人の大音量圧倒的デカ尻見せつけオナニー盗撮がバレたけど開き直ってみたらまさかの神展開 小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083107243243.jpg",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101128799799_16374_thumbnail.webp",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-059"
     },
     {
-      "id": 7694,
-      "IDcode": "VEC-687",
-      "title": "把打工處的美豔人妻帶回家中出 ~ 小野阪唯香",
+      "id": 3919,
+      "IDcode": "DVEH-058",
+      "title": "姉弟が青空の下で照れ照れ超濃密ベロキス体験ww 童貞弟のファーストキッスを奪っちゃった姉が濃厚接吻でミラクル発情",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250307/8b38cdfa-a51d-4339-af2f-876029c21617.jpg",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093950879879_35545_thumbnail.webp",
+      "actress": [
+        "美咲佳奈",
+        "小野坂唯香",
+        "湊波流",
+        "河北笑茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-058"
+    },
+    {
+      "id": 3907,
+      "IDcode": "DOCD-068",
+      "title": "バ先のしくじり人妻パートさんはいつもヘマばかりでクビ寸前！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/202507311011321717_41917_thumbnail.webp",
+      "actress": [
+        "水川潤",
+        "小野坂唯香",
+        "足立美緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-068"
+    },
+    {
+      "id": 3727,
+      "IDcode": "CEMD-719",
+      "title": "わたしは会社の『性欲処理担当』秘書4 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689db605c494560854389338/cover.jpg",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-687"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-719"
     },
     {
-      "id": 7858,
-      "IDcode": "NPJS-142",
-      "title": "通過直播做愛賺了5億日元！？那個情侶色情主播的16部色色視頻流出合集 ~ 小野阪唯香",
+      "id": 3691,
+      "IDcode": "EKDV-788",
+      "title": "黒髪ロングで色白ボディな美人メイドにニヤニヤが止まらない ボクのことを好き過ぎるご奉仕メイドとのなんともうらやましい日常。小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227072212861861.jpg",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013346228228_37103_thumbnail.webp",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-142"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKDV-788"
     },
     {
-      "id": 8187,
-      "IDcode": "PPPE-306",
-      "title": "女友的姐姐用她的巨乳和中出內射誘惑我 ~ 小野阪唯香",
+      "id": 3647,
+      "IDcode": "NGHJ-021",
+      "title": "白衣の天使が何度も射精させるほど高額賞金GET！連続射精チャレンジ！4名全員SEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213073602915915.jpg",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c556dcbf45974ea6db8b5b/cover.jpg",
+      "actress": [
+        "美咲佳奈",
+        "小野坂唯香",
+        "湊波流",
+        "河北笑茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-021"
+    },
+    {
+      "id": 3503,
+      "IDcode": "SOON-005",
+      "title": "いつでもどこでも人妻オナホ したがり温泉旅行 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032232336336_66496_thumbnail.webp",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOON-005"
     },
     {
-      "id": 8894,
-      "IDcode": "SHF-005",
-      "title": "最高的愛人，最高的中出性交 Vol.76",
+      "id": 3455,
+      "IDcode": "SDMM-207",
+      "title": "話題騒然のサウナミラー号第2弾 移動式サウナに男女2人きり？！の状況で何故かムクムクと膨らんでしまった勃起ち〇こに、気まずさと興奮で発汗効果MAX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-01-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/7790d6ec-a6c3-4360-9e8f-abfc28e927a9.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250819/20250819104244274274_36264_thumbnail.webp",
+      "actress": [
+        "前田美波",
+        "小野坂唯香",
+        "渡來楓",
+        "鈴芽由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-207"
+    },
+    {
+      "id": 3131,
+      "IDcode": "BF-744",
+      "title": "辣妹家庭教师-小野坂唯香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828040358662662_47907_thumbnail.webp",
       "actress": [
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHF-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-744"
     },
     {
-      "id": 69375,
-      "IDcode": "DVAJ-688",
-      "title": "- 【FANZA限定】拘束スローピストンでゆっくりチ○ポを抜き挿しされてイヤがる顔が次第にアヘアヘして中出し快楽堕ちする一部始終をじっくり観察されたJ●ちゃん 小野坂ゆいか パンティと生写真セット - JAV目錄大全javmenu.com",
+      "id": 2964,
+      "IDcode": "FFFS-066",
+      "title": "盗撮ドキュメントのすべて58 あり余る性欲が我慢できず年下に手を出した若妻編 結花さん・Hカップ・30歳・アソコが疼いてオナニーばかりの若妻 朱里さん・Dカップ・33歳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
+      "type": "",
+      "company": "卍GROUP",
       "publish_date": "",
       "cover_url": "",
       "actress": [
+        "皆瀨明里",
         "小野坂唯香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-688"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-066"
     },
     {
-      "id": 69355,
-      "IDcode": "NACR-932",
-      "title": "- 突然の豪雨でズブ濡れ… 帰れなくなった愛しの幼なじみ 小野坂ゆいか 生写真とパンティ付き - JAV目錄大全javmenu.com",
+      "id": 2917,
+      "IDcode": "NGOD-284",
+      "title": "人妻ホテルウーマン 理不尽なクレームで呼び出され宿泊客の傍若無人な巨根を強引にネジ込まれた妻 小野坂ゆいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "卍GROUP",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/images/2025/04/11/04f7679e3a7e7d75144b10571f883d45.jpg",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904045532868868_79050_thumbnail.webp",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-284"
+    },
+    {
+      "id": 2902,
+      "IDcode": "HSODA-085",
+      "title": "猥琐继父得到洗脑软件后继女变妓女-皆月ひかる 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c250dfa681bb640dc35993/cover.jpg",
+      "actress": [
+        "皆月光",
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-085"
+    },
+    {
+      "id": 2899,
+      "IDcode": "HUNTC-449",
+      "title": "だれとでも定額挿れ放題！挿れ放題ニュータウン 町ごと全部挿れ放題SP編 月々定額自治会費さえ支払えば町内のあらゆる場所",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025153547547_54671_thumbnail.webp",
       "actress": [
         "小野坂唯香",
-        "ナイアガラ翔"
+        "桐香悠裡",
+        "足立友梨",
+        "蘆名穗花",
+        "真白風羽里",
+        "高城なぎさ",
+        "廣瀬好美",
+        "神村彩月",
+        "紫月由香里",
+        "マサムー",
+        "ラビットけんと"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
+    },
+    {
+      "id": 2863,
+      "IDcode": "CEAD-701",
+      "title": "乳首オナニーでイク15人の女たち！Vol，4 ～フル勃起した乳頭を過剰に責めて乳首イキする真性ドスケベ女優たち！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906222206508508_66523_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "椿莉香",
+        "北野未奈",
+        "羽月乃蒼",
+        "九井珠奈緒",
+        "小野坂唯香",
+        "南條彩",
+        "葉山小百合",
+        "似鳥日菜",
+        "藤沢麗央",
+        "藤咲紫",
+        "月見若葉",
+        "天沢りん",
+        "櫻木湊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-701"
+    },
+    {
+      "id": 2570,
+      "IDcode": "DOCD-071",
+      "title": "部屋に連れ込んだ素人との隠し撮りSEX そのままAV発売 Vol.13",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小那海綾",
+        "小野坂唯香",
+        "河合陽菜",
+        "白浜美羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-071"
+    },
+    {
+      "id": 2486,
+      "IDcode": "HALT-069",
+      "title": "【個撮】 フェラなら撮らしてくれた！12 あ～んぐり口内射精10人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "水川潤",
+        "小野坂唯香",
+        "南條彩",
+        "葉山小百合",
+        "橘日向",
+        "澄河美花",
+        "花里明理",
+        "大原理央",
+        "御影れみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
+    },
+    {
+      "id": 2251,
+      "IDcode": "XVSR-840",
+      "title": "卑猥なデカ尻インストラクターの誘惑パーソナルトレーニング 小野坂ゆいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-840"
     }
   ]
 };

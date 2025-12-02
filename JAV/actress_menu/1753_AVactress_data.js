@@ -40,7 +40,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230408/8151e72b-8f52-4a87-a374-80da6a12947d.jpg",
     "https://picture.yoshiclub.xyz/20230408/eb92cbf8-7880-4c91-8b88-24f0e6561114.jpg"
   ],
-  "works_count": 15,
+  "works_count": 24,
   "related_dramas": [
     {
       "id": 82036,
@@ -49,7 +49,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-02-20",
       "cover_url": "",
@@ -60,32 +60,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-204"
     },
     {
-      "id": 76685,
-      "IDcode": "STARS-189",
-      "title": "洗腦契約書 高傲美人女社長是中出專用性欲處理奴隸 西野翔",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-01-23",
-      "cover_url": "",
-      "actress": [
-        "西野翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-189"
-    },
-    {
       "id": 75081,
       "IDcode": "STARS-173",
-      "title": "西野翔 ラストレズ",
+      "title": "要引退的西野翔如愿以偿和合得来的五位圈内女优拍摄久违的百合作",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-12-26",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f567937f2fbd8a4a4bd7f17e39c00aaf.jpg",
       "actress": [
         "宫泽千春",
         "古川伊織",
@@ -97,85 +81,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-173"
     },
     {
-      "id": 70088,
-      "IDcode": "STARS-159",
-      "title": "初体験の男の子にヤリ過ぎですよ西野さん！一回り年下の田舎の純情童貞君を筆下ろし4本番～ポツンと地方にいた童貞探し旅～ 西野翔",
+      "id": 97537,
+      "IDcode": "JBD-237",
+      "title": "プライド狩り 西野翔",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-11-21",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2019-04-07",
+      "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/21/67257_cover_2025-09-21_082644.jpg",
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-159"
-    },
-    {
-      "id": 69165,
-      "IDcode": "STARS-144",
-      "title": "西野翔 プライベート初盗撮！移籍イベントで宣言した禁欲生活を破り、まさかの中年オタクと1日中何度も絶倫SEXしていた一部始終を大公開！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-10-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/3fe12608317b24a00933f0e0efe60b50.jpg",
-      "actress": [
-        "西野翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-144"
-    },
-    {
-      "id": 73957,
-      "IDcode": "STARS-113",
-      "title": "陽は昇り陽は沈む 西野翔 SOD移籍 年内引退 15年間、第一線で活躍し続けてきたレジェンド女優 『今、何を思う…』裸のドキュメント",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-08-22",
-      "cover_url": "",
-      "actress": [
-        "西野翔",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-113"
-    },
-    {
-      "id": 107342,
-      "IDcode": "JUY-668",
-      "title": "僕が隣の痴女奥さんに様々な方法で射精管理され続けた一週間 西野翔",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2018-11-07",
-      "cover_url": "",
-      "actress": [
-        "西野翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-668"
-    },
-    {
-      "id": 71322,
-      "IDcode": "SHKD-810",
-      "title": "輪姦学校 西野翔",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-10-07",
-      "cover_url": "https://tutu1.space/images/2025/03/05/c611777c37d46eb5a24178a90edd3f99.jpg",
-      "actress": [
-        "西野翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-810"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-237"
     },
     {
       "id": 82394,
@@ -184,8 +103,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
+      "type": "",
+      "company": "",
       "publish_date": "2018-08-25",
       "cover_url": "",
       "actress": [
@@ -195,16 +114,161 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-563"
     },
     {
+      "id": 97723,
+      "IDcode": "SSPD-096",
+      "title": "女狐2 西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-03-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/sspd096/sspd096pl.jpg",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-096"
+    },
+    {
+      "id": 98285,
+      "IDcode": "ATID-207",
+      "title": "醫學博士，強暴的紀錄 豹變 西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2012-11-07",
+      "cover_url": "",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-207"
+    },
+    {
+      "id": 98178,
+      "IDcode": "RBD-403",
+      "title": "キャリアウーマン牝レイプ 食べ頃な獲物たち…3 西野翔 風間ゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2012-09-07",
+      "cover_url": "",
+      "actress": [
+        "風間由美",
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-403"
+    },
+    {
+      "id": 98498,
+      "IDcode": "ATID-200",
+      "title": "潜入捜査官、堕ちるまで… 西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2012-07-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid200/atid200pl.jpg",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-200"
+    },
+    {
+      "id": 103033,
+      "IDcode": "SHKD-403",
+      "title": "在老公的面前被侵犯- 小叔的欲望 西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-04-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd403/shkd403pl.jpg",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-403"
+    },
+    {
+      "id": 107342,
+      "IDcode": "JUY-668",
+      "title": "我被领居家太太色诱管理射精的一周",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250317-1/655208777ebbcd26bfee8f800c9e223d.jpg",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-668"
+    },
+    {
+      "id": 105670,
+      "IDcode": "RBD-564",
+      "title": "女教师西野翔性侍奉地狱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-564"
+    },
+    {
+      "id": 104683,
+      "IDcode": "RBD-678",
+      "title": "奴色-西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-678"
+    },
+    {
+      "id": 100948,
+      "IDcode": "ADN-001",
+      "title": "羞恥的性癖-西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-001"
+    },
+    {
       "id": 88032,
       "IDcode": "HND-541",
       "title": "禁欲女×絶倫男ナマで覚醒！本能剥き出し真正中出し解禁！！ 西野翔",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2018-07-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/95e9502c65b99a2ee3133251858b0e30.jpg",
       "actress": [
         "西野翔",
         "大岛丈"
@@ -218,26 +282,60 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-05-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678359d3f9a2e9b1d486c3ec/cover.jpg",
       "actress": [
         "西野翔"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-431"
     },
     {
-      "id": 76901,
-      "IDcode": "JUY-183",
-      "title": "あの人だけと誓ったのに…。～夫への後ろめたさに濡れる肉体～ 西野翔",
+      "id": 82295,
+      "IDcode": "DASD-440",
+      "title": "人妻健身教练西野翔健身房的巨大屁股诱惑",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2017-06-13",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "西野翔",
+        "小田切ジュン",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-440"
+    },
+    {
+      "id": 78960,
+      "IDcode": "MIDD-734",
+      "title": "在街角逆搭讪-西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/09/16/5cc814940baa8869bc633c4a55125257.jpg",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-734"
+    },
+    {
+      "id": 76901,
+      "IDcode": "JUY-183",
+      "title": "我美丽的妻子西野翔被我招募的新员工征服了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20241113-1/eaafed62a37aa578275bd13860831624.jpg",
       "actress": [
         "西野翔",
         "イセドン内村"
@@ -245,52 +343,101 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-183"
     },
     {
-      "id": 104683,
-      "IDcode": "RBD-678",
-      "title": "奴隷色のステージ27 西野翔",
+      "id": 76685,
+      "IDcode": "STARS-189",
+      "title": "傲慢美女部长-西野翔",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2015-05-07",
-      "cover_url": "https://tutu1.space/images/2024/06/29/f5b17330c8b4601165fd80f5adf91fd7.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c0bd5710d52fcde647201a9883871e89.jpg",
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-678"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-189"
     },
     {
-      "id": 100948,
-      "IDcode": "ADN-001",
-      "title": "夫には言えない羞恥の性癖 西野翔",
+      "id": 73957,
+      "IDcode": "STARS-113",
+      "title": "业界老将西野翔的AV引退纪录片",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2013-11-07",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/f1138321443bb06c66b30d4f4472ef0a.jpg",
+      "actress": [
+        "西野翔",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-113"
+    },
+    {
+      "id": 72157,
+      "IDcode": "ATID-338",
+      "title": "吐息をこらえて犯されて-西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/49533e1e5ebbbeb4fdcd858cac7d1458.jpg",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-338"
+    },
+    {
+      "id": 71322,
+      "IDcode": "SHKD-810",
+      "title": "被轮奸的女教师西野翔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-810"
     },
     {
-      "id": 78960,
-      "IDcode": "MIDD-734",
-      "title": "- 西野翔が街角で逆ナンパしてお持ち帰り、即SEX！！ - JAV目錄大全javmenu.com",
+      "id": 70088,
+      "IDcode": "STARS-159",
+      "title": "初体験の男の子にヤリ過ぎですよ西野さん！一回り年下の田舎の純情童貞君を筆下ろし4本番～ポツンと地方にいた童貞探し旅～ 西野翔",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "SOD",
       "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/317d48fb0053c1fd089250efbcda7b29.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7d2afe11d780c9069eef6e6fc6e5e723.jpg",
       "actress": [
         "西野翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-734"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-159"
+    },
+    {
+      "id": 69165,
+      "IDcode": "STARS-144",
+      "title": "快要引退的西野翔发出禁欲宣言后派出男优假扮漫画家和她搭讪拍下她偷偷做爱的视频",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/277b7e14c3d5b1380e9253fb8ae2cd13.jpg",
+      "actress": [
+        "西野翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-144"
     }
   ]
 };

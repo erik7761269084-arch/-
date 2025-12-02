@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 106741,
       "IDcode": "ABP-062",
-      "title": "藤井愛紗來伺候您 超最新有特別服務的美體沙龍",
+      "title": "令人上瘾的美学-藤井あいさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2013-10-22",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/04/27/206591b744ba13a755b801b5d24fdee5.jpg",
       "actress": [
         "田渊正浩",
         "藤井あいさ"

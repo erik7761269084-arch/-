@@ -35,72 +35,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250109/ca83a753-3dcd-4aab-8155-6bcbf14f1de7.jpg",
     "https://picture.yoshiclub.xyz/20250109/fb145558-f9e2-433d-a8b8-edb89c9ee378.jpg"
   ],
-  "works_count": 11,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 60554,
-      "IDcode": "MESU-135",
-      "title": "メンズエステ始めました 自宅で始めた母の仕事が気になり客に変装、巨乳母は自分の息子だと知らずオッパイ押しつけマッサージとベロキス乳首責めで勃起したチンポを逃さない搾精騎乗位で何度もイカされたボク 若菜れいか",
+      "id": 67212,
+      "IDcode": "HTHD-228",
+      "title": "我朋友的妈妈-若菜れいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-08-21",
-      "cover_url": "",
-      "actress": [
-        "若菜れいか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-135"
-    },
-    {
-      "id": 3923,
-      "IDcode": "VENX-332",
-      "title": "阿姨的內褲讓你這麼亢奮？剛脫下的小內內榨乾侄子每一滴精華 ~ 若菜れいか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/202507311014287171_16418_thumbnail.webp",
-      "actress": [
-        "若菜れいか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-332"
-    },
-    {
-      "id": 4344,
-      "IDcode": "EUUD-070",
-      "title": "敏感熟女身體抽搐高潮狂噴！失禁放尿潮吹不停的極致性愛 ~ 若菜れいか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-07-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716214148455455_61709_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-070"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-228"
     },
     {
-      "id": 62435,
-      "IDcode": "VEMA-238",
-      "title": "美人女教師の彼女はクラスの担任で部活の顧問でボクの恋人～年上彼女と朝から晩まで禁断情熱中出しSEX～ 若菜れいか （BOD）",
+      "id": 63851,
+      "IDcode": "FERA-197",
+      "title": "成為性愛練習台的媽媽-若菜玲香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-07-01",
-      "cover_url": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/68932939c92318f97d880dc5/cover.jpg",
       "actress": [
-        "若菜れいか",
-        "タツ"
+        "若菜れいか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-238"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-197"
     },
     {
       "id": 62772,
@@ -109,9 +76,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-06-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "若菜れいか"
@@ -119,80 +86,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-199"
     },
     {
-      "id": 5640,
-      "IDcode": "VENX-323",
-      "title": "被無 bra 巨乳阿姨撩到受不了直接中出啦 ~ 若菜玲花",
+      "id": 62435,
+      "IDcode": "VEMA-238",
+      "title": "我的美女老师是我的班主任-若菜れいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175615627627_thumbnail.webp",
-      "actress": [
-        "若菜れいか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-323"
-    },
-    {
-      "id": 63851,
-      "IDcode": "FERA-197",
-      "title": "セックスの練習台になってくれた母 母親とのセックスが良すぎるせいで彼女と別れた僕は夢中で何度も中出ししまくった 若菜れいか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2025-05-22",
+      "publish_date": "",
       "cover_url": "",
-      "actress": [
-        "若菜れいか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-197"
-    },
-    {
-      "id": 6439,
-      "IDcode": "VENX-318",
-      "title": "心是家人身是陌生人的微妙關係，義母與繼子的獨處一週怎能不犯錯 ~ 若菜蕾花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501045226984984_thumbnail.webp",
       "actress": [
         "若菜れいか",
-        "ロダン富士"
+        "タツ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEMA-238"
     },
     {
-      "id": 67212,
-      "IDcode": "HTHD-228",
-      "title": "友達の母親～最終章～ 若菜れいか",
+      "id": 60554,
+      "IDcode": "MESU-135",
+      "title": "母亲在家开男士美容院-若菜れいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-04-17",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MESU-135"
+    },
+    {
+      "id": 9298,
+      "IDcode": "JRZE-226",
+      "title": "第一张照片已婚妇女纪录片-若菜れいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250209-1/0491067f7ec7560b1b416bf15fd6c1e7.jpg",
+      "actress": [
+        "若菜れいか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-226"
     },
     {
       "id": 6997,
       "IDcode": "VEC-695",
-      "title": "每天自慰的隔壁色人妻讓我忍無可忍——理性崩飛欲火難抑的濃密狂喜性交 ~ 若菜れいか",
+      "title": "毎日オナニーする隣のエロい人妻に我慢の限界―。理性が吹き飛び欲情が止まらない濃密エクスタシー性交 若菜れいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-04-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250406/c3b1a40f-ec77-4ac4-a645-6da028e36ec6.jpg",
       "actress": [
         "若菜れいか"
@@ -200,20 +151,85 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-695"
     },
     {
-      "id": 9298,
-      "IDcode": "JRZE-226",
-      "title": "新人報到！初撮人妻 ~ 若菜れいか",
+      "id": 6439,
+      "IDcode": "VENX-318",
+      "title": "与继母单独相处的一周-若菜れいか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/48b20dae-e93f-4a6a-81d2-3c08ae156822.jpg",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e645e98bc99dfdd032874/cover.jpg",
+      "actress": [
+        "若菜れいか",
+        "ロダン富士"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-318"
+    },
+    {
+      "id": 5640,
+      "IDcode": "VENX-323",
+      "title": "我被迫在我那丰满的无胸罩阿姨体内射精-若菜れいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175615627627_thumbnail.webp",
       "actress": [
         "若菜れいか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-226"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-323"
+    },
+    {
+      "id": 4344,
+      "IDcode": "EUUD-070",
+      "title": "敏感熟ボディ痙攣絶頂！！大量失禁＆放尿＆イキ潮＆ハメ潮オルガズム超セックス 若菜れいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716214148455455_61709_thumbnail.webp",
+      "actress": [
+        "若菜れいか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-070"
+    },
+    {
+      "id": 3923,
+      "IDcode": "VENX-332",
+      "title": "你对我阿姨的内裤感到兴奋吗-若菜れいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/202507311014287171_16418_thumbnail.webp",
+      "actress": [
+        "若菜れいか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-332"
+    },
+    {
+      "id": 2261,
+      "IDcode": "GVH-783",
+      "title": "母子姦 若菜れいか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "若菜れいか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-783"
     }
   ]
 };

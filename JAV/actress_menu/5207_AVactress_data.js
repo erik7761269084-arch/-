@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ゆりあ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 82956,
       "IDcode": "ARA-418",
-      "title": "【超絶カワイイ】21歳【貧乏タレント】ゆりあちゃん参上！地方のローカルタレントの応募理由は『タレントで稼げないので…助けてください(恥)』脱ボンビーのためにひと肌脱ぎます！【スレンダーボディ】&amp;【感度抜群パイパン】激イキ連発であまりの気持ちよさに失神SEX見逃すな！",
+      "title": "超萌21岁穷才Yuria酱来了申请本地本地人才的原因是我不能用人才赚钱请帮帮我羞耻纤细的身体",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250402-1/ffce7fbf33e1c484aaf3055d5c56dfc4.jpg",
       "actress": [
         "大原结莉",
         "ゆりあ"

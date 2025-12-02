@@ -30,91 +30,106 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240628/24bdd887-15ed-4728-9d5b-b7568e4807ec.jpg"
   ],
-  "works_count": 6,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 2903,
-      "IDcode": "HUNTC-455",
-      "title": "高密度焦點式顏面騎乘按摩，調理自律神經就是這麼爽 ~ 小鬆杏 西尾真裏奈 園田ひなの 瀧川蓳",
+      "id": 7648,
+      "IDcode": "NGHJ-003",
+      "title": "純真可愛素人妹挑戰超色任務：讓處男射出30毫升精液贏百萬！羞澀榨精中發情 奇跡生插初體驗連射中出狂歡 ~ 西尾真裏奈 鬆下莉子 四乃宮もも 星乃蓳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904035143743743_66018_thumbnail.webp",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250310/c1b8af74-b5f7-40a7-8473-c829bd369215.jpg",
       "actress": [
-        "小松杏",
         "西尾真里奈",
-        "瀧川蓳",
-        "園田ひなの"
+        "松下莉子",
+        "四乃宮桃",
+        "星乃蓳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-455"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-003"
     },
     {
-      "id": 2894,
-      "IDcode": "HSODA-091",
-      "title": "時間靜止健身房！神器操控時間想插就插想停就停 ~ 小鬆杏 西尾真裏奈 園田ひなの 花衣つばき 瀧川蓳 若宮葉月",
+      "id": 8494,
+      "IDcode": "DOCD-046",
+      "title": "街頭素人論破！街頭對情侶的高額賞金挑戰.... 大師把他巨大的雞巴對準女友的肉穴狠狠插進去了！ ~ 沙つむぐ 西尾真裏奈 桃咲乃亞 小鳥遊りか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021835533533_35496_thumbnail.webp",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-02-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250207/4a179dd3-8d59-42fe-b88a-1be31a8fde8f.jpg",
       "actress": [
-        "若宮葉月",
-        "小松杏",
-        "花衣つばき",
         "西尾真里奈",
-        "瀧川蓳",
-        "園田ひなの",
-        "トイボーイ相沢"
+        "桃咲乃亞",
+        "沙つむぐ",
+        "小鳥遊りか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-046"
     },
     {
-      "id": 7962,
-      "IDcode": "SAN-319",
-      "title": "當熟練的AD成爲AV監督 ~ 西尾真裏奈",
+      "id": 13709,
+      "IDcode": "MIFD-497",
+      "title": "新人出道！漂亮女孩，黑發光滑白膚，第一次感覺很好，尋找更愉快的性愛...... AV 首次亮相 ~ 西尾真裏奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250225/db5a3ba5-2718-48ea-b392-b8c59e931ba0.jpg",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2024-07-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628002155190190.jpg",
       "actress": [
         "西尾真里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-319"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-497"
     },
     {
-      "id": 8358,
-      "IDcode": "VEC-683",
-      "title": "把一起打工的漂亮人妻帶回家操 ~ 西尾真裏奈",
+      "id": 59882,
+      "IDcode": "MBDD-2155",
+      "title": "聖白書～まりなに恋して西尾まりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250210/7b1c8e12-9417-40c7-8177-6ddbe991b261.jpg",
+      "type": "",
+      "company": "M.B.D",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "西尾真里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2155"
+    },
+    {
+      "id": 13017,
+      "IDcode": "MIFD-512",
+      "title": "色情汁液飞溅和抽搐的高潮-西尾まりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678964ca5d57b64bfd9bcfe3/cover.jpg",
+      "actress": [
+        "西尾真里奈",
+        "鲛岛",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-512"
     },
     {
       "id": 9003,
       "IDcode": "DVMM-192",
-      "title": "美腳CA腳出本色出演 街中MM便15周年！顏出解禁！動車女服最高峯！大手航空公社初公開編 8人全員SEX ~ 西尾真裏奈 愛葉陽葵 靜河 稲森美憂 鈴音まゆ 朝陽伊都",
+      "title": "大手航空会社のキャビンアテンダント 初めての公開ディープキス編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071223830830.jpg",
       "actress": [
         "静河",
@@ -127,20 +142,147 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
     },
     {
-      "id": 59882,
-      "IDcode": "MBDD-2155",
-      "title": "- 聖白書～まりなに恋して/西尾まりな チェキ付き - JAV目錄大全javmenu.com",
+      "id": 8358,
+      "IDcode": "VEC-683",
+      "title": "バイト先で働く美しい人妻を家に連れ込み中出しセックス 西尾まりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "M.B.D",
+      "type": "",
+      "company": "VENUS",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/4e05046e/vod.jpg",
+      "cover_url": "https://picture.yoshiclub.xyz/20250210/7b1c8e12-9417-40c7-8177-6ddbe991b261.jpg",
       "actress": [
         "西尾真里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MBDD-2155"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-683"
+    },
+    {
+      "id": 8195,
+      "IDcode": "DVMM-206",
+      "title": "陸上部の女子大生がズラ～ッと横に並んだチ○ポ10本をガニ股騎乗位で連続即ヌキに大挑戦！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250217/2bb55d76-7fc0-4dfa-bef2-20e39d8b0e98.jpg",
+      "actress": [
+        "木野野葉惠里香",
+        "西尾真里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-206"
+    },
+    {
+      "id": 7962,
+      "IDcode": "SAN-319",
+      "title": "仕事のできるADがAV監督になったら 西尾まりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbb016ce5a404e9bc0995d/cover.jpg",
+      "actress": [
+        "西尾真里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-319"
+    },
+    {
+      "id": 7720,
+      "IDcode": "VENX-314",
+      "title": "心は家族でも体は他人の微妙な関係―。過ちが起こらないはずがない義理の母親と二人だけの1週間 西尾まりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a71b76affba992c0f8583e/cover.jpg",
+      "actress": [
+        "西尾真里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-314"
+    },
+    {
+      "id": 3520,
+      "IDcode": "MFCD-021",
+      "title": "MOON FORCE ぱこぱこしろうとコレクション。 vol.21",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040429465465_67557_thumbnail.webp",
+      "actress": [
+        "椿莉香",
+        "春陽萌花",
+        "夢莉梨花",
+        "西尾真里奈",
+        "椎名琪琪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCD-021"
+    },
+    {
+      "id": 2903,
+      "IDcode": "HUNTC-455",
+      "title": "とボクの顔に跨り施術するエステティシャン！更にそのまま鼠径部なんてやられたら、自律神経とリンパが整い過ぎてバキバキフル勃起！そしたら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904035143743743_66018_thumbnail.webp",
+      "actress": [
+        "小松杏",
+        "西尾真里奈",
+        "瀧川蓳",
+        "園田ひなの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-455"
+    },
+    {
+      "id": 2894,
+      "IDcode": "HSODA-091",
+      "title": "時間停止ジム。時間を止める事ができる神装置で好きな時に挿れたり、止めたりし放題。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdcc66ce3e366423d34075/cover.jpg",
+      "actress": [
+        "若宮葉月",
+        "小松杏",
+        "花衣つばき",
+        "西尾真里奈",
+        "瀧川蓳",
+        "園田ひなの",
+        "トイボーイ相沢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-091"
+    },
+    {
+      "id": 2475,
+      "IDcode": "HNTRZ-022",
+      "title": "随便找了个像前女友的女孩交往结果竟然是她亲妹妹-西野絵美 西尾まりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西野絵美",
+        "西尾真里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTRZ-022"
     }
   ]
 };

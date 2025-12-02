@@ -43,15 +43,106 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 6407,
-      "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "id": 75079,
+      "IDcode": "KSBJ-073",
+      "title": "はだかの奥様 総集編VOL.4",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "2020-03-19",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/ccca6031f4d1533d0535fb29cdfcbbc1.jpg",
+      "actress": [
+        "推川悠里",
+        "七草千歲",
+        "黒木あおい",
+        "篠田优",
+        "枢木美栞",
+        "城月あやね"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-073"
+    },
+    {
+      "id": 83875,
+      "IDcode": "UMSO-310",
+      "title": "（Iカップ）以上限定！神乳お姉さんのド迫力セックス10人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2020-03-13",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/1018e21f576acb7d869164bd55b9afb3.jpg",
+      "actress": [
+        "真木今日子",
+        "小早川怜子",
+        "七草千歲",
+        "塚田詩織",
+        "羽生ありさ",
+        "寺島志保",
+        "黒木あおい",
+        "响りん",
+        "岛津かおる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-310"
+    },
+    {
+      "id": 83706,
+      "IDcode": "NACX-048",
+      "title": "ピストンするたび豊満ボディが踊り暴れる！爆乳熟女に中出し20人VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-03-01",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/6cfa20255660ae4a8594e07510fd57f9.jpg",
+      "actress": [
+        "春菜华",
+        "彩奈莉娜",
+        "羽生ありさ",
+        "黒木あおい",
+        "上岛美都子",
+        "今藤雾子",
+        "成泽ひなみ",
+        "岸谷すみれ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-048"
+    },
+    {
+      "id": 83711,
+      "IDcode": "NASH-243",
+      "title": "Iカップ以上限定！超乳熟女のド迫力セックス10人4時間 VOL.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-02-28",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/88388163981aab2f9fc9f742a8cf3198.jpg",
+      "actress": [
+        "七草千歲",
+        "塚田詩織",
+        "春菜华",
+        "羽生ありさ",
+        "寺島志保",
+        "黒木あおい",
+        "响りん",
+        "岛津かおる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-243"
+    },
+    {
+      "id": 6407,
+      "IDcode": "KSBJ-378",
+      "title": "巨尻熟女ベストセレクション52人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -101,97 +192,6 @@ window.actressData = {
         "响りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
-    },
-    {
-      "id": 75079,
-      "IDcode": "KSBJ-073",
-      "title": "はだかの奥様 総集編VOL.4",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2020-03-19",
-      "cover_url": "",
-      "actress": [
-        "推川悠里",
-        "七草千歲",
-        "黒木あおい",
-        "篠田优",
-        "枢木美栞",
-        "城月あやね"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-073"
-    },
-    {
-      "id": 83875,
-      "IDcode": "UMSO-310",
-      "title": "（Iカップ）以上限定！神乳お姉さんのド迫力セックス10人VOL.02",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2020-03-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/1018e21f576acb7d869164bd55b9afb3.jpg",
-      "actress": [
-        "真木今日子",
-        "小早川怜子",
-        "七草千歲",
-        "塚田詩織",
-        "羽生ありさ",
-        "寺島志保",
-        "黒木あおい",
-        "响りん",
-        "岛津かおる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-310"
-    },
-    {
-      "id": 83706,
-      "IDcode": "NACX-048",
-      "title": "ピストンするたび豊満ボディが踊り暴れる！爆乳熟女に中出し20人VOL.02",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2020-03-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/6cfa20255660ae4a8594e07510fd57f9.jpg",
-      "actress": [
-        "春菜华",
-        "彩奈莉娜",
-        "羽生ありさ",
-        "黒木あおい",
-        "上岛美都子",
-        "今藤雾子",
-        "成泽ひなみ",
-        "岸谷すみれ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-048"
-    },
-    {
-      "id": 83711,
-      "IDcode": "NASH-243",
-      "title": "Iカップ以上限定！超乳熟女のド迫力セックス10人4時間 VOL.02",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221230-1/88388163981aab2f9fc9f742a8cf3198.jpg",
-      "actress": [
-        "七草千歲",
-        "塚田詩織",
-        "春菜华",
-        "羽生ありさ",
-        "寺島志保",
-        "黒木あおい",
-        "响りん",
-        "岛津かおる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-243"
     }
   ]
 };

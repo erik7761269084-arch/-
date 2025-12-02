@@ -66,13 +66,13 @@ window.actressData = {
     {
       "id": 17789,
       "IDcode": "XMOM-064",
-      "title": "懷孕中出妻子 Yukana Miyano",
+      "title": "怀孕中被中出的人妻-宫野由佳奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-11-16",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116095958312312.jpg",
       "actress": [
         "宮野由佳奈",

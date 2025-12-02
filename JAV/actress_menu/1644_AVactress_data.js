@@ -34,22 +34,20 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 75556,
-      "IDcode": "SIS-107",
-      "title": "弟の勃起チ●ポ目撃！禁断妄想してオナニーしちゃったお姉ちゃんが悪かったよぉ～！",
+      "id": 88444,
+      "IDcode": "JUY-797",
+      "title": "中出倒数计时。 星咲舞香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20240928-1/7df48ffe50d264a34d83991075d1cb01.jpg",
       "actress": [
-        "今井栞菜",
-        "小田切ありさ",
-        "椎名ほのか"
+        "小田切ありさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-797"
     },
     {
       "id": 77278,
@@ -58,10 +56,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/46b199260cac88ae31a86191f78fc497.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "仓多真央",
         "植村恵名",
@@ -71,16 +69,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-048"
     },
     {
+      "id": 75556,
+      "IDcode": "SIS-107",
+      "title": "弟の勃起チ●ポ目撃！禁断妄想してオナニーしちゃったお姉ちゃんが悪かったよぉ～！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8369cc5dccd3e5f9a2c1d0eafea703be.jpg",
+      "actress": [
+        "今井栞菜",
+        "小田切ありさ",
+        "椎名ほのか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIS-107"
+    },
+    {
       "id": 73572,
       "IDcode": "AGMX-015",
       "title": "ゲリラ手コキ～なんの前触れもなく突然襲い掛かる手コキの嵐、その時あなたは～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2019-06-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/076a598585c67761395fa284f6604f38.jpg",
       "actress": [
         "绀野光",
         "小田切ありさ",
@@ -91,22 +107,6 @@ window.actressData = {
         "彩风のん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-015"
-    },
-    {
-      "id": 88444,
-      "IDcode": "JUY-797",
-      "title": "中出しまでのカウントダウン。 星咲マイカ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-03-25",
-      "cover_url": "",
-      "actress": [
-        "小田切ありさ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-797"
     }
   ]
 };

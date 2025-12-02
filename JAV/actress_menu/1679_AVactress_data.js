@@ -35,18 +35,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250529/13cc14b0-7096-4f61-96de-8ad70bfbada9_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 3114,
-      "IDcode": "BAB-166",
-      "title": "多年硬邦邦 一朝生中出 素人貧乳妹第8彈 ~ 遠藤小春",
+      "id": 5730,
+      "IDcode": "MIFD-624",
+      "title": "旦那さん…ごめんなさい。あなたの可愛らしい幼顔の奥さんちっぱいクリ乳首ビンビンッにして！ほんのり薄目の陰毛ぐっちょり濡らして敏感アクメAVデビューします――敬具。 新人 遠藤こはる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-2/b015afa3be2e97137334a1e21bd90bf4.jpg",
+      "actress": [
+        "遠藤小春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-624"
+    },
+    {
+      "id": 3114,
+      "IDcode": "BAB-166",
+      "title": "勃起し続けた数年間 生中出しから始まったぺったんこストーリーパート8",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-08-29",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/20250830120318322322_14604_thumbnail.webp",
       "actress": [
         "遠藤小春"

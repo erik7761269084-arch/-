@@ -49,7 +49,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230823/bb7e4e21-7ef3-433c-9561-17066504a93b.jpg",
     "https://picture.yoshiclub.xyz/20230823/335458aa-04b4-4683-93e1-24cb198b0acb.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 18940,
@@ -58,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-08-22",
       "cover_url": "https://picture.yoshiclub.xyz/20230823/20230823032323408408.jpg",
@@ -68,16 +68,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-904"
     },
     {
-      "id": 89331,
-      "IDcode": "STARS-888",
-      "title": "【夏といえば水着！SODstar全員ビキニ祭】ドキドキの初露出！アスリート 新海咲  南国イチャラブデートで露出SEX",
+      "id": 155523,
+      "IDcode": "STARS-801",
+      "title": "中年男上司们的黏着性骚扰-新海咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-07-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/02/67c35d04cf22ae3e040e7e65/cover.jpg",
+      "actress": [
+        "新海咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-801"
+    },
+    {
+      "id": 89331,
+      "IDcode": "STARS-888",
+      "title": "心跳加快的初露出-新海咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20413cf22ae3e04a81762/cover.jpg",
       "actress": [
         "新海咲"
       ],
@@ -86,14 +102,14 @@ window.actressData = {
     {
       "id": 89247,
       "IDcode": "STARS-839",
-      "title": "「明日、俺らの担任の授業でバイブぶっこんでやるから見にこいよwww!」 授業中も男子生徒に輪●レ×プされる、体育会系新任教師 新海咲",
+      "title": "上课时被男学生们轮奸-新海咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-06-22",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a64ba89def9b1b80db3cc/cover.jpg",
       "actress": [
         "新海咲"
       ],
@@ -102,14 +118,14 @@ window.actressData = {
     {
       "id": 89235,
       "IDcode": "STARS-865",
-      "title": "絶対連射！～ COSPLAY 回春メンズエステ～ 発射後もプレイ続行！絶対 3 発以上発射させるテクニックで全てのお客様を昇天させる極上メンエス嬢 新海咲",
+      "title": "绝对连射-新海咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-06-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/50e47d28609508b63fb5998a6b652b4e.jpg",
       "actress": [
         "新海咲"
       ],

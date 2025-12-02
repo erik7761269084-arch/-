@@ -31,66 +31,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231011/f2caf929-3b3a-4f30-a1d4-8dd1923488b8.jpg",
     "https://picture.yoshiclub.xyz/20231011/b2b5f10e-f67c-47bc-8d6a-9614d7f079ee.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 18067,
-      "IDcode": "IPX-861",
-      "title": "喜歡口交好色癡女護士最愛口爆 姬乃雪",
+      "id": 18372,
+      "IDcode": "IPX-769",
+      "title": "FIRST IMPRESSION 151 -速絶- 19歳 新星美少女AV出道 姬乃雪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2022-05-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20231102/202311022200055555.jpg",
+      "publish_date": "2021-12-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20231011/20231011010048885885.jpg",
       "actress": [
         "姬乃雪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-861"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-769"
     },
     {
-      "id": 18101,
-      "IDcode": "IPX-842",
-      "title": "生理上無法接受的班導老二正中我的好球帶～在無法抵抗的快樂下高潮得要死的我… 姬乃雪",
+      "id": 18350,
+      "IDcode": "IPX-788",
+      "title": "新星美少女-ひめ乃雪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2022-04-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031003409741741.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231013/20231013020429690690.jpg",
       "actress": [
         "姬乃雪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-842"
-    },
-    {
-      "id": 18122,
-      "IDcode": "IPX-823",
-      "title": "與喜歡我肉棒到吞吐停不下的雪口交同居生活 姬乃雪",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-03-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029010707711711.jpg",
-      "actress": [
-        "姬乃雪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-823"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-788"
     },
     {
       "id": 18172,
       "IDcode": "IPX-804",
-      "title": "肏到開發全身性感帶 姬乃雪",
+      "title": "絶頂覚醒-ひめ乃雪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2022-02-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231025/20231025235208374374.jpg",
       "actress": [
         "姬乃雪",
@@ -99,20 +83,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-804"
     },
     {
-      "id": 18372,
-      "IDcode": "IPX-769",
-      "title": "FIRST IMPRESSION 151 -速絶- 19歳 新星美少女AV出道 姬乃雪",
+      "id": 18122,
+      "IDcode": "IPX-823",
+      "title": "無碼破解版與喜歡我肉棒到吞吐停不下的雪口交同居生活",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "IDEA POCKET",
-      "publish_date": "2021-12-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231011/20231011010048885885.jpg",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240924-1/be7bfdc145fd8dd563f96ad940be73c8.jpg",
       "actress": [
         "姬乃雪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-769"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-823"
+    },
+    {
+      "id": 18101,
+      "IDcode": "IPX-842",
+      "title": "班主任的阴茎-ひめ乃雪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/06/6842853b41a147ed1a67485b/cover.jpg",
+      "actress": [
+        "姬乃雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-842"
+    },
+    {
+      "id": 18067,
+      "IDcode": "IPX-861",
+      "title": "口内射精-ひめ乃雪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231102/202311022200055555.jpg",
+      "actress": [
+        "姬乃雪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-861"
     }
   ]
 };

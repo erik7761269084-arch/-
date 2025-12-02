@@ -22,26 +22,25 @@ window.actressData = {
     "Matsushita Miori"
   ],
   "gallery": [],
-  "works_count": 8,
+  "works_count": 9,
   "related_dramas": [
     {
-      "id": 70300,
-      "IDcode": "SDMM-012",
-      "title": "高嶺の花 キャビンアテンダント限定 「黒パンストの試着にご協力してください！！」と声を掛けた美脚CAがぬるぬるローションで耐久テストと称して足コキ！さらに破けたパンストからチ○ポをぬっプリ挿入！！！ マジックミラー号",
+      "id": 99092,
+      "IDcode": "RKI-489",
+      "title": "元エステティシャン同じ会社で働いていた本当の部下と上司",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-03-21",
-      "cover_url": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "2019-04-19",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/azT73gbE.jpg",
       "actress": [
-        "黑川堇",
-        "妃月るい",
-        "桥本丽华",
+        "田渊正浩",
+        "宫村ななこ",
         "松下美织"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-489"
     },
     {
       "id": 86962,
@@ -50,8 +49,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
+      "type": "",
+      "company": "",
       "publish_date": "2019-02-01",
       "cover_url": "",
       "actress": [
@@ -66,36 +65,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-416"
     },
     {
-      "id": 77020,
-      "IDcode": "OYC-231",
-      "title": "セクハラ検診の餌食になった気弱な巨乳OLは一切抵抗できず涙目でイキまくる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-01-19",
-      "cover_url": "",
-      "actress": [
-        "橘瑪麗",
-        "持田栞里",
-        "松下美织",
-        "相泽ゆりな",
-        "平野爱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-231"
-    },
-    {
       "id": 106297,
       "IDcode": "VRTM-396",
-      "title": "新体操部所属の姉に媚薬を飲ませるとレオタード食い込むだけで愛液ジワリ！欲求不満なカラダは我慢できず自らチ○ポ挿入すると卑猥なうねり腰で何度もエビ反り絶頂！",
+      "title": "当她给她的妹妹服用春药时",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-12-14",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_910vrtm396/h_910vrtm396pl.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-10/6369978836d0a6589d1c16a1b692817d.jpg",
       "actress": [
         "水原乃亜",
         "桜木优希音",
@@ -106,33 +85,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-396"
     },
     {
-      "id": 88518,
-      "IDcode": "RCTD-158",
-      "title": "淫語ナワイドショー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2018-10-25",
-      "cover_url": "",
-      "actress": [
-        "葵玲奈",
-        "松下美织",
-        "野々宫みさと"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-158"
-    },
-    {
       "id": 99913,
       "IDcode": "VRTM-356",
-      "title": "地元プールの水泳教室の参加者は僕1人だけ…。競泳水着のハミ乳ハミ尻のインストラクターのマンツーマン指導で大興奮！水着ズラしてヌルッとチ○コ挿入したら膝ガクしまくりながらイキ乱れた！3",
+      "title": "游泳教室-春菜はな 桜ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-08",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_910vrtm356/h_910vrtm356pl.jpg",
       "actress": [
         "春菜华",
@@ -142,16 +103,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-356"
     },
     {
+      "id": 88518,
+      "IDcode": "RCTD-158",
+      "title": "淫語ナワイドショー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f9e56cee658f3fd7214c5409e6f14210.jpg",
+      "actress": [
+        "葵玲奈",
+        "松下美织",
+        "野々宫みさと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-158"
+    },
+    {
       "id": 77336,
       "IDcode": "MIST-202",
       "title": "合法的公然わいせつ！吊り革を掴んだままの痴漢 デリヘル嬢に立ちバックで生挿入！生中出し！6",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Mr.Michiru",
-      "publish_date": "2018-03-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b2fecc40a5b4b1585d2074082a9a14b.jpg",
       "actress": [
         "叶月もえ",
         "瀬戸すみれ",
@@ -161,16 +140,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-202"
     },
     {
+      "id": 77020,
+      "IDcode": "OYC-231",
+      "title": "セクハラ検診の餌食になった気弱な巨乳OLは一切抵抗できず涙目でイキまくる！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5bfca735954137cf91894b231bd81bef.jpg",
+      "actress": [
+        "橘瑪麗",
+        "持田栞里",
+        "松下美织",
+        "相泽ゆりな",
+        "平野爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OYC-231"
+    },
+    {
       "id": 71086,
       "IDcode": "HUNTA-409",
       "title": "「お願いもう止めて！もう何度もイっちゃってるって言ってるでしょう！」イってもイってもイキ止まらないハードピストンで義姉がエビ反り連続爆イキ！3 突然出来た義理のお姉ちゃんは清楚で美人なのに実はヤリマンでSEXのハードルがすごく低い！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-02-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250228-1/0d0967bd270316c8da49e343eded1745.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7e35a8ab255af092d0589037ac6c51ac.jpg",
       "actress": [
         "上野真奈美",
         "吉川爱美",
@@ -180,6 +179,25 @@ window.actressData = {
         "华月瑠美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-409"
+    },
+    {
+      "id": 70300,
+      "IDcode": "SDMM-012",
+      "title": "高嶺の花 キャビンアテンダント限定",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f2060e7465d72baa87fe99567036c3fc.jpg",
+      "actress": [
+        "黑川堇",
+        "妃月るい",
+        "桥本丽华",
+        "松下美织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-012"
     }
   ]
 };

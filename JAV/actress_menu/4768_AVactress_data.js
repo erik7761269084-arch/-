@@ -4,7 +4,7 @@ window.actressData = {
   "name": "星咲きい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,35 +19,16 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 77900,
-      "IDcode": "MDBK-061",
-      "title": "【大興奮】部屋に入るなりチ●ポ咥えて離さない裏オプつき癒しの即尺メイドリフレ派遣サービス",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-10-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/9e0103b74d3a665495433c4451e4d07e.jpg",
-      "actress": [
-        "有村希",
-        "七海ゆあ",
-        "石原莉红",
-        "星咲きい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-061"
-    },
-    {
       "id": 106092,
       "IDcode": "SCOP-643",
-      "title": "アロハー！これはピンサロなのか！？ここは日本なのか！？南国風なリゾートピンサロが都内某所に存在しているという噂が！毎度お馴染みSCOOP班が大潜入！！いつものピンサロよりもアツい！！激アツの常夏ピンサロに超密着SP！！",
+      "title": "南国風",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "",
+      "type": "",
+      "company": "SCOOP",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20220819-1/4c5774224637370ffcb041f851807631.jpg",
       "actress": [
         "黒崎みか",
         "管野静香",
@@ -55,6 +36,25 @@ window.actressData = {
         "星咲きい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-643"
+    },
+    {
+      "id": 77900,
+      "IDcode": "MDBK-061",
+      "title": "【大興奮】部屋に入るなりチ●ポ咥えて離さない裏オプつき癒しの即尺メイドリフレ派遣サービス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c52d007d8c822fc1500826f5056b568c.jpg",
+      "actress": [
+        "有村希",
+        "七海ゆあ",
+        "石原莉红",
+        "星咲きい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-061"
     }
   ]
 };

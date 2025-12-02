@@ -58,119 +58,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240206/86d52ede-2c06-4bbb-91bb-df7480b4b479.jpg",
     "https://picture.yoshiclub.xyz/20240206/0d2229aa-f050-4dea-af13-a840a81b897a.jpg"
   ],
-  "works_count": 13,
+  "works_count": 19,
   "related_dramas": [
     {
-      "id": 3055,
-      "IDcode": "START-363",
-      "title": "SOD女子社員入職體驗 制作部助理導演篇 意外SEX4本番！助理導演還要做這種事嗎 ~ 矢埜愛茉",
+      "id": 12273,
+      "IDcode": "START-117",
+      "title": "與相性最高的同在便利店工作的人妻一起，工作之餘休息的2個小時裏也最少射了3次 ~ 矢埜愛茉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250901/202509012136204545_95880_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240903/e222ff07-237d-4581-beb9-2b74fd822cd8.jpg",
       "actress": [
         "矢埜愛茉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-363"
-    },
-    {
-      "id": 3863,
-      "IDcode": "START-341",
-      "title": "與矢埜愛茉從早到晚不停幹 ~ 矢埜愛茉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/9e71daba-a16d-45a0-8b8e-f902af68636f_thumbnail.webp",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-341"
-    },
-    {
-      "id": 4821,
-      "IDcode": "START-319",
-      "title": "趁老婆回娘家時和兒子幼兒園的漂亮老師偷情，在家瘋狂滾牀單一整周的超猛不倫性愛 ~ 矢埜愛茉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630225748801801_thumbnail.webp",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-319"
-    },
-    {
-      "id": 7112,
-      "IDcode": "START-267",
-      "title": "妹妹離婚後變爲單親媽媽回了老家，被初體驗的哥哥強制寢取 ~ 矢埜愛茉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250331/a04a2921-dfb1-4885-9a5f-d66b653d956d.jpg",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-267"
-    },
-    {
-      "id": 6380,
-      "IDcode": "START-283",
-      "title": "每周三次上門的家政小姐姐和宅男傻兒子一年來不斷做愛的肉體關系記錄 ~ 矢埜愛茉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250505/affd5dc1-87ff-47a3-9180-5d0a9c3b5d96_thumbnail.webp",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-283"
-    },
-    {
-      "id": 7784,
-      "IDcode": "START-250",
-      "title": "處男開苞！ 色氣溫柔愛操心的前偶像，與害羞童貞男孩們在一屋檐下親密引導的同居性愛紀錄 ~ 矢埜愛茉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250303/e6304320-66f8-4ff0-9131-cb3d6ff7bd5e.jpg",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-250"
-    },
-    {
-      "id": 10212,
-      "IDcode": "START-192",
-      "title": "回農村的前芸能女孩和宅男童貞表弟間，在炎熱夏天那無法停止的絕倫交尾回憶 ~ 矢埜愛茉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20241203/e417d2f5-2e96-4d1a-92ce-99676fa4e313.jpg",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-192"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-117"
     },
     {
       "id": 12891,
@@ -179,8 +83,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-09-12",
       "cover_url": "https://picture.yoshiclub.xyz/20240806/f51a2aa6-b86a-4120-ab89-3083cc09a66c.jpg",
       "actress": [
@@ -195,46 +99,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-08-08",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240705/PxN9rqw5/1.jpg",
       "actress": [
         "矢埜愛茉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-089"
-    },
-    {
-      "id": 14054,
-      "IDcode": "START-068",
-      "title": "芸能人風俗初體驗——會員制豪華風俗店中最好的服務 ~ 矢埜愛茉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240611/f71df275-035b-4b43-bce3-9ba064bac2b9.jpg",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-068"
-    },
-    {
-      "id": 14558,
-      "IDcode": "START-050",
-      "title": "當我和公司的兩個男同事一起喝酒時，氣氛變得淫蕩起來，……矢埜愛茉，美麗的OL，在辦公室和家裏都亂搞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240521/bb493dda-01ec-467f-a749-7ab250fb9528.jpg",
-      "actress": [
-        "矢埜愛茉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-050"
     },
     {
       "id": 15178,
@@ -243,8 +115,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-05-09",
       "cover_url": "https://picture.yoshiclub.xyz/20240423/20240423110855942942.jpg",
       "actress": [
@@ -259,7 +131,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-02-08",
       "cover_url": "https://picture.yoshiclub.xyz/20240206/20240206034222130130.jpg",
@@ -267,6 +139,230 @@ window.actressData = {
         "矢埜愛茉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-984"
+    },
+    {
+      "id": 14558,
+      "IDcode": "START-050",
+      "title": "当我和公司的两个亲密的人喝酒时",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240521/bb493dda-01ec-467f-a749-7ab250fb9528.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-050"
+    },
+    {
+      "id": 14054,
+      "IDcode": "START-068",
+      "title": "女藝人首次體驗豪華風俗性招待服務",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240611/f71df275-035b-4b43-bce3-9ba064bac2b9.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-068"
+    },
+    {
+      "id": 11559,
+      "IDcode": "START-147",
+      "title": "两天一夜就射了12次精-矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/2e83dc574f6f31c1cb95e73072ce2b7b.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-147"
+    },
+    {
+      "id": 10870,
+      "IDcode": "START-159",
+      "title": "絶頂開発 小柄な敏感BODYをガクブル震わせながらジブン史上最高の激イキ！巨根大絶頂 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678935a630833b4bf54bfb1f/cover.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-159"
+    },
+    {
+      "id": 10212,
+      "IDcode": "START-192",
+      "title": "回忆那个夏天-矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab832f31eb0592de6323a2/cover.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-192"
+    },
+    {
+      "id": 9329,
+      "IDcode": "START-209",
+      "title": "エロかわコスプレ大集合SP！！ 4本番SEX×5COSPLAY×9発顔面発射 男の妄想を体現したラッキースケベシチュエーション 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787aed75d57b64bfdfbb3be/cover.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-209"
+    },
+    {
+      "id": 7784,
+      "IDcode": "START-250",
+      "title": "芸能人、初めての筆おろし。エロくて優しい世話焼きグラドルが、オクテ童貞くんたちをひとつ屋根の下で密着エッチにリードしまくる共同生活ドキュメント。 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250303/e6304320-66f8-4ff0-9131-cb3d6ff7bd5e.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-250"
+    },
+    {
+      "id": 7112,
+      "IDcode": "START-267",
+      "title": "妹妹成为单亲妈妈后回娘家生活-矢埜爱茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689dc9041cc1e208692002cc/cover.jpg",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-267"
+    },
+    {
+      "id": 6380,
+      "IDcode": "START-283",
+      "title": "週3で自宅に訪問するホームヘルパーさんと独身息子が介護の隙間時間で即性交していた1年間の肉体関係記録 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250505/affd5dc1-87ff-47a3-9180-5d0a9c3b5d96_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-283"
+    },
+    {
+      "id": 5606,
+      "IDcode": "START-300",
+      "title": "禁欲的和服美女-矢埜爱茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602085831465465_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-300"
+    },
+    {
+      "id": 4821,
+      "IDcode": "START-319",
+      "title": "趁妻子回娘家的时间于儿子的幼儿园老师在家里私会-矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630225748801801_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-319"
+    },
+    {
+      "id": 3863,
+      "IDcode": "START-341",
+      "title": "整天和矢野爱茉整天一起打炮从早到晚大肉棒即插即干-矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/9e71daba-a16d-45a0-8b8e-f902af68636f_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-341"
+    },
+    {
+      "id": 3055,
+      "IDcode": "START-363",
+      "title": "SOD女员工体验入社制作部助理篇意外性爱4场激战-矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250901/202509012136204545_95880_thumbnail.webp",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-363"
+    },
+    {
+      "id": 2189,
+      "IDcode": "START-385",
+      "title": "配送中NTR 既婚ベテランドライバーの配送に付いて回るうち車中でおそわれてしまった新婚人妻 矢埜愛茉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "矢埜愛茉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-385"
     }
   ]
 };

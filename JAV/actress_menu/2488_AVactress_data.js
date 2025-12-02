@@ -36,14 +36,14 @@ window.actressData = {
     {
       "id": 17023,
       "IDcode": "MIFD-463",
-      "title": "新人出道！戀愛處女。想要戀愛，想要約會，想要做愛…短發的美少女AV DEBUT!!沒有男朋友 18年從未戀愛的少女 首次亮相",
+      "title": "短发美少女AV出道-黑奈露西亚",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20231230/20231230014805143143.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240127-1/7a47ef2cea84568d85b868ba5013dc94.jpg",
       "actress": [
         "黑奈露西亞",
         "ハメ鳥の人"

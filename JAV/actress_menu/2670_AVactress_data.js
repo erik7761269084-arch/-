@@ -47,14 +47,14 @@ window.actressData = {
     {
       "id": 9545,
       "IDcode": "AARM-269",
-      "title": "愛欲極限！美熟女回春治療，極意敏感區按摩的祕密 ~ 真木今日子 南真悠 藤井蕾菈 羽月希 百瀨凜花 天河水無瀨 伊東沙蘭",
+      "title": "エロスの極み！鼠径部マッサージの極意を極めた美熟女回春セラピスト",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241219/30ff701f-35ed-4e4f-90c7-8460f9cf1b62.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/02/4f253130/vod.jpg",
       "actress": [
         "真木今日子",
         "藤井蕾菈",

@@ -31,35 +31,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/星野あいか.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1751,
-      "IDcode": "SKYHD-079",
-      "title": "天天使藍 Vol.79 ～肛門寵物～：星野愛香 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-10-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/ebc1b040-b792-4763-b5e8-a04437757ce9.webp",
-      "actress": [
-        "星野愛佳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-079"
-    },
     {
       "id": 2033,
       "IDcode": "SKYHD-065",
-      "title": "天天使藍 Vol.65：星野愛香 (HD)",
+      "title": "天天使藍 Vol.65：星野愛香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2012-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/81f1ca94-8508-4e52-9a9a-e1b755f99a36.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7fc259599782fbdb584fd6bed92a7425.jpg",
       "actress": [
         "星野愛佳"
       ],

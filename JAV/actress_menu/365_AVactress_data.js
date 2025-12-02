@@ -48,52 +48,358 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240419/468c63c3-a35d-4834-8b85-dcdcf04409b1.jpg",
     "https://picture.yoshiclub.xyz/20240419/44fdd4c8-866b-4748-8055-a04e8bc1decd.jpg"
   ],
-  "works_count": 16,
+  "works_count": 22,
   "related_dramas": [
     {
-      "id": 2616,
-      "IDcode": "SONE-860",
-      "title": "強・姦・魔・襲來！溫泉旅行自拍嗨過頭，竟被變態癡漢集團盯上！ ~ 白上咲花",
+      "id": 5915,
+      "IDcode": "SONE-564",
+      "title": "被世界顶级美女环绕-未歩なな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918040813733733_89354_thumbnail.webp",
+      "publish_date": "2025-06-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/202505220753447272_thumbnail.webp",
       "actress": [
+        "未步奈奈",
+        "村上悠華",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
         "白上咲花",
-        "コグレハルト"
+        "神樂桃果",
+        "乃坂日和"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-860"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-564"
     },
     {
-      "id": 3418,
-      "IDcode": "SONE-822",
-      "title": "對女友純情小妹動了情，偷偷把她上了又上真不是人 ~ 白上咲花",
+      "id": 15294,
+      "IDcode": "SONE-218",
+      "title": "新人白神櫻 AV 首次亮相",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022824594594_86809_thumbnail.webp",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418235143182182.jpg",
+      "actress": [
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-218"
+    },
+    {
+      "id": 14503,
+      "IDcode": "SONE-219",
+      "title": "白上咲花的初体验3本番",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2eb24dbf24d4ed32023f7/cover.jpg",
       "actress": [
         "白上咲花",
-        "羽田貴史"
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-822"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-219"
+    },
+    {
+      "id": 13808,
+      "IDcode": "SONE-240",
+      "title": "超大型新人的饭店浓密性爱-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621000933100100.jpg",
+      "actress": [
+        "白上咲花",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-240"
+    },
+    {
+      "id": 13243,
+      "IDcode": "SONE-280",
+      "title": "情色大变身-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719001529407407.jpg",
+      "actress": [
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-280"
+    },
+    {
+      "id": 12505,
+      "IDcode": "SONE-323",
+      "title": "饱含唾液的舌吻与性交-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822221418413413.jpg",
+      "actress": [
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-323"
+    },
+    {
+      "id": 11859,
+      "IDcode": "SONE-373",
+      "title": "在学校很憧憬的那个女生-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/7b00e0fc05ce623f38c1b74d2216f9f3.jpg",
+      "actress": [
+        "白上咲花",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-373"
+    },
+    {
+      "id": 11187,
+      "IDcode": "SONE-418",
+      "title": "微笑着接受大量颜射手淫-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788b7dd30833b4bf53bde1e/cover.jpg",
+      "actress": [
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-418"
+    },
+    {
+      "id": 10481,
+      "IDcode": "SONE-467",
+      "title": "和女大学生沙龙女孩-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122001810704704.jpg",
+      "actress": [
+        "白上咲花",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-467"
+    },
+    {
+      "id": 10117,
+      "IDcode": "SONE-560",
+      "title": "S1 PRECIOUS GIRLS 2024 - 史上從來未有過的最大規模亂交！24場全明星大集合大亂交超絕亂舞 Special特輯 ~ 河北彩花 金鬆季步 本鄉愛 Miru 楓花戀 等24位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e04c6379f1ac4ec48c195b/cover.jpg",
+      "actress": [
+        "奥田咲",
+        "Miru",
+        "河北彩花",
+        "未步奈奈",
+        "小日向美優",
+        "七森莉莉",
+        "三田真鈴",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "本郷愛",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
+        "川越仁子",
+        "金松季歩",
+        "白上咲花",
+        "神樂桃果",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-560"
+    },
+    {
+      "id": 9741,
+      "IDcode": "SONE-511",
+      "title": "温柔给肉棒口交榨精-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095658522522.jpg",
+      "actress": [
+        "白上咲花",
+        "七尾神"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-511"
+    },
+    {
+      "id": 8887,
+      "IDcode": "SONE-553",
+      "title": "白得不可思议的少女-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072604654654.jpg",
+      "actress": [
+        "白上咲花",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-553"
+    },
+    {
+      "id": 8100,
+      "IDcode": "SONE-604",
+      "title": "被恶心的他舔全身强奸了-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/17/68a15d78d41c35925d0b9b92/cover.jpg",
+      "actress": [
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-604"
+    },
+    {
+      "id": 7751,
+      "IDcode": "SONE-562",
+      "title": "S1学院射精祭业界名女优集合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6b2538cce1a927afdc031/cover.jpg",
+      "actress": [
+        "未步奈奈",
+        "小日向美優",
+        "村上悠華",
+        "早坂ひめ",
+        "兒玉七海",
+        "渚愛梨",
+        "川越仁子",
+        "白上咲花",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌",
+        "ラヴズ",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
+    },
+    {
+      "id": 7362,
+      "IDcode": "SONE-652",
+      "title": "做爸爸活时随意尿了一下-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f3b39f4e7d663df4960df4/cover.jpg",
+      "actress": [
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-652"
+    },
+    {
+      "id": 6796,
+      "IDcode": "SONE-695",
+      "title": "为了让心仪的成年老师兴奋-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417085121532532_thumbnail.webp",
+      "actress": [
+        "白上咲花",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-695"
+    },
+    {
+      "id": 5931,
+      "IDcode": "SONE-732",
+      "title": "哥哥你想怎么做小鬼妹妹最近经常走光-白上咲花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075611735735_thumbnail.webp",
+      "actress": [
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-732"
+    },
+    {
+      "id": 5204,
+      "IDcode": "SONE-768",
+      "title": "青春期的暑假跟青梅竹马女生舌吻3p-白上咲花 渚爱梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892f2e5c92318f97d87f867/cover.jpg",
+      "actress": [
+        "渚愛梨",
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-768"
     },
     {
       "id": 4318,
       "IDcode": "SONE-566",
-      "title": "S1二十週年紀念 最強聯手神作 1對18 新人助理導演被頂級性感女優偷偷挑逗 陷入職場桃色誘惑 ~ 田野憂 五條戀 未步奈奈 白上咲花 神樂桃果 楓富愛 明日葉三葉 村上悠華 淺野心 渚愛梨",
+      "title": "新人助理导演-楓ふうあ 未歩なな 明日葉みつは",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
       "actress": [
         "未步奈奈",
@@ -114,13 +420,13 @@ window.actressData = {
     {
       "id": 4292,
       "IDcode": "SONE-770",
-      "title": "新人空姐被巨漢投訴後侵犯，身心崩潰淪爲肉便器後，竟然被極粗大屌調教到高潮不斷 ~ 白上咲花",
+      "title": "新人空姐被极大肉棒的巨汉侵犯到心智崩坏-白上咲花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717003001714714_76500_thumbnail.webp",
       "actress": [
         "白上咲花"
@@ -128,215 +434,38 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-770"
     },
     {
-      "id": 5204,
-      "IDcode": "SONE-768",
-      "title": "青春期暑假青梅竹馬閨蜜玩嗨了互相親親…我看得熱血沸騰直接加入3P大戰 ~ 渚愛梨 白上咲花",
+      "id": 3418,
+      "IDcode": "SONE-822",
+      "title": "对女朋友纯真的妹妹发情-白上咲花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063456230230_thumbnail.webp",
-      "actress": [
-        "渚愛梨",
-        "白上咲花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-768"
-    },
-    {
-      "id": 5931,
-      "IDcode": "SONE-732",
-      "title": "小時候一起玩摔角的妹妹最近老愛走光勾引，哥哥你咋整？衝不衝？ ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075611735735_thumbnail.webp",
-      "actress": [
-        "白上咲花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-732"
-    },
-    {
-      "id": 6796,
-      "IDcode": "SONE-695",
-      "title": "還是高中生的我用泳裝誘惑喜歡的老師，很輕鬆就讓他奕的硬邦邦瘋狂的幹我 ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417085121532532_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022824594594_86809_thumbnail.webp",
       "actress": [
         "白上咲花",
-        "小田切ジュン"
+        "羽田貴史"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-695"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-822"
     },
     {
-      "id": 7362,
-      "IDcode": "SONE-652",
-      "title": "本來隨便搞搞的援交生活，結果被怪男下了媚藥…從此小穴溼得想要那惡心肉棒欲罷不能 ~ 白上咲花",
+      "id": 2616,
+      "IDcode": "SONE-860",
+      "title": "美乳正妹跟好友旅行慘遭惡質男人侵犯-白上咲花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110122294294.jpg",
-      "actress": [
-        "白上咲花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-652"
-    },
-    {
-      "id": 7751,
-      "IDcode": "SONE-562",
-      "title": "S1 20周年紀念 AV史上最強組合力作 最佳顏值的女學生們放肆狂幹滿足來賓的S1學園射精祭 ~ 乃阪日和 小日向美優 兒玉七海 榊原萌 渚あいり 川越仁子 早阪ひめ 未步奈奈 倉木華 村上悠華 白上咲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122839266266.jpg",
-      "actress": [
-        "未步奈奈",
-        "小日向美優",
-        "村上悠華",
-        "早坂ひめ",
-        "兒玉七海",
-        "渚愛梨",
-        "川越仁子",
-        "白上咲花",
-        "倉木華",
-        "乃坂日和",
-        "榊原萌",
-        "ラヴズ",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
-    },
-    {
-      "id": 8100,
-      "IDcode": "SONE-604",
-      "title": "十幾歲的我被交給叔叔照顧，他舔我的身體並和我發生性關系，很惡心。 ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092338731731.jpg",
-      "actress": [
-        "白上咲花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-604"
-    },
-    {
-      "id": 8887,
-      "IDcode": "SONE-553",
-      "title": "和冰白肌超美娘一泊二日的溫泉做愛之旅 ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072604654654.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "白上咲花",
-        "ニック"
+        "コグレハルト"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-553"
-    },
-    {
-      "id": 9741,
-      "IDcode": "SONE-511",
-      "title": "在客人完全痊愈之前，不會結束哦。不斷爲你口交，會輕輕地舔你的雞巴，本番擠出所有精子 ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095658522522.jpg",
-      "actress": [
-        "白上咲花",
-        "七尾神"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-511"
-    },
-    {
-      "id": 10481,
-      "IDcode": "SONE-467",
-      "title": "和在風俗店打工的女子大生相部屋NTR 在店外和綺麗風俗妹一次又一次開房做愛中出 ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122001810704704.jpg",
-      "actress": [
-        "白上咲花",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-467"
-    },
-    {
-      "id": 13243,
-      "IDcode": "SONE-280",
-      "title": "白上咲花的淫蕩大變身 - 全力200%輸出大絕頂特輯",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719001529407407.jpg",
-      "actress": [
-        "白上咲花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-280"
-    },
-    {
-      "id": 13808,
-      "IDcode": "SONE-240",
-      "title": "在酒店與超大型新人濃密性交 ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-06-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621000933100100.jpg",
-      "actress": [
-        "白上咲花",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-240"
-    },
-    {
-      "id": 14503,
-      "IDcode": "SONE-219",
-      "title": "超大號新人白神沙花的3次初體驗。天才AV女優生平第一次享受快樂。 ~ 白上咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-05-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524031426669669.jpg",
-      "actress": [
-        "白上咲花",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-219"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-860"
     }
   ]
 };

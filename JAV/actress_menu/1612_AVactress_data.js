@@ -33,16 +33,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 2559,
-      "IDcode": "NSFS-419",
-      "title": "AI重制版 育兒壓力爆棚的騷妻 瘋狂性愛 永久珍藏版296分鍾 ~ 黒沢那智 新川舞美 藤宮櫻花 水沢真樹 神崎蕾歐娜 椎名綾",
+      "id": 7262,
+      "IDcode": "NSFS-371",
+      "title": "AIリマスター版究極の寝取られ 妻をあなたに差し上げます 名作永久保存版223分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250920/20250920071438165165_28035_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "北条麻妃",
+        "川上優",
+        "椎名綾",
+        "藤宮櫻花",
+        "佐伯春菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-371"
+    },
+    {
+      "id": 2559,
+      "IDcode": "NSFS-419",
+      "title": "AIリマスター版 育児に追われるエロ妻 淫乱セックス 名作永久保存版296分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "椎名綾",
         "水沢真樹",
@@ -54,26 +74,6 @@ window.actressData = {
         "椎名绫"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
-    },
-    {
-      "id": 7262,
-      "IDcode": "NSFS-371",
-      "title": "【AI重制版】究極寢取NTR 把老婆給你操 名作永久保存版 223分鍾 ~ 藤宮櫻花 佐伯春菜 椎名綾 川上優 北條麻妃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250326/1d3efbdf-092b-413b-9154-2a38af3110f2.jpg",
-      "actress": [
-        "北条麻妃",
-        "川上優",
-        "椎名綾",
-        "藤宮櫻花",
-        "佐伯春菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-371"
     }
   ]
 };

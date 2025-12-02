@@ -35,23 +35,103 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230123/63edee42-2034-4c99-8db8-fd96342bd696.jpg",
     "https://picture.yoshiclub.xyz/20230123/d5b5619d-14b3-41e0-8a31-a5a37430d534.jpg"
   ],
-  "works_count": 1,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 2059,
-      "IDcode": "DRGBD-20",
-      "title": "快感顫抖高潮不止的巨乳美女 : 柊麗奈",
+      "id": 1301,
+      "IDcode": "HEYZO-2561",
+      "title": "與放蕩女孩的絶頂性交Vol.19",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATCHEYE",
-      "publish_date": "2017-06-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/a33946cf-d663-44c9-9c9c-e4eeb4a10723.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2021-07-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20230815/20230815213828282282.jpg",
       "actress": [
         "柊麗奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-20"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2561"
+    },
+    {
+      "id": 1269,
+      "IDcode": "HEYZO-2489",
+      "title": "佔有美巨乳女孩的全部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2021-03-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20230902/202309022105161212.jpg",
+      "actress": [
+        "柊麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2489"
+    },
+    {
+      "id": 1237,
+      "IDcode": "HEYZO-2416",
+      "title": "6點下班後 ～用下流肉體來安慰～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2020-12-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20230914/20230914235153291291.jpg",
+      "actress": [
+        "柊麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2416"
+    },
+    {
+      "id": 1215,
+      "IDcode": "HEYZO-2375",
+      "title": "想要被S美巨乳妹玩弄！ ——柊麗奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2020-10-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20230927/20230927215830797797.jpg",
+      "actress": [
+        "柊麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2375"
+    },
+    {
+      "id": 936,
+      "IDcode": "HEYZO-1179",
+      "title": "連曾經的地下偶像都毫不猶豫地插了進來！ ~ - 柊麗奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-06-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240404/e9fe7efe-8079-4973-bead-43f8953253b0.jpg",
+      "actress": [
+        "柊麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1179"
+    },
+    {
+      "id": 1330,
+      "IDcode": "HEYZO-2634",
+      "title": "老公借錢無法償還妻子被幹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/20/67b6e0104e7d663df4849218/cover.jpg",
+      "actress": [
+        "柊麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2634"
     }
   ]
 };

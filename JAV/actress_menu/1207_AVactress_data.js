@@ -31,23 +31,73 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240323/610d0e0c-be83-461e-86d2-61cf0de43d5f.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 15918,
       "IDcode": "JUQ-633",
-      "title": "脫下來就驚呆了，神奇的54釐米超細腰讓人想一把抓住，美麗曲線美的已婚女人第一次度假就出軌了。新垣和佳 34 歲 AV 首次亮相",
+      "title": "脱衣后的冲击感-新垣和日",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-03-26",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240322/20240322222650262262.jpg",
       "actress": [
         "新垣のどか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-633"
+    },
+    {
+      "id": 15312,
+      "IDcode": "JUQ-643",
+      "title": "纤尘不染的已婚妇女-新垣のどか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c328c65f13d063bcdf6463/cover.jpg",
+      "actress": [
+        "新垣のどか",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-643"
+    },
+    {
+      "id": 14462,
+      "IDcode": "JUQ-676",
+      "title": "指定送达NTR-新垣和香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524035622779779.jpg",
+      "actress": [
+        "新垣のどか",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-676"
+    },
+    {
+      "id": 13825,
+      "IDcode": "JUQ-735",
+      "title": "工作空闲时的贿赂轮奸-新垣圆香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/202406210136557979.jpg",
+      "actress": [
+        "新垣のどか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-735"
     }
   ]
 };

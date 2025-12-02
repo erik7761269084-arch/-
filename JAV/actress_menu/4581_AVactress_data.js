@@ -4,7 +4,7 @@ window.actressData = {
   "name": "深田芽衣",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 75732,
       "IDcode": "HTHD-171",
-      "title": "友達の母親～最終章～ 深田芽衣",
+      "title": "友達の母親～最終章～深田芽衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-02",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "深田芽衣"

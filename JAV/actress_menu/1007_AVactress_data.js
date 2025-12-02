@@ -39,87 +39,18 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230121/57697474-bb23-4aca-a2c4-aa55f1004f64.jpg",
     "https://picture.yoshiclub.xyz/20230121/a6b6b80c-3a71-427f-9381-ef5c8af66c1c.jpg"
   ],
-  "works_count": 5,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1851,
-      "IDcode": "LAFBD-02",
-      "title": "Laforet Girl Vol.2：愛香沙耶",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/583aea23-0a06-4440-8999-faaf1380202f.webp",
-      "actress": [
-        "愛花沙也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-02"
-    },
-    {
-      "id": 2007,
-      "IDcode": "CWPBD-71",
-      "title": "CATWALK POISON 71 ～中出大亂交SP～ : 菜菜瀬結衣, 前田陽菜, 真木今日子, 他計6名",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/e1d28b8d-1ccc-4b4e-9ff0-af8bcd5ebd42.webp",
-      "actress": [
-        "真木今日子",
-        "前田阳菜",
-        "遥惠美",
-        "愛花沙也",
-        "菜菜瀬結衣",
-        "京野七香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-71"
-    },
-    {
-      "id": 1738,
-      "IDcode": "MKBD-S28",
-      "title": "KIRARI 28 ～來到南島的美少女～ : 秋元真由花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2012-09-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230131/b98e2446-68a4-421d-922b-bf1f765d209c.webp",
-      "actress": [
-        "愛花沙也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S28"
-    },
-    {
-      "id": 1890,
-      "IDcode": "SMBD-61",
-      "title": "S Model 61 ～南國美少女中出解禁～ : 愛花沙也",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2012-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/16c81c33-cf79-48c2-8056-044fab2cc6dc.webp",
-      "actress": [
-        "愛花沙也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-61"
-    },
     {
       "id": 68699,
       "IDcode": "XV-935",
-      "title": "解禁。秋元真由花",
+      "title": "解禁-秋元まゆ花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2011-04-08",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "愛花沙也",

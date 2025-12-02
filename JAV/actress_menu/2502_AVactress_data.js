@@ -39,13 +39,13 @@ window.actressData = {
     {
       "id": 8549,
       "IDcode": "CAWD-793",
-      "title": "新人出道！九州某私立初中現任音樂教師 同學眼裏嫺靜優雅的老師居然這麼淫蕩 首次亮相 AV DEBUT ~ 茅野華",
+      "title": "现任音乐老师茅野华AV正式出道",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-02-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300753536161.jpg",
       "actress": [
         "茅野華"

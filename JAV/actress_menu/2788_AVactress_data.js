@@ -22,19 +22,37 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Nanairo/桜結奈.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 107227,
-      "IDcode": "GVG-732",
-      "title": "無罩繼母毫無防備還偷肏到爽 櫻結奈",
+      "id": 98230,
+      "IDcode": "GS-175",
+      "title": "激イキ！！ガクガク痙攣！！ソソる固定バイブブルマ女教師",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2018-08-16",
-      "cover_url": "https://tutu1.space/images/2023/09/16/65aebf5f6e9d397cae6f8dc3d4a60fca.jpg",
+      "type": "",
+      "company": "GOGOS",
+      "publish_date": "2018-03-21",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1gs175/1gs175pl.jpg",
+      "actress": [
+        "若槻みづな",
+        "桜结奈",
+        "ちなみん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-175"
+    },
+    {
+      "id": 107227,
+      "IDcode": "GVG-732",
+      "title": "不穿胸罩妈妈-樱结奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "桜结奈"
       ],
@@ -47,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-06-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/867582a20d48a1f948c12167e48e81b5.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/eb0b0cb45a78d3727f59bc5add610cba.jpg",
       "actress": [
         "佐倉陽菜",
         "高杉麻里",

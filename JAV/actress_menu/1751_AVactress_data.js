@@ -35,39 +35,23 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-古瀬玲.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
-      "id": 1997,
-      "IDcode": "SKYHD-124",
-      "title": "天天使藍 Vol.119 風瀨麗",
+      "id": 158718,
+      "IDcode": "HEYZO-3377",
+      "title": "人妻のアナルをじっくり開発～美女コレクションVol.29～ –",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2014-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/10355ce3-df93-4871-8145-be528a175f25.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/1qZOlKJ0/1.jpg",
       "actress": [
         "古瀬玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-124"
-    },
-    {
-      "id": 1529,
-      "IDcode": "SKYHD-117",
-      "title": "SKY ANGEL BLUE Vol.113 : 古瀨玲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2014-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230506/8c6ccc3b-0dfa-4843-889d-3383da85a3e5.webp",
-      "actress": [
-        "古瀬玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3377"
     }
   ]
 };

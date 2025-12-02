@@ -4,7 +4,7 @@ window.actressData = {
   "name": "芹沢ひな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2023-10-03",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/9eac0a0f513a6ceb5150ed3b498a7284.jpg",
       "actress": [
         "菜月光",
         "芹沢ひな"
@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "ATTACKERS",
-      "publish_date": "2023-07-04",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/825546ab0b860dfbffa4f4869224f717.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a44ee89def9b1b80d664c/cover.jpg",
       "actress": [
         "纱々原ゆり",
         "芹沢ひな"

@@ -24,19 +24,35 @@ window.actressData = {
     "Shiori"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 97793,
-      "IDcode": "HBAD-316",
-      "title": "僕を誘惑してくる妻の妹… 天羽栞",
+      "id": 153947,
+      "IDcode": "620-SHIORI-01",
+      "title": "性爱丰富的美少女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天羽栞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=620-SHIORI-01"
+    },
+    {
+      "id": 97793,
+      "IDcode": "HBAD-316",
+      "title": "勾引我妻子的妹妹-天羽栞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HIBINO",
-      "publish_date": "2016-05-26",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1hbad316/1hbad316pl.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "天羽栞"
       ],

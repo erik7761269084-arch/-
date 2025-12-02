@@ -36,34 +36,229 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240408/a477a627-4bdb-4dd1-b62e-fa57d7f746b9.jpg",
     "https://picture.yoshiclub.xyz/20240408/6bcb546d-1600-4baf-99d0-f0ea01851f70.jpg"
   ],
-  "works_count": 7,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 5163,
-      "IDcode": "ROYD-247",
-      "title": "國王遊戲拉近距離，隱藏騷氣的平凡大奶妹子一泊兩日甜蜜中出激戰 ~ 雛乃ゆな",
+      "id": 69898,
+      "IDcode": "MMUS-096",
+      "title": "小恶魔挑逗系美少女-雛乃ゆな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROYAL",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091706797797_thumbnail.webp",
+      "type": "",
+      "company": "MARRION",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/83eae08d64a8fb14115641b1dd3c3a8e.jpg",
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-247"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-096"
+    },
+    {
+      "id": 69642,
+      "IDcode": "KNAM-069",
+      "title": "完ナマSTYLE@ゆな 家が無いからSEXしてる 神待ちアプリでご飯と寝るとこを探していた頭の悪いぴえんちゃんと生ハメ中出し 雛乃ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-069"
+    },
+    {
+      "id": 15562,
+      "IDcode": "FSDSS-804",
+      "title": "最纤细的BODY拉拉队长-雛乃ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/efe6358da533a2c7c01d72a9d4df01fa.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-804"
+    },
+    {
+      "id": 14928,
+      "IDcode": "FSDSS-805",
+      "title": "爱神开发害羞的拉拉队队长-雛乃ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/9434b60d2b97807b83a7f1d1b5e07158.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-805"
+    },
+    {
+      "id": 14012,
+      "IDcode": "FSDSS-819",
+      "title": "无法停歇的官能SEX-雏乃由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a097ba4e7d663df4515fd6/cover.jpg",
+      "actress": [
+        "雛乃ゆな",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-819"
+    },
+    {
+      "id": 13621,
+      "IDcode": "FSDSS-835",
+      "title": "超讚巨乳苗條身體啦啦隊選手-雛乃由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240827-1/e1d18d9146228d926d2bdbe917fad8a4.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-835"
+    },
+    {
+      "id": 12894,
+      "IDcode": "FSDSS-858",
+      "title": "害羞又不敢说不喜欢的女孩-雛乃ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240927-1/c1345a7965d18aaab17805562b57eb6f.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-858"
+    },
+    {
+      "id": 12124,
+      "IDcode": "FSDSS-882",
+      "title": "豪雨でずぶ濡れの真面目な部下に同棲中のギャル彼女の服を貸したら極小過ぎて無防備な下乳がエロ過ぎて… 雛乃ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/12/4ade7577/vod.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-882"
+    },
+    {
+      "id": 11292,
+      "IDcode": "FSDSS-903",
+      "title": "最纤细的身体达到了高潮狂热的极限",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241113-1/46af3b7ce9cab9dac089df540b689d11.jpg",
+      "actress": [
+        "雛乃ゆな",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-903"
+    },
+    {
+      "id": 10697,
+      "IDcode": "FSDSS-915",
+      "title": "親友カップルWデート旅行で親友のドS彼氏とイイ感じになってしまい…こっそりヤリまくりドMが開花してしまいました。 雛乃ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/06/35c9fc25262ea1d2a9ffd43928053bba.jpg",
+      "actress": [
+        "雛乃ゆな",
+        "輝大"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-915"
+    },
+    {
+      "id": 10024,
+      "IDcode": "FSDSS-944",
+      "title": "大嫌いな上司と相部屋にさせられ4時間SEX漬け…いつの間にか私は自らまたがるデカチン中毒者になっていました。 雛乃ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/02e947c2/vod.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-944"
+    },
+    {
+      "id": 9319,
+      "IDcode": "FSDSS-988",
+      "title": "我在夜晚歌舞伎町被遇见脱衣后有超棒F罩杯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/28/67c1606ccf22ae3e0406319d/cover.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-988"
+    },
+    {
+      "id": 7024,
+      "IDcode": "DASS-624",
+      "title": "被派遣的按摩师过度触摸私密部位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403094040894894.jpg",
+      "actress": [
+        "雛乃ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-624"
     },
     {
       "id": 6366,
       "IDcode": "SDMM-197",
-      "title": "魔鏡一號！感謝支持第三彈！10人出演6小時 保健體育課外教學 在現役女學生面前秀出成人濃烈性愛！點燃青春期性好奇心 首次體驗杭打騎乘位直達高潮體驗3",
+      "title": "【おかげさまで第3弾！10名出演6時間】マジックミラー号 保健体育の課外授業 現役女子〇生の目の前でオトナの濃厚SEXを見せつける！思春期の性的好奇心に火を点けて初めての杭打ち騎乘位で中イキ体験3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/13185a29-5fff-4348-9ef6-03eda06a2da8_thumbnail.webp",
       "actress": [
         "千川とわ",
@@ -78,85 +273,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
-      "id": 69642,
-      "IDcode": "KNAM-069",
-      "title": "完ナマSTYLE@ゆな 家が無いからSEXしてる 神待ちアプリでご飯と寝るとこを探していた頭の悪いぴえんちゃんと生ハメ中出し 雛乃ゆな",
+      "id": 5163,
+      "IDcode": "ROYD-247",
+      "title": "和在國王遊戲中快速拉近距離的隱藏淫亂樸素巨乳-雛乃由奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-04-27",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/01/ec1bf906/vod.jpg",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091706797797_thumbnail.webp",
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-247"
     },
     {
-      "id": 7024,
-      "IDcode": "DASS-624",
-      "title": "被上門按摩師摸私處摸到受不了，爽到忍不住被寢取了 ~ 雛乃ゆな",
+      "id": 3270,
+      "IDcode": "MOOR-046",
+      "title": "ドMデリ嬢ゆな、ご主人様との調教日記 雛乃ゆな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403094040894894.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823044220122122_23697_thumbnail.webp",
       "actress": [
         "雛乃ゆな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-624"
-    },
-    {
-      "id": 69898,
-      "IDcode": "MMUS-096",
-      "title": "【FANZA限定】小悪魔挑発美少女 雛乃ゆな チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MARRION",
-      "publish_date": "2025-04-02",
-      "cover_url": "",
-      "actress": [
-        "雛乃ゆな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-096"
-    },
-    {
-      "id": 9319,
-      "IDcode": "FSDSS-988",
-      "title": "剛搬到東京，晚上在歌舞伎町邂逅了一個可愛的地雷女，當她脫掉衣服後，我就被F罩杯巨乳的她抱着直到早上 ~ 雛乃ゆな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250107/20250107195139914914.jpg",
-      "actress": [
-        "雛乃ゆな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-988"
-    },
-    {
-      "id": 10697,
-      "IDcode": "FSDSS-915",
-      "title": "兩對最要好的情侶共同旅行中，我開始與好友的虐待狂男友祕密度過的美好時光，M屬性徹底綻放 ~ 雛乃ゆな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241110/20241110230519142142.jpg",
-      "actress": [
-        "雛乃ゆな",
-        "輝大"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-915"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-046"
     }
   ]
 };

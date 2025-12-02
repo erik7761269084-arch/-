@@ -38,87 +38,19 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250105/988a8df9-0155-4eed-b52a-b8449999508b.jpg",
     "https://picture.yoshiclub.xyz/20250105/8a2f5040-5a69-4241-9713-937d9481af2c.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 5411,
-      "IDcode": "MKON-114",
-      "title": "野球部性愛集訓我被落單，女經理女友被全隊寝取狂中出我卻蒙在鼓裡 ~ 道久てん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013900803803_thumbnail.webp",
-      "actress": [
-        "道久天",
-        "ラヴズ",
-        "トイボーイ相沢"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-114"
-    },
-    {
-      "id": 7774,
-      "IDcode": "NACR-923",
-      "title": "外賣娘嚴禁本番！但她會勾引中意的客人，在業務時間外偷偷享受性愛 ~ 道久てん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-03-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/d075bb0d-f9ea-49a4-b531-74c65acdbed0.jpg",
-      "actress": [
-        "道久天",
-        "いち"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-923"
-    },
-    {
-      "id": 8230,
-      "IDcode": "MVG-119",
-      "title": "居酒屋美人店員肛門解禁！喝醉後肛門初FUCK！首次3穴高潮！ ~ 道久てん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2025-02-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20250216/f88e7372-6d6d-4d9f-83ba-217d90e4e944.jpg",
-      "actress": [
-        "道久天",
-        "岩下たろう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-119"
-    },
-    {
-      "id": 9385,
-      "IDcode": "NACR-900",
-      "title": "客戶滿意度第一！超難預約巨乳榨精風俗按摩師 ~ 道久てん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-01-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250105/b534570a-1a50-4c3f-9dce-80d0d5b5cb0f.jpg",
-      "actress": [
-        "道久天"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-900"
-    },
     {
       "id": 10515,
       "IDcode": "SDDE-740",
-      "title": "「制服・下着・全裸」2024年度新人CA航空空服小姐 壓卷總勢11名+特別講師1名的大型航空CA研候編",
+      "title": "招待跨坐航空",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241119/2024111902491211.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bab4bcce3e366423ce2b0b/cover.jpg",
       "actress": [
         "五十嵐清華",
         "響乃詩",
@@ -135,6 +67,115 @@ window.actressData = {
         "安藤ハル"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
+    },
+    {
+      "id": 9385,
+      "IDcode": "NACR-900",
+      "title": "顾客满意度No.1-道久てん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250105/b534570a-1a50-4c3f-9dce-80d0d5b5cb0f.jpg",
+      "actress": [
+        "道久天"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-900"
+    },
+    {
+      "id": 8230,
+      "IDcode": "MVG-119",
+      "title": "居酒屋美人店員が肛門解禁！！酔った勢いで初アナルFUCK！ガチ飲酒でいきなり3穴アクメ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/2c07e63813d1b7a3a2b80e85368e96a3.jpg",
+      "actress": [
+        "道久天",
+        "岩下たろう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-119"
+    },
+    {
+      "id": 7774,
+      "IDcode": "NACR-923",
+      "title": "严禁应召女郎上垒-道久天",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/d075bb0d-f9ea-49a4-b531-74c65acdbed0.jpg",
+      "actress": [
+        "道久天",
+        "いち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-923"
+    },
+    {
+      "id": 5411,
+      "IDcode": "MKON-114",
+      "title": "女友兼女子经理被全体队员强暴中出-道久天",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e792198bc99dfdd033051/cover.jpg",
+      "actress": [
+        "道久天",
+        "ラヴズ",
+        "トイボーイ相沢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-114"
+    },
+    {
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
+      "actress": [
+        "绫濑心",
+        "泉莉音",
+        "東雲梓",
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
+    },
+    {
+      "id": 2285,
+      "IDcode": "PKPD-388",
+      "title": "【半中半外生イキ娘】Fカップ中出しokギャラ飲み女子 てん 24歳 道久てん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "道久天"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-388"
     }
   ]
 };

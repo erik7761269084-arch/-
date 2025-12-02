@@ -37,20 +37,27 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1900,
-      "IDcode": "SKYHD-121",
-      "title": "SKY ANGEL 117 高橋莎也加",
+      "id": 102749,
+      "IDcode": "DVDES-751",
+      "title": "SEXのハードルが異常に低い世界 8",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-12-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/f52fbf09-fd3c-4d21-8685-1c11f19e9b80.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/69e064a2c7d29bdc6955a876c244b31c.jpg",
       "actress": [
-        "森野美由纪"
+        "朝比奈菜々子",
+        "森野美由纪",
+        "樱井步",
+        "迦纳绫子",
+        "村田ちか",
+        "天音遥香",
+        "春日しおり",
+        "深津佳乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-751"
     }
   ]
 };

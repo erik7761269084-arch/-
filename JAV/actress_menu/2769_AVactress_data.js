@@ -54,14 +54,14 @@ window.actressData = {
     {
       "id": 1490,
       "IDcode": "SKYHD-015",
-      "title": "天天使藍 Vol.15 : 伊藤青葉 : Part.1 (HD)",
+      "title": "天天使藍 Vol.15 : 伊藤青葉 : Part.1",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2011-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20230512/493d78e1-0a58-488b-8c67-c2f885ad4295.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/34871eeb0612481820284046c71304ac.jpg",
       "actress": [
         "伊藤青葉"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "我妻澪",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-12-12",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221104-1/8815a3f63d0777e50afe1ca9f0eb10bb.jpg",
       "actress": [
         "愛弓涼",
         "优木なお",
@@ -40,36 +40,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-223"
     },
     {
-      "id": 78388,
-      "IDcode": "JUY-796",
-      "title": "ねぇ？そんなに叔母さんの下着が見たいの？ 我妻澪",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-03-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/ae698e79fd670d6ad90a70aa8e42c1b7.jpg",
-      "actress": [
-        "我妻澪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-796"
-    },
-    {
       "id": 88228,
       "IDcode": "SDNM-167",
       "title": "とめどなく溢れ出る愛液…それがすべての答えです。 我妻澪 33歳 第2章 夫の残り香漂うマイホームで撮影 声を殺し切れず何度も他人棒を懇願してイキ乱れた日",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2018-11-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/999f764fc40a3946f9886ae319a5a71b.jpg",
       "actress": [
         "我妻澪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-167"
+    },
+    {
+      "id": 78388,
+      "IDcode": "JUY-796",
+      "title": "ねぇ？そんなに叔母さんの下着が見たいの？ 我妻澪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/ae698e79fd670d6ad90a70aa8e42c1b7.jpg",
+      "actress": [
+        "我妻澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-796"
     }
   ]
 };

@@ -53,8 +53,161 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240520/25b94a07-42f1-4a70-a816-22db191d352f.jpg",
     "https://picture.yoshiclub.xyz/20240520/5e989198-3e93-4091-a52e-a1537b407f0c.jpg"
   ],
-  "works_count": 9,
+  "works_count": 10,
   "related_dramas": [
+    {
+      "id": 14572,
+      "IDcode": "KDMI-054",
+      "title": "性感長腿的 cosplay FUCK 太棒了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-05-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20241220/623f6f51-9e53-482f-93e9-1e7ba769b41e.jpg",
+      "actress": [
+        "沙月惠奈",
+        "小花暖",
+        "東條夏",
+        "水原みその",
+        "乃木蛍",
+        "結城蘭",
+        "希志亞美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KDMI-054"
+    },
+    {
+      "id": 87396,
+      "IDcode": "DDHZ-016",
+      "title": "監禁中毒女 閉所恐怖症のキャリアウーマン 希代あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2022-07-19",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9ebd9f5202ba7afe38aee4451b4cd0a8.jpg",
+      "actress": [
+        "希志亞美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-016"
+    },
+    {
+      "id": 86251,
+      "IDcode": "SHKD-981",
+      "title": "【※閲覧注意】騙しナンパ輪● 希代あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2021-12-07",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/fe956c52b99c719562a7bf648bd24285.jpg",
+      "actress": [
+        "希志亞美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-981"
+    },
+    {
+      "id": 78686,
+      "IDcode": "MSFH-060",
+      "title": "媚薬でガンギマりした身体を容赦なく激ピス！限界突破！ビッチャビチャ失禁絶頂地獄 希代あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2021-05-07",
+      "cover_url": "",
+      "actress": [
+        "希志亞美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-060"
+    },
+    {
+      "id": 90927,
+      "IDcode": "BONY-038",
+      "title": "美丽的人寿保险小姐-希代あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志亞美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-038"
+    },
+    {
+      "id": 86205,
+      "IDcode": "SHKD-984",
+      "title": "你可以随意强奸她-希代あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希志亞美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-984"
+    },
+    {
+      "id": 86003,
+      "IDcode": "RBK-039",
+      "title": "狂热的目标",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bdf3054e7d663df4abd093/cover.jpg",
+      "actress": [
+        "藤田梢",
+        "希志亞美",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-039"
+    },
+    {
+      "id": 80635,
+      "IDcode": "ADN-376",
+      "title": "当着丈夫面被强奸-希代あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-12/7a61c2eb89ab365121781b33a6323402.jpg",
+      "actress": [
+        "希志亞美",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-376"
+    },
+    {
+      "id": 68195,
+      "IDcode": "MRSS-138",
+      "title": "精子提供者-希代あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/15/6875d57a43d697271646ce21/cover.jpg",
+      "actress": [
+        "希志亞美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-138"
+    },
     {
       "id": 5128,
       "IDcode": "BONY-150",
@@ -62,9 +215,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-20",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092134322322_thumbnail.webp",
       "actress": [
         "乙愛麗絲",
@@ -85,137 +238,6 @@ window.actressData = {
         "若宫穂乃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-150"
-    },
-    {
-      "id": 90927,
-      "IDcode": "BONY-038",
-      "title": "BONY-038",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-02-14",
-      "cover_url": "",
-      "actress": [
-        "希志亞美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-038"
-    },
-    {
-      "id": 68195,
-      "IDcode": "MRSS-138",
-      "title": "妻との子どもが欲しいが僕が男性不妊だったので、精子提供者に直接中出ししてもらうことになった 希代あみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2022-09-06",
-      "cover_url": "",
-      "actress": [
-        "希志亞美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MRSS-138"
-    },
-    {
-      "id": 87396,
-      "IDcode": "DDHZ-016",
-      "title": "監禁中毒女 閉所恐怖症のキャリアウーマン 希代あみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-07-19",
-      "cover_url": "",
-      "actress": [
-        "希志亞美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-016"
-    },
-    {
-      "id": 86003,
-      "IDcode": "RBK-039",
-      "title": "新奴●捜査官9 マニアの標的",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-03-01",
-      "cover_url": "",
-      "actress": [
-        "藤田梢",
-        "希志亞美",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-039"
-    },
-    {
-      "id": 80635,
-      "IDcode": "ADN-376",
-      "title": "夫の目の前で犯●れて― 出張先の相部屋で 希代あみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-02-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/d61ee404561996782ac37e8c6dd309e1.jpg",
-      "actress": [
-        "希志亞美",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-376"
-    },
-    {
-      "id": 86205,
-      "IDcode": "SHKD-984",
-      "title": "親友だと思ってたのアンタだけだよ？w この女ムカつくから好き放題レ●プしちゃっていいよーw 希代あみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-01-04",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/307fa9513a8b7e5de377f3e057358107.jpg",
-      "actress": [
-        "希志亞美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-984"
-    },
-    {
-      "id": 86251,
-      "IDcode": "SHKD-981",
-      "title": "【※閲覧注意】騙しナンパ輪● 希代あみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/fe956c52b99c719562a7bf648bd24285.jpg",
-      "actress": [
-        "希志亞美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-981"
-    },
-    {
-      "id": 78686,
-      "IDcode": "MSFH-060",
-      "title": "媚薬でガンギマりした身体を容赦なく激ピス！限界突破！ビッチャビチャ失禁絶頂地獄 希代あみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2021-05-07",
-      "cover_url": "",
-      "actress": [
-        "希志亞美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MSFH-060"
     }
   ]
 };

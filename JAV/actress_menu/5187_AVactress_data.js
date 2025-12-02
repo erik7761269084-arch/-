@@ -4,7 +4,7 @@ window.actressData = {
   "name": "真岛かおる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 83793,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-16",
       "cover_url": "",
       "actress": [
@@ -42,15 +42,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-123"
     },
     {
-      "id": 82637,
-      "IDcode": "HND-449",
-      "title": "目覚めたら、中出しSEXされてました… 佐々木あき",
+      "id": 99740,
+      "IDcode": "326GAR-416",
+      "title": "ギャルVS 悪ガキ痴漢レイプ！！ 4 病院＆映画館編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2017-11-03",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-02-05",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1gar416/1gar416pl.jpg",
+      "actress": [
+        "上原花恋",
+        "真岛かおる",
+        "早坂リア",
+        "西村江梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=326GAR-416"
+    },
+    {
+      "id": 82637,
+      "IDcode": "HND-449",
+      "title": "美女妈妈-真島かおる 佐々木あき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "佐佐木明希",

@@ -35,70 +35,20 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 4034,
-      "IDcode": "SAN-376",
-      "title": "被打工店長勾引徹底淪陷的人妻 ~ 富岡亞里沙",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-07-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203830846846_86082_thumbnail.webp",
-      "actress": [
-        "富岡亞里沙"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-376"
-    },
-    {
-      "id": 10150,
-      "IDcode": "JUQ-923",
-      "title": "換妻酒吧NTR 被騙來的人妻突然對蜂擁而至的男人着迷了 ~ 庵姬花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/202412050855008282.jpg",
-      "actress": [
-        "庵姬花",
-        "富岡亞里沙"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-923"
-    },
-    {
       "id": 92027,
       "IDcode": "KSBJ-285",
-      "title": "卑猥な舌使いで義父を誘惑するおしゃぶり大好き欲求不満妻 富岡ありさ",
+      "title": "一位欲求不满的妻子-富岡ありさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2024-02-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/92003160f7903af1cc07c6c05e75be70.jpg",
       "actress": [
         "富岡亞里沙"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-285"
-    },
-    {
-      "id": 17179,
-      "IDcode": "NACR-740",
-      "title": "我想有人玩弄我的的乳頭！滿足素人受虐狂男人的願望，甜美蕩婦女孩！！富岡亞里沙",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-12-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20231220/b6bb26b0-8cac-4c71-891b-26ba240c75ff.jpg",
-      "actress": [
-        "富岡亞里沙",
-        "まーち"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-740"
     },
     {
       "id": 89661,
@@ -107,10 +57,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-06-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/4e15b7caf9d6be1d39b4ae81cfec4051.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a203eadb8c77d79bb694fd/cover.jpg",
       "actress": [
         "新山ちなつ",
         "富岡亞里沙",
@@ -118,6 +68,56 @@ window.actressData = {
         "もっともあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-073"
+    },
+    {
+      "id": 17179,
+      "IDcode": "NACR-740",
+      "title": "满足素人M男愿望的痴女-富冈亚里沙",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231220/b6bb26b0-8cac-4c71-891b-26ba240c75ff.jpg",
+      "actress": [
+        "富岡亞里沙",
+        "まーち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-740"
+    },
+    {
+      "id": 10150,
+      "IDcode": "JUQ-923",
+      "title": "发生酒吧已婚妇女NTR-庵ひめか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a6aa8daf6b1db43c2fbb/cover.jpg",
+      "actress": [
+        "庵姬花",
+        "富岡亞里沙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-923"
+    },
+    {
+      "id": 4034,
+      "IDcode": "SAN-376",
+      "title": "パート先の店長に寝取られて完堕ちした人妻 富岡ありさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203830846846_86082_thumbnail.webp",
+      "actress": [
+        "富岡亞里沙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-376"
     }
   ]
 };

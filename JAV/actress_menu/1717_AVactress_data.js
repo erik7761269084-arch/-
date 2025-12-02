@@ -24,8 +24,56 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-七海なな.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 1298,
+      "IDcode": "HEYZO-2553",
+      "title": "連續中出 我把七海奈奈當玩具操",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2021-06-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20230819/20230819233821594594.jpg",
+      "actress": [
+        "七海奈奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2553"
+    },
+    {
+      "id": 141782,
+      "IDcode": "120721-001",
+      "title": "干净利落的美女连续喷三下",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250129-1/9012e311b4f6ed55700c8861d73d24ec.jpg",
+      "actress": [
+        "七海奈奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=120721-001"
+    },
+    {
+      "id": 141607,
+      "IDcode": "080721-001",
+      "title": "最佳泡泡公主物语Vol.91",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250128-1/01b01f03e8339b19240ede2f8b2d8656.jpg",
+      "actress": [
+        "七海奈奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=080721-001"
+    },
     {
       "id": 1539,
       "IDcode": "SOE-440",
@@ -33,10 +81,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "S1",
-      "publish_date": "2010-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/9f48f8bf-17b7-4621-ae79-ced28375029c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/e219ffa01a9c91cd6ca24c0ad21c549b.jpg",
       "actress": [
         "七海奈奈"
       ],

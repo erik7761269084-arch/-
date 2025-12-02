@@ -4,7 +4,7 @@ window.actressData = {
   "name": "篠原杏",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2012-06-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/d8e476aab37007364cb6fe22defbe32c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/e1daa596ee8ddb1578c0b80c3ef42cd1.jpg",
       "actress": [
         "篠原杏"
       ],

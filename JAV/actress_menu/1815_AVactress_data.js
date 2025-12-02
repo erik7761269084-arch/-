@@ -29,19 +29,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240815/9675af3d-719f-4e0c-bc51-591277f829c4.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 9788,
-      "IDcode": "JURA-131",
-      "title": "AV剛入行的人妻第3作 ~ 伊織知世",
+      "id": 12695,
+      "IDcode": "JRZE-203",
+      "title": "第一次拍攝的人妻紀錄片-伊織知世",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2024-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241219/56c6fa3d-9a7c-40c9-8d14-117b8239a640.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c55ca3d6fbef4e90a92521/cover.jpg",
+      "actress": [
+        "伊織知世"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-203"
+    },
+    {
+      "id": 9788,
+      "IDcode": "JURA-131",
+      "title": "初射人妻文献第3章-伊织知世",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250124-1/43417b2e030a0b1c34eea9c54eea6429.jpg",
       "actress": [
         "伊織知世"
       ],

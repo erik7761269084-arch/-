@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ジンボ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 10643,
       "IDcode": "PPPE-280",
-      "title": "你老婆有這麼大的奶子給你舔嗎？被巨乳淫蕩女上司引誘後乳交榨精 ～ 辻井ほのか",
+      "title": "奥さんはこんなに乳ズリしてくれる？寝取り淫語で痴女られパイズリ搾精してくる巨乳女上司",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OPPAI",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/202411140822451414.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678896495d57b64bfd2c92b4/cover.jpg",
       "actress": [
         "辻井穗乃果",
         "ジンボ"

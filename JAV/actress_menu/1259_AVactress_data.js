@@ -38,19 +38,56 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250514/f70dccde-15bb-4ec3-844f-710f67fe2eb8_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250514/f338850a-3dcb-4b79-88d6-9537cb808974_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 5004,
-      "IDcode": "MIRD-257",
-      "title": "青春無內少女的純真校園 私立無內學園 ~ 美澄玲衣 新垣まりん 花芽有朱 若月もあ 下川紬 朝海凪咲 湊波流 乙葉らぶ",
+      "id": 5237,
+      "IDcode": "HRSM-099",
+      "title": "對面房間的超辣無防備妹子！巨乳晃眼又露底誘惑，偷看被抓包後竟被邀入房狂榨精 ～ 柏木小夏 朝倉由良 下川紬 桃瀨日葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032726442442_thumbnail.webp",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2025-06-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071433859859_thumbnail.webp",
+      "actress": [
+        "柏木小夏",
+        "桃瀨日葵",
+        "朝倉由良",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-099"
+    },
+    {
+      "id": 6166,
+      "IDcode": "NGHJ-009",
+      "title": "仲良し兄妹限定！せまーいお風呂で密着混浴体験！10年ぶりの兄妹風呂で妹のプリケツちらり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e6a9198bc99dfdd032b06/cover.jpg",
+      "actress": [
+        "柏木小夏",
+        "桃瀨日葵",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-009"
+    },
+    {
+      "id": 5004,
+      "IDcode": "MIRD-257",
+      "title": "履いてない青春真っただ中の汚れなき少女たち 私立ノーパン学園",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dac14c92318f97d4a4254/cover.jpg",
       "actress": [
         "美澄玲衣",
         "湊波流",
@@ -68,22 +105,29 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
-      "id": 6166,
-      "IDcode": "NGHJ-009",
-      "title": "兄妹限定！超小浴室貼身混浴體驗！十年沒一起洗澡，妹妹翹臀若隱若現，胸部走光，忍不住直接內射開幹！ ~ 柏木小夏 下川紬 桃瀨日葵",
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-05-10",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250514/202505140910007474_thumbnail.webp",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
       "actress": [
-        "柏木小夏",
-        "桃瀨日葵",
+        "绫濑心",
+        "泉莉音",
+        "東雲梓",
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
         "下川紬"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
     }
   ]
 };

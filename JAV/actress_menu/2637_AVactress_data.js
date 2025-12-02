@@ -32,7 +32,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250705/32fd72f9-51fc-4e71-a75d-dfb400bd1ade_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 81880,
@@ -41,14 +41,55 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-01",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/6160d2886eafba6cda0c1b83f3936c53.jpg",
       "actress": [
         "高嶋亜美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSSTH-041"
+    },
+    {
+      "id": 99571,
+      "IDcode": "DANDY-466",
+      "title": "「採精室でイケメン患者と2人きり！不意打ち射精に驚き精子を採取出来なかった熟年看護師が謝りながら2発目の精液検査を手伝ってくれた」VOL.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-01-08",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dandy466/1dandy466pl.jpg",
+      "actress": [
+        "臼井さと美",
+        "高嶋亜美",
+        "羽鸟みか",
+        "黒崎润"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-466"
+    },
+    {
+      "id": 4688,
+      "IDcode": "NSFS-399",
+      "title": "愛する夫のため、私が一度だけ我慢すれば…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705113254631631_thumbnail.webp",
+      "actress": [
+        "成宮彩葉",
+        "富田优衣",
+        "若槻みづな",
+        "一条綺美香",
+        "名森さえ",
+        "高嶋亜美",
+        "平野里実"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-399"
     }
   ]
 };

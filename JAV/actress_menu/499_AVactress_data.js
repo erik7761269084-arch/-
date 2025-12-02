@@ -50,48 +50,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231011/f16a39f3-fc28-435e-bfa5-e4c039515dae.jpg",
     "https://picture.yoshiclub.xyz/20231011/ca099c97-46d7-46da-84c5-d205f738e3b6.jpg"
   ],
-  "works_count": 8,
+  "works_count": 13,
   "related_dramas": [
-    {
-      "id": 4426,
-      "IDcode": "NMEX-007",
-      "title": "人妻回春按摩店爽到直接硬上弓的刺激故事 ~ 美丘さとみ 葵百合香 稲森美憂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714010227587587_25724_thumbnail.webp",
-      "actress": [
-        "葵百合香",
-        "美丘さとみ",
-        "稲森美憂",
-        "爱花みちる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMEX-007"
-    },
-    {
-      "id": 9003,
-      "IDcode": "DVMM-192",
-      "title": "美腳CA腳出本色出演 街中MM便15周年！顏出解禁！動車女服最高峯！大手航空公社初公開編 8人全員SEX ~ 西尾真裏奈 愛葉陽葵 靜河 稲森美憂 鈴音まゆ 朝陽伊都",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071223830830.jpg",
-      "actress": [
-        "静河",
-        "稲森美憂",
-        "西尾真里奈",
-        "鈴音まゆ",
-        "愛葉陽葵",
-        "朝陽伊都"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
-    },
     {
       "id": 13084,
       "IDcode": "ODVHJ-051",
@@ -99,7 +59,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2024-07-27",
       "cover_url": "https://picture.yoshiclub.xyz/20240727/a91b33c7-6e2d-46e1-a212-0f380b3e92a4.jpg",
@@ -113,29 +73,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-051"
     },
     {
-      "id": 17840,
-      "IDcode": "IPX-890",
-      "title": "與討厭到死的公司上司出差在溫泉旅館住同房… 被醜陋絶倫大叔搞到持續高潮的我。稻森美憂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-06-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113235507512512.jpg",
-      "actress": [
-        "稲森美憂"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-890"
-    },
-    {
       "id": 18086,
       "IDcode": "IPX-859",
       "title": "被競技泳裝愛好者盯上… 有錢跟蹤者狂氣般粘著全都現出的競技泳裝寫真偶像 稻森美憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2022-04-12",
       "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031234716664664.jpg",
@@ -145,29 +89,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-859"
     },
     {
-      "id": 18105,
-      "IDcode": "IPX-840",
-      "title": "出差住同房NTR 被上司內射一晚上的美人女社員 稻森美憂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2022-03-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029213830704704.jpg",
-      "actress": [
-        "稲森美憂"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-840"
-    },
-    {
       "id": 18124,
       "IDcode": "IPX-821",
       "title": "美麗大姊唾液交織激吻性交 稻森美憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2022-02-08",
       "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029005355881881.jpg",
@@ -183,7 +111,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2021-12-14",
       "cover_url": "https://picture.yoshiclub.xyz/20231013/20231013014611992992.jpg",
@@ -191,6 +119,170 @@ window.actressData = {
         "稲森美憂"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-786"
+    },
+    {
+      "id": 18371,
+      "IDcode": "IPX-768",
+      "title": "現役写真偶像稲森美憂下海首部AV亮相 FIRST IMPRESSION 150 解禁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2021-11-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20231011/20231011005925733733.jpg",
+      "actress": [
+        "稲森美憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-768"
+    },
+    {
+      "id": 18173,
+      "IDcode": "IPX-802",
+      "title": "絶頂覚醒-稲森美憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231025/20231025234549530530.jpg",
+      "actress": [
+        "稲森美憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-802"
+    },
+    {
+      "id": 18105,
+      "IDcode": "IPX-840",
+      "title": "女子社員-稲森美憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029213830704704.jpg",
+      "actress": [
+        "稲森美憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-840"
+    },
+    {
+      "id": 17957,
+      "IDcode": "IPX-874",
+      "title": "絶頂FUCK-稲森美憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231107/20231107050439571571.jpg",
+      "actress": [
+        "稲森美憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-874"
+    },
+    {
+      "id": 17840,
+      "IDcode": "IPX-890",
+      "title": "温泉旅館-稲森美憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113235507512512.jpg",
+      "actress": [
+        "稲森美憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-890"
+    },
+    {
+      "id": 13085,
+      "IDcode": "MDVHJ-106",
+      "title": "永遠不能告訴丈夫，我被公公操了......合集4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43892dbf24d4ed3012e65/cover.jpg",
+      "actress": [
+        "宮西光",
+        "水端麻美",
+        "稲森美憂",
+        "成宮彩葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-106"
+    },
+    {
+      "id": 9003,
+      "IDcode": "DVMM-192",
+      "title": "大手航空会社のキャビンアテンダント 初めての公開ディープキス編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071223830830.jpg",
+      "actress": [
+        "静河",
+        "稲森美憂",
+        "西尾真里奈",
+        "鈴音まゆ",
+        "愛葉陽葵",
+        "朝陽伊都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-192"
+    },
+    {
+      "id": 4426,
+      "IDcode": "NMEX-007",
+      "title": "ハンパなく気持ち良い人妻回春エステで生本番やれた話",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714010227587587_25724_thumbnail.webp",
+      "actress": [
+        "葵百合香",
+        "美丘さとみ",
+        "稲森美憂",
+        "爱花みちる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMEX-007"
+    },
+    {
+      "id": 4102,
+      "IDcode": "OFJE-608",
+      "title": "顔射は可愛いければ可愛いほど興奮できる 絶世美女60名に合計101発の大量顔射ベスト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040153992992_57267_thumbnail.webp",
+      "actress": [
+        "楓花戀",
+        "七泽美亚",
+        "小野六花",
+        "八木奈々",
+        "加美杏奈",
+        "水卜櫻",
+        "未步奈奈",
+        "三田真鈴",
+        "稲森美憂",
+        "あまねまひな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-608"
     }
   ]
 };

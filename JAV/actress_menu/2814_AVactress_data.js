@@ -33,7 +33,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250705/8affcdba-9471-4960-919a-f08670d3e814_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 87233,
@@ -42,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
       "publish_date": "2022-07-26",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230721-1/b0057a61e31b5cd6049fe588d9ad702c.jpg",
@@ -62,14 +62,14 @@ window.actressData = {
     {
       "id": 68401,
       "IDcode": "VENU-782",
-      "title": "定年退職してヒマになったドスケベ義父の嫁いぢり 総集編2 4時間",
+      "title": "退休义父沉迷儿媳肉体 仓多真绪×水野朝阳×江上しほ 椎名空多人淫乱总集篇",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2018-05-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250315-1/5710291d2fa3151532bcc5a4436bb773.jpg",
       "actress": [
         "仓多真央",
         "上山奈々",
@@ -81,6 +81,28 @@ window.actressData = {
         "清城雪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENU-782"
+    },
+    {
+      "id": 4688,
+      "IDcode": "NSFS-399",
+      "title": "愛する夫のため、私が一度だけ我慢すれば…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705113254631631_thumbnail.webp",
+      "actress": [
+        "成宮彩葉",
+        "富田优衣",
+        "若槻みづな",
+        "一条綺美香",
+        "名森さえ",
+        "高嶋亜美",
+        "平野里実"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-399"
     }
   ]
 };

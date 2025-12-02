@@ -31,23 +31,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250828/dce2dacb-ef7e-47ce-8e62-70816e5f52da_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 3200,
       "IDcode": "CAWD-866",
-      "title": "新人出道！京都室町 老鋪和服店千金小姐初下海 AV DEBUT ~ 塚本さや",
+      "title": "和服店的女儿激情中出-塚本さや",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-08-28",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828023659315315_83625_thumbnail.webp",
       "actress": [
         "塚本沙耶"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-866"
+    },
+    {
+      "id": 2220,
+      "IDcode": "CAWD-877",
+      "title": "老字号服饰店家大小姐因忙到没自慰的时间-塚本さや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "塚本沙耶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-877"
     }
   ]
 };

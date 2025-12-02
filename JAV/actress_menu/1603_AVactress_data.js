@@ -34,36 +34,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 9498,
-      "IDcode": "SAN-304",
-      "title": "可以隨便睡的女孩 2 ~ 櫻佳奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2024-12-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20241231/0d155514-bdea-41fb-b509-61b76d9589b0.jpg",
-      "actress": [
-        "櫻佳奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-304"
-    },
-    {
       "id": 10460,
       "IDcode": "BONY-127",
-      "title": "地味娘的真面目是會社的性約社員 ~ 櫻佳奈",
+      "title": "地味で真面目なメガネ娘は会社の言いなり性約社員 桜かな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122051838362362.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787c4d78daf6b1db43c336a/cover.jpg",
       "actress": [
         "櫻佳奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-127"
+    },
+    {
+      "id": 9498,
+      "IDcode": "SAN-304",
+      "title": "いただき女子かなちゃん2 桜かな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c69d74cf22ae3e041b799f/cover.jpg",
+      "actress": [
+        "櫻佳奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-304"
     }
   ]
 };

@@ -34,19 +34,19 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230120/ab4c40e9-df0a-4f3c-912f-3715b9217789.jpg",
     "https://picture.yoshiclub.xyz/20230120/1c919715-0a4d-4d6c-bc11-f398e4bb444c.jpg"
   ],
-  "works_count": 3,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 18261,
       "IDcode": "ABF-037",
-      "title": "鈴村愛理和素人粉丝兩人獨處的一天，徹底連賢者時間都不顧的8次射精。 超越極限的性慾榨取。",
+      "title": "素人一泊二日8发射精-铃村爱理",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231020/5711f9da-420e-4c16-8cac-de6a8d0de274.jpg",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/ab8a6efb741f2fbc903ff498d6235255.jpg",
       "actress": [
         "鈴村愛里",
         "村上涼子",
@@ -62,32 +62,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-037"
     },
     {
-      "id": 2034,
-      "IDcode": "SMBD-03",
-      "title": "S Model 03 : 大塚咲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2009-10-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/c40bc22c-51c4-4cf9-8f8f-2abfbd246557.webp",
-      "actress": [
-        "大冢咲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-03"
-    },
-    {
       "id": 1999,
       "IDcode": "CWPBD-05",
-      "title": "走秀毒藥 05：第一部（高清）",
+      "title": "大塚咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2009-09-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20230120/20230120080647990990.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "大冢咲"
       ],

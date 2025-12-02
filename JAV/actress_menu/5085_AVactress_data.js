@@ -31,8 +31,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MARRION",
+      "type": "",
+      "company": "",
       "publish_date": "2019-12-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/66dc1127dbc8b5e6d72a862171ffa2f9.jpg",
       "actress": [

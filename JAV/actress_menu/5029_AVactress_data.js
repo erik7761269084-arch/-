@@ -4,7 +4,7 @@ window.actressData = {
   "name": "アレク",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221029-1/871a69c186fa2e552383f112ab0b940e.jpg",
+      "cover_url": "",
       "actress": [
         "宫村ななこ",
         "アレク"
@@ -42,8 +42,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-26",
       "cover_url": "",
       "actress": [
@@ -59,10 +59,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/cb5a5d686224e05a3223bc646c49a21f.jpg",
+      "cover_url": "",
       "actress": [
         "亜矢みつき",
         "アレク"
@@ -76,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/2b9fbf6ed25e66c4a4e7cbc5486c7723.jpg",
+      "cover_url": "",
       "actress": [
         "大浦真奈美",
         "アレク"

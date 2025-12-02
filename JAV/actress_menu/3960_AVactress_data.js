@@ -22,7 +22,7 @@ window.actressData = {
     "Mashiro An"
   ],
   "gallery": [],
-  "works_count": 21,
+  "works_count": 28,
   "related_dramas": [
     {
       "id": 87732,
@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2023-07-20",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231012/de0bjFz6/1.jpg",
       "actress": [
         "八乃翼",
         "真城杏",
@@ -49,10 +49,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/GzYTuuTy/1.jpg",
       "actress": [
         "真木今日子",
         "一条美绪",
@@ -70,7 +70,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2020-03-07",
       "cover_url": "",
@@ -92,7 +92,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230101-34/ab1d7652e2dc40699f9b172710fa724a.jpg",
@@ -113,7 +113,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-02-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/7f34b841479243d98ebacd3833134461.jpg",
@@ -134,10 +134,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
       "publish_date": "2020-01-19",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221229-1/1b6375fda805ce2e4c44fc28bb76dd2f.jpg",
       "actress": [
         "真木今日子",
         "七草千歲",
@@ -157,7 +157,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2020-01-17",
       "cover_url": "",
@@ -176,10 +176,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-01",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/7806b0de6c48f72f2e586bd2757ce795.jpg",
       "actress": [
         "真木今日子",
         "塚田詩織",
@@ -199,7 +199,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2019-12-27",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/42615cc80633d5033b5169729216438c.jpg",
@@ -216,58 +216,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-077"
     },
     {
-      "id": 75798,
-      "IDcode": "HOKS-056",
-      "title": "48手 夫婦の営み",
+      "id": 103079,
+      "IDcode": "AUKG-469",
+      "title": "レズビアンエタニティ ～巨乳エロティック動画配信レズビアン～ ましろ杏 真木今日子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FAプロ",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
-      "actress": [
-        "羽月希",
-        "真城杏",
-        "凉城りおな",
-        "三高由莉子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-056"
-    },
-    {
-      "id": 81390,
-      "IDcode": "VRTM-450",
-      "title": "突然やってきた営業レディは媚薬を飲むと、黒パンストを擦りつけながら淫らに股間を滴らせ、カニバサミで中出しを求めた！ SPECIAL 凛音とうか＆ましろ杏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-09-13",
-      "cover_url": "",
-      "actress": [
-        "凛音とうか",
-        "真城杏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-450"
-    },
-    {
-      "id": 70077,
-      "IDcode": "XRW-727",
-      "title": "ショタ好き義母や保健教諭、巨乳枕営業OLが登場して男を●すドラマ 瀬戸すみれ・真木今日子・ましろ杏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-08-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/88b3cc05995453daee590c6e3fbdb5b6.jpg",
+      "publish_date": "2019-10-01",
+      "cover_url": "",
       "actress": [
         "真木今日子",
-        "真城杏",
-        "瀬戸すみれ"
+        "真城杏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-727"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-469"
     },
     {
       "id": 74731,
@@ -276,7 +239,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "変態紳士倶楽部",
       "publish_date": "2019-08-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/85713d096be1ebab869d87176b66ceab.jpg",
@@ -295,10 +258,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "変態紳士倶楽部",
       "publish_date": "2019-08-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/765207be44f7c244629455058f7171c7.jpg",
       "actress": [
         "渚光希",
         "豊中爱丽丝",
@@ -315,32 +278,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
-      "id": 76863,
-      "IDcode": "SCPX-365",
-      "title": "絶対にヤれる本番交渉術！人妻回春マッサージ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-07-12",
-      "cover_url": "",
-      "actress": [
-        "水川蓳",
-        "春菜华",
-        "君岛美绪",
-        "真城杏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-365"
-    },
-    {
       "id": 74419,
       "IDcode": "HOMA-066",
       "title": "淫魔来襲 淫魔に精子が空になるまで毎晩吸い尽くされる240分BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "H.M.P 芳友舍",
       "publish_date": "2019-06-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250106-1/38db22ae459c31b1d0b4a97b4f720884.jpg",
@@ -360,48 +304,112 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-05-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241230-1/796c9d94418e12e29dc05acc3325dd29.jpg",
+      "cover_url": "",
       "actress": [
         "真城杏"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-389"
     },
     {
-      "id": 77716,
-      "IDcode": "NACR-198",
-      "title": "ノルマ達成のためなら何でもこなしちゃうバツイチママは不動産OL ましろ杏",
+      "id": 99450,
+      "IDcode": "DPHD-106",
+      "title": "潜入捜査官狂乱拷問事件簿 from HYPER DELICIOUS AWABI 人生最悪、屈辱の日 ～三崎麗奈の記録～ ましろ杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2018-12-01",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-04-25",
       "cover_url": "",
       "actress": [
         "真城杏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-198"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPHD-106"
     },
     {
-      "id": 70141,
-      "IDcode": "WA-390",
-      "title": "五つ星美人妻ナンパ中出し 追い打ちピストンで悶死寸前！？SEX痙攣絶頂！",
+      "id": 102817,
+      "IDcode": "JUY-446",
+      "title": "暴風雨 憧れの同級生と二人だけの夜 ましろ杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-15",
+      "publish_date": "2018-04-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/juy446/juy446pl.jpg",
+      "actress": [
+        "真城杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-446"
+    },
+    {
+      "id": 98281,
+      "IDcode": "ATID-165",
+      "title": "特殊捜査官、堕ちるまで… ましろ杏 姫咲りりあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2010-12-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid165/atid165pl.jpg",
+      "actress": [
+        "真城杏",
+        "姫咲りりあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-165"
+    },
+    {
+      "id": 98679,
+      "IDcode": "RBD-208",
+      "title": "奴隷色のステージ10 雪見紗弥 ましろ杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2010-08-07",
       "cover_url": "",
       "actress": [
-        "若宫はずき",
         "真城杏",
-        "森川杏奈"
+        "雪见纱弥"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-208"
+    },
+    {
+      "id": 99609,
+      "IDcode": "SHKD-411",
+      "title": "ミスキャンパス 私はあなたに逆らえない… ましろ杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-06-07",
+      "cover_url": "",
+      "actress": [
+        "真城杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-411"
+    },
+    {
+      "id": 99303,
+      "IDcode": "SHKD-407",
+      "title": "隣のお姉さんを犯したあの日…3 ましろ杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-05-07",
+      "cover_url": "",
+      "actress": [
+        "真城杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-407"
     },
     {
       "id": 88224,
@@ -410,10 +418,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-11-08",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2ba2dc0e408547d9c505f6e3c8cae9ed.jpg",
       "actress": [
         "真木今日子",
         "浅美结花",
@@ -425,21 +433,128 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDEN-038"
     },
     {
+      "id": 81390,
+      "IDcode": "VRTM-450",
+      "title": "突然やってきた営業レディは媚薬を飲むと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "凛音とうか",
+        "真城杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-450"
+    },
+    {
+      "id": 77716,
+      "IDcode": "NACR-198",
+      "title": "ノルマ達成のためなら何でもこなしちゃうバツイチママは不動産OL ましろ杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c3d30fd3c0f54e85ac6e6d06a84eccb0.jpg",
+      "actress": [
+        "真城杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-198"
+    },
+    {
+      "id": 76863,
+      "IDcode": "SCPX-365",
+      "title": "絶対にヤれる本番交渉術！人妻回春マッサージ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8402506de9917b853a556e685dd18278.jpg",
+      "actress": [
+        "水川蓳",
+        "春菜华",
+        "君岛美绪",
+        "真城杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-365"
+    },
+    {
       "id": 76453,
       "IDcode": "MIDD-748",
       "title": "巨乳W女教師 ～極上BODYと夢の逆3P！～ かすみりさ ましろ杏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-03-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/a823f40547beaf1c898687222f901485.jpg",
       "actress": [
         "松岡仁美",
         "真城杏"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-748"
+    },
+    {
+      "id": 75798,
+      "IDcode": "HOKS-056",
+      "title": "48人情侣活动 年轻夫妇的初四十八手，深不可测的无双夫妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/dd3dfa8d300575897282dd0f5b809bd5.jpg",
+      "actress": [
+        "羽月希",
+        "真城杏",
+        "凉城りおな",
+        "三高由莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-056"
+    },
+    {
+      "id": 70141,
+      "IDcode": "WA-390",
+      "title": "五つ星美人妻ナンパ中出し 追い打ちピストンで悶死寸前！？SEX痙攣絶頂！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f1085f4a9e5b803e968e7aba8f8e1e95.jpg",
+      "actress": [
+        "若宫はずき",
+        "真城杏",
+        "森川杏奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-390"
+    },
+    {
+      "id": 70077,
+      "IDcode": "XRW-727",
+      "title": "ショタ好き義母や保健教諭、巨乳枕営業OLが登場して男を●すドラマ 瀬戸すみれ・真木今日子・ましろ杏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7cbfd6b7d55355247ed5cf59c8314c81.jpg",
+      "actress": [
+        "真木今日子",
+        "真城杏",
+        "瀬戸すみれ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-727"
     }
   ]
 };

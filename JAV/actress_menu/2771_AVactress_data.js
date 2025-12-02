@@ -43,34 +43,15 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 68502,
-      "IDcode": "SDMUA-009",
-      "title": "打開玄關就馬上做愛！看到的肉棒全部都要無差彆狩獵播種肉食太太們的騎乘位性交！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-12-22",
-      "cover_url": "",
-      "actress": [
-        "黑川堇",
-        "佐倉陽菜",
-        "瀧澤萊拉",
-        "岩下たろう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-009"
-    },
-    {
       "id": 107020,
       "IDcode": "SDMU-994",
-      "title": "「童貞なんて捨てちゃおうよ!1日でヤリチンになっちゃお?」筆下ろし大好きトリプル痴女に童貞君をお届け!",
+      "title": "让我们失去童贞",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-11-23",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "瀧澤萊拉",
@@ -80,16 +61,35 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-994"
     },
     {
+      "id": 68502,
+      "IDcode": "SDMUA-009",
+      "title": "一打开前门就有性爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250331-1/a72f6be679078c1b82d0709e389d641e.jpg",
+      "actress": [
+        "黑川堇",
+        "佐倉陽菜",
+        "瀧澤萊拉",
+        "岩下たろう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-009"
+    },
+    {
       "id": 2036,
       "IDcode": "KMHRS-023",
-      "title": "帥哥女子看見巨大肉棒體會衝擊高潮絶頂 瀧澤萊拉",
+      "title": "巨大肉棒-滝沢ライラ",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2020-06-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230213/20230213094503885885.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/90a4ef4c2c8d59ae60e7720b7e3275a8.jpg",
       "actress": [
         "瀧澤萊拉"
       ],

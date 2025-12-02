@@ -4,7 +4,7 @@ window.actressData = {
   "name": "一彻（铃木一彻）",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/495de9bb1d35194ea4d8ce7db3f27871.jpg",
+      "cover_url": "",
       "actress": [
         "葵千恵",
         "一彻（铃木一彻）",
@@ -43,10 +43,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/ac83a17a8c53e56e95344a4ac54635e5.jpg",
+      "cover_url": "",
       "actress": [
         "葵千恵",
         "一彻（铃木一彻）",
@@ -56,13 +56,13 @@ window.actressData = {
     },
     {
       "id": 81699,
-      "IDcode": "GRCH-2801",
+      "IDcode": "GRCH-280",
       "title": "GIRL’S CH 5周年 ユーザー様が選ぶ Best select 【復刻版】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-13",
       "cover_url": "",
       "actress": [
@@ -71,7 +71,7 @@ window.actressData = {
         "有马芳彦",
         "一彻（铃木一彻）"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-2801"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-280"
     },
     {
       "id": 81639,
@@ -80,8 +80,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-13",
       "cover_url": "",
       "actress": [

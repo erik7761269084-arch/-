@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桜アン",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "変態紳士倶楽部",
       "publish_date": "2019-08-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/765207be44f7c244629455058f7171c7.jpg",
       "actress": [
         "渚光希",
         "豊中爱丽丝",
@@ -45,33 +45,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
     },
     {
-      "id": 77764,
-      "IDcode": "MCT-045",
-      "title": "桜アンとガチ飲み 泥酔媚薬痴態",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-06-07",
-      "cover_url": "",
-      "actress": [
-        "沢井亮",
-        "桜アン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCT-045"
-    },
-    {
       "id": 74414,
       "IDcode": "HUNTA-600",
       "title": "義姉のピタパン尻に大興奮でマーメイド連続爆イキするほど激しく突きまくり！スカートなんて履かない男っぽい性格の義姉だけど、色気を隠しきれないピタ尻が気になって仕方がない！！そんな義姉の着替えを目撃してしまったんだけど…ズボンがキツくて大きいお尻が丸出しに…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2019-05-19",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/6daa4dfd54747e00a7115397d162a65e.jpg",
       "actress": [
         "小泉真理",
         "香苗レノン",
@@ -87,10 +70,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2017-11-02",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/6eb8f3d82d9f7929d249ef5fd57fd50a.jpg",
       "actress": [
         "MIRANO",
         "桜アン",
@@ -98,6 +81,23 @@ window.actressData = {
         "一ノ瀬夏摘"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-042"
+    },
+    {
+      "id": 77764,
+      "IDcode": "MCT-045",
+      "title": "桜アンとガチ飲み 泥酔媚薬痴態",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "沢井亮",
+        "桜アン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCT-045"
     }
   ]
 };

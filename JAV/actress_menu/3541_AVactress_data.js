@@ -25,16 +25,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 64053,
-      "IDcode": "VNDS-5222",
-      "title": "兄嫁の卑猥な肉体 180分",
+      "id": 76498,
+      "IDcode": "MOND-177",
+      "title": "憧れの女上司と 郡司結子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-05-20",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/3843cc17/vod.jpg",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/b6cc0818bf110c778db6891a3b13ee57.jpg",
+      "actress": [
+        "郡司结子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-177"
+    },
+    {
+      "id": 64053,
+      "IDcode": "VNDS-5222",
+      "title": "兄嫁の卑猥な肉体 180分小日向まい 加藤ツバキ（夏樹カオル） 染谷さとみ 柏原友美恵 夜空奈歩 さくら悠 筒井まりか 水澤まお（永沢まおみ） 高島恭子 郡司結子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "水澤真央",
         "夏树カオル",
@@ -46,22 +62,6 @@ window.actressData = {
         "高岛恭子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-5222"
-    },
-    {
-      "id": 76498,
-      "IDcode": "MOND-177",
-      "title": "憧れの女上司と 郡司結子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2019-11-28",
-      "cover_url": "",
-      "actress": [
-        "郡司结子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-177"
     }
   ]
 };

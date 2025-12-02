@@ -41,14 +41,14 @@ window.actressData = {
     {
       "id": 4506,
       "IDcode": "MIAB-519",
-      "title": "童顏書店妹子身高145cm卻有H罩杯大奶 看起來老實內心卻是渴望被大屌調教的抖M小騷貨",
+      "title": "童顔で地味な書店員は145cmミニマムHカップ 真面目に見えてデカチンで犯●れたいドMの雑魚マ●コでした。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032722230230_72512_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250714-1/466ac48e215433f5e7e18dd335caff33.jpg",
       "actress": [
         "雪乃夏帆"
       ],

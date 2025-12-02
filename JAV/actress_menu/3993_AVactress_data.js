@@ -31,8 +31,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-07",
       "cover_url": "",
       "actress": [
@@ -48,55 +48,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-029"
     },
     {
-      "id": 70269,
-      "IDcode": "SDMU-528",
-      "title": "「マジックミラー号 スポーツに打ち込みすぎて女心を忘れたノーパン・ノーブラ女子体育大生激イカセ雪溶け生潮大噴射10人10連発！！彼女たちは痙攣しながら生ち○ぽを欲しがる！！その内6人は挿入まで…」",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-03-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/7aa4c71199fa001ed26a87c6c5e1dfef.jpg",
-      "actress": [
-        "迹美珠里",
-        "长泽ルナ",
-        "七海ゆあ",
-        "森保さな",
-        "埴生みこ",
-        "桜庭うれあ",
-        "琴羽雫",
-        "香纯あいか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-528"
-    },
-    {
-      "id": 72732,
-      "IDcode": "LID-031",
-      "title": "微乳A とっても感じる小っちゃいおっぱい 琴羽雫",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-07-01",
-      "cover_url": "",
-      "actress": [
-        "琴羽雫"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LID-031"
-    },
-    {
       "id": 73582,
       "IDcode": "MIRD-163",
       "title": "果てしなく従順なメイド10名と暮らす王様",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2016-05-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/c0e3f6fb3fc6cbf781201f0d7ed0cf8c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7c98aa1ee2ca4fc8a3e34b74ea5acfce.jpg",
       "actress": [
         "椎名空",
         "眞白愛梨",
@@ -110,6 +71,45 @@ window.actressData = {
         "玉城マイ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
+    },
+    {
+      "id": 72732,
+      "IDcode": "LID-031",
+      "title": "微乳A とっても感じる小っちゃいおっぱい 琴羽雫",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/0f1132e5d3a901f7e687172a3bb4a943.jpg",
+      "actress": [
+        "琴羽雫"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LID-031"
+    },
+    {
+      "id": 70269,
+      "IDcode": "SDMU-528",
+      "title": "「マジックミラー号 スポーツに打ち込みすぎて女心を忘れたノーパン・ノーブラ女子体育大生激イカセ雪溶け生潮大噴射10人10連発！！彼女たちは痙攣しながら生ち○ぽを欲しがる！！その内6人は挿入まで…」",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7c508c2c0fe13330442f582e8f98b2a6.jpg",
+      "actress": [
+        "迹美珠里",
+        "长泽ルナ",
+        "七海ゆあ",
+        "森保さな",
+        "埴生みこ",
+        "桜庭うれあ",
+        "琴羽雫",
+        "香纯あいか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-528"
     }
   ]
 };

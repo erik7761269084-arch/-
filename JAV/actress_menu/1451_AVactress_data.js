@@ -34,19 +34,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250801/59f88b03-02cb-4fe8-964e-567321b31079_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250801/45728431-96f2-42d3-9b21-c4d69ad6b747_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3147,
-      "IDcode": "MIDA-302",
-      "title": "新人小甜心八坂凪初次解放！性感開發三連發，首次高潮大爆發 ~ 八坂凪",
+      "id": 3964,
+      "IDcode": "MIDA-251",
+      "title": "新・新人 これがあたらしい’可愛い’。八坂凪 AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828022307670670_78454_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084718359359_43033_thumbnail.webp",
+      "actress": [
+        "八坂凪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-251"
+    },
+    {
+      "id": 3147,
+      "IDcode": "MIDA-302",
+      "title": "はじめまして、あたらしい八坂凪。AV界のトップ目指して初めて尽くしの性感開発3本番 初イキ大成長SPECIAL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b41c032cbbe464027d8f17/cover.jpg",
       "actress": [
         "八坂凪",
         "鲛岛"
@@ -54,20 +70,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-302"
     },
     {
-      "id": 3964,
-      "IDcode": "MIDA-251",
-      "title": "新・新人出道 最新的可愛擔當 AV DEBUT ~ 八阪凪",
+      "id": 2160,
+      "IDcode": "MIDA-343",
+      "title": "ぜ～んぶお顔で受け止めてあげる 唾液だくだく全力おしゃぶりフェラチオ顔射 八坂凪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084718359359_43033_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/12/483a400c1741b465f5f552da386b1668.jpg",
       "actress": [
         "八坂凪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-343"
     }
   ]
 };

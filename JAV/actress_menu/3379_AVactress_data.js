@@ -4,7 +4,7 @@ window.actressData = {
   "name": "犬飼果南",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "親父の個撮",
-      "publish_date": "2025-07-10",
-      "cover_url": "https://tutu1.space/images/2025/07/16/974712da7a9ba19f116237ef40531099.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "犬飼果南"
       ],

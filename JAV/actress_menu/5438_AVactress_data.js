@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 87891,
       "IDcode": "SABA-832",
-      "title": "暴露映像 有名人がお忍びで通う会員制リフレ 02",
+      "title": "有名人会偷偷来的会员制沙龙店",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2023-06-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/1c6d1fef3af4f7f5ed1ace269aee430f.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "なつめ爱梨",
         "高城姫华"

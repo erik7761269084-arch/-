@@ -30,24 +30,103 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231202/7eff7100-45c2-4868-a308-196556c04c99.jpg"
   ],
-  "works_count": 1,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 16961,
-      "IDcode": "CAWD-602",
-      "title": "有着燦爛的笑容和美妙的高潮！奇跡般的OL觀月愛菜的第一次體驗 絕頂高潮 3 本番",
+      "id": 17475,
+      "IDcode": "CAWD-599",
+      "title": "新人出道 像彗星一樣卡哇伊般出現的笑容驚人的積極治愈美少女*超新星水木愛奈 首次亮相 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2024-01-02",
+      "publish_date": "2023-12-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20231202/097183fb-8af9-4423-b14f-6c1def86ce19.jpg",
+      "actress": [
+        "觀月愛菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-599"
+    },
+    {
+      "id": 16961,
+      "IDcode": "CAWD-602",
+      "title": "奇迹的高挑素人OL-观月爱奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240102/202401020443227070.jpg",
       "actress": [
         "觀月愛菜",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-602"
+    },
+    {
+      "id": 12975,
+      "IDcode": "CAWD-701",
+      "title": "AV界最美制服10人大亂交！拔出陰莖享受青春！3團體對抗修學旅行！VOL 1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a93ee4a73d4f159aaee4/cover.jpg",
+      "actress": [
+        "天馬唯",
+        "柏木小夏",
+        "沙月惠奈",
+        "望月蕾",
+        "沙月芽衣",
+        "小野寺舞",
+        "日向夏",
+        "設樂夕日",
+        "觀月愛菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-701"
+    },
+    {
+      "id": 12974,
+      "IDcode": "CAWD-702",
+      "title": "AV界最美制服10人大亂交！拔出陰莖享受青春！3團體對抗修學旅行！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a711e4a73d4f159aa8fb/cover.jpg",
+      "actress": [
+        "天馬唯",
+        "柏木小夏",
+        "沙月惠奈",
+        "望月蕾",
+        "沙月芽衣",
+        "小野寺舞",
+        "日向夏",
+        "觀月愛菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-702"
+    },
+    {
+      "id": 12963,
+      "IDcode": "CAWD-709",
+      "title": "屈服於打工妹精致苗條身材的誘惑，沉迷於祕密戀情…… ~ 觀月愛菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d310221572686be7582f49/cover.jpg",
+      "actress": [
+        "觀月愛菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-709"
     }
   ]
 };

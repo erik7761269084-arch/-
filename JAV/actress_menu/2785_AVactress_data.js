@@ -49,13 +49,13 @@ window.actressData = {
     {
       "id": 4966,
       "IDcode": "CAWD-855",
-      "title": "新人出道！如果能夠幫助到大家，那拍A片也是積功德吧！善良的義工妹子 下海拍片支援宅男 AV DEBUT ~ 七瀨穗香",
+      "title": "子ども支援ボランティア活動女子 まさかのAV出演支援 七瀬ほのか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-06-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031628796796_thumbnail.webp",
       "actress": [
         "七瀨穗花"

@@ -25,15 +25,55 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 68365,
-      "IDcode": "UMSO-591",
-      "title": "【FANZA限定】Iカップ以上の爆乳女優ベストセレクション18人 生写真とパンティ付き",
+      "id": 81832,
+      "IDcode": "NACX-051",
+      "title": "お尻を突き出すポーズがエロすぎる！後背位ばかりの動画集51人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-04-01",
+      "cover_url": "https://tuaskbgnekr.com/20231228/q6eU3kEU/1.jpg",
+      "actress": [
+        "西山あさひ",
+        "蒼空なつき",
+        "乃木遥",
+        "桃田香織",
+        "新垣智江",
+        "雪染ちな",
+        "青木りん",
+        "结白まさき",
+        "高司奏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
+    },
+    {
+      "id": 491634,
+      "IDcode": "210AKO-475",
+      "title": "【有码】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/cf94e0070c01e56a7b40835f3e1d4bd2.jpg",
+      "actress": [
+        "雪染ちな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=210AKO-475"
+    },
+    {
+      "id": 68365,
+      "IDcode": "UMSO-591",
+      "title": "Iカップ以上の爆乳女優ベストセレクション18人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-04-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "七草千歲",
@@ -47,46 +87,6 @@ window.actressData = {
         "星野ひびき"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-591"
-    },
-    {
-      "id": 87955,
-      "IDcode": "AKO-475",
-      "title": "CHINA",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-10-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230826-1/80485935534f3958de25b2f69e4d3ced.jpg",
-      "actress": [
-        "雪染ちな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-475"
-    },
-    {
-      "id": 81832,
-      "IDcode": "NACX-051",
-      "title": "お尻を突き出すポーズがエロすぎる！後背位ばかりの動画集51人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2020-04-01",
-      "cover_url": "",
-      "actress": [
-        "西山あさひ",
-        "蒼空なつき",
-        "乃木遥",
-        "桃田香織",
-        "新垣智江",
-        "雪染ちな",
-        "青木りん",
-        "结白まさき",
-        "高司奏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
     }
   ]
 };

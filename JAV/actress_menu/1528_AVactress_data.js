@@ -30,13 +30,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
+      "id": 99151,
+      "IDcode": "DBEB-095",
+      "title": "獣たちの前で女体を徹底的に嬲られて 発狂しながら絶頂する屈辱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-07",
+      "cover_url": "",
+      "actress": [
+        "篠惠美",
+        "春原未来",
+        "村上涼子",
+        "上原亞衣",
+        "松すみれ",
+        "藤北彩香",
+        "山本美和子",
+        "眞木あずさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBEB-095"
+    },
+    {
       "id": 444,
       "IDcode": "HEYZO-0528",
       "title": "我的AV不需要腳本 ~ 鬆すみれ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2014-02-08",
       "cover_url": "https://picture.yoshiclub.xyz/20250121/ab70bbca-008a-4595-addd-59e5e04b642b.jpg",
@@ -44,22 +67,6 @@ window.actressData = {
         "松すみれ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0528"
-    },
-    {
-      "id": 1519,
-      "IDcode": "SKYHD-070",
-      "title": "天天使藍Vol.70：媽祖紫羅蘭 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/ddaab15b-f0f3-4639-b542-560fda71c0e1.webp",
-      "actress": [
-        "松すみれ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-070"
     }
   ]
 };

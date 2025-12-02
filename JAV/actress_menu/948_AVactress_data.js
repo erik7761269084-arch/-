@@ -38,26 +38,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231006/f4c94446-8de1-45a9-92ff-b29f4e30d116.jpg",
     "https://picture.yoshiclub.xyz/20231006/3dd76351-e80a-46c3-a937-f94ed805e7de.jpg"
   ],
-  "works_count": 5,
+  "works_count": 10,
   "related_dramas": [
-    {
-      "id": 95585,
-      "IDcode": "IENF-339",
-      "title": "完璧なアスリートボディ！憧れの女子体育大生が生ハメ杭打ちピストン騎乗位に挑戦！トレーニングで鍛え上げた引き締まった腹筋をビクビクさせて本気の連続イキ！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2024-10-24",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/10/07/311b96e6/vod.jpg",
-      "actress": [
-        "有馬美玖",
-        "有棲奏羽",
-        "橘知花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-339"
-    },
     {
       "id": 94691,
       "IDcode": "STSK-134",
@@ -65,10 +47,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2024-08-01",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240805/SJd5uKcD/1.jpg",
       "actress": [
         "長谷川れいみ",
         "橘知花",
@@ -77,13 +59,29 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-134"
     },
     {
-      "id": 17182,
-      "IDcode": "SDDE-712",
-      "title": "「制服、內衣、全裸」跨界貓咪航空 2023 新 CA 大型訓練版 共 11 人 + 1 位特約教練 團體貓咪艙課程 6 節 165 分鐘 雅子裡菜，黒木逢夢..........",
+      "id": 15843,
+      "IDcode": "CHUC-071",
+      "title": "天真 E 罩杯大奶子女學生喜歡被中出",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-03-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240327/20240327073126413413.jpg",
+      "actress": [
+        "橘知花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-071"
+    },
+    {
+      "id": 17182,
+      "IDcode": "SDDE-712",
+      "title": "「制服、內衣、全裸」跨界貓咪航空 2023 新 CA 大型訓練版 共 11 人 + 1 位特約教練 團體貓咪艙課程 6 節 165 分鐘 雅子裡菜，黒木逢夢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231219/c408f55c-05ae-4243-a474-529803cab372.jpg",
@@ -103,36 +101,123 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-712"
     },
     {
-      "id": 18448,
-      "IDcode": "MTALL-087",
-      "title": "【FANZA限定】宅女每次出門都會遭遇暴雨，濕透透明的身體到處被操",
+      "id": 101814,
+      "IDcode": "NACR-787",
+      "title": "小恶魔新进员工橘千花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "橘知花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-787"
+    },
+    {
+      "id": 100713,
+      "IDcode": "MTALL-080",
+      "title": "放弃成为播音员的NO.1洗浴女郎-橘知花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "MATERIALL",
-      "publish_date": "2023-10-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231006/2f66ded7-68e8-4d72-be4b-83d333ed258f.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/4b96033e5ebee9388664de1398b239e3.jpg",
+      "actress": [
+        "橘知花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-080"
+    },
+    {
+      "id": 95585,
+      "IDcode": "IENF-339",
+      "title": "完璧なアスリートボディ！憧れの女子体育大生が生ハメ杭打ちピストン騎乗位に挑戦！トレーニングで鍛え上げた引き締まった腹筋をビクビクさせて本気の連続イキ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/8d4e50aa5d4f3144b5bad7ea94f9a57c.jpg",
+      "actress": [
+        "有馬美玖",
+        "有棲奏羽",
+        "橘知花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-339"
+    },
+    {
+      "id": 18448,
+      "IDcode": "MTALL-087",
+      "title": "不愛出門的美女-橘知花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MATERIALL",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67893d0a89def9b1b8096225/cover.jpg",
       "actress": [
         "橘知花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-087"
     },
     {
-      "id": 100713,
-      "IDcode": "MTALL-080",
-      "title": "【FANZA限定】新人Gcup巨乳アナウンサーを諦めたNo.1ソープ嬢AVデビュー 橘知花 パンティとチェキ付き",
+      "id": 15327,
+      "IDcode": "BKYNB-051",
+      "title": "用舌頭舔全身的男士按摩院 ~ 橘知花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MATERIALL",
-      "publish_date": "2023-09-07",
-      "cover_url": "",
+      "type": "",
+      "company": "BonBon",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/bdbc091177499f6a674b4132a5ec14a6.jpg",
       "actress": [
         "橘知花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-051"
+    },
+    {
+      "id": 14191,
+      "IDcode": "AMBI-193",
+      "title": "人氣偶像橘知花的祕密工作",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/12/67f96d394e7d663df4b7f540/cover.jpg",
+      "actress": [
+        "橘知花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBI-193"
+    },
+    {
+      "id": 11711,
+      "IDcode": "ONEX-063",
+      "title": "美尻特化！你想和媚淫蕩婦來一場戰鬥嗎？ 02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ONE MORE",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/12a293ce86b3ab5e31913e8132b2c6bd.jpg",
+      "actress": [
+        "橘瑪麗",
+        "松永さな",
+        "橘知花",
+        "桃尻かのん",
+        "凪沙ゆう",
+        "春埼芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEX-063"
     }
   ]
 };

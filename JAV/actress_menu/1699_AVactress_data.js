@@ -30,20 +30,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1805,
-      "IDcode": "LAFBD-79",
-      "title": "林間少女 79 一線鮑妹俱樂部 : 美波遊彩",
+      "id": 158768,
+      "IDcode": "HEYZO-3098",
+      "title": "がお漏らししちゃった！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2016-12-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/7cef415b-afd3-480f-806f-b0a05f6b513e.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/V89HwrWp/1.jpg",
       "actress": [
         "美波遊彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-79"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3098"
     }
   ]
 };

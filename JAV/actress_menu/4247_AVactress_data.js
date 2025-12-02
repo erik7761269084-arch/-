@@ -4,7 +4,7 @@ window.actressData = {
   "name": "叶月ねね",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 72207,
       "IDcode": "ESK-310",
-      "title": "エスカレートするドしろーと娘 310 ねねちゃん20さい",
+      "title": "越干越淫蕩素人妹 310",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-09-06",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/684e5245b0772d4dac1e5884495c4c85.jpg",
       "actress": [
         "市川润",
         "叶月ねね"

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "小池由衣",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 87527,
       "IDcode": "JRZE-119",
-      "title": "初撮り人妻ドキュメント 小池由衣",
+      "title": "初撮人妻-小池由衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2022-07-28",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-9/e04ef6055f1bb3fe021df51ab78141cd.jpg",
       "actress": [
         "小池由衣"
       ],

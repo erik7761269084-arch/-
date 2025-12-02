@@ -34,40 +34,74 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250204/dd2f51ab-f4a4-4caf-810b-9060db76c22a.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 6702,
-      "IDcode": "AVSA-373",
-      "title": "我有兩個老婆，雙倍肉感身材的後宮狂歡 ~ 仲野梢 大原理央",
+      "id": 5288,
+      "IDcode": "PPBD-308",
+      "title": "巨乳妹子爽到大奶亂顫，潮吹噴個不停！極品體液榨乾4小時精選合輯 ~ 楪可怜 小花暖 新井里真 北野未奈 九十九メイ 夏希栗 仲野梢 弥生美月 月野香澄 松本菜奈實",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250419/20250419053528215215_thumbnail.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-06-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614104743306306_thumbnail.webp",
       "actress": [
-        "大原理央",
+        "彌生美月",
+        "北野未奈",
+        "月野香澄",
+        "新井里真",
+        "楪可憐",
+        "小花暖",
+        "松本菜奈実",
+        "夏希栗",
+        "九十九メイ",
         "仲野梢"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-373"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-308"
     },
     {
-      "id": 7459,
-      "IDcode": "BIJN-271",
-      "title": "紀錄：揭露本能高潮：I 罩杯豐滿淫蕩妻子在群交中瘋狂尋歡",
+      "id": 6844,
+      "IDcode": "KSBJ-375",
+      "title": "光滑無毛超誘惑！無毛熟女精選50人集結 ~ 君島美緒 弘中優 永田莉雨 本田瞳 廣瀨里緒菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317093849255255.jpg",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "2025-04-12",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/20250414112455110110_thumbnail.webp",
       "actress": [
-        "仲野梢"
+        "本田瞳",
+        "君島美緒",
+        "弘中優",
+        "赤瀬尚子",
+        "廣瀨里緒菜",
+        "仲野梢",
+        "佐々木咲和"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-271"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-375"
+    },
+    {
+      "id": 8550,
+      "IDcode": "EK-045",
+      "title": "專門針對已婚婦女的月刊情色雜誌：你的身體就是罪！ ！ ！ 45號",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "2025-02-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20250204/04e8f34a-ecde-4961-83ea-10bc4fbec14a.jpg",
+      "actress": [
+        "柏木小夏",
+        "若宮穂乃",
+        "中条りの",
+        "仲野梢",
+        "白川柚子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EK-045"
     },
     {
       "id": 91193,
@@ -76,15 +110,48 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2023-06-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240401-1/fa8b34e99ca88a31b3b43048edfcfa79.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/303641836a65d3a381f99d7d5bcee996.jpg",
       "actress": [
         "仲野梢",
         "ダガー"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-547"
+    },
+    {
+      "id": 7459,
+      "IDcode": "BIJN-271",
+      "title": "I罩杯肉感淫亂妻-仲野梢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317093849255255.jpg",
+      "actress": [
+        "仲野梢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-271"
+    },
+    {
+      "id": 6702,
+      "IDcode": "AVSA-373",
+      "title": "俺の家には奥さんが2人 Wムチムチ肉感BODYでハーレム三昧 RIO＆KOZUE",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250419/20250419053528215215_thumbnail.webp",
+      "actress": [
+        "大原理央",
+        "仲野梢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-373"
     }
   ]
 };

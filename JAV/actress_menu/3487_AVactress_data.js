@@ -4,7 +4,7 @@ window.actressData = {
   "name": "秋吉ひな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,25 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 100212,
+      "IDcode": "MIDE-009",
+      "title": "女教師強暴輪姦 秋吉雛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-09-01",
+      "cover_url": "",
+      "actress": [
+        "秋吉ひな",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-009"
+    },
     {
       "id": 63359,
       "IDcode": "MIDE-075",
@@ -25,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-03-01",
-      "cover_url": "https://tutu1.space/images/2019/08/07/QQ20190807164128a4baf.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "秋吉ひな"
       ],

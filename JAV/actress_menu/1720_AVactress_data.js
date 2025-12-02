@@ -33,27 +33,23 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230611/964fbc47-e228-47fd-be01-0bfc12d57978.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 69550,
-      "IDcode": "XVSR-443",
-      "title": "絶対本番出来る生中出し風俗嬢 大入り",
+      "id": 859,
+      "IDcode": "050624-001",
+      "title": "在辦公室操人妻OL，空閒時間消磨時間。青山はな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2018-12-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/3d177036c2f0b831f44da4b3b7f18bbd.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-05-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240506/afcb6d8a-e0a0-4faa-8601-f5df66d5174b.jpg",
       "actress": [
-        "美谷朱里",
-        "川上優",
-        "椎名空",
-        "尾上若叶",
         "青山はな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-443"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=050624-001"
     },
     {
       "id": 71399,
@@ -62,14 +58,34 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-03-03",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d9432945fce635cfa02b69fd264d61f2.jpg",
       "actress": [
         "青山はな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTN-046"
+    },
+    {
+      "id": 69550,
+      "IDcode": "XVSR-443",
+      "title": "絶対本番出来る生中出し風俗嬢 大入り",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/24d9f01409890dd275bcd5343c674080.jpg",
+      "actress": [
+        "美谷朱里",
+        "川上優",
+        "椎名空",
+        "尾上若叶",
+        "青山はな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-443"
     }
   ]
 };

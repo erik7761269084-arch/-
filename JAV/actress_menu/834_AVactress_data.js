@@ -32,18 +32,98 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240719/120758fa-4329-41b8-9634-f6b5615bb56f.jpg"
   ],
-  "works_count": 2,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 6366,
-      "IDcode": "SDMM-197",
-      "title": "魔鏡一號！感謝支持第三彈！10人出演6小時 保健體育課外教學 在現役女學生面前秀出成人濃烈性愛！點燃青春期性好奇心 首次體驗杭打騎乘位直達高潮體驗3",
+      "id": 11255,
+      "IDcode": "PKPR-031",
+      "title": "中出部屋飲酒記錄 - 素人感滿載的新人娘 ~ 西野乙音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-10-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20241013/20241013075408771771.jpg",
+      "actress": [
+        "西野乙音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPR-031"
+    },
+    {
+      "id": 12492,
+      "IDcode": "HMN-593",
+      "title": "被爸爸的朋友吃掉！ 他將妻子帶來的繼女賣給了朋友 ，強迫她在不採取避孕措施的情況下被中出 ~ 西野乙音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "2024-08-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/202408222249499393.jpg",
+      "actress": [
+        "西野乙音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-593"
+    },
+    {
+      "id": 13198,
+      "IDcode": "HMN-579",
+      "title": "新人出道，剛來東京。身材嬌小的農村女孩西野乙音，145釐米，無毛白虎，中出AV首次亮相 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "2024-07-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719011401397397.jpg",
+      "actress": [
+        "西野乙音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-579"
+    },
+    {
+      "id": 8757,
+      "IDcode": "NEXT-006",
+      "title": "金曜 午後9時 補導前06 身長145cmのツインテールの妖精が乳輪がビンカンでSEXが何か分からず気持ち良くなってヨがる身体に中出し",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250127/26b58907-3c0e-4895-9b15-36c5e2a6e2ea.jpg",
+      "actress": [
+        "西野乙音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEXT-006"
+    },
+    {
+      "id": 7135,
+      "IDcode": "DFDM-056",
+      "title": "嗑藥色色大冒險 ~ 西野乙音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/09/689651fa55337d7f7babb07f/cover.jpg",
+      "actress": [
+        "西野乙音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DFDM-056"
+    },
+    {
+      "id": 6366,
+      "IDcode": "SDMM-197",
+      "title": "【おかげさまで第3弾！10名出演6時間】マジックミラー号 保健体育の課外授業 現役女子〇生の目の前でオトナの濃厚SEXを見せつける！思春期の性的好奇心に火を点けて初めての杭打ち騎乘位で中イキ体験3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/13185a29-5fff-4348-9ef6-03eda06a2da8_thumbnail.webp",
       "actress": [
         "千川とわ",
@@ -58,20 +138,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
-      "id": 8757,
-      "IDcode": "NEXT-006",
-      "title": "周午 晚上9點 補習前 Vol 6 身長145的蘿莉小妖精，天真純情不懂做愛，中出她的感覺太棒了！ ~ 西野乙音",
+      "id": 3091,
+      "IDcode": "SAN-384",
+      "title": "奥手の茶道なムスメはめっちゃエロかった 西野乙音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-01-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20250127/26b58907-3c0e-4895-9b15-36c5e2a6e2ea.jpg",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d047d0eb67774efbac7cfa/cover.jpg",
       "actress": [
         "西野乙音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEXT-006"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-384"
     }
   ]
 };

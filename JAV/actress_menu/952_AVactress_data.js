@@ -40,35 +40,19 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250218/5ab837c4-9e75-4de4-a05d-35b7eb59b7ba.jpg",
     "https://picture.yoshiclub.xyz/20250218/a5d90722-6410-43dd-9c06-23d5c9018726.jpg"
   ],
-  "works_count": 3,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 6475,
-      "IDcode": "NPJS-154",
-      "title": "風俗小姐姐超會玩，牀上更是嗨翻天！情人旅館直接開幹婚外情 ~ 佐伯蓮加",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/202505010439298888_thumbnail.webp",
-      "actress": [
-        "佐伯蓮加"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-154"
-    },
     {
       "id": 68445,
       "IDcode": "CJOD-465",
-      "title": "【FANZA限定】欲求不満のギャルBODY！ 無制限中出しギャルソープでブッコ抜かれたボク20発 佐伯れんか 生写真2枚付き",
+      "title": "欲求不満のギャルBODY！ 無制限中出しギャルソープでブッコ抜かれたボク20発 佐伯れんか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-04-23",
-      "cover_url": "https://tutu1.space/images/2025/06/28/9bb8c2fe66084e0a3f92bf60a60f2292.jpg",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "佐伯蓮加"
       ],
@@ -77,19 +61,103 @@ window.actressData = {
     {
       "id": 8169,
       "IDcode": "PRED-747",
-      "title": "新人報到！曲線美女神 首次亮相 AV DEBUT ~ 佐伯蓮加",
+      "title": "新人 曲線美の女神 佐伯れんか AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074522359359.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8b28d4e7d663df48c1b49/cover.jpg",
       "actress": [
         "佐伯蓮加",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-747"
+    },
+    {
+      "id": 6475,
+      "IDcode": "NPJS-154",
+      "title": "性格好又愛撒嬌的酒店女郎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/202505010439298888_thumbnail.webp",
+      "actress": [
+        "佐伯蓮加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-154"
+    },
+    {
+      "id": 3432,
+      "IDcode": "ARSO-25197",
+      "title": "舞ワイフ ～セレブ倶楽部～ 197",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROUND",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21d35fbe7fd63de7f71fc/cover.jpg",
+      "actress": [
+        "佐伯蓮加",
+        "真北祈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25197"
+    },
+    {
+      "id": 3276,
+      "IDcode": "VTMN-019",
+      "title": "私の一番ヤリたいコト。拘束焦らし責め性感開発 ラストは3Pで激烈イカセ 佐伯れんか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823041916807807_76729_thumbnail.webp",
+      "actress": [
+        "佐伯蓮加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VTMN-019"
+    },
+    {
+      "id": 2853,
+      "IDcode": "AVSA-398",
+      "title": "穿着高贵礼服的高挑女郎用娴熟的口技让男人们为她疯狂-佐伯れんか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906213943221221_34386_thumbnail.webp",
+      "actress": [
+        "佐伯蓮加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-398"
+    },
+    {
+      "id": 2207,
+      "IDcode": "DOCD-072",
+      "title": "女性用風俗で乱れる姿を盗撮。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "広瀬美結",
+        "葉月まゆ",
+        "渡來楓",
+        "佐伯蓮加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-072"
     }
   ]
 };

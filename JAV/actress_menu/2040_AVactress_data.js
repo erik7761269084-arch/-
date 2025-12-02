@@ -26,7 +26,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250502/521a065f-adc5-4091-8ff4-362e12b93fe6_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 6452,
@@ -35,9 +35,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "WANZ FACTORY",
-      "publish_date": "2025-05-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044646378378_thumbnail.webp",
       "actress": [
         "倉本菫",
@@ -63,6 +63,25 @@ window.actressData = {
         "弥生美月"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-333"
+    },
+    {
+      "id": 2205,
+      "IDcode": "BMW-343",
+      "title": "全員、キメセク。強化合宿中に媚薬を盛られた陸上選手たち。 被害映像240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "松本一香",
+        "末広純",
+        "雙葉胡桃",
+        "本田のえる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-343"
     }
   ]
 };

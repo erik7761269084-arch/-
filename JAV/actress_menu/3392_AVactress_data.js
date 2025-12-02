@@ -4,7 +4,7 @@ window.actressData = {
   "name": "久宝ななえ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 4909,
       "IDcode": "YMDD-454",
-      "title": "繼女的狼性誘惑 鬼畜繼父和哥哥爲她而來 ~ 柏木小夏",
+      "title": "連れ娘狼 鬼畜義父兄は娘目当てに結婚しました。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628002318203203_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dacc2c92318f97d4a8774/cover.jpg",
       "actress": [
         "柏木小夏",
         "久宝ななえ"

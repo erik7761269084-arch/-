@@ -55,18 +55,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230325/c80269ca-6daf-4408-844e-fa21d03a8835.jpg",
     "https://picture.yoshiclub.xyz/20230325/7f3bd8dc-7cdd-4a2a-993c-392fac15e929.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 2009,
-      "IDcode": "CWPBD-04",
-      "title": "走秀毒藥 01：美沙 Kikoden (HD)",
+      "id": 143878,
+      "IDcode": "072210-433",
+      "title": "绑萝莉少女青山光",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2009-06-29",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250208-1/bdbcf464391e066882d4d8562c4acdbc.jpg",
+      "actress": [
+        "青山光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=072210-433"
+    },
+    {
+      "id": 143794,
+      "IDcode": "061710-403",
+      "title": "青山光第一次",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250208-1/9fc1bc4e62b863029f79217e2a8f4874.jpg",
+      "actress": [
+        "青山光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=061710-403"
+    },
+    {
+      "id": 2009,
+      "IDcode": "CWPBD-04",
+      "title": "猫步毒药-青山光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230325/3381f522-b2ef-4a39-8568-f078160de54f.webp",
       "actress": [
         "青山光"

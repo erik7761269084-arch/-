@@ -36,14 +36,14 @@ window.actressData = {
     {
       "id": 2559,
       "IDcode": "NSFS-419",
-      "title": "AI重制版 育兒壓力爆棚的騷妻 瘋狂性愛 永久珍藏版296分鍾 ~ 黒沢那智 新川舞美 藤宮櫻花 水沢真樹 神崎蕾歐娜 椎名綾",
+      "title": "AIリマスター版 育児に追われるエロ妻 淫乱セックス 名作永久保存版296分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250920/20250920071438165165_28035_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "椎名綾",
         "水沢真樹",

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "吉冈明日海",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 78687,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2021-05-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/c1e4c870750e3c2e4ed7a76ce7cf4930.jpg",
       "actress": [
         "天沢ゆきね",
         "皆川ゆうな",
@@ -37,16 +37,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-645"
     },
     {
+      "id": 165384,
+      "IDcode": "SDJS-039",
+      "title": "SOD女社员联合演出 上司和部下同时奉仕的梦幻逆3P办公事生活 绫瀬麻衣子（47）×吉冈明日海（27）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5798d14a64f2364c6bbe36e87050481a.jpg",
+      "actress": [
+        "绫瀬麻衣子",
+        "吉冈明日海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-039"
+    },
+    {
       "id": 83153,
       "IDcode": "SDJS-050",
       "title": "SOD女子社員 極上BODYの女子社員を激ピス鬼突き弾丸FUCKでエロス覚醒 はじめての大絶頂4本番スペシャル 吉岡明日海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-01-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/3aec7100563920488fe8a7937c95ee04.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "鲛岛",
         "吉冈明日海"
@@ -60,10 +77,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-11-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241119-1/6f3e83c0a30fd7e7d9afc2b7eeabc34f.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0d3f113c671fe157784e375882965c71.jpg",
       "actress": [
         "吉冈明日海"
       ],
@@ -76,10 +93,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-07-11",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f56a9bdb9f4f40c48d6e1834dfaeed86.jpg",
       "actress": [
         "吉冈明日海"
       ],

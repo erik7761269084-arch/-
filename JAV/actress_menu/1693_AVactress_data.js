@@ -39,22 +39,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1486,
-      "IDcode": "092618_748",
-      "title": "扒開雙腿玩弄菊花來口爆SP",
+      "id": 1102,
+      "IDcode": "HEYZO-1580",
+      "title": "綁起來！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "一本道",
-      "publish_date": "2018-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230520/dbc99b34-12bf-4016-90a7-f075ba4184a4.jpg",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-10-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20231129/20231129032615758758.jpg",
       "actress": [
-        "優木美羽",
-        "水谷杏",
-        "平野愛"
+        "水谷杏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=092618_748"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1580"
     }
   ]
 };

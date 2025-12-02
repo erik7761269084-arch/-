@@ -4,7 +4,7 @@ window.actressData = {
   "name": "荒木ありさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,26 +16,46 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 68759,
-      "IDcode": "SW-125",
-      "title": "在客滿的線路巴士上對美麗的少妻使用超秘傳的春藥噴霧劑後，竟然開始在無法動彈的車中壓低身音狂爽個不停",
+      "id": 100088,
+      "IDcode": "HUNT-634",
+      "title": "不運な巡り合わせで娘とは気付かずにセックスしてしまった最低な父 2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2012-11-22",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "篠惠美",
+        "荒木ありさ",
+        "有沢りさ",
+        "小滝みい菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNT-634"
+    },
+    {
+      "id": 68759,
+      "IDcode": "SW-0125",
+      "title": "当我在一辆拥挤的公交车上",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2019-08-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250408-1/b2c35e7bb769798047d6d6665bc8c3d9.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/d3b0d11ad3ee83987dcc6cc399296b8f.jpg",
       "actress": [
         "铃木あいか",
         "雨宫琴音",
         "荒木ありさ",
         "中西江梨子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0125"
     }
   ]
 };

@@ -54,7 +54,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-10-31",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/0c452c5e3d2e87121c99fc2d8a861b82.jpg",
@@ -68,20 +68,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-186"
     },
     {
-      "id": 1986,
-      "IDcode": "CWPBD-102",
-      "title": "CATWALK POISON 102 在野外中出的心跳一百！露出約會 : 立花沙耶",
+      "id": 78964,
+      "IDcode": "SOE-445",
+      "title": "さやと学校でエッチしよう 立花さや",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2014-05-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/f1af8f0e-0db3-49a1-b3f7-de342bd45035.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221024-1/6dbab3db6a3cb7a8c009682bee6dd5f3.jpg",
       "actress": [
         "立花沙耶"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-445"
     }
   ]
 };

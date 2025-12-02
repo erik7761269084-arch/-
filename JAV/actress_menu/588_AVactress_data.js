@@ -54,108 +54,75 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230330/1eb76fb5-2957-4693-8d01-534f399c370c.jpg",
     "https://picture.yoshiclub.xyz/20230330/c5a8c88c-5538-4d0d-9093-b4da7af69d0d.jpg"
   ],
-  "works_count": 7,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 4835,
-      "IDcode": "MOOR-042",
-      "title": "極限挑逗！慾火焚身快瘋掉 憋到爆發最後來場狂野中出大亂鬥 ~ 兼咲美優",
+      "id": 9608,
+      "IDcode": "MGTD-033",
+      "title": "給不孕美人妻捐精大合集 Vol.01",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621085500415415_thumbnail.webp",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2024-12-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/3efe7e55-ac20-4c3b-b2ab-a9bb7a1b3030.jpg",
       "actress": [
+        "天月梓",
+        "那賀崎雪音",
         "兼咲美優",
-        "爱乃零"
+        "長谷川れいみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-042"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGTD-033"
     },
     {
-      "id": 5733,
-      "IDcode": "MIAB-357",
-      "title": "爲了老公… 喉嚨被虐爆吞精 淪爲肉便器的人妻OL ~ 兼咲みゆ",
+      "id": 9290,
+      "IDcode": "SW-0984",
+      "title": "同窓会で出逢った人妻になっていた初恋の女とラッキーSEXできちゃったもんね！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172020472472_thumbnail.webp",
-      "actress": [
-        "兼咲美優",
-        "爱乃零"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-357"
-    },
-    {
-      "id": 6344,
-      "IDcode": "SW-1000",
-      "title": "年輕人妻沉迷性感油壓按摩，特殊油加騷手指加巨硬肉棒，爽到失禁抽搐高潮不停 ~ 有棲舞衣 愛乃零 有賀千裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508061215738738_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109021329266266.jpg",
       "actress": [
-        "有栖舞衣",
-        "有賀千里",
-        "兼咲美優"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1000"
-    },
-    {
-      "id": 7922,
-      "IDcode": "ODVHJ-058",
-      "title": "人妻限定中目黑高級精油SPA (4) ~ 清巳麗乃 愛乃零 及川海 藤咲紫",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-02-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/4da8cc60-211b-4642-b27e-aec397013f07.jpg",
-      "actress": [
-        "清巳麗乃",
-        "藤咲紫",
-        "及川海",
-        "兼咲美優",
-        "爱乃零"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-058"
-    },
-    {
-      "id": 8514,
-      "IDcode": "SW-988",
-      "title": "公公，真厲害（心）。淫蕩騷人妻即使丈夫就在邊上，也會和公公發生刺激的不倫性交 ~ 有棲舞衣 三田櫻 愛乃零",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/bac2f891-6453-42e9-9ef8-6cc04b347bf2.jpg",
-      "actress": [
-        "有栖舞衣",
+        "宇流木沙羅",
         "三田櫻",
         "兼咲美優"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0984"
+    },
+    {
+      "id": 9214,
+      "IDcode": "HUNTC-299",
+      "title": "入居者歓迎！ちょっと危険でエッチなタワマン妻王様ゲーム！そのタワマンでは新しい人が入居すると歓迎会と称し王様ゲームが行われる定例理事会が…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/202501090753465757.jpg",
+      "actress": [
+        "清巳麗乃",
+        "花柳杏奈",
+        "千鶴えま",
+        "兼咲美優",
+        "乃木ちはる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-299"
     },
     {
       "id": 8752,
       "IDcode": "MDVIJ-005",
-      "title": "人妻OL被絕倫上司一次又一次的中出 完全墮入性愛中 ~ 清巳麗乃 愛乃零 及川海 藤咲紫",
+      "title": "デカチンな絶倫上司に何度も何度もイカされ完堕ちし中出しまで許してしまう妻たち…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-01-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250127/85eb805d-4e2d-4914-8d2a-bbb0d970aa94.jpg",
       "actress": [
         "清巳麗乃",
@@ -167,16 +134,140 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-005"
     },
     {
-      "id": 1559,
-      "IDcode": "SDNT-007",
-      "title": "被想戴綠帽子的丈夫偽裝成真實素人人妻案例5 營業員寺山明里・愛乃零（仮名）30歳 神奈川県相模原市在住",
+      "id": 8514,
+      "IDcode": "SW-0988",
+      "title": "「お義父様ここだけはお元気なんですね（ハート）」夫が近くに居るのに義父とのドキドキ不倫性交に溺れるイケナイ若妻たち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2019-09-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230330/cdd93177-20f3-4cfd-a721-93c54ed9c48d.webp",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/bac2f891-6453-42e9-9ef8-6cc04b347bf2.jpg",
+      "actress": [
+        "有栖舞衣",
+        "三田櫻",
+        "兼咲美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0988"
+    },
+    {
+      "id": 8131,
+      "IDcode": "SW-0990",
+      "title": "スケベなカラダに成長した従妹と一緒にお風呂！勃起した僕のチ〇ポを興味津々で握りしめ（ハート）家族に内緒で風呂場でヤッちゃった！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/abd392fb-cefd-4b45-aaad-1a1794607839.jpg",
+      "actress": [
+        "三田櫻",
+        "二宮和香",
+        "兼咲美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0990"
+    },
+    {
+      "id": 7922,
+      "IDcode": "ODVHJ-058",
+      "title": "人妻限定中目黑高級アロマエステ 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250227/4da8cc60-211b-4642-b27e-aec397013f07.jpg",
+      "actress": [
+        "清巳麗乃",
+        "藤咲紫",
+        "及川海",
+        "兼咲美優",
+        "爱乃零"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ODVHJ-058"
+    },
+    {
+      "id": 6344,
+      "IDcode": "SW-1000",
+      "title": "若妻がハマる性感オイルマッサージ。（マル秘）オイル＋スケベ指技＋デカ硬チ〇ポでお漏らし痙攣止まらずイキまくり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508061215738738_thumbnail.webp",
+      "actress": [
+        "有栖舞衣",
+        "有賀千里",
+        "兼咲美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1000"
+    },
+    {
+      "id": 6270,
+      "IDcode": "NKKD-351",
+      "title": "このたびウチの妻（32）がパート先のバイト君（20）にねとられました…→くやしいのでそのままAV発売お願いします",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065932222222_thumbnail.webp",
+      "actress": [
+        "兼咲美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKKD-351"
+    },
+    {
+      "id": 5733,
+      "IDcode": "MIAB-357",
+      "title": "爲了老公… 喉嚨被虐爆吞精 淪爲肉便器的人妻OL ~ 兼咲みゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/25/784a8031/vod.jpg",
+      "actress": [
+        "兼咲美優",
+        "爱乃零"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-357"
+    },
+    {
+      "id": 4835,
+      "IDcode": "MOOR-042",
+      "title": "挑逗到疯狂的边缘-淺見せな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae734f682e2e9281a54c6a/cover.jpg",
+      "actress": [
+        "兼咲美優",
+        "爱乃零"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-042"
+    },
+    {
+      "id": 1559,
+      "IDcode": "SDNT-007",
+      "title": "为了满足绿帽控老公的性癖人妻-笹本結愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6a7f1bf078ae7a101656d73e15a6b2b0.jpg",
       "actress": [
         "兼咲美優"
       ],

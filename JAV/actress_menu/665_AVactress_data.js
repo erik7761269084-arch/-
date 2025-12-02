@@ -44,23 +44,75 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240909/e5bed1c2-147f-46e0-a78f-9e7ebab89994.jpg",
     "https://picture.yoshiclub.xyz/20240909/754b1f29-806d-49ea-a105-24a421566f83.jpg"
   ],
-  "works_count": 4,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 60663,
-      "IDcode": "OKS-180",
-      "title": "雨宮あや花 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
+      "id": 7103,
+      "IDcode": "SDMM-193",
+      "title": "魔鏡號：西裝女大學生＆新手OL狂榨精挑戰！36發大放送SP ~ 8人出演",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2025-05-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250402/e7fb7039-78b0-4701-a512-805a073e942d.jpg",
+      "actress": [
+        "天月梓",
+        "碓井せりな",
+        "雨宮あや花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-193"
+    },
+    {
+      "id": 10876,
+      "IDcode": "XVT-017",
+      "title": "導演未剪輯版流出 - AV女優集體做愛監控 ~ 一之瀨戀 雨宮あや花 水瀬りた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2025-09-11",
-      "cover_url": "",
+      "publish_date": "2024-11-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20241104/20241104033722772772.jpg",
+      "actress": [
+        "雨宮あや花",
+        "一之瀨戀",
+        "水瀬りた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVT-017"
+    },
+    {
+      "id": 11941,
+      "IDcode": "GBSA-086",
+      "title": "背德的祕湯 早希（仮名）26歲 ~ 雨宮あや花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-09-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240916/39ea47cf-611b-4ad0-ad00-b36e9ddd967a.jpg",
       "actress": [
         "雨宮あや花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GBSA-086"
+    },
+    {
+      "id": 12113,
+      "IDcode": "APGH-021",
+      "title": "放學後美少女H，無垢&貧乳，即時高潮&肉食系女學生 ~ 雨宮あや花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "2024-09-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240909/d1a08faf-deb9-4bdb-ae4d-37ed54eb49e5.jpg",
+      "actress": [
+        "雨宮あや花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-021"
     },
     {
       "id": 61119,
@@ -69,10 +121,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OFFICE K’S",
-      "publish_date": "2025-08-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895cf8c55337d7f7ba4262d/cover.jpg",
       "actress": [
         "永野鈴",
         "花音うらら",
@@ -84,15 +136,75 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-644"
     },
     {
-      "id": 6384,
-      "IDcode": "SDJS-315",
-      "title": "電自慰棒連續潮吹實驗：陰道刺激到崩潰會怎樣？SOD女子社員6人參加測試到小穴徹底決堤！明明不想高潮身體卻不受控地抽搐求歡 SOD性科學實驗室報告 REPORT 19 ~ 相月菜緒 八森若菜 清巳麗乃 三葉彌生 雨宮あや花 遠山まき",
+      "id": 60663,
+      "IDcode": "OKS-180",
+      "title": "雨宮あや花 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "雨宮あや花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-180"
+    },
+    {
+      "id": 9349,
+      "IDcode": "XVSR-793",
+      "title": "AV女優とAV男優 本気のリアル合コンモニタリング 一ノ瀬恋 水瀬りた 雨宮あや花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250106/08ca95db-500d-4712-9377-dba99a2ec1ae.jpg",
+      "actress": [
+        "雨宮あや花",
+        "一之瀨戀",
+        "水瀬りた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-793"
+    },
+    {
+      "id": 9348,
+      "IDcode": "TYD-006",
+      "title": "制服女子的猥褻癡漢電車 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1423a15c08d63a99057ae/cover.jpg",
+      "actress": [
+        "和久井美兎",
+        "久和原聖羅",
+        "真白みのり",
+        "音羽美鈴",
+        "天野花乃",
+        "雨宮あや花",
+        "福田もも",
+        "相月菜緒",
+        "水瀬りた",
+        "香月えりさ",
+        "宮名遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-006"
+    },
+    {
+      "id": 6384,
+      "IDcode": "SDJS-315",
+      "title": "固定電マ連続お漏らし実験「膣がバグるほど刺激し続けたら？」をSOD女子社員6名が真面目に検証してみた結果オマ○コ決壊！もう限界でイキたくないはずなのにカラダが気持ち良くなろうと勝手に動いてヒクつきワギナ過剰快楽懇願 SOD性科学ラボREPORT19",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250505/20250505224119765765_thumbnail.webp",
       "actress": [
         "清巳麗乃",
@@ -111,22 +223,62 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-315"
     },
     {
-      "id": 9349,
-      "IDcode": "XVSR-793",
-      "title": "AV女優 vs AV男優 本氣真實的集體PARTY監控視頻 ~ 雨宮あや花 一之瀨戀 水瀬りた",
+      "id": 5418,
+      "IDcode": "SDJS-316",
+      "title": "SOD女子社員試験官9名が全裸男性1名へち○ぽの勃起からザ～汁射精梶尾羽歌 安心院結愛 金子茉珠 加賀谷恋白 古木薊 菱沼萌咲 谷口柊樺 大和田来望 釜谷明日華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250106/08ca95db-500d-4712-9377-dba99a2ec1ae.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609192736674674_thumbnail.webp",
       "actress": [
+        "永野鈴",
+        "久和原聖羅",
+        "皐月ゆら",
+        "小鳩琉璃",
         "雨宮あや花",
-        "一之瀨戀",
-        "水瀬りた"
+        "相月菜緒",
+        "望月ふうか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-316"
+    },
+    {
+      "id": 3884,
+      "IDcode": "DHLD-021",
+      "title": "美人揃いのデッサン教室にバイトへ行ったら、まさかのヌードモデル！？アソコをじぃ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e724a98bc99dfdd032da7/cover.jpg",
+      "actress": [
+        "永野鈴",
+        "花音うらら",
+        "菜月光",
+        "雨宮あや花",
+        "白石環奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-021"
+    },
+    {
+      "id": 3431,
+      "IDcode": "PIYO-220",
+      "title": "【発掘素人】その辺を歩いてそうなウブな部活女子校生がえぐいほどエロかった！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Hiyoko",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821021454257257_96541_thumbnail.webp",
+      "actress": [
+        "雨宮あや花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-220"
     }
   ]
 };

@@ -48,103 +48,52 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240913/40d50664-0cd0-4fb4-982e-f042d83641dd.jpg",
     "https://picture.yoshiclub.xyz/20240913/6cac71f7-2da9-456c-87fd-ffcdbc818cc5.jpg"
   ],
-  "works_count": 11,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 2815,
-      "IDcode": "MFYD-041",
-      "title": "被高冷御姐鄙視的目光盯着自慰超爽啊！抖S的極致嗓音沉浸ASMR助擼特輯 完全主觀視角×雙耳ASMR×完美JOI ~ 潤うるる",
+      "id": 8902,
+      "IDcode": "FGAN-137",
+      "title": "不斷用淫語騷話撩撥你的JK少女 ~ 花乃春日 潤うるる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "溜池",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911021056786786_90415_thumbnail.webp",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "2025-01-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/2f34d513-4cc9-4020-a542-fc51c781b239.jpg",
       "actress": [
+        "潤うるる",
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-137"
+    },
+    {
+      "id": 74813,
+      "IDcode": "DRPT-072",
+      "title": "甥っ子の悪ガキ2人に開脚拘束エンドレスクンニでイカされる美人叔母 潤うるる 若月もあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689fff019550e292a7766b26/cover.jpg",
+      "actress": [
+        "若月もあ",
         "潤うるる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-041"
-    },
-    {
-      "id": 3602,
-      "IDcode": "MFYD-032",
-      "title": "極品女將用濃烈舌吻把大叔伺候到高潮迭起 ~ 潤うるる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "溜池",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030602128128_24369_thumbnail.webp",
-      "actress": [
-        "潤うるる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-032"
-    },
-    {
-      "id": 4499,
-      "IDcode": "MFYD-024",
-      "title": "117分鍾不停歇爆射＆內射25發！超絕頂×大亂交特別篇 ~ 潤うるる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "溜池",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040340595595_81225_thumbnail.webp",
-      "actress": [
-        "潤うるる",
-        "トミフミ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-024"
-    },
-    {
-      "id": 5314,
-      "IDcode": "MFYD-014",
-      "title": "回鄉探親那些天，發情癡女嫂子和我濃烈纏綿的那個夏天：汗流浹背精液滿溢 ~ 潤うるる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "溜池",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612063149787787_thumbnail.webp",
-      "actress": [
-        "潤うるる",
-        "タイ",
-        "ナイアガラ翔",
-        "ようく"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-014"
-    },
-    {
-      "id": 6006,
-      "IDcode": "MFYD-009",
-      "title": "色氣爆棚！頂級女神潤うるる一天6場超猛4小時特別篇 ~ 潤うるる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "溜池",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042707570570_thumbnail.webp",
-      "actress": [
-        "潤うるる",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-072"
     },
     {
       "id": 69921,
       "IDcode": "YMDD-440",
-      "title": "【FANZA限定】デカ乳でか尻インストラクター 唾液まみれの濃厚濃密口淫パーソナルトレーニング 潤うるる チェキセット",
+      "title": "デカ乳でか尻インストラクター 唾液まみれの濃厚濃密口淫パーソナルトレーニング 潤うるる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-04-02",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "潤うるる"
@@ -152,32 +101,67 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-440"
     },
     {
-      "id": 7925,
-      "IDcode": "FGAN-139",
-      "title": "傳聞中的信金銷售小姐會勾引顧客。用她的性感身體來換取顧客購買高價商品 ~ 潤うるる 花乃春日",
+      "id": 12009,
+      "IDcode": "MEYD-936",
+      "title": "新人出道！最高色情潛力性感欲女AV出演。濃厚高潮，榨幹男人的精液，3SEX10發 首次亮相 AV DEBUT ~ 潤うるる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "萌眼社",
-      "publish_date": "2025-02-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/c13ec14e-343b-4944-843b-0a08ee339eb5.jpg",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c2607ece3e366423da058f/cover.jpg",
       "actress": [
-        "潤うるる",
-        "花乃春日"
+        "潤うるる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-936"
+    },
+    {
+      "id": 10812,
+      "IDcode": "STSK-145",
+      "title": "「既婚者同士だから大丈夫だよ」女上司に誘惑され続ける相部屋温泉逆NTR【誘惑中出し営業研修】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241107/b8ada694-5f59-4f9e-b011-9d93309dcba7.jpg",
+      "actress": [
+        "小那海綾",
+        "清巳麗乃",
+        "七原紗由",
+        "潤うるる",
+        "向理来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-145"
+    },
+    {
+      "id": 8523,
+      "IDcode": "HBAD-703",
+      "title": "お隣の美人で巨乳の奥さんがデカチン目当てで軟体を見せつけて誘惑してくる 潤うるる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/ebefadb6-a2b4-4a76-aac0-ab1f1da4d7d3.jpg",
+      "actress": [
+        "潤うるる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-703"
     },
     {
       "id": 8408,
       "IDcode": "REAL-894",
-      "title": "媚藥高潮和汗流浹背的拉伸。巨乳豐滿美人被變態健身教練下了媚藥，滿身大汗的絕頂高潮 ~ 夏川步美 潤うるる 末広純",
+      "title": "媚薬堕ち絶頂汗だくストレッチ 悪徳インストラクターに発汗媚薬を飲まされ、汗だくのままイかされ続ける巨乳美女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-02-11",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250208/54c33ad7-70a8-4e4c-b9fe-ccf4c2fe5579.jpg",
       "actress": [
         "末広純",
@@ -188,57 +172,122 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-894"
     },
     {
-      "id": 8523,
-      "IDcode": "HBAD-703",
-      "title": "隔壁美麗、豐滿的人妻正用她柔軟的身體誘惑我，想要我的大雞巴 ~ 潤うるる",
+      "id": 8130,
+      "IDcode": "NEO-827",
+      "title": "超柔軟曲線美人娘 ~ 潤うるる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/ebefadb6-a2b4-4a76-aac0-ab1f1da4d7d3.jpg",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689ffe389550e292a7766b1e/cover.jpg",
       "actress": [
         "潤うるる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-827"
     },
     {
-      "id": 74813,
-      "IDcode": "DRPT-072",
-      "title": "甥っ子の悪ガキ2人に開脚拘束エンドレスクンニでイカされる美人叔母 潤うるる 若月もあ 若月もあちゃんのパンティとチェキ付き",
+      "id": 7925,
+      "IDcode": "FGAN-139",
+      "title": "噂のタイトミニ信金営業レディー パンチラで挑発しながら高額商品へ誘導するエロテクニック",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/fdc5152c/vod.jpg",
+      "type": "",
+      "company": "萌眼社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250227/c13ec14e-343b-4944-843b-0a08ee339eb5.jpg",
       "actress": [
-        "若月もあ",
-        "潤うるる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRPT-072"
-    },
-    {
-      "id": 10812,
-      "IDcode": "STSK-145",
-      "title": "「沒關系，因爲我們要結婚了」 被女上司不斷誘惑的同房溫泉逆NTR【誘惑中出營銷研修】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/b8ada694-5f59-4f9e-b011-9d93309dcba7.jpg",
-      "actress": [
-        "小那海綾",
-        "清巳麗乃",
-        "七原紗由",
         "潤うるる",
-        "向理来"
+        "花乃春日"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-145"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FGAN-139"
+    },
+    {
+      "id": 6006,
+      "IDcode": "MFYD-009",
+      "title": "エロポテンシャル大爆発！！！最高のオンナ・潤うるるの魅力全開1DAY 6本番MAX 4時間SPECIAL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042707570570_thumbnail.webp",
+      "actress": [
+        "潤うるる",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-009"
+    },
+    {
+      "id": 5314,
+      "IDcode": "MFYD-014",
+      "title": "田舎に帰省してきた発情期痴女（兄嫁）とドロドロSEXをしたあの夏ー。【汗だくだく、ザーメンドクドク】 潤うるる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612063149787787_thumbnail.webp",
+      "actress": [
+        "潤うるる",
+        "タイ",
+        "ナイアガラ翔",
+        "ようく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-014"
+    },
+    {
+      "id": 4499,
+      "IDcode": "MFYD-024",
+      "title": "潤うるる117分ノンストップぶっかけ＆中出し25発！！超絶頂×大乱交SPECIAL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040340595595_81225_thumbnail.webp",
+      "actress": [
+        "潤うるる",
+        "トミフミ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-024"
+    },
+    {
+      "id": 3602,
+      "IDcode": "MFYD-032",
+      "title": "老板娘润瑠用浓情舌吻款待让绝伦大叔射到满意为止-潤うるる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030602128128_24369_thumbnail.webp",
+      "actress": [
+        "潤うるる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-032"
+    },
+    {
+      "id": 2815,
+      "IDcode": "MFYD-041",
+      "title": "めっちゃ上から目線のイイオンナに見下されながらオナニーしたい！！ 潤うるるのサディズムボイスで超没入オナサポSpecial 完全主観×バイノーラルASMR×パーフェクトJOI",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911021056786786_90415_thumbnail.webp",
+      "actress": [
+        "潤うるる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-041"
     }
   ]
 };

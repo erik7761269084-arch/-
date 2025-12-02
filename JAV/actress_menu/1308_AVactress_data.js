@@ -35,8 +35,41 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250115/03946316-a416-43da-836d-aa3b9b676190.jpeg",
     "https://picture.yoshiclub.xyz/20250115/b86ba06f-e48d-41b3-832d-b33768930779.jpg"
   ],
-  "works_count": 9,
+  "works_count": 10,
   "related_dramas": [
+    {
+      "id": 83840,
+      "IDcode": "REBD-438",
+      "title": "Shihori 淑女の季節・琴井しほり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2020-01-02",
+      "cover_url": "",
+      "actress": [
+        "琴井汐里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-438"
+    },
+    {
+      "id": 593620,
+      "IDcode": "SSPD-159",
+      "title": "无法对老公诉说、我每天都被公公抱住…。 疯狂高潮完堕调教 琴井汐里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/0926f045d8162a01f168428d78e63e44.jpg",
+      "actress": [
+        "琴井汐里",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-159"
+    },
     {
       "id": 95289,
       "IDcode": "NSFS-330",
@@ -44,10 +77,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2024-11-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20241206/kjoAXHVf/1.jpg",
       "actress": [
         "妃光莉",
         "绀野光",
@@ -61,14 +94,14 @@ window.actressData = {
     {
       "id": 85752,
       "IDcode": "NSFS-055",
-      "title": "大嫌いな男に接吻され続けた妻 琴井しほり",
+      "title": "男人的亲吻-琴井しほり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2022-01-11",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d52c5294a8861b2b894e39e0d6ca01ee.jpg",
       "actress": [
         "琴井汐里"
       ],
@@ -77,47 +110,46 @@ window.actressData = {
     {
       "id": 80080,
       "IDcode": "NSFS-044",
-      "title": "ザ・和姦11 犯●れた男に狂う妻 琴井しほり",
+      "title": "强奸她的男人-琴井しほり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2021-11-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/69e6715dd8a28e6e15b15173f3346eac.jpg",
       "actress": [
         "琴井汐里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-044"
     },
     {
-      "id": 107359,
-      "IDcode": "SSPD-159",
-      "title": "夫には絶対に言えません、お義父さんに毎日抱かれているなんて…。 イキ狂い完堕ち調教 琴井しほり （ブルーレイディスク）",
+      "id": 75638,
+      "IDcode": "SSNI-654",
+      "title": "无法拒绝公公的人妻-琴井しほり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2020-06-07",
-      "cover_url": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/300aa345ca2facf9e6fb16da4cc7f20b.jpg",
       "actress": [
-        "琴井汐里",
-        "田渊正浩"
+        "琴井汐里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-654"
     },
     {
       "id": 69889,
       "IDcode": "SSNI-684",
-      "title": "極細ボディ絶頂痙攣絶叫 エグい程の超ピストン突貫 琴井しほり",
+      "title": "模特级纤细身材美少女-琴井しほり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-01-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b28f3a3d5ddc17c4922b652205e9223.jpg",
       "actress": [
         "琴井汐里",
         "鲛岛",
@@ -126,70 +158,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-684"
     },
     {
-      "id": 83840,
-      "IDcode": "REBD-438",
-      "title": "Shihori 淑女の季節・琴井しほり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2020-01-02",
-      "cover_url": "",
-      "actress": [
-        "琴井汐里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-438"
-    },
-    {
-      "id": 75638,
-      "IDcode": "SSNI-654",
-      "title": "‘義父’だから拒絶できず夫のすぐ傍で毎晩犯●れイカされ続けています… 琴井しほり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-12-19",
-      "cover_url": "",
-      "actress": [
-        "琴井汐里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-654"
-    },
-    {
-      "id": 4048,
-      "IDcode": "SSNI-601",
-      "title": "體液交融，超濃密性愛無剪輯特別版 ~ 琴井汐里",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-10-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728053719315315_66784_thumbnail.webp",
-      "actress": [
-        "琴井汐里",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-601"
-    },
-    {
       "id": 9128,
       "IDcode": "SSNI-554",
-      "title": "新人出道！ NO.1 STYLE 超漂亮美人 首次亮相 AV DEBUT ~ 琴井汐裏",
+      "title": "新人NO",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-08-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250115/20250115052736743743.jpg",
       "actress": [
         "琴井汐里",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-554"
+    },
+    {
+      "id": 8160,
+      "IDcode": "SSNI-576",
+      "title": "初体験3本番-琴井しほり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1b91cdb78027e7be8fbeaaa201b526d3.jpg",
+      "actress": [
+        "琴井汐里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-576"
+    },
+    {
+      "id": 4048,
+      "IDcode": "SSNI-601",
+      "title": "琴井汐里交换体液浓密性交无剪辑版最纯粹的做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bd129a7fedb591e9c3dd9155cb5b578c.jpg",
+      "actress": [
+        "琴井汐里",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-601"
     }
   ]
 };

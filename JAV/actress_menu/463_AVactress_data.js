@@ -49,105 +49,266 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230904/1bf05183-0ac5-4544-8269-f1781f984088.jpg",
     "https://picture.yoshiclub.xyz/20230904/1ca757bc-a0dd-4e8d-8bf1-d8bb99a87f38.jpg"
   ],
-  "works_count": 6,
+  "works_count": 16,
   "related_dramas": [
     {
-      "id": 8747,
-      "IDcode": "FSDSS-971",
-      "title": "女上司的美腳分開，穿着黑絲誘惑我！我的M男屬性被徹底激活，請盡管榨取我的雞巴吧！ ~ 楠木里紗",
+      "id": 14947,
+      "IDcode": "FSDSS-791",
+      "title": "初次開始做風俗應召服務的楠愛裏紗的徹底墮落~ 楠愛裏紗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-02-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250128/20250128010313820820.jpg",
+      "publish_date": "2024-06-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240506/20240506233145415415.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-791"
+    },
+    {
+      "id": 18819,
+      "IDcode": "FSDSS-658",
+      "title": "原來這就是被內射的感覺 初次對楠エリサ的性愛三本番",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2023-10-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20230904/20230904035626176176.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-658"
+    },
+    {
+      "id": 18476,
+      "IDcode": "FSDSS-682",
+      "title": "用體液持續進行性愛 Elisa Kusunoki",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2023-10-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20231002/20231002225023185185.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-682"
+    },
+    {
+      "id": 101668,
+      "IDcode": "FSDSS-763",
+      "title": "凹版偶像NTR-楠艾丽莎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "楠愛里紗",
-        "ニック"
+        "まーち"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-971"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-763"
     },
     {
-      "id": 10017,
-      "IDcode": "FSDSS-954",
-      "title": "人氣爆乳Cosplayer祕密的校外援交 ~ 楠愛裏紗",
+      "id": 18069,
+      "IDcode": "FSDSS-702",
+      "title": "和第一次交到的女友度过的初夜-楠艾丽莎",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-01-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211210449381381.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231102/20231102001528672672.jpg",
       "actress": [
         "楠愛里紗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-954"
-    },
-    {
-      "id": 16465,
-      "IDcode": "FSDSS-739",
-      "title": "女朋友不在的三天裏，我爆操了她的閨蜜楠愛裏紗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2024-03-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240204/202402040724497373.jpg",
-      "actress": [
-        "楠愛里紗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-739"
-    },
-    {
-      "id": 16943,
-      "IDcode": "FSDSS-725",
-      "title": "天然巨乳前輩和處男後輩在出差的房間裏做愛，射精 10 次",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2024-02-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20240103/20240103073006604604.jpg",
-      "actress": [
-        "楠愛里紗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-725"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-702"
     },
     {
       "id": 17425,
       "IDcode": "FSDSS-711",
-      "title": "「大奶子也有買不到內衣的煩惱...」女友的騷姊姊不穿胸罩就來勾引我",
+      "title": "喜欢NTR的女友姐姐-楠艾丽莎",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-01-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20231203/20231203050855552552.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240118-1/5b780a71c7f54855fca68e7ed7e81735.jpg",
       "actress": [
         "楠愛里紗"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-711"
     },
     {
-      "id": 16502,
-      "IDcode": "FSDSS-657",
-      "title": "新人出道！楠愛里紗首次出演 AV。如今終於露出「一切」……乳暈……乳頭……大奶子……還有性 AV DEBUT",
+      "id": 16943,
+      "IDcode": "FSDSS-725",
+      "title": "10发射精的凄绝性交-楠艾丽莎",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2023-09-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240201/20240201043208470470.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240219-1/9d43a2555972067384c5184621593511.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-725"
+    },
+    {
+      "id": 16502,
+      "IDcode": "FSDSS-657",
+      "title": "艺能人-楠艾丽莎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/0e6461f57332217342e230b9ee1214e7.jpg",
       "actress": [
         "楠愛里紗",
         "森林原人"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-657"
+    },
+    {
+      "id": 16465,
+      "IDcode": "FSDSS-739",
+      "title": "趁着女朋友不在家-楠エリサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240309-1/f8b44b6ae4011273ccb7805eabcfa139.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-739"
+    },
+    {
+      "id": 15563,
+      "IDcode": "FSDSS-776",
+      "title": "芸能人-楠エリサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240407/20240407231455195195.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-776"
+    },
+    {
+      "id": 14188,
+      "IDcode": "FSDSS-811",
+      "title": "我做炮友也没关系哦-楠艾丽莎",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240801-1/d0ff99ce960ab0bb532f8d40dbed8203.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-811"
+    },
+    {
+      "id": 12842,
+      "IDcode": "FSDSS-829",
+      "title": "偷拍到了對面房間的巨乳人妻的自慰影片，逼着她瞞着丈夫變成了我的性欲娃娃。~ 楠愛裏紗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d04266eb67774efbac67ff/cover.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-829"
+    },
+    {
+      "id": 11272,
+      "IDcode": "FSDSS-897",
+      "title": "エロ整体師の丹念な乳首責めを拒めず寝取られ体質にされた人妻 楠エリサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/5d855b8a0ea4a444fb9732bbf0ec444d.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-897"
+    },
+    {
+      "id": 10644,
+      "IDcode": "FSDSS-950",
+      "title": "夫が友人に借金の相談に行ったら私が借金の担保にと言われ…返済が出来なくなり全身に精子マーキングされました 楠エリサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/03cba74a/vod.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-950"
+    },
+    {
+      "id": 10017,
+      "IDcode": "FSDSS-954",
+      "title": "オヤジファンを虜にする爆乳レイヤーが秘密のコスプレオフパコ枕営業 楠エリサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/ca173402/vod.jpg",
+      "actress": [
+        "楠愛里紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-954"
+    },
+    {
+      "id": 8747,
+      "IDcode": "FSDSS-971",
+      "title": "女上司が美脚を開いてノーパン直穿きパンスト誘惑！僕のドMチ○ポを挟みコキしまくるザーメン搾取フェ痴SEX 楠エリサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250128/20250128010313820820.jpg",
+      "actress": [
+        "楠愛里紗",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-971"
     }
   ]
 };

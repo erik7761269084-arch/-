@@ -38,44 +38,466 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250723/20250723225825923923_52634_l.webp"
   ],
-  "works_count": 22,
+  "works_count": 26,
   "related_dramas": [
     {
-      "id": 3349,
-      "IDcode": "DAZD-256",
-      "title": "超能力真的存在！時間停止、透明人、附身大叔，禁忌力量隨便玩弄心儀妹子，精選4小時合集 ~ 松本一香 東條夏 美園和花 初川南 冬愛琴音 一條美緒 西田卡莉娜 瓊·洛夫喬伊",
+      "id": 81463,
+      "IDcode": "DANDY-708",
+      "title": "こんなエッチな外国人観光客がいたら貴方は勃起せずに断れる！？日本チ○ポを喰いまくるドスケベ金髪娘",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821024841654654_34740_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5f0fdc2b33fa7dbe9a063cacef528579.jpg",
       "actress": [
-        "美園和花",
-        "松本一香",
-        "美谷朱里",
-        "一条美緒",
+        "瓊·洛夫喬伊",
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-708"
+    },
+    {
+      "id": 94803,
+      "IDcode": "SVS-081",
+      "title": "激ヤバ高速ドリル強●拘束女イクイク絶頂図鑑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-03-26",
+      "cover_url": "https://tuaskbgnekr.com/20240720/ajWHSYFY/1.jpg",
+      "actress": [
+        "AIKA",
         "東條夏",
-        "冬愛琴音",
-        "初川南",
+        "富井美帆",
+        "西田卡莉娜",
+        "新村晶",
+        "安倍亜沙美",
+        "加贺美さら",
+        "REMI"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVS-081"
+    },
+    {
+      "id": 89805,
+      "IDcode": "RVG-206",
+      "title": "ダブルアナルビッチBEST VOL.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2023-09-19",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ff5c0a7a7bc9bc0ff791f1d030078795.jpg",
+      "actress": [
+        "望月綾香",
+        "佐倉陽菜",
+        "妃月るい",
         "瓊·洛夫喬伊",
         "西田卡莉娜",
-        "一条美绪",
-        "冬爱琴音"
+        "松ゆきの",
+        "新村晶",
+        "管野静香",
+        "山井すず",
+        "七海ゆあ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-256"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-206"
+    },
+    {
+      "id": 84533,
+      "IDcode": "GVH-346",
+      "title": "SM女王様立場逆転アナル凌● 西田カリナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2022-01-18",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230110-1/06ecd66a38dd8e5dfc5c8c9e398b3610.jpg",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-346"
+    },
+    {
+      "id": 83883,
+      "IDcode": "XRW-845",
+      "title": "招かれざる訪問者",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-03-13",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230727-1/24e0dfa402c2e2cd1085b5b4f0f79857.jpg",
+      "actress": [
+        "波多野结衣",
+        "西田卡莉娜",
+        "美咲结衣",
+        "森本つぐみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-845"
+    },
+    {
+      "id": 98430,
+      "IDcode": "AGAV-015",
+      "title": "強欲クンニ痴女～禁欲状態の西田カリナによるバター犬地獄！欲望剥き出しでチ●ポを貪り連射も不可避～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2020-02-25",
+      "cover_url": "",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-015"
+    },
+    {
+      "id": 81519,
+      "IDcode": "BBSS-029",
+      "title": "ビビアンで目醒めた初めてのレズSEX 4時間～初々しいレズ解禁ベスト～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-01-07",
+      "cover_url": "",
+      "actress": [
+        "美谷朱里",
+        "水野朝陽",
+        "神野雛",
+        "西田卡莉娜",
+        "琴羽雫",
+        "野々宫みさと",
+        "春川せせら",
+        "大岛美绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-029"
+    },
+    {
+      "id": 98832,
+      "IDcode": "NPS-385",
+      "title": "熟女監督！近藤郁がイク！ お家イってイイですか？ 一般女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "2019-10-15",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/13/6914dd3f4a81c2286fcc6c07/poster2.jpg",
+      "actress": [
+        "西田卡莉娜",
+        "三田杏",
+        "爱里るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPS-385"
+    },
+    {
+      "id": 97653,
+      "IDcode": "PHD-006",
+      "title": "金粉大全集 弐巻 12人200分スペヤル！豪華絢爛女優たちのエロく輝く狂宴！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-11-16",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_918phd006/h_918phd006pl.jpg",
+      "actress": [
+        "森澤佳奈",
+        "AIKA",
+        "吹石玲奈",
+        "二宮和香",
+        "篠田步美",
+        "卯水咲流",
+        "西田卡莉娜",
+        "Maika",
+        "神波多一花",
+        "中里美穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PHD-006"
+    },
+    {
+      "id": 73403,
+      "IDcode": "MVSD-279",
+      "title": "ごっくん・中出し・アナル・強制レズ！性奴隷ザーメン漬け輪姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "2015-12-19",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/a8144251cd654af2689e37885a8f266f.jpg",
+      "actress": [
+        "篠田步美",
+        "神ユキ",
+        "西田卡莉娜",
+        "桜木优希音",
+        "夏目优希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-279"
+    },
+    {
+      "id": 105257,
+      "IDcode": "RBD-844",
+      "title": "恶女教坛内被迫服从的女教师们",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240502-1/30d1e340dc5628de9959ce31a62c2318.jpg",
+      "actress": [
+        "二宮和香",
+        "西田卡莉娜",
+        "川崎纪里恵",
+        "伊沢凉子",
+        "戸田ゆりあ",
+        "青山夏树",
+        "水原丽子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-844"
+    },
+    {
+      "id": 103848,
+      "IDcode": "WANZ-474",
+      "title": "西田卡莉娜一日200回中出性爱听译版",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西田卡莉娜",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-474"
+    },
+    {
+      "id": 100655,
+      "IDcode": "OVG-130",
+      "title": "俯视骑乘位凌辱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/925dafa2aeebaee48d917b1977d2be24.jpg",
+      "actress": [
+        "绀野光",
+        "河奈亜依",
+        "西田卡莉娜",
+        "仓木诗织",
+        "雪乃凛央",
+        "山井すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-130"
+    },
+    {
+      "id": 90557,
+      "IDcode": "OVG-203",
+      "title": "肛門絶頂屁眼自慰",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/747c1a005827874d2fa446a070828e8f.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "推川悠里",
+        "竹内夏希",
+        "妃月るい",
+        "白川柚子",
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-203"
+    },
+    {
+      "id": 88386,
+      "IDcode": "JBD-213",
+      "title": "拷問無残 西田カリナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/546dff9f5bc58a6806f5b9dff760c0aa.jpg",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-213"
+    },
+    {
+      "id": 84535,
+      "IDcode": "GVH-268",
+      "title": "公開調教-西田カリナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fad5fbcf22ae3e0411eea2/cover.jpg",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-268"
+    },
+    {
+      "id": 82280,
+      "IDcode": "BDA-089",
+      "title": "被突然闯入绳缚拘束监禁像狗一样调教内射的女议员西田卡莉娜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6785361dc179ffb1db852988/cover.jpg",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-089"
+    },
+    {
+      "id": 82244,
+      "IDcode": "AVSA-119",
+      "title": "女王西田卡莉娜的严厉调教",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-119"
+    },
+    {
+      "id": 81915,
+      "IDcode": "SDNT-013",
+      "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case11 パート勤務・宮澤亜里沙（仮名）30歳 埼玉県川越市在住 アナル浣腸了承 主人のためにネトラレます",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e86bf2a47ebb1a877f95a/cover.jpg",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-013"
+    },
+    {
+      "id": 78771,
+      "IDcode": "GVG-981",
+      "title": "お色気P●A会長と悪ガキ生徒会 西田カリナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e8c2589def9b1b8ce97a1/cover.jpg",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-981"
+    },
+    {
+      "id": 77425,
+      "IDcode": "GVG-857",
+      "title": "美人嫁 西田カリナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ede7c962e147846d856db0e5cb693014.jpg",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-857"
+    },
+    {
+      "id": 73344,
+      "IDcode": "SHKD-753",
+      "title": "大小姐侵犯屁眼也不能放过-西田カリナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-753"
+    },
+    {
+      "id": 70492,
+      "IDcode": "XRW-585",
+      "title": "媚縛潜入捜査官06",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/10fd716dbc12f78067b3059f4299fdba.jpg",
+      "actress": [
+        "咲々原リン",
+        "若槻みづな",
+        "吉川爱美",
+        "西田卡莉娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-585"
+    },
+    {
+      "id": 69120,
+      "IDcode": "XRW-595",
+      "title": "扭转子宫的黑色肉棒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7c90ad6082c85a289b59ed2a94eb51af.jpg",
+      "actress": [
+        "西田卡莉娜",
+        "爱花みちる",
+        "徳永れい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-595"
     },
     {
       "id": 4165,
       "IDcode": "DOA-124",
-      "title": "震驚！絕世美女居然玩絲襪變臉，臉崩到不行！~ 小花暖 彌生美月 西田卡莉娜 望月綾香 前乃菜菜 河合陽菜 有賀千里 竹內夏希 桐谷鈴音",
+      "title": "衝撃！こんな美女が！？パンスト変顔で顔面崩壊！？",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212741129129_45173_thumbnail.webp",
       "actress": [
         "彌生美月",
@@ -97,371 +519,30 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-124"
     },
     {
-      "id": 94803,
-      "IDcode": "SVS-081",
-      "title": "激ヤバ高速ドリル強●拘束女イクイク絶頂図鑑",
+      "id": 3349,
+      "IDcode": "DAZD-256",
+      "title": "超能力は実在した！時間停止・透明人間・憑依おじさんetc...禁断の力で、気になるあの娘を犯りたい放題。厳選4時間BEST。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-03-26",
-      "cover_url": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e3f93fd6fbef4e90e4302d/cover.jpg",
       "actress": [
-        "AIKA",
-        "東條夏",
-        "富井美帆",
-        "西田卡莉娜",
-        "新村晶",
-        "安倍亜沙美",
-        "加贺美さら",
-        "REMI"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVS-081"
-    },
-    {
-      "id": 89805,
-      "IDcode": "RVG-206",
-      "title": "ダブルアナルビッチBEST VOL.2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2023-09-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/ff5c0a7a7bc9bc0ff791f1d030078795.jpg",
-      "actress": [
-        "望月綾香",
-        "佐倉陽菜",
-        "妃月るい",
-        "瓊·洛夫喬伊",
-        "西田卡莉娜",
-        "松ゆきの",
-        "新村晶",
-        "管野静香",
-        "山井すず",
-        "七海ゆあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-206"
-    },
-    {
-      "id": 90557,
-      "IDcode": "OVG-203",
-      "title": "肛門絶頂屁眼自慰",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2022-09-20",
-      "cover_url": "",
-      "actress": [
-        "乙愛麗絲",
-        "推川悠里",
-        "竹内夏希",
-        "妃月るい",
-        "白川柚子",
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-203"
-    },
-    {
-      "id": 84533,
-      "IDcode": "GVH-346",
-      "title": "SM女王様立場逆転アナル凌● 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2022-01-18",
-      "cover_url": "",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-346"
-    },
-    {
-      "id": 84535,
-      "IDcode": "GVH-268",
-      "title": "セレブ公開調教 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2021-08-05",
-      "cover_url": "",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-268"
-    },
-    {
-      "id": 81463,
-      "IDcode": "DANDY-708",
-      "title": "こんなエッチな外国人観光客がいたら貴方は勃起せずに断れる！？日本チ○ポを喰いまくるドスケベ金髪娘",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DANDY",
-      "publish_date": "2020-04-09",
-      "cover_url": "",
-      "actress": [
-        "瓊·洛夫喬伊",
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-708"
-    },
-    {
-      "id": 100655,
-      "IDcode": "OVG-130",
-      "title": "様々なシチュエーションで痴女たちが男を上から目線で陵●する騎乗位！パンストを見せつけ破れた穴からパンティずらして強●挿入！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-03-19",
-      "cover_url": "https://tutu1.space/images/2023/07/26/fbc9ff77b5309d0e1805a2ee5089f58a.jpg",
-      "actress": [
-        "绀野光",
-        "河奈亜依",
-        "西田卡莉娜",
-        "仓木诗织",
-        "雪乃凛央",
-        "山井すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OVG-130"
-    },
-    {
-      "id": 83883,
-      "IDcode": "XRW-845",
-      "title": "招かれざる訪問者",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
-      "actress": [
-        "波多野结衣",
-        "西田卡莉娜",
-        "美咲结衣",
-        "森本つぐみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-845"
-    },
-    {
-      "id": 82244,
-      "IDcode": "AVSA-119",
-      "title": "カリナ女王様のM男調教 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-01-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221113-1/7bdf37845b1e344c103fdbec2f1afedd.jpg",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-119"
-    },
-    {
-      "id": 81519,
-      "IDcode": "BBSS-029",
-      "title": "ビビアンで目醒めた初めてのレズSEX 4時間～初々しいレズ解禁ベスト～",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-07",
-      "cover_url": "",
-      "actress": [
+        "美園和花",
+        "松本一香",
         "美谷朱里",
-        "水野朝陽",
-        "神野雛",
+        "一条美緒",
+        "東條夏",
+        "冬愛琴音",
+        "初川南",
+        "瓊·洛夫喬伊",
         "西田卡莉娜",
-        "琴羽雫",
-        "野々宫みさと",
-        "春川せせら",
-        "大岛美绪"
+        "一条美绪",
+        "冬爱琴音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-029"
-    },
-    {
-      "id": 78771,
-      "IDcode": "GVG-981",
-      "title": "お色気P●A会長と悪ガキ生徒会 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2019-12-19",
-      "cover_url": "",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-981"
-    },
-    {
-      "id": 81915,
-      "IDcode": "SDNT-013",
-      "title": "寝取らせ願望のある旦那に従い出演させられた本物シロウト人妻 case11 パート勤務・宮澤亜里沙（仮名）30歳 埼玉県川越市在住 アナル浣腸了承 主人のためにネトラレます",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-12-12",
-      "cover_url": "",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNT-013"
-    },
-    {
-      "id": 82280,
-      "IDcode": "BDA-089",
-      "title": "侵入犯 美しすぎる議員への欲情 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2019-04-19",
-      "cover_url": "",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDA-089"
-    },
-    {
-      "id": 77425,
-      "IDcode": "GVG-857",
-      "title": "家庭内の至る場所で義父にアナルを仕込まれる美人嫁 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2019-04-18",
-      "cover_url": "",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-857"
-    },
-    {
-      "id": 69120,
-      "IDcode": "XRW-595",
-      "title": "粗黑肉棒直塞子宮！中出破壞黑人巨屌",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-11-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/d51a9450f9c24c3e0165edce19120206.jpg",
-      "actress": [
-        "西田卡莉娜",
-        "爱花みちる",
-        "徳永れい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-595"
-    },
-    {
-      "id": 70492,
-      "IDcode": "XRW-585",
-      "title": "媚縛潜入捜査官06",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-10-26",
-      "cover_url": "",
-      "actress": [
-        "咲々原リン",
-        "若槻みづな",
-        "吉川爱美",
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-585"
-    },
-    {
-      "id": 73344,
-      "IDcode": "SHKD-753",
-      "title": "お尻の穴まで犯されて…。 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-07-25",
-      "cover_url": "https://tutu1.space/images/2025/01/27/4b72b16f7c9c22ef663209ae5d18789a.jpg",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-753"
-    },
-    {
-      "id": 88386,
-      "IDcode": "JBD-213",
-      "title": "拷問無残 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2016-11-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/0c4c90f368f972130a99c750867166f2.jpg",
-      "actress": [
-        "西田卡莉娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-213"
-    },
-    {
-      "id": 103848,
-      "IDcode": "WANZ-474",
-      "title": "1日に200回イク女 西田カリナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2016-04-01",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/08/f35dce22/vod.jpg",
-      "actress": [
-        "西田卡莉娜",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-474"
-    },
-    {
-      "id": 73403,
-      "IDcode": "MVSD-279",
-      "title": "ごっくん・中出し・アナル・強制レズ！性奴隷ザーメン漬け輪姦",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2015-12-19",
-      "cover_url": "",
-      "actress": [
-        "篠田步美",
-        "神ユキ",
-        "西田卡莉娜",
-        "桜木优希音",
-        "夏目优希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-279"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-256"
     }
   ]
 };

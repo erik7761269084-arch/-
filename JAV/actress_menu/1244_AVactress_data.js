@@ -34,26 +34,57 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231203/0c4ae760-aa09-408f-8021-50fc027a30d4.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 8780,
-      "IDcode": "HUNTC-228",
-      "title": "「S男這麼變態的嗎？」風俗按摩店氣弱新人被S男操到頂 ~ 二宮桃 美波汐裏 音羽美鈴 川上麗亞",
+      "id": 9174,
+      "IDcode": "ANKB-034",
+      "title": "與色情和美麗的 I 罩杯巨乳姐姐混浴FUCK ~ 川上麗亞",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075750408408.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250112/20250112221201497497.jpg",
       "actress": [
-        "美波汐里",
-        "二宮桃",
-        "音羽美鈴",
         "川上麗亞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANKB-034"
+    },
+    {
+      "id": 11912,
+      "IDcode": "FFT-002",
+      "title": "我被不認識的男人操了。 這才是真實的自我…… 蓬鬆F奶現役美甲師人妻26歲AV出道！ ！ ~ 川上麗亞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-08-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240917/dd6197c7-b0e9-4d83-95c2-65f9784294c6.jpg",
+      "actress": [
+        "川上麗亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-002"
+    },
+    {
+      "id": 104624,
+      "IDcode": "MVSD-581",
+      "title": "当我父亲不在的时候-川上れいあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240404-1/92b01020b305e05e49ae3d59b5c8c6a1.jpg",
+      "actress": [
+        "川上麗亞",
+        "いち",
+        "渡辺杏奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-581"
     },
     {
       "id": 90406,
@@ -62,10 +93,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240118-1/65b4160fd19db183867bbb9a70fcdf0a.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/67d77700b64cc2377e09c653793eec56.jpg",
       "actress": [
         "川上麗亞"
       ],
@@ -74,19 +105,38 @@ window.actressData = {
     {
       "id": 17452,
       "IDcode": "JUFE-536",
-      "title": "出差時竟然在旅館共住一個房間！ 討厭的部長要把我射死了…",
+      "title": "被最讨厌的上司抽插到想死的程度",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231203/ff5dde7b-a578-462c-b54e-22094bcb4cee.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4d84ac813dc779d96256/cover.jpg",
       "actress": [
         "川上麗亞",
         "渡辺杏奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-536"
+    },
+    {
+      "id": 8780,
+      "IDcode": "HUNTC-228",
+      "title": "メンエス常連のボクが気弱な新人エステ嬢を逆エステ！裏オプのやり方までみっちり教えてあげました！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123075750408408.jpg",
+      "actress": [
+        "美波汐里",
+        "二宮桃",
+        "音羽美鈴",
+        "川上麗亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-228"
     }
   ]
 };

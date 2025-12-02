@@ -4,7 +4,7 @@ window.actressData = {
   "name": "永野玲菜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91993,
       "IDcode": "JURA-085",
-      "title": "初撮り人妻、ふたたび。 永野玲菜",
+      "title": "已婚妇女第一枪-永野玲菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-10-12",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/5312faa238f03b999fdfa55a00af4742.jpg",
       "actress": [
         "永野玲菜"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 91079,
       "IDcode": "JRZE-162",
-      "title": "初撮り人妻ドキュメント 永野玲菜",
+      "title": "第一次拍摄人妻纪录片-永野玲菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-09-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240318-1/07f2fc341bde392294950b65ddd0c650.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/65e857a7c431a82c9d3a747bd7efc622.jpg",
       "actress": [
         "永野玲菜"
       ],

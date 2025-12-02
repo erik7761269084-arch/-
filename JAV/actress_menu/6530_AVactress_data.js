@@ -4,7 +4,7 @@ window.actressData = {
   "name": "冈沢リナ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 103879,
       "IDcode": "PPPD-532",
-      "title": "最高級Hcup巨乳中出しソープ 岡沢リナ",
+      "title": "高质量的大奶子-岡沢リナ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2016-12-25",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/pppd532/pppd532pl.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "冈沢リナ"
       ],

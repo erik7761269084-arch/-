@@ -63,10 +63,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2019-10-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231002/202310022206227272.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1fb5ed3ff1f8ffe3bf20184a394b023b.jpg",
       "actress": [
         "菊川三葉"
       ],

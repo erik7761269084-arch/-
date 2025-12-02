@@ -34,23 +34,46 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/小司あん.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/平子知歌.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1537,
-      "IDcode": "SKYHD-128",
-      "title": "天天使藍 Vol.122：安浩二",
+      "id": 99168,
+      "IDcode": "DVDES-635",
+      "title": "淫猥キャットファイト3 女子校生と美人女教師！美闘タイマンガチバトル！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2014-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20230504/e8a1c070-1d0b-4da2-a460-eb5eff8d5dba.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-06-06",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dvdes635/1dvdes635pl.jpg",
       "actress": [
+        "朝桐光",
+        "南梨央奈",
         "小司杏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-128"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-635"
+    },
+    {
+      "id": 102938,
+      "IDcode": "IENE-245",
+      "title": "アナル性感レズオイルエステ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-03-23",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1iene245/1iene245pl.jpg",
+      "actress": [
+        "朝桐光",
+        "小司杏",
+        "美咲结衣",
+        "铃木ありす",
+        "梦実あくび",
+        "莲美恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-245"
     }
   ]
 };

@@ -35,35 +35,486 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240818/defafd48-1a3c-43d1-a907-6eefed0a296d.jpg",
     "https://picture.yoshiclub.xyz/20240818/4c763e52-092d-4a89-a59b-383782dd4244.jpg"
   ],
-  "works_count": 19,
+  "works_count": 31,
   "related_dramas": [
     {
-      "id": 2591,
-      "IDcode": "MISM-403",
-      "title": "極致調教的完美乳頭 黃金螺旋的極樂誘惑 ~ 足立友梨",
+      "id": 6957,
+      "IDcode": "NGHJ-007",
+      "title": "有娃辣媽專屬系列！「能幫童貞弟弟洗下雞巴嗎？」 貼身混浴加滿滿母愛泡沫搓棒！硬邦邦剝皮肉棒讓媽媽腿間熱辣辣！直接溫柔開苞SEX！！ ~ 葉月まゆ 足立友梨 谷梓 長瀬麻美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "えむっ娘ラボ",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918021326437437_56870_thumbnail.webp",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-04-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250409/135b75ce-40ad-4908-b6d4-9461858bda15.jpg",
+      "actress": [
+        "长濑麻美",
+        "足立友梨",
+        "葉月まゆ",
+        "谷梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-007"
+    },
+    {
+      "id": 7319,
+      "IDcode": "KHSK-002",
+      "title": "徹底瘋狂崩壞的美人妻 ~ 牧田充希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "豊彥",
+      "publish_date": "2025-03-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250323/5e0809e9-74a8-467e-927f-f57a4fb4a5d5.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KHSK-002"
+    },
+    {
+      "id": 7285,
+      "IDcode": "HPET-006",
+      "title": "素人個攝 Vol.006",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2025-03-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250324/20250324081250483483.jpg",
+      "actress": [
+        "優梨舞奈",
+        "美丘さとみ",
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HPET-006"
+    },
+    {
+      "id": 101860,
+      "IDcode": "SDNM-453",
+      "title": "都会の喧騒に紛れてもひときわ目立つ長崎生まれの清楚な奥さん 足立友梨 32歳 第2章 タイムリミットは19時――許される時間いっぱいまで背徳の快楽を愉しむため日帰り上京しひたすらイカされ続ける8時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5c558eb67774efbb9005a/cover.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-453"
+    },
+    {
+      "id": 540202,
+      "IDcode": "261GARA-013",
+      "title": "絶叫凌●レ●プ 强●される人妻 夫の不正を揉み消す代偿となった妻の身体 アナル捻じ込み2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLOBAL MEDIA ANNEX",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20251001/pnksIYwY/1.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=261GARA-013"
+    },
+    {
+      "id": 78571,
+      "IDcode": "AGAV-123",
+      "title": "軽蔑睨まれ顔射 弱みを握っていいなりオナホにした兄嫁の顔に濃厚精子をぶっかけるのがニートのボクの生きがいです。 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/21/d72add81a535e5a70bcb5180fd99e5ab.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-123"
+    },
+    {
+      "id": 75468,
+      "IDcode": "VENZ-032",
+      "title": "喝醉了就会变成接吻魔-足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c69f13cf22ae3e041b79a7/cover.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-032"
+    },
+    {
+      "id": 72786,
+      "IDcode": "AKDL-314",
+      "title": "チンポを舐めるのが大好きだけど精子が超～苦手な僕の彼女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "足立友梨",
-        "イセドン内村"
+        "如月りいさ",
+        "朝比ゆの",
+        "鳥楽ひな",
+        "甘井くるみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-314"
+    },
+    {
+      "id": 68877,
+      "IDcode": "FSTU-007",
+      "title": "ヨガインストラクター 喉奥エクササイズ 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-007"
+    },
+    {
+      "id": 12589,
+      "IDcode": "VENX-281",
+      "title": "和义理上的母亲二人独处的一周",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d20fa7e4a73d4f159b9725/cover.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-281"
+    },
+    {
+      "id": 11367,
+      "IDcode": "AKDL-298",
+      "title": "【密着取材】 カフェで働く店員は即惚れ気質のキス魔 「お客様、もし良かったら精子飲ませていただけませんか？」 友梨さん25歳 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/3b86e785645c73c26364f828dd2a971f.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-298"
+    },
+    {
+      "id": 10008,
+      "IDcode": "AKDL-307",
+      "title": "唾液が糸を引くほど舌を絡ませてキスせがんでくる接吻好き後輩 鳥楽ひな 足立友梨 甘井くるみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/51b5d21f/vod.jpg",
+      "actress": [
+        "足立友梨",
+        "鳥楽ひな",
+        "甘井くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-307"
+    },
+    {
+      "id": 9153,
+      "IDcode": "CEMD-623",
+      "title": "街頭で見つけた素人男性に壊れるほどイカされまくったSEXドキュメント～8 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/24/c3b363f1525c66553480e4bad0c205c7.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-623"
+    },
+    {
+      "id": 9151,
+      "IDcode": "CMC-318",
+      "title": "無慈悲蹂躙を熱望する女体育教師 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "CineMagic",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250113/603f99e8-c180-4f3b-9030-91a88191a358.jpg",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-318"
+    },
+    {
+      "id": 8066,
+      "IDcode": "VOD-034",
+      "title": "素人男性食べちゃいました―。足立友梨が恋人気分で中出しセックスドキュメント",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250222/22d1c13f-99bc-41b7-943a-65b42778cd26.jpg",
+      "actress": [
+        "足立友梨",
+        "ロダン富士"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-034"
+    },
+    {
+      "id": 7331,
+      "IDcode": "VENX-316",
+      "title": "我的内裤让你很兴奋吗-足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250323/0d5fcf42-9782-4ffe-87f5-1bfeef569389.jpg",
+      "actress": [
+        "足立友梨",
+        "ロダン富士"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-316"
+    },
+    {
+      "id": 5803,
+      "IDcode": "CEAD-684",
+      "title": "腰をグラインドさせながらイキ狂い！『ディルドオナニー』白木優子 山瀬美紀 葉山さゆり 一場れいか 天沢りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031445448448_thumbnail.webp",
+      "actress": [
+        "葉山小百合",
+        "紗紗原百合",
+        "足立友梨",
+        "白木優子",
+        "藍芽水月",
+        "天沢りん",
+        "山瀬美紀",
+        "華澄結愛",
+        "一場れいか",
+        "島津かおる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-684"
+    },
+    {
+      "id": 5026,
+      "IDcode": "SINN-039",
+      "title": "極道嗑藥NTR 美豔人妻被賣給最垃圾的小混混，竟然性癖完美契合，淪陷成真愛孕墮癡女 ~ 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250625/20250625070249467467_thumbnail.webp",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SINN-039"
+    },
+    {
+      "id": 5020,
+      "IDcode": "HAWA-357",
+      "title": "チ〇ポケースの妻 チ〇ポケース3号",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Cosmos 映像",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000243552552_thumbnail.webp",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-357"
+    },
+    {
+      "id": 4946,
+      "IDcode": "RBK-115",
+      "title": "被挚爱的丈夫看到肛门高潮二穴同入-足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031331710710_thumbnail.webp",
+      "actress": [
+        "足立友梨",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-115"
+    },
+    {
+      "id": 4808,
+      "IDcode": "VDD-194",
+      "title": "秘書in...（脅迫スイートルーム） 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224425201201_thumbnail.webp",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-194"
+    },
+    {
+      "id": 4662,
+      "IDcode": "DVAJ-700",
+      "title": "美人広報が裏垢と間違えて公式SNSに誤爆したエロ写メを秒でスクショした僕は口止めパコ狙いで近づいたけど想像を超える絶倫ビッチで何度イッてもやめてもらえずザーメンも男潮も搾り取られた 足立友梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103344743743_26361_thumbnail.webp",
+      "actress": [
+        "足立友梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-700"
+    },
+    {
+      "id": 4593,
+      "IDcode": "HUNTC-402",
+      "title": "ボクのチ○ポは大盛況で女子社員がお昼休みに大行列！2 女子だらけの会社に男は清掃員のボク1人！昼休みは順番待ちしてまでボクのチ○ポをハメに…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab7942edc101930b4b4d51/cover.jpg",
+      "actress": [
+        "小野坂唯香",
+        "愛瀬優里",
+        "足立友梨",
+        "岡本莉里",
+        "二宮桃",
+        "神坂朋子",
+        "星仲ここみ",
+        "深月芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-402"
+    },
+    {
+      "id": 4557,
+      "IDcode": "DANDY-985",
+      "title": "「おばさん我慢できないわ…」ヌキ無しメンズエステで勃起を誘うお色気セラピストの連射骨抜き裏オプションVOL.3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710012931702702_96368_thumbnail.webp",
+      "actress": [
+        "森澤佳奈",
+        "美丘さとみ",
+        "足立友梨",
+        "爱花みちる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-985"
+    },
+    {
+      "id": 4461,
+      "IDcode": "MIAB-500",
+      "title": "喉奥鬼畜調教 イラマ狂いド変態マゾ妻 喉ボコ強●食道妊娠 ゆりさん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032537827827_39274_thumbnail.webp",
+      "actress": [
+        "足立友梨",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-500"
+    },
+    {
+      "id": 4073,
+      "IDcode": "ARSO-25196",
+      "title": "舞ワイフ～セレブ倶楽部 196",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROUND",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/202507260557276161_10786_thumbnail.webp",
+      "actress": [
+        "足立友梨",
+        "花里明理"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25196"
+    },
+    {
+      "id": 4036,
+      "IDcode": "SVERS-002",
+      "title": "爆盛りギャル中華美人姉妹が腕を振るう行列がすごい街中華の日常とSEX！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab664e5f03a092cf719fc5/cover.jpg",
+      "actress": [
+        "足立友梨",
+        "池上乙葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVERS-002"
     },
     {
       "id": 2899,
       "IDcode": "HUNTC-449",
-      "title": "隨便插到爽！無限插新城鎮 整座小鎮隨便插特別篇 ~ 真白風羽裏 小野阪唯香 桐香悠裡 蘆名穗花 足立友梨 高城なぎさ 神村彩月 廣瀬好美 紫月由香裏",
+      "title": "だれとでも定額挿れ放題！挿れ放題ニュータウン 町ごと全部挿れ放題SP編 月々定額自治会費さえ支払えば町内のあらゆる場所",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-09-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025153547547_54671_thumbnail.webp",
       "actress": [
         "小野坂唯香",
@@ -81,297 +532,53 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
     },
     {
-      "id": 4073,
-      "IDcode": "ARSO-25196",
-      "title": "優雅人妻高級俱樂部 196 ~ 足立友梨 花裏明理",
+      "id": 2860,
+      "IDcode": "CEMD-732",
+      "title": "「足立友梨」を本気で酔わせたら～性欲暴走リアルSEXドキュメント",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AROUND",
-      "publish_date": "2025-07-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250726/202507260557276161_10786_thumbnail.webp",
-      "actress": [
-        "足立友梨",
-        "花里明理"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-25196"
-    },
-    {
-      "id": 4461,
-      "IDcode": "MIAB-500",
-      "title": "深喉鬼畜調教 極品抖M人妻喉爆狂幹到懷孕 ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032537827827_39274_thumbnail.webp",
-      "actress": [
-        "足立友梨",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-500"
-    },
-    {
-      "id": 4557,
-      "IDcode": "DANDY-985",
-      "title": "大姐忍不住啦…男子被按摩店裏色氣滿滿的治療師誘惑連發榨汁的隱藏服務VOL.3 ~ 美丘さとみ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DANDY",
-      "publish_date": "2025-07-10",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710012931702702_96368_thumbnail.webp",
-      "actress": [
-        "森澤佳奈",
-        "美丘さとみ",
-        "足立友梨",
-        "爱花みちる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-985"
-    },
-    {
-      "id": 4593,
-      "IDcode": "HUNTC-402",
-      "title": "午休時間我的大屌被女同事排隊搶着用！2 ~ 小野阪唯香 岡本莉裏 深月芽衣 二宮桃 足立友梨 愛瀬優裏 星仲ここみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083258839839_thumbnail.webp",
-      "actress": [
-        "小野坂唯香",
-        "愛瀬優里",
-        "足立友梨",
-        "岡本莉里",
-        "二宮桃",
-        "神坂朋子",
-        "星仲ここみ",
-        "深月芽衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-402"
-    },
-    {
-      "id": 4808,
-      "IDcode": "VDD-194",
-      "title": "祕書in.... (脅迫調教套房) ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224425201201_thumbnail.webp",
-      "actress": [
-        "足立友梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-194"
-    },
-    {
-      "id": 4946,
-      "IDcode": "RBK-115",
-      "title": "被最愛的丈夫目睹後庭高潮的羞恥時刻 ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031331710710_thumbnail.webp",
-      "actress": [
-        "足立友梨",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-115"
-    },
-    {
-      "id": 5020,
-      "IDcode": "HAWA-357",
-      "title": "肉棒騷妻 肉便器3號 ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Cosmos 映像",
-      "publish_date": "2025-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000243552552_thumbnail.webp",
-      "actress": [
-        "足立友梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-357"
-    },
-    {
-      "id": 5026,
-      "IDcode": "SINN-039",
-      "title": "極道嗑藥NTR 美豔人妻被賣給最垃圾的小混混，竟然性癖完美契合，淪陷成真愛孕墮癡女 ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250625/20250625070249467467_thumbnail.webp",
-      "actress": [
-        "足立友梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SINN-039"
-    },
-    {
-      "id": 68877,
-      "IDcode": "FSTU-007",
-      "title": "【FANZA限定】ヨガインストラクター 喉奥エクササイズ 足立友梨 パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
-      "publish_date": "2025-04-16",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/29/715ffc0e/vod.jpg",
-      "actress": [
-        "足立友梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-007"
-    },
-    {
-      "id": 7331,
-      "IDcode": "VENX-316",
-      "title": "阿姨的內褲讓你硬了嗎？ 剛脫下的小褲褲把侄子精液榨得一滴不剩的淫蕩叔母 ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250323/0d5fcf42-9782-4ffe-87f5-1bfeef569389.jpg",
-      "actress": [
-        "足立友梨",
-        "ロダン富士"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-316"
-    },
-    {
-      "id": 8066,
-      "IDcode": "VOD-034",
-      "title": "被吃掉的素人男。這部片中感覺像戀愛般的中出 ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250222/22d1c13f-99bc-41b7-943a-65b42778cd26.jpg",
-      "actress": [
-        "足立友梨",
-        "ロダン富士"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-034"
-    },
-    {
-      "id": 72786,
-      "IDcode": "AKDL-314",
-      "title": "チンポを舐めるのが大好きだけど精子が超～苦手な僕の彼女",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/b03e2416/vod.jpg",
-      "actress": [
-        "足立友梨",
-        "如月りいさ",
-        "朝比ゆの",
-        "鳥楽ひな",
-        "甘井くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-314"
-    },
-    {
-      "id": 9153,
-      "IDcode": "CEMD-623",
-      "title": "所有的男人！請讓我高潮！ - 被在街上挖掘素人男操的真實性愛記錄 Vol.8 ~ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250113/2c20e593-7ae3-4cbf-aac2-bfa443fa598e.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906213940444444_38465_thumbnail.webp",
       "actress": [
         "足立友梨"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-623"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-732"
     },
     {
-      "id": 9151,
-      "IDcode": "CMC-318",
-      "title": "無慈悲蹂躪熱望的女體育老師 ~ 足立友梨",
+      "id": 2591,
+      "IDcode": "MISM-403",
+      "title": "鍛え抜かれた至高の乳首 乳頭渦巻く黄金の螺旋 足立友梨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "CineMagic",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250113/603f99e8-c180-4f3b-9030-91a88191a358.jpg",
+      "type": "",
+      "company": "えむっ娘ラボ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/a0a816e9/vod.jpg",
       "actress": [
-        "足立友梨"
+        "足立友梨",
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-318"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-403"
     },
     {
-      "id": 75468,
-      "IDcode": "VENZ-032",
-      "title": "酔うとキス魔になって滅茶苦茶エロい美人秘書 しゃぶったら射精するまで離さない口マ●コ 欲情したら止まらないおチ●ポ思い出しオナニー 終電逃してお泊まり中出し性交 足立友梨",
+      "id": 2289,
+      "IDcode": "COGM-088",
+      "title": "女風初体験の美人妻が、旦那に「ごめんなさい」と詫びながら…デカチンで何度も何度も連続アクメするまでおもてなしされた。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2024-12-24",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "足立友梨"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-032"
-    },
-    {
-      "id": 78571,
-      "IDcode": "AGAV-123",
-      "title": "軽蔑睨まれ顔射 弱みを握っていいなりオナホにした兄嫁の顔に濃厚精子をぶっかけるのがニートのボクの生きがいです。 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://tutu1.space/images/2025/09/21/d72add81a535e5a70bcb5180fd99e5ab.jpg",
-      "actress": [
-        "足立友梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-123"
-    },
-    {
-      "id": 10008,
-      "IDcode": "AKDL-307",
-      "title": "舌尖交纏，口水粘稠 和我互相愛吻的公司後輩 ~ 鳥楽ひな 甘井くるみ 足立友梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2019-11-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20241212/6053d510-048b-4f79-ad9f-22428c9833ba.jpg",
-      "actress": [
-        "足立友梨",
-        "鳥楽ひな",
-        "甘井くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-307"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COGM-088"
     }
   ]
 };

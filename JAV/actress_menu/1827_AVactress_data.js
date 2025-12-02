@@ -39,18 +39,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250914/8b688c6f-c019-4f93-9da9-28d49a3600ca_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 2704,
       "IDcode": "FJIN-098",
-      "title": "嗑藥亂交！北歐辣妹愛上日本大屌，在我家瘋狂開幹 ~ メロディー・雛・マークス",
+      "title": "キメセクの巣「日本チ◎ポ大好き」北欧美女が俺んちでガンギマリFUCK！！ メロディー・雛・マークス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-12",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914045814842842_10274_thumbnail.webp",
       "actress": [
         "メロディー・雛・マークス",
@@ -58,6 +58,22 @@ window.actressData = {
         "メロディー・雏・マークス"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-098"
+    },
+    {
+      "id": 2229,
+      "IDcode": "SORA-613",
+      "title": "じんかくそうさ洗脳催● ハゲタカファンドの女ボスさま。月月火水木金金の精神で洗脳・羞恥・催●・屈辱でお・も・て・な・し編 メロディー・雛・マークス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "メロディー・雛・マークス"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-613"
     }
   ]
 };

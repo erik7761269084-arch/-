@@ -33,8 +33,27 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250226/ac7601d4-40db-4c59-9d4b-e74a06f66be9.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 6161,
+      "IDcode": "KTRA-717",
+      "title": "順從抖M小妹被狂灌滿！第二彈4小時合集 ~ 冬愛琴音 夏目涼子 白城梨紗 本田さとみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510102505966966_thumbnail.webp",
+      "actress": [
+        "冬愛琴音",
+        "白城梨紗",
+        "本田さとみ",
+        "夏目りょうこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-717"
+    },
     {
       "id": 85747,
       "IDcode": "NHDTB-680",
@@ -42,10 +61,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2022-06-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230129-1/9658993e7a544cb0994fc4eb3c278f66.jpg",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/1b5318a94f730cb6f0a7cc5d3287ab70.jpg",
       "actress": [
         "小栗操",
         "本田さとみ"
@@ -55,13 +74,13 @@ window.actressData = {
     {
       "id": 18828,
       "IDcode": "IPX-575",
-      "title": "巨乳全開猛烈誘惑女友爆乳大姊",
+      "title": "巨乳全開-栗山莉緒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2020-12-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903200229197197.jpg",
       "actress": [
         "栗山莉緒",
@@ -69,6 +88,26 @@ window.actressData = {
         "栗山莉绪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-575"
+    },
+    {
+      "id": 7945,
+      "IDcode": "KTRA-702",
+      "title": "喜歡姐弟戀的集合了 姐弟近親相姦 4小時 大合集 ~ 河奈亜依 朝海凪咲 牧野未央奈 泉莉音 本田さとみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0366c2cca7792b25bb336/cover.jpg",
+      "actress": [
+        "泉莉音",
+        "河奈亜依",
+        "朝海凪咲",
+        "本田さとみ",
+        "牧野未央奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-702"
     }
   ]
 };

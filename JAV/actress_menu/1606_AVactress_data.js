@@ -36,24 +36,40 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250807/c6e5ef9e-33c0-4b7a-9bb8-197cc8284be6_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 3783,
       "IDcode": "IPZZ-690",
-      "title": "新人出道！FIRST IMPRESSION 184 178cm 腳長白皙海外真模特身材 北歐混血女神震撼來日 AV DEBUT ~天音蜜雪兒",
+      "title": "腿长肤白的正统海外模特身材活跃于国际舞台-天音ミシェル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-08-07",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030228487487_98520_thumbnail.webp",
       "actress": [
         "天音蜜雪兒",
         "ラヴズ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-690"
+    },
+    {
+      "id": 2087,
+      "IDcode": "IPZZ-691",
+      "title": "海外模特在两个月内禁欲-天音ミシェル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天音蜜雪兒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-691"
     }
   ]
 };

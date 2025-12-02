@@ -4,7 +4,7 @@ window.actressData = {
   "name": "苍井れいな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 86630,
       "IDcode": "YSN-568",
-      "title": "早熟な肉妻の匂い 蒼井れいな",
+      "title": "妻子肉体的味道-蒼井れいな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "WAAP GROUP",
-      "publish_date": "2022-02-04",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "苍井れいな"
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 85132,
       "IDcode": "KSBJ-112",
-      "title": "パパ活する息子の嫁と義父 蒼井れいな",
+      "title": "儿子的妻子-蒼井れいな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2021-01-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230208-1/ef779c28121606a262455c214236449a.jpg",
       "actress": [
         "栗原良",
         "苍井れいな"

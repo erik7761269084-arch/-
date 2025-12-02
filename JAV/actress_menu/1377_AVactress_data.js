@@ -36,39 +36,55 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250512/db3c583b-cdab-40e0-87a6-5c0fd29e69e6_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250512/aee18e96-17e8-49d3-ae6f-3738110b6b1a_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 5268,
-      "IDcode": "SDAB-335",
-      "title": "長身瘦腰美女被黏人大叔輪番狂幹，一日限定的合法共同生活，18歲高潮開發 ~ 皆川蘭",
+      "id": 6181,
+      "IDcode": "SDAB-327",
+      "title": "18歳AVデビュー 皆川らん 経験人数1人。発展途上の華奢で内気な少女はあくなき好奇心で満ち足りなかった本物のセックスに巡り合う【特典映像付き】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-06-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250616/202506162233413636_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/9e5f6687-a7ea-4f43-a66b-705e4db0e1ad_thumbnail.webp",
+      "actress": [
+        "皆川蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-327"
+    },
+    {
+      "id": 5268,
+      "IDcode": "SDAB-335",
+      "title": "長身スレンダー美女が粘着オジサン達にかわりばんこでずーーっとイかされ続ける1日限りのワケあり合法共同生活 18歳絶頂開発 皆川らん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae3eb3682e2e9281a54987/cover.jpg",
       "actress": [
         "皆川蘭"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-335"
     },
     {
-      "id": 6181,
-      "IDcode": "SDAB-327",
-      "title": "新人出道！18歲AV初登場 羞澀少女初體驗 經驗人數1人 首次亮相 AV DEBUT ~ 皆川らん",
+      "id": 4188,
+      "IDcode": "SDAB-337",
+      "title": "家庭的で世話好きなちっぱいスレンダー美少女が絶倫チ〇ポ達の家にご訪問致します。有り余った性欲を母性で受け止めて精子が空っぽになるまでひたすら笑顔でご奉仕ヌキしてくれる 18歳母性本能 皆川らん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250512/9e5f6687-a7ea-4f43-a66b-705e4db0e1ad_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722052313984984_37775_thumbnail.webp",
       "actress": [
         "皆川蘭"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-327"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-337"
     }
   ]
 };

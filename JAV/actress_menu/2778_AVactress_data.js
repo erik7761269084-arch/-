@@ -47,13 +47,13 @@ window.actressData = {
     {
       "id": 5037,
       "IDcode": "DOA-119",
-      "title": "爆乳絕頂風俗泡泡浴 滑溜溜軟乳按摩爽到爆！五位超萌泡姬 ~ 辻井穗乃果 佐藤遙希 花柳杏奈 大原亞夢",
+      "title": "爆乳大奶牛给你提供的极上乳交泡泡浴体验",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081515743743_thumbnail.webp",
       "actress": [
         "辻井穗乃果",

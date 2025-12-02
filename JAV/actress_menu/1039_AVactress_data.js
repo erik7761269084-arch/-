@@ -44,19 +44,83 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250613/00b158eb-30cd-461a-bc62-3c1fa617ac26_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250613/e10be503-bbb3-4cb1-ba8b-c2694194608f_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 2374,
-      "IDcode": "SDAM-149",
-      "title": "那須鹽原溫泉鄉邂逅的小姐姐 就裹條毛巾進男湯？美嫩皮膚水滑水滑的 大雞巴忍不住就要狂插了！ 超人氣任務《用嘴玩套圈》7人特別篇 ~ 天羽梨梨花 本城花 那津乃千奈美 柴又詩穗 小鬆本果",
+      "id": 5333,
+      "IDcode": "MIFD-627",
+      "title": "あれ、気づいちゃいましたか？活動期間4年メジャーデビューもしたアイドルが緊急AVデビュー 本城はな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae23ea682e2e9281a5488e/cover.jpg",
+      "actress": [
+        "本城花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-627"
+    },
+    {
+      "id": 4491,
+      "IDcode": "HMN-718",
+      "title": "どっきどきLOVEデート はじめての中出しの相手はデートで決めて！次々と指令がでる無茶ぶりで6Pも解禁！？生まれて初めての中出し解禁 本城はな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031433481481_28382_thumbnail.webp",
+      "actress": [
+        "本城花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-718"
+    },
+    {
+      "id": 3177,
+      "IDcode": "NPJS-207",
+      "title": "私はおもちゃにされました【衝撃スクープ】現役女子アナの告発ハメ撮り動画が流出性接待はやはりあった！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828040655741741_65102_thumbnail.webp",
+      "actress": [
+        "本城花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-207"
+    },
+    {
+      "id": 2500,
+      "IDcode": "APAK-313",
+      "title": "坂道系美少女はなちゃん 【女学生と過激性交】 無毛マ●コが滅茶苦茶に絶頂！＃オフパコ娘とホテルお籠もり淫乱絶頂SEX 本城はな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "本城花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-313"
+    },
+    {
+      "id": 2374,
+      "IDcode": "SDAM-149",
+      "title": "名湯の湯もはじく若肌へ茹だった精子が思わず飛び出すびゅるっと暴発ぶっかけ連発 大人気ミッション《口だけでち〇ぽ輪投げ》7名スペシャル編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213400254254_36744_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "天羽梨梨花",
         "那津乃千奈美",
@@ -65,22 +129,6 @@ window.actressData = {
         "柴又詩穗"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
-    },
-    {
-      "id": 4491,
-      "IDcode": "HMN-718",
-      "title": "心跳爆表的LOVE約會！初次中出的對象由約會決定！瘋狂任務接連來襲，6P也直接解禁！人生第一次中出體驗 ~ 本城花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031433481481_28382_thumbnail.webp",
-      "actress": [
-        "本城花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-718"
     }
   ]
 };

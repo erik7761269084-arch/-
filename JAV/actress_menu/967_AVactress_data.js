@@ -44,18 +44,92 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250121/a07d6367-1cc5-45c1-8071-0dbc9cddd5b9.jpg",
     "https://picture.yoshiclub.xyz/20250121/f22c9cc7-c02f-4515-84ab-23249c973fb0.jpg"
   ],
-  "works_count": 1,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 6407,
-      "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "id": 6218,
+      "IDcode": "KTRA-716",
+      "title": "和肉乎乎的可愛超爆乳蘿莉們的激情四小時 ~ 莉莉遙香 川口葉純 篠崎環奈 あず希 すなお恵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/202505101025077575_thumbnail.webp",
+      "actress": [
+        "莉莉遙香",
+        "篠崎環奈",
+        "蒼空なつき",
+        "川口葉純",
+        "あず希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-716"
+    },
+    {
+      "id": 8936,
+      "IDcode": "CEAD-662",
+      "title": "筱崎環奈 2枚組 5小時55分特輯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250121/1f2f481e-de00-4615-b667-0ef64f109ccd.jpg",
+      "actress": [
+        "篠崎環奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-662"
+    },
+    {
+      "id": 8914,
+      "IDcode": "KTRA-692",
+      "title": "爆乳美少女圖鑑 4小時 ~ 綾瀨心 日和ももか 小此木雛乃 篠崎環奈 原花音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250122/0024950c-ca2c-46c9-b3af-579e143ba58c.jpg",
+      "actress": [
+        "绫濑心",
+        "篠崎環奈",
+        "原花音",
+        "日和ももか",
+        "小此木雛乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-692"
+    },
+    {
+      "id": 95015,
+      "IDcode": "JUNY-017",
+      "title": "老公不愿意做爱丰满的肉弹人妻变成了公公的内射精盆",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f7f4ae2e1e04e27de8c4f0012858ac2e.jpg",
+      "actress": [
+        "篠崎環奈",
+        "田渊正浩",
+        "篠崎环奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-017"
+    },
+    {
+      "id": 6407,
+      "IDcode": "KSBJ-378",
+      "title": "巨尻熟女ベストセレクション52人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -105,6 +179,47 @@ window.actressData = {
         "响りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
+    },
+    {
+      "id": 4640,
+      "IDcode": "HDKA-321",
+      "title": "全裸主婦 巨臀誘惑精選VOL.02 ~ 杏美月 葉月奈穗 青木琳 西山朝日 春菜華 響琳 篠崎環奈 藤白桃羽 篠原千歲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d6f555337d7f7bbc2531/cover.jpg",
+      "actress": [
+        "春菜华",
+        "篠崎環奈",
+        "藤白桃羽",
+        "杏美月",
+        "西山あさひ",
+        "響りん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-321"
+    },
+    {
+      "id": 3663,
+      "IDcode": "KTRA-734",
+      "title": "全員Gcup以上！！デカパイ女子と連続セックス 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811093718231231_23903_thumbnail.webp",
+      "actress": [
+        "绫濑心",
+        "宝田萌奈美",
+        "花柳杏奈",
+        "篠崎環奈",
+        "相沢夏帆"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-734"
     }
   ]
 };

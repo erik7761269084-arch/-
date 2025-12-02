@@ -29,27 +29,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230123/d4f4be20-e291-415b-bbb0-ab156c68bc6f.jpg",
     "https://picture.yoshiclub.xyz/20230123/c069455a-9b44-48a0-b5e3-1b0f7b85b910.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 2058,
-      "IDcode": "DRGBD-05",
-      "title": "那是學校的裸體日：椎名光、黑崎塞西爾、星崎安娜、三澤飛鳥、宮崎由真、大塚麻友、雛薰。",
+      "id": 1275,
+      "IDcode": "HEYZO-2504",
+      "title": "「愛好就是性」的女演員圈 - 第 2 部分 大塚麻友是個毛茸茸的人。 ——大塚真由",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATCHEYE",
-      "publish_date": "2014-04-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/93656534-6ae3-4a15-836c-88ad9cee365e.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2021-03-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20230830/20230830015827520520.jpg",
       "actress": [
-        "椎名光",
-        "大塚まゆ",
-        "绫濑妃亚罗",
-        "宮崎由麻",
-        "三沢明日香"
+        "大塚まゆ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-05"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2504"
+    },
+    {
+      "id": 1223,
+      "IDcode": "HEYZO-2387",
+      "title": "嗜好是性愛的女演員圈 02 大塚麻友 - 第 1 部分 - 大塚麻友",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2020-10-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20230918/20230918230912478478.jpg",
+      "actress": [
+        "大塚まゆ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2387"
     }
   ]
 };

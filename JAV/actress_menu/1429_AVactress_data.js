@@ -31,19 +31,19 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230621/6a90e25d-ec69-45c5-8ae6-411b7a17f6c5.jpg",
     "https://picture.yoshiclub.xyz/20230621/47c96bef-5631-4551-8f69-7b82613b5b5d.jpg"
   ],
-  "works_count": 12,
+  "works_count": 14,
   "related_dramas": [
     {
       "id": 81432,
       "IDcode": "BBAN-274",
-      "title": "SNSで知り合った女性限定【女子キャンプ】でレズビアンに目醒めた私。 黒崎みか 佐藤りこ",
+      "title": "SNSで知り合った女性限定【女子キャンプ】でレズビアンに目醒めた私。黒崎みか佐藤りこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "BIBIAN",
-      "publish_date": "2020-04-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221027-1/6b3cd212cc5bf9bf8ebe7401f86f954f.jpg",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5f1e85d7f987c14b5509a5edbf81045d.jpg",
       "actress": [
         "夏川海",
         "黒崎みか"
@@ -57,7 +57,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-01-30",
       "cover_url": "",
@@ -67,49 +67,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HYPN-016"
     },
     {
-      "id": 88490,
-      "IDcode": "MYAB-009",
-      "title": "出産適齢期を迎えた息子の嫁 息子と子作りした嫁は義父にも中出しされている 黒崎みか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-10-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231011-1/5679802607da6c688758d3613b9f616f.jpg",
-      "actress": [
-        "黒崎みか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYAB-009"
-    },
-    {
-      "id": 71740,
-      "IDcode": "BBAN-245",
-      "title": "「本当は私が結婚したかった…」 結婚前夜 友情レズビアン ～最後の告白～",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BIBIAN",
-      "publish_date": "2019-09-07",
-      "cover_url": "",
-      "actress": [
-        "有村希",
-        "黒崎みか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-245"
-    },
-    {
       "id": 72879,
       "IDcode": "MYAB-008",
       "title": "がちむち業者にキレられて…エビ反りするまでイカされて… 黒崎みか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/81964a70a8a94db861dd51c60c4cdc13.jpg",
       "actress": [
         "黒崎みか",
         "戸川夏也"
@@ -119,14 +86,14 @@ window.actressData = {
     {
       "id": 106092,
       "IDcode": "SCOP-643",
-      "title": "アロハー！これはピンサロなのか！？ここは日本なのか！？南国風なリゾートピンサロが都内某所に存在しているという噂が！毎度お馴染みSCOOP班が大潜入！！いつものピンサロよりもアツい！！激アツの常夏ピンサロに超密着SP！！",
+      "title": "南国風",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "",
+      "type": "",
+      "company": "SCOOP",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20220819-1/4c5774224637370ffcb041f851807631.jpg",
       "actress": [
         "黒崎みか",
         "管野静香",
@@ -136,16 +103,83 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCOP-643"
     },
     {
-      "id": 74785,
-      "IDcode": "MDTM-549",
-      "title": "中出し専用！僕だけのお漏らし！？失禁？？ハメハメイド 黒崎みか",
+      "id": 88490,
+      "IDcode": "MYAB-009",
+      "title": "出産適齢期を迎えた息子の嫁 息子と子作りした嫁は義父にも中出しされている 黒崎みか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/0e68106e958b59bfc794d40a1a04a42c.jpg",
+      "actress": [
+        "黒崎みか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYAB-009"
+    },
+    {
+      "id": 87927,
+      "IDcode": "MIAA-059",
+      "title": "交换我们的女朋友来中出深田咏美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b6343b419b87e9f93f9b60b9f229010.jpg",
+      "actress": [
+        "深田詠美",
+        "黒崎みか",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-059"
+    },
+    {
+      "id": 86786,
+      "IDcode": "APKH-102",
+      "title": "「チ○ポ弄りたい！バリ硬でイカせて！」お嬢さま女子大生は責め好きの小悪魔系！透きとおる美白肌の絶品ボディ！長身スレンダーEカップ 黒崎みか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/5d2c293d66a87e5d620857d59b89a649.jpg",
+      "actress": [
+        "黒崎みか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-102"
+    },
+    {
+      "id": 78399,
+      "IDcode": "JUY-784",
+      "title": "被丈夫的上司连续侵犯七天后",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "黒崎みか",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-784"
+    },
+    {
+      "id": 74785,
+      "IDcode": "MDTM-549",
+      "title": "中出し専用！僕だけのお漏らし！？",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/68e92da24b707339be26fbce83f8b460.jpg",
       "actress": [
         "黒崎みか"
       ],
@@ -158,10 +192,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2019-07-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/2d3b3f59e4fe5abbb7c4c3a641f5c973.jpg",
       "actress": [
         "大浦真奈美",
         "黒崎みか",
@@ -171,20 +205,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-041"
     },
     {
-      "id": 86786,
-      "IDcode": "APKH-102",
-      "title": "「チ○ポ弄りたい！バリ硬でイカせて！」お嬢さま女子大生は責め好きの小悪魔系！透きとおる美白肌の絶品ボディ！長身スレンダーEカップ 黒崎みか",
+      "id": 71740,
+      "IDcode": "BBAN-245",
+      "title": "「本当は私が結婚したかった…」 結婚前夜 友情レズビアン ～最後の告白～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-05-13",
-      "cover_url": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/198fcfc53880a1fccb50cf2cc6c9723f.jpg",
       "actress": [
+        "有村希",
         "黒崎みか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-102"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-245"
     },
     {
       "id": 71640,
@@ -193,31 +228,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2019-03-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250302-1/819a51c584a90387b90877caed14e86d.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/21dec6bd96fedb22ee1411d2ddb13d7b.jpg",
       "actress": [
         "黒崎みか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-648"
-    },
-    {
-      "id": 78399,
-      "IDcode": "JUY-784",
-      "title": "夫の上司に犯され続けて7日目、私は理性を失った…。 黒崎みか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-03-07",
-      "cover_url": "",
-      "actress": [
-        "黒崎みか",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-784"
     },
     {
       "id": 19209,
@@ -226,16 +244,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-12-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230622/20230622232001807807.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c3fb4dfccc0a7662750a7a950a07adf6.jpg",
       "actress": [
         "黒崎みか",
         "森林原人",
         "玉木玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-237"
+    },
+    {
+      "id": 19191,
+      "IDcode": "IPX-251",
+      "title": "大街脫衣5秒前",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/237d70a5841fefcba27167208889f3b1.jpg",
+      "actress": [
+        "黒崎みか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-251"
     }
   ]
 };

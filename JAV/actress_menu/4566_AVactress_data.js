@@ -4,7 +4,7 @@ window.actressData = {
   "name": "冈村麻友子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221101-1/48b32f76cb897366e476bcc715c3688a.jpg",
+      "cover_url": "",
       "actress": [
         "冈村麻友子"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 75632,
       "IDcode": "JJAA-025",
-      "title": "夫に言えない妻の他人棒セックス「人妻が見知らぬ男と浮気する瞬間すべて見せます」05",
+      "title": "夫に言えない妻の他人棒セックス「人妻が見知",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20221004/jjaa025pl.jpg",
       "actress": [
         "篠田优",
         "冈村麻友子"

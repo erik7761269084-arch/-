@@ -33,23 +33,55 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250601/3b5e8e6f-e37c-4ebb-a0b7-2c3332607ccc_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250601/f42964bf-2a7a-4830-84ea-da2f4de6c159_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4826,
-      "IDcode": "MGOLD-040",
-      "title": "乳頭高潮到抽搐不停！性感開發3本番！ ~ 宮野櫻",
+      "id": 5647,
+      "IDcode": "MGOLD-038",
+      "title": "京都からわざわざヤラれにきた不真面目オマ●コは普段は真面目な公務員 宮野桜 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-07-01",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/81dc057d/vod.jpg",
+      "actress": [
+        "宮野櫻"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-038"
+    },
+    {
+      "id": 4826,
+      "IDcode": "MGOLD-040",
+      "title": "乳头过度刺激-宮野桜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630221640915915_thumbnail.webp",
       "actress": [
         "宮野櫻"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-040"
+    },
+    {
+      "id": 3040,
+      "IDcode": "MGOLD-043",
+      "title": "性過敏症の看護師をアクメ依存にさせるお漏らし無制限病棟 宮野桜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203803610610_48867_thumbnail.webp",
+      "actress": [
+        "宮野櫻"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-043"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "春风まゆみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,49 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
+      "id": 78863,
+      "IDcode": "DASD-615",
+      "title": "新宿人妻NO1的变性人时隔一年半再次AV出道",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/07cbc2888f2756c9c103c19cd46f3ad4.jpg",
+      "actress": [
+        "森林原人",
+        "春风まゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-615"
+    },
+    {
+      "id": 81649,
+      "IDcode": "DASD-625",
+      "title": "出張先で終電逃して相部屋宿泊。女先輩の股間からまさかまさかの膨らみに僕はしゃぶりついた。 春風まゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-01-25",
+      "cover_url": "",
+      "actress": [
+        "春风まゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-625"
+    },
+    {
       "id": 90594,
       "IDcode": "OPPW-150",
       "title": "女になった兄と男の娘が好きな弟二人だけの秘密の遊び… 春風まゆみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-09-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240120-1/e79ba67696e43aeba40811d86b17d452.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/ef3d1d1c283e7f76af6823c3b0b7d9b0.jpg",
       "actress": [
         "向理来",
         "春风まゆみ"
@@ -42,31 +75,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-08-22",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/f1f8de44d601be1f7f5682396ab4b446.jpg",
       "actress": [
         "春风まゆみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-149"
-    },
-    {
-      "id": 87079,
-      "IDcode": "OPPW-145",
-      "title": "リモートワーク中誰もいないオフィスに部下と二人きり… 春風まゆみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-06-27",
-      "cover_url": "",
-      "actress": [
-        "向理来",
-        "春风まゆみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-145"
     },
     {
       "id": 90579,
@@ -75,47 +91,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-09-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/8f834a74cc45fdd46e828b6df6e144a1.jpg",
       "actress": [
         "春风まゆみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-131"
     },
     {
-      "id": 81649,
-      "IDcode": "DASD-625",
-      "title": "出張先で終電逃して相部屋宿泊。女先輩の股間からまさかまさかの膨らみに僕はしゃぶりついた。 春風まゆみ",
+      "id": 87079,
+      "IDcode": "OPPW-145",
+      "title": "リモートワーク中誰もいないオフィスに部下と二人きり… 春風まゆみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240123-1/345e908779334e952a0bb3550d09473c.jpg",
       "actress": [
+        "向理来",
         "春风まゆみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-625"
-    },
-    {
-      "id": 78863,
-      "IDcode": "DASD-615",
-      "title": "新宿で人気No.1ニューハーフ再演。 春風まゆみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/07cbc2888f2756c9c103c19cd46f3ad4.jpg",
-      "actress": [
-        "森林原人",
-        "春风まゆみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPPW-145"
     }
   ]
 };

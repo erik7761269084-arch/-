@@ -31,20 +31,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1748,
-      "IDcode": "SKYHD-089",
-      "title": "天空天使藍 Vol.89 : 大倉綾音 (HD)",
+      "id": 152,
+      "IDcode": "HEYZO-0125",
+      "title": "肉食系正妹超迷角色扮演，輕鬆撩倒草食系嫩男 ~ 大倉彩音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-12-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/a5c5c078-7c8b-4679-ad7c-d4887aeca833.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2012-09-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250708/20250708035520591591_42482_s.webp",
       "actress": [
         "大仓彩音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0125"
     }
   ]
 };

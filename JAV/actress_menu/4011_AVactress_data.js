@@ -22,8 +22,46 @@ window.actressData = {
     "Oishi Kaori"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 104735,
+      "IDcode": "SW-0542",
+      "title": "隔壁家新搬来的母女三人都觊觎着我的肉棒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67815310c179ffb1db6d7b66/cover.jpg",
+      "actress": [
+        "石田美久",
+        "麻里梨夏",
+        "桐岛莉乃",
+        "大石香织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0542"
+    },
+    {
+      "id": 82438,
+      "IDcode": "HAR-050",
+      "title": "家庭教師",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-11/147b3a0bbbd999eb660b63458720d039.jpg",
+      "actress": [
+        "小谷みのり",
+        "大石香织",
+        "坂本すみれ",
+        "星乃ゆづき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-050"
+    },
     {
       "id": 70326,
       "IDcode": "NSFS-370",
@@ -31,9 +69,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-03-25",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "美谷朱里",
@@ -45,25 +83,6 @@ window.actressData = {
         "伊东真绪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-370"
-    },
-    {
-      "id": 82438,
-      "IDcode": "HAR-050",
-      "title": "娘と家庭教師の女を媚薬発情させ近親＆レズ3PでW中出しセックス",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2016-11-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/3fad0d303e550b3dd4d58e628aef23bc.jpg",
-      "actress": [
-        "小谷みのり",
-        "大石香织",
-        "坂本すみれ",
-        "星乃ゆづき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-050"
     }
   ]
 };

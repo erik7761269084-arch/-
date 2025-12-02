@@ -38,36 +38,50 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240517/0fd24c47-046a-4dde-9115-738189026299.jpg"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 12646,
-      "IDcode": "PRED-703",
-      "title": "女教師被學生包圍輪奸，他們的大雞巴強暴了我一遍又一遍…… ~ 橋本葵",
+      "id": 93908,
+      "IDcode": "PRED-681",
+      "title": "温泉REPORTER-橋本葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2024-08-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816000832785785.jpg",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/27ad5bf42b0cf29198fd7c1cd8584747.jpg",
       "actress": [
-        "橋本葵",
-        "左慈半造",
-        "Qべぇ"
+        "橋本葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-703"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-681"
+    },
+    {
+      "id": 13984,
+      "IDcode": "PRED-689",
+      "title": "巨乳温泉记者性感觉醒-橋本葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614024823298298.jpg",
+      "actress": [
+        "橋本葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-689"
     },
     {
       "id": 13333,
       "IDcode": "PRED-695",
-      "title": "「我又高潮了！」絶頂245回！體液2000cc！痙攣4545！前爆乳乳記者在溫泉被大屌操到了極致！ ~ 橋本葵",
+      "title": "我已经高潮了-橋本葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2024-07-16",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712020956864864.jpg",
       "actress": [
         "橋本葵",
@@ -76,20 +90,39 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-695"
     },
     {
-      "id": 13984,
-      "IDcode": "PRED-689",
-      "title": "大奶子溫泉記者性感覺醒，心驚肉跳！那麼潮溼！橋本葵",
+      "id": 12646,
+      "IDcode": "PRED-703",
+      "title": "女老師強姦輪姦-橋本葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2024-06-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614024823298298.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67877ab2c179ffb1db907c64/cover.jpg",
       "actress": [
-        "橋本葵"
+        "橋本葵",
+        "左慈半造",
+        "Qべぇ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-689"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-703"
+    },
+    {
+      "id": 12046,
+      "IDcode": "PRED-706",
+      "title": "跟溫泉主播一起濃厚打炮-橋本葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912105851170170.jpg",
+      "actress": [
+        "橋本葵",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-706"
     }
   ]
 };

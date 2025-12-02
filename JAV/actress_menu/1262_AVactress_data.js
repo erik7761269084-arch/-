@@ -33,39 +33,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/.Recycled/Premium/霧島レオナ.jpg",
     "https://picture.yoshiclub.xyz/20230502/8a1fbf95-5d98-4b63-9ee0-56d7b2be34bd.jpg"
   ],
-  "works_count": 21,
+  "works_count": 22,
   "related_dramas": [
     {
-      "id": 88344,
-      "IDcode": "HOI-097",
-      "title": "ONA",
+      "id": 74002,
+      "IDcode": "SGA-129",
+      "title": "和最棒的情人私会后不顾一切的内射做爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-05-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/f49115e153690231653424ccf64d8672.jpg",
+      "publish_date": "2024-11-22",
+      "cover_url": "",
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOI-097"
-    },
-    {
-      "id": 76679,
-      "IDcode": "SY-189",
-      "title": "ちくぴんく…女の子ってやっぱりいいな OL 霧島レオナ 22歳148センチ… （素人四畳半生中出し）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/d564201a6c66d5b712550cae1a46f541.jpg",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-189"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-129"
     },
     {
       "id": 83473,
@@ -74,10 +58,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-01-03",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/9a3b8c86e5e25128c2fbf0682e3b9aad.jpg",
       "actress": [
         "雾岛里绪菜",
         "三田杏",
@@ -88,148 +72,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DNW-063"
     },
     {
-      "id": 82951,
-      "IDcode": "LUXU-1216",
-      "title": "ラグジュTV 1202 その瞳、魔性につき！そのルックス、スタイル、痴女性、全てに長けた神秘的美しさを持つハーフ美女(日本×イタリア)が再び登場！求めるものは性的快感のみ…男を本気にさせる魅惑の責め、そしてイキ乱れる彼女の情熱的セックスは必見！！",
+      "id": 515228,
+      "IDcode": "BBAN-251",
+      "title": "狩猎女 雾岛玲央奈 女同解禁！正统女同性恋・悬疑・故事",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1216"
-    },
-    {
-      "id": 76472,
-      "IDcode": "HOMA-077",
-      "title": "嵐の夜に…憧れの兄嫁と二人きり 霧島レオナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2019-12-25",
-      "cover_url": "",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-077"
-    },
-    {
-      "id": 75698,
-      "IDcode": "HJMO-420",
-      "title": "第7回ノーパンスウェット染みたら負けよ電マ濡れ我慢対決",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HAJIME-KIKAKU",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
-      "actress": [
-        "雾岛里绪菜",
-        "富井美帆",
-        "秋本詩音",
-        "大岛丈",
-        "若槻さくら",
-        "堀口美衣奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-420"
-    },
-    {
-      "id": 83181,
-      "IDcode": "SDDE-604",
-      "title": "性交クリニックファン感謝祭 2019 7性交×ノースキン中出し性交処置×235分SP！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-12-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/79cce33759cf0673806b611ce7d21de3.jpg",
-      "actress": [
-        "黑川堇",
-        "深田詠美",
-        "八乃翼",
-        "蓮実クレア",
-        "奏音花音",
-        "赤瀬尚子",
-        "雾岛里绪菜",
-        "タツ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-604"
-    },
-    {
-      "id": 78414,
-      "IDcode": "MGT-094",
-      "title": "街角シロウトナンパ！ vol.69 東京23区パコる女たち 3",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-22",
-      "cover_url": "",
-      "actress": [
-        "美園和花",
-        "雾岛里绪菜",
-        "今井夏帆",
-        "爱菜ゆう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-094"
-    },
-    {
-      "id": 102829,
-      "IDcode": "BBAN-251-",
-      "title": "狩りにくる女霧島レオナレズ解禁！本格レズビアン-サス",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "BIBIAN",
       "publish_date": "2019-10-07",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/32ce80bb00b43c64de032c7cc8250c7a.jpg",
       "actress": [
         "黑川堇",
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-251-"
-    },
-    {
-      "id": 88529,
-      "IDcode": "JUY-983",
-      "title": "中出しまでのカウントダウン。 霧島レオナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-09-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231006-1/9101d0351a76fed3a4346c3b65d14297.jpg",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-983"
-    },
-    {
-      "id": 87936,
-      "IDcode": "MEYD-532",
-      "title": "妻の残業NTR わたし、旦那に嘘をついて残業しています…。 霧島レオナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-09-13",
-      "cover_url": "",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-532"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-251"
     },
     {
       "id": 74579,
@@ -238,10 +95,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-09",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/27637fff4e50059219f5a2e18248a5af.jpg",
       "actress": [
         "雾岛里绪菜",
         "鲛岛"
@@ -249,84 +106,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKA-068"
     },
     {
-      "id": 82742,
-      "IDcode": "ATID-356",
-      "title": "REAL WORLD VIII ファミレスで打ち合わせ中のハーフ美女発見！！追いかけてってナンパするもあえなく撃沈 こうなりゃ力づくでヤッちゃいますか！！ 霧島レオナ",
+      "id": 530823,
+      "IDcode": "259LUXU-1117",
+      "title": "ラグジュTV 1105 神秘的美しさ！！日本×イタリアのハーフ美女！！ルックスも言叶遣いも超完璧美人！！いざセックスが始まると…圧倒的な腰使い！惊愕グラインドで男を魅了！イキ乱れる姿も美しいハーフ痴女！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2019-08-07",
-      "cover_url": "",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-356"
-    },
-    {
-      "id": 74864,
-      "IDcode": "HODV-21402",
-      "title": "完全主観 濃密スイートルーム［某大手IT企業コンサルタント］ 霧島レオナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2019-08-02",
-      "cover_url": "",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21402"
-    },
-    {
-      "id": 74059,
-      "IDcode": "PRED-164",
-      "title": "帰国子女は初めてのアルバイト先で中年店長に孕まされ続ける。 霧島レオナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2019-07-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250111-1/4daec07a6990192b997ce6a379acde00.jpg",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-164"
-    },
-    {
-      "id": 82297,
-      "IDcode": "DASD-542",
-      "title": "隣人に俺の彼女が寝取られて。「帰国子女を襲う無慈悲な下半身」 霧島レオナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-05-25",
-      "cover_url": "",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-542"
-    },
-    {
-      "id": 74619,
-      "IDcode": "LUXU-1117",
-      "title": "ラグジュTV 1105 神秘的美しさ！！日本×イタリアのハーフ美女！！ルックスも言葉遣いも超完璧美人！！いざセックスが始まると…圧倒的な腰使い！驚愕グラインドで男を魅了！イキ乱れる姿も美しいハーフ痴女！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
+      "type": "",
+      "company": "蚊香社",
       "publish_date": "2019-05-20",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221119-1/79ef522f049fd0c897a76ef5a5c6dcbe.jpg",
       "actress": [
         "雾岛里绪菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1117"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1117"
     },
     {
       "id": 19465,
@@ -335,7 +128,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-03-07",
       "cover_url": "https://picture.yoshiclub.xyz/20230503/20230503083540344344.jpg",
@@ -351,7 +144,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-02-07",
       "cover_url": "https://picture.yoshiclub.xyz/20230503/20230503082706159159.jpg",
@@ -361,16 +154,255 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-036"
     },
     {
-      "id": 19481,
-      "IDcode": "STARS-024",
-      "title": "雾岛里绪菜 AV Debut 2nd 性・欲・開・放 4本番",
+      "id": 347446,
+      "IDcode": "259LUXU-1216",
+      "title": "水果派系列：骚气主播约炮实录！邂逅痴女设计师主动索求，疯狂缠绵欲仙欲死",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5c6ea5499c5168944fcc522fa01bc5f4.jpg",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1216"
+    },
+    {
+      "id": 88529,
+      "IDcode": "JUY-983",
+      "title": "美丽端庄的人妻雾岛里绪菜被丈夫的上司侵犯倒数十次直接内射灌满子宫",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-983"
+    },
+    {
+      "id": 88344,
+      "IDcode": "HOI-097",
+      "title": "美丽的女孩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOI-097"
+    },
+    {
+      "id": 87936,
+      "IDcode": "MEYD-532",
+      "title": "明天加班的极品雾岛里绪菜其实都是瞒着老公在被上司侵犯内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://guzwiayz.com/20230316/kb7XGNRe/1.jpg?t=1679991770",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-532"
+    },
+    {
+      "id": 83181,
+      "IDcode": "SDDE-604",
+      "title": "性交クリニックファン感謝祭 2019 7性交×ノースキン中出し性交処置×235分SP！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-01-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502191639901901.jpg",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "黑川堇",
+        "深田詠美",
+        "八乃翼",
+        "蓮実クレア",
+        "奏音花音",
+        "赤瀬尚子",
+        "雾岛里绪菜",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-604"
+    },
+    {
+      "id": 82742,
+      "IDcode": "ATID-356",
+      "title": "REAL WORLD VIII ファミレスで打ち合わせ中のハーフ美女発見！！追いかけてってナンパするもあえなく撃沈 こうなりゃ力づくでヤッちゃいますか！！ 霧島レオナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6784e91989def9b1b8f3432c/cover.jpg",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-356"
+    },
+    {
+      "id": 82297,
+      "IDcode": "DASD-542",
+      "title": "我的混血海归女友-霧島レオナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4cae65f03a092cf674965/cover.jpg",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-542"
+    },
+    {
+      "id": 78414,
+      "IDcode": "MGT-094",
+      "title": "搭訕街角素人 69～東京23區抽插的女人們 3[有碼高清]",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f8ba9cc090ed6aa0757bcf26ee4af6cf.jpg",
+      "actress": [
+        "美園和花",
+        "雾岛里绪菜",
+        "今井夏帆",
+        "爱菜ゆう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-094"
+    },
+    {
+      "id": 76679,
+      "IDcode": "SY-189",
+      "title": "ちくぴんく…女の子ってやっぱりいいな OL 霧島レオナ 22歳148センチ… （素人四畳半生中出し）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d2f6c8767ba305ead2ce11b51c7e1cab.jpg",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SY-189"
+    },
+    {
+      "id": 76472,
+      "IDcode": "HOMA-077",
+      "title": "嵐の夜に…憧れの兄嫁と二人きり 霧島レオナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/652a7dab10d1d31918e0da748e0e5481.jpg",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-077"
+    },
+    {
+      "id": 75698,
+      "IDcode": "HJMO-420",
+      "title": "第7回ノーパンスウェット染みたら負けよ電マ濡れ我慢対決",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HAJIME-KIKAKU",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/409ea6e6b0ed22beb3e20e27b6d9e995.jpg",
+      "actress": [
+        "雾岛里绪菜",
+        "富井美帆",
+        "秋本詩音",
+        "大岛丈",
+        "若槻さくら",
+        "堀口美衣奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-420"
+    },
+    {
+      "id": 74864,
+      "IDcode": "HODV-21402",
+      "title": "完全主観-霧島レオナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21402"
+    },
+    {
+      "id": 74059,
+      "IDcode": "PRED-164",
+      "title": "帰国子女は初めてのアルバイト先で中年店長に孕まされ続ける。 霧島レオナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250111-1/4daec07a6990192b997ce6a379acde00.jpg",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-164"
+    },
+    {
+      "id": 19490,
+      "IDcode": "STARS-013",
+      "title": "混血海归女神石田凯伦的AV出道作",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "雾岛里绪菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-013"
+    },
+    {
+      "id": 19481,
+      "IDcode": "STARS-024",
+      "title": "完美脸蛋女神颜值石田凯伦性欲开发",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c089a0ca57325687c810a82dac5d702e.jpg",
       "actress": [
         "雾岛里绪菜",
         "鲛岛",
@@ -378,22 +410,6 @@ window.actressData = {
         "しみけん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-024"
-    },
-    {
-      "id": 19490,
-      "IDcode": "STARS-013",
-      "title": "石田凱倫 AV 出道",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-12-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502082658767767.jpg",
-      "actress": [
-        "雾岛里绪菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-013"
     }
   ]
 };

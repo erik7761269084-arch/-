@@ -34,18 +34,56 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/辻井ゆう.jpg"
   ],
-  "works_count": 4,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3491,
-      "IDcode": "MKCK-398",
-      "title": "巨乳晃不停，高潮時那小表情太撩人，我要射了！中出正常位精選4小時87人 ~ 有阪深雪 美園和花 有村希 清宮仁愛 希咲愛莉絲 莉莉遙香 雨宮響 宮本留衣 華澄結愛 鬼塚萌奈美 香阪紗梨 逢見梨花 藤井蘭々...",
+      "id": 88209,
+      "IDcode": "SDDE-354",
+      "title": "壁！机！椅子！から飛び出る生チ○ポが人気の進学校『都立しゃぶりながら高校』",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/80b2cf5cbe785988751a5c3eaea06116.jpg",
+      "actress": [
+        "辻井悠",
+        "早瀬ありす",
+        "迦纳绫子",
+        "有本纱世",
+        "早坂リア",
+        "野々宫ここみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-354"
+    },
+    {
+      "id": 81470,
+      "IDcode": "DKSB-047",
+      "title": "オマ○コより感じちゃう アナル依存症の変態女 濃厚4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7e30efd3766af45d2d06e841a4232536.jpg",
+      "actress": [
+        "辻井悠",
+        "有本纱世"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DKSB-047"
+    },
+    {
+      "id": 3491,
+      "IDcode": "MKCK-398",
+      "title": "揺れる巨乳とイキ顔がエロ過ぎて…俺もイッちゃうッ！種付け寸前の中出し正常位ベスト4時間87名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818045151795795_88584_thumbnail.webp",
       "actress": [
         "美園和花",
@@ -119,60 +157,6 @@ window.actressData = {
         "叶月桃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
-    },
-    {
-      "id": 81470,
-      "IDcode": "DKSB-047",
-      "title": "オマ○コより感じちゃう アナル依存症の変態女 濃厚4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-04-01",
-      "cover_url": "",
-      "actress": [
-        "辻井悠",
-        "有本纱世"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DKSB-047"
-    },
-    {
-      "id": 2030,
-      "IDcode": "SMBD-124",
-      "title": "S Model 124 肛交時潮吹的變態女孩：辻井裕",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-04-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/e8897aa6-1f1d-4cec-9a03-1f8d8599963b.webp",
-      "actress": [
-        "辻井悠"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-124"
-    },
-    {
-      "id": 88209,
-      "IDcode": "SDDE-354",
-      "title": "壁！机！椅子！から飛び出る生チ○ポが人気の進学校『都立しゃぶりながら高校』",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2014-05-10",
-      "cover_url": "",
-      "actress": [
-        "辻井悠",
-        "早瀬ありす",
-        "迦纳绫子",
-        "有本纱世",
-        "早坂リア",
-        "野々宫ここみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-354"
     }
   ]
 };

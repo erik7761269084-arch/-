@@ -4,7 +4,7 @@ window.actressData = {
   "name": "飯村まゆみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106223,
       "IDcode": "JRZE-171",
-      "title": "初撮り五十路妻ドキュメント 飯村まゆみ",
+      "title": "初次拍摄五十岁人妻-饭村真由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-12-14",
-      "cover_url": "https://tutu1.space/images/2024/01/01/93f9ff5e5f139e876e9189a991cc46cf.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/a4e3b747f6cb2b0639eacb28abc970b2.jpg",
       "actress": [
         "飯村まゆみ"
       ],

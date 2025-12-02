@@ -4,7 +4,7 @@ window.actressData = {
   "name": "真木夏芽",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,12 +20,12 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 80325,
-      "IDcode": "SW-817",
+      "IDcode": "SW-0817",
       "title": "ムッチリ巨乳とクビレ巨乳どっちが好き！！男はどっちのオッパイが好きかで揉めた姉達に僕のチ○ポの勃起具合で確かめさせてと襲われた！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
       "publish_date": "2021-12-09",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/a0cfd5369ff58ac816194e70d67aa8d4.jpg",
@@ -33,7 +33,7 @@ window.actressData = {
         "塚田詩織",
         "真木夏芽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-817"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0817"
     },
     {
       "id": 79696,
@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "変態紳士倶楽部",
       "publish_date": "2021-10-05",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/5189c8c3e4d2211b1995e020c140278c.jpg",
       "actress": [
         "望月綾香",
         "夏希栗",
@@ -56,16 +56,35 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-653"
     },
     {
+      "id": 91452,
+      "IDcode": "EBOD-771",
+      "title": "「私とセフレになりませんか？」日本中の男とハメたい軟体エロ女子AVデビュー チ●ポ大好き！ ご奉仕大好き！ 首絞め大好き！ 真木夏芽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/22976e8bc7b67ad4f9c935716a14934f.jpg",
+      "actress": [
+        "イセドン内村",
+        "市川润",
+        "梁井一",
+        "真木夏芽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-771"
+    },
+    {
       "id": 88300,
       "IDcode": "DNW-113",
       "title": "AV男優の電話帳 14 シロウト娘ナンパ狩り！！ 31",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2021-03-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/faf262212939b714ab317b402c9cb13f.jpg",
       "actress": [
         "宇流木沙羅",
         "如月夏希",
@@ -81,33 +100,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KIRAKIRA",
-      "publish_date": "2020-11-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230213-1/4c31d1ff87c291ecb114415e5b030263.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/82524c5af109cda4272883b178001c4f.jpg",
       "actress": [
         "真木夏芽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-476"
-    },
-    {
-      "id": 91452,
-      "IDcode": "EBOD-771",
-      "title": "「私とセフレになりませんか？」日本中の男とハメたい軟体エロ女子AVデビュー チ●ポ大好き！ ご奉仕大好き！ 首絞め大好き！ 真木夏芽",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2020-10-13",
-      "cover_url": "",
-      "actress": [
-        "イセドン内村",
-        "市川润",
-        "梁井一",
-        "真木夏芽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-771"
     }
   ]
 };

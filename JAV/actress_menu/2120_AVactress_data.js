@@ -54,8 +54,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/202506230802034444_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623080203353353_l.webp"
   ],
-  "works_count": 6,
+  "works_count": 14,
   "related_dramas": [
+    {
+      "id": 5077,
+      "IDcode": "KTRA-724",
+      "title": "極致誘惑細腰辣妹精選 4小時 ~ 神宮寺奈緒 東條夏 胡桃多惠 日向澪 まなかかな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623075745305305_thumbnail.webp",
+      "actress": [
+        "東條夏",
+        "神宫寺奈緒",
+        "胡桃多惠",
+        "日向澪",
+        "まなかかな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-724"
+    },
+    {
+      "id": 100632,
+      "IDcode": "KUM-001",
+      "title": "女教師 股縄調教",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-05-22",
+      "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/05/52487_cover_2025-06-05_005838.jpg",
+      "actress": [
+        "波多野结衣",
+        "森澤佳奈",
+        "渚光希",
+        "大浦真奈美",
+        "卯水咲流",
+        "有坂深雪",
+        "水野朝陽",
+        "日向澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KUM-001"
+    },
     {
       "id": 83562,
       "IDcode": "FIV-059",
@@ -63,7 +106,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-06",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/7828a33f000d1b4e00f6a684c5a34965.jpg",
@@ -86,10 +129,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
+      "type": "",
+      "company": "宇宙企畫",
       "publish_date": "2020-02-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/76143c9509b579d0d075e062c34e1348.jpg",
+      "cover_url": "",
       "actress": [
         "日向澪",
         "星奈爱",
@@ -100,16 +143,129 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-610"
     },
     {
+      "id": 100194,
+      "IDcode": "DBER-052",
+      "title": "淫奥が暴れ回る絶体絶命の恐慌！！ 凄まじきマルチプル・オーガズム ～完全撮り下ろし9名の無限地獄～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-01-13",
+      "cover_url": "",
+      "actress": [
+        "蘭々",
+        "铃木里美",
+        "日向澪",
+        "佐久间恵美",
+        "亜佐仓みんと",
+        "白井仁美",
+        "雪乃ゆめ",
+        "橘つかさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBER-052"
+    },
+    {
+      "id": 99878,
+      "IDcode": "NHDTB-219",
+      "title": "仲良し3人組女子○生が擔任教師を骨抜きにする両乳首とチ○ポのローテーション3點責め",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "2019-01-10",
+      "cover_url": "http://15.155250922.com/upload/vod/20221006/1nhdtb00219pl.jpg",
+      "actress": [
+        "雨村梨花",
+        "日向澪",
+        "仓木诗织",
+        "爱里るい",
+        "七海ゆあ",
+        "相泽ゆりな",
+        "南凉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-219"
+    },
+    {
+      "id": 103277,
+      "IDcode": "DVDMS-328",
+      "title": "一般男女モニタリング女子○生限定高額アルバイト企画！学校帰りに声をかけた有名進学校に通う素人女子○生をインタビュー中にノンストップザーメンぶっかけ！合計49発 溜まりにたまった濃厚精子を大量に浴びせられて制服・髪・顔まで精子でべっとり！うぶなJ○オマ○…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-11-07",
+      "cover_url": "",
+      "actress": [
+        "枢木葵",
+        "日向澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-328"
+    },
+    {
+      "id": 103071,
+      "IDcode": "HAVD-974",
+      "title": "濃厚接吻 同棲レズビアンの淫らな性生活 女同士の底なしの快楽の溺れて…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-10-25",
+      "cover_url": "",
+      "actress": [
+        "日向澪",
+        "月下あいり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-974"
+    },
+    {
+      "id": 102793,
+      "IDcode": "BBAN-171",
+      "title": "賭けに負けてレズビアンに堕ちるショートカットの敏感女子大生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2018-03-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban171/bban171pl.jpg",
+      "actress": [
+        "蘭々",
+        "麻里梨夏",
+        "日向澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-171"
+    },
+    {
+      "id": 105477,
+      "IDcode": "VDD-140",
+      "title": "超暴力凌辱调教人妻空姐-ひなた澪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "日向澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VDD-140"
+    },
+    {
       "id": 88246,
       "IDcode": "JUFE-037",
       "title": "禁欲生活で性欲が爆発して男を監禁！ W痴女の逆サンドイッチ種搾りSEX 岬あずさ ひなた澪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2019-04-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230915-1/f9f7db8995e1de8324e8a7887f1e9cfd.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "岬梓沙",
         "日向澪",
@@ -118,23 +274,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-037"
     },
     {
-      "id": 71745,
-      "IDcode": "CLUB-537",
-      "title": "隠れヤリマンの制服美少女をSNSナンパ！エッチな王様ゲームした後パリピ万歳中出し乱交パーティーした件",
+      "id": 87986,
+      "IDcode": "ABP-614",
+      "title": "天然成分由来 ひなた澪汁 120％ 45",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "変態紳士倶楽部",
-      "publish_date": "2019-02-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/df78b325619f89068a320d677c3b581a.jpg",
       "actress": [
-        "大浦真奈美",
-        "日向澪",
-        "仓木诗织",
-        "梦咲ひなみ"
+        "日向澪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-537"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-614"
     },
     {
       "id": 72289,
@@ -143,10 +296,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-11-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/4b80b45434825d7014593a208e4d5879.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ccb5747ed18ffd8e89dab1423ac927e3.jpg",
       "actress": [
         "日向澪",
         "森林原人",
@@ -156,20 +309,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-661"
     },
     {
-      "id": 87986,
-      "IDcode": "ABP-614",
-      "title": "天然成分由来 ひなた澪汁 120％ 45",
+      "id": 71745,
+      "IDcode": "CLUB-537",
+      "title": "隐藏色女制服美少女在SNS搭讪！玩了色色的国王游戏之后举手内射乱交趴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-07-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/9da9494090fb5044ff510c9bc6ec1df1.jpg",
+      "type": "",
+      "company": "変態紳士倶楽部",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/13390985ca888cb9699a12c3c949cb65.jpg",
       "actress": [
-        "日向澪"
+        "大浦真奈美",
+        "日向澪",
+        "仓木诗织",
+        "梦咲ひなみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-537"
     }
   ]
 };

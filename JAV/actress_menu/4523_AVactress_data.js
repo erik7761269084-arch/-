@@ -4,7 +4,7 @@ window.actressData = {
   "name": "林爱菜",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-03",
       "cover_url": "",
       "actress": [
@@ -35,36 +35,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-024"
     },
     {
-      "id": 75207,
-      "IDcode": "HJMO-429",
-      "title": "親友対決！固定ディルド腰ふり競争1000回ふらなきゃ帰れまセン！！6",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HAJIME-KIKAKU",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
-      "actress": [
-        "原花音",
-        "天月叶菜",
-        "大原えりか",
-        "山本莲加",
-        "星岛るり",
-        "林爱菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
-    },
-    {
       "id": 83144,
       "IDcode": "PKPD-079",
       "title": "円女交際 中出しoK18歳Aカップ白桃尻娘 林愛菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2020-02-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "林爱菜"
@@ -74,18 +53,39 @@ window.actressData = {
     {
       "id": 76382,
       "IDcode": "HND-763",
-      "title": "ゴックンも中出しもどっちもしたい美少女AVデビュー！！ 林愛菜",
+      "title": "吞精内射都不在话下的美少女AV出道作",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2019-12-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/160cdc10a695df87508d4ca9bb035520.jpg",
       "actress": [
         "林爱菜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-763"
+    },
+    {
+      "id": 75207,
+      "IDcode": "HJMO-429",
+      "title": "親友対決！固定ディルド腰ふり競争1000回ふらなきゃ帰れまセン！！6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HAJIME-KIKAKU",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/0206127028d254c5fd566233429fd8e5.jpg",
+      "actress": [
+        "原花音",
+        "天月叶菜",
+        "大原えりか",
+        "山本莲加",
+        "星岛るり",
+        "林爱菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
     }
   ]
 };

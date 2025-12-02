@@ -35,8 +35,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250427/273d66e7-3bee-426a-975e-1ef35df9714a_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250427/9b6581db-37cd-43b3-9ea1-94fea9dec148_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 10668,
+      "IDcode": "SSNI-460",
+      "title": "一臉的不情願，但敏感的身體是如此驚人，不斷被強奸的JK少女 ~ 畑芽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-04-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20241113/20241113035221403403.jpg",
+      "actress": [
+        "畑芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-460"
+    },
     {
       "id": 74437,
       "IDcode": "HND-696",
@@ -44,15 +60,47 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2019-07-25",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "畑芽衣",
         "玉木玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-696"
+    },
+    {
+      "id": 11548,
+      "IDcode": "SSNI-398",
+      "title": "19歲新人的初嘲吹！ 性感開發 3本番 ~ 畑芽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/34baec6d270f7f30b54ddb0f8596f0c1.jpg",
+      "actress": [
+        "畑芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-398"
+    },
+    {
+      "id": 11094,
+      "IDcode": "SSNI-440",
+      "title": "118強烈高潮！ 2800cc高潮！ 早熟的19歲身體色情覺醒特別版 ~ 畑芽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f94be81bce592e9aa2f6e/cover.jpg",
+      "actress": [
+        "畑芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-440"
     }
   ]
 };

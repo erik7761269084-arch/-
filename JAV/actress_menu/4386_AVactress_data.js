@@ -24,8 +24,27 @@ window.actressData = {
     "Sena Maho"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 98698,
+      "IDcode": "KRU-081",
+      "title": "超強力な即効性の媚薬と 敏感になっちゃう催淫ツボマッサージで我慢できない制服美少女悶々整体院盗撮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-03-13",
+      "cover_url": "",
+      "actress": [
+        "天馬唯",
+        "豊中爱丽丝",
+        "纱凪美羽",
+        "东山想叶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KRU-081"
+    },
     {
       "id": 73564,
       "IDcode": "OKB-070",
@@ -33,7 +52,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2019-08-22",
       "cover_url": "",
@@ -49,8 +68,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
+      "type": "",
+      "company": "",
       "publish_date": "2019-02-01",
       "cover_url": "",
       "actress": [
@@ -71,10 +90,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GOGOS",
-      "publish_date": "2017-03-16",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/4391a144e94b59ee14a4aff304530676.jpg",
       "actress": [
         "纱凪美羽"
       ],

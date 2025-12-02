@@ -33,23 +33,55 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/854cfc2d-f190-471c-824a-50bc51a2fa8f_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/95bd055e-c078-47f6-b97a-50daaa40fc89_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4399,
-      "IDcode": "SDNM-520",
-      "title": "都內保險公司F杯少婦理財師上班偷情高潮不停 ~ 三上咲",
+      "id": 5045,
+      "IDcode": "SDNM-518",
+      "title": "都内保険会社で働くFカップ若妻ファイナンシャルプランナー 三上咲 32歳 素人人妻がAV初出演",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-07-15",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204634302302_thumbnail.webp",
+      "actress": [
+        "三上咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-518"
+    },
+    {
+      "id": 4399,
+      "IDcode": "SDNM-520",
+      "title": "都内保険会社で働くFカップ若妻ファイナンシャルプランナー 三上咲 32歳 第2章 仕事中にヤリまくる絶頂不倫密会",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714221016411411_66350_thumbnail.webp",
       "actress": [
         "三上咲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-520"
+    },
+    {
+      "id": 3459,
+      "IDcode": "SDNM-524",
+      "title": "都内保険会社で働くFカップ若妻ファイナンシャルプランナー 三上咲 最終章 旦那との妊活が始まる前に、人生で一番気持ちよくなりたい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818174326726726_61637_thumbnail.webp",
+      "actress": [
+        "三上咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-524"
     }
   ]
 };

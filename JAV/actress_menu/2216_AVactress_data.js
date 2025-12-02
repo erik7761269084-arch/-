@@ -46,10 +46,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "CineMagic",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240501-1/271839915e9112ee081d580430e48230.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240501-1/dd95c2d73c8ca4d0d77d097501d10d3e.jpg",
       "actress": [
         "北原杏"
       ],

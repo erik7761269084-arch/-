@@ -4,7 +4,7 @@ window.actressData = {
   "name": "仲村はるか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2010-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/2cdc362c40d85e94d41239e8166da143.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eda4fb847249f345d217f93f535bd875.jpg",
       "actress": [
         "仲村はるか",
         "爱内梨花"

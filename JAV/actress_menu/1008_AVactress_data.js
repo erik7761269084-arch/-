@@ -32,39 +32,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230610/60494e76-f8d1-4934-bdcb-de76226196b8.jpg",
     "https://picture.yoshiclub.xyz/20230610/af1f521b-b762-4623-b21c-28ec59152c93.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 19218,
-      "IDcode": "IPX-233",
-      "title": "癡女後宮病院 ～多位護士尻個不停～",
+      "id": 19260,
+      "IDcode": "IPX-187",
+      "title": "制服美少女高潮4連發 七實里菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-11-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230622/20230622230426200200.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a38e055a3d9a8bf8fb14a9afd08ef6a5.jpg",
       "actress": [
-        "美谷朱里",
-        "神宫寺奈緒",
-        "七実りな",
-        "玉木玲",
-        "神宫寺奈绪"
+        "七実りな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-187"
+    },
+    {
+      "id": 19249,
+      "IDcode": "IPX-199",
+      "title": "比起教书还是口交比较好-七実りな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230614/20230614003422440440.jpg",
+      "actress": [
+        "七実りな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-199"
     },
     {
       "id": 19233,
       "IDcode": "IPX-212",
-      "title": "心跳初體驗！露出讓人玩弄到高潮",
+      "title": "露出勾引路人的挑战-七実りな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-10-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230619/20230619000602554554.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/eb398780abfe7ba5924c88ed9c27f3f2.jpg",
       "actress": [
         "七実りな",
         "鲛岛",
@@ -73,20 +85,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-212"
     },
     {
-      "id": 19260,
-      "IDcode": "IPX-187",
-      "title": "制服美少女高潮4連發 七實里菜",
+      "id": 19218,
+      "IDcode": "IPX-233",
+      "title": "痴女后宫医院",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-08-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230612/20230611222055680680.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1f731a1aff1366e0af2a605c50f49e3d.jpg",
       "actress": [
-        "七実りな"
+        "美谷朱里",
+        "神宫寺奈緒",
+        "七実りな",
+        "玉木玲",
+        "神宫寺奈绪"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-233"
     }
   ]
 };

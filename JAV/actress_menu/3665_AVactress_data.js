@@ -4,7 +4,7 @@ window.actressData = {
   "name": "月野りこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 66896,
-      "IDcode": "LUXU-1762",
-      "title": "ラグジュTV 1749 「Hが上手な人としてみたいんです…」恥ずかしそうに頬を赤らめる美人家庭教師が出演！面映ゆい表情とは裏腹に濃厚SEXでイキ乱れる！",
+      "id": 479392,
+      "IDcode": "259LUXU-1762",
+      "title": "ラグジュTV 1749 「Hが上手な人としてみたいんです…」恥ずかしそうに頬を赤ら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2023-12-22",
-      "cover_url": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/0ab2fd486ccebbda354e099f342edd36.jpg",
       "actress": [
         "月野りこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1762"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1762"
     }
   ]
 };

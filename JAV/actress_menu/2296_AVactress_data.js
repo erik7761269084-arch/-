@@ -38,7 +38,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2024-05-14",
       "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512220912223223.jpg",
@@ -62,10 +62,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2021-10-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/3e5b3251ccb883dc3cd5a7bd1197a96d.jpg",
       "actress": [
         "木村穂乃香",
         "水川由里"

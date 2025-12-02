@@ -4,7 +4,7 @@ window.actressData = {
   "name": "水城リオ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 84263,
       "IDcode": "DASS-056",
-      "title": "派遣マッサージ師にきわどい秘部を触られすぎて、快楽に耐え切れず寝取られました。 水城リオ",
+      "title": "临时按摩师-水城リオ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DASDAS",
-      "publish_date": "2022-09-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/a9635945f24a406111abc8bdb8a53fcb.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/aec3b510f1bb6a47976345cfd1c4b5bd.jpg",
       "actress": [
         "ニック",
         "水城リオ"

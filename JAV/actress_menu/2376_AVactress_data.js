@@ -56,18 +56,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230121/8a7e7693-aa9f-47b7-b0ca-61c081ae94c1.jpg",
     "https://picture.yoshiclub.xyz/20230121/a6341571-9df3-406f-8a42-633d362ed3ed.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1719,
-      "IDcode": "CWPBD-70",
-      "title": "CATWALK POISON 70 ～修長癡體～ : 青山沙希",
+      "id": 159080,
+      "IDcode": "HEYZO-0118",
+      "title": "バスケットガール☆～高身長な女と３Ｐ～ –",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-09-27",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/en3IAOgQ/1.jpg",
+      "actress": [
+        "青山沙希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0118"
+    },
+    {
+      "id": 1719,
+      "IDcode": "CWPBD-70",
+      "title": "猫步毒药-青山沙希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/d0fa0602-676b-4ec0-9788-7adb93342db9.webp",
       "actress": [
         "青山沙希"

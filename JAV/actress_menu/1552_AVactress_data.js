@@ -35,16 +35,66 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
+      "id": 9022,
+      "IDcode": "KIBD-326",
+      "title": "【口交特化】用嘴幫你全部吸出來 最佳口交合集 BEST ~ 深田泳美 加藤桃香 藤森裏穗 渚光希等12人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-01-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250118/20250118064248144144.jpg",
+      "actress": [
+        "松本一香",
+        "北野未奈",
+        "新井里真",
+        "田中寧寧",
+        "藤森里穂",
+        "渚光希",
+        "加藤桃香",
+        "篠田優",
+        "推川悠里",
+        "根尾朱里",
+        "深田詠美",
+        "永井瑪麗亞",
+        "君島美緒",
+        "奏音花音",
+        "桜華みゆ",
+        "堀北わん",
+        "河南実里",
+        "長谷川夏樹",
+        "浜辺アンナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-326"
+    },
+    {
+      "id": 71395,
+      "IDcode": "BLK-402",
+      "title": "オヤジだけにフェラの女神さま！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/090b4ec9b60ae091eea189bc10dde1f6.jpg",
+      "actress": [
+        "長谷川夏樹"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-402"
+    },
+    {
       "id": 68316,
       "IDcode": "MKMP-632",
       "title": "キャパいGALと鬼ヤバSEX！TOP OF GAL PARADICE BEST 240分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-04-22",
-      "cover_url": "https://tutu1.space/images/2025/07/10/96b7ec50da8dbcb83b4e621313881098.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/1f03b153afb2930dcb25cb916e33a0a4.jpg",
       "actress": [
         "椿莉香",
         "AIKA",
@@ -59,38 +109,6 @@ window.actressData = {
         "双叶ゆきな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-632"
-    },
-    {
-      "id": 71395,
-      "IDcode": "BLK-402",
-      "title": "オヤジだけにフェラの女神さま！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2019-04-19",
-      "cover_url": "",
-      "actress": [
-        "長谷川夏樹"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-402"
-    },
-    {
-      "id": 1949,
-      "IDcode": "SKYHD-155",
-      "title": "天空天使藍 Vol.147 ：長谷川夏希",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2015-08-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/f0924f42-2f52-45bb-94ac-cd841000d6d0.webp",
-      "actress": [
-        "長谷川夏樹"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-155"
     }
   ]
 };

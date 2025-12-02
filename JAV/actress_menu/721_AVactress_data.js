@@ -32,7 +32,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231029/1c789625-b4f3-496e-807f-6717ca561acf.jpg"
   ],
-  "works_count": 1,
+  "works_count": 5,
   "related_dramas": [
     {
       "id": 909,
@@ -41,14 +41,78 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2016-04-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20240417/20240417035606113113.jpg",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/15704abc984a823980d4a11714f54e3c.jpg",
       "actress": [
         "並木静香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1147"
+    },
+    {
+      "id": 1123,
+      "IDcode": "HEYZO-1619",
+      "title": "巨乳教練的特別乳交課程",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-10-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113231457373373.jpg",
+      "actress": [
+        "並木静香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1619"
+    },
+    {
+      "id": 949,
+      "IDcode": "HEYZO-1200",
+      "title": "持續生中出～操翻棉花糖大奶子！～ 並木静香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-06-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20240327/0cd327d2-e5e7-4f25-b3f9-1baf07d37986.jpg",
+      "actress": [
+        "並木静香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1200"
+    },
+    {
+      "id": 158954,
+      "IDcode": "HEYZO-3248",
+      "title": "お尻で悩殺しちゃうぞ！～美女コレクションVol.10～ –",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/i643n8mK/1.jpg",
+      "actress": [
+        "並木静香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3248"
+    },
+    {
+      "id": 158816,
+      "IDcode": "HEYZO-3114",
+      "title": "顔騎でナメて欲しい！～の場合～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/gypMBQyz/1.jpg",
+      "actress": [
+        "並木静香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3114"
     }
   ]
 };

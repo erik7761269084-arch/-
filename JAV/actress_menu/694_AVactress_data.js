@@ -46,52 +46,84 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250306/853cb015-2b9e-4cf4-b721-1196d35cb68f.jpg",
     "https://picture.yoshiclub.xyz/20250306/338cb645-c700-4383-b657-fcb6ccf2c578.jpg"
   ],
-  "works_count": 6,
+  "works_count": 9,
   "related_dramas": [
     {
-      "id": 3779,
-      "IDcode": "JUR-390",
-      "title": "錢全花光了！老婆回娘家的這一周，包下極上《神美貌》風俗妹無限內射的同居生活 ~ 新妻優香",
+      "id": 7742,
+      "IDcode": "JUR-024",
+      "title": "與你相遇的奇蹟-新妻ゆうか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030235114114_90669_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122910478478.jpg",
       "actress": [
         "新妻優香",
-        "羽田貴史"
+        "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-024"
     },
     {
-      "id": 3842,
-      "IDcode": "MDON-079",
-      "title": "獨家配信 麥當娜專屬女優真實解禁 火熱自拍視角 ~ 新妻優香",
+      "id": 7019,
+      "IDcode": "JUR-036",
+      "title": "和老公造人运动-新妻优香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101533231231_28925_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092016841841.jpg",
       "actress": [
         "新妻優香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-079"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-036"
+    },
+    {
+      "id": 6281,
+      "IDcode": "JUR-319",
+      "title": "渡假村泳池NTR-新妻优香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/202505080708318989_thumbnail.webp",
+      "actress": [
+        "新妻優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-319"
+    },
+    {
+      "id": 5565,
+      "IDcode": "JUR-371",
+      "title": "密着性爱出差途中与上司纠缠的禁忌情爱-新妻优香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035855490490_thumbnail.webp",
+      "actress": [
+        "新妻優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-371"
     },
     {
       "id": 4715,
       "IDcode": "JUR-370",
-      "title": "換妻酒吧人妻NTR：老婆最終迷戀上了被羣P的快感 ~ 新妻優香 大空七海",
+      "title": "享受陌生人肉棒的人妻-新妻优香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040707563563_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab7999edc101930b4b4d53/cover.jpg",
       "actress": [
         "大空七海",
         "新妻優香",
@@ -100,53 +132,69 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-370"
     },
     {
-      "id": 5565,
-      "IDcode": "JUR-371",
-      "title": "親密纏綿 出差途中與上司的禁忌之情 ~ 新妻優香",
+      "id": 3842,
+      "IDcode": "MDON-079",
+      "title": "配信限定 マドンナ専属女優の『リアル』解禁。 MADOOOON！！！！ 新妻ゆうか ハメ撮り",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035855490490_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "新妻優香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-371"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-079"
     },
     {
-      "id": 6281,
-      "IDcode": "JUR-319",
-      "title": "度假泳池NTR 專屬尤物×性感比基尼 背德與放縱交織的刺激劇情 ~ 新妻優香",
+      "id": 3779,
+      "IDcode": "JUR-390",
+      "title": "妻子怀孕回家一周我用奖金叫女郎-新妻优香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/202505080708318989_thumbnail.webp",
-      "actress": [
-        "新妻優香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-319"
-    },
-    {
-      "id": 7742,
-      "IDcode": "JUR-024",
-      "title": "與你相遇的奇跡，注定一生難忘的極品女人 2025年 Madonna最強新人 31歲 AV DEBUT 每一秒都美得驚豔的H罩杯人妻 ~ 新妻優香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122910478478.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030235114114_90669_thumbnail.webp",
       "actress": [
         "新妻優香",
-        "小田切ジュン"
+        "羽田貴史"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-024"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-390"
+    },
+    {
+      "id": 3033,
+      "IDcode": "JUR-422",
+      "title": "人妻秘书充满汗水与热吻的社长室中出性交-新妻优香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020834383383_27734_thumbnail.webp",
+      "actress": [
+        "新妻優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-422"
+    },
+    {
+      "id": 2125,
+      "IDcode": "JUR-473",
+      "title": "为了心爱的丈夫成为了周末肉便器被精力旺盛的黑道大叔内射-新妻优香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/29367d74/vod.jpg",
+      "actress": [
+        "新妻優香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-473"
     }
   ]
 };

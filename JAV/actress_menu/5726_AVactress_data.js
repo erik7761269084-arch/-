@@ -4,7 +4,7 @@ window.actressData = {
   "name": "池野心",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91199,
       "IDcode": "FRD-005",
-      "title": "ハジメテダカラデキルコト 池野心",
+      "title": "和小侄女的甜蜜同居生活-皆月光",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DREAMTICKET",
-      "publish_date": "2005-02-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240410-1/88eab329e418929234fef30d44738bdd.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240410-1/932b2c47ccd4d1f9f9df39254f69d20f.jpg",
       "actress": [
         "池野心"
       ],

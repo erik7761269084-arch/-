@@ -4,7 +4,7 @@ window.actressData = {
   "name": "瑞島智花",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 89122,
       "IDcode": "VEO-071",
-      "title": "本物素人妻AV Debut！！本物Gカップ巨乳ベースボール女子の膣奥一発入魂セックス 瑞島智花 （ブルーレイディスク） （BOD）",
+      "title": "本物素人妻AV Debut！！本物Gカップ巨乳ベースボール女子の膣奥一発入魂セックス 瑞島智花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2023-06-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683c850e0b69f1d8164389da/cover.jpg",
       "actress": [
         "瑞島智花"
       ],

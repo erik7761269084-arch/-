@@ -39,14 +39,14 @@ window.actressData = {
     {
       "id": 7584,
       "IDcode": "MIFD-595",
-      "title": "新人出道！ 色色SNS圈裏傳說的露奶大胸妹竟是檔期滿滿的超人氣家教！？甜軟嗓音配上狂野高潮 首次亮相 AV DEBUT ~ 南惠令奈",
+      "title": "那个传说中的会漏奶的巨乳人气家庭教师",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313085231637637.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250331-1/132bbdd8e5ff52fb2d930efe6febdca7.jpg",
       "actress": [
         "南恵令奈"
       ],

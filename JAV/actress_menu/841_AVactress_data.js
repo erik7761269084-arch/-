@@ -29,50 +29,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250118/aacb414e-be12-46c6-b0e1-c48af3efd74d.jpg"
   ],
-  "works_count": 4,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2626,
-      "IDcode": "ROYD-266",
-      "title": "天天來我家過夜的朋友女友無意間的撩撥，憋得我不上不下真要命 ~ 逢阪希穂",
+      "id": 9007,
+      "IDcode": "EBWH-187",
+      "title": "地方电视台女大学生-逢坂希穂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROYAL",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918040809866866_23838_thumbnail.webp",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072339598598.jpg",
       "actress": [
         "逢坂希穂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-266"
-    },
-    {
-      "id": 3183,
-      "IDcode": "FOCS-270",
-      "title": "巨乳花嫁 新娘結婚式前夜被NTR，渣男的瘋狂強⬤報復 ~ 逢阪希穂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828042100440440_79409_thumbnail.webp",
-      "actress": [
-        "逢坂希穂"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-270"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-187"
     },
     {
       "id": 7565,
       "IDcode": "EBWH-199",
-      "title": "爲了保持清純人設不能隨便開幹的女大學生氣象預報姐姐，覺得妹妹的男友會保密就用美巨乳誘惑了他 ~ 逢阪希穗",
+      "title": "因為是清純賣點-逢坂希穂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-03-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313084256204204.jpg",
       "actress": [
         "逢坂希穂"
@@ -80,20 +64,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-199"
     },
     {
-      "id": 9007,
-      "IDcode": "EBWH-187",
-      "title": "新人出道！清楚系地元女大學生（前）氣象主播，整潔形象而不與任何人發生性關系。最後徹底性欲崩壞而轉向AV，超苗條巨乳美人 首次亮相 AV DEBUT ~ 逢阪希穂",
+      "id": 5741,
+      "IDcode": "MIAB-494",
+      "title": "被田径部巨乳队员用龟头1cm插入深蹲诱惑-逢坂希穂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116072339598598.jpg",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/13/390c237c3291630f450d125281f346c1.jpg",
       "actress": [
         "逢坂希穂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-187"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-494"
+    },
+    {
+      "id": 4216,
+      "IDcode": "NACR-989",
+      "title": "清纯的美大生的悲剧-逢坂希穗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e1c2898bc99dfdd0048c2/cover.jpg",
+      "actress": [
+        "逢坂希穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-989"
+    },
+    {
+      "id": 3183,
+      "IDcode": "FOCS-270",
+      "title": "巨乳新娘 婚礼前夜NTR 昔日被霸凌的男人以复仇为名把她诱拐哄骗，背着未婚夫沉溺于连射中出播种性爱 逢坂希穗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828042100440440_79409_thumbnail.webp",
+      "actress": [
+        "逢坂希穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-270"
+    },
+    {
+      "id": 2938,
+      "IDcode": "NACT-011",
+      "title": "为了亲爱的老公我和他的老闆一起睡-逢坂希穗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025701177177_40373_thumbnail.webp",
+      "actress": [
+        "逢坂希穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACT-011"
+    },
+    {
+      "id": 2626,
+      "IDcode": "ROYD-266",
+      "title": "每天来我家过夜的有男友的女性朋友无意识地诱惑我-逢坂希穂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918040809866866_23838_thumbnail.webp",
+      "actress": [
+        "逢坂希穂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-266"
     }
   ]
 };

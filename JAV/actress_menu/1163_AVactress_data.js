@@ -35,37 +35,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241212/c0678a25-b62a-4e26-8a48-145f3361a151.jpg",
     "https://picture.yoshiclub.xyz/20241212/5db0eca2-d0c5-4f82-b99f-699917780727.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 5623,
-      "IDcode": "SMJD-005",
-      "title": "脫毛沙龍的騷姐姐 一見鍾情直接開幹的職場小姐姐和炮友關系瘋狂內射的激情記錄 ~ 宮瀬夏純",
+      "id": 9934,
+      "IDcode": "HMN-645",
+      "title": "新人 元・天才子役デビュー 宮瀬夏純",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROOKIE",
-      "publish_date": "2025-05-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250601/20250601221841859859_thumbnail.webp",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064307385385.jpg",
       "actress": [
-        "宮瀬夏純",
-        "永井真希",
-        "叶川みなみ",
-        "日向ひかる"
+        "宮瀬夏純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMJD-005"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-645"
     },
     {
       "id": 6591,
       "IDcode": "HRSM-093",
-      "title": "意識模糊無套會社新人培訓-四位新人OL被精液玷污 ~ 渡辺まりか 宮瀬夏純 花音うらら 松井日奈子",
+      "title": "意識朦朧生刺し営業研修-精子で汚された新入社員4名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "癡漢廠",
-      "publish_date": "2025-04-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426021842512512_thumbnail.webp",
       "actress": [
         "松井日奈子",
@@ -76,20 +73,41 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-093"
     },
     {
-      "id": 9934,
-      "IDcode": "HMN-645",
-      "title": "新人、前天才童星首次亮相 AV DEBUT ~ 宮瀨夏純",
+      "id": 5623,
+      "IDcode": "SMJD-005",
+      "title": "脱毛サロンのお姉さん 出会って即ハメした働く女性とセフレ関係になって中出ししまくった記録",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064307385385.jpg",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250601/20250601221841859859_thumbnail.webp",
       "actress": [
+        "宮瀬夏純",
+        "永井真希",
+        "叶川みなみ",
+        "日向ひかる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMJD-005"
+    },
+    {
+      "id": 3729,
+      "IDcode": "NGHJ-022",
+      "title": "銀座の一流百貨店に勤務する清楚で品格漂う美容部員さんが童貞君とくちSEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013751540540_82636_thumbnail.webp",
+      "actress": [
+        "森澤佳奈",
+        "依本詩織",
         "宮瀬夏純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-645"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-022"
     }
   ]
 };

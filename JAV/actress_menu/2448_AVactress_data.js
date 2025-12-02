@@ -38,36 +38,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 4038,
-      "IDcode": "SAN-372",
-      "title": "喝酒就變癡女還失憶的超級爆乳人妻 ~ 秋月まりな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-07-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203829472472_87842_thumbnail.webp",
-      "actress": [
-        "秋月まりな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-372"
-    },
-    {
       "id": 63437,
       "IDcode": "NEO-932",
       "title": "しなやかで美しい女の反り返りフェチズム 秋月まりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "RADIX",
-      "publish_date": "2025-06-26",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689ffc5b9550e292a7766b02/cover.jpg",
       "actress": [
         "秋月まりな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-932"
+    },
+    {
+      "id": 4038,
+      "IDcode": "SAN-372",
+      "title": "酒を飲むと痴女化して記憶をなくす酒乱爆乳妻 秋月まりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203829472472_87842_thumbnail.webp",
+      "actress": [
+        "秋月まりな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-372"
     }
   ]
 };

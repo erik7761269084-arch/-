@@ -27,18 +27,99 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240320/f4cffab8-d52c-40e4-90bb-082dd7fe5a25.webp"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 2989,
-      "IDcode": "BONY-159",
-      "title": "獨居美女成目標，鬼畜強暴團夥入室輪⬤中出凌辱篇 ~ 有棲奏羽 白石桃 蓮水鈴 志田みずき",
+      "id": 14192,
+      "IDcode": "NACR-811",
+      "title": "我愛陰部淫蕩女孩！ ！~ 志田みずき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/4ee7314662709cac823771a6d5b26ea4.jpg",
+      "actress": [
+        "志田みずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-811"
+    },
+    {
+      "id": 12319,
+      "IDcode": "GVH-682",
+      "title": "W巨乳比基尼泳裝癡女的雙飛 ~ 星明日菜 志田みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/09/68965e3955337d7f7babb5a9/cover.jpg",
+      "actress": [
+        "星明日菜",
+        "志田みずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-682"
+    },
+    {
+      "id": 11075,
+      "IDcode": "AKDL-300",
+      "title": "完全着衣 光沢レオタード＆パンスト 巨尻スポーツトレーナーが巧志田みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241024/20241024020223834834.jpg",
+      "actress": [
+        "志田みずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-300"
+    },
+    {
+      "id": 10816,
+      "IDcode": "AKDL-303",
+      "title": "職場の同僚にエチハラされて感じちゃう隠れスケベOLさん 「105cmデカ尻が性感帯です」志田みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/26/e6e8d3d08de4569b70be91a66f3bcad3.jpg",
+      "actress": [
+        "志田みずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-303"
+    },
+    {
+      "id": 9117,
+      "IDcode": "GONE-072",
+      "title": "魅惑の「尻軽」シリガ～ル 志田みずき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250115/96ac10e4-6563-4006-9ee4-78b956fd6b62.jpg",
+      "actress": [
+        "志田みずき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GONE-072"
+    },
+    {
+      "id": 2989,
+      "IDcode": "BONY-159",
+      "title": "一人暮らしの美女を狙う鬼畜レ〇プ集団自宅押込み中出し性交 凌○拷問編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072904200200_45952_thumbnail.webp",
       "actress": [
         "白石桃",
@@ -47,70 +128,6 @@ window.actressData = {
         "蓮水鈴"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
-    },
-    {
-      "id": 9117,
-      "IDcode": "GONE-072",
-      "title": "魅惑的尻 ~ 志田みずき",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MERCURY",
-      "publish_date": "2025-01-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20250115/96ac10e4-6563-4006-9ee4-78b956fd6b62.jpg",
-      "actress": [
-        "志田みずき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GONE-072"
-    },
-    {
-      "id": 10816,
-      "IDcode": "AKDL-303",
-      "title": "在職場被同事性騷擾的OL，105cm的超大屁股是我的性感帶，喜歡飲精的24歲事務員 ~ 志田みずき",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107005742545545.jpg",
-      "actress": [
-        "志田みずき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-303"
-    },
-    {
-      "id": 11075,
-      "IDcode": "AKDL-300",
-      "title": "[AKNR 戀物癖] 穿着閃亮的緊身衣和絲襪，巨尻會喝下你所有的精液 ~ 志田みずき",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2024-10-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241024/20241024020223834834.jpg",
-      "actress": [
-        "志田みずき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-300"
-    },
-    {
-      "id": 14192,
-      "IDcode": "NACR-811",
-      "title": "我愛陰部淫蕩女孩！ ！~ 志田みずき",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "",
-      "cover_url": "https://picture.yoshiclub.xyz/20240605/15712a58-7738-4e51-b458-fb5bff6f582b.jpg",
-      "actress": [
-        "志田みずき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-811"
     }
   ]
 };

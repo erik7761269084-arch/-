@@ -36,19 +36,62 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250226/90bdcc51-7cc5-4a66-9f81-27b960479df5.jpg",
     "https://picture.yoshiclub.xyz/20250226/915ab3bb-62d2-45f3-95f8-69176ff076b3.jpg"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 5004,
-      "IDcode": "MIRD-257",
-      "title": "青春無內少女的純真校園 私立無內學園 ~ 美澄玲衣 新垣まりん 花芽有朱 若月もあ 下川紬 朝海凪咲 湊波流 乙葉らぶ",
+      "id": 91117,
+      "IDcode": "IENF-272",
+      "title": "アナルのシワの数までハッキリわかる！ノーモザイク連続絶頂アナル見せオナニー16",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032726442442_thumbnail.webp",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/eeb19aadc7b85811357b362c4d30f3c7.jpg",
+      "actress": [
+        "渚光希",
+        "工藤拉拉",
+        "五十嵐美月",
+        "NATSUKA",
+        "如月夏希",
+        "朝海凪咲",
+        "安倍亜沙美",
+        "冬爱琴音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-272"
+    },
+    {
+      "id": 7945,
+      "IDcode": "KTRA-702",
+      "title": "喜歡姐弟戀的集合了 姐弟近親相姦 4小時 大合集 ~ 河奈亜依 朝海凪咲 牧野未央奈 泉莉音 本田さとみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0366c2cca7792b25bb336/cover.jpg",
+      "actress": [
+        "泉莉音",
+        "河奈亜依",
+        "朝海凪咲",
+        "本田さとみ",
+        "牧野未央奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-702"
+    },
+    {
+      "id": 5004,
+      "IDcode": "MIRD-257",
+      "title": "履いてない青春真っただ中の汚れなき少女たち 私立ノーパン学園",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dac14c92318f97d4a4254/cover.jpg",
       "actress": [
         "美澄玲衣",
         "湊波流",
@@ -66,27 +109,47 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
-      "id": 91117,
-      "IDcode": "IENF-272",
-      "title": "アナルのシワの数までハッキリわかる！ノーモザイク連続絶頂アナル見せオナニー16",
+      "id": 4642,
+      "IDcode": "BAGR-063",
+      "title": "パンチラごときで勃起する雑魚チ〇ポを集団で弄ぶメスガキ達の本性",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2023-06-22",
-      "cover_url": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7bddedc101930b4b5748/cover.jpg",
       "actress": [
-        "渚光希",
-        "工藤拉拉",
-        "五十嵐美月",
-        "NATSUKA",
-        "如月夏希",
-        "朝海凪咲",
-        "安倍亜沙美",
-        "冬爱琴音"
+        "菊池春",
+        "乙葉らぶ",
+        "朝海凪咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-063"
+    },
+    {
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
+      "actress": [
+        "绫濑心",
+        "泉莉音",
+        "東雲梓",
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
     }
   ]
 };

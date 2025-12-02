@@ -33,56 +33,41 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240920/cb147675-c6d2-40cd-bdfe-3332a2082b04.jpg",
     "https://picture.yoshiclub.xyz/20240920/d2d88595-9f93-4298-9de5-a316426b9126.jpg"
   ],
-  "works_count": 7,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 60130,
-      "IDcode": "RCTD-690",
-      "title": "ROCKET17周年記念ユーザーリクエスト祭り 取引先で喧嘩をして会社をクビになった私の再就職先の同期は私が喧嘩したあの女だった。たった二人の部署に配属された私達は仕事中でも出張先でもプライベートでも女同士の犯し合いの喧嘩をするようになった。…",
+      "id": 95322,
+      "IDcode": "APNS-356",
+      "title": "恥辱の家庭訪問 婚約者の目の前で不良生徒にハメられ…マゾ調教に孕ませ性交…淫乱に堕ちた美人教師 石川陽波",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2025-10-08",
-      "cover_url": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/1267d3466789c745d5dd4df96185bc1d.jpg",
       "actress": [
-        "白崎水麗",
         "石川陽波"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-356"
     },
     {
-      "id": 61736,
-      "IDcode": "MGMQ-155",
-      "title": "新入社員の誘惑小悪魔にメスイキさせられまくって僕が「マゾ堕ち」した、あの日の出来事。石川陽波",
+      "id": 76770,
+      "IDcode": "IENF-357",
+      "title": "寝ている姉にイタズラしていたら逆に生ハメを求められて、もう発射しそうなのにカニばさみでロックされて逃げられずそのまま中出し！5",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MEGAMI",
-      "publish_date": "2025-08-12",
-      "cover_url": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b59bdf2cbbe46402805df5/cover.jpg",
       "actress": [
-        "石川陽波"
+        "九井珠奈緒",
+        "石川陽波",
+        "長谷川古宵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGMQ-155"
-    },
-    {
-      "id": 61140,
-      "IDcode": "OKK-096",
-      "title": "【FANZA限定】石川陽波 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV 生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "親父の個撮",
-      "publish_date": "2025-08-07",
-      "cover_url": "",
-      "actress": [
-        "石川陽波"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-357"
     },
     {
       "id": 66564,
@@ -91,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2025-06-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/22/68a7e4d7682e2e92819a72da/cover.jpg",
       "actress": [
         "月見若葉",
         "石川陽波",
@@ -106,16 +91,130 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-666"
     },
     {
-      "id": 5775,
-      "IDcode": "SDDE-752",
-      "title": "性愛綜合大學醫院：10科室護士的口技手技全套服務，100台攝影機直擊超真實操作190分鐘 ~ 花狩舞 辻井穗乃果 石川陽波 糸井ありさ 白浜美羽",
+      "id": 61736,
+      "IDcode": "MGMQ-155",
+      "title": "新入社員の誘惑小悪魔にメスイキさせられまくって僕が「マゾ堕ち」した、あの日の出来事。石川陽波",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MEGAMI",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689aca3c55337d7f7be48f44/cover.jpg",
+      "actress": [
+        "石川陽波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGMQ-155"
+    },
+    {
+      "id": 61140,
+      "IDcode": "OKK-096",
+      "title": "石川陽波 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "石川陽波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-096"
+    },
+    {
+      "id": 60130,
+      "IDcode": "RCTD-690",
+      "title": "ROCKET17周年記念ユーザーリクエスト祭り 取引先で喧嘩をして会社をクビになった私の再就職先の同期は私が喧嘩したあの女だった",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "白崎水麗",
+        "石川陽波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-690"
+    },
+    {
+      "id": 16058,
+      "IDcode": "SDJS-239",
+      "title": "人力資源部的2年目員工石川陽波（Yoha Ishikawa）絕對不能失敗的公司發布會上，玩弄她的小穴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527091933302302_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a40ecac813dc779d961d4/cover.jpg",
+      "actress": [
+        "石川陽波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-239"
+    },
+    {
+      "id": 11878,
+      "IDcode": "FOCS-217",
+      "title": "与有女朋友的病人进行反向NTR",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/78d4add4cc930bde891f299ef9655962.jpg",
+      "actress": [
+        "石川陽波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-217"
+    },
+    {
+      "id": 11442,
+      "IDcode": "RKI-676",
+      "title": "プロのチ●ポにハメられた～い！！ セックスが好きすぎるSEX狂いの美人お姉さん2人組。ハメ潮・中出し・レズ乱交！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/26aeb227bf28429ee1154d82d88bb9d0.jpg",
+      "actress": [
+        "倉木詩織",
+        "石川陽波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-676"
+    },
+    {
+      "id": 11215,
+      "IDcode": "ROYD-204",
+      "title": "24時間ナースコールで射精OK！患者の性欲を唾液たっぷりフェラで吐精してくれるチ○ポ大好き痴女ナース 石川陽波",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788d23f30833b4bf53cd44a/cover.jpg",
+      "actress": [
+        "石川陽波"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-204"
+    },
+    {
+      "id": 5775,
+      "IDcode": "SDDE-752",
+      "title": "性交総合大学病院 全10科の看護師による口淫・手淫・性交を通じた射精医療",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c8072479f1ac4ec45b8713/cover.jpg",
       "actress": [
         "辻井穗乃果",
         "花狩舞",
@@ -125,40 +224,6 @@ window.actressData = {
         "山口由愛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-752"
-    },
-    {
-      "id": 76770,
-      "IDcode": "IENF-357",
-      "title": "寝ている姉にイタズラしていたら逆に生ハメを求められて、もう発射しそうなのにカニばさみでロックされて逃げられずそのまま中出し！5",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/6bd63446/vod.jpg",
-      "actress": [
-        "九井珠奈緒",
-        "石川陽波",
-        "長谷川古宵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-357"
-    },
-    {
-      "id": 95322,
-      "IDcode": "APNS-356",
-      "title": "恥辱の家庭訪問 婚約者の目の前で不良生徒にハメられ…マゾ調教に孕ませ性交…淫乱に堕ちた美人教師 石川陽波",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://tutu1.space/images/2025/10/03/112095dfe0fae9f282ce3340ab5f4880.jpg",
-      "actress": [
-        "石川陽波"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-356"
     }
   ]
 };

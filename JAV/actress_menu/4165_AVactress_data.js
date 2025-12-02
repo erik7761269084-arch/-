@@ -4,7 +4,7 @@ window.actressData = {
   "name": "葵もか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 71526,
       "IDcode": "MBRAA-324",
-      "title": "ばいんばいんバインブレーション！/葵もか チェキ付き",
+      "title": "ばいんばいんバインブレーション！葵もか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-03-26",
-      "cover_url": "https://tutu1.space/images/2025/10/03/de5c68103d43eae616528de325fe11ea.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "葵もか"
       ],

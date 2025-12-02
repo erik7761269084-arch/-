@@ -4,7 +4,7 @@ window.actressData = {
   "name": "青井莉奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 101305,
       "IDcode": "DDK-225",
-      "title": "東北から押しかけてきた教え子にせがまれてセックスしまくった二日間 青井莉奈",
+      "title": "被东北赶来的学生-青井莉奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOGMA",
-      "publish_date": "2023-08-15",
-      "cover_url": "https://tutu1.space/images/2024/03/08/aa9687fe0fc7c50623f519b36e7e5aef.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683f51fc0b69f1d816556079/cover.jpg",
       "actress": [
         "青井莉奈"
       ],

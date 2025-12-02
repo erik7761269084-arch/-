@@ -4,7 +4,7 @@ window.actressData = {
   "name": "琉衣沙",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://tutu1.space/images/2025/06/21/3eb73e41a5659005a8fa1a94f516ccc1.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "琉衣沙"
       ],

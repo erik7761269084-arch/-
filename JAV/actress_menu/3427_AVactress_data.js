@@ -4,7 +4,7 @@ window.actressData = {
   "name": "如月もな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/27/ef1381bb/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/919967df2912f1016f495304b504c5ae.jpg",
       "actress": [
         "如月もな"
       ],

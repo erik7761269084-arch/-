@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 2468,
       "IDcode": "ARSO-25198",
-      "title": "優雅人妻高級俱樂部 198 ~ 二羽紗愛 夏目加奈子",
+      "title": "舞ワイフ ～セレブ倶楽部～ 198",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROUND",
-      "publish_date": "2025-09-24",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/28/28603f8a/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "二羽紗愛",
         "夏目加奈子"

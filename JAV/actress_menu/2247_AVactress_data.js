@@ -55,14 +55,14 @@ window.actressData = {
     {
       "id": 2003,
       "IDcode": "SKYHD-058",
-      "title": "天空天使藍 Vol.58：詩織歌 (HD)",
+      "title": "天空天使藍 Vol.58：詩織歌",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2011-05-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/ce9f0d7a-c572-46cb-a68e-5b96a0cd4c12.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/0160ca76b7961b11d6aca48cd82fd72f.jpg",
       "actress": [
         "北原香菜"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "爱瀬美希",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 81483,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-07",
       "cover_url": "",
       "actress": [
@@ -43,23 +43,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-030"
     },
     {
-      "id": 71405,
-      "IDcode": "FIV-031",
-      "title": "マジ卍ナンパ DX volume.001 ノリと勢いと健康優良チ●コで日本全国365日いつでもどこでも美少女を狩りまくる！！",
+      "id": 99180,
+      "IDcode": "BBAN-193",
+      "title": "レズ未経験の君色華奈が個人的に気になる女優の愛瀬美希を自宅に連れ込みガチ口説き。禁断の女優同士のプライベートでレズ解禁映像。君色華奈レズ解禁！！ 愛瀬美希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-12-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250223-1/979f401b74a2cb4320b4ff849599091f.jpg",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2018-08-07",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200728/bban193pl.jpg",
       "actress": [
-        "藤森里穂",
-        "乃木ちはる",
-        "市川润",
+        "凉美ほのか",
         "爱瀬美希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-031"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-193"
+    },
+    {
+      "id": 553834,
+      "IDcode": "200GANA-1720",
+      "title": "百戦錬磨のナンパ师のヤリ部屋で、连れ込みSEX隠し撮り 055 みき 21歳 フリーター",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-04-24",
+      "cover_url": "",
+      "actress": [
+        "爱瀬美希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-1720"
     },
     {
       "id": 78181,
@@ -68,10 +82,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2018-06-15",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/204cd1416d000265aabd03835e639698.jpg",
       "actress": [
         "AIKA",
         "椎名空",
@@ -93,10 +107,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2018-03-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2335d87f610b135055c552ffa1459bbb.jpg",
       "actress": [
         "竹内真琴",
         "七海ゆあ",
@@ -104,6 +118,25 @@ window.actressData = {
         "天音ゆさ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-394"
+    },
+    {
+      "id": 71405,
+      "IDcode": "FIV-031",
+      "title": "マジ卍ナンパ DX volume.001 ノリと勢いと健康優良チ●コで日本全国365日いつでもどこでも美少女を狩りまくる！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2eb730c3cb45318f76548edb479ccefd.jpg",
+      "actress": [
+        "藤森里穂",
+        "乃木ちはる",
+        "市川润",
+        "爱瀬美希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-031"
     }
   ]
 };

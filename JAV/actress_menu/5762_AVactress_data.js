@@ -4,7 +4,7 @@ window.actressData = {
   "name": "夢乃屋毒花",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 15916,
       "IDcode": "JUQ-612",
-      "title": "惡女NTR～我的報復就是搶走你的丈夫…～",
+      "title": "坏女人NTR-冲宫那美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20240322/202403222223103333.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/c04d9c4cbbec3bd661f13f1adacf7901.jpg",
       "actress": [
         "沖宮那美",
         "夢乃屋毒花"

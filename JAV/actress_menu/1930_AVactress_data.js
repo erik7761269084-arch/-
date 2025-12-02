@@ -37,8 +37,45 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241225/5a0e7e68-dc15-4874-a6c5-7bfe11f51470.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 4633,
+      "IDcode": "KTRA-727",
+      "title": "妹妹小穴被灌滿！兄妹中出激戰精選2 4小時 ~ 桐谷奈緒 優梨舞奈 富田優衣 星咲凜 如月真白",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/202507070334438686_15072_thumbnail.webp",
+      "actress": [
+        "優梨舞奈",
+        "富田优衣",
+        "如月真白",
+        "星咲凛",
+        "桐谷奈緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-727"
+    },
+    {
+      "id": 9605,
+      "IDcode": "KTRA-688",
+      "title": "娃娃臉美女被剃光陰戶中出大合集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/406db518-e771-4f6e-a42e-0a438438dda4.jpg",
+      "actress": [
+        "矢澤美々",
+        "星咲凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-688"
+    },
     {
       "id": 83136,
       "IDcode": "SDDE-605",
@@ -46,9 +83,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-12-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "天馬唯",

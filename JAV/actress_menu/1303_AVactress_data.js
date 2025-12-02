@@ -34,39 +34,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241219/fcccef6b-c075-4798-8cc1-57f323955437.jpg",
     "https://picture.yoshiclub.xyz/20241219/7d7d67f8-1764-42a0-a4aa-2d191c161d59.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 70332,
-      "IDcode": "NUKA-074",
-      "title": "抜かずの六発中出し 母と息子の密着交尾 岸本藍花",
+      "id": 449205,
+      "IDcode": "NUKA-74",
+      "title": "抜かずの六発中出し母と息子の密着交尾",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-02-20",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "岸本藍花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-074"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUKA-74"
+    },
+    {
+      "id": 9786,
+      "IDcode": "JURA-130",
+      "title": "初撮り人妻ドキュメント第二章 岸本藍花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/8b37339a/vod.jpg",
+      "actress": [
+        "岸本藍花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-130"
     },
     {
       "id": 9538,
       "IDcode": "JRZE-218",
-      "title": "初撮人妻 首次亮相 ~ 岸本藍花",
+      "title": "首次拍摄已婚妇女文献岸本爱香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241228/deb95cae-1506-4916-b69b-086e0f066f9b.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241206-1/b72b4bf903ecd049687ce12fd9b5665b.jpg",
       "actress": [
         "岸本藍花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-218"
+    },
+    {
+      "id": 8904,
+      "IDcode": "HONE-289",
+      "title": "発情！！エロ漫画ボディ母 岸本藍花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1757a5f13d063bcc3438a/cover.jpg",
+      "actress": [
+        "岸本藍花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HONE-289"
     }
   ]
 };

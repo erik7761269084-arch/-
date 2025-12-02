@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 73024,
       "IDcode": "ARA-174",
-      "title": "美人歯科助手さくらちゃん再び参上！ドS痴女な彼女は前回のSEXがよほど楽しかったらしく、今回また応募！「Sも好きだけど今回はガンガン責められたいゎょ♪」承知致しました、仰せのままに…。痴女具合もグレードアップ！Mにも目覚めた彼女は無敵の変態歯科助手！",
+      "title": "美丽的牙科助理小樱回来了上次她好像玩得很开心所以这次她又申请了我也喜欢S但这次我想被指责贱人条件也升级了她也醒M了是无敌变态牙医助理",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-03-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/f4a31baf41a2a16bd08cce60a08137f1.jpg",
       "actress": [
         "美月恋"
       ],

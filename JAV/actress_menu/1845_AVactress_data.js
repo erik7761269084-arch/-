@@ -22,19 +22,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231015/2e102252-eabf-49b8-96ac-4d8d13530ce8.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 18325,
-      "IDcode": "MIFD-256",
-      "title": "被100家求職公司拒絕的女大學生最後的希望是成為AV女優！ ！ 做不了AV女優就得回農村了（哭）想要找工作的藝術大學生趕緊以AV女優的身份求職出道",
+      "id": 17626,
+      "IDcode": "HMN-488",
+      "title": "第一次中出！ ！ 剛加入藝術社的裸體模特兒被變成了學生中出肉便器",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "本中",
+      "publish_date": "2023-11-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20231126/eca21291-af98-4af8-9b00-73a9208678a1.jpg",
+      "actress": [
+        "新庄環奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-488"
+    },
+    {
+      "id": 18325,
+      "IDcode": "MIFD-256",
+      "title": "最後的希望就是AV出道-新庄康娜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-10-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20231015/3b9b9679-e885-4415-9e6c-2b93b94beed2.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/adbb8cc6882fc599d7539a523d264168.jpg",
       "actress": [
         "新庄環奈",
         "鲛岛",

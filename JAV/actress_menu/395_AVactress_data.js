@@ -48,126 +48,173 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241122/75005410-dae3-429d-bcbd-9694e728c4d8.jpg",
     "https://picture.yoshiclub.xyz/20241122/e3e49b53-575e-46ce-9fa2-07de0c05c346.jpg"
   ],
-  "works_count": 13,
+  "works_count": 20,
   "related_dramas": [
     {
-      "id": 2614,
-      "IDcode": "DASS-736",
-      "title": "阿姨的兒子是個性欲怪物 ~ 依本詩織",
+      "id": 4861,
+      "IDcode": "HOIZ-168",
+      "title": "素人約炮日記16：一夜情神器匹配，愛巢激戰實錄 ~ 斉藤帆夏 南條彩 依本詩織 工藤百合",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918043334998998_97089_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-06-28",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629115448281281_thumbnail.webp",
       "actress": [
-        "依本詩織",
-        "トイボーイ相沢"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-736"
-    },
-    {
-      "id": 2680,
-      "IDcode": "SDMM-209",
-      "title": "這個夏天在海灘出道！新人救生員限定性騷擾的講習 ~ 川上しずく 依本詩織 綾波蓮 及川莉央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220106447447_17271_thumbnail.webp",
-      "actress": [
-        "依本詩織",
-        "川上しずく",
-        "綾波蓮",
-        "及川莉央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
-    },
-    {
-      "id": 3319,
-      "IDcode": "VENX-334",
-      "title": "心是家人身是路人，禁忌的微妙關系！與年輕繼母獨處一周的火花 ~ 依本詩織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/2025082103545299_99993_thumbnail.webp",
-      "actress": [
+        "南條彩",
+        "工藤百合",
+        "斉藤帆夏",
         "依本詩織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-334"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOIZ-168"
     },
     {
-      "id": 3916,
-      "IDcode": "DVMM-259",
-      "title": "街頭搭訕素人妹子摸胸大作戰！直接上手揉到爽，最後還開幹！羞澀小妞被撩到臉紅心跳 vol.03 ~ 葉山小百合 小阪ひまり 依本詩織 望月ふうか",
+      "id": 4866,
+      "IDcode": "DVMM-247",
+      "title": "全新實拍街頭素人摸胸大作戰！用歐派力量讓日本嗨起來！羞澀臉紅的100位妹子，各種形狀大小的生猛歐派隨便揉隨便抓！vol.11 ！~ 岡本莉裏 本田瞳 葉山小百合 天晴乃愛 天晴乃愛 小阪ひまり 足立るい 等",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085250637637_32433_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031326654654_thumbnail.webp",
       "actress": [
         "小坂ひまり",
+        "浜辺栞帆",
+        "本田瞳",
+        "黒木奈美",
         "葉山小百合",
+        "天晴乃愛",
+        "白石渚",
+        "月見若葉",
+        "岡本莉里",
+        "如月りいさ",
         "依本詩織",
-        "望月ふうか",
-        "左慈半造",
-        "しめじ"
+        "天野花乃",
+        "赤城穂波",
+        "矢澤なの",
+        "白崎水麗",
+        "足立るい",
+        "水川かえで",
+        "沢北あんな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-259"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-247"
     },
     {
-      "id": 4111,
-      "IDcode": "HRSM-106",
-      "title": "海之家偷襲 湘南海岸獵豔水着美女4人組 ~ 椿莉香 依本詩織 小鳩琉璃",
+      "id": 67345,
+      "IDcode": "DOCD-058",
+      "title": "ボクを下僕扱いする高飛車パワハラ女上司をリバースメンタリング（立場逆転）で教育的指導してやった。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡漢廠",
-      "publish_date": "2025-07-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724043453842842_16591_thumbnail.webp",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "椿莉香",
+        "天馬唯",
         "依本詩織",
-        "小鳩琉璃"
+        "渋谷夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-106"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-058"
     },
     {
-      "id": 4311,
-      "IDcode": "FOCS-260",
-      "title": "老公不在家時，美人若妻在自家開的美容沙龍遭色欲大叔羞辱顏射，連續中出加狂噴潮吹淪陷的若妻技師 ~ 依本詩織",
+      "id": 10472,
+      "IDcode": "SONE-519",
+      "title": "新人NO.1STYLE 気品ある垢抜け大人エロス ビューティーアドバイザー 依本しおり（26） AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717221955735735_77883_thumbnail.webp",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/a58ad7b4/vod.jpg",
       "actress": [
         "依本詩織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-260"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-519"
+    },
+    {
+      "id": 9731,
+      "IDcode": "SONE-520",
+      "title": "人生第一次尽的5大解禁-依本しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678907e25d57b64bfda29230/cover.jpg",
+      "actress": [
+        "依本詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-520"
+    },
+    {
+      "id": 8877,
+      "IDcode": "SONE-559",
+      "title": "出張先で大嫌いなセクハラ上司とまさかの相部屋に…依本しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072035878878.jpg",
+      "actress": [
+        "依本詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-559"
+    },
+    {
+      "id": 8037,
+      "IDcode": "SONE-610",
+      "title": "一镜到底无限乱交-依本しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c5a31b4e7d663df4ca775f/cover.jpg",
+      "actress": [
+        "依本詩織",
+        "鲛岛",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-610"
+    },
+    {
+      "id": 5383,
+      "IDcode": "IENF-390",
+      "title": "敏感なマ〇コを刺激されて 奥まで挿れて欲しくなっちゃってCAさんが生で筆おろし！ ガニ股騎乘位で連続絶頂！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/05/689189b7c92318f97d7f97bc/cover.jpg",
+      "actress": [
+        "那賀崎雪音",
+        "依本詩織",
+        "水谷心音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-390"
     },
     {
       "id": 4591,
       "IDcode": "HUNTC-344",
-      "title": "色色幻想成真了！去脫毛診所被性感小姐姐假裝認真工作故意撩撥我的VIO！不只是毛毛被清理... ~ 沙つむぐ 五十嵐清華 依本詩織 小野寺舞 加賀美",
+      "title": "エッチな妄想が現実だった！脱毛クリニックに行ったらセクシーな女性スタッフが真面目に仕事するフリしてボクのVIOをわざと刺激！ムダ毛以外も…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075656231231_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e586098bc99dfdd032261/cover.jpg",
       "actress": [
         "五十嵐清華",
         "小野寺舞",
@@ -180,13 +227,13 @@ window.actressData = {
     {
       "id": 4357,
       "IDcode": "IENF-408",
-      "title": "最頂級風俗泡泡浴店 最高級美女中出內射 ~ 依本詩織",
+      "title": "依本しおり 最高級美女 中出しソープ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
-      "publish_date": "2025-06-26",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629212612433433_thumbnail.webp",
       "actress": [
         "依本詩織"
@@ -194,90 +241,187 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-408"
     },
     {
-      "id": 5383,
-      "IDcode": "IENF-390",
-      "title": "黑絲襪隔着童貞大棒只插3釐米！敏感小穴被撩撥到不行，空姐忍不住求深入直接開葷！騎乘位瘋狂高潮！ ~ 水谷心音 依本詩織 那賀崎雪音",
+      "id": 4311,
+      "IDcode": "FOCS-260",
+      "title": "夫不在の自宅エステサロンに性欲モンスター襲来！絶倫キモおぢに屈辱顔射をくらい…連続中出し＆大量ハメ潮で堕ちた若妻エステティシャン 依本しおり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090830503503_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717221955735735_77883_thumbnail.webp",
       "actress": [
-        "那賀崎雪音",
-        "依本詩織",
-        "水谷心音"
+        "依本詩織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-390"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-260"
     },
     {
-      "id": 67345,
-      "IDcode": "DOCD-058",
-      "title": "ボクを下僕扱いする高飛車パワハラ女上司をリバースメンタリング（立場逆転）で教育的指導してやった。",
+      "id": 4111,
+      "IDcode": "HRSM-106",
+      "title": "海の家痴○ 水着美女狩り 湘南の海で見つけた4名",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DOC",
-      "publish_date": "2025-05-02",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68891c9898bc99dfddbf1c9c/cover.jpg",
+      "actress": [
+        "椿莉香",
+        "依本詩織",
+        "小鳩琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-106"
+    },
+    {
+      "id": 3916,
+      "IDcode": "DVMM-259",
+      "title": "特別撮り下ろし乳もみナンパ！街行く女の子たちに交渉→即揉み→→ついにSEXまで！！恥じらう赤面素人娘の生おっぱいを揉んで口説いて路上ハメ！vol.03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085250637637_32433_thumbnail.webp",
+      "actress": [
+        "小坂ひまり",
+        "葉山小百合",
+        "依本詩織",
+        "望月ふうか",
+        "左慈半造",
+        "しめじ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-259"
+    },
+    {
+      "id": 3729,
+      "IDcode": "NGHJ-022",
+      "title": "銀座の一流百貨店に勤務する清楚で品格漂う美容部員さんが童貞君とくちSEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013751540540_82636_thumbnail.webp",
+      "actress": [
+        "森澤佳奈",
+        "依本詩織",
+        "宮瀬夏純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-022"
+    },
+    {
+      "id": 3508,
+      "IDcode": "SQDE-018",
+      "title": "清楚系に見える美容師の素顔は、大量潮吹き変態娘でした。依本しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032130637637_16191_thumbnail.webp",
+      "actress": [
+        "依本詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQDE-018"
+    },
+    {
+      "id": 3319,
+      "IDcode": "VENX-334",
+      "title": "内心是家人身体却是别人的微妙关係-依本诗织",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/2025082103545299_99993_thumbnail.webp",
+      "actress": [
+        "依本詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-334"
+    },
+    {
+      "id": 3066,
+      "IDcode": "SORA-612",
+      "title": "強●クスリ漬け 生意気な巨乳元キャバ嬢を拉致！窒息寸前まで首絞めガンギマリ白眼アヘ顔潮吹きドM堕ち！依本しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210839432432_96232_thumbnail.webp",
+      "actress": [
+        "依本詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-612"
+    },
+    {
+      "id": 2945,
+      "IDcode": "IENF-415",
+      "title": "アナルのシワの数までハッキリわかる！ノーモザイク連続絶頂アナル見せオナニー35",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/202509062129549393_56486_thumbnail.webp",
+      "actress": [
+        "北岡果林",
+        "白石渚",
+        "小野寺舞",
+        "萌波鈴",
+        "依本詩織",
+        "碓井せりな",
+        "中丸未来",
+        "北山憂",
+        "雙葉步華",
+        "原美织",
+        "神田ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-415"
+    },
+    {
+      "id": 2680,
+      "IDcode": "SDMM-209",
+      "title": "この夏っ！！！御宿のBeachでデビューするかも！？新人ライフセーバー限定海難救助セクハラ講習 夏休み前にどうしても資格が欲しい女子大生は多少Hな講習でも受け入れる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220106447447_17271_thumbnail.webp",
+      "actress": [
+        "依本詩織",
+        "川上しずく",
+        "綾波蓮",
+        "及川莉央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-209"
+    },
+    {
+      "id": 2614,
+      "IDcode": "DASS-736",
+      "title": "我儿子是性欲怪兽-依本栞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "天馬唯",
         "依本詩織",
-        "渋谷夏"
+        "トイボーイ相沢"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-058"
-    },
-    {
-      "id": 8037,
-      "IDcode": "SONE-610",
-      "title": "讓這位可愛又帥氣的新人女優不斷高潮！ ！ ！ 【禁欲x克制x催情x大屌x羣交】4P→6P→7P共17P羣交高潮 ~ 依本詩織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/202502200923523232.jpg",
-      "actress": [
-        "依本詩織",
-        "鲛岛",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-610"
-    },
-    {
-      "id": 8877,
-      "IDcode": "SONE-559",
-      "title": "出差時，竟然和我討厭的性騷擾老板同住一個房間……優雅迷人的新人OL，無法拒絕，被操了3天 ~ 依本詩織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072035878878.jpg",
-      "actress": [
-        "依本詩織"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-559"
-    },
-    {
-      "id": 9731,
-      "IDcode": "SONE-520",
-      "title": "超氣品的AV解禁作！人生初的5大解禁！緊縛解禁！媚藥解禁！吞精解禁！大潮吹解禁！5P亂交解禁~ 伊本詩織",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218094908273273.jpg",
-      "actress": [
-        "依本詩織"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-520"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-736"
     }
   ]
 };

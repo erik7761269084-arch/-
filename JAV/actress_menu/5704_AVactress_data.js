@@ -4,7 +4,7 @@ window.actressData = {
   "name": "与田貴美子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,30 +25,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-12-21",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240318-1/2be63e4a83e3820661946401ce5a869e.jpg",
       "actress": [
         "与田貴美子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IRO-054"
-    },
-    {
-      "id": 91033,
-      "IDcode": "KAAD-070",
-      "title": "我が家の美しい姑 与田貴美子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-11-23",
-      "cover_url": "",
-      "actress": [
-        "与田貴美子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-070"
     },
     {
       "id": 91091,
@@ -57,14 +41,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-07-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/67159f1c5b3af601d334aa27e7b34dc1.jpg",
       "actress": [
         "与田貴美子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-155"
+    },
+    {
+      "id": 91033,
+      "IDcode": "KAAD-070",
+      "title": "我家的美丽姑母-与田贵美子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240309-1/4ca723fb2b835668efc3b1bdd34218cb.jpg",
+      "actress": [
+        "与田貴美子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-070"
     }
   ]
 };

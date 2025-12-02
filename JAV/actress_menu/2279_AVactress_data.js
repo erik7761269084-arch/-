@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 3935,
       "IDcode": "MIFD-647",
-      "title": "(被緊急撤片) 新人出道 陽光般耀眼的花店小姐姐脫衣秀健康纖體 腿軟到發抖高潮痙攣AV出道 ~ 加乃崎美琉",
+      "title": "新人 太陽のように明るい脱いだら健康細身ボディの町のお花屋さんが足腰ー 加ノ崎みる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/1121d625-0e45-4b0c-9b51-d87fdfad2adf_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/43908442812744bdbb390664bde0c40b.jpg",
       "actress": [
         "加乃崎美琉",
         "小田切ジュン",

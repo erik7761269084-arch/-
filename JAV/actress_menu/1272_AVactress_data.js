@@ -33,71 +33,103 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/7-Moodyz/西川ゆい.jpg",
     "https://picture.yoshiclub.xyz/20230122/a36eb223-45d5-4386-a108-f4748aec383f.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 1801,
-      "IDcode": "MCBD-24",
-      "title": "MERCIBOKU 24 持續生中出 : 西川結衣",
+      "id": 100236,
+      "IDcode": "MIDE-046",
+      "title": "すっごい量の一発顔射 西川ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2018-07-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/077cb161-ac6f-4801-8ab6-ac1f85812719.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-12-13",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230707-1/b6ca0e6254cc0caa62a16a89b4fe24f5.jpg",
       "actress": [
         "西川结衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-24"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-046"
     },
     {
-      "id": 2025,
-      "IDcode": "MKBD-S132",
-      "title": "KIRARI 132 裸體管家大屁股：西川結衣",
+      "id": 142602,
+      "IDcode": "013117-363",
+      "title": "全身嘴唇厚厚的嘴唇和厚厚的别墅粉红猫",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2016-12-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/6201bc13-dc1a-408d-8ad3-0f7b53122230.webp",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250202-1/bd164ce56643dad62837373c70c32e2a.jpg",
       "actress": [
         "西川结衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S132"
-    },
-    {
-      "id": 1891,
-      "IDcode": "CWPBD-148",
-      "title": "CATWALK POISON 148 : 西川結衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2016-11-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/22fb9b5f-287f-40ba-b593-3f3ec436ae9c.webp",
-      "actress": [
-        "西川结衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-148"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=013117-363"
     },
     {
       "id": 106468,
       "IDcode": "MIDE-091",
-      "title": "キャリアOL痴漢 ～下請け作業員達の罠～ 西川ゆい",
+      "title": "分包商的陷阱-西川ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-04-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/11/20/adb4cb453f04df88ffa729b0313c78eb.jpg",
       "actress": [
         "西川结衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-091"
+    },
+    {
+      "id": 78982,
+      "IDcode": "MIDE-025",
+      "title": "舌と唇で感じあう濃密ベロキスづくし 西川ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/62b00c1066cf339a1397d96a09ace103.jpg",
+      "actress": [
+        "西川结衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-025"
+    },
+    {
+      "id": 76917,
+      "IDcode": "MIDE-240",
+      "title": "美少女包租温泉旅行-西川结衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241204-1/c04e21a2d3138b1596735c9a4db49eba.jpg",
+      "actress": [
+        "西川结衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-240"
+    },
+    {
+      "id": 76316,
+      "IDcode": "MIDE-004",
+      "title": "巨乳D罩杯超绝品风俗女-西川结衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241214-1/a8c47b8a5a82fc0c69aa160e76e45a42.jpg",
+      "actress": [
+        "西川结衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-004"
     }
   ]
 };

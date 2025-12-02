@@ -55,38 +55,67 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
-      "id": 2559,
-      "IDcode": "NSFS-419",
-      "title": "AI重制版 育兒壓力爆棚的騷妻 瘋狂性愛 永久珍藏版296分鍾 ~ 黒沢那智 新川舞美 藤宮櫻花 水沢真樹 神崎蕾歐娜 椎名綾",
+      "id": 88892,
+      "IDcode": "UKH-029",
+      "title": "教え子が爆乳！爆尻！美熟女に豹変！我慢出来ない先生は… 若菜綾",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-08-02",
+      "cover_url": "",
+      "actress": [
+        "椎名綾"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UKH-029"
+    },
+    {
+      "id": 91645,
+      "IDcode": "ALDN-193",
+      "title": "全裸義母-若菜綾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240903/2dvSYiMu/1.jpg",
+      "actress": [
+        "椎名綾"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-193"
+    },
+    {
+      "id": 74593,
+      "IDcode": "NSFS-350",
+      "title": "AIリマスター版 夫の目を盗んで他人に抱かれる… 不貞の妻 名作永久保存版240分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250920/20250920071438165165_28035_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250220/6VOLYQnp/1.jpg",
       "actress": [
         "椎名綾",
-        "水沢真樹",
-        "藤宮櫻花",
-        "神崎蕾歐娜",
-        "黒沢那智",
-        "新川舞美",
-        "水沢真树",
-        "椎名绫"
+        "结城美佐",
+        "夏树カオル",
+        "吉原日出子",
+        "间宫志乃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-350"
     },
     {
       "id": 61905,
       "IDcode": "HEZ-803",
-      "title": "人妻おばさん女上司は毎日が発情期！部下との熱いオフィス情事！",
+      "title": "人妻おばさん女上司は毎日が発情期！部下との熱いオフィス情事！女上司を激ピストンでイカセまくり中出し4選！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-07-11",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "椎名綾",
@@ -99,14 +128,14 @@ window.actressData = {
     {
       "id": 7262,
       "IDcode": "NSFS-371",
-      "title": "【AI重制版】究極寢取NTR 把老婆給你操 名作永久保存版 223分鍾 ~ 藤宮櫻花 佐伯春菜 椎名綾 川上優 北條麻妃",
+      "title": "AIリマスター版究極の寝取られ 妻をあなたに差し上げます 名作永久保存版223分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250326/1d3efbdf-092b-413b-9154-2a38af3110f2.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "北条麻妃",
         "川上優",
@@ -117,56 +146,27 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-371"
     },
     {
-      "id": 74593,
-      "IDcode": "NSFS-350",
-      "title": "AIリマスター版 夫の目を盗んで他人に抱かれる… 不貞の妻 名作永久保存版240分",
+      "id": 2559,
+      "IDcode": "NSFS-419",
+      "title": "AIリマスター版 育児に追われるエロ妻 淫乱セックス 名作永久保存版296分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-01-14",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "椎名綾",
-        "结城美佐",
-        "夏树カオル",
-        "吉原日出子",
-        "间宫志乃"
+        "水沢真樹",
+        "藤宮櫻花",
+        "神崎蕾歐娜",
+        "黒沢那智",
+        "新川舞美",
+        "水沢真树",
+        "椎名绫"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-350"
-    },
-    {
-      "id": 88892,
-      "IDcode": "UKH-029",
-      "title": "教え子が爆乳！爆尻！美熟女に豹変！我慢出来ない先生は… 若菜綾",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-08-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/e02d715faa33b5f6ba95759b90f99382.jpg",
-      "actress": [
-        "椎名綾"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UKH-029"
-    },
-    {
-      "id": 91645,
-      "IDcode": "ALDN-193",
-      "title": "全裸義母 若菜綾",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2023-07-25",
-      "cover_url": "",
-      "actress": [
-        "椎名綾"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-193"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
     }
   ]
 };

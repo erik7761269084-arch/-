@@ -4,7 +4,7 @@ window.actressData = {
   "name": "凉木みらい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 100722,
       "IDcode": "SNIS-250",
-      "title": "與未來的同居抽插性活 涼木未來",
+      "title": "和未来的甜蜜同居性生活-凉木未来",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-10-07",
-      "cover_url": "https://tutu1.space/images/2023/10/24/7a4c546498266524ac146781ae907e67.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "凉木みらい"
       ],

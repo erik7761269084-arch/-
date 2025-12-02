@@ -36,81 +36,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240630/d0ed905b-10b9-47df-87f2-f48c8bf99f91.jpg",
     "https://picture.yoshiclub.xyz/20240630/4b8b74fa-0532-4346-9b2f-aa5446c13d83.jpg"
   ],
-  "works_count": 12,
+  "works_count": 15,
   "related_dramas": [
-    {
-      "id": 2746,
-      "IDcode": "MUKD-554",
-      "title": "可憐的妹子才更讓人興奮 ~ 奈築裏緒",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020802781781_97566_thumbnail.webp",
-      "actress": [
-        "奈築里緒",
-        "巨漢系"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-554"
-    },
-    {
-      "id": 3540,
-      "IDcode": "MUCD-333",
-      "title": "運動部美少女滿身大汗練完直接開幹青春激情SEX！6位運動妹子情侶內射精選合集 ~ 乙羽阿姆 倉木詩織 雅子里菜 皐月由拉 奈築里緒 望月蕾",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140343525353_52339_thumbnail.webp",
-      "actress": [
-        "望月蕾",
-        "倉木詩織",
-        "雅子裡菜",
-        "乙羽あむ",
-        "皐月ゆら",
-        "奈築里緒",
-        "仓木诗织"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-333"
-    },
-    {
-      "id": 10575,
-      "IDcode": "MUKD-517",
-      "title": "盜攝啦啦隊俱樂部的女孩們，發現她們出奇的淫蕩。被當小惡魔一樣被玩弄，榨幹精液！ 汗味十足的夜店女郎折磨肉食蕩婦的逆後宮3P ~ 奈築裏緒 望月蕾",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114083332153153.jpg",
-      "actress": [
-        "望月蕾",
-        "奈築里緒",
-        "上原千明"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-517"
-    },
-    {
-      "id": 101254,
-      "IDcode": "MUKD-499",
-      "title": "悪徳チケット転売ヤーに騙され中出し取引きで何度も種付けされた無垢な田舎少女 りお",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-01-16",
-      "cover_url": "https://tutu1.space/images/2024/02/10/67ba8b3fb69bee541c2dc57f8743c3f4.jpg",
-      "actress": [
-        "奈築里緒"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-499"
-    },
     {
       "id": 94830,
       "IDcode": "SVVRT-039",
@@ -118,15 +45,95 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-01-11",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240805/74pSwObU/1.jpg",
       "actress": [
         "绫濑心",
         "奈築里緒"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-039"
+    },
+    {
+      "id": 104447,
+      "IDcode": "IESP-721",
+      "title": "女子校生-奈筑里绪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-721"
+    },
+    {
+      "id": 101254,
+      "IDcode": "MUKD-499",
+      "title": "被恶德票贩骗炮的乡下少女-理緖",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240219-1/25102b6ab0d1866fc8a64ec647efa07e.jpg",
+      "actress": [
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-499"
+    },
+    {
+      "id": 100503,
+      "IDcode": "FOCS-125",
+      "title": "乳头和私处因为发情-柰筑理绪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-125"
+    },
+    {
+      "id": 92979,
+      "IDcode": "NACR-662",
+      "title": "恼殺淫技美少女-奈築理绪",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-662"
+    },
+    {
+      "id": 92386,
+      "IDcode": "MOGI-078",
+      "title": "在禁止手淫一个月后-奈築りお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-4/909f4ba7f0456ccfc6d4774ac89e521a.jpg",
+      "actress": [
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-078"
     },
     {
       "id": 91114,
@@ -135,10 +142,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
-      "publish_date": "2023-09-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240318-1/b24bf4679b1f605ad158a37200f548c5.jpg",
       "actress": [
         "円井萌華",
         "恵沙也香",
@@ -153,14 +160,14 @@ window.actressData = {
     {
       "id": 90763,
       "IDcode": "NACR-691",
-      "title": "性欲絶倫女子中出しOKアルバイト 奈築りお パンティと生写真付き",
+      "title": "性慾絕倫女子中出OK兼職 柰築理緒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2023-07-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240206-1/211c1387e81adbe152f9daa97c2ee164.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240210-1/1d05d587aecdd5f27d571f86d5db9b00.jpg",
       "actress": [
         "奈築里緒",
         "ひむろっく"
@@ -168,84 +175,138 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-691"
     },
     {
-      "id": 104447,
-      "IDcode": "IESP-721",
-      "title": "奈築りお 女子校生 中出し20連発",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2023-06-08",
-      "cover_url": "https://tutu1.space/images/2023/08/05/2e1bda4c756ce2b3d9c8b60fcc91ae93.jpg",
-      "actress": [
-        "奈築里緒"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-721"
-    },
-    {
-      "id": 92979,
-      "IDcode": "NACR-662",
-      "title": "逆バニーchan！ 悩殺凄テク美少女 奈築りお パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-05-05",
-      "cover_url": "",
-      "actress": [
-        "奈築里緒"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-662"
-    },
-    {
-      "id": 100503,
-      "IDcode": "FOCS-125",
-      "title": "乳首とマン筋が発情パンプアップ！トレーナーのセクハラ指導で初心マンが濡れ火照り燃焼する中出しセクササイズ！ 奈築りお",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-04-25",
-      "cover_url": "",
-      "actress": [
-        "奈築里緒"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-125"
-    },
-    {
       "id": 69010,
       "IDcode": "MOGI-081",
-      "title": "こう見えて照れ屋なドスケベ娘がそこら中でイキまくり汁出しまくり!青姦・リモバイ声我慢デート 奈築りお(仮名・20)",
+      "title": "害羞的女孩-奈築りお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-03-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20655db8c77d79bb695b9/cover.jpg",
       "actress": [
         "奈築里緒"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-081"
     },
     {
-      "id": 92386,
-      "IDcode": "MOGI-078",
-      "title": "ひざっこぞう擦り剥け系女子 奈築りお(20)一カ月のオナ禁を経たボーイッシュま●こを寸止めされまくったら我慢の限界!中出しまでOKしちゃいました",
+      "id": 10575,
+      "IDcode": "MUKD-517",
+      "title": "盗撮してたチア部の女子達がビックリまさかの超ドスケベ。小悪魔痴女化で弄ばれて精液搾り取られまくる！ 汗の匂いが香る部活女子が肉食痴女責めハーレム逆3P",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-02-23",
-      "cover_url": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678882b45d57b64bfd2c0a8a/cover.jpg",
       "actress": [
+        "望月蕾",
+        "奈築里緒",
+        "上原千明"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-517"
+    },
+    {
+      "id": 9882,
+      "IDcode": "MUKD-518",
+      "title": "女校文化祭神企劃降臨！ ！ 後宮羣飛，讓每個人都興奮的風俗文化祭 ~ 乙羽あむ 奈築里緒 前田美波 倉木詩織 廣瀨好美 市川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787aba28daf6b1db43c3003/cover.jpg",
+      "actress": [
+        "前田美波",
+        "倉木詩織",
+        "市川りく",
+        "乙羽あむ",
+        "廣瀬好美",
         "奈築里緒"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOGI-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-518"
+    },
+    {
+      "id": 9033,
+      "IDcode": "MUKD-519",
+      "title": "極惡非道的地獄繪圖 女子拉拉隊的合宿集團輪奸 ~ 乙羽あむ 奈築裏緒 前田美波 倉木詩織 廣瀬好美 市川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8e9f3cf22ae3e04db551c/cover.jpg",
+      "actress": [
+        "前田美波",
+        "倉木詩織",
+        "市川りく",
+        "乙羽あむ",
+        "廣瀬好美",
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-519"
+    },
+    {
+      "id": 3540,
+      "IDcode": "MUCD-333",
+      "title": "部活帰りの汗だく美少女と練習着のまま即ハメ青春SEX！ 運動部女子6人 カップル中出しBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/26/8e919d1c43ee580ce3608edfabe787d2.jpg",
+      "actress": [
+        "望月蕾",
+        "倉木詩織",
+        "雅子裡菜",
+        "乙羽あむ",
+        "皐月ゆら",
+        "奈築里緒",
+        "仓木诗织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-333"
+    },
+    {
+      "id": 2746,
+      "IDcode": "MUKD-554",
+      "title": "女孩子很可怜一个有抱负的偶像女孩被迫进行未经同意的性行为",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020802781781_97566_thumbnail.webp",
+      "actress": [
+        "奈築里緒",
+        "巨漢系"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-554"
+    },
+    {
+      "id": 2210,
+      "IDcode": "DMOW-223",
+      "title": "高級セクシーランジェリー姿で男を惑わす訪問販売員たちの悩殺セールス術",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "沙月惠奈",
+        "清巳麗乃",
+        "星仲ここみ",
+        "奈築里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DMOW-223"
     }
   ]
 };

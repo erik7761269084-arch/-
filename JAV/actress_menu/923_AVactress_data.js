@@ -42,40 +42,76 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250127/b29df2ab-065a-42fd-ab35-fb44fa0e119a.jpg",
     "https://picture.yoshiclub.xyz/20250127/30194987-8f73-4806-965b-9b5a5244d200.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 3625,
-      "IDcode": "HUNTC-387",
-      "title": "1男6女家務和做愛輪班制！我是大家的欲望處理器嗎？ ~ 乙葉らぶ 葵井みずほ 小日向める 愛瀬優裏 宇流木沙羅 相阪すみれ",
+      "id": 8756,
+      "IDcode": "NEOS-013",
+      "title": "つきまとい13 ハツラツと遊び回る南国の香りがする美少女を観察し睡眠強",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807031320298298_31529_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250127/7ff556cb-4ecb-4b18-bb39-8d4884f106b5.jpg",
       "actress": [
-        "宇流木沙羅",
-        "愛瀬優里",
-        "葵井みずほ",
-        "相坂すみれ",
-        "乙葉らぶ",
-        "小日向める"
+        "乙葉らぶ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-387"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOS-013"
+    },
+    {
+      "id": 8363,
+      "IDcode": "HUNTC-315",
+      "title": "修学旅行で10人の可愛いクラスメイト女子と密着度200％大ハーレム乱交！2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080232110110.jpg",
+      "actress": [
+        "有栖舞衣",
+        "宇流木沙羅",
+        "泉莉音",
+        "愛瀬優里",
+        "市川りく",
+        "小島美子",
+        "市井結夏",
+        "五十嵐美月",
+        "川栄結愛",
+        "乙葉らぶ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-315"
+    },
+    {
+      "id": 8325,
+      "IDcode": "FNEO-090",
+      "title": "きみは中出しなんてされないと思いながら僕に近付いてきた 04 乙葉らぶ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "乙葉らぶ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-090"
     },
     {
       "id": 5004,
       "IDcode": "MIRD-257",
-      "title": "青春無內少女的純真校園 私立無內學園 ~ 美澄玲衣 新垣まりん 花芽有朱 若月もあ 下川紬 朝海凪咲 湊波流 乙葉らぶ",
+      "title": "履いてない青春真っただ中の汚れなき少女たち 私立ノーパン学園",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032726442442_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dac14c92318f97d4a4254/cover.jpg",
       "actress": [
         "美澄玲衣",
         "湊波流",
@@ -93,45 +129,43 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-257"
     },
     {
-      "id": 8363,
-      "IDcode": "HUNTC-315",
-      "title": "修學旅行，與10名可愛女同學進行200％親密後宮亂交！ 2 ~ 川栄結愛 乙葉らぶ 有棲舞衣 愛瀬優裏 泉莉音 等",
+      "id": 4642,
+      "IDcode": "BAGR-063",
+      "title": "パンチラごときで勃起する雑魚チ〇ポを集団で弄ぶメスガキ達の本性",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080232110110.jpg",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab7bddedc101930b4b5748/cover.jpg",
       "actress": [
-        "有栖舞衣",
-        "宇流木沙羅",
-        "泉莉音",
-        "愛瀬優里",
-        "市川りく",
-        "小島美子",
-        "市井結夏",
-        "五十嵐美月",
-        "川栄結愛",
-        "乙葉らぶ"
+        "菊池春",
+        "乙葉らぶ",
+        "朝海凪咲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-315"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-063"
     },
     {
-      "id": 8756,
-      "IDcode": "NEOS-013",
-      "title": "尾行 13 觀察南國系美人娘睡得很香，在電車上猥褻她，雞巴硬的受不了，必須用迷藥迷倒帶走強奸 ~ 乙葉らぶ",
+      "id": 3625,
+      "IDcode": "HUNTC-387",
+      "title": "1男6女で家事とSEXは当番制！ちなみにボクはみんなの性欲処理担当！？父が再婚した相手の連れ子は全員女！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-01-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20250127/7ff556cb-4ecb-4b18-bb39-8d4884f106b5.jpg",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/18/898d3dc3/vod.jpg",
       "actress": [
-        "乙葉らぶ"
+        "宇流木沙羅",
+        "愛瀬優里",
+        "葵井みずほ",
+        "相坂すみれ",
+        "乙葉らぶ",
+        "小日向める"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOS-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-387"
     }
   ]
 };

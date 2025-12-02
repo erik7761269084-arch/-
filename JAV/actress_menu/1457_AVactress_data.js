@@ -32,57 +32,53 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250119/62a291f4-efa6-423a-b4a8-20162b84741b.jpg",
     "https://picture.yoshiclub.xyz/20250119/94d85c46-085a-4486-82ab-666314e16597.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 5242,
-      "IDcode": "DVMM-252",
-      "title": "魔鏡顏出MM號 美豔人妻限定 和閨蜜大PK！童貞男的逆搭訕射精對決 5 ~ 月見伊織 二宮和香 最上もも 逢阪瞳 鈴木真夕",
+      "id": 7003,
+      "IDcode": "FFFS-061",
+      "title": "熟女勾引！玩弄他人肉棒的人妻 偷攝紀錄片全集53 美腿黑絲襪人妻讓我異常興奮篇~ 椿りか 逢阪瞳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062429286286_thumbnail.webp",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "2025-04-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250405/e0583f02-1015-416e-b573-b2d74641c345.jpg",
       "actress": [
-        "鈴木真夕",
-        "二宮和香",
-        "月見伊織",
-        "逢坂瞳",
-        "最上もも"
+        "椿莉香",
+        "逢坂瞳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-252"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-061"
     },
     {
-      "id": 7041,
-      "IDcode": "JUR-232",
-      "title": "換妻酒吧人妻NTR 「這是爲了你…」起初這麼說的妻子不知不覺沉迷於圍上來的男人 ~ 木下凜々子",
+      "id": 88603,
+      "IDcode": "DVDMS-836",
+      "title": "大学生情侣约会",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092319597597.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/00d5e2176ef1b3b0cd66b5cd3d148ba4.jpg",
       "actress": [
-        "木下凜々子",
         "逢坂瞳",
-        "大岛丈",
-        "木下凛凛子"
+        "小田切ジュン",
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-232"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-836"
     },
     {
       "id": 9001,
       "IDcode": "DVMM-194",
-      "title": "一般男女監控AV 在老公洗澡時限定限定NTR30分鍾 ~ 月見伊織 恵沙也香 逢阪瞳 鈴木真夕",
+      "title": "清楚で美人な人妻が旦那の横でバレないように連続射精セックスに挑戦！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250119/e1974c2f-8a07-4820-8dea-c44e874fefa4.jpg",
       "actress": [
         "鈴木真夕",
@@ -93,22 +89,43 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-194"
     },
     {
-      "id": 88603,
-      "IDcode": "DVDMS-836",
-      "title": "露臉魔鏡號 雙重約會情侶限定 女大生2人組精油素股按摩體驗！2",
+      "id": 7041,
+      "IDcode": "JUR-232",
+      "title": "ハプニングバー人妻NTR 「あなたのためよ…」と言っていた妻がいつしか群がる男たちに夢中になっていた。 木下凛々子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-07-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231024-1/b7035f0cbf331d895b6688a5740d61af.jpg",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092319597597.jpg",
       "actress": [
+        "木下凜々子",
         "逢坂瞳",
-        "小田切ジュン",
-        "イセドン内村"
+        "大岛丈",
+        "木下凛凛子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-836"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-232"
+    },
+    {
+      "id": 5242,
+      "IDcode": "DVMM-252",
+      "title": "魔鏡顏出MM號 美豔人妻限定 和閨蜜大PK！童貞男的逆搭訕射精對決 5 ~ 月見伊織 二宮和香 最上もも 逢阪瞳 鈴木真夕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/21/d50377418e4ec5d9d958b9b9af166a03.jpg",
+      "actress": [
+        "鈴木真夕",
+        "二宮和香",
+        "月見伊織",
+        "逢坂瞳",
+        "最上もも"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-252"
     }
   ]
 };

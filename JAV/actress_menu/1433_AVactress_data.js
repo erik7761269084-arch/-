@@ -36,26 +36,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230406/2484bf05-993e-4932-ac06-634ddb0631e3.jpg",
     "https://picture.yoshiclub.xyz/20230406/75003c89-dcba-4202-9eea-8fdd0634f9c3.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 19617,
-      "IDcode": "ABP-171",
-      "title": "女友的姐姐、是想要誘惑我的女人。 桃谷繪里香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2014-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230406/ae47495c-a95d-4cc5-b289-110112992333.jpg",
-      "actress": [
-        "桃谷繪里香",
-        "加賀美シュナ",
-        "加贺美シュナ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-171"
-    },
     {
       "id": 19619,
       "IDcode": "ABP-159",
@@ -63,8 +45,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
+      "type": "",
+      "company": "",
       "publish_date": "2014-06-20",
       "cover_url": "https://picture.yoshiclub.xyz/20230406/ea4fc40b-f6aa-431e-84a3-e9c8a9c2ec34.jpg",
       "actress": [
@@ -73,36 +55,70 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-159"
     },
     {
-      "id": 86684,
-      "IDcode": "ABP-119",
-      "title": "一泊二日、美少女完全予約制。  第二章 桃谷エリカ",
+      "id": 102724,
+      "IDcode": "SIRO-1690",
+      "title": "桃谷绘里香忘情一夜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-03-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/bab9198385732a15917743ed8ac8e7e3.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "桃谷繪里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1690"
+    },
+    {
+      "id": 100955,
+      "IDcode": "ABP-145",
+      "title": "激情浓吻-桃谷绘里香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240203-1/5d7e63c753ffca54c57281901694e49c.jpg",
+      "actress": [
+        "桃谷繪里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-145"
+    },
+    {
+      "id": 86684,
+      "IDcode": "ABP-119",
+      "title": "美少女完全予约制-桃谷绘里香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/2f70f0d3346582eb55db3701c21f73eb.jpg",
       "actress": [
         "桃谷繪里香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-119"
     },
     {
-      "id": 102724,
-      "IDcode": "SIRO-1690",
-      "title": "素人個人撮影、投稿。503",
+      "id": 19617,
+      "IDcode": "ABP-171",
+      "title": "诱人的妹妹-桃谷エリカ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2013-11-24",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/7cdb1b534948e4562a69c428ee3ac5f6.jpg",
       "actress": [
-        "桃谷繪里香"
+        "桃谷繪里香",
+        "加賀美シュナ",
+        "加贺美シュナ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-1690"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-171"
     }
   ]
 };

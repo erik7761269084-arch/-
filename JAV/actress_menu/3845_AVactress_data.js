@@ -4,7 +4,7 @@ window.actressData = {
   "name": "雨宫琴音",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": "168cm",
@@ -16,26 +16,58 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 68759,
-      "IDcode": "SW-125",
-      "title": "在客滿的線路巴士上對美麗的少妻使用超秘傳的春藥噴霧劑後，竟然開始在無法動彈的車中壓低身音狂爽個不停",
+      "id": 143449,
+      "IDcode": "121812-212",
+      "title": "关西好女人就算想活下去也不酷的",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250206-1/d7f959d699ac6c9863b9259d2f9ffb87.jpg",
+      "actress": [
+        "雨宫琴音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=121812-212"
+    },
+    {
+      "id": 142559,
+      "IDcode": "011813-241",
+      "title": "关西好女人即使想活也不酷第二部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250201-1/0d345e2b96af1a89f16202e6485a3472.jpg",
+      "actress": [
+        "雨宫琴音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011813-241"
+    },
+    {
+      "id": 68759,
+      "IDcode": "SW-0125",
+      "title": "当我在一辆拥挤的公交车上",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2019-08-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250408-1/b2c35e7bb769798047d6d6665bc8c3d9.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/d3b0d11ad3ee83987dcc6cc399296b8f.jpg",
       "actress": [
         "铃木あいか",
         "雨宫琴音",
         "荒木ありさ",
         "中西江梨子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-125"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0125"
     }
   ]
 };

@@ -41,68 +41,70 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241102/f42b6007-3f02-4c71-ab61-1f2a0e02b114.jpg",
     "https://picture.yoshiclub.xyz/20241102/b99df0de-ecdc-4169-a2c1-b5738e59ac44.jpg"
   ],
-  "works_count": 8,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 5042,
-      "IDcode": "FNS-048",
-      "title": "腿軟也跑不掉！站立後入猛頂深處不放過 ~ 由衣陽菜",
+      "id": 10945,
+      "IDcode": "FSDSS-952",
+      "title": "新人 由衣陽菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-06-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250624/20250624094419215215_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250108-1/31184e7cd1fc64a19ee016e33fe8f5e8.jpg",
       "actress": [
         "由衣陽菜",
+        "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-048"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-952"
     },
     {
-      "id": 5876,
-      "IDcode": "FNS-033",
-      "title": "跟打工處愛舌吻的小惡魔妹子丟下所有計畫狂幹的週末偷情大作戰 ~ 由衣陽菜",
+      "id": 10252,
+      "IDcode": "FSDSS-956",
+      "title": "色情发展3SEX-由衣阳菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523100736385385_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250108-1/b115e622fce3273786fca61f385aaea9.jpg",
       "actress": [
-        "由衣陽菜"
+        "由衣陽菜",
+        "七尾神"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-956"
     },
     {
-      "id": 6988,
-      "IDcode": "FNS-012",
-      "title": "被連便利店都幹不下的廢柴大叔黏糊糊愛撫SEX搞到連續高潮的女大學生打工妹 ~ 由衣陽菜",
+      "id": 9362,
+      "IDcode": "FSDSS-957",
+      "title": "以体液互相刺激的持续高潮性爱-由衣阳菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250407/20250407015109471471.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250216-1/e841785fc30f6e0107f200f386297750.jpg",
       "actress": [
         "由衣陽菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-957"
     },
     {
       "id": 8555,
       "IDcode": "FSDSS-981",
-      "title": "純真臉龐的深喉口暴，不容赦免的顏射 ~ 由衣陽菜",
+      "title": "来自天真烂漫的口交的毫不留情的颜射",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250204/20250204011736311311.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/28/67c160034e7d663df4b73867/cover.jpg",
       "actress": [
         "由衣陽菜"
       ],
@@ -111,13 +113,13 @@ window.actressData = {
     {
       "id": 7768,
       "IDcode": "FNS-002",
-      "title": "青梅竹馬鼓起勇氣的內褲誘惑 開啓了每天的性愛快樂生活 ~ 由衣陽菜",
+      "title": "うぶな幼なじみが誘惑パンチラ！見事に勃起したボクを見てパン染みぐっしょり！ 由衣陽菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-03-05",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305064515100100.jpg",
       "actress": [
         "由衣陽菜",
@@ -126,55 +128,101 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-002"
     },
     {
-      "id": 9362,
-      "IDcode": "FSDSS-957",
-      "title": "通過體液傳達的無盡感官性愛 ~ 由衣陽菜",
+      "id": 6988,
+      "IDcode": "FNS-012",
+      "title": "大叔的黏膩愛撫性愛-由衣陽菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-02-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20250105/202501052341315151.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250407/20250407015109471471.jpg",
       "actress": [
         "由衣陽菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-957"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-012"
     },
     {
-      "id": 10252,
-      "IDcode": "FSDSS-956",
-      "title": "初3P解禁！特別性感開發 ~ 由衣陽菜",
+      "id": 5876,
+      "IDcode": "FNS-033",
+      "title": "喜歡舔吻的打工小惡魔-由衣陽菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20241201/20241201215032628628.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250523/20250523100736385385_thumbnail.webp",
       "actress": [
-        "由衣陽菜",
-        "七尾神"
+        "由衣陽菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-956"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-033"
     },
     {
-      "id": 10945,
-      "IDcode": "FSDSS-952",
-      "title": "新人報到！來自岡山且的20歲清純蜜桃乳 首次亮相 AV DEBUT ~ 由衣陽菜",
+      "id": 5042,
+      "IDcode": "FNS-048",
+      "title": "就算把腰拽断了也别放手可以直插阴道深处的站立后入式做爱体验-由衣陽菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241102/20241102002318270270.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250624/20250624094419215215_thumbnail.webp",
       "actress": [
         "由衣陽菜",
-        "森林原人",
         "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-952"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-048"
+    },
+    {
+      "id": 4145,
+      "IDcode": "FNS-069",
+      "title": "一个性感的兔子奶酒吧女孩-由衣陽菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724165722468468_91836_thumbnail.webp",
+      "actress": [
+        "由衣陽菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-069"
+    },
+    {
+      "id": 3499,
+      "IDcode": "FNS-090",
+      "title": "仕事ができない秘書の由衣さんは性処理には定評のある社長専属マゾペット 由衣陽菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250817/20250817220029631631_52440_thumbnail.webp",
+      "actress": [
+        "由衣陽菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-090"
+    },
+    {
+      "id": 2645,
+      "IDcode": "FNS-099",
+      "title": "M女専門デリヘル呼んだら嫌いな上司の大事なひとり娘だったから、腹いせに教育。由衣陽菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "由衣陽菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-099"
     }
   ]
 };

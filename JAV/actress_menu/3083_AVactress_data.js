@@ -4,7 +4,7 @@ window.actressData = {
   "name": "片桐梓",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-05",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/aedd2a83d1e8e942952b8a7de67551fd.jpg",
       "actress": [
         "片桐梓"
       ],
@@ -37,12 +37,12 @@ window.actressData = {
     {
       "id": 59727,
       "IDcode": "TMRD-1311",
-      "title": "- 熟妻ドラマ 裸にエプロンの家政婦の熟れた陰部を舐めまくる中年男 スーパーで働く五十路妻はストーカーと化した店長に… - JAV目錄大全javmenu.com",
+      "title": "熟妻ドラマ 裸にエプロンの家政婦の熟れた陰部を舐めまくる中年男 スーパーで働く五十路妻はストーカーと化した店長に…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
       "cover_url": "",
       "actress": [

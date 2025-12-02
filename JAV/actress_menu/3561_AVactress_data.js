@@ -4,7 +4,7 @@ window.actressData = {
   "name": "武内有紗",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 6461,
       "IDcode": "JUTA-167",
-      "title": "極上！！三十路人妻初脫 AV 紀錄 ~ 武內有紗(前田美波 )",
+      "title": "三十歲妻子初次脫衣AV紀錄-武內有紗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女JAPAN",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043233928928_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822cf169ed5b270bc9212a0/cover.jpg",
       "actress": [
         "前田美波",
         "武内有紗"

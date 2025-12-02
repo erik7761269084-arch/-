@@ -47,40 +47,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230403/fabc0818-7b3a-4d43-917e-733ebc4a45f3.jpg",
     "https://picture.yoshiclub.xyz/20230403/9ba5442e-3571-47ff-bb59-5ca8ea3dd693.jpg"
   ],
-  "works_count": 7,
+  "works_count": 8,
   "related_dramas": [
-    {
-      "id": 69494,
-      "IDcode": "SDMUA-006",
-      "title": "從今天起姐姐變成兩個弟弟的女朋友！跟媽媽的再婚對象帶來的小孩近親相姦 淺井心晴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-12-22",
-      "cover_url": "",
-      "actress": [
-        "浅井心晴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-006"
-    },
-    {
-      "id": 86147,
-      "IDcode": "SDJS-144",
-      "title": "SOD入社2年目(当時)浅井心晴 日頃の感謝を込めて、カメラ片手にユーザー様のお宅へ中出しOK訪問! 〜中出し解禁前にお客様に中出しをOKしてしまっていた、浅井心晴初中出しとなるお蔵入り映像〜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-04-07",
-      "cover_url": "",
-      "actress": [
-        "浅井心晴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-144"
-    },
     {
       "id": 84895,
       "IDcode": "JBD-281",
@@ -88,32 +56,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2022-04-05",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/25f0960f84745529c401554089867b07.jpg",
       "actress": [
         "浅井心晴",
         "新村晶"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-281"
-    },
-    {
-      "id": 84894,
-      "IDcode": "JBD-282",
-      "title": "愛した人は鬼でした…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-04-05",
-      "cover_url": "",
-      "actress": [
-        "浅井心晴",
-        "新村晶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-282"
     },
     {
       "id": 81162,
@@ -122,7 +73,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
       "publish_date": "2022-03-15",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/84dd66af25e1dc3e59d92889d56763ac.jpg",
@@ -135,20 +86,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-490"
     },
     {
-      "id": 1616,
-      "IDcode": "SDJS-059",
-      "title": "全裸上班1週克服羞恥心！比前兩次更加成長的淺井心晴公開羞恥性愛",
+      "id": 98889,
+      "IDcode": "SDJS-036",
+      "title": "SOD女子社員 処女 浅井心晴 AV出演！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/dd7d3180-d7fa-4bcf-88eb-608437095b48.jpg",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "浅井心晴",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-036"
+    },
+    {
+      "id": 86147,
+      "IDcode": "SDJS-144",
+      "title": "SOD入社2年目(当時)浅井心晴 日頃の感謝を込めて、カメラ片手にユーザー様のお宅へ中出しOK訪問! 〜中出し解禁前にお客様に中出しをOKしてしまっていた、浅井心晴初中出しとなるお蔵入り映像〜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/acb9663e7ebe1d19964e57715a53118d.jpg",
       "actress": [
         "浅井心晴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-059"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-144"
+    },
+    {
+      "id": 84894,
+      "IDcode": "JBD-282",
+      "title": "愛した人は鬼でした…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc48bf9a2e9b1d45c6958/cover.jpg",
+      "actress": [
+        "浅井心晴",
+        "新村晶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-282"
     },
     {
       "id": 83194,
@@ -157,9 +142,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-01-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "浅井心晴",
@@ -167,6 +152,38 @@ window.actressData = {
         "タツ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-051"
+    },
+    {
+      "id": 69494,
+      "IDcode": "SDMUA-006",
+      "title": "亲属性生活-浅井心晴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "浅井心晴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-006"
+    },
+    {
+      "id": 1616,
+      "IDcode": "SDJS-059",
+      "title": "1週間全裸業務",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bc4d724e7d663df4a17c48/cover.jpg",
+      "actress": [
+        "浅井心晴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-059"
     }
   ]
 };

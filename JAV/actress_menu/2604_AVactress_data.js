@@ -23,27 +23,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-麻生まり.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 62478,
-      "IDcode": "NASK-269",
-      "title": "本当にあったエッチなお話55 嫁よりエロい義母全四話",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2025-07-22",
-      "cover_url": "",
-      "actress": [
-        "井上綾子",
-        "麻生まり",
-        "近藤郁",
-        "平冈里枝子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-269"
-    },
     {
       "id": 13751,
       "IDcode": "SDMM-174",
@@ -51,7 +32,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-07-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240625/1e83ba35-fd3a-4ae0-8cf5-e3823e36b366.jpg",
@@ -70,22 +51,58 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-174"
     },
     {
+      "id": 98196,
+      "IDcode": "AUKG-430",
+      "title": "五十路艶熟レズ美アン ～出奔妻の甘い誘惑～ 麻生まり 西浦紀香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-08-13",
+      "cover_url": "",
+      "actress": [
+        "麻生まり",
+        "西浦纪香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-430"
+    },
+    {
       "id": 70206,
       "IDcode": "VNDS-3312",
       "title": "酒に酔ってパンチラ胸チラ痴態をさらして…息子に襲われてしまった母",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-06-20",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e8da0642f1c7d60b61bbbbac5a03863f.jpg",
       "actress": [
         "麻生まり",
         "白藤ゆりえ",
         "君嶋かほる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3312"
+    },
+    {
+      "id": 62478,
+      "IDcode": "NASK-269",
+      "title": "本当にあったエッチなお話55 嫁よりエロい義母全四話",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "井上綾子",
+        "麻生まり",
+        "近藤郁",
+        "平冈里枝子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-269"
     }
   ]
 };

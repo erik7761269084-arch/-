@@ -33,19 +33,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250824/868f7f97-1bfc-4efa-8f0b-a4288940c3eb_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250824/30bfa624-a8e0-40f6-bb17-ba459674229f_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3310,
-      "IDcode": "PRIN-046",
-      "title": "同人AV：專屬炮友！全自動精液處理器豪華雙人版！H杯爆乳肉感Coser與G杯透明系巨乳美少女Coser！連續潮吹 抖M寵物 肉便器認證 ~ 伊織羽音 田中寧寧",
+      "id": 107567,
+      "IDcode": "NACR-686",
+      "title": "掃除口交到肉棒腫大持續懇求的超下流女友 伊織羽音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "伊織羽音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-686"
+    },
+    {
+      "id": 84765,
+      "IDcode": "IENF-234",
+      "title": "最高級美少女中出-伊織羽音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "伊織羽音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-234"
+    },
+    {
+      "id": 3310,
+      "IDcode": "PRIN-046",
+      "title": "ムッチムチどすけべボディのHカップ美爆乳レイヤー！＆透明感がエグいGカップ巨乳美少女レイヤー！＃トランス連続アクメ＃従順ドMペット＃オナホ確定＃羽交い絞め膣ボコ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823025046147147_99902_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "田中寧寧",
         "伊織羽音"

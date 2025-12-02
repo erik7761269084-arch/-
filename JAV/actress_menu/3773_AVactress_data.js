@@ -25,16 +25,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 68052,
-      "IDcode": "SUPA-196",
-      "title": "Hな取材かも…と分かっていながらも「友達と一緒なら…」と安心してしまった素人娘たちはどこまでエロい要求に応えてくれるのか徹底調査！ 2 素人女子大生8名収録！",
+      "id": 70275,
+      "IDcode": "SDMU-581",
+      "title": "毕业典礼来内射吧 心花由罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S級素人",
-      "publish_date": "2017-06-09",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "心花ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-581"
+    },
+    {
+      "id": 68052,
+      "IDcode": "SUPA-196",
+      "title": "业余女大学生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S級素人",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20250414-1/bbf36a444380bb1e513017bf0e4fc895.jpg",
       "actress": [
         "推川悠里",
         "南梨央奈",
@@ -46,22 +62,6 @@ window.actressData = {
         "心花ゆら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-196"
-    },
-    {
-      "id": 70275,
-      "IDcode": "SDMU-581",
-      "title": "卒業式は中出し解禁日 心花ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-04-20",
-      "cover_url": "",
-      "actress": [
-        "心花ゆら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-581"
     }
   ]
 };

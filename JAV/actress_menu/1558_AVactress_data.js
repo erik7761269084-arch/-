@@ -33,8 +33,45 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240909/a46ba924-81da-4bf7-92c3-c21624a991d9.png"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 11786,
+      "IDcode": "AGMX-197",
+      "title": "足控最佳合集 ~ 春谷美雨 広瀬結香 二宮和香 紺野光 まなみ靜奈 夜空亞美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-09-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20240922/1bbb68e8-baf1-4f41-9ba2-5dcd33ba00bc.jpg",
+      "actress": [
+        "绀野光",
+        "二宮和香",
+        "広瀬結香",
+        "夜空亞美",
+        "まなみ静奈",
+        "春谷美雨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-197"
+    },
+    {
+      "id": 12100,
+      "IDcode": "BASJ-021",
+      "title": "M調教人妻的服務讓男人覺醒 ~ 春谷美雨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-09-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20240909/61ae0750-9110-4bca-af00-7c063aeaa2f7.jpg",
+      "actress": [
+        "春谷美雨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BASJ-021"
+    },
     {
       "id": 87029,
       "IDcode": "OHGG-002",
@@ -42,14 +79,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231018/R4wJDANw/1.jpg",
       "actress": [
         "春谷美雨"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OHGG-002"
+    },
+    {
+      "id": 102175,
+      "IDcode": "OHGG-001",
+      "title": "筋肉美魔女潮吹き妻 池口千沙都",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2022-08-23",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f5916bddd238bfe1449a1541031ddd57.jpg",
+      "actress": [
+        "春谷美雨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OHGG-001"
     }
   ]
 };

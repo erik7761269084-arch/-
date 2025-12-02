@@ -24,8 +24,25 @@ window.actressData = {
     "Yumiko"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 99883,
+      "IDcode": "ABP-478",
+      "title": "奇跡の天然少女100％味わいます。volume.07 埴生みこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-05-10",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp478/118abp478pl.jpg",
+      "actress": [
+        "鲛岛",
+        "埴生みこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-478"
+    },
     {
       "id": 70269,
       "IDcode": "SDMU-528",
@@ -33,10 +50,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-03-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/7aa4c71199fa001ed26a87c6c5e1dfef.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7c508c2c0fe13330442f582e8f98b2a6.jpg",
       "actress": [
         "迹美珠里",
         "长泽ルナ",

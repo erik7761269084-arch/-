@@ -36,36 +36,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3640,
-      "IDcode": "FNEW-013",
-      "title": "迷戀表妹的茂密小穴 剛毛控哥哥和表妹的不倫相奸 合計7發 ~ 水野ろあ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-08-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212623772772_93492_thumbnail.webp",
-      "actress": [
-        "水野ろあ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEW-013"
-    },
-    {
       "id": 8849,
       "IDcode": "HMN-660",
-      "title": "新人出道！有點像野阪女孩的中出AV出道 與每小時3,000日元的寫真女孩協商AV出場！即中出即解禁！ 首次亮相 AV DEBUT ~ 水野ろあ",
+      "title": "乃●坂にいる子にちょっと似てる女の子中出しAVデビュー 被写体モデル1時間3000円でやっている女子にAV出演交渉！即中出し解禁！ 水野ろあ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2025-01-28",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073904213213.jpg",
       "actress": [
         "水野ろあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-660"
+    },
+    {
+      "id": 3640,
+      "IDcode": "FNEW-013",
+      "title": "僕は義妹の剛毛を愛でている ジャングルみたいな陰毛の義妹とマン毛フェチの兄による歪な近親相姦 合計7発射 （メスガキ28） 水野ろあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212623772772_93492_thumbnail.webp",
+      "actress": [
+        "水野ろあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEW-013"
     }
   ]
 };

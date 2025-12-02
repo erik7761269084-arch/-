@@ -32,32 +32,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 17849,
-      "IDcode": "JUQ-433",
-      "title": "魔性的魅力 Madonna専屬 第3弾。 難忘的夏日戀情，熱情地親吻和做愛。",
+      "id": 91738,
+      "IDcode": "JUQ-419",
+      "title": "在知名专柜上班-遠野夏生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231112/9c7becea-4a63-4abe-92b6-101e709f5d44.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "遠野夏生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-419"
     },
     {
       "id": 18410,
       "IDcode": "JUQ-429",
-      "title": "「我想讓你的妻子冒充我的情人…」我最好的朋友求我借出我心愛的妻子",
+      "title": "你的妻子冒充我的情-远野夏生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-10-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20231008/20231008221437905905.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250528-1/635ffa5008c760756d852eba3edc1844.jpg",
       "actress": [
         "遠野夏生",
         "ニック"
@@ -65,20 +65,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-429"
     },
     {
-      "id": 91738,
-      "IDcode": "JUQ-419",
-      "title": "新人 遠野夏生 38歳 AV DEBUT 某有名高級ブランド店で働く、魔性の色気を放つイイオンナ―。",
+      "id": 17849,
+      "IDcode": "JUQ-433",
+      "title": "散發出魔性般的魅力-遠野夏生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-09-12",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/072ee043520e397778b5e63886d6f2ca.jpg",
       "actress": [
         "遠野夏生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-419"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-433"
     }
   ]
 };

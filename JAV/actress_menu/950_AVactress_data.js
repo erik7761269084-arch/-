@@ -44,57 +44,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230923/c6a1a050-148e-4622-9754-6212d092c9d1.jpg",
     "https://picture.yoshiclub.xyz/20230923/b9d6f6b7-94ec-4a3a-9a9e-ed187ade006c.jpg"
   ],
-  "works_count": 10,
+  "works_count": 12,
   "related_dramas": [
-    {
-      "id": 13239,
-      "IDcode": "SONE-292",
-      "title": "啊？它硬了哈哈 青梅竹馬的日向陽葵正在取笑我這個處男，而我則用傻笑的用大雞巴回報她，射了一次又一次！ ~ 日向陽葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719003509216216.jpg",
-      "actress": [
-        "日向陽葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-292"
-    },
-    {
-      "id": 17113,
-      "IDcode": "SONE-045",
-      "title": "攻擊成人娛樂店最後一刻的曝光服裝！擁有國寶級身材的工作人員的人氣咖啡館。用極限祕密選項讓你欲火中燒！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20231223/20231223065717599599.jpg",
-      "actress": [
-        "日向陽葵",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-045"
-    },
-    {
-      "id": 17675,
-      "IDcode": "SONE-044",
-      "title": "「好興奮不管了，我們就在這裡做」在公園、在商店、或在車上！？東京街頭操逼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231125/bd21bf90-16e3-403d-9b26-531815a0f19a.jpg",
-      "actress": [
-        "日向陽葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-044"
-    },
     {
       "id": 18246,
       "IDcode": "SSIS-998",
@@ -102,7 +53,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
       "publish_date": "2023-10-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231021/de55208c-b8e0-4589-86b0-4cba57cdd287.jpg",
@@ -112,66 +63,48 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-998"
     },
     {
-      "id": 18607,
-      "IDcode": "SSIS-891",
-      "title": "身為老師 性感的日向楓那大奶子卻不斷的誘惑著我一次又一次的瘋狂在她身上發洩我的理智和精液",
+      "id": 171965,
+      "IDcode": "SSIS-630",
+      "title": "激烈高潮120次！抽搐4000次！高潮2000cc！國寶級肉體寫真偶像情慾覺醒。第一次的大痙攣SP 日向楓",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-09-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230923/12954217-7bd1-4f19-b8f9-0097f3127d07.jpg",
-      "actress": [
-        "日向陽葵",
-        "輝大"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-891"
-    },
-    {
-      "id": 16565,
-      "IDcode": "SSIS-770",
-      "title": "一次出差，她被安排與她討厭的性騷擾經理同住一個房間……一位豐滿的新辦公室女士在沒有意識到的情況下順從地被射了",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20240128/20240128000052976976.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250327-1/5599d8949e6d70b3854af1f93d39e33e.jpg",
       "actress": [
         "日向陽葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-630"
     },
     {
-      "id": 87659,
-      "IDcode": "SSIS-729",
-      "title": "小悪魔かえでちゃんが国宝級ボディおち●ぽに密着させて連続で犯してあげるね（ハート） 日向かえで （ブルーレイディスク）",
+      "id": 168724,
+      "IDcode": "SSIS-809",
+      "title": "美乳護士的情慾絕倫！擁有國寶級身材的護士來到攝影棚從一開始就連續不斷地拍攝一整天的激情性愛！ 日向楓",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-06-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/31/683b00310b69f1d81637b0a1/cover.jpg",
       "actress": [
-        "日向陽葵",
-        "Qべぇ"
+        "日向陽葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-729"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-809"
     },
     {
       "id": 104398,
       "IDcode": "SSIS-661",
-      "title": "ぶるんぶるん暴れるドエロい国宝Gカップ 絶頂直後の痙攣ボディに超・肉・弾・ピストン 日向かえで （ブルーレイディスク）",
+      "title": "超色的國寶G CUP 絕頂後的痙攣美體 超肉彈活塞 日向楓",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2023-03-24",
-      "cover_url": "https://tutu1.space/images/2023/04/15/d1c3b8a6d02169af1d1160dfa806aac4.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/23/68306a838c4b3b91d75f18e9/cover.jpg",
       "actress": [
         "日向陽葵"
       ],
@@ -180,34 +113,133 @@ window.actressData = {
     {
       "id": 100418,
       "IDcode": "SSIS-567",
-      "title": "交織的體液、濃密的性愛 完全一刀未剪特別編 日向楓",
+      "title": "激烈的性爱-日向かえで",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2022-11-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250330-1/1da5d2cd1fc60b71fa5b33e27de928df.jpg",
       "actress": [
         "日向陽葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-567"
     },
     {
-      "id": 87269,
-      "IDcode": "SSIS-508",
-      "title": "新人NO.1STYLE グラビアアイドル日向かえで AVデビュー （ブルーレイディスク） 生写真3枚付き",
+      "id": 87659,
+      "IDcode": "SSIS-729",
+      "title": "小惡魔楓讓肉棒緊貼國寶級BODY連續欺負你喔 日向楓",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2022-08-24",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "日向陽葵",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-729"
+    },
+    {
+      "id": 87269,
+      "IDcode": "SSIS-508",
+      "title": "新人NO.1STYLE-日向かえで",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/dcbc539c0a52761f3baa26a71e0beae8.jpg",
       "actress": [
         "日向陽葵"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-508"
+    },
+    {
+      "id": 18607,
+      "IDcode": "SSIS-891",
+      "title": "身為教師的我對於成長中的女學生的胸部失去理智 多次射精在她身上 日向楓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230923/12954217-7bd1-4f19-b8f9-0097f3127d07.jpg",
+      "actress": [
+        "日向陽葵",
+        "輝大"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-891"
+    },
+    {
+      "id": 17675,
+      "IDcode": "SONE-044",
+      "title": "我已經興奮了-日向陽葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a63af8f1cbfc7a9c7dc0e/cover.jpg",
+      "actress": [
+        "日向陽葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-044"
+    },
+    {
+      "id": 17113,
+      "IDcode": "SONE-045",
+      "title": "极限風俗店-日向陽葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231223/20231223065717599599.jpg",
+      "actress": [
+        "日向陽葵",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-045"
+    },
+    {
+      "id": 16565,
+      "IDcode": "SSIS-770",
+      "title": "在出差處被討厭上司設計住同房… 被發現色情私密帳號從順巨乳新人OL不覺高潮 日向楓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240128/20240128000052976976.jpg",
+      "actress": [
+        "日向陽葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-770"
+    },
+    {
+      "id": 13239,
+      "IDcode": "SONE-292",
+      "title": "年幼的青梅竹馬-日向陽葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719003509216216.jpg",
+      "actress": [
+        "日向陽葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-292"
     }
   ]
 };

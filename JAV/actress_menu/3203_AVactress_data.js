@@ -4,7 +4,7 @@ window.actressData = {
   "name": "相楽かごめ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,15 +19,34 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3286,
-      "IDcode": "NSFS-411",
-      "title": "AI重製版 讓我吃醋吧… 禁忌母女交換·愛女玩偶 永久珍藏版277分鐘 ~ 真心實 内藤斐奈 蕾 加納瞳 水嶋愛 結城美佐 円城ひとみ 早乙女愛",
+      "id": 106821,
+      "IDcode": "NSPS-097",
+      "title": "终极的绿帽子互换母女抱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "早乙女らぶ",
+        "円城ひとみ",
+        "相楽かごめ",
+        "迦纳瞳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-097"
+    },
+    {
+      "id": 3286,
+      "IDcode": "NSFS-411",
+      "title": "AIリマスター版 私を嫉妬させてください… 禁断スワップ母娘・愛娘ダッチワイフ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2025-08-22",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/202508230339243737_81876_thumbnail.webp",
       "actress": [
         "早乙女らぶ",
@@ -44,25 +63,6 @@ window.actressData = {
         "夏目レイコ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-411"
-    },
-    {
-      "id": 106821,
-      "IDcode": "NSPS-097",
-      "title": "究極の寝取られスワップ 母娘ダッチワイフ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2010-11-25",
-      "cover_url": "https://tutu1.space/images/2023/11/08/37dff3924aed1ffd85669ba77de45efe.jpg",
-      "actress": [
-        "早乙女らぶ",
-        "円城ひとみ",
-        "相楽かごめ",
-        "迦纳瞳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-097"
     }
   ]
 };

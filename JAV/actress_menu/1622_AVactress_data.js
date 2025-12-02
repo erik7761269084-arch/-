@@ -38,37 +38,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 19576,
-      "IDcode": "IPZ-508",
-      "title": "不道德的牢籠 - 禁止監禁和強迫交換攻擊兩對幸福的夫婦",
+      "id": 153449,
+      "IDcode": "RBD-662",
+      "title": "圣洁的祭祀-愛田奈々",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-01-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230407/20230407090039110110.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/20240707/5nkSuBrD/1.jpg",
+      "actress": [
+        "愛田奈々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-662"
+    },
+    {
+      "id": 19576,
+      "IDcode": "IPZ-508",
+      "title": "性欲旺盛的巨根强奸犯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/8d27edfbd8ce152fa0d90124290377ad.jpg",
       "actress": [
         "愛田奈々",
         "美波娜美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-508"
-    },
-    {
-      "id": 1489,
-      "IDcode": "SKYHD-003",
-      "title": "天空天使藍 Vol.3 : 夏美: Part.1 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2011-06-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230515/78f09b66-75ee-4e04-993b-9c965db55fbc.webp",
-      "actress": [
-        "愛田奈々"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-003"
     }
   ]
 };

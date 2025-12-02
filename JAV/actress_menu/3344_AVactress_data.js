@@ -4,7 +4,7 @@ window.actressData = {
   "name": "铃木きあら",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,24 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 61911,
-      "IDcode": "TLZ-021",
-      "title": "平清香のレズナンパ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-07-15",
-      "cover_url": "",
-      "actress": [
-        "铃木きあら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TLZ-021"
-    },
     {
       "id": 93757,
       "IDcode": "OLM-080",
@@ -41,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OLYMPUS",
+      "type": "",
+      "company": "",
       "publish_date": "2024-07-30",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241015-1/89fad97b4cfb0c4aba22d92ca110e153.jpg",
       "actress": [
         "若林美保",
         "铃木きあら",
@@ -54,16 +38,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-080"
     },
     {
+      "id": 99981,
+      "IDcode": "MIDD-694",
+      "title": "女教師の濡れた下着 鈴木きあら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-11-01",
+      "cover_url": "",
+      "actress": [
+        "铃木きあら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-694"
+    },
+    {
       "id": 93415,
       "IDcode": "NASK-064",
       "title": "本当にあったエッチなお話46",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2024-05-14",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/53359431113ed491b457fd7fe6e2d545.jpg",
       "actress": [
         "夏树カオル",
         "铃木きあら",
@@ -79,9 +79,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "橘瑪麗",
@@ -90,6 +90,22 @@ window.actressData = {
         "优梨まいな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-452"
+    },
+    {
+      "id": 61911,
+      "IDcode": "TLZ-021",
+      "title": "平清香のレズナンパ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "铃木きあら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TLZ-021"
     }
   ]
 };

@@ -31,28 +31,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/w-Fitch/AI-Fix-石川しずか.jpg",
     "https://picture.yoshiclub.xyz/20241026/e5544d9b-ea42-47a8-ac7e-516e5eaf6aa8.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 93185,
-      "IDcode": "MUCH-180",
-      "title": "ぬるぬるテカテカ ムチムチ肉感 オイルセックスコレクション 4時間",
+      "id": 7647,
+      "IDcode": "MUCH-188",
+      "title": "淫蕩素人！ ！爆乳豐滿姐姐 4小時合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-07-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241009-1/35b61c7c49e337c25767bf22fe292da1.jpg",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250310/20250310001459970970.jpg",
       "actress": [
-        "優月真裡奈",
+        "西村ニーナ",
         "石川しずか",
-        "美雲愛梨",
-        "堀越なぎさ",
-        "月宫ねね",
-        "结白まさき"
+        "水城凌",
+        "桐島美奈子",
+        "高城彩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-180"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-188"
     },
     {
       "id": 87733,
@@ -61,10 +60,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2023-07-20",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231012/ls1UMMRH/1.jpg",
       "actress": [
         "武藤彩香",
         "石川しずか",
@@ -76,32 +75,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NXG-433"
     },
     {
-      "id": 91252,
-      "IDcode": "EMBZ-276",
-      "title": "人の嫁孕ませドキュメント「秘事」 熟れ妻の生膣に子宮内射精 観月しおり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-06-06",
-      "cover_url": "",
-      "actress": [
-        "石川しずか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-276"
-    },
-    {
       "id": 83038,
       "IDcode": "MC-002",
       "title": "まぐろ物産コレクション 2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2016-07-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221209-1/3a4bd0836e295c1313b9716e2572792c.jpg",
+      "cover_url": "",
       "actress": [
         "石川しずか",
         "柴咲ゆうり",
@@ -115,6 +98,43 @@ window.actressData = {
         "七瀬ゆい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MC-002"
+    },
+    {
+      "id": 93185,
+      "IDcode": "MUCH-180",
+      "title": "ぬるぬるテカテカ ムチムチ肉感 オイルセックスコレクション 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/dfe58cd43d25e5f91239bec48efa3c8b.jpg",
+      "actress": [
+        "優月真裡奈",
+        "石川しずか",
+        "美雲愛梨",
+        "堀越なぎさ",
+        "月宫ねね",
+        "结白まさき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-180"
+    },
+    {
+      "id": 91252,
+      "IDcode": "EMBZ-276",
+      "title": "人の嫁孕ませドキュメント「秘事」 熟れ妻の生膣に子宮内射精 観月しおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240418-1/30707ddcd5e3fcd5a1ef2c80f188cd73.jpg",
+      "actress": [
+        "石川しずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMBZ-276"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ふれんち",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2024-06-30",
       "cover_url": "https://picture.yoshiclub.xyz/20240630/20240630085448179179.jpg",
@@ -43,10 +43,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231208/TLCNIWKH/1.jpg",
       "actress": [
         "ミチくん",
         "ふれんち"
@@ -54,33 +54,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-189"
     },
     {
-      "id": 18504,
-      "IDcode": "MIAA-958",
-      "title": "G罩杯巨乳家庭教師的成績管理系統 光屁股性愛輔導",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230930/20230930020124614614.jpg",
-      "actress": [
-        "森下悠莉",
-        "ふれんち"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-958"
-    },
-    {
       "id": 101341,
       "IDcode": "DVMM-014",
-      "title": "【25周年SP】シン・SEXのハードルが異常に低い世界",
+      "title": "性爱难度异常低下的世界",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2023-09-05",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240227-1/f98fe35d0a756ce2463b2a2c7e8992dc.jpg",
       "actress": [
         "沙月惠奈",
         "木下日葵",
@@ -91,15 +74,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-014"
     },
     {
-      "id": 86365,
-      "IDcode": "SSIS-547",
-      "title": "素人参加Jカップパイズリ我慢企画 イクの我慢してご褒美エッチする？それとも追撃パイズリでもう一発イク？ 汐世 （ブルーレイディスク） 生写真3枚付き",
+      "id": 86445,
+      "IDcode": "STARS-704",
+      "title": "探险巴士NTR-青木桃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250412-1/28be3755dfcc3443110c90c74aef01f7.jpg",
+      "actress": [
+        "ふれんち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-704"
+    },
+    {
+      "id": 86365,
+      "IDcode": "SSIS-547",
+      "title": "通过忍住不射精来奖励自己的性爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "S1",
-      "publish_date": "2022-10-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "有栖花绯",
@@ -108,20 +107,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-547"
     },
     {
-      "id": 86445,
-      "IDcode": "STARS-704",
-      "title": "競泳選手団合宿 遠征バスNTR 青木桃",
+      "id": 18504,
+      "IDcode": "MIAA-958",
+      "title": "G CUP巨乳家庭教師 成績UP 生中出個別指導 森下悠莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-10-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230208-1/757ff2aeedd3319b4b3d0baaa5ae62ab.jpg",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/cc23ab559d5a80a8503a19a9c73fdd0e.jpg",
       "actress": [
+        "森下悠莉",
         "ふれんち"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-704"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-958"
     }
   ]
 };

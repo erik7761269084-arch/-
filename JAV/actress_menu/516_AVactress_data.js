@@ -40,40 +40,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240415/500884a0-5fad-4ab5-9ee1-c34e9415a0b6.jpg",
     "https://picture.yoshiclub.xyz/20240415/ab0d1c24-25c7-4406-ace8-0b3d9b668a3a.jpg"
   ],
-  "works_count": 8,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 3850,
-      "IDcode": "FJIN-089",
-      "title": "父親再婚帶來的兩個繼姐是超級喪宅女 邋遢卻性感爆棚的無防備巨乳姐姐把我榨幹了 ~ 夕美紫苑 愛川鈴",
+      "id": 15403,
+      "IDcode": "FPRE-046",
+      "title": "新人國寶Jcup！服裝店店員愛川鈴 AV 出道！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032445105105_69125_thumbnail.webp",
-      "actress": [
-        "夕美紫苑",
-        "愛川鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-089"
-    },
-    {
-      "id": 3965,
-      "IDcode": "BOBB-442",
-      "title": "白衣眼鏡妹爆乳J杯天使 按下護士鈴開啟的秘密奶療照顧 ~ 愛川鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101257229229_29220_thumbnail.webp",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-04-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414071050715715.jpg",
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-442"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-046"
     },
     {
       "id": 62503,
@@ -82,14 +65,176 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "愛川鈴"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-441"
+    },
+    {
+      "id": 14658,
+      "IDcode": "FPRE-054",
+      "title": "尽情玩弄国宝级J罩杯胸部的爆乳3本番-爱川铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517035317583583.jpg",
+      "actress": [
+        "愛川鈴",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-054"
+    },
+    {
+      "id": 13958,
+      "IDcode": "FPRE-062",
+      "title": "人生初次中出解禁-爱川铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240614/202406140153305050.jpg",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-062"
+    },
+    {
+      "id": 13381,
+      "IDcode": "FPRE-075",
+      "title": "甜舌亲吻妹妹巨乳亲密接触",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712003627635635.jpg",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-075"
+    },
+    {
+      "id": 12665,
+      "IDcode": "FPRE-087",
+      "title": "本来应该是处女拍摄-爱川すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815232659973973.jpg",
+      "actress": [
+        "愛川鈴",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-087"
+    },
+    {
+      "id": 12044,
+      "IDcode": "NIMA-034",
+      "title": "大受歡迎的FANZA同人漫畫(22萬DL)的真人實寫版，與學生J○在風俗店的絕倫無套性愛！ ~ 愛川鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/19/68cd3ead2c5ed64ee9ac503e/cover.jpg",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NIMA-034"
+    },
+    {
+      "id": 6465,
+      "IDcode": "HZGD-303",
+      "title": "隣に住む男子大学生は性獣モンスター 欲望のまま強引に抱かれ失神するほどイカされまくったあの日の記憶 愛川すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻花園劇場",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044001276276_thumbnail.webp",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-303"
+    },
+    {
+      "id": 5996,
+      "IDcode": "NACR-956",
+      "title": "オイルマニア 愛川すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233019442442_thumbnail.webp",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-956"
+    },
+    {
+      "id": 5766,
+      "IDcode": "TFOR-003",
+      "title": "Jカップ爆乳妻の浮気バレ！夫の前で浮気相手の同級生と羞恥公開NTR＆強●3P",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527113427642642_thumbnail.webp",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TFOR-003"
+    },
+    {
+      "id": 5665,
+      "IDcode": "BOBB-437",
+      "title": "Jカップで卑猥な巨乳輪！ふわふわのマシュマロ天然爆乳を徹底的に味わい尽くす！ Boin「愛川すず」Box",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172020577577_thumbnail.webp",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-437"
+    },
+    {
+      "id": 5282,
+      "IDcode": "KSBJ-383",
+      "title": "義父に弄ばれた一週間 快感の虜になった巨乳若妻 愛川すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614101340188188_thumbnail.webp",
+      "actress": [
+        "愛川鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-383"
     },
     {
       "id": 4829,
@@ -98,9 +243,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Gain Corporation",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706050719715715_28204_thumbnail.webp",
       "actress": [
         "愛川鈴"
@@ -108,68 +253,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-092"
     },
     {
-      "id": 5282,
-      "IDcode": "KSBJ-383",
-      "title": "被公公玩弄的一週 巨乳少婦沉迷快感無法自拔 ~ 愛川鈴",
+      "id": 3965,
+      "IDcode": "BOBB-442",
+      "title": "白衣のメガネっ娘爆乳Jcup天使 ナースコールで始まる秘密のおっぱい看護 Boin「愛川すず」Box3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-06-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614101340188188_thumbnail.webp",
-      "actress": [
-        "愛川鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-383"
-    },
-    {
-      "id": 5665,
-      "IDcode": "BOBB-437",
-      "title": "J罩杯超淫蕩大乳暈！軟糯糯的棉花糖天然爆乳讓你爽翻天！~ 愛川鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172020577577_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101257229229_29220_thumbnail.webp",
       "actress": [
         "愛川鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-437"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-442"
     },
     {
-      "id": 5996,
-      "IDcode": "NACR-956",
-      "title": "油光狂熱 絲滑誘惑 ~ 愛川鈴",
+      "id": 3850,
+      "IDcode": "FJIN-089",
+      "title": "親の再婚でできた義姉はW喪女 だらしないのにエロすぎた無防備巨乳な姉たちに杭打ち中出しされた僕…夕美しおん 愛川すず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-05-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233019442442_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032445105105_69125_thumbnail.webp",
       "actress": [
+        "夕美紫苑",
         "愛川鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-956"
-    },
-    {
-      "id": 6465,
-      "IDcode": "HZGD-303",
-      "title": "隔壁大學生是性獸怪物，慾望失控強行佔有，爽到暈過去的瘋狂回憶 ~ 愛川鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻花園劇場",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501044001276276_thumbnail.webp",
-      "actress": [
-        "愛川鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-303"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-089"
     }
   ]
 };

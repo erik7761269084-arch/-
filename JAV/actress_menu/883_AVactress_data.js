@@ -50,18 +50,120 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240710/32dfdf86-52b8-4686-b471-586cc86064e2.jpg",
     "https://picture.yoshiclub.xyz/20240710/dc1f6865-4c2c-4516-9b19-2b77b2fd9d57.jpg"
   ],
-  "works_count": 2,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2899,
-      "IDcode": "HUNTC-449",
-      "title": "隨便插到爽！無限插新城鎮 整座小鎮隨便插特別篇 ~ 真白風羽裏 小野阪唯香 桐香悠裡 蘆名穗花 足立友梨 高城なぎさ 神村彩月 廣瀬好美 紫月由香裏",
+      "id": 6529,
+      "IDcode": "SGKI-048",
+      "title": "新手空姐挑戰固定震動棒超刺激播報2！讀完播音稿拿百萬獎金！放棄就得張腿黑絲襪挨操 ~ 綾瀨心 天馬唯 美咲佳奈 紫月由香裏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SHIGEKI",
+      "publish_date": "2025-04-28",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250430/20250430051830337337_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "美咲佳奈",
+        "绫濑心",
+        "紫月由香里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-048"
+    },
+    {
+      "id": 13449,
+      "IDcode": "BACJ-115",
+      "title": "悶絕的不斷扭動屁股，我會一直看着你，放蕩癡女的乳頭管理 ~ 紫月由香里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "2024-07-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240710/d26dee8e-5e53-4cc1-8d57-11eaee3a0ecc.jpg",
+      "actress": [
+        "紫月由香里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-115"
+    },
+    {
+      "id": 9634,
+      "IDcode": "SGKI-037",
+      "title": "作爲醫療從業人員，我們在患者面前永遠崩潰。限界集落病院的護士的獻身 - 訪問看護編 ~ 広瀬みつき 美波梢 紫月由香裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SHIGEKI",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787df125d57b64bfd10bcd0/cover.jpg",
+      "actress": [
+        "美波梢",
+        "広瀬みつき",
+        "紫月由香里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGKI-037"
+    },
+    {
+      "id": 3673,
+      "IDcode": "BACJ-161",
+      "title": "2人の嫁に甘やかされて幸福飽和状態！毎日好きなだけ性処理してくれるから幸せ勃起が止まらない",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811031744226226_23196_thumbnail.webp",
+      "actress": [
+        "真白みのり",
+        "紫月由香里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-161"
+    },
+    {
+      "id": 3442,
+      "IDcode": "MIST-481",
+      "title": "ザ・尻地獄 紫月ゆかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Mr.Michiru",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/30/886e8d3f/vod.jpg",
+      "actress": [
+        "紫月由香里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-481"
+    },
+    {
+      "id": 3269,
+      "IDcode": "CHC-023",
+      "title": "美女子弄び個撮ハメ撮り～オヤジに完全服従セックス！！ ゆかりさん 保母さん 紫月ゆかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "CHC工作室",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823044222319319_50225_thumbnail.webp",
+      "actress": [
+        "紫月由香里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHC-023"
+    },
+    {
+      "id": 2899,
+      "IDcode": "HUNTC-449",
+      "title": "だれとでも定額挿れ放題！挿れ放題ニュータウン 町ごと全部挿れ放題SP編 月々定額自治会費さえ支払えば町内のあらゆる場所",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-09-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025153547547_54671_thumbnail.webp",
       "actress": [
         "小野坂唯香",
@@ -77,23 +179,6 @@ window.actressData = {
         "ラビットけんと"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-449"
-    },
-    {
-      "id": 3673,
-      "IDcode": "BACJ-161",
-      "title": "被兩位人妻寵上天，每天隨便爽到爆，幸福硬到停不下來 ~ 紫月由香裏 真白みのり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811031744226226_23196_thumbnail.webp",
-      "actress": [
-        "真白みのり",
-        "紫月由香里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-161"
     }
   ]
 };

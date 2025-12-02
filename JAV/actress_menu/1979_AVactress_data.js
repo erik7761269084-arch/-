@@ -33,8 +33,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/芹野莉奈.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 764,
+      "IDcode": "HEYZO-0938",
+      "title": "爲了丈夫我甚至可以去吃別人的雞巴！ ！~ 芹野莉奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-08-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20240717/a44f4a86-4b72-4e2a-8288-7d40cd95990a.jpg",
+      "actress": [
+        "芹野莉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0938"
+    },
     {
       "id": 102166,
       "IDcode": "DW-005",
@@ -42,10 +58,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2014-08-22",
-      "cover_url": "https://tutu1.space/images/2022/12/28/1e230b06c6a7766975fb5a37ea8a3d72.jpg",
+      "cover_url": "",
       "actress": [
         "芹野莉奈"
       ],

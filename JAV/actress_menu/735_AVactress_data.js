@@ -46,85 +46,85 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250206/537a146d-a9d4-4324-9313-2c1cb575d254.jpg",
     "https://picture.yoshiclub.xyz/20250206/1699065b-6d61-4dc1-8d65-6c8a5caa11b4.jpg"
   ],
-  "works_count": 8,
+  "works_count": 9,
   "related_dramas": [
-    {
-      "id": 3019,
-      "IDcode": "SONE-782",
-      "title": "肉感誘惑，媚藥融化身心，極致高潮不停歇的狂野性愛 ~ 南澤海香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021035487487_16780_thumbnail.webp",
-      "actress": [
-        "南澤海香",
-        "じゅうもんじ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-782"
-    },
     {
       "id": 61783,
       "IDcode": "SONE-781",
-      "title": "全身が勃起する超肉体エロティック映像 4K機材撮影×Hcupふんわりマシュマロ乳 南沢海香のパーフェクトオナニーアシスト 生写真3枚付き",
+      "title": "南泽海香的完美自慰辅助",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://img.cdn202511.com/videos/202508/29/68b1598ed640eb31df7041ff/cover.jpg",
       "actress": [
         "南澤海香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-781"
     },
     {
-      "id": 4731,
-      "IDcode": "SONE-780",
-      "title": "大學生妹子暗戀打工店長故意錯過末班車…酒店一夜纏綿甜蜜又揪心的禁忌純愛NTR ~ 南澤海香",
+      "id": 8471,
+      "IDcode": "SONE-567",
+      "title": "10年に1人！ 「脱いだらすごい」の最高峰！ えくぼ笑顔が可愛い現役女子大生 新人NO.1STYLE 南沢海香 AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703043821881881_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/202502060743598686.jpg",
+      "actress": [
+        "南澤海香",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-567"
+    },
+    {
+      "id": 7737,
+      "IDcode": "SONE-569",
+      "title": "初体验超级高潮3次-南沢海香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d647c4dd88d14f0609d80a/cover.jpg",
+      "actress": [
+        "南澤海香",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-569"
+    },
+    {
+      "id": 7074,
+      "IDcode": "SONE-590",
+      "title": "这雪白柔软的H罩杯身材-南沢海香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403091831605605.jpg",
       "actress": [
         "南澤海香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-780"
-    },
-    {
-      "id": 5552,
-      "IDcode": "SONE-739",
-      "title": "那妹子的衣服遮不住的胸，滿腦子都是不可告人的幻想 ~ 南澤海香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040607545545_thumbnail.webp",
-      "actress": [
-        "南澤海香",
-        "左慈半造"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-739"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-590"
     },
     {
       "id": 6332,
       "IDcode": "SONE-703",
-      "title": "白皙軟嫩H杯肉感身材的極致快感與抽搐高潮 ~ 南澤海香",
+      "title": "纯白柔软丰满的H罩杯身躯-南沢海香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065229791791_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/11/68c29169c6d1004ed4297a69/cover.jpg",
       "actress": [
         "南澤海香",
         "鲛岛",
@@ -133,54 +133,71 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-703"
     },
     {
-      "id": 7074,
-      "IDcode": "SONE-590",
-      "title": "這白嫩軟乎乎的H杯身材，不想狠狠搞她嗎？棉花糖純白美體，超享受特輯 ~ 南澤海香",
+      "id": 5552,
+      "IDcode": "SONE-739",
+      "title": "我无法停止幻想那个女孩穿着衣服的乳房-南沢海香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403091831605605.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040607545545_thumbnail.webp",
+      "actress": [
+        "南澤海香",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-739"
+    },
+    {
+      "id": 4731,
+      "IDcode": "SONE-780",
+      "title": "大學生妹子暗戀打工店長故意錯過末班車…酒店一夜纏綿甜蜜又揪心的禁忌純愛NTR ~ 南澤海香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab64e15f03a092cf718ee6/cover.jpg",
       "actress": [
         "南澤海香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-590"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-780"
     },
     {
-      "id": 7737,
-      "IDcode": "SONE-569",
-      "title": "快感爆棚！初體驗超爽三大場景 『脫衣驚豔』頂級大學生 棉花糖純白H罩杯性感開發特輯 ~ 南澤海香",
+      "id": 3019,
+      "IDcode": "SONE-782",
+      "title": "跳跃般重复高潮的肉感浸泡高潮性交-南泽海香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123027139139.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904021035487487_16780_thumbnail.webp",
       "actress": [
         "南澤海香",
-        "鲛岛"
+        "じゅうもんじ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-569"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-782"
     },
     {
-      "id": 8471,
-      "IDcode": "SONE-567",
-      "title": "超大型新人報到！十年一見的最高峯性感身材！可愛甜美笑顏的現役女子大生 NO.1 STYLE 首次亮相 AV DEBUT ~ 南澤海香",
+      "id": 2121,
+      "IDcode": "SONE-977",
+      "title": "我找到工作的泳装制造商是一个女员工穿着泳装的世界-南沢海香 小日向みゆう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/202502060743598686.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "南澤海香",
-        "タイ"
+        "小日向美優",
+        "南澤海香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-567"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-977"
     }
   ]
 };

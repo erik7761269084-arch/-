@@ -22,8 +22,43 @@ window.actressData = {
     "Shirasaki Yuzu"
   ],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 99150,
+      "IDcode": "BAZX-196",
+      "title": "制服待ち合わせデリヘル 素股中にヌルっと挿入 そのまま生中出し Vol.005",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-07-12",
+      "cover_url": "",
+      "actress": [
+        "渚光希",
+        "泉莉音",
+        "白咲柚子",
+        "茜麻衣子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-196"
+    },
+    {
+      "id": 99388,
+      "IDcode": "MILK-053",
+      "title": "おじさま大好き 中年チ○ポを凄テクで完全制圧 制服痴女 ゆずちゃん 白咲ゆず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "2019-05-02",
+      "cover_url": "",
+      "actress": [
+        "白咲柚子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-053"
+    },
     {
       "id": 83230,
       "IDcode": "XRW-802",
@@ -31,9 +66,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-27",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "百田胡桃",
@@ -50,9 +85,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "椎木くるみ",
@@ -69,10 +104,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2019-06-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/076a598585c67761395fa284f6604f38.jpg",
       "actress": [
         "绀野光",
         "小田切ありさ",
@@ -91,10 +126,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2019-04-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250320-1/9214bb90c6dc52c179874437be75d446.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/97d1b8e9cf09a82c71f7ab55b3e4359c.jpg",
       "actress": [
         "椿井惠美",
         "白咲柚子",

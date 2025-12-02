@@ -41,8 +41,126 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230404/0058751e-a73b-4ace-82a8-ba9b01982546.jpg",
     "https://picture.yoshiclub.xyz/20230404/d903bb83-2164-4354-a9b0-3e04c5832f8a.jpg"
   ],
-  "works_count": 12,
+  "works_count": 15,
   "related_dramas": [
+    {
+      "id": 73456,
+      "IDcode": "STARS-315",
+      "title": "10年ぶりに再会した幼馴染みに逆上暴走無理やり馬乗りプレス 永野いち夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d2ed5e9f8a8e95578d3db1cf4d84b006.jpg",
+      "actress": [
+        "永野一夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-315"
+    },
+    {
+      "id": 102194,
+      "IDcode": "CJOB-118",
+      "title": "キミだけを見つめて犯してアゲル 主観痴女プレイBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2022-08-23",
+      "cover_url": "",
+      "actress": [
+        "松本一香",
+        "渚光希",
+        "花音うらら",
+        "推川悠里",
+        "工藤拉拉",
+        "永瀬ゆい",
+        "吉良鈴",
+        "永野一夏",
+        "安倍亜沙美",
+        "白桃はな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-118"
+    },
+    {
+      "id": 102169,
+      "IDcode": "CJOB-117",
+      "title": "ド痴女お姉さんに狙われ身動き出来ずに何度もイカされるッ！性感帯同時責め逆レ×プBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2022-08-23",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241116-1/f0d1c46b278f4c318ef99e44cb6ede25.png",
+      "actress": [
+        "波多野结衣",
+        "松本一香",
+        "大槻响",
+        "沙月芽衣",
+        "佐伯由美香",
+        "永野一夏",
+        "安倍亜沙美",
+        "浜崎真绪",
+        "篠田优",
+        "椎叶みくる",
+        "REMI"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-117"
+    },
+    {
+      "id": 100076,
+      "IDcode": "STARS-205",
+      "title": "喜欢大肉棒的偶像美少女-永野いち夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-7/8d3281b52ffcfe4098cae83cb24f8568.jpg",
+      "actress": [
+        "永野一夏",
+        "森林原人",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-205"
+    },
+    {
+      "id": 99605,
+      "IDcode": "STARS-127",
+      "title": "身高149cm体重38kg的小萝莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "永野一夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-127"
+    },
+    {
+      "id": 99533,
+      "IDcode": "STARS-161",
+      "title": "学校一の美少女がなぜか僕にだけパンチラを見せて挑発してくる小悪魔誘惑セックス 永野いち夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67875e8f5d57b64bfde22d21/cover.jpg",
+      "actress": [
+        "永野一夏",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-161"
+    },
     {
       "id": 91330,
       "IDcode": "CJOB-141",
@@ -50,10 +168,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2023-11-28",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/1beb4cf406b870a7a6cc50f15fee35a2.jpg",
       "actress": [
         "波多野结衣",
         "松本一香",
@@ -70,16 +188,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-141"
     },
     {
+      "id": 82048,
+      "IDcode": "STARS-220",
+      "title": "单身一辈子的大学教授-永野いち夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/229a192d830e7a373aa9b3eee736c345.jpg",
+      "actress": [
+        "永野一夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-220"
+    },
+    {
       "id": 79984,
       "IDcode": "CJOD-320",
       "title": "放課後ラブホで生徒三人に痴女られ囲まれ、挟まれ、中出しさせられた担任教師の僕。 工藤ララ 花音うらら 永野いち夏 （ブルーレイディスク）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-11-23",
-      "cover_url": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/0b150202497bd4db24a46ad11085cd52.jpg",
       "actress": [
         "花音うらら",
         "工藤拉拉",
@@ -88,146 +222,47 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-320"
     },
     {
-      "id": 73456,
-      "IDcode": "STARS-315",
-      "title": "10年ぶりに再会した幼馴染みに逆上暴走無理やり馬乗りプレス 永野いち夏",
+      "id": 79005,
+      "IDcode": "STARS-174",
+      "title": "想要当偶像的永野一夏舌尖轻点唾液交换浓密舌吻性爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2021-01-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d59374c498f60d00290ed054628dc0aa.jpg",
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-315"
-    },
-    {
-      "id": 69972,
-      "IDcode": "STARS-287",
-      "title": "媚薬×華奢なカラダ×激ピストン 頭がおかしくなるほどイカされてお漏らし噴射！キメセク大絶頂！！ 永野いち夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-11-12",
-      "cover_url": "",
-      "actress": [
-        "永野一夏",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-287"
-    },
-    {
-      "id": 1609,
-      "IDcode": "STARS-232",
-      "title": "永野一夏 夢想女友的回憶 想成為AV女優的她找我練習作愛的冬日記憶。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2020-04-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20230404/a7ee14d5-a287-462c-8284-d982c9e10165.jpg",
-      "actress": [
-        "永野一夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-232"
-    },
-    {
-      "id": 82048,
-      "IDcode": "STARS-220",
-      "title": "幼顔の文学系美少女が30歳以上も年の離れた中年教授をねっとりやさしく痴女る 永野いち夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-03-26",
-      "cover_url": "",
-      "actress": [
-        "永野一夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-220"
-    },
-    {
-      "id": 100076,
-      "IDcode": "STARS-205",
-      "title": "小柄な元アイドル美少女がデカチンでイキ狂う！ 限界イカセ 何回イっても止まらない巨根超絶激ピストン 永野いち夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-02-20",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1stars205/1stars205pl.jpg",
-      "actress": [
-        "永野一夏",
-        "森林原人",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-205"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-174"
     },
     {
       "id": 76669,
       "IDcode": "STARS-190",
-      "title": "敏感微乳乳首の幼気な美少女は変態性欲者の兄の性処理玩具として毎日犯●れている 永野いち夏",
+      "title": "幼気美少女-永野いち夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-01-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/50b9dad82e59a7083ce1234d70326a79.jpg",
       "actress": [
         "永野一夏"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-190"
     },
     {
-      "id": 1681,
-      "IDcode": "STARS-145",
-      "title": "一夏、覺醒。汁液滿溢 流汗舔拭體液黏糊！濃密交絡濃度200％淫蕩性交 永野一夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2019-10-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20230404/d35b9dc9-71fb-4931-ab2f-c9a99bf5066c.jpg",
-      "actress": [
-        "永野一夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-145"
-    },
-    {
-      "id": 99605,
-      "IDcode": "STARS-127",
-      "title": "永野いち夏 AV debut 2nd 性・欲・解・放 最大身長差40cm以上最大体重差60kg以上 大男たちのデカチン相手に朝から晩まで8時間 ず～っとガリバーセックス！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-09-26",
-      "cover_url": "",
-      "actress": [
-        "永野一夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-127"
-    },
-    {
       "id": 74413,
       "IDcode": "STARS-087",
-      "title": "STARS-087",
+      "title": "永野いち夏 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-06-20",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "永野一夏",
@@ -236,20 +271,53 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-087"
     },
     {
-      "id": 79005,
-      "IDcode": "STARS-174",
-      "title": "- アイドルがねっとりと舌と舌、唾液まで絡ませる濃密接吻！脳がとろけるほどの濃厚キスでお互いを求め合うベロチュウ性交 永野いち夏 - JAV目錄大全javmenu.com",
+      "id": 69972,
+      "IDcode": "STARS-287",
+      "title": "媚薬噴射-永野いち夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/5335338236f7b50fb3996ca96023c891.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b48d8867379d4bc89f7086f10587299.jpg",
+      "actress": [
+        "永野一夏",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-287"
+    },
+    {
+      "id": 1681,
+      "IDcode": "STARS-145",
+      "title": "淫秽性交-永野いち夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d062c09d4b99f244def5f7facd578453.jpg",
       "actress": [
         "永野一夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-174"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-145"
+    },
+    {
+      "id": 1609,
+      "IDcode": "STARS-232",
+      "title": "梦中女友的回忆-永野いち夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d806543a404cee27518e7423fa723056.jpg",
+      "actress": [
+        "永野一夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-232"
     }
   ]
 };

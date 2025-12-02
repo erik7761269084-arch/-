@@ -38,10 +38,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2019-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230714/2023071404053699.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6786791330833b4bf5c306d0/cover.jpg",
       "actress": [
         "成宮ひかる",
         "鲛岛",

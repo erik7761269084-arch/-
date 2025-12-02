@@ -24,18 +24,34 @@ window.actressData = {
     "Ryoka"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 71117,
-      "IDcode": "NTR-021",
-      "title": "快來輪姦我老婆 森川涼花",
+      "id": 98159,
+      "IDcode": "CLO-008",
+      "title": "中年オヤジと制服美少女 すずか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-06-24",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-11-15",
+      "cover_url": "",
+      "actress": [
+        "森川凉花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-008"
+    },
+    {
+      "id": 71117,
+      "IDcode": "NTR-021",
+      "title": "劲爆禁忌夫妻NTR篇",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "森川凉花",

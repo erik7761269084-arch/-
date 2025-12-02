@@ -4,7 +4,7 @@ window.actressData = {
   "name": "宮下昌代",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91965,
       "IDcode": "JURA-092",
-      "title": "初撮り五十路妻、ふたたび。 宮下昌代",
+      "title": "初次拍摄五十岁人妻-宫下昌代",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240621-1/7d410855496b146192160c739441111a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "宮下昌代"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 91099,
       "IDcode": "JRZE-150",
-      "title": "初撮り五十路妻ドキュメント 宮下昌代",
+      "title": "初次拍摄五十岁-宫下昌代",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2023-06-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240318-1/34328ec52e9a804f8c9afaebf748e93b.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/4182bc1ea6906d4b1e2506ed5a8a5d44.jpg",
       "actress": [
         "宮下昌代"
       ],

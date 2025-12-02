@@ -4,7 +4,7 @@ window.actressData = {
   "name": "黑咲滴",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,72 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
+    {
+      "id": 76372,
+      "IDcode": "MIAA-192",
+      "title": "黑咲滴到素人男粉丝家里送福利今天允许无套内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2024-11-22",
+      "cover_url": "",
+      "actress": [
+        "黑咲滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-192"
+    },
+    {
+      "id": 103181,
+      "IDcode": "HND-721",
+      "title": "新人美少女ギャルと初中出し！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "黑咲滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-721"
+    },
+    {
+      "id": 102921,
+      "IDcode": "BLK-419",
+      "title": "大嫌いなオヤジ相手なのに大量潮吹き！絶対にイクって認めない！クソ生意気おま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "黑咲滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-419"
+    },
+    {
+      "id": 78204,
+      "IDcode": "REAL-713",
+      "title": "从里辣到外的刺青美女-黒咲しずく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e48b9326c550cbba625f3ccfefa94348.jpg",
+      "actress": [
+        "黑咲滴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-713"
+    },
     {
       "id": 76473,
       "IDcode": "KTKL-069",
@@ -25,10 +89,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-01",
-      "cover_url": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/9f3f8f1f1b87069edc470e36af0bb406.jpg",
       "actress": [
         "七海雛",
         "黑咲滴"
@@ -42,46 +106,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MARRION",
-      "publish_date": "2020-01-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/d123ee5ab3222679fdaa10b6f385c462.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/49dd1d300b447adfaae597bc6fae5bb2.jpg",
       "actress": [
         "黑咲滴"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-039"
-    },
-    {
-      "id": 78204,
-      "IDcode": "REAL-713",
-      "title": "刺青の女 黒咲しずく 般若オーガズムSEX",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
-      "actress": [
-        "黑咲滴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-713"
-    },
-    {
-      "id": 76372,
-      "IDcode": "MIAA-192",
-      "title": "気弱な素人男性宅に何発でも中出しOKの訳アリ刺青人妻を派遣します 黒咲しずく",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2019-12-01",
-      "cover_url": "",
-      "actress": [
-        "黑咲滴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-192"
     },
     {
       "id": 72705,
@@ -90,9 +122,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2019-11-27",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "黑咲滴"

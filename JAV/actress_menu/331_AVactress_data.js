@@ -49,173 +49,214 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240607/84b2769f-43a6-493d-a208-d5b3930c6c0c.jpg",
     "https://picture.yoshiclub.xyz/20240607/6eb7e5d2-2f9b-4a87-b1b7-7a2aa82a1ba6.jpg"
   ],
-  "works_count": 13,
+  "works_count": 23,
   "related_dramas": [
     {
-      "id": 2892,
-      "IDcode": "SONE-891",
-      "title": "外表不起眼脫了卻這麼勁爆咋整？運動系隱巨乳女大學生性欲爆棚 ~ 田野憂",
+      "id": 5915,
+      "IDcode": "SONE-564",
+      "title": "被世界顶级美女环绕-未歩なな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020837153153_77798_thumbnail.webp",
-      "actress": [
-        "田野憂"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-891"
-    },
-    {
-      "id": 3752,
-      "IDcode": "SONE-840",
-      "title": "田野憂感謝祭 L罩杯極品身材送到家 16發大爆射爽翻天特輯 ~ 田野憂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030009903903_64515_thumbnail.webp",
-      "actress": [
-        "田野憂"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-840"
-    },
-    {
-      "id": 4318,
-      "IDcode": "SONE-566",
-      "title": "S1二十週年紀念 最強聯手神作 1對18 新人助理導演被頂級性感女優偷偷挑逗 陷入職場桃色誘惑 ~ 田野憂 五條戀 未步奈奈 白上咲花 神樂桃果 楓富愛 明日葉三葉 村上悠華 淺野心 渚愛梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
+      "publish_date": "2025-06-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/202505220753447272_thumbnail.webp",
       "actress": [
         "未步奈奈",
         "村上悠華",
-        "明日葉三葉",
-        "楓富愛",
-        "淺野心",
         "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
         "田野憂",
         "渚愛梨",
         "白上咲花",
         "神樂桃果",
-        "乃坂日和",
-        "安倍亜沙美"
+        "乃坂日和"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-564"
     },
     {
-      "id": 4757,
-      "IDcode": "SONE-786",
-      "title": "每天都被癡漢偷瞄的巨乳女生再次被亂摸一通後竟然覺醒了想要被大幹特幹的欲望 ~ 田野憂",
+      "id": 12228,
+      "IDcode": "SONE-374",
+      "title": "敏感蓬鬆的L罩杯乳房天國 3時間 ~ 田野優",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703035954763763_thumbnail.webp",
+      "publish_date": "2024-09-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906010117983983.jpg",
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-786"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-374"
     },
     {
-      "id": 6333,
-      "IDcode": "SONE-713",
-      "title": "女友的妹妹對我一見鍾情！L杯大奶無 bra 誘惑，貼身勾引讓我受不了啦 ~ 田野憂",
+      "id": 12839,
+      "IDcode": "SONE-324",
+      "title": "155次強烈高潮！4202回抽搐！高潮2900cc！ 令人震驚的L罩杯女孩的性欲覺醒 ~ 田野憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064828431431_thumbnail.webp",
+      "publish_date": "2024-08-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234258339339.jpg",
+      "actress": [
+        "田野憂",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-324"
+    },
+    {
+      "id": 13597,
+      "IDcode": "SONE-222",
+      "title": "L罩杯新人AV初體驗3本番 ~ 田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2024-07-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705002519114114.jpg",
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-713"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-222"
     },
     {
-      "id": 6602,
-      "IDcode": "OFJE-505",
-      "title": "乳貼玻璃 頂級S1女優45人 過去5年極致癖好片合集67部High爆 ~ 三上悠亜 田野憂 凪光 羽笑美晴 潮美舞 小島南 はなみやあむ 乃木蛍 吉高寧寧",
+      "id": 14169,
+      "IDcode": "SONE-221",
+      "title": "天然巨乳新人NO.1STYLE-田野憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250425/20250425035516345345_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a0d8d8cf22ae3e04a02477/cover.jpg",
       "actress": [
-        "宮城理惠",
-        "望月蕾",
-        "吉高寧寧",
-        "小島南",
-        "架乃由羅",
-        "三上悠亜",
+        "田野憂",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-221"
+    },
+    {
+      "id": 11503,
+      "IDcode": "SONE-419",
+      "title": "田野憂がLカップであなたのオナニーお手伝いします。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/63d7c0e73f884777f7cd947ad453ef47.jpg",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-419"
+    },
+    {
+      "id": 10748,
+      "IDcode": "SONE-517",
+      "title": "南国メンズスパのビキニでマッサージしてくれるLcupセラピスト 田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/ab91592f/vod.jpg",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-517"
+    },
+    {
+      "id": 10140,
+      "IDcode": "SONE-470",
+      "title": "男を虜にする無意識のたわわな誘惑 隠しきれないフワとろ着衣Lカップ 田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205080923274274.jpg",
+      "actress": [
+        "田野憂",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-470"
+    },
+    {
+      "id": 10117,
+      "IDcode": "SONE-560",
+      "title": "S1 PRECIOUS GIRLS 2024 - 史上從來未有過的最大規模亂交！24場全明星大集合大亂交超絕亂舞 Special特輯 ~ 河北彩花 金鬆季步 本鄉愛 Miru 楓花戀 等24位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e04c6379f1ac4ec48c195b/cover.jpg",
+      "actress": [
+        "奥田咲",
+        "Miru",
+        "河北彩花",
+        "未步奈奈",
         "小日向美優",
-        "羽笑美晴",
+        "七森莉莉",
+        "三田真鈴",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "本郷愛",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
         "田野憂",
-        "凪光",
-        "乃木蛍",
-        "安倍亜沙美",
-        "有栖花绯",
-        "乙白さやか",
-        "潮美舞"
+        "渚愛梨",
+        "川越仁子",
+        "金松季歩",
+        "白上咲花",
+        "神樂桃果",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-560"
     },
     {
-      "id": 7718,
-      "IDcode": "SONE-631",
-      "title": "出差時被迫跟超討厭的色鬼上司相部屋『通宵狂幹到高潮迭起，竟墮落到迷上猥瑣大叔的猛衝』L罩杯新人社員 ~ 田野憂",
+      "id": 9225,
+      "IDcode": "SONE-536",
+      "title": "对着学生LCUP忘我吐精的班主任-田野忧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122751443443.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b1ba30833b4bf500721e/cover.jpg",
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-631"
-    },
-    {
-      "id": 8432,
-      "IDcode": "SONE-585",
-      "title": "你想被夾在我的乳房中嗎？日本最柔軟的爆巨乳把你的雞巴牢牢裹住 ~ 田野優",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075019255255.jpg",
-      "actress": [
-        "田野憂",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-585"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-536"
     },
     {
       "id": 8873,
       "IDcode": "SONE-565",
-      "title": "【巨作警告】S1 20周年 AV界史上最強作 世界上最好的一流女優的極上奉仕 超S1級風俗店 ~ 河北彩花 本鄉愛 金鬆季步 楓福愛 田野優等16位最美女優",
+      "title": "在AV业界史上留名的最强组合作品",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072259469469.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6f1d6dbf24d4ed3076241/cover.jpg",
       "actress": [
         "奥田咲",
         "Miru",
@@ -238,71 +279,230 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
-      "id": 9225,
-      "IDcode": "SONE-536",
-      "title": "我學生的胸部又大又軟，讓我無法抗拒。班主任沉浸在學生的L罩杯大奶子裏，一次又一次地射精在學生身上 ~ 田野憂",
+      "id": 8432,
+      "IDcode": "SONE-585",
+      "title": "你想被这对奶子乳交吗-田野憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074136763763.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8b3eecf22ae3e04db5124/cover.jpg",
+      "actress": [
+        "田野憂",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-585"
+    },
+    {
+      "id": 7718,
+      "IDcode": "SONE-631",
+      "title": "出差时与讨厌的性骚扰上司同住一室-田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f5070ccf22ae3e04efe659/cover.jpg",
       "actress": [
         "田野憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-631"
     },
     {
-      "id": 10140,
-      "IDcode": "SONE-470",
-      "title": "迷倒男人的無意識誘惑，蓬鬆衣服都藏不住的L罩杯爆乳 ~ 田野優",
+      "id": 7072,
+      "IDcode": "SONE-675",
+      "title": "禁欲乳房性发育-田野憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205080923274274.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092005574574.jpg",
       "actress": [
-        "田野憂",
-        "鲛岛"
+        "田野憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-470"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-675"
     },
     {
-      "id": 12839,
-      "IDcode": "SONE-324",
-      "title": "155次強烈高潮！4202回抽搐！高潮2900cc！ 令人震驚的L罩杯女孩的性欲覺醒 ~ 田野憂",
+      "id": 7031,
+      "IDcode": "SONE-561",
+      "title": "S1二十周年纪念AV业界史上最强合作",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-08-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234258339339.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092036150150.jpg",
       "actress": [
+        "河北彩花",
+        "小日向美優",
+        "本郷愛",
+        "五条恋",
+        "兒玉七海",
         "田野憂",
-        "小田切ジュン"
+        "金松季歩",
+        "神樂桃果",
+        "榊原萌"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-324"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-561"
     },
     {
-      "id": 14169,
-      "IDcode": "SONE-221",
-      "title": "新人出道 田野憂 L罩杯超級大奶子，苗條美少女，男人喜歡的一切都有",
+      "id": 6602,
+      "IDcode": "OFJE-505",
+      "title": "乳ワイパー トップS1女優45名、過去5年分から探り当てた究極フェチ映像集67作品ラッシュ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-06-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20240607/202406070059144848.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250425/20250425035516345345_thumbnail.webp",
       "actress": [
+        "宮城理惠",
+        "望月蕾",
+        "吉高寧寧",
+        "小島南",
+        "架乃由羅",
+        "三上悠亜",
+        "小日向美優",
+        "羽笑美晴",
         "田野憂",
-        "小田切ジュン"
+        "凪光",
+        "乃木蛍",
+        "安倍亜沙美",
+        "有栖花绯",
+        "乙白さやか",
+        "潮美舞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-221"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
+    },
+    {
+      "id": 6333,
+      "IDcode": "SONE-713",
+      "title": "她妹妹对我一见钟情-田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508064828431431_thumbnail.webp",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-713"
+    },
+    {
+      "id": 5546,
+      "IDcode": "SONE-751",
+      "title": "Lカップで顔も超可愛い 雲の上の最高ビジュ女子学生！と見せかけて隙だらけなドジっ子がおっぱい大き過ぎて何度もポロリ 田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035030977977_thumbnail.webp",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-751"
+    },
+    {
+      "id": 4757,
+      "IDcode": "SONE-786",
+      "title": "毎朝見かける胸がデッカい女子●生を我慢できずにメチャクチャ痴●してやったら...まさかの性に目覚めてオッパイ揉まれたい体に。 田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e7d6898bc99dfdd033230/cover.jpg",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-786"
+    },
+    {
+      "id": 4318,
+      "IDcode": "SONE-566",
+      "title": "新人助理导演-楓ふうあ 未歩なな 明日葉みつは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
+      "actress": [
+        "未步奈奈",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "五条恋",
+        "田野憂",
+        "渚愛梨",
+        "白上咲花",
+        "神樂桃果",
+        "乃坂日和",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-566"
+    },
+    {
+      "id": 3752,
+      "IDcode": "SONE-840",
+      "title": "田野憂ファン感謝祭 全国各地のユーザー様の元へLカップをお届けします！ 究極女体使い放題で計16発おっぱいで大射精スペシャル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030009903903_64515_thumbnail.webp",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-840"
+    },
+    {
+      "id": 2892,
+      "IDcode": "SONE-891",
+      "title": "見た目は地味だが脱いでコレだったらどうする…？部活しかしてこなかった性欲強い隠れ巨乳女子大生 田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020837153153_77798_thumbnail.webp",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-891"
+    },
+    {
+      "id": 2088,
+      "IDcode": "SONE-929",
+      "title": "Lカップ少女と乳好き男24人 大量の発情オスがおっぱいに群がる揉みくちゃ乱交パーティー 田野憂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "田野憂"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-929"
     }
   ]
 };

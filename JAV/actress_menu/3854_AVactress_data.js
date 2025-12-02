@@ -22,105 +22,187 @@ window.actressData = {
     "Ito Chinami"
   ],
   "gallery": [],
-  "works_count": 6,
+  "works_count": 11,
   "related_dramas": [
-    {
-      "id": 68862,
-      "IDcode": "MIDE-585",
-      "title": "身穿窄裙全力誘惑女上司 伊東千奈美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2018-10-13",
-      "cover_url": "",
-      "actress": [
-        "玉木玲",
-        "伊东千奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-585"
-    },
-    {
-      "id": 73324,
-      "IDcode": "MIDE-460",
-      "title": "毎日抜く方法を変えて僕を痴女る小悪魔お姉ちゃん 伊東ちなみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2017-09-01",
-      "cover_url": "https://tutu1.space/images/2025/01/27/ed158f3d62ad40de3a088f92d76467e5.jpg",
-      "actress": [
-        "伊东千奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-460"
-    },
     {
       "id": 106987,
       "IDcode": "MIDE-443",
-      "title": "肉棒挑逗練習！誘惑新人女教師 伊東千奈美",
+      "title": "誘惑新任女教師-伊東ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2017-06-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2019/11/27/QQ20191128105718.jpg",
       "actress": [
         "伊东千奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-443"
     },
     {
-      "id": 95905,
-      "IDcode": "MIDE-362",
-      "title": "妹妹狂露春光誘惑我 伊東千奈美",
+      "id": 105525,
+      "IDcode": "MIDE-291",
+      "title": "随时随地即时性交女佣-伊東ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2016-10-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678281f689def9b1b8e47a10/cover.jpg",
+      "actress": [
+        "大岛丈",
+        "伊东千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-291"
+    },
+    {
+      "id": 105524,
+      "IDcode": "MIDE-555",
+      "title": "伊东千奈美的高级风俗店服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240406-1/8c02a66df58bacaf757a4e36b3616bab.jpg",
       "actress": [
         "伊东千奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-555"
+    },
+    {
+      "id": 105515,
+      "IDcode": "MIDE-572",
+      "title": "专注搾取精液肉棒专用护士伊东千奈美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240404-1/8121e13eb6b089749ce7f951ce6eda13.jpg",
+      "actress": [
+        "鲛岛",
+        "イセドン内村",
+        "伊东千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-572"
+    },
+    {
+      "id": 105367,
+      "IDcode": "MIDE-566",
+      "title": "小恶魔女子经理伊东千奈美射精管理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240415-1/e14f3c9666569c6093991def71aacc65.jpg",
+      "actress": [
+        "伊东千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-566"
     },
     {
       "id": 95906,
       "IDcode": "MIDE-350",
-      "title": "1天射10次也不罷休高潮幹砲 伊東千奈美",
+      "title": "1日10回射精-伊東ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2016-08-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241001-1/520304a7cb2804f01cddcd05c85e3fc0.jpg",
       "actress": [
         "伊东千奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-350"
     },
     {
-      "id": 105525,
-      "IDcode": "MIDE-291",
-      "title": "隨插即幹淫女僕 伊東千奈美",
+      "id": 95905,
+      "IDcode": "MIDE-362",
+      "title": "全力誘惑-伊東ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2015-12-13",
-      "cover_url": "https://tutu1.space/images/2024/04/02/c2ffab13195b76dfc818e0f90af856d5.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241001-1/cd64c90488ada33da186656e61c1af86.jpg",
       "actress": [
-        "大岛丈",
         "伊东千奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-362"
+    },
+    {
+      "id": 78033,
+      "IDcode": "MIDE-579",
+      "title": "男朋友被姐姐伊东千奈美勾引出轨了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "伊东千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-579"
+    },
+    {
+      "id": 74711,
+      "IDcode": "MIDE-516",
+      "title": "被文学部女前辈侵犯-伊東ちなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1923549c91c9b67740616c5fd3c51343.jpg",
+      "actress": [
+        "伊东千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-516"
+    },
+    {
+      "id": 73324,
+      "IDcode": "MIDE-460",
+      "title": "小恶魔姐姐把我的肉棒当成性玩具",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b916650a38b424cebb57eb5d0d2bb8d3.jpg",
+      "actress": [
+        "伊东千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-460"
+    },
+    {
+      "id": 68862,
+      "IDcode": "MIDE-585",
+      "title": "穿紧身裙全力诱惑我的女上司-伊東ちなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250325-1/896a85fc7af2446249cf0bf76e891fa7.jpg",
+      "actress": [
+        "玉木玲",
+        "伊东千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-585"
     }
   ]
 };

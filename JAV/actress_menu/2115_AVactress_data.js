@@ -31,8 +31,43 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250706/967520c3-c6db-4415-8cd1-c65dcf10a581_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 4665,
+      "IDcode": "MUCH-192",
+      "title": "巨乳媽媽的豐滿肉感性愛精選2 4小時合集 ~ 福本芽衣 小西美香 鬼塚萌奈美 優木衣織",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706100455119119_44844_thumbnail.webp",
+      "actress": [
+        "鬼塚萌奈美",
+        "優木衣織",
+        "福本芽衣",
+        "小西美香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-192"
+    },
+    {
+      "id": 83764,
+      "IDcode": "MUCH-085",
+      "title": "爆乳ムッチリ若妻 福本芽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2020-01-14",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/bdb30f3bfa3257ea928328462d1996c2.jpg",
+      "actress": [
+        "福本芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-085"
+    },
     {
       "id": 93206,
       "IDcode": "MUCH-178",
@@ -40,10 +75,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-05-14",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/a808d81b0c307366ca0e2f0640406ca0.jpg",
       "actress": [
         "福本芽衣",
         "野春あゆ",
@@ -54,32 +89,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-178"
     },
     {
-      "id": 83764,
-      "IDcode": "MUCH-085",
-      "title": "爆乳ムッチリ若妻 福本芽衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-01-14",
-      "cover_url": "",
-      "actress": [
-        "福本芽衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCH-085"
-    },
-    {
       "id": 83089,
       "IDcode": "CHRV-098",
       "title": "初体験で公園デビュー ウブで大胆なぽっちゃり先生の爆乳は一見にしかず！登場した男優は教頭と教え子Lカップ124cm担任めい先生 連続中出しデビュー！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cedd152ee991dd940b8fa54db1b7f1ae.jpg",
       "actress": [
         "福本芽衣"
       ],

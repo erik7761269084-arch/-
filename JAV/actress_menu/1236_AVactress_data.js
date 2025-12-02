@@ -35,19 +35,67 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241104/6e91a238-e79a-44bb-8b9c-f1370d024164.jpg",
     "https://picture.yoshiclub.xyz/20241104/24b4f28e-1983-4133-8d5b-090b68338c33.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 8340,
-      "IDcode": "GNS-113",
-      "title": "緊急拘捕！不要拍照！ ！廢墟中回蕩着女性的悲鳴 被強奸的女人 x 20名",
+      "id": 10874,
+      "IDcode": "ID-046",
+      "title": "心愛的援交妹 ~ 來了個不太像人妻性格很好的年輕若妻！似乎不管我怎麼做都沒關系，嘗試用中出和束縛玩具對她做各種事情 ~ 美音夢",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-11-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20241104/03c7dc8d-97a5-4320-9e76-43b0e6bd74e8.jpg",
+      "actress": [
+        "美音夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ID-046"
+    },
+    {
+      "id": 8341,
+      "IDcode": "GNS-114",
+      "title": "尊嚴侵害，無恥性侵犯！被討厭的上司以出差的名義在溫泉旅館裏寢取",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "GooNiES",
-      "publish_date": "2025-02-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa34879550e292a785c867/cover.jpg",
+      "actress": [
+        "千石もなか",
+        "天美めあ",
+        "木野野葉惠里香",
+        "真白みのり",
+        "祈山愛",
+        "涼花くるみ",
+        "皇柚子",
+        "上野真奈美",
+        "楽園ミナ",
+        "七瀨華蓮",
+        "天海一華",
+        "東城ゆい",
+        "永瀬愛菜",
+        "美音夢",
+        "堀麻美子",
+        "汐見唯",
+        "加賀美真里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-114"
+    },
+    {
+      "id": 8340,
+      "IDcode": "GNS-113",
+      "title": "【緊急逮×！】「撮らないで！！」廃墟に響き渡る女性の悲鳴 女たちのヤリすて廃棄場強× 20名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GooNiES",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/d382b06a4ba683ca1c390f593ad31314.jpg",
       "actress": [
         "千石もなか",
         "天美めあ",
@@ -68,6 +116,31 @@ window.actressData = {
         "加賀美真里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
+    },
+    {
+      "id": 2588,
+      "IDcode": "HUNTC-435",
+      "title": "この学校だけの伝統行事！それは童貞処女卒業式！生徒はSEX未経験のまま進学、就職できません！さらに性教育の一環として経験者にも先生がSEXを指導！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43174dbf24d4ed3011442/cover.jpg",
+      "actress": [
+        "绫濑心",
+        "泉莉音",
+        "東雲梓",
+        "涼花くるみ",
+        "小森舞",
+        "櫻木繪里香",
+        "道久天",
+        "朝海凪咲",
+        "美音夢",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-435"
     }
   ]
 };

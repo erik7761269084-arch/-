@@ -36,8 +36,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240131/4e513597-8c59-41ba-b876-d74012bf3595.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 16186,
+      "IDcode": "SPLY-013",
+      "title": "I罩杯巨乳AV女優在酒吧不戴胸罩勾引上班族！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240220/202402200113378888.jpg",
+      "actress": [
+        "夢見るぅ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPLY-013"
+    },
     {
       "id": 16520,
       "IDcode": "SUWK-009",
@@ -45,7 +61,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-02-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240131/6d1d1a47-9062-4599-889e-ede763615378.jpg",

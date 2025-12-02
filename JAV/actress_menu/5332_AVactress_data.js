@@ -4,7 +4,7 @@ window.actressData = {
   "name": "黒木かえで",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 85441,
       "IDcode": "MIDV-027",
-      "title": "出張先の温泉接待でムリやり相部屋濃厚オヤジ達に朝までイカされ続けた私 琴音華",
+      "title": "温泉接待-琴音華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2022-01-04",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-12/769e46b6ed7c0ab4dbfd290ede6b9226.jpg",
       "actress": [
         "田渊正浩",
         "黒木かえで"

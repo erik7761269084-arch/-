@@ -50,10 +50,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-11-09",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231222/2UmzAX7P/1.jpg",
       "actress": [
         "森咲はるの",
         "藤原瞳",
@@ -64,13 +64,13 @@ window.actressData = {
     {
       "id": 1707,
       "IDcode": "CWPBD-26",
-      "title": "走秀毒藥 06：第一部（高清）",
+      "title": "猫步毒药-藤原瞳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2015-07-08",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230120/20230120110954937937.jpg",
       "actress": [
         "藤原瞳"

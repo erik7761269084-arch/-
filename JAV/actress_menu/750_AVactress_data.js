@@ -42,105 +42,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240330/140b7a51-a21c-4d1c-a243-1a6540a182ff.jpg",
     "https://picture.yoshiclub.xyz/20240330/6337ae48-e35c-457d-b802-1abfbe62dd4a.jpg"
   ],
-  "works_count": 9,
+  "works_count": 14,
   "related_dramas": [
-    {
-      "id": 2217,
-      "IDcode": "JUFE-598",
-      "title": "變態大叔的扭曲愛戀 爆乳狂熱痴迷黏糊糊的私拍記錄 ~ 西條琉璃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-10-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021517369369_18177_thumbnail.webp",
-      "actress": [
-        "西條琉璃",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-598"
-    },
-    {
-      "id": 6672,
-      "IDcode": "CJOB-172",
-      "title": "輪番搶棒的痴女大亂鬥，榨乾我的每一滴精華BEST ~ 松本いちか 月乃ルナ 美園和花 夕美しおん 西條るり 佐知子 吉根ゆりあ 藤森里穂 北野未奈 倉本すみれ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417093442966966_thumbnail.webp",
-      "actress": [
-        "美園和花",
-        "倉本菫",
-        "松本一香",
-        "北野未奈",
-        "吉根柚莉爱",
-        "姫咲華",
-        "藤森里穂",
-        "夕美紫苑",
-        "月乃露娜",
-        "真木今日子",
-        "本真友里",
-        "塚田詩織",
-        "西條琉璃",
-        "佐知子",
-        "安倍亜沙美",
-        "椎叶みくる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-172"
-    },
-    {
-      "id": 8621,
-      "IDcode": "JUFE-571",
-      "title": "傳說中的MCUP女優限定復活！美人妻黏黏的甜蜜溼吻性愛。城裏的高級人妻嬸嬸勾引來自農村的我 ~ 西條瑠璃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080700410410.jpg",
-      "actress": [
-        "西條琉璃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-571"
-    },
-    {
-      "id": 9455,
-      "IDcode": "ADN-651",
-      "title": "瞞着朋友，和他的母親多次發生並保持肉體關系 ~ 西條琉璃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102080801131131.jpg",
-      "actress": [
-        "西條琉璃",
-        "日森一"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-651"
-    },
-    {
-      "id": 15806,
-      "IDcode": "MIAB-114",
-      "title": "M罩杯乳神西條琉璃，大高潮中出派對",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-04-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240329/20240329075628616616.jpg",
-      "actress": [
-        "西條琉璃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-114"
-    },
     {
       "id": 85607,
       "IDcode": "MTALL-032",
@@ -148,7 +51,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MATERIALL",
       "publish_date": "2022-07-21",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230127-1/ad33c572a83f189d8b0a0f6c26ea8a7c.jpg",
@@ -173,8 +76,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-06",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221227-1/b04d4dc0bbda9ffd6328250d49a70bff.jpg",
       "actress": [
@@ -183,32 +86,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-019"
     },
     {
-      "id": 105907,
-      "IDcode": "NITR-056",
-      "title": "魔屁孩獵巨乳妻 2 西條瑠璃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-04-04",
-      "cover_url": "https://tutu1.space/images/2024/02/29/d2c084a8a0dd0c406f4c5ce5f1bccf1e.jpg",
-      "actress": [
-        "西條琉璃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-056"
-    },
-    {
       "id": 106159,
       "IDcode": "SOE-681",
-      "title": "秘密捜査官の女たち 特別編 仕組まれた偽りのミッション 桜ここみ 西條るり 沖田杏梨",
+      "title": "秘密捜査官特別編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2011-12-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4c525724b170ad68be0da9b025f9dc2c.jpg",
       "actress": [
         "西條琉璃",
         "沖田杏梨",
@@ -217,6 +104,205 @@ window.actressData = {
         "桜ここみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-681"
+    },
+    {
+      "id": 105907,
+      "IDcode": "NITR-056",
+      "title": "魔少年们的巨乳人妻狩猎-西条琉璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西條琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NITR-056"
+    },
+    {
+      "id": 96268,
+      "IDcode": "VAGU-057",
+      "title": "和琉璃妈妈一起的生活-西條るり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西條琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-057"
+    },
+    {
+      "id": 95751,
+      "IDcode": "SOE-646",
+      "title": "超级爆乳肉体大乱交-冲田杏梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "西條琉璃",
+        "沖田杏梨",
+        "森林原人",
+        "大岛丈",
+        "桜ここみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-646"
+    },
+    {
+      "id": 15806,
+      "IDcode": "MIAB-114",
+      "title": "神乳超級身材-西條琉璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240502-1/45be82a41e2dbf87d27d048854a8ac74.jpg",
+      "actress": [
+        "西條琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-114"
+    },
+    {
+      "id": 15033,
+      "IDcode": "WAAA-358",
+      "title": "如果您能抵抗西條るり的驚人技術，您將擁有中出性愛！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68bf881e735bb663f77519f9/cover.jpg",
+      "actress": [
+        "西條琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-358"
+    },
+    {
+      "id": 9455,
+      "IDcode": "ADN-651",
+      "title": "趁着朋友不注意，我和他巨乳妈妈偷偷来了好几次 西条瑠璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102080801131131.jpg",
+      "actress": [
+        "西條琉璃",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-651"
+    },
+    {
+      "id": 8621,
+      "IDcode": "JUFE-571",
+      "title": "伝説のMCUP限定復活！美しい人妻のねっとり甘い接吻と高級ランジェリーSEX 田舎育ちの僕を誘惑する都会暮らしの叔父の妻 西條るり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080700410410.jpg",
+      "actress": [
+        "西條琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-571"
+    },
+    {
+      "id": 7847,
+      "IDcode": "ADN-654",
+      "title": "跳蛋製造商的敏銳女社長被迫當內衣模特兒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/06/67c97da74e7d663df4d516f4/cover.jpg",
+      "actress": [
+        "西條琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-654"
+    },
+    {
+      "id": 6672,
+      "IDcode": "CJOB-172",
+      "title": "交互にチ○ポ奪い合う痴女の射精ローテーションで何度もイカされまくった僕BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417093442966966_thumbnail.webp",
+      "actress": [
+        "美園和花",
+        "倉本菫",
+        "松本一香",
+        "北野未奈",
+        "吉根柚莉爱",
+        "姫咲華",
+        "藤森里穂",
+        "夕美紫苑",
+        "月乃露娜",
+        "真木今日子",
+        "本真友里",
+        "塚田詩織",
+        "西條琉璃",
+        "佐知子",
+        "安倍亜沙美",
+        "椎叶みくる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-172"
+    },
+    {
+      "id": 2432,
+      "IDcode": "HODV-22006",
+      "title": "【絶対バラさないでください】僕の不倫相手を紹介します。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "枢木葵",
+        "西條琉璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-22006"
+    },
+    {
+      "id": 2217,
+      "IDcode": "JUFE-598",
+      "title": "変態オヤジの異常な愛情 爆乳を執拗にしゃぶり喰らう粘着ハメ撮り記録 西條るり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002021517369369_18177_thumbnail.webp",
+      "actress": [
+        "西條琉璃",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-598"
     }
   ]
 };

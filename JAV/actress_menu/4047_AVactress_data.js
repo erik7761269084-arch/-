@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ゆみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,19 +20,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 70597,
-      "IDcode": "MAAN-1058",
-      "title": "【敏感メイドが痙攣絶頂】性欲を持て余すパイパン美女がチ●コを貪る！ありえん吸引力のフェラで金玉搾り取られるwぷっくり乳首を摘んでマン圧上昇！膣奥刺激しまくり連続セックス！！【即ヤリゲッチュー】【ゆみ】",
+      "IDcode": "300MAAN-1058",
+      "title": "【敏感メイドが痙攣絶頂】性欲を持て余すパイパン美女がチ●コを貪る！ありえん吸引力のフェラで金玉搾り取られるwぷっくり乳首を摘んでマン圧上昇！膣奥刺激しまくり連続セックス！！【即ヤリゲッチュー】【ゆみ】 虹村ゆみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOC",
-      "publish_date": "2025-03-08",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "ゆみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1058"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1058"
     }
   ]
 };

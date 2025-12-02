@@ -4,7 +4,7 @@ window.actressData = {
   "name": "白雪ましろ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 67183,
       "IDcode": "GS-453",
-      "title": "従姉妹がTバック尻はみ出しのミニスカートで家に遊びに来た！！もう、目のやり場に困る。そんな俺のドキドキに気づいているのか無防備に昼寝しだした。ソソられまくりそっと手をだすと…いきなり濃厚なキスをしてきて「もうっ！誘ってるんだから男らしく襲ってきなさいよ！…",
+      "title": "我的表妹穿着丁字裤迷你裙来家里看我",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GOGOS",
-      "publish_date": "2010-08-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-7/e465d0c04fd5e78b6017823d4463d0f6.jpg",
       "actress": [
         "白雪ましろ"
       ],

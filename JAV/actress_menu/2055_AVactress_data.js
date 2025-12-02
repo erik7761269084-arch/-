@@ -33,29 +33,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241110/a3049cbf-1c3c-488b-a942-811f264e2fde.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 8360,
-      "IDcode": "HUNTC-285",
-      "title": "我們這樣學習正經嗎? 復習累了的女同學們，開始釋放她們的性欲了... ~ 乙羽あむ 泉莉音 市井結夏 宇流木沙羅 市川りく 泉田栞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080953584584.jpg",
-      "actress": [
-        "宇流木沙羅",
-        "泉莉音",
-        "市川りく",
-        "市井結夏",
-        "乙羽あむ",
-        "泉田栞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-285"
-    },
     {
       "id": 89672,
       "IDcode": "SDDE-698",
@@ -63,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-07-06",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231222/FfNKOcQY/1.jpg",
       "actress": [
         "姫野らん",
         "白石環奈",
@@ -82,10 +61,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-06-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/4e15b7caf9d6be1d39b4ae81cfec4051.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a203eadb8c77d79bb694fd/cover.jpg",
       "actress": [
         "新山ちなつ",
         "富岡亞里沙",
@@ -93,6 +72,43 @@ window.actressData = {
         "もっともあ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-073"
+    },
+    {
+      "id": 10711,
+      "IDcode": "BAGR-047",
+      "title": "限界引誘男人的思春期女孩 ~ 泉田栞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/9d1734f88a06bef136e31b44ba96b0e2.jpg",
+      "actress": [
+        "泉田栞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAGR-047"
+    },
+    {
+      "id": 8360,
+      "IDcode": "HUNTC-285",
+      "title": "「そんな勉強よりエッチな勉強しようよ」真面目な勉強会がエッチなおち○ちん勉強会に！勉強に飽きたクラスメイト女子が勉強のストレスと性欲を…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080953584584.jpg",
+      "actress": [
+        "宇流木沙羅",
+        "泉莉音",
+        "市川りく",
+        "市井結夏",
+        "乙羽あむ",
+        "泉田栞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-285"
     }
   ]
 };

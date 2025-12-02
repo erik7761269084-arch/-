@@ -4,7 +4,7 @@ window.actressData = {
   "name": "西丘エマ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 88832,
       "IDcode": "TKOU-005",
-      "title": "【FANZA限定】人間拘束 美少女クリトリス拷問 西丘エマ パンティと生写真付き",
+      "title": "人體束縛美少女陰蒂酷刑艾瑪西岡",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FIRST STAR",
-      "publish_date": "2023-08-12",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240615-1/9a9bcb0cccbf435df88665832b4935ca.jpg",
       "actress": [
         "ししお",
         "西丘エマ"
@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-07-04",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230817-1/99922267776a35d0669b6103a6d5d3b7.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/aac572a66ec39cf1f34e35f28ccc80b6.jpg",
       "actress": [
         "西丘エマ"
       ],

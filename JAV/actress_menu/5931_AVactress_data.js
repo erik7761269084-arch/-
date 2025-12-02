@@ -4,7 +4,7 @@ window.actressData = {
   "name": "綾波えりか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 96277,
       "IDcode": "GHTK-017",
-      "title": "狙われたオンナ～執着するオトコに襲われ堕とされ凌●される/綾波えりか",
+      "title": "狙われたオンナ～執着するオトコに襲われ堕とされ凌●される綾波えりか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-09-30",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/cd2f7519d51117eda60d8e7039a7a4b3.jpg",
       "actress": [
         "綾波えりか"
       ],

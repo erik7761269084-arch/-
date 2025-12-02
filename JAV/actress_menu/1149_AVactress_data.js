@@ -34,40 +34,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240607/fcd76b98-7e8f-437e-a7df-230240f95a99.jpg",
     "https://picture.yoshiclub.xyz/20240607/7ef35e17-64e7-4231-a1ea-0e33eadb9a18.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 4759,
-      "IDcode": "JUR-395",
-      "title": "為了女兒替身出道同人AV的火辣媽媽 ~ 風間由美 賀川かのこ",
+      "id": 14845,
+      "IDcode": "RKI-668",
+      "title": "在京都见到的舞妓小姐AV出道-贺川佳乃子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053607832832_thumbnail.webp",
-      "actress": [
-        "風間由美",
-        "賀川かのこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-395"
-    },
-    {
-      "id": 13515,
-      "IDcode": "RKI-674",
-      "title": "洗劫客廳，拖着她四處操、殘酷的體內射精 ~ 被無情強奸的女孩 ~ 賀川かのこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROOKIE",
-      "publish_date": "2024-07-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240706/20240706014642309309.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510040245281281.jpg",
       "actress": [
         "賀川かのこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-668"
     },
     {
       "id": 14125,
@@ -76,14 +59,47 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROOKIE",
-      "publish_date": "2024-06-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20240607/20240607020552902902.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a17edac813dc779d9600b/cover.jpg",
       "actress": [
         "賀川かのこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-673"
+    },
+    {
+      "id": 13515,
+      "IDcode": "RKI-674",
+      "title": "洗劫客廳，拖着她四處操、殘酷的體內射精 ~ 被無情強奸的女孩 ~ 賀川かのこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787a2a4c179ffb1db907d5a/cover.jpg",
+      "actress": [
+        "賀川かのこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-674"
+    },
+    {
+      "id": 4759,
+      "IDcode": "JUR-395",
+      "title": "代替女儿出道的同人AV母亲-風間ゆみ 賀川かのこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/34d09a4aa088162c98e34284b5b0e6db.jpg",
+      "actress": [
+        "風間由美",
+        "賀川かのこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-395"
     }
   ]
 };

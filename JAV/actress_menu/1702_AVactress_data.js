@@ -35,18 +35,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250613/47a4936a-9a2f-4280-8ddf-620da0f5be87_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 4517,
-      "IDcode": "MFYD-020",
-      "title": "主婦的羞恥小胸誘惑 抖M屬性乳頭高潮 悶騷女的溫泉自拍生啪雙重不倫 ~ 槇原とわ",
+      "id": 5332,
+      "IDcode": "MFYD-019",
+      "title": "出生於嚴謹的家庭-槇原托瓦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-07-11",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062209568568_thumbnail.webp",
+      "actress": [
+        "槇原とわ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-019"
+    },
+    {
+      "id": 4517,
+      "IDcode": "MFYD-020",
+      "title": "身上隱藏的羞澀A罩杯抖M女陰蒂高潮悶騷女-槇原和",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/2025071004034055_85024_thumbnail.webp",
       "actress": [
         "槇原とわ",

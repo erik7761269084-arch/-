@@ -31,77 +31,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240726/c7588328-b5b6-44fd-9050-89753bccbfb5.jpg"
   ],
-  "works_count": 16,
+  "works_count": 18,
   "related_dramas": [
-    {
-      "id": 10019,
-      "IDcode": "TPIN-087",
-      "title": "出差預訂酒店的錯誤，導致了我和兩個癡女老板相部屋了！甜蜜而又虐心的雙向榨精之夜 ~ 真木今日子 奧井楓 水端麻美 末広純",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "椿鳳院",
-      "publish_date": "2024-12-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/047074be-7389-47ac-b22e-ef38f261adc9.jpg",
-      "actress": [
-        "末広純",
-        "水端麻美",
-        "真木今日子",
-        "奥井楓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-087"
-    },
-    {
-      "id": 17134,
-      "IDcode": "HODV-21832",
-      "title": "我從沒想過我會發生外遇…人妻的誘惑，不可抗拒的與火的玩耍 Kaede Okui",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2023-12-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20231222/673cced6-91b6-4aee-a51e-333700bfbc2e.jpg",
-      "actress": [
-        "奥井楓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21832"
-    },
-    {
-      "id": 100570,
-      "IDcode": "MDBK-284",
-      "title": "メガネが可愛い とびきりの笑顔でヌイてくれるおちんちん大好きマネージャーの突撃家庭訪問",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2023-04-25",
-      "cover_url": "",
-      "actress": [
-        "美園和花",
-        "沙月惠奈",
-        "奥井楓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-284"
-    },
-    {
-      "id": 67200,
-      "IDcode": "HOMA-125",
-      "title": "HOMA-125",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2023-01-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/66517bb9e2feeccd68076ebd40428437.jpg",
-      "actress": [
-        "奥井楓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-125"
-    },
     {
       "id": 73929,
       "IDcode": "HMN-263",
@@ -109,10 +40,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
       "publish_date": "2022-09-27",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/87cd93ded2332bb9d167819961169d6d.jpg",
       "actress": [
         "奥井楓"
       ],
@@ -125,10 +56,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
       "publish_date": "2022-08-23",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/4OVfDNs9.jpg",
       "actress": [
         "水卜麻衣奈",
         "成田紬",
@@ -144,10 +75,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "H.M.P 芳友舍",
       "publish_date": "2022-08-05",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a616f06cf8bd3ea21a5f3707ca559750.jpg",
       "actress": [
         "奥井楓"
       ],
@@ -160,8 +91,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-03-22",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/f020927321bb58601b70842f97e67691.jpg",
       "actress": [
@@ -179,10 +110,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "H.M.P 芳友舍",
       "publish_date": "2022-03-04",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ccc6cae375db2cfbc714f5e79c33fc00.jpg",
       "actress": [
         "奥井楓"
       ],
@@ -195,7 +126,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "H.M.P 芳友舍",
       "publish_date": "2022-02-04",
       "cover_url": "",
@@ -214,7 +145,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
       "publish_date": "2022-02-01",
       "cover_url": "",
@@ -224,33 +155,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-035"
     },
     {
-      "id": 86118,
-      "IDcode": "ROYD-077",
-      "title": "性欲を持て余した神（姉）と天才（妹）が僕のデカチンを奪い合い。 朝から晩まで年中無休のセックスしっぱなし体液出しまくりの共同性活。 望月あやか 志木あかね",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2021-12-28",
-      "cover_url": "",
-      "actress": [
-        "望月綾香",
-        "奥井楓"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-077"
-    },
-    {
       "id": 78677,
       "IDcode": "HUNTA-999",
       "title": "混浴温泉に1人で入っていたら、町内会バスツアーの巨乳若妻たちが突然入ってきた！気まずくて出ようと思ったら巨乳若妻のタオルから大きな胸が…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-05-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/cd7a84a666d5758aefd8c714b2baa196.jpg",
       "actress": [
         "田中寧寧",
         "奥井楓",
@@ -261,21 +175,72 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-999"
     },
     {
-      "id": 89529,
-      "IDcode": "LUXU-1335",
-      "title": "ラグジュTV 1318 『結婚前に冒険がしたくて…』彼とのセックスに満足できず入籍前に思い切ってAV出演！快楽に満たされたい、じっくりイってみたい。アラサーを迎えた身体は刺激に敏感！ねっとりとした責めにM気が反応しいつしかとろけるうような恍惚の表情へ…。開放的な景色を眼下に、他人棒で非日常な気持ち良さに喘ぎまくる！",
+      "id": 479868,
+      "IDcode": "259LUXU-1335",
+      "title": "Laguju TV 1318 我想在婚前来一次冒险… 由于对与男友的性 志木茜 -C",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
+      "type": "",
+      "company": "蚊香社",
       "publish_date": "2020-10-26",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/749061caea859bac9f2a59f609330dd1.jpg",
       "actress": [
         "奥井楓",
         "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1335"
+    },
+    {
+      "id": 479484,
+      "IDcode": "200GANA-2286",
+      "title": "神奇的柔软，首次拍摄。 1479 当我被邀请时，我无法拒绝… 一个谨慎 志木茜 -C",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-04-26",
+      "cover_url": "",
+      "actress": [
+        "奥井楓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2286"
+    },
+    {
+      "id": 100265,
+      "IDcode": "CAWD-056",
+      "title": "セックス（特に騎乗位）が好き過ぎて留年しちゃったエロ賢い女子大生を焦らし続けたら36回も絶頂AVデビュー 志木あかね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2020-02-25",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/cawd056/cawd056pl.jpg",
+      "actress": [
+        "奥井楓",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-056"
+    },
+    {
+      "id": 100570,
+      "IDcode": "MDBK-284",
+      "title": "最喜欢肉棒的经理人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美園和花",
+        "沙月惠奈",
+        "奥井楓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-284"
     },
     {
       "id": 88363,
@@ -284,10 +249,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-10-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/3060bdbbb91307acc123711e43c149bf.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2290719ffdf4fcc9a0593c4f2b833f6b.jpg",
       "actress": [
         "奥井楓",
         "中里美穂",
@@ -297,20 +262,89 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-016"
     },
     {
-      "id": 89366,
-      "IDcode": "GANA-2286",
-      "title": "マジ軟派、初撮。 1479 『誘われたら断れなくて…』控えめ少女をナンパ成功！受け身一辺倒かと思いきや、スイッチが入ると自ら腰を振る積極的な一面が露わに！本当はH大好きなムッツリスケベちゃん！",
+      "id": 86118,
+      "IDcode": "ROYD-077",
+      "title": "性欲を持て余した神（姉）と天才（妹）が僕のデカチンを奪い合い。 朝から晩まで年中無休のセックスしっぱなし体液出しまくりの共同性活。 望月あやか 志木あかね",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-04-26",
-      "cover_url": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8f1041936d72b89cac4d7c16f79ae968.jpg",
+      "actress": [
+        "望月綾香",
+        "奥井楓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-077"
+    },
+    {
+      "id": 67200,
+      "IDcode": "HOMA-125",
+      "title": "与前女友重逢-奥井楓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/1d9c91193412018240c602fa7a95379a.jpg",
       "actress": [
         "奥井楓"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2286"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOMA-125"
+    },
+    {
+      "id": 17134,
+      "IDcode": "HODV-21832",
+      "title": "无法抑制的想要玩火-奥井枫",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231222/673cced6-91b6-4aee-a51e-333700bfbc2e.jpg",
+      "actress": [
+        "奥井楓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21832"
+    },
+    {
+      "id": 13093,
+      "IDcode": "HOWY-005",
+      "title": "跟打工認識的人妻進入了不倫關係",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d86475d6fbef4e90cd9620/cover.jpg",
+      "actress": [
+        "真木今日子",
+        "奥井楓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOWY-005"
+    },
+    {
+      "id": 10019,
+      "IDcode": "TPIN-087",
+      "title": "僕の予約ミスと手違いが重なって出張先のホテルでまさかの相部屋 お仕置き痴女化したW女上司にめちゃくちゃイカされまくる甘サド逆3Pで搾り取られた夜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "椿鳳院",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787e8a35d57b64bfd10d123/cover.jpg",
+      "actress": [
+        "末広純",
+        "水端麻美",
+        "真木今日子",
+        "奥井楓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TPIN-087"
     }
   ]
 };

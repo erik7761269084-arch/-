@@ -4,7 +4,7 @@ window.actressData = {
   "name": "君嶋かほる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,33 +25,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "CineMagic",
       "publish_date": "2020-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/d9c589fa76b25bb95f8717e9fe489c09.jpg",
+      "cover_url": "",
       "actress": [
         "神野雛",
         "君嶋かほる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMC-233"
-    },
-    {
-      "id": 70206,
-      "IDcode": "VNDS-3312",
-      "title": "酒に酔ってパンチラ胸チラ痴態をさらして…息子に襲われてしまった母",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-06-20",
-      "cover_url": "",
-      "actress": [
-        "麻生まり",
-        "白藤ゆりえ",
-        "君嶋かほる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3312"
     },
     {
       "id": 77972,
@@ -60,14 +42,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241123-1/2d3037657692cdd2f26c64b9ffbd39b3.jpg",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "君嶋かほる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTHD-160"
+    },
+    {
+      "id": 70206,
+      "IDcode": "VNDS-3312",
+      "title": "酒に酔ってパンチラ胸チラ痴態をさらして…息子に襲われてしまった母",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e8da0642f1c7d60b61bbbbac5a03863f.jpg",
+      "actress": [
+        "麻生まり",
+        "白藤ゆりえ",
+        "君嶋かほる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VNDS-3312"
     }
   ]
 };

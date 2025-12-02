@@ -4,7 +4,7 @@ window.actressData = {
   "name": "海宝美羽",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 61338,
       "IDcode": "MFC-342",
-      "title": "みぅ",
+      "title": "バ先で手あたり次第ヤリまくる金髪巨乳GAL×水着バニーでハメ潮スプラッシュ【みぅ(アダルトショップ店員)】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-07-30",
-      "cover_url": "https://tutu1.space/images/2025/08/11/e516c75c1b09975f7eccd879bfe42d0f.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "海宝美羽"
       ],

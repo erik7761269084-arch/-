@@ -34,18 +34,36 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240502/737a5d7d-e276-4040-b574-44dd6f6f2d8b.jpg",
     "https://picture.yoshiclub.xyz/20240502/eff09a0b-a7ce-41a1-bf61-be0d3aa8f331.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 10682,
-      "IDcode": "WWMM-002",
-      "title": "[臺灣女優] 鄰居們都鬱悶了！ ？與無法控制性欲的淫婦一起做愛！ ！ ~ 溫芮欣 宋雨川 孟若羽",
+      "id": 12062,
+      "IDcode": "RATW-014",
+      "title": "臺灣NTR風雲「對不起，老婆……」無性老公屈服於情色美女誘惑的祕密 ~ 李蓉蓉 宋雨川 夏晴子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-09-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240908/20240908045310632632.jpg",
+      "actress": [
+        "夏晴子",
+        "李蓉蓉",
+        "宋雨川"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RATW-014"
+    },
+    {
+      "id": 10682,
+      "IDcode": "WWMM-002",
+      "title": "お隣さんはみんな欲求不満！？性欲を抑えられない女たちとラッキースケベでエロエロ展開！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-11-12",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241111/2c870948-c9c5-4be2-8ec7-ed6d92bd821a.jpg",
       "actress": [
         "孟若羽",

@@ -57,8 +57,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231003/05bc5d6b-e028-41bd-a634-6bd2612bc48c.jpg",
     "https://picture.yoshiclub.xyz/20231003/1e45009a-99be-4822-b3ba-038d39f790a2.jpg"
   ],
-  "works_count": 4,
+  "works_count": 10,
   "related_dramas": [
+    {
+      "id": 158987,
+      "IDcode": "HEYZO-3203",
+      "title": "おめざは中出し！～美女コレクションVol.2～ –",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sex8sex8sex8.com/20250222/iR3tu7Vf/1.jpg",
+      "actress": [
+        "吉岡蓮美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3203"
+    },
     {
       "id": 88916,
       "IDcode": "TRE-217",
@@ -66,8 +82,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/62aae863e99d98b9e8051454697bd2dc.jpg",
       "actress": [
@@ -86,16 +102,101 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TRE-217"
     },
     {
-      "id": 88271,
-      "IDcode": "ABP-684",
-      "title": "絶対的鉄板シチュエーション 7 完全主観！！吉川蓮が贈るとてもHな4シチュエーション",
+      "id": 1196,
+      "IDcode": "HEYZO-2074",
+      "title": "原蚊香社专属女优吉川莲下马大作",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-01-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231002-1/58b533f26bf127fe200c6935bd454176.jpg",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2019-09-07",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/07/02/eacd2aa8/vod.jpg",
+      "actress": [
+        "吉岡蓮美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2074"
+    },
+    {
+      "id": 105483,
+      "IDcode": "ABP-717",
+      "title": "吉川莲的超高级风俗服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "吉岡蓮美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-717"
+    },
+    {
+      "id": 105276,
+      "IDcode": "ABP-702",
+      "title": "吉川莲无套内射中出解禁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/04/26/ef9bfca70414486381de0e6d27733fd6.jpg",
+      "actress": [
+        "吉岡蓮美",
+        "森林原人",
+        "大岛丈",
+        "沢井亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-702"
+    },
+    {
+      "id": 105225,
+      "IDcode": "ABP-727",
+      "title": "吉川莲剥夺演技纯粹野性的做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "吉岡蓮美",
+        "森林原人",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-727"
+    },
+    {
+      "id": 103295,
+      "IDcode": "CHN-069",
+      "title": "絶対的美少女-吉川蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "吉岡蓮美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-069"
+    },
+    {
+      "id": 88271,
+      "IDcode": "ABP-684",
+      "title": "绝对的铁板吉川莲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fe1422177fb21ac1d136ca223f95afd2.jpg",
       "actress": [
         "吉岡蓮美"
       ],
@@ -108,30 +209,31 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-12-08",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0bab7d4dbd572fae723a473b6920a07d.jpg",
       "actress": [
         "吉岡蓮美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-674"
     },
     {
-      "id": 103295,
-      "IDcode": "CHN-069",
-      "title": "新・絶対的美少女、お貸しします。 37 吉川蓮",
+      "id": 59667,
+      "IDcode": "ABP-751",
+      "title": "吉川莲完全拘束强制神级高潮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2015-04-10",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118chn069/118chn069pl.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "吉岡蓮美"
+        "吉岡蓮美",
+        "森林原人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-069"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-751"
     }
   ]
 };

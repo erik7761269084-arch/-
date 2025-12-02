@@ -51,34 +51,147 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240517/6d69716e-ef83-44cb-9cae-56afcba15f52.jpg",
     "https://picture.yoshiclub.xyz/20240517/d2c02f9c-f815-4530-b7ef-93251d446d28.jpg"
   ],
-  "works_count": 5,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 2529,
-      "IDcode": "MKON-116",
-      "title": "愛幹淨的女友被我偷偷帶進男生宿舍，結果被惡心邋遢的管理員抓到，狠狠糟蹋到崩潰 ~ 二階堂麗",
+      "id": 14001,
+      "IDcode": "EBWH-100",
+      "title": "禁欲一個月……二階堂麗被性欲支配，大覺醒性高潮性交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919055930733733_37589_thumbnail.webp",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "2024-06-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20240614/202406140136379191.jpg",
       "actress": [
         "二階堂麗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-100"
+    },
+    {
+      "id": 14648,
+      "IDcode": "EBWH-085",
+      "title": "大奶子新人，婚戀真人秀闖入決賽的美女企業家，身材和性感都是頂級的。二階堂麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "2024-05-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517023952975975.jpg",
+      "actress": [
+        "二階堂麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-085"
+    },
+    {
+      "id": 13387,
+      "IDcode": "EBWH-117",
+      "title": "被公司CEO喜歡的普通員工-二階堂麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712003530575575.jpg",
+      "actress": [
+        "二階堂麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-117"
+    },
+    {
+      "id": 12636,
+      "IDcode": "EBWH-124",
+      "title": "淫蕩性愛伺候-二階堂麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/5e8e02e4a86102a5e7c23a257e9833e9.jpg",
+      "actress": [
+        "二階堂麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-124"
+    },
+    {
+      "id": 11991,
+      "IDcode": "EBWH-136",
+      "title": "営業を受けエステ体験へ向かうと相手は悪徳エロ施術師 美人女社長はスケベマッサージに品格を失うほどイキ狂わされる 二階堂麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912104702270270.jpg",
+      "actress": [
+        "二階堂麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-136"
+    },
+    {
+      "id": 11301,
+      "IDcode": "EBWH-145",
+      "title": "炎熱夏天出差日-二階堂麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/aa90d5d5e7dc098451d04f474da26c7e.jpg",
+      "actress": [
+        "二階堂麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-145"
+    },
+    {
+      "id": 10628,
+      "IDcode": "EBWH-156",
+      "title": "我美丽的老板嫉妒我订婚-二階堂麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d79f5d57b64bfd101f48/cover.jpg",
+      "actress": [
+        "二階堂麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-156"
+    },
+    {
+      "id": 9898,
+      "IDcode": "EBWH-189",
+      "title": "把药物偷换成春药-二階堂麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787dd1c5d57b64bfd10442f/cover.jpg",
+      "actress": [
+        "二階堂麗",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-189"
     },
     {
       "id": 9067,
       "IDcode": "EBWH-196",
-      "title": "妊娠確定NTR，樣貌出衆的CA愛上了資深飛行員，危險日與她發生性關系，直到她性欲耗盡的不倫中出 ~ 二階堂麗",
+      "title": "怀孕确认NTR-二階堂麗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-01-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074057956956.jpg",
       "actress": [
         "二階堂麗",
@@ -89,13 +202,13 @@ window.actressData = {
     {
       "id": 9015,
       "IDcode": "MKCK-377",
-      "title": "獻給那些喜歡大奶子的巨乳迷們，這是只有AV用戶才能看到的壯觀的100番爆乳連發絕景",
+      "title": "フェラ中もおっぱいが見たい巨乳フェチのアナタへ捧げる AVユーザーしか見ることのできない唯一の絶景 爆乳ローアングルフェラチオラッシュ100連発",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071447277277.jpg",
       "actress": [
         "天月梓",
@@ -145,37 +258,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
     },
     {
-      "id": 9898,
-      "IDcode": "EBWH-189",
-      "title": "淫亂癡女護士用媚藥代替藥物，讓一個性欲旺盛的病人服用含有媚藥的藥物，然後中出她 ~ 二階堂麗",
+      "id": 2529,
+      "IDcode": "MKON-116",
+      "title": "綺麗好きの彼女を女子禁制の男子寮に連れ込んだら、キモくて不潔な管理人に捕まってしまいボロボロになるまで汚された あかね麗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073232220220.jpg",
-      "actress": [
-        "二階堂麗",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-189"
-    },
-    {
-      "id": 10628,
-      "IDcode": "EBWH-156",
-      "title": "對不起……今天也不能抱你。美麗的女社長因爲我結婚而嫉火中燒，她用她的身體掏空了我的睾丸 ~ 二階堂麗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241115/20241115035154424424.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/05/056656c7/vod.jpg",
       "actress": [
         "二階堂麗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-116"
     }
   ]
 };

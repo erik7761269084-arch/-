@@ -4,7 +4,7 @@ window.actressData = {
   "name": "MIYABI",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 80567,
       "IDcode": "BLK-541",
-      "title": "朝まで飲み放題パコリ放題！ 乳輪ドえろいヤリマンスナックチーママ発掘 MIYABI",
+      "title": "性爱零食-MIYABI",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KIRAKIRA",
-      "publish_date": "2021-12-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/e59315840c9575edffb421752e2c2c2a.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/06/68427552bea44e0606187c6d/cover.jpg",
       "actress": [
         "绿川みやび",
         "MIYABI"

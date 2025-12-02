@@ -27,19 +27,35 @@ window.actressData = {
     "Kuramochi Yua"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 103459,
-      "IDcode": "JUX-298",
-      "title": "- 夫よりも義父を愛して…。 倉持結愛 - JAV目錄大全javmenu.com",
+      "id": 78843,
+      "IDcode": "SNIS-078",
+      "title": "スワッピング 倉持結愛、派遣します。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2014-04-07",
-      "cover_url": "https://tutu1.space/images/2023/10/22/1c5c66b9a8e77c7cec6d95f628d6a477.jpg",
+      "publish_date": "2014-01-19",
+      "cover_url": "",
+      "actress": [
+        "桃瀬友梨奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-078"
+    },
+    {
+      "id": 103459,
+      "IDcode": "JUX-298",
+      "title": "比起丈夫更爱义父-仓持结爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/d351471e31308dbb3c7a6bcac8aab674.jpg",
       "actress": [
         "桃瀬友梨奈"
       ],

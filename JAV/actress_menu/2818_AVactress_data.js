@@ -52,8 +52,49 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230123/0cb7afa2-0413-410a-9629-69679d9a5524.jpg",
     "https://picture.yoshiclub.xyz/20230123/05b1f496-00db-4818-a996-ef7e3bb7663d.jpg"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
+    {
+      "id": 164708,
+      "IDcode": "HFD-198",
+      "title": "夜勤明け看護師の寝不足むらむらオマ●コは",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-06-28",
+      "cover_url": "",
+      "actress": [
+        "森澤佳奈",
+        "春日野结衣",
+        "葵こはる",
+        "泉ののか",
+        "长谷川ゆり",
+        "前泽あきな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HFD-198"
+    },
+    {
+      "id": 98602,
+      "IDcode": "RCT-723",
+      "title": "鬼百合女子校の拷問部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2015-04-09",
+      "cover_url": "",
+      "actress": [
+        "川越ゆい",
+        "石田美久",
+        "小西真理繪",
+        "春日野结衣",
+        "宫野えみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-723"
+    },
     {
       "id": 2014,
       "IDcode": "LAFBD-32",
@@ -61,8 +102,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2014-10-14",
       "cover_url": "https://picture.yoshiclub.xyz/20230123/49a7a79c-c3ac-46e4-bd04-90d9f4c13d4a.webp",
       "actress": [
@@ -71,16 +112,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-32"
     },
     {
+      "id": 102855,
+      "IDcode": "RCT-769",
+      "title": "うちのレズペット一日だけ預かってください",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e05ec01572686be773fc62/cover.jpg",
+      "actress": [
+        "羽月希",
+        "奏自由",
+        "春日野结衣",
+        "早瀬ありす",
+        "七海りこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-769"
+    },
+    {
       "id": 88346,
       "IDcode": "IENE-328",
       "title": "緊急ワケあり復活 19歳になってムネがちょっとふくらみました 春日野結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2013-10-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231005-1/4dfc20bebbfcff4a7da2bc82ac23ec40.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/82709563e15ad1f2e5df48c9e1d71200.jpg",
       "actress": [
         "春日野结衣"
       ],

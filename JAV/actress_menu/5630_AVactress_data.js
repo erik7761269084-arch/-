@@ -4,7 +4,7 @@ window.actressData = {
   "name": "槐モナ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,32 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
+      "id": 90096,
+      "IDcode": "QRDA-167",
+      "title": "レズSM レズ堕ち・完堕ち 泣きまくり・イキまくり 槐モナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/0aa9d9196c3c34c46e9ce90ba99b74f4.jpg",
+      "actress": [
+        "槐モナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-167"
+    },
+    {
       "id": 90089,
       "IDcode": "QRDC-034",
       "title": "2023 クィーンロード 年間BEST10",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-12-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240112-1/9b53bdf17d1182fcf1308c671cab0aa9.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/d88a49992c7c703de321c6a16a474444.jpg",
       "actress": [
         "HOTARU",
         "辰神丽子",
@@ -41,32 +57,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDC-034"
     },
     {
-      "id": 90096,
-      "IDcode": "QRDA-167",
-      "title": "レズSM レズ堕ち・完堕ち 泣きまくり・イキまくり 槐モナ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SM女王",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
-      "actress": [
-        "槐モナ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=QRDA-167"
-    },
-    {
       "id": 90068,
       "IDcode": "QRDA-153",
       "title": "悪徳デビル5人組 正義のヒーロー負けまくり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SM女王",
-      "publish_date": "2022-09-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240112-1/709b9c0242756a388eab9c4b475270c4.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/9d4ec9f2f6d22df16bf29809d83d4201.jpg",
       "actress": [
         "槐モナ",
         "虹邑みなみ",

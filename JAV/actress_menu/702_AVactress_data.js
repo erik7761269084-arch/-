@@ -46,85 +46,100 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250123/ce4158b0-b1b7-491b-b4a1-f27643c6783d.jpg",
     "https://picture.yoshiclub.xyz/20250123/49e52e07-9dbd-4e74-92b4-f8d7c40a4eae.jpg"
   ],
-  "works_count": 8,
+  "works_count": 10,
   "related_dramas": [
     {
       "id": 60357,
       "IDcode": "OAE-291",
-      "title": "裸神 瀬戸環奈 （ブルーレイディスク）",
+      "title": "裸神 瀬戸環奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-09-23",
-      "cover_url": "https://tutu1.space/images/2025/10/07/bd9fdf250a94890af1ddacf806f27989.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "瀨戶環奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OAE-291"
     },
     {
-      "id": 3031,
-      "IDcode": "SONE-846",
-      "title": "絕頂高潮 最強女優被巨根連續插入瘋狂轟炸 ~ 瀨戶環奈",
+      "id": 8822,
+      "IDcode": "SONE-614",
+      "title": "AV业界新传说的诞生-濑戸环奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020833441441_83141_thumbnail.webp",
-      "actress": [
-        "瀨戶環奈",
-        "ラヴズ",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-846"
-    },
-    {
-      "id": 3772,
-      "IDcode": "SONE-811",
-      "title": "千年一遇的女學生倒追班導，禁忌戀情讓人上癮 ~ 瀨戶環奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030009181181_96677_thumbnail.webp",
-      "actress": [
-        "瀨戶環奈",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-811"
-    },
-    {
-      "id": 4771,
-      "IDcode": "SONE-758",
-      "title": "最強女主帶你爽到爆！瀬戸環奈全力助攻自慰體驗，8個夢中場景 3小時豪華特輯 ~ 瀨戶環奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703035833834834_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072314635635.jpg",
       "actress": [
         "瀨戶環奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-758"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-614"
+    },
+    {
+      "id": 7744,
+      "IDcode": "SONE-615",
+      "title": "最强女主角AV初体验-瀨戶環奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d64753dd88d14f0609d808/cover.jpg",
+      "actress": [
+        "瀨戶環奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-615"
+    },
+    {
+      "id": 7067,
+      "IDcode": "SONE-638",
+      "title": "最强女主角的素颜大公开-濑户环奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092048708708.jpg",
+      "actress": [
+        "瀨戶環奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-638"
+    },
+    {
+      "id": 6303,
+      "IDcode": "SONE-682",
+      "title": "超模濑神的性欲爆发",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c32fac5f13d063bcdf8813/cover.jpg",
+      "actress": [
+        "瀨戶環奈",
+        "鲛岛",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-682"
     },
     {
       "id": 5538,
       "IDcode": "SONE-720",
-      "title": "最強女優陪你玩的風俗店 ~ 瀨戶環奈",
+      "title": "能碰到最强女主角的风俗店-瀬戸環奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035026786786_thumbnail.webp",
       "actress": [
         "瀨戶環奈",
@@ -135,54 +150,71 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-720"
     },
     {
-      "id": 6303,
-      "IDcode": "SONE-682",
-      "title": "最強女優潛在色欲大爆發 ~ 瀨戶環奈",
+      "id": 4771,
+      "IDcode": "SONE-758",
+      "title": "最强女主角陪你一起享受-濑户环奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250509/45793616-0351-4c18-842e-865983d774aa_s.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703035833834834_thumbnail.webp",
+      "actress": [
+        "瀨戶環奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-758"
+    },
+    {
+      "id": 3772,
+      "IDcode": "SONE-811",
+      "title": "千年一遇的超正女高中生对我这个班导告白了-濑户环奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689da609c49456085437e0ca/cover.jpg",
       "actress": [
         "瀨戶環奈",
-        "鲛岛",
         "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-811"
     },
     {
-      "id": 7744,
-      "IDcode": "SONE-615",
-      "title": "最強女優 AV初體驗3本番 ~ 瀨戶環奈",
+      "id": 3031,
+      "IDcode": "SONE-846",
+      "title": "超越高潮最强女主角被巨型肉棒狂插猛干-濑戸环奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122935748748.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020833441441_83141_thumbnail.webp",
       "actress": [
-        "瀨戶環奈"
+        "瀨戶環奈",
+        "ラヴズ",
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-615"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-846"
     },
     {
-      "id": 8822,
-      "IDcode": "SONE-614",
-      "title": "新人出道！2025年S1 NO.1 STYLE 首發超大型新人 千年女優 首次亮相 AV DEBUT ~ 瀬戸環奈",
+      "id": 2124,
+      "IDcode": "SONE-912",
+      "title": "最强女主角的乳交夹射-瀬戸環奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072314635635.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "瀨戶環奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-614"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-912"
     }
   ]
 };

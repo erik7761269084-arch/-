@@ -40,23 +40,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250303/725f0ca5-270a-4249-8b38-a1c4d6b22f2e.jpg",
     "https://picture.yoshiclub.xyz/20250303/7f996da7-4818-496e-a54d-3eb1fb841788.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 7812,
-      "IDcode": "MGOLD-034",
-      "title": "新人出道！ ※自擼欲失控 2.5次元現役Cosplayer 首次亮相 AV DEBUT ~ 姉宮玲亞",
+      "id": 7047,
+      "IDcode": "MGOLD-035",
+      "title": "防御力零！下體全露的超激cosplay 4本番 - 現役coser M覺醒高潮SPECIAL - 姉宮玲亞",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-03-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20250303/20250303033008913913.jpg",
+      "publish_date": "2025-05-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250404/20250404061452750750.jpg",
+      "actress": [
+        "姉宮玲亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-035"
+    },
+    {
+      "id": 6423,
+      "IDcode": "MGOLD-036",
+      "title": "想服務卻秒射的敏感早洩風俗初體驗 ~ 姉宮玲亞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "2025-05-03",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503103519972972_thumbnail.webp",
+      "actress": [
+        "姉宮玲亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-036"
+    },
+    {
+      "id": 7812,
+      "IDcode": "MGOLD-034",
+      "title": "あたシコ欲暴走。 2.5次元現役コスプレイヤーAV Debut 新人 姉宮れいあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/07/04/3f5826bc8b9433808e8baa01ef6e58b2.jpg",
       "actress": [
         "姉宮玲亞"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-034"
+    },
+    {
+      "id": 5600,
+      "IDcode": "MGOLD-037",
+      "title": "【舐めコキ奉仕】【玩具責めアクメ】【串刺し絶頂乱交】雑魚マンコスプレイヤーマゾ堕ちいいなりコスプレオフパコ枕営業 姉宮れいあ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/06/49835b1a/vod.jpg",
+      "actress": [
+        "姉宮玲亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-037"
     }
   ]
 };

@@ -33,13 +33,13 @@ window.actressData = {
     {
       "id": 8220,
       "IDcode": "PKPD-354",
-      "title": "新人出道！性格超棒的G罩杯素人介護師 首次亮相 AV DEBUT ~ 白戶香苗",
+      "title": "新人デビュードキュメント 性格良すぎるGカップど素人介護士 白兎叶愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-02-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250216/20250216071649327327.jpg",
       "actress": [
         "白兎叶愛"

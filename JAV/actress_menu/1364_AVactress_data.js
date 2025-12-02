@@ -34,68 +34,69 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 1934,
-      "IDcode": "SMBD-172",
-      "title": "S Model 172 淫亂OL的私處淫事 : 丘咲愛蜜莉",
+      "id": 1047,
+      "IDcode": "HEYZO-1478",
+      "title": "操性感偶像丘咲愛蜜莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2017-04-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/402845e9-4fde-4168-a1e8-5edb1e7db82f.jpg",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-05-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20231227/797948b3-b928-4410-a5e4-baafc8a74c48.jpg",
       "actress": [
         "丘咲愛蜜莉"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-172"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1478"
     },
     {
-      "id": 1743,
-      "IDcode": "CWPBD-152",
-      "title": "走秀毒藥152 無敵無碼GIRL：艾蜜莉岡崎",
+      "id": 100083,
+      "IDcode": "JBD-207",
+      "title": "蟻地獄の誘い 澤村レイコ 丘咲エミリ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2017-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/93666aec-f9fa-4b63-bc40-b147977f60e9.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2016-06-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jbd207/jbd207pl.jpg",
       "actress": [
-        "丘咲愛蜜莉"
+        "丘咲愛蜜莉",
+        "高坂ますみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-152"
-    },
-    {
-      "id": 61287,
-      "IDcode": "MIDE-076",
-      "title": "馬上就直接上的家庭教師 丘咲愛蜜莉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-03-01",
-      "cover_url": "",
-      "actress": [
-        "丘咲愛蜜莉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-076"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JBD-207"
     },
     {
       "id": 82594,
       "IDcode": "IPTD-881",
-      "title": "エミリ先生の誘惑授業 丘咲エミリ",
+      "title": "为了帮萎靡不振的学生们重整旗鼓性感长腿女教师丘咲爱米莉穿上丝袜诱惑授业",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2012-05-01",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "丘咲愛蜜莉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-881"
+    },
+    {
+      "id": 61287,
+      "IDcode": "MIDE-076",
+      "title": "家庭教師-丘咲エミリ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/11/06/ce0501b2ba0368f5f033c1d77d9257ee.jpg",
+      "actress": [
+        "丘咲愛蜜莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-076"
     }
   ]
 };

@@ -30,34 +30,179 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240119/158ff95c-3563-48f9-97db-c3a2d564cf7f.jpg"
   ],
-  "works_count": 3,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 8127,
-      "IDcode": "DLDSS-388",
-      "title": "女保險經紀爲了取得這份銷售合約弄的渾身都是體液，瘋狂的溫泉枕營業到早上才結束 ~ 峯玲子",
+      "id": 13092,
+      "IDcode": "DLDSS-339",
+      "title": "因爲太大了插不進去…… 以前的女友都不行！峯玲子接受了一個太大而無法做愛的雞巴，但仍因無法控制的性交而射精 ~ 峯玲子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220075532533533.jpg",
+      "publish_date": "2024-08-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20240726/20240726215417155155.jpg",
       "actress": [
         "峰玲子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-388"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-339"
+    },
+    {
+      "id": 14431,
+      "IDcode": "DLDSS-306",
+      "title": "被公公強迫成為裸體模特兒的淫亂戴綠帽的妻子峰玲子…淹沒在恥辱之中",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "2024-06-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240525/20240525203316407407.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-306"
+    },
+    {
+      "id": 16697,
+      "IDcode": "DLDSS-263",
+      "title": "新人出道！峰玲子 多才多藝的女孩，因喜歡不穿胸罩逛街而走紅 首次亮相 AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "2024-02-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119040503758758.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-263"
+    },
+    {
+      "id": 101784,
+      "IDcode": "DLDSS-286",
+      "title": "美乳女秘書在社長室裡沉淪於跟社長做愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-286"
+    },
+    {
+      "id": 16398,
+      "IDcode": "DLDSS-264",
+      "title": "完美表现美丽肉体的着衣-峰玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240209/20240209020630728728.jpg",
+      "actress": [
+        "峰玲子",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-264"
+    },
+    {
+      "id": 15381,
+      "IDcode": "DLDSS-297",
+      "title": "我住在我父母家-玲子矿",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240528-1/72082a5946daf379c6d37e7448cce03d.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-297"
+    },
+    {
+      "id": 13102,
+      "IDcode": "DLDSS-321",
+      "title": "漂亮的大屁股OL，黑絲被撕裂，直接插進去操到暴 ~ 峯玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67878c262a47ebb1a8b44449/cover.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-321"
+    },
+    {
+      "id": 12398,
+      "IDcode": "DLDSS-350",
+      "title": "近所で会うジョギング中の人妻がノーブラ透けパンツで走ってるのは旦那不在で不倫OKサイン 峰玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/08/681c34ca23f3367fd3263460/cover.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-350"
+    },
+    {
+      "id": 11777,
+      "IDcode": "DLDSS-358",
+      "title": "在豪雨中湿透的日子里-峰玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/086dfe99c94bbabdbbecd3cad67c9adc.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-358"
+    },
+    {
+      "id": 11007,
+      "IDcode": "DLDSS-364",
+      "title": "「ヤリモク×」なアラサー婚活女子の愚痴を聞いてあげたら滅茶苦茶セックスできた。 峰玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/aeb623bc206ff0bb855500b352ab715e.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-364"
     },
     {
       "id": 10360,
       "IDcode": "DLDSS-370",
-      "title": "穿T字褲來遊泳的人妻媽媽穿着性感，又不懂拒絕，被寢取是自然而然的事。 ~ 峯玲子",
+      "title": "うっかりTバックで市民プールに来たママはナンパを断れず旦那に内緒で即ズボバックピストン 峰玲子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2024-12-26",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241126/20241126211520303303.jpg",
       "actress": [
         "峰玲子",
@@ -68,18 +213,66 @@ window.actressData = {
     {
       "id": 9599,
       "IDcode": "DLDSS-374",
-      "title": "打電話叫了援交，開門進來的竟然是那個我每天都去的便當店的美店員... 峯玲子",
+      "title": "デリヘル呼んだら毎日通う弁当屋の美人店員さんと遭遇「お得意様だから特別に…」と本番をサービスしてくれて店外でも肉欲を満たし合う仲に 峰玲子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2024-12-26",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241225/20241225223921623623.jpg",
       "actress": [
         "峰玲子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-374"
+    },
+    {
+      "id": 8727,
+      "IDcode": "DLDSS-384",
+      "title": "地味OLの私は潮を吹かされる淫らな指マンにハマりました。 峰玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130005742313313.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-384"
+    },
+    {
+      "id": 8127,
+      "IDcode": "DLDSS-388",
+      "title": "向保险女业务员暗示签约-峰玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/28/67c138994e7d663df4b734ac/cover.jpg",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-388"
+    },
+    {
+      "id": 6038,
+      "IDcode": "VOD-042",
+      "title": "欲求不满人妻的非日常性生活-峰玲子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063607450450_thumbnail.webp",
+      "actress": [
+        "峰玲子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-042"
     }
   ]
 };

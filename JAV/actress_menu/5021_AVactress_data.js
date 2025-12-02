@@ -22,8 +22,24 @@ window.actressData = {
     "Oshima Mio"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 97994,
+      "IDcode": "CLO-023",
+      "title": "中年オヤジと制服美少女 大島美緒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-02-08",
+      "cover_url": "",
+      "actress": [
+        "大岛美绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLO-023"
+    },
     {
       "id": 81519,
       "IDcode": "BBSS-029",
@@ -31,8 +47,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-07",
       "cover_url": "",
       "actress": [

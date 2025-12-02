@@ -4,7 +4,7 @@ window.actressData = {
   "name": "北川美玖",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,32 @@ window.actressData = {
   "works_count": 7,
   "related_dramas": [
     {
-      "id": 94878,
-      "IDcode": "VAGU-270",
-      "title": "麗しのマネキン夫人 総集編4",
+      "id": 106736,
+      "IDcode": "VEO-064",
+      "title": "本物素人妻AV-北川美玖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2024-06-18",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/01/686316513ed39b57c0416336/cover.jpg",
+      "actress": [
+        "北川美玖"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-064"
+    },
+    {
+      "id": 94878,
+      "IDcode": "VAGU-270",
+      "title": "丽しのマネキン夫人 総集编4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20241105-1/3447daab9481bca872c773a5161311da.jpg",
       "actress": [
         "水野優香",
         "竹内夏希",
@@ -41,50 +57,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-270"
     },
     {
-      "id": 68137,
-      "IDcode": "VAGU-254",
-      "title": "クレーム処理のため自らマネキンになった女上司～麗しのマネキン夫人外伝～ 北川美玖 （ブルーレイディスク） （BOD）",
+      "id": 86605,
+      "IDcode": "VOD-014",
+      "title": "新一代的S级情色老婆-北川美玖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2023-02-17",
-      "cover_url": "",
-      "actress": [
-        "タイ",
-        "真琴",
-        "北川美玖"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-254"
-    },
-    {
-      "id": 68394,
-      "IDcode": "VEC-566",
-      "title": "美乳與陰道內部粘著按摩到失禁般高潮的人妻性感中出沙龍 只是為了老公想變得更加漂亮―。 北川美玖",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2022-12-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250411-1/adb742d51b7c7fac995fad88e99a5a2d.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/02/6864579a43d697271692d63a/cover.jpg",
       "actress": [
         "北川美玖"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-566"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-014"
     },
     {
       "id": 69670,
       "IDcode": "VEC-554",
-      "title": "母の親友 北川美玖",
+      "title": "母の親友-北川美玖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2022-09-30",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/d808746cd3f09009ac7197dc3836245d.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250313-1/be186eed90a66b8198b668316713bd71.jpg",
       "actress": [
         "タイ",
         "北川美玖"
@@ -92,45 +90,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-554"
     },
     {
-      "id": 86605,
-      "IDcode": "VOD-014",
-      "title": "本物素人妻ドキュメント第3弾 新・次世代型S級エロス妻がカメラを忘れて見つめあい本能で男を貪る情熱ベロキスセックス 北川美玖 （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2022-09-06",
-      "cover_url": "",
-      "actress": [
-        "北川美玖"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOD-014"
-    },
-    {
-      "id": 106736,
-      "IDcode": "VEO-064",
-      "title": "本物素人妻AV Debut！！控えめに言って‘最高の人妻’です― 北川美玖 （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2022-07-05",
-      "cover_url": "",
-      "actress": [
-        "北川美玖"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEO-064"
-    },
-    {
       "id": 69319,
       "IDcode": "VEC-571",
-      "title": "- VEC-571 - JAV目錄大全javmenu.com",
+      "title": "妻子的最好的朋友-北川美玖",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
       "publish_date": "",
       "cover_url": "",
@@ -138,6 +104,40 @@ window.actressData = {
         "北川美玖"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-571"
+    },
+    {
+      "id": 68394,
+      "IDcode": "VEC-566",
+      "title": "被弄到射精失禁-北川美玖",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/08/686bb89543d6972716da82b4/cover.jpg",
+      "actress": [
+        "北川美玖"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-566"
+    },
+    {
+      "id": 68137,
+      "IDcode": "VAGU-254",
+      "title": "女上司-北川美玖",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "タイ",
+        "真琴",
+        "北川美玖"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAGU-254"
     }
   ]
 };

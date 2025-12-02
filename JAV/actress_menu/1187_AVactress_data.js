@@ -36,8 +36,56 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230514/1bb3438e-03bf-4aa3-b40c-258ef76fc828.jpg",
     "https://picture.yoshiclub.xyz/20230514/36ee444e-2c1b-403a-b5a9-e4d435e88aff.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 19151,
+      "IDcode": "IPX-300",
+      "title": "F罩杯桃色乳房！ 中出OK秋葉原家電量販店禦宅系巨乳美少女AV出道 逸材發掘計畫",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2019-04-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20230708/20230708002224973973.jpg",
+      "actress": [
+        "渚ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-300"
+    },
+    {
+      "id": 19400,
+      "IDcode": "IPX-033",
+      "title": "可爱女优-渚ひかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230515/20230515232854961961.jpg",
+      "actress": [
+        "渚ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-033"
+    },
+    {
+      "id": 19371,
+      "IDcode": "IPX-066",
+      "title": "随时随地露出美乳诱惑的小恶魔妹妹渚光莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230522/20230522014538393393.jpg",
+      "actress": [
+        "渚ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-066"
+    },
     {
       "id": 19138,
       "IDcode": "IPX-313",
@@ -45,10 +93,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2019-05-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230712/20230712023708590590.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/921df2cc969da02096c1fbeea97e7691.jpg",
       "actress": [
         "大槻响",
         "篠田優",
@@ -56,22 +104,6 @@ window.actressData = {
         "篠田优"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-313"
-    },
-    {
-      "id": 19400,
-      "IDcode": "IPX-033",
-      "title": "搖搖晃晃的大奶子~激烈插入FUCK 大量顔射 ~ 渚ひかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-10-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230515/20230515232854961961.jpg",
-      "actress": [
-        "渚ひかり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-033"
     }
   ]
 };

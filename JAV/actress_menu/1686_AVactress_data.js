@@ -40,20 +40,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1921,
-      "IDcode": "SKYHD-073",
-      "title": "SKY ANGLE 73 可愛美少女純真無邪尻穴精液連注入敏感身体 ~ 双叶美佳",
+      "id": 158599,
+      "IDcode": "10MUSUME-092523_01",
+      "title": "AV女優になりたいスレンダー桃尻娘に逆ドッキリ！",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20230202/20230202040153227227.jpg",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250217/LPWwQtsb/1.jpg",
       "actress": [
         "双叶美佳"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=10MUSUME-092523_01"
     }
   ]
 };

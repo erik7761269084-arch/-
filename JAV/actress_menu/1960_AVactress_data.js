@@ -33,7 +33,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240513/dca88bbf-b3f3-49db-8731-81ef1b85ac64.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 14757,
@@ -42,7 +42,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2024-05-14",
       "cover_url": "https://picture.yoshiclub.xyz/20240512/20240512220912223223.jpg",
@@ -58,6 +58,59 @@ window.actressData = {
         "朝阳えま"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-219"
+    },
+    {
+      "id": 3227,
+      "IDcode": "MKMP-667",
+      "title": "君がイっても激ハメは終わらない！！マ〇コから頭の先まで駆け巡る快感 下から突き上げピストンBEST！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827110306816816_99438_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "倉本菫",
+        "松本一香",
+        "皆月光",
+        "天月梓",
+        "新村朱里",
+        "沙月惠奈",
+        "姫咲華",
+        "田中寧寧",
+        "藤森里穂",
+        "百永纱里奈",
+        "渚光希",
+        "冬愛琴音",
+        "有岡みう",
+        "月乃露娜",
+        "葵百合香",
+        "若宮葉月",
+        "松本菜奈実",
+        "绀野光",
+        "美波梢",
+        "日泉舞香",
+        "藤田梢",
+        "工藤拉拉",
+        "中城葵",
+        "宫泽千春",
+        "胡桃多惠",
+        "枢木葵",
+        "冰堂梨梨愛",
+        "早見奈奈",
+        "奏自由",
+        "河北春菜",
+        "若月玛丽亚",
+        "竹内美涼",
+        "冨安玲於奈",
+        "山本蓮加",
+        "富井美帆",
+        "川崎亜里沙",
+        "影山櫻"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-667"
     }
   ]
 };

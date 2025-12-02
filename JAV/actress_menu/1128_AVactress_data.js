@@ -41,28 +41,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230618/a477b554-fa3e-4be4-a597-62374ca54d74.jpg",
     "https://picture.yoshiclub.xyz/20230618/9376f09d-6884-4e2a-8138-b3e59d1ee417.jpg"
   ],
-  "works_count": 7,
+  "works_count": 16,
   "related_dramas": [
-    {
-      "id": 93433,
-      "IDcode": "NAMHS-003",
-      "title": "真正中出し映像集 第3回作 完全新作撮影本物ザーメン避妊具なしの生感セックス5名 計18発",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-08-22",
-      "cover_url": "",
-      "actress": [
-        "吉根柚莉爱",
-        "石田美久",
-        "隠岐玲",
-        "美羽すず",
-        "呉原みのん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMHS-003"
-    },
     {
       "id": 12622,
       "IDcode": "PPPE-235",
@@ -70,7 +50,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OPPAI",
       "publish_date": "2024-08-20",
       "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816001039573573.jpg",
@@ -86,7 +66,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2024-08-06",
       "cover_url": "https://picture.yoshiclub.xyz/20240805/6e524bd5-7729-4308-ad0a-ddcb6f331f1a.jpg",
@@ -102,42 +82,145 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
       "publish_date": "2024-07-12",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241015-1/63f05f8f877f25d1b746aca78eda5c2d.jpg",
       "actress": [
         "石田美久"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PAIS-069"
     },
     {
-      "id": 67027,
-      "IDcode": "AKO-524",
+      "id": 458801,
+      "IDcode": "210AKO-524",
       "title": "KANA 2発目",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2024-02-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250506-1/f741433721ab5dca6e340b73fa68ba18.jpg",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250430-1/a0d87f818fee372b2f3a1a265b407794.jpg",
       "actress": [
         "石田美久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-524"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=210AKO-524"
+    },
+    {
+      "id": 1432,
+      "IDcode": "HEYZO-2793",
+      "title": "擁有天然爆乳美少女的身體！Vol.3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2022-06-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20230617/20230617233631727727.jpg",
+      "actress": [
+        "石田美久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2793"
+    },
+    {
+      "id": 98602,
+      "IDcode": "RCT-723",
+      "title": "鬼百合女子校の拷問部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2015-04-09",
+      "cover_url": "",
+      "actress": [
+        "川越ゆい",
+        "石田美久",
+        "小西真理繪",
+        "春日野结衣",
+        "宫野えみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-723"
+    },
+    {
+      "id": 553818,
+      "IDcode": "1PONDO-090823_001",
+      "title": "川村里奈化身肉便器 窒息级侍奉颜面骑乘",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sha.lashayu.com/upload/vod/20250430-1/bb893583e91bd632f9bd887949aa618b.jpg",
+      "actress": [
+        "石田美久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-090823_001"
+    },
+    {
+      "id": 159204,
+      "IDcode": "CARIB-081923-001",
+      "title": "極上泡姫物語 Vol.117",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/QtZGpel8/1.jpg",
+      "actress": [
+        "石田美久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-081923-001"
+    },
+    {
+      "id": 159171,
+      "IDcode": "CARIB-090623-001",
+      "title": "セクシー女優エンサイクロペディア ～私たちの身体を隅々まで見て下さい5～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/VDWEOUZ8/1.jpg",
+      "actress": [
+        "赤井美月",
+        "櫻木梨乃",
+        "牧瀬みさ",
+        "石田美久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-090623-001"
+    },
+    {
+      "id": 158738,
+      "IDcode": "HEYZO-3066",
+      "title": "淫乱人妻のイケナイ午後Vol.2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/w4IKXwMn/1.jpg",
+      "actress": [
+        "石田美久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3066"
     },
     {
       "id": 105834,
       "IDcode": "AP-490",
-      "title": "ハードピストンイラマチオ本屋中出し痴漢",
+      "title": "HARD PISTON",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-11-19",
-      "cover_url": "https://tutu1.space/images/2024/02/23/89069777bff82f442ae1833669ff61d5.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "三原穗香",
         "石田美久",
@@ -148,22 +231,95 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-490"
     },
     {
-      "id": 77137,
-      "IDcode": "NHDTA-805",
-      "title": "扉を開けたらお姉ちゃんが手を使わないフェラの練習中！初めて見た姉の舌使いに欲情した弟は抑えがきかず禁断の近親相姦",
+      "id": 104735,
+      "IDcode": "SW-0542",
+      "title": "隔壁家新搬来的母女三人都觊觎着我的肉棒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2016-04-07",
-      "cover_url": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67815310c179ffb1db6d7b66/cover.jpg",
+      "actress": [
+        "石田美久",
+        "麻里梨夏",
+        "桐岛莉乃",
+        "大石香织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0542"
+    },
+    {
+      "id": 93433,
+      "IDcode": "NAMHS-003",
+      "title": "真正中出し映像集 第3回作 完全新作撮影本物ザーメン避妊具なしの生感セックス5名 計18発",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "なまなま",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/75787b67215542e55fdd95b05f853260.jpg",
+      "actress": [
+        "吉根柚莉爱",
+        "石田美久",
+        "隠岐玲",
+        "美羽すず",
+        "呉原みのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMHS-003"
+    },
+    {
+      "id": 77137,
+      "IDcode": "NHDTA-805",
+      "title": "禁断近親相姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20241005-1/17926eb554114b7870593d4b6bcb1c6e.jpg",
       "actress": [
         "石田美久",
         "麻里梨夏",
         "白石悠"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTA-805"
+    },
+    {
+      "id": 16001,
+      "IDcode": "MIFD-472",
+      "title": "最受欢迎男正妹是前S级美少女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240502-1/4794fac4c6ff7e3fd2e45c531d8604d3.jpg",
+      "actress": [
+        "石田美久",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-472"
+    },
+    {
+      "id": 12030,
+      "IDcode": "PPPE-258",
+      "title": "一名邻居看到一名无胸罩的已婚妇女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OPPAI",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67be97c0cf22ae3e0401f8f7/cover.jpg",
+      "actress": [
+        "石田美久",
+        "ニック"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-258"
     }
   ]
 };

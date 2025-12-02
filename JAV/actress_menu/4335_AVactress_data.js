@@ -33,10 +33,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Sadistic Village",
-      "publish_date": "2015-09-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/8aeb7332e752a16d15b056b0537756d6.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2d2053ebce083e5fde9372a5f9cd75be.jpg",
       "actress": [
         "早乙女ゆい",
         "大桥依织",

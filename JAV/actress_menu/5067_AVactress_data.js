@@ -4,7 +4,7 @@ window.actressData = {
   "name": "手岛くるみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 81714,
       "IDcode": "HOI-094",
-      "title": "tessy",
+      "title": "貧乳美少女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-04-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221101-1/5301fe7bd90dd481cd5b2999661eae2e.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "手岛くるみ"
       ],

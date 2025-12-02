@@ -4,7 +4,7 @@ window.actressData = {
   "name": "东条有希",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,72 +19,16 @@ window.actressData = {
   "works_count": 8,
   "related_dramas": [
     {
-      "id": 71182,
-      "IDcode": "HAVD-996",
-      "title": "感じる接吻 相思相愛レズビアン ～イカセ合う女同士の淫らな性生活～",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-05-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250226-1/6ea9293cf4985236a46266593833456f.jpg",
-      "actress": [
-        "阿部乃美久",
-        "东条有希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-996"
-    },
-    {
-      "id": 83101,
-      "IDcode": "MDTM-618",
-      "title": "イマドキ女子大生の過激なセックスライフ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
-      "actress": [
-        "水谷あおい",
-        "凉美ほのか",
-        "东条有希",
-        "西村春香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-618"
-    },
-    {
-      "id": 78140,
-      "IDcode": "MGT-099",
-      "title": "街角シロウトナンパ！ vol.74 ナイトプール編 4",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/27166c6072f3ee8dcc7144aeedede761.jpg",
-      "actress": [
-        "深田詠美",
-        "永野司",
-        "七海雛",
-        "ゆうき",
-        "东条有希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-099"
-    },
-    {
       "id": 78205,
       "IDcode": "MGT-095",
-      "title": "街角シロウトナンパ！ vol.70 ナイトプール編3",
+      "title": "街角シロウトナンパ！vol.70ナイトプール編3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a0e1af8da79126a7b2b90b1d440b9d26.jpg",
       "actress": [
         "百瀬凛花",
         "东条有希",
@@ -95,44 +39,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-095"
     },
     {
-      "id": 75036,
-      "IDcode": "SIM-049",
-      "title": "キレイになりたい女子○生にボディメイクと偽り的外れのマッサージで感じるツボを超刺激したら爆イキエビ反り膣痙攣！？射精してもチ○ポが抜けない精子駄々漏れ強制中出しSEX！！",
+      "id": 526050,
+      "IDcode": "200GANA-2137",
+      "title": "プールナンパ 27 人気のナイトプールで见つけた水着美女！知らない男にしつこく络まれるわ、スイートだと闻いて通された部屋が夜景すら微妙な普通の部屋だわ…。ガン萎えだったにもかかわらず、アルコールが入った途端ヤりたい欲を抑えきれなくなり、同僚放置でセックス始めッ！！1",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-15",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-08-10",
       "cover_url": "",
       "actress": [
-        "宫泽千春",
-        "向理来",
-        "爱瀬るか",
-        "东条有希",
-        "小园梨央"
+        "富田优衣",
+        "东条有希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-049"
-    },
-    {
-      "id": 78499,
-      "IDcode": "MGT-092",
-      "title": "街角シロウトナンパ！ vol.67女子大生をガチ口説き。9",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/518e55bcca65a7ce723ef3877ce24174.jpg",
-      "actress": [
-        "早美怜夢",
-        "野野原薺",
-        "永濑唯",
-        "东条有希",
-        "菊川みつ叶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-092"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2137"
     },
     {
       "id": 94898,
@@ -141,10 +62,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ASSMI",
-      "publish_date": "2019-11-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9e02dfa4a4fdcf64a1b2fdb8f3bef6e.jpg",
       "actress": [
         "天音りおん",
         "森林原人",
@@ -157,21 +78,100 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMA-052"
     },
     {
-      "id": 74524,
-      "IDcode": "GANA-2137",
-      "title": "プールナンパ 27 人気のナイトプールで見つけた水着美女！知らない男にしつこく絡まれるわ、スイートだと聞いて通された部屋が夜景すら微妙な普通の部屋だわ…。ガン萎えだったにもかかわらず、アルコールが入った途端ヤりたい欲を抑えきれなくなり、同僚放置でセックス始めッ！！",
+      "id": 83101,
+      "IDcode": "MDTM-618",
+      "title": "イマドキ女子大生の過激なセックスライフ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-08-10",
-      "cover_url": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/6f536c7938598e5a3f1f748abdaeef71.jpg",
       "actress": [
-        "富田优衣",
+        "水谷あおい",
+        "凉美ほのか",
+        "东条有希",
+        "西村春香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-618"
+    },
+    {
+      "id": 78499,
+      "IDcode": "MGT-092",
+      "title": "街角シロウトナンパ！ vol.67女子大生をガチ口説き。9",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d95056e0cf1d51d004ca4b01176a57c5.jpg",
+      "actress": [
+        "永瀬ゆい",
+        "早美怜夢",
+        "野野原薺",
+        "东条有希",
+        "菊川みつ叶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-092"
+    },
+    {
+      "id": 78140,
+      "IDcode": "MGT-099",
+      "title": "街角シロウトナンパ！ vol.74 ナイトプール編 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0046603608935676234eb31a474d7ee1.jpg",
+      "actress": [
+        "深田詠美",
+        "永野司",
+        "七海雛",
+        "ゆうき",
         "东条有希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2137"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-099"
+    },
+    {
+      "id": 75036,
+      "IDcode": "SIM-049",
+      "title": "キレイになりたい女子○生にボディメイクと偽り的",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/8f6034248e156f605ae8d87a216cde81.jpg",
+      "actress": [
+        "宫泽千春",
+        "向理来",
+        "爱瀬るか",
+        "东条有希",
+        "小园梨央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIM-049"
+    },
+    {
+      "id": 71182,
+      "IDcode": "HAVD-996",
+      "title": "感じる接吻 相思相愛レズビアン ～イカセ合う女同士の淫らな性生活～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0148d7975477c0c3b4a06d694a7ce4b7.jpg",
+      "actress": [
+        "阿部乃美久",
+        "东条有希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-996"
     }
   ]
 };

@@ -65,20 +65,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1744,
-      "IDcode": "smbd-20",
-      "title": "S Model 20 女子校生淫亂放課後 ~ 天宮真理留",
+      "id": 140925,
+      "IDcode": "CARIBBEANCOM-091322-001",
+      "title": "大人精致的疗愈亭全程热情款待",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2010-12-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/e58e34b9-8807-49ba-bd7f-56fa0bf6c8eb.webp",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250125-1/d8ead160fe4e61d9d57e6692799fc267.jpg",
       "actress": [
         "天宮真理留"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=smbd-20"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-091322-001"
     }
   ]
 };

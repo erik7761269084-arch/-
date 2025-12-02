@@ -38,41 +38,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241215/b6dca24d-b9a7-491d-bd9f-26c1748869cb.jpg",
     "https://picture.yoshiclub.xyz/20241215/fc07aa43-cbc6-433b-af61-c5e7e89357ed.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 8622,
-      "IDcode": "JUNY-148",
-      "title": "回到田園詩般的鄉村家鄉，豐滿的青梅竹馬和表妹緊緊地依偎着我。汗流浹背、連續不斷的中出後宮雞巴爭奪戰 ~ 塚田詩織 南畑颯花",
+      "id": 88728,
+      "IDcode": "WFIT-001",
+      "title": "本物スーパー恵体淫乱才女AVデビュー 雨宮まどか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130083557194194.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-07-25",
+      "cover_url": "https://tuaskbgnekr.com/20240910/CbhDZ4kc/1.jpg",
       "actress": [
-        "塚田詩織",
         "南畑颯花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-148"
-    },
-    {
-      "id": 9010,
-      "IDcode": "VENZ-036",
-      "title": "在約炮APP上匹配上的人妻，激烈口交，操到陰部疼痛，不能讓丈夫知道的24小時不間斷祕密交尾 ~ 南畑颯花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250118/8468a9ac-3ef6-4b81-8a05-4180b89dcb31.jpg",
-      "actress": [
-        "南畑颯花",
-        "アリト"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WFIT-001"
     },
     {
       "id": 9854,
@@ -81,9 +63,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOGMA",
-      "publish_date": "2024-12-17",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241215/6c40203b-ef29-4988-bdae-ff23b648d6ba.jpg",
       "actress": [
         "南畑颯花"
@@ -91,20 +73,56 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-093"
     },
     {
-      "id": 88728,
-      "IDcode": "WFIT-001",
-      "title": "本物スーパー恵体淫乱才女AVデビュー 雨宮まどか",
+      "id": 9010,
+      "IDcode": "VENZ-036",
+      "title": "陌生的对手所以能淫荡的配对软体妻子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-07-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250118/8468a9ac-3ef6-4b81-8a05-4180b89dcb31.jpg",
       "actress": [
+        "南畑颯花",
+        "アリト"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-036"
+    },
+    {
+      "id": 8622,
+      "IDcode": "JUNY-148",
+      "title": "のどかな田舎の実家に里帰りした僕を肉感的な幼馴染と従姉の2人が密着圧迫してチ〇ポを奪い合う汗だく中出し連続射精ハーレムSEX 塚田詩織 南畑颯花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/391e8af167d2a4db0de359bd3067cd7e.jpg",
+      "actress": [
+        "塚田詩織",
         "南畑颯花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WFIT-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-148"
+    },
+    {
+      "id": 2926,
+      "IDcode": "MKMP-669",
+      "title": "フェチズム満載の超接写！ド迫力のエグすぎる爆乳・爆尻の変態痴女とハメまくる爆肉ハーレムPARTY！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/04ad3e88/vod.jpg",
+      "actress": [
+        "星明日菜",
+        "藤沢麗央",
+        "南畑颯花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-669"
     }
   ]
 };

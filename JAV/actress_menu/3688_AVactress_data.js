@@ -4,7 +4,7 @@ window.actressData = {
   "name": "服部义",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,34 +19,16 @@ window.actressData = {
   "works_count": 8,
   "related_dramas": [
     {
-      "id": 72877,
-      "IDcode": "SQTE-312",
-      "title": "デビューして半年 感度200％UP（当社比） 吉良りん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S-CUTE",
-      "publish_date": "2020-07-13",
-      "cover_url": "",
-      "actress": [
-        "吉良鈴",
-        "タツ",
-        "服部义"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-312"
-    },
-    {
       "id": 82180,
       "IDcode": "SQTE-292",
       "title": "挿れたい身体 ～敏感美少女とのエッチ～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-04-01",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/r5XLGSRW/1.jpg",
       "actress": [
         "妃月るい",
         "心音にこ",
@@ -65,10 +47,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-03-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/d3b669dbd704a47e41167f808d0d6217.jpg",
+      "cover_url": "",
       "actress": [
         "加藤桃香",
         "八乃翼",
@@ -85,10 +67,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-02-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/f89f9aa2ec9fa723f91130ad51ac25f1.jpg",
+      "cover_url": "",
       "actress": [
         "志田雪奈",
         "タツ",
@@ -100,47 +82,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-285"
     },
     {
-      "id": 78424,
-      "IDcode": "CMI-159",
-      "title": "ゲスの極み映像 生配信2人目",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-11-15",
-      "cover_url": "",
-      "actress": [
-        "服部义"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMI-159"
-    },
-    {
-      "id": 69952,
-      "IDcode": "SUPA-449",
-      "title": "高確率でヤレると噂のマッチングアプリで会った爆乳Nさん（広島県出身/上京し一人暮らし/丸の内の証券会社勤務）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S級素人",
-      "publish_date": "2019-04-26",
-      "cover_url": "",
-      "actress": [
-        "服部义"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-449"
-    },
-    {
       "id": 87969,
       "IDcode": "KFNE-001",
       "title": "NTR温泉VOL.1",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-16",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "推川悠里",
@@ -153,16 +103,66 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KFNE-001"
     },
     {
-      "id": 67045,
-      "IDcode": "ABP-405",
-      "title": "ミッドナイトクルーズ 鈴村あいり",
+      "id": 78424,
+      "IDcode": "CMI-159",
+      "title": "究極人渣幹砲影像 實況轉播第2人[有碼高清]",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-12-10",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/56dc85471b2a017cecaf80f4a10c450d.jpg",
+      "actress": [
+        "服部义"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMI-159"
+    },
+    {
+      "id": 72877,
+      "IDcode": "SQTE-312",
+      "title": "デビューして半年 感度200％UP（当社比） 吉良りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1023edc161b5071743424fdc79ec456e.jpg",
+      "actress": [
+        "吉良鈴",
+        "タツ",
+        "服部义"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-312"
+    },
+    {
+      "id": 69952,
+      "IDcode": "SUPA-449",
+      "title": "高確率でヤレると噂のマッチングアプリで会った爆乳Nさん（広島県出身/上京し一人暮らし/丸の内の証券会社勤務）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S級素人",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/855e7a3c144ba5873286fd3a6b35c51a.jpg",
+      "actress": [
+        "服部义"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUPA-449"
+    },
+    {
+      "id": 67045,
+      "IDcode": "ABP-405",
+      "title": "午夜巡航-鈴村あいり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/6c51a20f10b4113360effc6562f5e9e5.jpg",
       "actress": [
         "鈴村愛里",
         "服部义"

@@ -35,56 +35,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230122/249d7f9c-288b-4f0c-919d-f4c673c47bea.jpg",
     "https://picture.yoshiclub.xyz/20230122/13062023-e749-41bc-a3c9-3860cbd77a89.jpg"
   ],
-  "works_count": 5,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1754,
-      "IDcode": "MCBD-07",
-      "title": "MERCIBOKU 07 妹系＆模特兒系 雙卡斯 : 安城安娜,秋野早苗",
+      "id": 834,
+      "IDcode": "HEYZO-1034",
+      "title": "持續生中出～連續肏到內射～ - 安城安娜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2015-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/1aefa750-0a9f-426d-82a1-3ddedf4becee.webp",
-      "actress": [
-        "安城安娜",
-        "秋野早苗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-07"
-    },
-    {
-      "id": 1808,
-      "IDcode": "LAFBD-21",
-      "title": "林間少女 21 安城安娜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2014-04-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/3122eccb-cc80-4a85-aa37-339bd4a0fb42.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-12-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240529/9a5f868d-4d31-4ff2-9c90-43f862da4e61.jpg",
       "actress": [
         "安城安娜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-21"
-    },
-    {
-      "id": 1765,
-      "IDcode": "CWPBD-98",
-      "title": "走秀毒98 安娜的同居日記：安城安娜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2014-02-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/b1f23ac3-0fd4-4890-921b-1bb218c09cbe.webp",
-      "actress": [
-        "安城安娜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-98"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1034"
     },
     {
       "id": 82862,
@@ -93,10 +60,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2012-09-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/25aab9352735d74722b59f74dcc170aa.jpg",
       "actress": [
         "安城安娜"
       ],
@@ -109,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2012-02-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/5e49629d2e52f6ce51b5665c10c4ff94.jpg",
       "actress": [
         "安城安娜"
       ],

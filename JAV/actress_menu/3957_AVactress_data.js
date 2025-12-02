@@ -4,7 +4,7 @@ window.actressData = {
   "name": "斎藤まりな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,27 +19,20 @@ window.actressData = {
   "works_count": 7,
   "related_dramas": [
     {
-      "id": 70005,
-      "IDcode": "BMW-330",
-      "title": "濃厚親父×ナマイキ制服少女 ネッチョリわからせ種付けレ●プ80発",
+      "id": 70656,
+      "IDcode": "SDAB-156",
+      "title": "いいなり制服美少女 絶対服従 生ハメ中出し性交 斎藤まりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "WANZ FACTORY",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/16/345b1459/vod.jpg",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/84384a99059524a7abdd73aa7100f378.jpg",
       "actress": [
-        "月野香澄",
-        "渚光希",
-        "東條夏",
-        "工藤拉拉",
-        "椎名空",
-        "桐谷茉莉",
-        "安倍亜沙美",
         "斎藤まりな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-156"
     },
     {
       "id": 87523,
@@ -48,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLAYz",
       "publish_date": "2022-09-05",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1220f76b2252719c00f5d1b8bce6e15d.jpg",
       "actress": [
         "工藤拉拉",
         "斎藤まりな"
@@ -65,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2022-08-23",
       "cover_url": "",
@@ -83,10 +76,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-03-22",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/3ebd2618494f9f2fc893e795c4f68c6a.jpg",
       "actress": [
         "渚光希",
         "斎藤まりな"
@@ -100,10 +93,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-03-08",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c7a8cc1752ccd8316a3d3eb77be7d2cc.jpg",
       "actress": [
         "斎藤まりな",
         "山本莲加"
@@ -117,30 +110,37 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2021-08-19",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20220929-1/791bab9269e2b80c804033ca06a476f6.jpg",
       "actress": [
         "斎藤まりな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-328"
     },
     {
-      "id": 70656,
-      "IDcode": "SDAB-156",
-      "title": "いいなり制服美少女 絶対服従 生ハメ中出し性交 斎藤まりな",
+      "id": 70005,
+      "IDcode": "BMW-330",
+      "title": "濃厚親父×ナマイキ制服少女 ネッチョリわからせ種付けレ●プ80発",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-12-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/6b5b89b1763d7185a306b2f1795cc1db.jpg",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
+        "月野香澄",
+        "渚光希",
+        "東條夏",
+        "工藤拉拉",
+        "椎名空",
+        "桐谷茉莉",
+        "安倍亜沙美",
         "斎藤まりな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-156"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-330"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "星名千聖",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 104676,
+      "IDcode": "GMEM-109",
+      "title": "女王様本格調教-星名千聖",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/18/6851a82e43d6972716d0f2e6/cover.jpg",
+      "actress": [
+        "星名千聖"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMEM-109"
+    },
     {
       "id": 90089,
       "IDcode": "QRDC-034",
@@ -25,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2023-12-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240112-1/9b53bdf17d1182fcf1308c671cab0aa9.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240115-1/d88a49992c7c703de321c6a16a474444.jpg",
       "actress": [
         "HOTARU",
         "辰神丽子",

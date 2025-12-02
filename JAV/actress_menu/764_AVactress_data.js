@@ -33,88 +33,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230511/d08931c2-2614-4e8d-a28a-241972ee3979.jpg",
     "https://picture.yoshiclub.xyz/20230511/236713c5-e42c-4a1f-8844-e85fe3e5ea1e.jpg"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 71817,
-      "IDcode": "CLUB-502",
-      "title": "ボクの事を昔イジメていたヤンキー娘が美人妻になって健全なマッサージ店で性的サービスをしている情報を入手、それをネタに復讐ついでに中出しまでした件。18",
+      "id": 98778,
+      "IDcode": "JUY-451",
+      "title": "これが私の昼の顔 星川光希 衝撃移籍！！《専属》美顔妻の昼の顔！！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "変態紳士倶楽部",
-      "publish_date": "2018-10-01",
-      "cover_url": "",
-      "actress": [
-        "星川光希",
-        "君岛美绪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-502"
-    },
-    {
-      "id": 77423,
-      "IDcode": "JUY-489",
-      "title": "マドンナ専属 衝撃移籍第2弾！！ 私を愛してくれる義父と結ばれて ～絶倫肉棒に疼く美嫁の肉体～ 星川光希",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2018-05-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241123-1/034973b80dd8b2d085b9c368ee33afb4.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-04-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/juy451/juy451pl.jpg",
       "actress": [
         "星川光希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-489"
-    },
-    {
-      "id": 19385,
-      "IDcode": "IPX-055",
-      "title": "星川光希全程潮吹217次&總量超3000ml突破極限飛濺",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-12-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230517/20230517231449336336.jpg",
-      "actress": [
-        "星川光希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-055"
-    },
-    {
-      "id": 19403,
-      "IDcode": "IPX-036",
-      "title": "整個吞下，汁水亂流 强烈吸吮 ~ 星川光希",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-11-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230515/20230515233036769769.jpg",
-      "actress": [
-        "星川光希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-036"
-    },
-    {
-      "id": 19412,
-      "IDcode": "IPX-020",
-      "title": "色情蕩婦護士喜歡在嘴裡射精。激進而令人興奮！恐怖的戴綠帽技巧爆發！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20230513/20230513103707281281.jpg",
-      "actress": [
-        "星川光希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-451"
     },
     {
       "id": 19427,
@@ -123,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2017-09-13",
       "cover_url": "https://picture.yoshiclub.xyz/20230511/20230511030650429429.jpg",
@@ -131,6 +66,103 @@ window.actressData = {
         "星川光希"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-003"
+    },
+    {
+      "id": 77423,
+      "IDcode": "JUY-489",
+      "title": "マドンナ専属 衝撃移籍第2弾！！ 私を愛してくれる義父と結ばれて ～絶倫肉棒に疼く美嫁の肉体～ 星川光希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/27cf4f8f1a9301c19758663fb570c7f6.jpg",
+      "actress": [
+        "星川光希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-489"
+    },
+    {
+      "id": 71817,
+      "IDcode": "CLUB-502",
+      "title": "ボクの事を昔イジメていたヤンキー娘が美人妻になって健全なマッサージ店で性的サービスをしている情報を入手、それをネタに復讐ついでに中出しまでした件。18",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "変態紳士倶楽部",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7e188edf88c54244b3919c673860d0c9.jpg",
+      "actress": [
+        "星川光希",
+        "君岛美绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-502"
+    },
+    {
+      "id": 19412,
+      "IDcode": "IPX-020",
+      "title": "荡妇护士-星川光希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230513/20230513103707281281.jpg",
+      "actress": [
+        "星川光希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-020"
+    },
+    {
+      "id": 19380,
+      "IDcode": "IPX-070",
+      "title": "美人妻-星川光希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230522/20230522020726375375.jpg",
+      "actress": [
+        "星川光希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-070"
+    },
+    {
+      "id": 19337,
+      "IDcode": "IPX-103",
+      "title": "逮住肉棒就不会松口-星川光希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230528/20230528220035893893.jpg",
+      "actress": [
+        "星川光希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-103"
+    },
+    {
+      "id": 19334,
+      "IDcode": "IPX-111",
+      "title": "在丈夫面前被侵犯-星川光希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230531/20230531000137376376.jpg",
+      "actress": [
+        "星川光希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-111"
     }
   ]
 };

@@ -41,31 +41,33 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 2805,
-      "IDcode": "MIDA-335",
-      "title": "中出初解禁！直接內射爽翻天 ~ 辻野唯",
+      "id": 4522,
+      "IDcode": "MIDA-228",
+      "title": "新人 専属 某有名坂アイドルグループのライブ会場で見つけた原石美少女。めっちゃ敏感オタゆいちゃん（20歳）一人暮らし中AVデビュー 辻野ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020239606606_79031_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "辻野唯"
+        "辻野唯",
+        "鲛岛",
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-335"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-228"
     },
     {
       "id": 3550,
       "IDcode": "MIDA-294",
-      "title": "極限挑戰 被幹到失控 胸部抖不停 敏感反應爆棚 三本番 ~ 辻野唯",
+      "title": "高潮连连让双乳弹跳不已的敏感反应三连发-辻野ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025351769769_35907_thumbnail.webp",
       "actress": [
         "辻野唯",
@@ -74,22 +76,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-294"
     },
     {
-      "id": 4522,
-      "IDcode": "MIDA-228",
-      "title": "MOODYZ專屬新人出道！ 某知名阪系地下偶像演唱會挖到的原石級美少女！超敏感20歲獨居宅女 AV DEBUT ~ 辻野唯",
+      "id": 2805,
+      "IDcode": "MIDA-335",
+      "title": "初めてのデート、初めての中出し 辻野ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031925159159_55060_s.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/22/22cdf3d7ba79574d1430521eb0b020a9.jpg",
       "actress": [
-        "辻野唯",
-        "鲛岛",
-        "イセドン内村"
+        "辻野唯"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-228"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-335"
     }
   ]
 };

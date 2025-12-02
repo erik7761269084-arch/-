@@ -30,36 +30,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 1850,
-      "IDcode": "CWPBD-69",
-      "title": "CATWALK POISON 69 ～被虐乳生姦～ : 小澤愛麗絲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2012-09-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/d4011950-47ad-4167-8219-cf86053cfe9d.webp",
-      "actress": [
-        "小澤愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-69"
-    },
-    {
       "id": 88304,
       "IDcode": "EBOD-165",
       "title": "小沢アリスE-BODY専属DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2011-09-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/33feff2c043c13ae8ef127a81f91c4c2.jpg",
       "actress": [
         "小澤愛麗絲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-165"
+    },
+    {
+      "id": 1850,
+      "IDcode": "CWPBD-69",
+      "title": "マゾ乳生姦～小沢アリス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cd6fe44e7d663df4db88b8/cover.jpg",
+      "actress": [
+        "小澤愛麗絲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-69"
     }
   ]
 };

@@ -29,48 +29,48 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 69588,
-      "IDcode": "FERA-195",
-      "title": "セックスの練習台になってくれた母 母親とのセックスが良すぎるせいで彼女と別れた僕は夢中で何度も中出ししまくった 久保田早苗",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2025-04-03",
-      "cover_url": "",
-      "actress": [
-        "久保田早苗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-195"
-    },
-    {
       "id": 70541,
       "IDcode": "JURA-140",
-      "title": "初撮り人妻ドキュメント第二章 久保田早苗",
+      "title": "初次拍攝人妻紀錄片第二章-久保田早苗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-03-06",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcee16ce5a404e9bc4528a/cover.jpg",
       "actress": [
         "久保田早苗"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-140"
     },
     {
-      "id": 8522,
-      "IDcode": "JRZE-230",
-      "title": "初撮人妻 ~ 久保田早苗",
+      "id": 69588,
+      "IDcode": "FERA-195",
+      "title": "FERA-195 セックスの練習台になってくれた母 母親とのセックスが良すぎるせいで彼女と別れた僕は夢中で何度も中出ししまくった 久保田早苗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/3f11fc94-55e7-4113-af88-60d94fae76ea.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897e7e96ccb447f8c5ec338/cover.jpg",
+      "actress": [
+        "久保田早苗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-195"
+    },
+    {
+      "id": 8522,
+      "IDcode": "JRZE-230",
+      "title": "初撮り人妻ドキュメント 久保田早苗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "久保田早苗"
       ],

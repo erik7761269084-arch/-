@@ -4,7 +4,7 @@ window.actressData = {
   "name": "堀りほ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 75649,
       "IDcode": "SSNI-657",
-      "title": "新人NO.1 STYLE あどけない18才と7ヵ月 堀りほ1本限定。奇跡のAV出演",
+      "title": "天真无邪的18岁美少女AV出道一片限定",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-12-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/2d9d224bac4f825d24fb8f2085bc6771.jpg",
       "actress": [
         "玉木玲",
         "堀りほ"

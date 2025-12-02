@@ -42,19 +42,113 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231108/ddf64eaa-71df-4bf9-a9a8-0a505fa38765.jpg",
     "https://picture.yoshiclub.xyz/20231108/8cf0d178-f7d0-48d2-b0e4-e10807a784e1.jpg"
   ],
-  "works_count": 2,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 9659,
-      "IDcode": "AVSA-353",
-      "title": "都怪你穿成這樣出門了，尾行綁架輪奸綺麗姐姐 ~ 北乃由奈",
+      "id": 10056,
+      "IDcode": "CEAD-653",
+      "title": "爲了尋找快感三味！身體一動不動的高潮絕頂豔舞！ 4 ~ 北乃由奈 前田美波 等14超級性感淫體",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2024-12-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20241208/5542960c-5ec8-48be-89f6-6ad23d231866.jpg",
+      "actress": [
+        "新村朱里",
+        "前田美波",
+        "堀北実来",
+        "愛瀬優里",
+        "白木優子",
+        "上戶真理",
+        "白河花清",
+        "今井惠美",
+        "北乃由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-653"
+    },
+    {
+      "id": 14905,
+      "IDcode": "AARM-227",
+      "title": "乳頭被舔，唾液和油打手槍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "2024-05-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20240509/77070cbc-f541-4500-9756-0be30f8565da.jpg",
+      "actress": [
+        "倉木詩織",
+        "伊東沙蘭",
+        "佐倉陽菜",
+        "北乃由奈",
+        "早乙女らぶ",
+        "原美织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-227"
+    },
+    {
+      "id": 15082,
+      "IDcode": "NEOB-039",
+      "title": "變態瘋子無與倫比的集團肛門羣交 ~ 北乃由奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240502/20240502182357569569.jpg",
+      "actress": [
+        "北乃由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOB-039"
+    },
+    {
+      "id": 17973,
+      "IDcode": "MVG-067",
+      "title": "競技泳衣肛門被操",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2023-11-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20231106/20231106003713890890.jpg",
+      "actress": [
+        "北乃由奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-067"
+    },
+    {
+      "id": 16826,
+      "IDcode": "HBAD-674",
+      "title": "家庭訪問女老師-西海紫苑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/08/686ba71d3ed39b57c09b0309/cover.jpg",
+      "actress": [
+        "北乃由奈",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-674"
+    },
+    {
+      "id": 9659,
+      "IDcode": "AVSA-353",
+      "title": "そんな格好で出歩く君が悪いんだ 綺麗なお姉さんを連れ去り醜態に晒す 西海しおん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241221/20241221092805265265.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787904b8daf6b1db43c2d1a/cover.jpg",
       "actress": [
         "北乃由奈",
         "ニック"
@@ -62,21 +156,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-353"
     },
     {
-      "id": 16826,
-      "IDcode": "HBAD-674",
-      "title": "上門拜訪女教師不可饒恕的欲望 西海紫苑 26歲",
+      "id": 3271,
+      "IDcode": "CEAD-698",
+      "title": "究極のオナサポ！主観命令オナニー！Vol.2 エロい身体で最高の射精に誘う厳選人気美女優15人！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2024-01-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20240111/c0aeb5e1-4386-42ef-849e-69c7eae90f73.jpg",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21e7cfbe7fd63de7f79eb/cover.jpg",
       "actress": [
+        "波多野结衣",
+        "宮城理惠",
+        "水川潤",
+        "友田彩也香",
+        "夏川步美",
+        "吉泽友贵",
+        "紗紗原百合",
+        "白木優子",
+        "月見若葉",
+        "西村ニーナ",
+        "白河花清",
+        "一場れいか",
         "北乃由奈",
-        "タツ"
+        "安野由美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-674"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-698"
     }
   ]
 };

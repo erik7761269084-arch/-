@@ -4,7 +4,7 @@ window.actressData = {
   "name": "CHIYU",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106999,
       "IDcode": "HMN-275",
-      "title": "新人 喜歡騎乘位乳頭激凸苗條母乳人妻中出AV出道 CHIYU",
+      "title": "母乳人妻-CHIYU",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2022-10-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b071b43d697271628e88e/cover.jpg",
       "actress": [
         "CHIYU"
       ],

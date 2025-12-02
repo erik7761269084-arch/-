@@ -26,36 +26,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 1595,
-      "IDcode": "SOE-419",
-      "title": "神所給予的超優曲線與爆乳 小澤真理奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "S1",
-      "publish_date": "2010-06-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230404/905efd51-8aec-4d9e-921f-1608d61cc4be.jpg",
-      "actress": [
-        "小沢真理奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-419"
-    },
-    {
       "id": 78998,
       "IDcode": "SOE-435",
-      "title": "- 夫の目の前で犯された幼妻 小沢真理奈 - JAV目錄大全javmenu.com",
+      "title": "年轻妻子在其丈夫面前被强奸",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
+      "type": "",
+      "company": "",
       "publish_date": "",
       "cover_url": "",
       "actress": [
         "小沢真理奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-435"
+    },
+    {
+      "id": 1595,
+      "IDcode": "SOE-419",
+      "title": "神所給予的超優曲線與爆乳 小澤真理奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/83825de8909a6606c9abf7c95f4879b0.jpg",
+      "actress": [
+        "小沢真理奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-419"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "黒石ジュリア",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,9 +25,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2020-01-31",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "夏川海",
@@ -38,16 +38,35 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-595"
     },
     {
+      "id": 76789,
+      "IDcode": "SCPX-371",
+      "title": "微笑店員",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d4c1f19072af1ee579e9c82b5579676c.jpg",
+      "actress": [
+        "星咲ひな",
+        "REN(月乃なつき)",
+        "南なつき",
+        "黒石ジュリア"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
+    },
+    {
       "id": 76252,
       "IDcode": "GZAP-009",
       "title": "痴●対策で海の家の護身術道場に来た水着ギャルはスキだらけでヤリ放題w稽古中に密着セクハラ仕掛けたら…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/41bcd7b8238c10a460320071c48b0b4c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/50741d2ca908c4816004c16172524fe7.jpg",
       "actress": [
         "七海雛",
         "叶月美音",
@@ -63,10 +82,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/bb6b92ab5c96c276eb8aa14cd72bfcc8.jpg",
       "actress": [
         "七海雛",
         "叶月美音",
@@ -74,25 +93,6 @@ window.actressData = {
         "黒石ジュリア"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GGEN-003"
-    },
-    {
-      "id": 76789,
-      "IDcode": "SCPX-371",
-      "title": "客の僕をダサいってバカにしてたくせに…試着室で2人になった瞬間デカチン勃起見せつけたらエロ笑顔でニッコリ微笑んで来たギャル店員「お客様…内緒ですよ」",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "",
-      "actress": [
-        "星咲ひな",
-        "REN(月乃なつき)",
-        "南なつき",
-        "黒石ジュリア"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
     }
   ]
 };

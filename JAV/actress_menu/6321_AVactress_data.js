@@ -4,7 +4,7 @@ window.actressData = {
   "name": "三ツ星りぼん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 100134,
       "IDcode": "MIDD-729",
-      "title": "セクハラオフィス 藤本リーナ 三ツ星りぼん",
+      "title": "性骚扰办公室",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-01-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-9/44865dabd50bedd1917e0c3b70f8af24.jpg",
       "actress": [
         "滝本エレナ",
         "三ツ星りぼん"

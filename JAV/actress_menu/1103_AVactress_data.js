@@ -33,23 +33,104 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240331/e634e486-8add-4b01-8395-9d105fb36643.jpg",
     "https://picture.yoshiclub.xyz/20240331/6a801f8b-a69f-4aca-88be-6d3c13a82054.jpg"
   ],
-  "works_count": 1,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 15065,
-      "IDcode": "ADN-553",
-      "title": "妻子成爲了繪畫模特，被NTR了 ~ 加藤妃乃",
+      "id": 12118,
+      "IDcode": "CEMD-576",
+      "title": "我的緊縛做愛 ~ 加藤妃乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2024-09-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240909/ae7cf701-c586-4310-b6a2-f66bd3b89349.jpg",
+      "actress": [
+        "加藤妃乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-576"
+    },
+    {
+      "id": 13858,
+      "IDcode": "HDKA-302",
+      "title": "居住在小金井市的裸體家庭主婦加藤妃乃 (37)",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "2024-06-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620014032480480.jpg",
+      "actress": [
+        "加藤妃乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-302"
+    },
+    {
+      "id": 96666,
+      "IDcode": "EUUD-053",
+      "title": "浮気中毒的妻子的體內射精性兼職工作",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "加藤妃乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-053"
+    },
+    {
+      "id": 15765,
+      "IDcode": "ADN-544",
+      "title": "我和儿子的朋友做了-加藤妃乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2024-05-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503043042577577.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331012449768768.jpg",
+      "actress": [
+        "加藤妃乃",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-544"
+    },
+    {
+      "id": 15065,
+      "IDcode": "ADN-553",
+      "title": "我的妻子被戴上了绿帽子-加藤妃乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/062b2ee9fa7a59c457c1459619ab435f.jpg",
       "actress": [
         "加藤妃乃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-553"
+    },
+    {
+      "id": 10503,
+      "IDcode": "NACR-876",
+      "title": "我的妻子是邻居的情妇-加藤妃乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241120/513afdb7-c6de-45f3-aa97-2b36f59a988d.jpg",
+      "actress": [
+        "加藤妃乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-876"
     }
   ]
 };

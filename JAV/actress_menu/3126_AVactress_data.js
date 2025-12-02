@@ -4,7 +4,7 @@ window.actressData = {
   "name": "塚原かえで",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 62038,
       "IDcode": "JRZE-252",
-      "title": "初撮り人妻ドキュメント 塚原かえで",
+      "title": "初次拍摄的少妇纪录片-塚原かえで",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-07-10",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/15/0fdd7257/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250718-1/bf1933f224b542b921bbbd457ef6f638.jpg",
       "actress": [
         "塚原かえで"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 59883,
       "IDcode": "JURA-161",
-      "title": "- 初撮り人妻ドキュメント第三章 塚原かえで - JAV目錄大全javmenu.com",
+      "title": "初撮り人妻ドキュメント第三章 塚原かえで",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/26/7097ef39/vod.jpg",
+      "cover_url": "",
       "actress": [
         "塚原かえで"
       ],

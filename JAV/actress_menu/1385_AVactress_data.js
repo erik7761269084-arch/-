@@ -37,8 +37,94 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230209/4b9b7cf2-622e-4f02-9b8d-a4f6619dda76.jpg",
     "https://picture.yoshiclub.xyz/20230209/4f073504-b979-4357-ad98-59dec77dc2bf.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
+    {
+      "id": 98183,
+      "IDcode": "AUKS-083",
+      "title": "くびれ爆乳レズ！ど猥褻下着マニア！！早川瀬里奈二宮和香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-11-13",
+      "cover_url": "",
+      "actress": [
+        "二宮和香",
+        "早川瀬里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKS-083"
+    },
+    {
+      "id": 99045,
+      "IDcode": "BBAN-103",
+      "title": "帰省妻レズ調教～夫の生家に一人きり…嫁姑レズビアン～ 早川瀬里奈 小早川怜子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2016-08-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/bban103/bban103pl.jpg",
+      "actress": [
+        "小早川怜子",
+        "朝桐光",
+        "早川瀬里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-103"
+    },
+    {
+      "id": 105610,
+      "IDcode": "RBD-743",
+      "title": "因为审判裁决被侵犯的女律师-早川瀬里奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "早川瀬里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-743"
+    },
+    {
+      "id": 72924,
+      "IDcode": "RKI-053",
+      "title": "这世界上最大屌的男人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "早川瀬里奈",
+        "星優乃",
+        "新井爱丽",
+        "鸟越乃亜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
+    },
+    {
+      "id": 71272,
+      "IDcode": "GVG-452",
+      "title": "お色気P●A会長と悪ガキ生徒会 早川瀬里奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9aeb05d903656cb25c295ff3702a9973.jpg",
+      "actress": [
+        "早川瀬里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-452"
+    },
     {
       "id": 5065,
       "IDcode": "REAL-920",
@@ -46,9 +132,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -107,71 +193,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
     },
     {
-      "id": 71272,
-      "IDcode": "GVG-452",
-      "title": "お色気P●A会長と悪ガキ生徒会 早川瀬里奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2017-03-16",
-      "cover_url": "",
-      "actress": [
-        "早川瀬里奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-452"
-    },
-    {
       "id": 1866,
       "IDcode": "SKYHD-002",
-      "title": "SKY ANGEL 02 漂亮的像妖精一樣 ~ 早川瀬里奈",
+      "title": "早川瀬里奈下马无套内射做爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2011-06-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230209/f2bd0cfb-e13f-4c00-92a3-02043c8e1847.webp",
       "actress": [
         "早川瀬里奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-002"
-    },
-    {
-      "id": 1843,
-      "IDcode": "SKYHD-032",
-      "title": "天天使藍 Vol.32 : 早川瀨裡奈 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2010-04-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20230128/20230128053025509509.jpg",
-      "actress": [
-        "早川瀬里奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-032"
-    },
-    {
-      "id": 72924,
-      "IDcode": "RKI-053",
-      "title": "世界で一番大きなチンポを持つ男のSEX 晶エリー 乃亜 早川瀬里奈 星優乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROOKIE",
-      "publish_date": "2010-01-19",
-      "cover_url": "",
-      "actress": [
-        "早川瀬里奈",
-        "星優乃",
-        "新井爱丽",
-        "鸟越乃亜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "友光夏华",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
       "publish_date": "2019-08-01",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0af91419b88360737d661a1205e3f1fd.jpg",
       "actress": [
         "友光夏华"
       ],
@@ -41,8 +41,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/5d37b2510f9fd157c4972b012d7778a1.jpg",
       "actress": [

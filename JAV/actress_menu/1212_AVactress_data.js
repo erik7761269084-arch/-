@@ -30,7 +30,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/eaaf2b1e-109e-4b1d-92ac-2d72d54877ab.jpg",
     "https://picture.yoshiclub.xyz/20230124/e94fd459-84c8-4a14-9ddd-4b14e6495f57.jpg"
   ],
-  "works_count": 3,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 87458,
@@ -39,7 +39,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
       "publish_date": "2022-08-09",
       "cover_url": "",
@@ -57,38 +57,6 @@ window.actressData = {
         "长瀬麻美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-591"
-    },
-    {
-      "id": 2041,
-      "IDcode": "SMBD-138",
-      "title": "S Model 138 變回少女的青梅竹馬：Yuria Mano",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-09-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/ae86fe00-b1a9-4a5f-8d9b-2f50854ad2d5.webp",
-      "actress": [
-        "真野優莉亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-138"
-    },
-    {
-      "id": 1763,
-      "IDcode": "LAFBD-54",
-      "title": "林間少女 54 美麗女孩嚴重的原始性行為 : 真野優莉亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2015-08-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/d9e0c093-a9fa-477a-9f5f-33ced8ef3e20.webp",
-      "actress": [
-        "真野優莉亞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-54"
     }
   ]
 };

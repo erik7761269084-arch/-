@@ -37,31 +37,31 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 16761,
-      "IDcode": "EBWH-061",
-      "title": "承諾持續射精100cm豐滿大屁股和騎上雞巴的女上位 玉森亞露喜歡按摩回春美容院",
+      "id": 106500,
+      "IDcode": "EBWH-040",
+      "title": "15年草裙舞经验她是真正的草裙舞者有舞台经验所以她在女牛仔位置上的臀部使用是惊人的丰满JDAroTamamoriAV首次亮相-玉森あろ-玉森亞露",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2024-01-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113092721544544.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "玉森亞露"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-061"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-040"
     },
     {
       "id": 17248,
       "IDcode": "EBWH-055",
-      "title": "出差的合租房間裡，丰臀美乳的玉森あろ以女上位的姿勢誘惑著我的身心",
+      "title": "出差一起住同一間房-玉森亞露",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2023-12-20",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231215/5524cedb-0620-4739-838e-56b5cbe7f108.jpg",
       "actress": [
         "玉森亞露"
@@ -69,20 +69,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-055"
     },
     {
-      "id": 106500,
-      "IDcode": "EBWH-040",
-      "title": "フラダンス歴15年！ステージ経験もある本物フラダンサーだから騎乗位の腰使いが超凄い！むっちり豊満JD 玉森あろ AVデビュー 生写真3枚付き",
+      "id": 16761,
+      "IDcode": "EBWH-061",
+      "title": "丰满巨尻-玉森亚露",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2023-11-22",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113092721544544.jpg",
       "actress": [
         "玉森亞露"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-061"
     }
   ]
 };

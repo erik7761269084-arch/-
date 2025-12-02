@@ -37,19 +37,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240517/a19d40d7-482b-4a9c-9808-c82b74a9dd77.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 76834,
-      "IDcode": "SDDE-731",
-      "title": "ペニスしゃぶりまくりASMR！ おち○ぽモッパン！！ #よく張りグルメ女子7名収録 #モッパン #mukbang #美味ち○ぽ #生ザーメン #ごっくん #Japanese #大食い #ちんテロ #大胃王 五十嵐清華 朝野りる 伊織さくら 星仲ここみ 葵井みずほ",
+      "id": 14659,
+      "IDcode": "MIFD-488",
+      "title": "新人，20歲！在杉並區工作、擁有美麗曲線身材的某知名咖啡店咖啡店服務員微笑着以AV出道！~ 伊織さくら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2024-05-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517040115704704.jpg",
+      "actress": [
+        "伊織さくら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-488"
+    },
+    {
+      "id": 76834,
+      "IDcode": "SDDE-731",
+      "title": "ペニスしゃぶりまくりASMR！ おち〇ぽモッパン！！ ＃よく張りグルメ女子7名収録 ＃モッパン ＃mukbang ＃美味ち〇ぽ ＃生ザーメン ＃ごっくん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1a6ae735bb663f762d953/cover.jpg",
       "actress": [
         "星仲ここみ",
         "葵井みずほ",

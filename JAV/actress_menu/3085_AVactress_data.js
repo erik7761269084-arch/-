@@ -4,7 +4,7 @@ window.actressData = {
   "name": "園田すい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 2372,
       "IDcode": "SDTH-042",
-      "title": "嘴裏含着精液慢慢品味！羣馬最溫柔的吞精素人小妹初登場 ~ 園田すい",
+      "title": "精子を口に含んで咀嚼して味わいたい！群馬で一番性格が良いごっくん憧れ女子シロウトちゃん。 群馬 伊勢崎市 ●●町 ラブホテル清掃員 6ヶ月目 園田すい（仮名・21歳）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250930/20250930223124950950_46569_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "園田すい"
       ],

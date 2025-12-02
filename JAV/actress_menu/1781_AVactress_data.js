@@ -35,19 +35,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250913/dba86df3-abf5-48e1-ba3d-b2b072e75c73_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 2606,
-      "IDcode": "MISM-400",
-      "title": "尻穴120cm全插入爽到翻天 深喉狂操直接暈厥 蜜穴熱溶淪陷 人妻三穴齊入 ~ 光森珠理",
+      "id": 2726,
+      "IDcode": "MVSD-660",
+      "title": "自ら3穴FUCK志願してきた規格外のモンスターケツ穴中毒セレブ妻 強烈な壊感にモデル級の衝撃9頭身マゾ美BODYが痙攣！仰け反り！怒涛の失禁ケツ穴アクメDEBUT！ 光森珠理",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/23/a691ccf1/vod.jpg",
+      "actress": [
+        "光森珠理"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-660"
+    },
+    {
+      "id": 2606,
+      "IDcode": "MISM-400",
+      "title": "尻穴にゅるん120cm全挿入して悶絶ポッカリ 喉奥イラマ高速乱撃シェイク意識消失 蜜膣じわり熱く溶け堕ちる 昼下がりの異常3穴性交人妻 光森珠理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "えむっ娘ラボ",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918040808236236_94027_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "光森珠理",
         "鲛岛"

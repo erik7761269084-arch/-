@@ -41,19 +41,75 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/967197ca-34d6-475a-943b-6eda70d9a6cf_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/d3c690ff-da25-4693-9587-493f76570b6c_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 89638,
-      "IDcode": "SDDE-700",
-      "title": "【特集】わが家はセックスがコミュニケーション！ 令和の新たな 家族のカタチ とは… 日常的に家庭内性交が行われる家族に密着 ひなたいのり 成宮いろは 天野碧",
+      "id": 5074,
+      "IDcode": "KTRA-726",
+      "title": "溼滑誘惑浴室合集 4小時 ~ 花狩舞 北乃麥 矢澤美々 向井藍 栄川乃亜 涼宮うるは 野原もも 木野香織 蒼空なつき このは結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623081231288288_thumbnail.webp",
+      "actress": [
+        "花狩舞",
+        "向井藍",
+        "栄川乃亜",
+        "矢澤美々",
+        "蒼空なつき",
+        "涼宮うるは",
+        "青山みるか",
+        "このは結衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-726"
+    },
+    {
+      "id": 9605,
+      "IDcode": "KTRA-688",
+      "title": "娃娃臉美女被剃光陰戶中出大合集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/406db518-e771-4f6e-a42e-0a438438dda4.jpg",
+      "actress": [
+        "矢澤美々",
+        "星咲凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-688"
+    },
+    {
+      "id": 11088,
+      "IDcode": "MILK-224",
+      "title": "蘿莉偶像的祕密個人攝影 ~ 矢澤美々",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "2024-10-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241024/f7a61ead-7e48-4083-ae3b-8311d7e91049.jpg",
+      "actress": [
+        "矢澤美々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-224"
+    },
+    {
+      "id": 89638,
+      "IDcode": "SDDE-700",
+      "title": "我家以性爱作为沟通手段",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-07-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/23194b2b690227e034cecf119e56f69a.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "矢澤美々",
         "成宫いろは"

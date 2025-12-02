@@ -33,8 +33,40 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/小泉沙彩.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 1007,
+      "IDcode": "HEYZO-1404",
+      "title": "下班6點後～輕熟女的熱情～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-02-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124230801182182.jpg",
+      "actress": [
+        "小泉沙彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1404"
+    },
+    {
+      "id": 997,
+      "IDcode": "HEYZO-1387",
+      "title": "淫穢禮物 -小泉沙彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-01-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240129/4fa9f0dc-9afc-41a8-abc2-da9f2da47d98.jpg",
+      "actress": [
+        "小泉沙彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1387"
+    },
     {
       "id": 72679,
       "IDcode": "TURA-352",
@@ -42,16 +74,36 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/28e914bf6df0247c259d21ecd61818a6.jpg",
       "actress": [
         "川越ゆい",
         "小泉沙彩",
         "叶山りん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TURA-352"
+    },
+    {
+      "id": 71861,
+      "IDcode": "AP-526",
+      "title": "巨尻家政婦 寝バックハードピストン中出し痴漢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/75197bc43f51d217347a1c391c470074.jpg",
+      "actress": [
+        "小泉真理",
+        "三原穗香",
+        "若槻みづな",
+        "小泉沙彩",
+        "黒木澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-526"
     }
   ]
 };

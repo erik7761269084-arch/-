@@ -4,7 +4,7 @@ window.actressData = {
   "name": "野中萌",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-17",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/6ec0a5e906300af5925ecb21c6488348.jpg",
+      "cover_url": "",
       "actress": [
         "向理来",
         "野中萌"

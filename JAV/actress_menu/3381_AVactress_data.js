@@ -4,7 +4,7 @@ window.actressData = {
   "name": "北森麻子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,22 +19,20 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 62288,
-      "IDcode": "VSED-266",
-      "title": "温泉旅行で見たお婆ちゃんの裸体に思わず勃起してしまった僕は…3",
+      "id": 75570,
+      "IDcode": "SPRD-1229",
+      "title": "婿に中出しを許す還暦義母 北森麻子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-07-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241223-1/964a429318a24e5a5e05da7223fead43.jpg",
       "actress": [
-        "北森麻子",
-        "田所真纪",
-        "城美香"
+        "北森麻子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-266"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1229"
     },
     {
       "id": 75075,
@@ -43,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-17",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7ebc0e422233ca620e6480993f4203d5.jpg",
       "actress": [
         "北森麻子",
         "内原美智子",
@@ -58,20 +56,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASH-217"
     },
     {
-      "id": 75570,
-      "IDcode": "SPRD-1229",
-      "title": "婿に中出しを許す還暦義母 北森麻子",
+      "id": 62288,
+      "IDcode": "VSED-266",
+      "title": "温泉旅行で見たお婆ちゃんの裸体に思わず勃起してしまった僕は…3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241223-1/964a429318a24e5a5e05da7223fead43.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "北森麻子"
+        "北森麻子",
+        "田所真纪",
+        "城美香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1229"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VSED-266"
     }
   ]
 };

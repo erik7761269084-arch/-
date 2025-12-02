@@ -4,7 +4,7 @@ window.actressData = {
   "name": "竹宮ちひろ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-07-24",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/c24df6ea584b58c02f4a01ff76b00e09.jpg",
       "actress": [
         "竹宮ちひろ"
       ],
@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 59805,
       "IDcode": "JURA-162",
-      "title": "- 初撮り五十路妻ドキュメント第三章 竹宮ちひろ - JAV目錄大全javmenu.com",
+      "title": "初撮り五十路妻ドキュメント第三章 竹宮ちひろ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/images/2025/09/28/ecbd97ca05cbeecad8e0e3cb1eb1c476.jpg",
+      "cover_url": "",
       "actress": [
         "竹宮ちひろ"
       ],

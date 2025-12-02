@@ -27,16 +27,48 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 10268,
-      "IDcode": "MIZD-420",
-      "title": "13個J系精選絕美女優的癡漢電車大合輯，在電車上被操到高潮而無法逃脫的被害記錄",
+      "id": 223592,
+      "IDcode": "MIDE-758",
+      "title": "黑丝的可爱学生妹-河合ゆい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128091744365365.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-04-13",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/01ce4a4111c7fbffbfdbd4beeff13d2f.jpg",
+      "actress": [
+        "河合結衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-758"
+    },
+    {
+      "id": 76565,
+      "IDcode": "MIDE-771",
+      "title": "刚成年的可爱女孩-河合ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "河合結衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-771"
+    },
+    {
+      "id": 10268,
+      "IDcode": "MIZD-420",
+      "title": "痴●レ×プにあった13名のJ系たちー逃げ場のない電車で絶頂させられた被害記録ー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/742fb955/vod.jpg",
       "actress": [
         "倉本菫",
         "松本一香",
@@ -54,38 +86,6 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
-    },
-    {
-      "id": 76565,
-      "IDcode": "MIDE-771",
-      "title": "泡ぬる！未成年ソープランドでいちゃいちゃ本番しようよ 河合ゆい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2020-05-13",
-      "cover_url": "",
-      "actress": [
-        "河合結衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-771"
-    },
-    {
-      "id": 99823,
-      "IDcode": "MIDE-758-",
-      "title": "初イキ3本番河合ゆい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2020-04-13",
-      "cover_url": "",
-      "actress": [
-        "河合結衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-758-"
     }
   ]
 };

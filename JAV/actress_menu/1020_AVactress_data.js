@@ -40,40 +40,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230502/1198ddc2-b643-4090-9582-11cf403b273d.jpg",
     "https://picture.yoshiclub.xyz/20230502/e861fdbc-2e11-4fb3-a7ce-684edf82ea5d.jpg"
   ],
-  "works_count": 5,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 19457,
-      "IDcode": "STARS-058",
-      "title": "絕倫兄弟裝處男猛肏姊姊朋友到絕頂中出 ~ 成宮莉香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-03-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230504/20230504214931208208.jpg",
-      "actress": [
-        "成宮莉香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-058"
-    },
-    {
-      "id": 19467,
-      "IDcode": "STARS-039",
-      "title": "如果再次見到中學時暗戀的班導的話？ 成宮莉香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2019-02-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230503/20230503083030247247.jpg",
-      "actress": [
-        "成宮莉香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-039"
-    },
     {
       "id": 19470,
       "IDcode": "STARS-030",
@@ -81,7 +49,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-01-24",
       "cover_url": "https://picture.yoshiclub.xyz/20230503/20230503042903758758.jpg",
@@ -91,15 +59,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-030"
     },
     {
-      "id": 19483,
-      "IDcode": "STARS-018",
-      "title": "Rika Narimiya 一日遊 12 次射精，溫泉之旅，所有臉部射精",
+      "id": 19492,
+      "IDcode": "STARS-007",
+      "title": "成宫莉香全明星出道首次中出就注入6发",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2018-12-20",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502043617555555.",
+      "actress": [
+        "成宮莉香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-007"
+    },
+    {
+      "id": 19483,
+      "IDcode": "STARS-018",
+      "title": "和我的AV女优女朋友成宫莉香的甜蜜温泉旅行",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502083846336336.jpg",
       "actress": [
         "成宮莉香"
@@ -107,20 +91,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-018"
     },
     {
-      "id": 19492,
-      "IDcode": "STARS-007",
-      "title": "成宮莉香 SODstar 出道！中出禁令解除，共6次",
+      "id": 19457,
+      "IDcode": "STARS-058",
+      "title": "痙攣爆イキ大絶頂 成宮りか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2018-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230502/20230502043617555555.",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230504/20230504214931208208.jpg",
       "actress": [
         "成宮莉香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-058"
     }
   ]
 };

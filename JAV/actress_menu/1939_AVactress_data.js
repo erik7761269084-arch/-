@@ -25,7 +25,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241115/bd320401-9689-4084-9c31-f4ca88c6b54b.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 63749,
@@ -34,9 +34,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-04-18",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "天馬唯",
@@ -52,18 +52,37 @@ window.actressData = {
     {
       "id": 10614,
       "IDcode": "MIFD-547",
-      "title": "新人報到！深受女孩子們喜歡的超酷帥T被喚醒女性本能！ 首次亮相 AV DEBUT ~ 沢尻ウタ",
+      "title": "女の子にモテるクールなボーイッシュ女子が雌の本能覚醒！AV撮影でチ●ポ堕ちメス顔晒してイキ狂いデビュー 沢尻ウタ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/202411140932191919.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/05/ddc1fa97187821455dac454e06f1ca3c.jpg",
       "actress": [
         "沢尻ウタ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-547"
+    },
+    {
+      "id": 2298,
+      "IDcode": "MFCT-023",
+      "title": "MOON FORCE 2nd ぱこぱこしろうとコレクション。 vol.23",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美木雛乃",
+        "神木蘭",
+        "沢尻ウタ",
+        "小鳥遊りか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFCT-023"
     }
   ]
 };

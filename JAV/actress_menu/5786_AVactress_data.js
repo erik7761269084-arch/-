@@ -4,7 +4,7 @@ window.actressData = {
   "name": "北木里奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 92335,
       "IDcode": "MIFD-232",
-      "title": "街中で目にする普通な子 でも、結構エロい…かも。 学校、職場、居酒屋、身近にいそうでアナタも知ってるかもしれない。もしかしたら… スケベ原石！？発掘 AV Debut★ 北木里奈 （ブルーレイディスク） （BOD）",
+      "title": "AV出道-北木里奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-03-31",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/30/683949600b69f1d8162e6efe/cover.jpg",
       "actress": [
         "北木里奈"
       ],

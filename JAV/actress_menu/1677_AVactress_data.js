@@ -38,10 +38,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2022-05-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20230618/20230617234237238238.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/8106d561c8f75677311085801904f1f8.jpg",
       "actress": [
         "長澤ルナ"
       ],

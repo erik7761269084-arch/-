@@ -4,7 +4,7 @@ window.actressData = {
   "name": "风花",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2010-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/8f9f24645c507ddd19f21fec9c41e5f4.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5c3f7a50e0e8d2863011b33e082c181e.jpg",
       "actress": [
         "风花",
         "吉川ゆあ"

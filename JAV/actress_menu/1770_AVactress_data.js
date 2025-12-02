@@ -28,25 +28,46 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250127/4644f142-589b-4097-8b75-7a64016e9684.jpg"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 71954,
-      "IDcode": "MDVIJ-007",
-      "title": "姑と嫁の禁断レズビアン（2） 希和みことさん、峰田ななみさんのチェキとパンティ2枚付き",
+      "id": 5244,
+      "IDcode": "NMEX-006",
+      "title": "多射一點啦！熟女人妻一邊熱吻一邊用口技和手活榨乾你！30位人妻23次爆發 ~ 武藤彩香 塚田詩織 成宮彩葉 峰田奈奈美 赤瀨尚子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-02-27",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/23/92065477/vod.jpg",
+      "publish_date": "2025-06-14",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617121227920920_thumbnail.webp",
       "actress": [
+        "塚田詩織",
+        "武藤彩香",
+        "赤瀬尚子",
+        "成宮彩葉",
+        "峰田奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMEX-006"
+    },
+    {
+      "id": 8760,
+      "IDcode": "RDVHJ-168",
+      "title": "素人！ ！母娘同時中出！ ！Vol.31 ~ 峯田奈奈美 阪下真希 希和みこと 冬愛ことね",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-01-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20250127/3ae3bef6-9cd3-4140-8d9b-94c20bad9b03.jpg",
+      "actress": [
+        "冬愛琴音",
         "希和みこと",
         "峰田奈奈美",
-        "冬爱琴音"
+        "坂下真希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-168"
     },
     {
       "id": 93954,
@@ -55,7 +76,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
       "publish_date": "2024-07-11",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/1717bc80373a31dd53117ba309abac4d.jpg",
@@ -69,25 +90,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-600"
     },
     {
-      "id": 66682,
-      "IDcode": "AARM-130",
-      "title": "一面持續對左乳頭纖細觸碰挑逗一面對右乳頭持續真空吸引",
+      "id": 79384,
+      "IDcode": "KIR-043",
+      "title": "バスタオル姿の叔母と鉢合わせした事をきっかけに…峰田ななみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2022-11-01",
-      "cover_url": "",
+      "type": "",
+      "company": "NEXT",
+      "publish_date": "2021-09-20",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221024-1/a2ca523e1fcca0e93c632139d0c7226c.jpg",
       "actress": [
-        "岬梓沙",
-        "緒川春",
-        "成田紬",
-        "峰田奈奈美",
-        "新村晶",
-        "爱乃零"
+        "峰田奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-130"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-043"
     },
     {
       "id": 86027,
@@ -96,10 +112,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "塗鴉日本",
-      "publish_date": "2022-10-27",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7e49ff621b11964c6f9cc5d95053459a.jpg",
       "actress": [
         "檜山百合香",
         "峰田奈奈美",
@@ -109,36 +125,59 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RDVHJ-151"
     },
     {
-      "id": 79384,
-      "IDcode": "KIR-043",
-      "title": "バスタオル姿の叔母と鉢合わせした事をきっかけに…峰田ななみ",
+      "id": 71954,
+      "IDcode": "MDVIJ-007",
+      "title": "姑と嫁の禁断レズビアン 2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "NEXT",
-      "publish_date": "2021-09-20",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "峰田奈奈美"
+        "希和みこと",
+        "峰田奈奈美",
+        "冬爱琴音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIR-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVIJ-007"
     },
     {
       "id": 67292,
       "IDcode": "GVH-224",
-      "title": "母子姦 峰田七海",
+      "title": "母子姦-峰田ななみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2021-04-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/a0bfe8c13c3841a28e1d5ecd2e91fe1b.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/5531db2755f8365c858b63e6d0bea393.jpg",
       "actress": [
         "峰田奈奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-224"
+    },
+    {
+      "id": 66682,
+      "IDcode": "AARM-130",
+      "title": "不断地被左边的乳头羽毛触摸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/e81ddc0bb2eb46f800a17788e2114b70.jpg",
+      "actress": [
+        "岬梓沙",
+        "緒川春",
+        "成田紬",
+        "峰田奈奈美",
+        "新村晶",
+        "爱乃零"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-130"
     }
   ]
 };

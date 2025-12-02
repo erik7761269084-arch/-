@@ -43,35 +43,180 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240701/dd0b908e-b1f7-4b5d-ac91-7b3e78b743e4.jpg",
     "https://picture.yoshiclub.xyz/20240701/707ea959-9abe-4798-8e38-fc2dbb72ca95.jpg"
   ],
-  "works_count": 6,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 4952,
-      "IDcode": "MIDA-215",
-      "title": "學生會長葵醬創立泡泡浴部，性感裝扮火力全開，無限發射福利 ~ 一之瀨葵",
+      "id": 13654,
+      "IDcode": "MIDV-765",
+      "title": "新人出道，光屬性的次世代AV女優！笑容燦爛的SEX逸材，專屬女優一之瀨葵 AV DEBUT~~",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032405400400_thumbnail.webp",
+      "publish_date": "2024-07-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628001230715715.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-765"
+    },
+    {
+      "id": 74767,
+      "IDcode": "MIDV-988",
+      "title": "停电锁门，把打工女学生困在深夜的便利店，发情的色店长彻底暴走，用他的大肉棒疯狂抽插，快慢交替地玩到女学生高潮崩溃尖叫 一之濑葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787aeb430833b4bf5ffe6ff/cover.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-988"
+    },
+    {
+      "id": 13013,
+      "IDcode": "MIDV-814",
+      "title": "ビックンビックン子宫痉挛が止まらない 初イキッ4本番！専属第2弾光属性の次世代AV女优！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250304/OahcGmhu/1.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-814"
+    },
+    {
+      "id": 12352,
+      "IDcode": "MIDV-842",
+      "title": "禁欲挑逗大覺醒大特輯-一之瀨葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/f99cf4a447bbde7f81ac9de121c9ae31.jpg",
       "actress": [
         "一之瀨葵",
-        "いち"
+        "南佳也",
+        "ハメ鳥の人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-842"
+    },
+    {
+      "id": 10960,
+      "IDcode": "MIDV-915",
+      "title": "用口交接住10发精液-一ノ瀬あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6788a76330833b4bf53b6f8f/cover.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-915"
+    },
+    {
+      "id": 10291,
+      "IDcode": "MIDV-879",
+      "title": "「もっとチュ～して」 真面目でウブな彼女がベロキス発情トロトロ豹変 唾液まみれで舌を絡ませベトベト接吻SEXに溺れ狂った週末… 一ノ瀬あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128083654277277.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-879"
+    },
+    {
+      "id": 8701,
+      "IDcode": "MIDA-029",
+      "title": "最低なヤツのクンニが最高だなんて… 大嫌いなクチャラー教頭に騙されクンニ中毒にされた新任女教師 二枚舌上司NTR 一ノ瀬あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/c3ba7b2b33fc6b7bb2fe0fa0ffba0e74.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-029"
+    },
+    {
+      "id": 7899,
+      "IDcode": "MIDA-067",
+      "title": "令人恶心的NTR剧情-一ノ瀬あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c5f116cf22ae3e041b754a/cover.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-067"
+    },
+    {
+      "id": 7173,
+      "IDcode": "MIDA-105",
+      "title": "茂密阴毛和湿润阴户-一ノ瀬あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f277bccf22ae3e04e1f8dd/cover.jpg",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-105"
+    },
+    {
+      "id": 6514,
+      "IDcode": "MIDA-141",
+      "title": "新人OL被多人按住强奸-一ノ瀬あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042441524524_thumbnail.webp",
+      "actress": [
+        "一之瀨葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-141"
     },
     {
       "id": 5690,
       "IDcode": "MIDA-179",
-      "title": "媚藥一用就翻白眼太丟臉了…要不要跟我試試媚藥玩法？青梅竹馬回鄉把我當小白鼠狂幹 ~ 一之瀨葵",
+      "title": "用了媚药可能被操到翻白眼-一ノ瀬あおい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529084142814814_thumbnail.webp",
       "actress": [
         "一之瀨葵",
@@ -80,68 +225,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-179"
     },
     {
-      "id": 6514,
-      "IDcode": "MIDA-141",
-      "title": "通勤電車上的閃亮新人OL被痴漢團伙盯上 動彈不得墮入黑暗被輪流侵犯精液滿臉 ~ 一之瀨葵",
+      "id": 4952,
+      "IDcode": "MIDA-215",
+      "title": "發射無限制服務-一之瀨葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042441524524_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dab65c92318f97d4a418f/cover.jpg",
       "actress": [
-        "一之瀨葵"
+        "一之瀨葵",
+        "いち"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-141"
-    },
-    {
-      "id": 7173,
-      "IDcode": "MIDA-105",
-      "title": "她穿著令人尷尬的服裝炫耀著濃密的陰毛和陰部，給人一種舒緩而輕鬆的歡迎。服務大樓",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083308455455.jpg",
-      "actress": [
-        "一之瀨葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-105"
-    },
-    {
-      "id": 8701,
-      "IDcode": "MIDA-029",
-      "title": "誰能想到，被這個可怕的男人舔陰感覺這麼好……新任女教師，被她討厭的口無遮攔的副校長欺騙，沉迷於舔陰NTR ~ 一之瀨葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130080237426426.jpg",
-      "actress": [
-        "一之瀨葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-029"
-    },
-    {
-      "id": 74767,
-      "IDcode": "MIDV-988",
-      "title": "停電ドアロック監禁 深夜のコンビニで発情セクハラ店長の暴走レ×プ デカチン緩急ピストン半狂乱アクメ 一ノ瀬あおい （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-01-07",
-      "cover_url": "",
-      "actress": [
-        "一之瀨葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-988"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-215"
     }
   ]
 };

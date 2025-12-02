@@ -32,40 +32,90 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240811/581fc278-9901-4f41-852d-0c31dc25805d.jpg",
     "https://picture.yoshiclub.xyz/20240811/6355d0bd-97a3-48ae-a923-be0c12db6a02.jpg"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 4889,
-      "IDcode": "DLDSS-406",
-      "title": "I罩杯爆乳無意識流出 女友姐姐胸部太兇猛理智崩潰忍不住狂舔猛幹 ~ 朝海汐",
+      "id": 12763,
+      "IDcode": "DLDSS-342",
+      "title": "新人報到！請讓我成爲大家的情婦人..101cm I杯 ！ AV DEBUT ~ 朝海汐",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2025-06-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629011139231231_thumbnail.webp",
+      "publish_date": "2024-09-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240810/20240810020433492492.jpg",
       "actress": [
         "朝海汐"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-406"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-342"
     },
     {
-      "id": 5830,
-      "IDcode": "DLDSS-402",
-      "title": "公司裡不起眼的巨乳OL 夜店巧遇竟是風俗妹 保密就幫你口 工作時也偷來一發 ~ 朝海汐",
+      "id": 12085,
+      "IDcode": "DLDSS-343",
+      "title": "淫秽表演-朝海汐",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2025-05-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525012758937937_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240909/20240909195952116116.jpg",
+      "actress": [
+        "朝海汐"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-343"
+    },
+    {
+      "id": 10805,
+      "IDcode": "DLDSS-362",
+      "title": "当你遇到衣着巨乳-朝海汐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/cafcaee5037ede39b45127ed15114f36.jpg",
       "actress": [
         "朝海汐",
-        "七尾神"
+        "鲛岛",
+        "タイ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-362"
+    },
+    {
+      "id": 10053,
+      "IDcode": "DLDSS-372",
+      "title": "夫の親友の濃厚ベロキスに理性を忘れ求め合う不倫性交 接吻NTR 朝海汐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241208/20241208234352691691.jpg",
+      "actress": [
+        "朝海汐"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-372"
+    },
+    {
+      "id": 8383,
+      "IDcode": "DLDSS-361",
+      "title": "将要被降职，心烦意乱叫了援交服务发泄。来的居然是那位巨乳社长秘书！自从，她被我胁迫，那张冷熬的脸只能撅着屁股等着我操 ~ 朝海汐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8df6dcf22ae3e04db5377/cover.jpg",
+      "actress": [
+        "朝海汐",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-361"
     },
     {
       "id": 7300,
@@ -74,10 +124,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250323/20250323220924865865.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f3adf44e7d663df493871e/cover.jpg",
       "actress": [
         "朝海汐",
         "向理来"
@@ -85,55 +135,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-381"
     },
     {
-      "id": 8383,
-      "IDcode": "DLDSS-361",
-      "title": "將要被降職，心煩意亂叫了援交服務發泄。來的居然是那位巨乳社長祕書！自從，她被我脅迫，那張冷熬的臉只能撅着屁股等着我操 ~ 朝海汐",
+      "id": 5830,
+      "IDcode": "DLDSS-402",
+      "title": "会社では地味な巨乳OLとおっパブで遭遇",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250208/20250208213418372372.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525012758937937_thumbnail.webp",
       "actress": [
         "朝海汐",
-        "大岛丈"
+        "七尾神"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-402"
     },
     {
-      "id": 10053,
-      "IDcode": "DLDSS-372",
-      "title": "和丈夫好友的深厚舌吻Kiss失去去理性的NTR 忘卻互相的關系，肉體緊緊相擁的不倫性交 ~ 朝海汐",
+      "id": 4889,
+      "IDcode": "DLDSS-406",
+      "title": "無自覚にこぼれるIcupおっぱい 貧乳彼女の姉が爆乳すぎて理性崩壊、むしゃぶりハメ狂ってしまった僕。 朝海汐",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DAHLIA",
-      "publish_date": "2025-01-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241208/20241208234352691691.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629011139231231_thumbnail.webp",
       "actress": [
         "朝海汐"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-372"
-    },
-    {
-      "id": 10805,
-      "IDcode": "DLDSS-362",
-      "title": "衣着巨乳！戀乳特化&即身本番 ~ 朝海汐",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2024-11-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107233033191191.jpg",
-      "actress": [
-        "朝海汐",
-        "鲛岛",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-406"
     }
   ]
 };

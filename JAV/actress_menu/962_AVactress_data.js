@@ -41,34 +41,84 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250327/c8893a33-7408-4304-b636-a7fb1af8cbf7.jpg",
     "https://picture.yoshiclub.xyz/20250327/8bf4a7cc-a454-486e-863d-e5505daa52d8.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 2800,
-      "IDcode": "MIDA-328",
-      "title": "被憤怒垃圾房大叔囚禁強⬤的偶像 24小時瘋狂抽插幹的她高潮連連，恨不得直接嫁給大叔 ~ 今井美優",
+      "id": 6921,
+      "IDcode": "MIDA-077",
+      "title": "令和No.1小麦肌ボディグラドルAV解禁 超新人Hカップ 今井美優",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911020756496496_73934_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d08c3f52c12b4e681036f5/cover.jpg",
+      "actress": [
+        "今井美優",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-077"
+    },
+    {
+      "id": 6129,
+      "IDcode": "MIDA-116",
+      "title": "第一次的绝顶开发4本番-今井美優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515044634704704_thumbnail.webp",
       "actress": [
         "今井美優"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-328"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-116"
+    },
+    {
+      "id": 5358,
+      "IDcode": "MIDA-172",
+      "title": "美肉感ボディグラドルと温泉デート 濃厚交わる巣ごもりイチャラブSEX一泊二日 今井美優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062320835835_thumbnail.webp",
+      "actress": [
+        "今井美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-172"
+    },
+    {
+      "id": 4509,
+      "IDcode": "MIDA-207",
+      "title": "エビ反りギュイン！絶頂348回痙攣7429回イキ潮6433cc絶頂Special 禁欲アクメオーガズム 1カ月焦らされ24時間ぶっ通しデカチンFUCK 今井美優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/20/68a52d748cce1a927afca735/cover.jpg",
+      "actress": [
+        "今井美優",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-207"
     },
     {
       "id": 3608,
       "IDcode": "MIDA-291",
-      "title": "一次不夠還要盯着你用騷話把雞巴弄硬再榨幹的回春按摩 ~ 今井美優",
+      "title": "即使射精后也会继续爱抚的回春按摩-今井美優",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814030427765765_60748_thumbnail.webp",
       "actress": [
         "今井美優",
@@ -77,54 +127,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-291"
     },
     {
-      "id": 4509,
-      "IDcode": "MIDA-207",
-      "title": "蝦背弓身高潮狂飆！絕頂348次抽搐7429次潮吹6433cc極致特輯 禁欲一個月後24小時不停大屌猛幹 ~ 今井美優",
+      "id": 2800,
+      "IDcode": "MIDA-328",
+      "title": "因异味投诉反怒的垃圾屋大叔监禁写真偶像-今井美優",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031434644644_70041_thumbnail.webp",
-      "actress": [
-        "今井美優",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-207"
-    },
-    {
-      "id": 5358,
-      "IDcode": "MIDA-172",
-      "title": "肉感爆棚偶像妹子溫泉約會 窩居纏綿激情愛愛一泊兩日 ~ 今井美優",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062320835835_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/25/436a96177442e530f1e20c32a3d5ea8a.jpg",
       "actress": [
         "今井美優"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-172"
-    },
-    {
-      "id": 6921,
-      "IDcode": "MIDA-077",
-      "title": "令和No.1小麥色身材偶像AV解禁 超新星H罩杯 ~ 今井美優",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410184438152152.jpg",
-      "actress": [
-        "今井美優",
-        "左慈半造"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-328"
     }
   ]
 };

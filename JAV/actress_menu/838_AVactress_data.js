@@ -29,53 +29,83 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241011/66422124-915c-4e99-b351-bf0586baed9d.jpg"
   ],
-  "works_count": 4,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 6937,
-      "IDcode": "MIDA-120",
-      "title": "10根巨根一騎擋千的潮吹無雙大亂交 ~ 青山七海",
+      "id": 11297,
+      "IDcode": "MIDV-900",
+      "title": "新人 潮吹きの女神 世界が終わるまでエッチしたい美少女AV Debut 青山七海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410174813402402.jpg",
-      "actress": [
-        "青山七海",
-        "ラヴズ",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-120"
-    },
-    {
-      "id": 7573,
-      "IDcode": "MIDA-083",
-      "title": "垃圾屋裏媚藥塗滿狂插自慰杯化 專屬強奸肉便器女大學生 ~ 青山七海",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313085323867867.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/60ba5d659146862c8106ba4d46932c4a.jpg",
       "actress": [
         "青山七海"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-083"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-900"
+    },
+    {
+      "id": 10590,
+      "IDcode": "MIDV-935",
+      "title": "ビチャビチャ失禁痙攣が止まらない初体験 初イキッ大絶頂潮吹きオーガズム4本番 潮吹きの女神 青山七海",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67888e665d57b64bfd2c3541/cover.jpg",
+      "actress": [
+        "青山七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-935"
+    },
+    {
+      "id": 9948,
+      "IDcode": "MIDV-973",
+      "title": "即使让你射满十发都不会停止-青山七海",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241231-1/2204fd8ddcc06efd81f2175c8e1b4828.jpg",
+      "actress": [
+        "青山七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-973"
+    },
+    {
+      "id": 9055,
+      "IDcode": "MIDA-004",
+      "title": "ビンカン上向き乳首スレンダー 初めてのポルチオGスポット開発 激ピストン潮吹きアクメ性交 青山七海",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075727330330.jpg",
+      "actress": [
+        "青山七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-004"
     },
     {
       "id": 8305,
       "IDcode": "MIDA-044",
-      "title": "出差時我的祕密被最討厭的上司發現了，被調教到潮吹的相部屋不倫 ~ 青山七海",
+      "title": "我的秘密被讨厌的宅男上司发现-青山七海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074541595595.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8aafccf22ae3e04db5114/cover.jpg",
       "actress": [
         "青山七海",
         "蓝井优太"
@@ -83,20 +113,38 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-044"
     },
     {
-      "id": 9948,
-      "IDcode": "MIDV-973",
-      "title": "繼續追擊，直到10發精子榨出 ~ 青山七海",
+      "id": 7573,
+      "IDcode": "MIDA-083",
+      "title": "ゴミ部屋で媚薬まみれズボズボオナホ化 レ●プ専用肉便器女子大生 青山七海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073839281281.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/29/67e7b9264e7d663df448f403/cover.jpg",
       "actress": [
         "青山七海"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-973"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-083"
+    },
+    {
+      "id": 6937,
+      "IDcode": "MIDA-120",
+      "title": "被十根巨屌轮番插入的千人斩潮喷大乱交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250410/20250410174813402402.jpg",
+      "actress": [
+        "青山七海",
+        "ラヴズ",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-120"
     }
   ]
 };

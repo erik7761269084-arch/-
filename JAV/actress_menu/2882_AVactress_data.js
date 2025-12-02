@@ -56,11 +56,11 @@ window.actressData = {
     {
       "id": 1875,
       "IDcode": "MKBD-S17",
-      "title": "KIRARI 17 : 南里紗 (HD)",
+      "title": "KIRARI 17 : 南里紗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2012-10-03",
       "cover_url": "https://picture.yoshiclub.xyz/20230127/2bebe2a8-7f96-4926-92ba-22d6d9fc6d22.webp",

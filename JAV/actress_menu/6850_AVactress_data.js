@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 107203,
       "IDcode": "IPZ-887",
-      "title": "【個人撮影】都内の有名女子校に通うヤリマン女子校生のぞみのハメ撮り動画が流出！何度もマジイキするほど陶酔するプライベートセックス【高画質】 唯川希",
+      "title": "某女子高校学生-唯川希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-02-01",
-      "cover_url": "https://tutu1.space/images/2023/08/28/1c5877236e8e93b0e48e2e9812d3ceb6.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/1c3e61fe98e72270d17c90754af094f0.jpg",
       "actress": [
         "唯川希"
       ],

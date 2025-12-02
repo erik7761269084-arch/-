@@ -34,8 +34,94 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250511/a776e49a-c472-4ac3-b2ff-ba9f59f0e991_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
+    {
+      "id": 5074,
+      "IDcode": "KTRA-726",
+      "title": "溼滑誘惑浴室合集 4小時 ~ 花狩舞 北乃麥 矢澤美々 向井藍 栄川乃亜 涼宮うるは 野原もも 木野香織 蒼空なつき このは結衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623081231288288_thumbnail.webp",
+      "actress": [
+        "花狩舞",
+        "向井藍",
+        "栄川乃亜",
+        "矢澤美々",
+        "蒼空なつき",
+        "涼宮うるは",
+        "青山みるか",
+        "このは結衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-726"
+    },
+    {
+      "id": 6218,
+      "IDcode": "KTRA-716",
+      "title": "和肉乎乎的可愛超爆乳蘿莉們的激情四小時 ~ 莉莉遙香 川口葉純 篠崎環奈 あず希 すなお恵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/202505101025077575_thumbnail.webp",
+      "actress": [
+        "莉莉遙香",
+        "篠崎環奈",
+        "蒼空なつき",
+        "川口葉純",
+        "あず希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-716"
+    },
+    {
+      "id": 81832,
+      "IDcode": "NACX-051",
+      "title": "お尻を突き出すポーズがエロすぎる！後背位ばかりの動画集51人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-04-01",
+      "cover_url": "https://tuaskbgnekr.com/20231228/q6eU3kEU/1.jpg",
+      "actress": [
+        "西山あさひ",
+        "蒼空なつき",
+        "乃木遥",
+        "桃田香織",
+        "新垣智江",
+        "雪染ちな",
+        "青木りん",
+        "结白まさき",
+        "高司奏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
+    },
+    {
+      "id": 99139,
+      "IDcode": "AP-533",
+      "title": "ファミレスバイト巨乳娘痴漢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-04-07",
+      "cover_url": "",
+      "actress": [
+        "森春流",
+        "蒼空なつき",
+        "ちなみん",
+        "河原かえで"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-533"
+    },
     {
       "id": 90421,
       "IDcode": "PPBD-242",
@@ -43,10 +129,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/cc988ac8d5a1cf1b908edb39c16d19de.jpg",
       "actress": [
         "安部藍",
         "蒼空なつき",
@@ -60,30 +146,6 @@ window.actressData = {
         "天音ありす"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
-    },
-    {
-      "id": 81832,
-      "IDcode": "NACX-051",
-      "title": "お尻を突き出すポーズがエロすぎる！後背位ばかりの動画集51人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2020-04-01",
-      "cover_url": "",
-      "actress": [
-        "西山あさひ",
-        "蒼空なつき",
-        "乃木遥",
-        "桃田香織",
-        "新垣智江",
-        "雪染ちな",
-        "青木りん",
-        "结白まさき",
-        "高司奏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-051"
     }
   ]
 };

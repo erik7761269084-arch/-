@@ -34,14 +34,14 @@ window.actressData = {
     {
       "id": 2380,
       "IDcode": "SDNM-517",
-      "title": "SNS粉絲2萬！SOD發掘史上最敏感辣媽 玉井晴香 33歲 AV出道",
+      "title": "SNSフォロワー2万人 SODが見つけた史上最高の敏感ママさん 玉井晴香 33歳 AVDEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210847874874_29093_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "玉井晴香"
       ],

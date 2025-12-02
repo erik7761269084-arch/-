@@ -35,14 +35,14 @@ window.actressData = {
     {
       "id": 4456,
       "IDcode": "MUDR-328",
-      "title": "新人出道！令和美少女劍士震撼中出AV初登場！劍道二段小仙女從竹刀換成肉棒被狂幹 AV DEBUT ~ 中村心",
+      "title": "充满透明感的美少女用肉棒代替竹刀被中村心刺穿",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710031432859859_60415_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68aca6305f03a092cf744f49/cover.jpg",
       "actress": [
         "中村心",
         "羽田貴史",

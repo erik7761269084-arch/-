@@ -33,8 +33,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-初音ありさ.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 1087,
+      "IDcode": "HEYZO-1546",
+      "title": "一起來享受豐滿的身材吧！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-08-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20231206/6f6439db-7477-4413-b15c-0378327d9ee2.jpg",
+      "actress": [
+        "初音ろりあ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1546"
+    },
     {
       "id": 1068,
       "IDcode": "HEYZO-1503",
@@ -42,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-05-31",
       "cover_url": "https://picture.yoshiclub.xyz/20231220/b50a4cf5-d82c-4494-a654-068c2b5de46b.jpg",

@@ -44,19 +44,69 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240705/039b9e9e-361d-4f39-98dc-ede5e9fb60b2.jpg",
     "https://picture.yoshiclub.xyz/20240705/53479a09-0b18-4d9c-bdda-cee9ad704e12.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 7205,
-      "IDcode": "SAME-175",
-      "title": "服從方程式 女教師催眠凌辱性奴隸調教 ~ 朝宮來奈",
+      "id": 12779,
+      "IDcode": "IPZZ-349",
+      "title": "平面偶像×賽車女王美的極致超覺醒3次本番！ 追擊！超級活塞！美腿抽搐爆炸超連續特輯！~ 朝宮來奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2024-08-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240809/20240809000500479479.jpg",
+      "actress": [
+        "朝宮來奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-349"
+    },
+    {
+      "id": 13558,
+      "IDcode": "IPZZ-325",
+      "title": "赛车女王奇迹混合姐姐-朝宫ラナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/3bed342c9ee9ccef3264634a82448d19.jpg",
+      "actress": [
+        "朝宮來奈",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-325"
+    },
+    {
+      "id": 11493,
+      "IDcode": "IPZZ-399",
+      "title": "紧身裙淫荡教师-朝宮ラナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/9a21573a8c60da11a8fc8cac0ee83df4.jpg",
+      "actress": [
+        "朝宮來奈",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-399"
+    },
+    {
+      "id": 7205,
+      "IDcode": "SAME-175",
+      "title": "服従の方程式 女教師、催●凌●性奴●調教 朝宮ラナ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083709188188.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/05/67f08a4b4e7d663df483517f/cover.jpg",
       "actress": [
         "朝宮來奈",
         "大岛丈",

@@ -35,67 +35,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241205/70bfb96f-da05-4cac-a347-b0da704ab8c4.jpg",
     "https://picture.yoshiclub.xyz/20241205/31702bc5-8847-4c11-8586-d1e73eafa2ce.jpg"
   ],
-  "works_count": 10,
+  "works_count": 12,
   "related_dramas": [
-    {
-      "id": 62461,
-      "IDcode": "RMER-048",
-      "title": "痴女唾液狩り",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "",
-      "actress": [
-        "瀬那瑠美奈",
-        "安野由美",
-        "宗像れな",
-        "日々樹梨花",
-        "壇涼果"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
-    },
-    {
-      "id": 6346,
-      "IDcode": "AARM-290",
-      "title": "無 bra 薄紗下巨乳貼臉狂舔敏感乳頭爽到爆 ~ 藤井蕾菈 伊東沙蘭 美原すみれ 日々樹梨花 美泉咲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508041114701701_thumbnail.webp",
-      "actress": [
-        "藤井蕾菈",
-        "美泉咲",
-        "伊東沙蘭",
-        "日々樹梨花",
-        "美原すみれ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-290"
-    },
-    {
-      "id": 73883,
-      "IDcode": "AARM-272",
-      "title": "SWIMSUITSの腿こき",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2025-01-28",
-      "cover_url": "",
-      "actress": [
-        "黒木奈美",
-        "美泉咲",
-        "日々樹梨花",
-        "椎叶みくる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-272"
-    },
     {
       "id": 93574,
       "IDcode": "NSM-058",
@@ -103,8 +44,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2024-07-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/0344aa63843dcc078b39277dba6b9576.jpg",
       "actress": [
@@ -121,30 +62,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "",
       "publish_date": "2023-11-07",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231110/Yw8RVZ90/1.jpg",
       "actress": [
         "日々樹梨花"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-076"
-    },
-    {
-      "id": 91349,
-      "IDcode": "CIEL-008",
-      "title": "【FANZA限定】「教科書以上のおっぱいなのだよ」Fcup眼鏡巨乳地味子 隠れ巨乳で地味なのにドエロな彼女と性欲爆発セックス 日々樹梨花 パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-07-27",
-      "cover_url": "",
-      "actress": [
-        "日々樹梨花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CIEL-008"
     },
     {
       "id": 89969,
@@ -153,7 +78,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-05-30",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/4c1018c30e159aa796049b48a550cf90.jpg",
@@ -165,19 +90,51 @@ window.actressData = {
     {
       "id": 100425,
       "IDcode": "JUNY-088",
-      "title": "【FANZA限定】101cmまで育ったブリンブリンのお尻とすぐに潮を吹いちゃう敏感体質！むっつりスケベな現役女子大生 日々樹梨花AVデビュー！ 生写真付き",
+      "title": "很快就会潮吹的敏感体质-日日树梨花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2023-03-31",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-4/ae8be3dbf9fa7f057c76fe3c968764db.jpg",
       "actress": [
         "日々樹梨花",
         "イセドン内村"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUNY-088"
+    },
+    {
+      "id": 91349,
+      "IDcode": "CIEL-008",
+      "title": "【FANZA限定】「教科書以上のおっぱいなのだよ」Fcup眼鏡巨乳地味子 隠れ巨乳で地味なのにドエロな彼女と性欲爆発セックス 日々樹梨花 パンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/166357a342e67a664a32fa0aff452a9c.jpg",
+      "actress": [
+        "日々樹梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CIEL-008"
+    },
+    {
+      "id": 86831,
+      "IDcode": "CAWD-119",
+      "title": "美少女まみや羽花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/ed5ee87a691a5497b086fc38477c783c.jpg",
+      "actress": [
+        "日々樹梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-119"
     },
     {
       "id": 81158,
@@ -186,10 +143,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2022-03-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ed3c1d45dc88a2effd5579aaaf66e732.jpg",
       "actress": [
         "日々樹梨花",
         "朝比奈かれん",
@@ -198,20 +155,102 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-108"
     },
     {
-      "id": 86831,
-      "IDcode": "CAWD-119",
-      "title": "ムッチリ美少女まみや羽花19才 緊張と興奮の初体験 はじめてのナマ中出し",
+      "id": 73883,
+      "IDcode": "AARM-272",
+      "title": "SWIMSUITSの腿こき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2020-09-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/6e2c5218718ac28e2769cfe5df49091e.jpg",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
+        "黒木奈美",
+        "美泉咲",
+        "日々樹梨花",
+        "椎叶みくる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-272"
+    },
+    {
+      "id": 62461,
+      "IDcode": "RMER-048",
+      "title": "痴女唾液狩り",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/ddc9eff3658f76e73b2066f27ec60a04.jpg",
+      "actress": [
+        "瀬那瑠美奈",
+        "安野由美",
+        "宗像れな",
+        "日々樹梨花",
+        "壇涼果"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-048"
+    },
+    {
+      "id": 10185,
+      "IDcode": "AARM-266",
+      "title": "世界一幸せな乳首弄り！騎乗位のSEXでラブラブしながら顔見つめられ感覚麻痺するまで弄られ続ける2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/db7d812a/vod.jpg",
+      "actress": [
+        "辻櫻",
+        "杉咲しずか",
         "日々樹梨花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-266"
+    },
+    {
+      "id": 6346,
+      "IDcode": "AARM-290",
+      "title": "透け乳ノーブラニットの乳房に顔埋めながら敏感チクビ舐められ続けた僕。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508041114701701_thumbnail.webp",
+      "actress": [
+        "藤井蕾菈",
+        "美泉咲",
+        "伊東沙蘭",
+        "日々樹梨花",
+        "美原すみれ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-290"
+    },
+    {
+      "id": 2548,
+      "IDcode": "RMER-049",
+      "title": "滴り落ちるヨダレ一線 ボールギャグを嵌められた女たち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "柏木小夏",
+        "浜辺栞帆",
+        "有加里乃乃花",
+        "佐久間楓",
+        "十川ありさ",
+        "日々樹梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-049"
     }
   ]
 };

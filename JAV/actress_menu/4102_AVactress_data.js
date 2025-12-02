@@ -4,7 +4,7 @@ window.actressData = {
   "name": "音海さや",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2017-01-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250304-1/2e1cd54fa5f85357eeace37a478b3cac.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/226515b93d7eebd42ea22cbc6571312b.jpg",
       "actress": [
         "音海さや"
       ],

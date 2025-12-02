@@ -4,7 +4,7 @@ window.actressData = {
   "name": "武藤つぐみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,25 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
+    {
+      "id": 96493,
+      "IDcode": "YAL-024",
+      "title": "對著最喜歡的大哥哥",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "武藤つぐみ",
+        "桜木郁"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YAL-024"
+    },
     {
       "id": 77728,
       "IDcode": "MDTM-342",
@@ -25,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2018-03-09",
-      "cover_url": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/657b461953bf3def9e2e7601f2564550.jpg",
       "actress": [
         "武藤つぐみ"
       ],
@@ -37,12 +54,12 @@ window.actressData = {
     {
       "id": 59847,
       "IDcode": "HTMS-084",
-      "title": "- 亨利塚本 寂寞熟寡婦奶 一條綺美香 - JAV目錄大全javmenu.com",
+      "title": "孤独的母",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
       "cover_url": "",
       "actress": [
@@ -55,14 +72,14 @@ window.actressData = {
     {
       "id": 59834,
       "IDcode": "HTMS-099",
-      "title": "- 亨利塚本 淫妹想被中年男肏翻 - JAV目錄大全javmenu.com",
+      "title": "想被一个中年男人操的女孩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/images/2022/06/22/1ac78d3193b213a6482d74cab532b4fa.jpg",
+      "cover_url": "",
       "actress": [
         "月乃露娜",
         "日下部せつ子",

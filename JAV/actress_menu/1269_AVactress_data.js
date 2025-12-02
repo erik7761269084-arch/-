@@ -31,16 +31,34 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
+      "id": 96409,
+      "IDcode": "NNPJ-280",
+      "title": "针对女性消除压力的新体操",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "妃月るい",
+        "琴水せいら",
+        "白百合ましろ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-280"
+    },
+    {
       "id": 77750,
       "IDcode": "MGT-020",
       "title": "街角シロウトナンパ！vol.03～占い女子編～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2018-03-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0af01bf01cecc5df173a6ac0c85b73eb.jpg",
       "actress": [
         "桐香悠裡",
         "佐倉陽菜",
@@ -51,52 +69,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-020"
     },
     {
-      "id": 19391,
-      "IDcode": "IPX-045",
-      "title": "深喉乞求深喉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-11-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230516/20230516200708814814.jpg",
-      "actress": [
-        "琴水せいら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-045"
-    },
-    {
-      "id": 19399,
-      "IDcode": "IPX-032",
-      "title": "我的變態女友被同學肏翻睡走 琴水聖羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2017-10-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230515/20230515232802721721.jpg",
-      "actress": [
-        "琴水せいら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-032"
-    },
-    {
       "id": 19421,
       "IDcode": "IPX-014",
-      "title": "最愛肉棒絕頂M女僕 琴水聖羅",
+      "title": "疯狂的女仆-琴水せいら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-09-23",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230512/20230512212420801801.jpg",
       "actress": [
         "琴水せいら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-014"
+    },
+    {
+      "id": 19399,
+      "IDcode": "IPX-032",
+      "title": "可爱女友-琴水せいら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230515/20230515232802721721.jpg",
+      "actress": [
+        "琴水せいら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-032"
     }
   ]
 };

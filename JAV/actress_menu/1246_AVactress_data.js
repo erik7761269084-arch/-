@@ -45,7 +45,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-椎葉えま.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/7-S1/泉ゆり.jpg"
   ],
-  "works_count": 8,
+  "works_count": 9,
   "related_dramas": [
     {
       "id": 81361,
@@ -54,10 +54,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "",
       "publish_date": "2020-08-01",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/22b15b907364bf50db7b317d7beefe6b.jpg",
       "actress": [
         "泉百合",
         "泉麻里香",
@@ -73,30 +73,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
       "publish_date": "2020-04-07",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/irswsw3U/1.jpg",
       "actress": [
         "泉百合"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-229"
-    },
-    {
-      "id": 97590,
-      "IDcode": "HND-811",
-      "title": "初めてのナマ中出しはおじさんで解禁！！ 椎葉えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2020-03-25",
-      "cover_url": "",
-      "actress": [
-        "泉百合"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-811"
     },
     {
       "id": 81918,
@@ -105,8 +89,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2020-01-16",
       "cover_url": "",
       "actress": [
@@ -115,31 +99,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-441"
     },
     {
-      "id": 69773,
-      "IDcode": "SSNI-641",
-      "title": "極小マイクロビキニお姉さんが大量ローションまみれで超密着プレイしてあげる 椎葉えま",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250317-1/bffda908360df341b6b8044bfb4664f6.jpg",
-      "actress": [
-        "泉百合",
-        "鲛岛",
-        "南佳也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-641"
-    },
-    {
       "id": 9488,
       "IDcode": "SSNI-538",
       "title": "泉百合的身體逐漸滲出的汗水，潮紅的肉體蜜汁溢出，翹臀尋求快感的摩擦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
       "publish_date": "2019-08-07",
       "cover_url": "https://picture.yoshiclub.xyz/20250101/20250101021738384384.jpg",
@@ -151,16 +117,66 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-538"
     },
     {
+      "id": 97590,
+      "IDcode": "HND-811",
+      "title": "长腿女优-椎葉えま",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "泉百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-811"
+    },
+    {
+      "id": 69773,
+      "IDcode": "SSNI-641",
+      "title": "穿着极小比基尼的长腿姐姐浑身涂抹润滑油紧密贴合做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/165a90fe4d590edb2e581de92eb6a501.jpg",
+      "actress": [
+        "泉百合",
+        "鲛岛",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-641"
+    },
+    {
+      "id": 10191,
+      "IDcode": "SSNI-492",
+      "title": "无可挑剔的模特级身材长腿美女-泉ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205015515161161.jpg",
+      "actress": [
+        "泉百合"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-492"
+    },
+    {
       "id": 9564,
       "IDcode": "SSNI-514",
       "title": "初・絕・頂 175cm 9頭身 極致高潮的性感開發3本番！~ 泉百合",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-07-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241227/20241227052253850850.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/909800578d3866fc00a79c3b88ee0235.jpg",
       "actress": [
         "泉百合",
         "市川润"
@@ -168,20 +184,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-514"
     },
     {
-      "id": 10191,
-      "IDcode": "SSNI-492",
-      "title": "新人報到！ NO.1STYLE 175cm極品修長身材 首次亮相 AV DEBUT ~ 泉百合",
+      "id": 8927,
+      "IDcode": "SSNI-562",
+      "title": "激イキ163回！痙攣4215回！イキ潮3600cc！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205015515161161.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250122/202501220140138181.jpg",
       "actress": [
         "泉百合"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-562"
     }
   ]
 };

@@ -55,39 +55,16 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 2559,
-      "IDcode": "NSFS-419",
-      "title": "AI重制版 育兒壓力爆棚的騷妻 瘋狂性愛 永久珍藏版296分鍾 ~ 黒沢那智 新川舞美 藤宮櫻花 水沢真樹 神崎蕾歐娜 椎名綾",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250920/20250920071438165165_28035_thumbnail.webp",
-      "actress": [
-        "椎名綾",
-        "水沢真樹",
-        "藤宮櫻花",
-        "神崎蕾歐娜",
-        "黒沢那智",
-        "新川舞美",
-        "水沢真树",
-        "椎名绫"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
-    },
-    {
       "id": 87086,
       "IDcode": "NXG-427",
       "title": "人妻の柔らかい垂れ乳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-20",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231012/xunlMPWH/1.jpg",
       "actress": [
         "武藤彩香",
         "黒沢那智",
@@ -104,10 +81,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-13",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20230922/OF4TDtBe/1.jpg",
       "actress": [
         "翔田千里",
         "黒沢那智",
@@ -123,10 +100,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Big Morkal",
       "publish_date": "2020-03-28",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/KmqegqAt/1.jpg",
       "actress": [
         "小早川怜子",
         "羽生ありさ",
@@ -138,6 +115,29 @@ window.actressData = {
         "八ッ桥さい子"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-382"
+    },
+    {
+      "id": 2559,
+      "IDcode": "NSFS-419",
+      "title": "AIリマスター版 育児に追われるエロ妻 淫乱セックス 名作永久保存版296分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "椎名綾",
+        "水沢真樹",
+        "藤宮櫻花",
+        "神崎蕾歐娜",
+        "黒沢那智",
+        "新川舞美",
+        "水沢真树",
+        "椎名绫"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-419"
     }
   ]
 };

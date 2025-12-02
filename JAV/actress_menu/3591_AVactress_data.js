@@ -4,7 +4,7 @@ window.actressData = {
   "name": "南河花実",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 3828,
       "IDcode": "CEMD-697",
-      "title": "刺青正妹車震約會太刺激，首部AV超震撼",
+      "title": "和彫りの刺青女子が刺激的過ぎるカーセックスデートでAVデビュー！！南河花実",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
-      "publish_date": "2025-06-07",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014559405405_thumbnail.webp",
       "actress": [
         "南河花実"

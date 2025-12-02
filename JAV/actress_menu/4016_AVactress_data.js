@@ -4,7 +4,7 @@ window.actressData = {
   "name": "七瀬あいり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,27 +16,46 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 70392,
-      "IDcode": "XRW-582",
-      "title": "バイノーラル爆音フェラチオ",
+      "id": 96408,
+      "IDcode": "NNPJ-281",
+      "title": "男女朋友密室拍色情写真发情后一起干炮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-10-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250321-1/fa21613c2ac06479f191e796abb6ada0.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "佐倉陽菜",
-        "海空花",
+        "麻里梨夏",
+        "真白湖子",
         "七瀬あいり",
-        "桜川かなこ",
-        "并木杏梨"
+        "白石みくり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-582"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NNPJ-281"
+    },
+    {
+      "id": 81571,
+      "IDcode": "FIV-061",
+      "title": "★★★★★ 五ツ星ch 高身長グラマラス モデル美女SP ch.43 美脚×美身これぞ極上ボディ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d0016310bc555484aad374f4e6e3990a.jpg",
+      "actress": [
+        "宫村ななこ",
+        "七瀬あいり",
+        "柏木恵",
+        "寺川麻衣",
+        "熊宫由乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-061"
     },
     {
       "id": 77749,
@@ -45,10 +64,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2018-07-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/777f41b81fecfd54302d9cc0909b04ad.jpg",
       "actress": [
         "美咲佳奈",
         "七瀬あいり",
@@ -56,6 +75,26 @@ window.actressData = {
         "藤咲ななお"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-037"
+    },
+    {
+      "id": 70392,
+      "IDcode": "XRW-582",
+      "title": "バイノーラル爆音フェラチオ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eb1db8de21bb9e50e4873f3d66df17bd.jpg",
+      "actress": [
+        "佐倉陽菜",
+        "海空花",
+        "七瀬あいり",
+        "桜川かなこ",
+        "并木杏梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XRW-582"
     }
   ]
 };

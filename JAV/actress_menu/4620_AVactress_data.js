@@ -4,7 +4,7 @@ window.actressData = {
   "name": "高见えな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 76210,
       "IDcode": "DTT-041",
-      "title": "むっつりスケベ妄想癖人妻 変態オナニスト高見えな 現役図書館司書AVデビュー ムッツリ奥様のエッチな妄想を具現化！！激イキ！！人生初・絶頂！！",
+      "title": "むっつりスケベ妄想癖人妻変態オナニスト高",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-11-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a2a57961587a4ed3c81f37b35d748513.jpg",
       "actress": [
         "森林原人",
         "高见えな"

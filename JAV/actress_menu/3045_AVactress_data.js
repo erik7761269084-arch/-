@@ -4,7 +4,7 @@ window.actressData = {
   "name": "竹内真琴",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,25 +16,61 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 70595,
-      "IDcode": "GS-249",
-      "title": "新しく始めた仕事は1人寂しく社内を見回りする会社警備。そんなある日、薄暗い中響いてくる…アエギ声…？残業のストレスで隠れてオナニー真っ最中のソソるOLを発見！？息を飲んで覗いていたらバレてしまいヤバいと思ったら…OLはボクのチ○ポをむさぼってきた！！…",
+      "id": 98379,
+      "IDcode": "HQIS-054",
+      "title": "ヘンリー塚本原作 情欲 激しい女たち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GOGOS",
-      "publish_date": "2019-03-21",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-03-01",
       "cover_url": "",
       "actress": [
-        "小泉真理",
-        "神楽アイネ",
+        "原美织",
+        "竹内真琴",
+        "夏树カオル",
+        "天海しおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HQIS-054"
+    },
+    {
+      "id": 98821,
+      "IDcode": "DVDES-803",
+      "title": "レイプが合法になった世界～公衆の面前でチ○ポ挿れっぱなし！犯りたいと思った瞬間に即ハメ！白昼堂々強制子作り！！～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-01-08",
+      "cover_url": "",
+      "actress": [
+        "樱井步",
+        "竹内真琴",
+        "しずく",
+        "村田ちか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-803"
+    },
+    {
+      "id": 103123,
+      "IDcode": "MUDR-002",
+      "title": "放課後の優等生 女子校生が担任に犯されて、快楽の虜になるまで… 竹内真琴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2014-05-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/mudr002/mudr002pl.jpg",
+      "actress": [
         "竹内真琴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-002"
     },
     {
       "id": 76806,
@@ -43,10 +79,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
-      "publish_date": "2018-03-23",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2335d87f610b135055c552ffa1459bbb.jpg",
       "actress": [
         "竹内真琴",
         "七海ゆあ",
@@ -54,6 +90,24 @@ window.actressData = {
         "天音ゆさ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-394"
+    },
+    {
+      "id": 70595,
+      "IDcode": "GS-249",
+      "title": "成为公司警备员在巡逻时发现到OL在自慰…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GOGOS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/78787e55a79aafdcc012cfa415638db0.jpg",
+      "actress": [
+        "小泉真理",
+        "神楽アイネ",
+        "竹内真琴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GS-249"
     }
   ]
 };

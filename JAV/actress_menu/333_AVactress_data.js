@@ -55,173 +55,94 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231020/da75552c-3a82-4530-8d29-dee9283cd8fe.jpg",
     "https://picture.yoshiclub.xyz/20231020/69c3ad64-4839-4841-b8c2-876f04698d64.jpg"
   ],
-  "works_count": 34,
+  "works_count": 51,
   "related_dramas": [
     {
-      "id": 3624,
-      "IDcode": "ABF-259",
-      "title": "星期六早上硬到不行直接開幹到天黑 ~ 河合明日菜",
+      "id": 7591,
+      "IDcode": "THU-043",
+      "title": "完全主觀×狂虐高潮 8小時精選 vol.01 鈴村愛理、河合明日菜、野野浦暖、涼森玲夢、八卦海 等",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "蚊香社",
-      "publish_date": "2025-09-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814022617907907_18488_thumbnail.webp",
+      "publish_date": "2025-03-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/0eb1ba1f-bfa7-40fa-9581-6c301485a236.jpg",
       "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-259"
-    },
-    {
-      "id": 4343,
-      "IDcode": "ABF-249",
-      "title": "溫泉旅館狂野中出之旅～頂級H杯隨便玩～ 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170328087373_33385_thumbnail.webp",
-      "actress": [
+        "鈴之家鈴",
+        "涼森玲夢",
+        "七嶋舞",
+        "野野浦暖",
+        "八掛海",
+        "鈴村愛里",
         "河合明日菜",
-        "小田切ジュン"
+        "美之島惠理"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THU-043"
     },
     {
-      "id": 5212,
-      "IDcode": "ABF-239",
-      "title": "FETISH TOKYO 極品神乳誘惑 ~ 河合明日菜",
+      "id": 13852,
+      "IDcode": "ABF-119",
+      "title": "霸道OL「M性」綻放 ~ 河合明日菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619032146611611_thumbnail.webp",
-      "actress": [
-        "河合明日菜",
-        "トイボーイ相沢"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-239"
-    },
-    {
-      "id": 6804,
-      "IDcode": "ABF-221",
-      "title": "清潔公司全是糙漢子，河合明日菜一人挑翻全場 ~ 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/205024ad-85a9-4190-948a-5c77140c23fb_thumbnail.webp",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-221"
-    },
-    {
-      "id": 7410,
-      "IDcode": "ABF-211",
-      "title": "跟河合明日菜共度一夜的超豪華約會俱樂部 ~ 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/c1673f51-e705-4d8e-a754-90005cfe6096.jpg",
-      "actress": [
-        "河合明日菜",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-211"
-    },
-    {
-      "id": 9111,
-      "IDcode": "ABF-192",
-      "title": "女友NTR，不斷地重復過激的誘惑刺激......神乳寢取蹂躪 ~ 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-01-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/b45af50d-8c6d-4a75-941f-0b7a3cd29a88.jpg",
-      "actress": [
-        "河合明日菜",
-        "いち"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-192"
-    },
-    {
-      "id": 9783,
-      "IDcode": "ABF-182",
-      "title": "給客人們擠代包括乳交，顏射，本番，甚至亂交服務。將爺爺遺傳下來的家族浴池生意從倒閉的邊緣救回。 ~ 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241219/65084640-4d74-4732-8128-6232894c2d77.jpg",
-      "actress": [
-        "河合明日菜",
-        "いち",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-182"
-    },
-    {
-      "id": 10646,
-      "IDcode": "ABF-173",
-      "title": "ULTRA HOT SEX 河合明日菜發蒸中，興奮的液體亂流，把體內淫欲激起的熱蒸汽 ~ 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/560ea436-7a96-4dc3-9c0d-aea65b6e02ea.jpg",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-173"
-    },
-    {
-      "id": 90221,
-      "IDcode": "REBD-793",
-      "title": "Asuna6 Happy honeymoon・河合あすな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-11-16",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-793"
-    },
-    {
-      "id": 106865,
-      "IDcode": "ABF-009",
-      "title": "新人教師が完堕ちするまでぶっ壊された ずぶ濡れ性交 濡れ透けNTR 河合あすな【MGSだけのおまけ映像付き+15分】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Baby Entertainment",
-      "publish_date": "2023-07-20",
-      "cover_url": "https://tutu1.space/images/2023/10/05/de582becfa0f800b136ac198bd388bac.jpg",
+      "publish_date": "2024-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620050629235235.jpg",
       "actress": [
         "河合明日菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-009"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-119"
+    },
+    {
+      "id": 17810,
+      "IDcode": "ABF-045",
+      "title": "与回乡下探亲的东京風俗娘河合明日菜 疯狂同居做爱的那个夏天",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2023-11-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116083523110110.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-045"
+    },
+    {
+      "id": 18260,
+      "IDcode": "ABF-036",
+      "title": "在封閉的房間裡體溫與呼吸融合的零距離SEX 01",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2023-11-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20231020/d5757ccc-5904-46ed-978e-14c553a797b9.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-036"
+    },
+    {
+      "id": 16538,
+      "IDcode": "ABF-026",
+      "title": "河合明日菜和素人君單獨相處了一整天。徹底精疲力盡，素人射精10次。河合明日菜被操到了極限。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "2023-09-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129090940754754.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-026"
     },
     {
       "id": 88916,
@@ -230,8 +151,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231210-1/62aae863e99d98b9e8051454697bd2dc.jpg",
       "actress": [
@@ -256,7 +177,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-05-18",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230721-1/84ee6713216d06aa22065b05d8e0af56.jpg",
@@ -266,45 +187,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-356"
     },
     {
-      "id": 89754,
-      "IDcode": "ABW-316",
-      "title": "ねっちょりセックスに溺れる文系女子。粘着性高湿度サイレントセックス 河合あすな【MGSだけのおまけ映像付き+10分】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2023-01-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240107-1/20eed88f24efd5a49425cd1f7d3fbbb0.jpg",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-316"
-    },
-    {
-      "id": 89749,
-      "IDcode": "ABW-310",
-      "title": "神乳特化型作品 H罩杯摸摸茶妹子 搓揉！吸舔！夾擊！噴發！ 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-12-22",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-310"
-    },
-    {
       "id": 87958,
       "IDcode": "ABW-298",
       "title": "まだ絶対イケるよ！vol.01 新感覚連続発射応援特化AV 河合あすな【MGSだけのおまけ映像付き+15分】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2022-11-10",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230828-1/7a1efac30aad3a6f81a7845fcfe438d0.jpg",
@@ -314,102 +203,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-298"
     },
     {
-      "id": 72712,
-      "IDcode": "ABW-288",
-      "title": "突破極限性愛 絕對的美少女打破窠臼超M覺醒3性交 VOL.02 河合明日菜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-10-13",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-288"
-    },
-    {
-      "id": 73429,
-      "IDcode": "ABW-281",
-      "title": "【MGSだけのおまけ映像付き+15分】何もない田舎で幼馴染と、汗だく濃厚SEXするだけの毎日。 case.01 河合あすな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-09-22",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜",
-        "タツ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-281"
-    },
-    {
       "id": 73887,
       "IDcode": "ABW-246",
       "title": "逆NTR 巨乳後輩OLに連日連夜迫られる究極の社内不倫。 理性崩壊3本番 河合あすな【MGSだけのおまけ映像付き+30分】",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2022-06-09",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0a89dc136930d7131fcff85772230252.jpg",
       "actress": [
         "河合明日菜",
         "小田切ジュン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-246"
-    },
-    {
-      "id": 80838,
-      "IDcode": "ABW-201",
-      "title": "学校で1番可愛い教え子に射精管理されています。ドSJ●に毎日弄ばれる中年教師 河合あすな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-02-10",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-201"
-    },
-    {
-      "id": 80313,
-      "IDcode": "ABW-175",
-      "title": "もっと、汁 120% 河合あすな 最大級の淫汁大噴出【MGSだけのおまけ映像付き+15分】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-12-02",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-175"
-    },
-    {
-      "id": 79637,
-      "IDcode": "ABW-149",
-      "title": "120%肯定カノジョ VOL.01 優し過ぎる恋人あすなと、早漏で絶倫な僕の射精しまくり同棲性活 河合あすな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-09-30",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-149"
     },
     {
       "id": 79643,
@@ -418,62 +226,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2021-08-19",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/334c8217762a490fc8ca318390f45399.jpg",
       "actress": [
         "河合明日菜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-133"
-    },
-    {
-      "id": 86718,
-      "IDcode": "ABW-095",
-      "title": "究極のおっぱい乳射SP アルティメット・ボイン・セックス 至宝のおっぱい特化型AV 河合あすな 【MGSだけのおまけ映像付き+10分】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2021-05-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/86718a3cc96f7a53acb2a5837f4dfbd3.jpg",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-095"
-    },
-    {
-      "id": 86707,
-      "IDcode": "ABW-011",
-      "title": "顔射の美学 10 美女の顔面に溜まりに溜まった白濁男汁をぶちまけろ！！ 河合あすな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-09-25",
-      "cover_url": "",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-011"
-    },
-    {
-      "id": 86682,
-      "IDcode": "ABW-001",
-      "title": "声が出せない状況で…こっそり いちゃラブ「密着」SEX vol.01 エロぉ～い吐息と体温を感じる超接近3本番ALL中出し3連発！！ 河合あすな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-08-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/16f32a41f41102af451570b8eab2168a.jpg",
-      "actress": [
-        "河合明日菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-001"
     },
     {
       "id": 81938,
@@ -482,10 +242,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2020-04-02",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221104-1/709a2b50d5f10ce8f569834cdba81590.jpg",
       "actress": [
         "河合明日菜"
       ],
@@ -498,10 +258,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-03-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/1X96fz0W/1.jpg",
       "actress": [
         "有村希",
         "野野浦暖",
@@ -515,16 +275,260 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRV-026"
     },
     {
-      "id": 74019,
-      "IDcode": "ABP-880",
-      "title": "ひたすら生でハメまくる、終らない中出し性交。 体内射精17連発 河合あすな",
+      "id": 106865,
+      "IDcode": "ABF-009",
+      "title": "新人教师-河合明日菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-07-26",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2023/09/23/e430ebdd60777ccacdfa86b0fb4daaef.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-009"
+    },
+    {
+      "id": 105963,
+      "IDcode": "ABP-789",
+      "title": "体育会系-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "河合明日菜",
+        "小田切ジュン",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-789"
+    },
+    {
+      "id": 105374,
+      "IDcode": "ABP-777",
+      "title": "绝对的铁板河合明日菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-777"
+    },
+    {
+      "id": 103803,
+      "IDcode": "ABF-084",
+      "title": "想要被射子宫里的中出恳求-河合明日菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/04/19/30bb9265ec4260f4653c6897e50a01dd.jpg",
+      "actress": [
+        "河合明日菜",
+        "イセドン内村",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-084"
+    },
+    {
+      "id": 90221,
+      "IDcode": "REBD-793",
+      "title": "Asuna6 Happy honeymoon・河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/73a38417c9582c65d2e41cb677d2d3cd.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-793"
+    },
+    {
+      "id": 89754,
+      "IDcode": "ABW-316",
+      "title": "性爱中的文艺女青年-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/d22e67ff74ac93973f63e720df65c9e8.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-316"
+    },
+    {
+      "id": 89749,
+      "IDcode": "ABW-310",
+      "title": "神乳特化型作品-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250423-1/fdde310e70cfceed63fef1f23da763c7.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-310"
+    },
+    {
+      "id": 86718,
+      "IDcode": "ABW-095",
+      "title": "究極のおっぱい乳射SP アルティメット・ボイン・セックス 至宝のおっぱい特化型AV 河合あすな 【MGSだけのおまけ映像付き+10分】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/4cb03e7b570cc176cefe3d35171351e9.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-095"
+    },
+    {
+      "id": 86710,
+      "IDcode": "ABP-849",
+      "title": "谣言的背影-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/1f4601d471316d76d8aaa9003744be1f.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-849"
+    },
+    {
+      "id": 86707,
+      "IDcode": "ABW-011",
+      "title": "顔射の美学 10 美女の顔面に溜まりに溜まった白濁男汁をぶちまけろ！！ 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/58576120c09a421ff8c519124e301e4a.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-011"
+    },
+    {
+      "id": 86682,
+      "IDcode": "ABW-001",
+      "title": "声が出せない状況で…こっそり いちゃラブ「密着」SEX vol.01 エロぉ～い吐息と体温を感じる超接近3本番ALL中出し3連発！！ 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/2a065304c65fb2d7bb9ca8c40657817a.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-001"
+    },
+    {
+      "id": 80838,
+      "IDcode": "ABW-201",
+      "title": "每天被玩弄的中年教师-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-201"
+    },
+    {
+      "id": 80313,
+      "IDcode": "ABW-175",
+      "title": "天然成分由来-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-175"
+    },
+    {
+      "id": 79637,
+      "IDcode": "ABW-149",
+      "title": "120%肯定カノジョ VOL.01 優し過ぎる恋人あすなと、早漏で絶倫な僕の射精しまくり同棲性活 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/2fbe2762e34355e6902c5c59f5899cef.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-149"
+    },
+    {
+      "id": 79156,
+      "IDcode": "ABW-111",
+      "title": "青春與制服美少女完全主觀渡過性春3性愛06",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fqjpg4.top/upload/vod/20240922-1/9bb08d6fbd19b754fc2203789dd3c7e3.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-111"
+    },
+    {
+      "id": 74019,
+      "IDcode": "ABP-880",
+      "title": "体内射精17連発 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241005-1/77bd4064c1f787b0008cedfff93797ff.jpg",
       "actress": [
         "河合明日菜",
         "小田切ジュン",
@@ -534,56 +538,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-880"
     },
     {
-      "id": 86710,
-      "IDcode": "ABP-849",
-      "title": "本番オーケー！？噂の裏ピンサロ 08 AV界随一のH乳＆美顔を味わい尽くせ！ 河合あすな",
+      "id": 73429,
+      "IDcode": "ABW-281",
+      "title": "【MGSだけのおまけ映像付き+15分】何もない田舎で幼馴染と、汗だく濃厚SEXするだけの毎日。 case.01 河合あすな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-04-26",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/200d2f28af7af577027d043314491271.jpg",
+      "actress": [
+        "河合明日菜",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-281"
+    },
+    {
+      "id": 72712,
+      "IDcode": "ABW-288",
+      "title": "絶対的美少女-合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "河合明日菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-849"
-    },
-    {
-      "id": 71803,
-      "IDcode": "ABP-832",
-      "title": "着衣おっぱい 妄想3本番 file.04 色、形、弾力すべてが最上級！！押し寄せるHカップ神乳 河合あすな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-02-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/dde2b59b61f70d70fe5dbdfbd10fdcdc.jpg",
-      "actress": [
-        "河合明日菜",
-        "小田切ジュン",
-        "タツ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-832"
-    },
-    {
-      "id": 105963,
-      "IDcode": "ABP-789",
-      "title": "スポコス汗だくSEX4本番！ 体育会系・河合あすな act.スポーツウェアフェチズム濃厚激イキセックス",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-10-26",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp789/118abp789pl.jpg",
-      "actress": [
-        "河合明日菜",
-        "小田切ジュン",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-789"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-288"
     },
     {
       "id": 71805,
@@ -592,26 +577,60 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-03-30",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250220-1/1a1bf32cd3ee4e3e2b103baf4a7b2bb9.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/a69aefd16e803aa0616a085ddc3f20e2.jpg",
       "actress": [
         "河合明日菜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-709"
     },
     {
-      "id": 70297,
-      "IDcode": "SIV-033",
-      "title": "シロウトTV×PRESTIGE PREMIUM 30 バイトの延長感覚で撮られた、素人アイドル達の初出し映像！8名240分",
+      "id": 71803,
+      "IDcode": "ABP-832",
+      "title": "着衣おっぱい 妄想3本番 file.04 色、形、弾力すべてが最上級！！押し寄せるHカップ神乳 河合あすな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-03-26",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3562336a822f0604281f7c2cf52a0c41.jpg",
+      "actress": [
+        "河合明日菜",
+        "小田切ジュン",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-832"
+    },
+    {
+      "id": 71196,
+      "IDcode": "ABP-755",
+      "title": "部门性处理玩具河合明日菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3c440765a62634d8aadd611652828205.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-755"
+    },
+    {
+      "id": 70297,
+      "IDcode": "SIV-033",
+      "title": "素人TV×PRESTIGE PREMIUM 30 用振动棒的伸长感拍摄的，素人偶像们的出道视频！8名240分种",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/259e2ba717825a66bc4fecbc115534f9.jpg",
       "actress": [
         "有村希",
         "河合明日菜",
@@ -624,20 +643,283 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIV-033"
     },
     {
-      "id": 79156,
-      "IDcode": "ABW-111",
-      "title": "- アオハル 制服美少女と完全主観で過ごす性春3SEX。 ＃06 エッチで甘酸っぱい青春グラフィティを全てあなた視点で体験する165分 河合あすな 【MGSだけのおまけ映像付き+15分】 - JAV目錄大全javmenu.com",
+      "id": 17383,
+      "IDcode": "ABF-052",
+      "title": "顺从的部下-河合明日菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
+      "type": "",
+      "company": "Baby Entertainment",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4629ac813dc779d96211/cover.jpg",
       "actress": [
         "河合明日菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-111"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-052"
+    },
+    {
+      "id": 16285,
+      "IDcode": "ABF-076",
+      "title": "全裸日常-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240327-1/e86aafb8fd704268fd21b2ee8e48fcbb.jpg",
+      "actress": [
+        "河合明日菜",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-076"
+    },
+    {
+      "id": 13258,
+      "IDcode": "ABF-130",
+      "title": "搬到隔壁来的那对情侣中的巨乳女友",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/08/31/5fa14689ab54eedc9a9734db672d4ec1.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-130"
+    },
+    {
+      "id": 12519,
+      "IDcode": "ABF-143",
+      "title": "女子运动员灼热-河合明日奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240927-1/1931190215163cd5af3589590fda7f64.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-143"
+    },
+    {
+      "id": 11898,
+      "IDcode": "ABF-155",
+      "title": "今天也是穿着清秀的护士-河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/c5e65726a239f630eb1db2ef58d3e533.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-155"
+    },
+    {
+      "id": 11239,
+      "IDcode": "ABF-163",
+      "title": "顔面特化 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/07fec479233631fd1391790567d8ad1b.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-163"
+    },
+    {
+      "id": 10646,
+      "IDcode": "ABF-173",
+      "title": "ULTRA HOT SEX 河合あすな発蒸中。興奮は液体を超えてイく。～体の芯まで熱し合うHOTコア・ガズムの全て～ 04",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/50102c2b4c83a30ad0cf7b2be7eebecb.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-173"
+    },
+    {
+      "id": 9783,
+      "IDcode": "ABF-182",
+      "title": "崖っぷち銭湯をパイズリで立て直す看板娘 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787abc88daf6b1db43c3036/cover.jpg",
+      "actress": [
+        "河合明日菜",
+        "いち",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-182"
+    },
+    {
+      "id": 9111,
+      "IDcode": "ABF-192",
+      "title": "彼女ができた僕に嫉妬して繰り返される過激な誘惑… 神乳寝取りパイズリ 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/46f0f2a8245218fd468fa9252883c22b.jpg",
+      "actress": [
+        "河合明日菜",
+        "いち"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-192"
+    },
+    {
+      "id": 8129,
+      "IDcode": "ABF-201",
+      "title": "神乳開發20日紀！在20日間不斷密着開發超越限界的極致神乳 ~ 河合明日菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b961c54e7d663df48c25cf/cover.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-201"
+    },
+    {
+      "id": 7410,
+      "IDcode": "ABF-211",
+      "title": "与河合明日菜共度一夜的超高级约会俱乐部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/05/01/9bce160243b354ba12db095ffa1bcc9c.jpg",
+      "actress": [
+        "河合明日菜",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-211"
+    },
+    {
+      "id": 6804,
+      "IDcode": "ABF-221",
+      "title": "把河合明日菜留在了全是男性的清洁公司",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/16/68779f2343d697271661854a/cover.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-221"
+    },
+    {
+      "id": 6157,
+      "IDcode": "ABF-229",
+      "title": "パワハラされるほど乳首がビンビンに勃起してパイ絶頂するムラムラ派遣OL 河合あすな フォトカードと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515040415412412_thumbnail.webp",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-229"
+    },
+    {
+      "id": 5212,
+      "IDcode": "ABF-239",
+      "title": "FETISH TOKYO 極品神乳誘惑 ~ 河合明日菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/24/c3c96a88/vod.jpg",
+      "actress": [
+        "河合明日菜",
+        "トイボーイ相沢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-239"
+    },
+    {
+      "id": 4343,
+      "IDcode": "ABF-249",
+      "title": "过度中出温泉旅馆尽情玩弄至臻H杯-河合あす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/46b2f051ff0862419be8703e0a29893c.jpg",
+      "actress": [
+        "河合明日菜",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-249"
+    },
+    {
+      "id": 3624,
+      "IDcode": "ABF-259",
+      "title": "朝勃ちチ○ポで起き抜けからハメまくる土曜日。 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/19/b002b6a0/vod.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-259"
+    },
+    {
+      "id": 2660,
+      "IDcode": "ABF-268",
+      "title": "密着カノジョ ひたすらボクにくっ付いて求めてくるイチャらぶぴったりSEX 河合あすな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/01/dc4d6244214aa7189902b09eecd12f76.jpg",
+      "actress": [
+        "河合明日菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-268"
     }
   ]
 };

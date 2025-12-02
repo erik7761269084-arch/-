@@ -33,44 +33,63 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-藤北彩香.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1530,
-      "IDcode": "SKYHD-112",
-      "title": "天空天使藍 Vol.111 ：藤北綾香、春本尤奈、舞花、宮山葵",
+      "id": 99151,
+      "IDcode": "DBEB-095",
+      "title": "獣たちの前で女体を徹底的に嬲られて 発狂しながら絶頂する屈辱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2014-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20230506/5a7fde1c-7a3a-4061-baa6-d90f0e5621e2.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-07",
+      "cover_url": "",
       "actress": [
-        "宮間葵",
+        "篠惠美",
+        "春原未来",
+        "村上涼子",
+        "上原亞衣",
+        "松すみれ",
         "藤北彩香",
-        "春本優菜"
+        "山本美和子",
+        "眞木あずさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-112"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DBEB-095"
     },
     {
-      "id": 1899,
-      "IDcode": "SKYHD-109",
-      "title": "天空天使藍 Vol.108 ：藤北綾香、舞香、宮山葵、春本由奈",
+      "id": 98058,
+      "IDcode": "ATID-191",
+      "title": "私があなたを守るから。悲しみのSP奴隷 矢吹杏 藤北彩香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-08-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/fcaab6c4-c430-4850-a35e-42ad97e678c5.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2011-11-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid191/atid191pl.jpg",
       "actress": [
-        "宮間葵",
-        "Maika（MEW）",
         "藤北彩香",
-        "春本優菜"
+        "矢吹杏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-191"
+    },
+    {
+      "id": 98898,
+      "IDcode": "SHKD-452",
+      "title": "キチクリンカン99",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-09-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd452/shkd452pl.jpg",
+      "actress": [
+        "藤北彩香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-452"
     }
   ]
 };

@@ -34,75 +34,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231226/23dbc374-8850-4f64-85e4-5313b6061d2a.jpg",
     "https://picture.yoshiclub.xyz/20231226/29f727ae-3749-480b-a3a5-2771f1f72845.jpg"
   ],
-  "works_count": 8,
+  "works_count": 11,
   "related_dramas": [
-    {
-      "id": 5399,
-      "IDcode": "IENF-363",
-      "title": "素人搭訕 代代木撿到的小白女學生幫我用18cm巨根素股，玩得這麼騷 ~ 美好柚伽 永野鈴 春陽萌花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090815616616_thumbnail.webp",
-      "actress": [
-        "春陽萌花",
-        "永野鈴",
-        "美好柚伽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-363"
-    },
-    {
-      "id": 66194,
-      "IDcode": "BUR-635",
-      "title": "純朴おさげ髪の似合う三つ編パイパン少●中出し性交10人4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-06-05",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/bd61a667/vod.jpg",
-      "actress": [
-        "希咲那奈",
-        "伊織雛乃",
-        "市井結夏",
-        "工藤拉拉",
-        "美雲そら",
-        "月美りょう",
-        "水本葉",
-        "美好柚伽",
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
-    },
-    {
-      "id": 75829,
-      "IDcode": "IENF-370",
-      "title": "アナルのシワの数までハッキリわかる！ノーモザイク連続絶頂アナル見せオナニー30",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2024-12-26",
-      "cover_url": "",
-      "actress": [
-        "天馬唯",
-        "都月楓",
-        "天月梓",
-        "沙月惠奈",
-        "宇流木沙羅",
-        "希咲那奈",
-        "星七奈奈美",
-        "天乃のあ",
-        "美好柚伽",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-370"
-    },
     {
       "id": 94755,
       "IDcode": "SUJI-245",
@@ -110,10 +43,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2024-08-20",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240825/R84RMgkC/1.jpg",
       "actress": [
         "美好柚伽"
       ],
@@ -126,7 +59,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2024-08-06",
       "cover_url": "https://picture.yoshiclub.xyz/20240804/20240804211406769769.jpg",
@@ -142,14 +75,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2024-07-26",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241023-1/daac9b2f39bc62a44b3ddd8626266991.jpg",
       "actress": [
         "美好柚伽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKMJ-533"
+    },
+    {
+      "id": 17062,
+      "IDcode": "SDAB-283",
+      "title": "「操我的感覺好嗎？」136cm的大冒險。在學校第一次不带套的性愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-01-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20231226/20231226054718451451.jpg",
+      "actress": [
+        "美好柚伽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-283"
     },
     {
       "id": 89657,
@@ -158,7 +107,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-11-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/6f3f55742dde0b1702ce30b6101fd7e6.jpg",
@@ -174,14 +123,113 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-11-23",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231209/u6SV2ME9/1.jpg",
       "actress": [
         "美好柚伽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-268"
+    },
+    {
+      "id": 75829,
+      "IDcode": "IENF-370",
+      "title": "アナルのシワの数までハッキリわかる！ノーモザイク連続絶頂アナル見せオナニー30",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250917-1/2efae61c0ee765642a4c730dbc5d19d0.jpg",
+      "actress": [
+        "天馬唯",
+        "都月楓",
+        "天月梓",
+        "沙月惠奈",
+        "宇流木沙羅",
+        "希咲那奈",
+        "星七奈奈美",
+        "天乃のあ",
+        "美好柚伽",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-370"
+    },
+    {
+      "id": 66194,
+      "IDcode": "BUR-635",
+      "title": "純朴おさげ髪の似合う三つ編パイパン少●中出し性交10人4時間希咲那奈 柏木こなつ 工藤ララ 伊織ひなの 市井結夏 月美りょう 美好柚伽 水本葉 美雲そら 水月ありす",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "希咲那奈",
+        "伊織雛乃",
+        "市井結夏",
+        "工藤拉拉",
+        "美雲そら",
+        "月美りょう",
+        "水本葉",
+        "美好柚伽",
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BUR-635"
+    },
+    {
+      "id": 16051,
+      "IDcode": "SDMF-040",
+      "title": "我的父親是一位著名的廚師，一邊舔着我的身體，一邊爲餐廳做菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e0322779f1ac4ec48bbe75/cover.jpg",
+      "actress": [
+        "美好柚伽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMF-040"
+    },
+    {
+      "id": 13181,
+      "IDcode": "FOCS-207",
+      "title": "遊戲極客宅男哥哥和身高136cm的J系蘿莉美少女口交吞xNTRx中出 陷入背德泥沼相依爲命的兄妹 ~美好柚伽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce15d079f1ac4ec464fb30/cover.jpg",
+      "actress": [
+        "美好柚伽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-207"
+    },
+    {
+      "id": 5399,
+      "IDcode": "IENF-363",
+      "title": "素人ナンパ 代々木でみつけたウブな女子校生に18cmメガチ〇ポを素股してもらったら、こんなにヤラしい事になりました。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090815616616_thumbnail.webp",
+      "actress": [
+        "春陽萌花",
+        "永野鈴",
+        "美好柚伽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-363"
     }
   ]
 };

@@ -36,19 +36,91 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240929/85176967-7c4d-4fb4-b557-a035bd13f09f.jpg",
     "https://picture.yoshiclub.xyz/20240929/9240c3bf-7ebd-4bac-808d-0585eddeb53b.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 89916,
-      "IDcode": "SDDE-706",
-      "title": "性交付き おっぱい揉みしだき温泉旅館2 Gカップ以上の巨乳仲居たちでお迎えする“パイズリまくり体験” お出迎えからお見送りまで、絶え間ない乳癒しでお給仕いたします。",
+      "id": 2405,
+      "IDcode": "YSAD-055",
+      "title": "鬼畜繼父的大雞巴讓我無法自拔 4小時 總集編 ~ 皆月光 笹原麗 高梨ことり 高瀬りな 白橋裏帆 鈴音杏夏 泉莉音 渚向日葵 雪乃繪留",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-23",
+      "type": "",
+      "company": "光夜蝶 (Komyo)",
+      "publish_date": "2025-09-26",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250926/20250926231740186186_28398_thumbnail.webp",
+      "actress": [
+        "皆月光",
+        "泉莉音",
+        "高瀬りな",
+        "白橋里帆",
+        "鈴音杏夏",
+        "笹原麗",
+        "雪乃繪留",
+        "高梨ことり",
+        "渚向日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSAD-055"
+    },
+    {
+      "id": 5631,
+      "IDcode": "YTR-171",
+      "title": "被猛幹4小時的極致體驗 ~ 笹原麗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "2025-05-30",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529175839723723_thumbnail.webp",
+      "actress": [
+        "笹原麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YTR-171"
+    },
+    {
+      "id": 107173,
+      "IDcode": "HBAD-663",
+      "title": "丰满爆乳美体的青梅竹马-笹原丽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "笹原麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-663"
+    },
+    {
+      "id": 90521,
+      "IDcode": "PPPE-147",
+      "title": "Hカップ神アニコスで即パイズリ挟射！爆乳コスプレイヤーオフパコ乱交！ 笹原うらら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OPPAI",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240124-1/329f6c633c4e8abc98db345232a6e717.jpg",
+      "actress": [
+        "笹原麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-147"
+    },
+    {
+      "id": 89916,
+      "IDcode": "SDDE-706",
+      "title": "温泉旅馆 GCUP以上的巨乳女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/2ef273cbda1935200c310faf43c1e529.jpg",
       "actress": [
         "笹原麗",
         "鬼塚萌奈美",
@@ -58,36 +130,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-706"
     },
     {
-      "id": 90521,
-      "IDcode": "PPPE-147",
-      "title": "Hカップ神アニコスで即パイズリ挟射！爆乳コスプレイヤーオフパコ乱交！ 笹原うらら",
+      "id": 11606,
+      "IDcode": "YSN-629",
+      "title": "嘻嘻～很想玩弄笹原麗的超絕奶子呀",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2023-09-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240121-1/28924443ae1796db304b518d07280f70.jpg",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/978260ee19d7f72c4aad89614be0905e.jpg",
       "actress": [
         "笹原麗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-147"
-    },
-    {
-      "id": 107173,
-      "IDcode": "HBAD-663",
-      "title": "むっちり爆乳ボディの幼馴染を好き放題に弄ぶ僕の父親を見てしまった… 笹原うらら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2023-08-10",
-      "cover_url": "",
-      "actress": [
-        "笹原麗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-663"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-629"
     }
   ]
 };

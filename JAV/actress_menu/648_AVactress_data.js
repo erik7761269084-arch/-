@@ -35,109 +35,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240803/60b52a82-fa02-4e85-8dac-3c0ed3a66d47.jpg",
     "https://picture.yoshiclub.xyz/20240803/251a4e2a-5137-4c91-9d9a-cd14dd01d5f1.jpg"
   ],
-  "works_count": 7,
+  "works_count": 13,
   "related_dramas": [
     {
-      "id": 61308,
-      "IDcode": "OKY-017",
-      "title": "双葉れぇな これぞ王道 神ビキニ 昭和アイドルやキャンギャル、令和グラドルまで多くの女子の秘部を隠してきたビキニを巨乳や美乳、パイパンから剛毛、無防備ワキやハミ毛を超接写で舐め回す 絶対脱がさない完全着衣だからこそのポロリやハミ出しAV",
+      "id": 12332,
+      "IDcode": "CAWD-725",
+      "title": "將她纖細的身體翻過來，操到死爲止！ 100次，大，大，過激高潮 ~ 雙葉麗奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-08-21",
-      "cover_url": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2024-09-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830014215296296.jpg",
       "actress": [
         "雙葉麗奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKY-017"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-725"
     },
     {
-      "id": 4398,
-      "IDcode": "SDDE-755",
-      "title": "超部屋結界 後宮特別篇：電車和校園都是我的天下，純情女學生被洗腦成超淫蕩小奴隸 ~ 響乃詩 水乃菜乃華 雙葉麗奈 天羽梨梨花",
+      "id": 12952,
+      "IDcode": "CAWD-712",
+      "title": "新人上市！腰圍只有55cm 美麗娃娃臉AV出道。 我想成爲某人的玩具並被摧毀 首次亮相 AV DEBUT ~ 雙葉麗奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714221001548548_38696_thumbnail.webp",
-      "actress": [
-        "響乃詩",
-        "天羽梨梨花",
-        "水乃菜乃華",
-        "雙葉麗奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-755"
-    },
-    {
-      "id": 4477,
-      "IDcode": "MUKD-541",
-      "title": "學生黑歷史外流！兩個騷氣學姊喊來學弟開趴狂嗨3P，超真實性愛影片曝光",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042926757757_68301_thumbnail.webp",
-      "actress": [
-        "南條彩",
-        "雙葉麗奈",
-        "東雲怜弥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-541"
-    },
-    {
-      "id": 4043,
-      "IDcode": "APNS-377",
-      "title": "我超愛大叔的變態少女！被汗臭大叔們玷污到高潮內射墮落 ~ 雙葉麗奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014913861861_thumbnail.webp",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "2024-08-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802002257135135.jpg",
       "actress": [
         "雙葉麗奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-377"
-    },
-    {
-      "id": 5648,
-      "IDcode": "DVMM-251",
-      "title": "轉生變成護理實訓人偶的班主任 被學生妹包圍全方位調戲的狂歡後宮 動不了但每天都爽到爆 ~ 斉藤帆夏 宮西光 赤名いと 雙葉麗奈 星仲ここみ 涼花くるみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291735054242_thumbnail.webp",
-      "actress": [
-        "宮西光",
-        "斉藤帆夏",
-        "赤名いと",
-        "星仲ここみ",
-        "涼花くるみ",
-        "雙葉麗奈",
-        "凉南佳奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-712"
     },
     {
       "id": 63989,
       "IDcode": "FCH-104",
-      "title": "舐めまくりイカせまくりの超大満足ご奉仕全身リップ",
+      "title": "舐めまくりイカせまくりの超大満足ご奉仕全身リップ葵井みずほ 静河 羽月乃蒼 高橋ほなみ 宍戸里帆 小鳥遊りか 七瀬蘭 双葉れぇな 中丸未来 倉木しおり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-05-16",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "羽月乃蒼",
@@ -151,21 +92,178 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-104"
     },
     {
+      "id": 61308,
+      "IDcode": "OKY-017",
+      "title": "双葉れぇな これぞ王道 神ビキニ 昭和アイドルやキャンギャル、令和グラドルまで多くの女子の秘部を隠してきたビキニを巨乳や美乳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b58a312cbbe464028013c8/cover.jpg",
+      "actress": [
+        "雙葉麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKY-017"
+    },
+    {
+      "id": 11639,
+      "IDcode": "CAWD-736",
+      "title": "スレンダーセラピストのエグイくびれムーブで搾り抜く生絞り100％ 中出しメンズエステ 双葉れぇな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240926/20240926090148158158.jpg",
+      "actress": [
+        "雙葉麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-736"
+    },
+    {
+      "id": 10979,
+      "IDcode": "CAWD-751",
+      "title": "泡春药的经理反复怀孕高潮-双葉れぇな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/48e9ba8b87e62556dfb662276c9ab64d.jpg",
+      "actress": [
+        "雙葉麗奈",
+        "じゅうもんじ",
+        "アリト"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-751"
+    },
+    {
       "id": 7383,
       "IDcode": "DASS-610",
       "title": "被上門按摩師摸到敏感私處，爽到扛不住直接被NTR了！~ 雙葉麗奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DASDAS",
-      "publish_date": "2025-03-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320113713155155.jpg",
       "actress": [
         "雙葉麗奈",
         "日森一"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-610"
+    },
+    {
+      "id": 6542,
+      "IDcode": "SAN-346",
+      "title": "服が透けて見える薬を手に入れた男が上司の妻を寝取る 双葉れぇな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428103503632632_thumbnail.webp",
+      "actress": [
+        "雙葉麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-346"
+    },
+    {
+      "id": 5860,
+      "IDcode": "APAK-305",
+      "title": "中出し水泳部ピチピチ弾力ボディれぇなちゃん「奥が気持ちぃの！イグッ！」 双葉れぇな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524000554243243_thumbnail.webp",
+      "actress": [
+        "雙葉麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-305"
+    },
+    {
+      "id": 5648,
+      "IDcode": "DVMM-251",
+      "title": "轉生成了看護實習用模特兒的班導師被學生包圍-斉藤帆夏 宮西ひかる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291735054242_thumbnail.webp",
+      "actress": [
+        "宮西光",
+        "斉藤帆夏",
+        "赤名いと",
+        "星仲ここみ",
+        "涼花くるみ",
+        "雙葉麗奈",
+        "凉南佳奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
+    },
+    {
+      "id": 4477,
+      "IDcode": "MUKD-541",
+      "title": "J〇黑歴史 流出。 後輩男子を呼び出して悪ノリでハメまくる陽キャ女子2人組。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c1a3ac92318f97d35b74f/cover.jpg",
+      "actress": [
+        "南條彩",
+        "雙葉麗奈",
+        "東雲怜弥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-541"
+    },
+    {
+      "id": 4398,
+      "IDcode": "SDDE-755",
+      "title": "我对一名纯情女学生进行洗脑控制-伊東める 響乃うた 双葉れぇな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714221001548548_38696_thumbnail.webp",
+      "actress": [
+        "響乃詩",
+        "天羽梨梨花",
+        "水乃菜乃華",
+        "雙葉麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-755"
+    },
+    {
+      "id": 4043,
+      "IDcode": "APNS-377",
+      "title": "「わたし…おじさん好きな変態です…」中年チ〇ポ偏愛女学生 汗塗れのオジサン達に汚されて絶頂中出し淫乱堕ち 下卑た小父様たちに輪されるって蕩けちゃう…。 双葉れぇな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b44c575fdaf263a25d3cb4/cover.jpg",
+      "actress": [
+        "雙葉麗奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-377"
     }
   ]
 };

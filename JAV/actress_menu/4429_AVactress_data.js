@@ -4,7 +4,7 @@ window.actressData = {
   "name": "吉田彩音",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 10007,
       "IDcode": "HBAD-699",
-      "title": "在家裏做不正經生意的巨乳宅女姐姐",
+      "title": "又宅又内向的巨乳姐姐-吉田彩音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HIBINO",
-      "publish_date": "2024-12-12",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241212/c9a87b2a-f46b-4b24-a68f-d38e8287565d.jpg",
       "actress": [
         "吉田彩音"

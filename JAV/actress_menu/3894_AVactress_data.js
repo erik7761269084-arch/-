@@ -4,7 +4,7 @@ window.actressData = {
   "name": "弘崎ゆみな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2021-11-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/bdaedd25b2ed3656add4907a89a45035.jpg",
@@ -40,16 +40,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNBL-069"
     },
     {
+      "id": 196992,
+      "IDcode": "259LUXU-1346",
+      "title": "气质高雅的短发人妻穿着肉丝张开双腿恳求巨根宠幸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "弘崎ゆみな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1346"
+    },
+    {
       "id": 79477,
       "IDcode": "HUNTB-079",
       "title": "『えっこんなに胸大きかったんですか？』巨乳かも…と思ってたけどまさか揉めるチャンスが！巨乳過ぎる胸を揉めば揉むほどエロくなりド淫乱に！そして",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-08-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf9a44eb67774efbab6572/cover.jpg",
       "actress": [
         "大浦真奈美",
         "川菜美铃",
@@ -62,32 +78,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-079"
     },
     {
-      "id": 101598,
-      "IDcode": "LUXU-1346",
-      "title": "ラグジュTV 1328 【美人妻の秘め事…】上品でお淑やかな人妻が豹変！「イかせてください」と涙目で懇願！次第に欲望に正直になった淫熟ボディは本能のまま巨根の刺激を貪り乱れまくる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-11-18",
-      "cover_url": "",
-      "actress": [
-        "弘崎ゆみな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1346"
-    },
-    {
       "id": 69317,
       "IDcode": "SCPX-461",
-      "title": "- 夫婦一起按摩中 偷偷對老公在隔壁的妻子肉棒插入 假藉按摩的性愛中出注入寢取按摩 - JAV目錄大全javmenu.com",
+      "title": "一对夫妇正在一起进行美容护理",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20230430/scpx00461pl.jpg",
       "actress": [
         "真田さな",
         "篠原りこ",

@@ -34,16 +34,32 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3678,
-      "IDcode": "NGHJ-023",
-      "title": "湘南比基尼辣妹【童貞挑戰連續射精】敏感小處男忍不住狂幹，小辣妹變身超騷貨！童貞初次就給我吧，中出更爽哦~夏日回憶破處狂射20發特別篇 ~ 渡來楓 二葉惠麻 あおい藍 凪宮ゆきの",
+      "id": 5735,
+      "IDcode": "CAWD-839",
+      "title": "群马最淫乱的美容师助手-凪宫雪乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171318119119_thumbnail.webp",
+      "actress": [
+        "凪宮ゆきの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-839"
+    },
+    {
+      "id": 3678,
+      "IDcode": "NGHJ-023",
+      "title": "湘南ビキニGAL 敏感すぎてドピュドピュ暴発しちゃう童貞チ〇ポwwサマーガールもドスケベ覚醒ww",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013743807807_79756_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b589ee2cbbe464028013c6/cover.jpg",
       "actress": [
         "二葉惠麻",
         "渡來楓",
@@ -51,22 +67,6 @@ window.actressData = {
         "凪宮ゆきの"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-023"
-    },
-    {
-      "id": 5735,
-      "IDcode": "CAWD-839",
-      "title": "新人出道！羣馬縣最騷的美發妹子，脫衣驚現隱匿巨乳，悶騷外表下超愛大屌，壓力大就靠性愛釋放，鄉下玩不開欲求不滿，AV拍攝徹底放飛 AV DEBUT ~ 凪宮ゆきの",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171318119119_thumbnail.webp",
-      "actress": [
-        "凪宮ゆきの"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-839"
     }
   ]
 };

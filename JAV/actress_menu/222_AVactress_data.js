@@ -56,38 +56,578 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230406/17c1e6f1-81cc-418e-828a-126210fc863e.jpg",
     "https://picture.yoshiclub.xyz/20230406/d2cff047-9fd8-4a41-ad36-0b8c630d77bf.jpg"
   ],
-  "works_count": 12,
+  "works_count": 36,
   "related_dramas": [
     {
-      "id": 3805,
-      "IDcode": "ABF-255",
-      "title": "在你耳邊淫語 家庭崩壞確定的不倫誘惑 ~ 涼森玲夢",
+      "id": 7591,
+      "IDcode": "THU-043",
+      "title": "完全主觀×狂虐高潮 8小時精選 vol.01 鈴村愛理、河合明日菜、野野浦暖、涼森玲夢、八卦海 等",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "蚊香社",
-      "publish_date": "2025-08-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/202508070258533737_75714_thumbnail.webp",
+      "publish_date": "2025-03-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20250313/0eb1ba1f-bfa7-40fa-9581-6c301485a236.jpg",
+      "actress": [
+        "鈴之家鈴",
+        "涼森玲夢",
+        "七嶋舞",
+        "野野浦暖",
+        "八掛海",
+        "鈴村愛里",
+        "河合明日菜",
+        "美之島惠理"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=THU-043"
+    },
+    {
+      "id": 9556,
+      "IDcode": "PPX-023",
+      "title": "涼森玲夢 中出BEST 8 時間 大合集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2024-12-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20241227/9122d91f-1235-4f6e-abc0-acd6a33699b2.jpg",
+      "actress": [
+        "涼森玲夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPX-023"
+    },
+    {
+      "id": 171383,
+      "IDcode": "ABW-348",
+      "title": "跟淫蕩又色色的最高級辣妹中出性愛的夜晚 涼森玲夢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/e8b3ba6dc2a50fa35b584db355b174d7.jpg",
+      "actress": [
+        "涼森玲夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-348"
+    },
+    {
+      "id": 157968,
+      "IDcode": "ABW-220",
+      "title": "星期一的中出-涼森 れむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-10/92df8e844261cd5f5274061bf6515fee.jpg",
+      "actress": [
+        "涼森玲夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-220"
+    },
+    {
+      "id": 107382,
+      "IDcode": "ABW-339",
+      "title": "激动人心的性道德-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a697f89def9b1b80dbf84/cover.jpg",
+      "actress": [
+        "涼森玲夢",
+        "蓝井优太",
+        "小田切ジュン",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-339"
+    },
+    {
+      "id": 98205,
+      "IDcode": "ABP-950",
+      "title": "绝对的铁板-涼森れむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-950"
+    },
+    {
+      "id": 89631,
+      "IDcode": "ABW-296",
+      "title": "汗湿的性交-森れむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683f51230b69f1d816556008/cover.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-296"
+    },
+    {
+      "id": 86991,
+      "IDcode": "ABW-265",
+      "title": "結婚直前NTR-涼森れむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/75a9147c70413634226e709f1be806b6.jpg",
+      "actress": [
+        "涼森玲夢",
+        "小田切ジュン",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-265"
+    },
+    {
+      "id": 86698,
+      "IDcode": "ABW-276",
+      "title": "ねっちょりセックスに溺れる文系女子。 ねっちょり中出し4連発 涼森玲夢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/20a82dfc17a771b9f5fed2327f725c53.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-276"
+    },
+    {
+      "id": 80850,
+      "IDcode": "ABW-198",
+      "title": "120%肯定的女友-涼森れむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/9c5759259a269894e61ec6efb181ca4a.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABW-198"
+    },
+    {
+      "id": 19614,
+      "IDcode": "ABP-984",
+      "title": "射精執行官-涼森れむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230406/2c9e7c19-473f-401f-9dd9-ed01fd38a1b8.jpg",
+      "actress": [
+        "涼森玲夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-984"
+    },
+    {
+      "id": 18614,
+      "IDcode": "ABF-029",
+      "title": "即使你高潮了也不会停止-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240528-1/1c3183950fb9be5352d959ee7de9a680.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-029"
+    },
+    {
+      "id": 18346,
+      "IDcode": "ABF-034",
+      "title": "平日顺从的超M下属-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2023/11/12/92e776a2a7d24aaaf944d4445c65a1fd.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-034"
+    },
+    {
+      "id": 17939,
+      "IDcode": "ABF-043",
+      "title": "嘴唇融化的性交-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240203-1/8d1122d0f374d4c0a23072475c3496e4.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-043"
+    },
+    {
+      "id": 17151,
+      "IDcode": "ABF-055",
+      "title": "狭隘的贴身性爱-凉森铃梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/82ff975ba0ba7298f26e267dd3912c0e.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-055"
+    },
+    {
+      "id": 16807,
+      "IDcode": "ABF-063",
+      "title": "逆NTR徹底玩弄男生的女同事",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240203-1/481809fe05ee24ba3c30078ccbc68185.jpg",
+      "actress": [
+        "涼森玲夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-063"
+    },
+    {
+      "id": 16406,
+      "IDcode": "ABF-073",
+      "title": "爱情酒店清洁工-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240303-1/a7b1b4e8ad247f1a9e6177dcfc392d90.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-073"
+    },
+    {
+      "id": 15488,
+      "IDcode": "ABF-094",
+      "title": "跟素人男子獨處一整天-涼森玲夢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/05/19/8f413607104ef590f2d1f400f67161b8.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-094"
+    },
+    {
+      "id": 14904,
+      "IDcode": "ABF-105",
+      "title": "绝对服从的性爱秘书-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/2058fdf7bbab4e41b030b54bbf0b8c24.jpg",
+      "actress": [
+        "涼森玲夢",
+        "鲛岛",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-105"
+    },
+    {
+      "id": 14018,
+      "IDcode": "ABF-114",
+      "title": "全裸日常-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/28/67e586a54e7d663df43d0dea/cover.jpg",
+      "actress": [
+        "涼森玲夢",
+        "小田切ジュン",
+        "凉森玲梦",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-114"
+    },
+    {
+      "id": 13433,
+      "IDcode": "ABF-125",
+      "title": "内向害羞的少女-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240827-1/37382aa9b2afd2b859dd89402204f973.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-125"
+    },
+    {
+      "id": 12841,
+      "IDcode": "ABF-137",
+      "title": "子宫想要恳求体内射精-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/09/04/7151964e3b15f7329286e20a85d6d3db.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-137"
+    },
+    {
+      "id": 12051,
+      "IDcode": "ABF-149",
+      "title": "女运动员被潜记录-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240928-1/00b0d13c3a84be9e142edcb2e54a5872.jpg",
       "actress": [
         "涼森玲夢",
         "いち",
-        "羽田貴史",
         "凉森玲梦"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-255"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-149"
+    },
+    {
+      "id": 11349,
+      "IDcode": "ABF-159",
+      "title": "家里蹲公主也要有个限度-涼森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/5e65b06211ad1647714597067b359fd7.jpg",
+      "actress": [
+        "涼森玲夢",
+        "イセドン内村",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-159"
+    },
+    {
+      "id": 10999,
+      "IDcode": "ABF-168",
+      "title": "美少女共度良宵的超高级约会俱乐部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/1e84b2bb7abfdcd5093b5dc740c8fe96.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-168"
+    },
+    {
+      "id": 10004,
+      "IDcode": "ABF-179",
+      "title": "从出道到走红秀丽端庄不摆架势",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/06/86ab0dd48bec0476cb469f99438f5ca8.jpg",
+      "actress": [
+        "涼森玲夢",
+        "鲛岛",
+        "小田切ジュン",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-179"
+    },
+    {
+      "id": 9285,
+      "IDcode": "ABF-188",
+      "title": "将凉森玲梦丢在充满男人的工厂里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250206-1/dc4d81858d16c16953e11f1bd59229aa.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-188"
+    },
+    {
+      "id": 8313,
+      "IDcode": "ABF-199",
+      "title": "深受男女老少喜爱的美女-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b95fe64e7d663df48c25bd/cover.jpg",
+      "actress": [
+        "涼森玲夢",
+        "大村",
+        "ニック",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-199"
+    },
+    {
+      "id": 7594,
+      "IDcode": "ABF-208",
+      "title": "FETISH TOKYO 凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68bf8e7a735bb663f7751a23/cover.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-208"
+    },
+    {
+      "id": 6946,
+      "IDcode": "ABF-217",
+      "title": "SEX力を鍛えて差をつけろ エロ過ぎ小悪魔トレーナー 涼森れむ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250410/74c3b099-ea83-4516-8304-3dc3fc119361.jpg",
+      "actress": [
+        "涼森玲夢",
+        "イセドン内村",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-217"
+    },
+    {
+      "id": 6339,
+      "IDcode": "ABF-226",
+      "title": "以甜美而色情的方式挑逗男人的乳头",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/05/17/d9d4ef63e6a7834b099e22267dc334ed.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-226"
+    },
+    {
+      "id": 5403,
+      "IDcode": "ABF-237",
+      "title": "走出AV业界探索市井性文化-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/07/02/4767694bec044b658c469540e981d928.jpg",
+      "actress": [
+        "涼森玲夢",
+        "凉森玲梦",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-237"
     },
     {
       "id": 4552,
       "IDcode": "ABF-246",
-      "title": "高傲OL完全解放M屬性 ~ 涼森玲夢",
+      "title": "自以为是的高傲OL被员工欺骗到酒店开房调教最终堕落成抖M-凉森铃梦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710030939752752_55172_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250718-1/2e12c6cfa202516d3a85d5bf09c6a3fb.jpg",
       "actress": [
         "涼森玲夢",
         "鲛岛",
@@ -98,179 +638,55 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-246"
     },
     {
-      "id": 5403,
-      "IDcode": "ABF-237",
-      "title": "涼森玲夢帶你衝出AV界，體驗街頭性文化真人秀 ~ 涼森玲夢",
+      "id": 3805,
+      "IDcode": "ABF-255",
+      "title": "在耳边悄悄低语使家庭崩溃的不伦邀请-凉森铃梦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612035345218218_thumbnail.webp",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/62d49ae27ebafa0d54ac527950506586.jpg",
       "actress": [
         "涼森玲夢",
-        "凉森玲梦",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-237"
-    },
-    {
-      "id": 6946,
-      "IDcode": "ABF-217",
-      "title": "練出超強SEX力秒殺對手！超色小惡魔教練 ~ 涼森玲夢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250410/74c3b099-ea83-4516-8304-3dc3fc119361.jpg",
-      "actress": [
-        "涼森玲夢",
-        "イセドン内村",
+        "いち",
+        "羽田貴史",
         "凉森玲梦"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-217"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-255"
     },
     {
-      "id": 7594,
-      "IDcode": "ABF-208",
-      "title": "東京魅惑FETISH ~ 涼森玲夢",
+      "id": 2833,
+      "IDcode": "ABF-266",
+      "title": "用神级身材挽救快倒闭澡堂的看板娘-凉森玲梦",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-03-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/69c29a41-8c86-4f34-85a4-17e0f18e0c63.jpg",
-      "actress": [
-        "涼森玲夢",
-        "凉森玲梦"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-208"
-    },
-    {
-      "id": 8313,
-      "IDcode": "ABF-199",
-      "title": "涉谷街頭對素人男的逆襲！ ~ 涼森玲夢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-02-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/3dfdb003-9c5b-411f-a119-a599cab3ce06.jpg",
-      "actress": [
-        "涼森玲夢",
-        "大村",
-        "ニック",
-        "凉森玲梦"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-199"
-    },
-    {
-      "id": 9285,
-      "IDcode": "ABF-188",
-      "title": "這次的挑戰，是把涼森玲夢一個人丟在全是男人的工廠裏 ~ 涼森玲夢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/dc9da215-c97d-4b28-9c46-2411364616c5.jpg",
-      "actress": [
-        "涼森玲夢",
-        "凉森玲梦"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-188"
-    },
-    {
-      "id": 10004,
-      "IDcode": "ABF-179",
-      "title": "我...真的很喜歡性愛 case.01 ~ 涼森玲夢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241128/88c17ad9-2bf7-4369-8868-3edf4c43a656.jpg",
-      "actress": [
-        "涼森玲夢",
-        "鲛岛",
-        "小田切ジュン",
-        "凉森玲梦"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-179"
-    },
-    {
-      "id": 16406,
-      "IDcode": "ABF-073",
-      "title": "和害羞的女孩住在一個房間裏。 愛情酒店清潔工的素顏女孩與失眠症患者 相遇並發生瘋狂戀情……",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2024-02-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20240208/20240208091253393393.jpg",
-      "actress": [
-        "涼森玲夢",
-        "凉森玲梦"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-073"
-    },
-    {
-      "id": 17151,
-      "IDcode": "ABF-055",
-      "title": "和涼森玲夢在密室近距離雙方的體溫和呼吸都糾纏在了一起 零距離SEX做愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2023-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231221/1f7c94fe-c27d-4e6c-b297-65d76356fac8.jpg",
-      "actress": [
-        "涼森玲夢",
-        "凉森玲梦"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-055"
-    },
-    {
-      "id": 18346,
-      "IDcode": "ABF-034",
-      "title": "對我唯命是從的女部下 怎麼就突然變成了終級的性虐狂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2023-10-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231013/7f23c76e-2c87-4a07-a852-e3745f80e2fc.jpg",
-      "actress": [
-        "涼森玲夢",
-        "凉森玲梦"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-034"
-    },
-    {
-      "id": 19614,
-      "IDcode": "ABP-984",
-      "title": "強制中出 射精執行官 05 涼森玲夢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2020-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230406/2c9e7c19-473f-401f-9dd9-ed01fd38a1b8.jpg",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/24/c3e5543faaf8c333faa6921923a57eba.jpg",
       "actress": [
         "涼森玲夢"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-984"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-266"
+    },
+    {
+      "id": 2145,
+      "IDcode": "ABF-274",
+      "title": "要忍耐超过10分钟挑逗就能得到无套中出的奖励-凉森玲梦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "涼森玲夢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-274"
     }
   ]
 };

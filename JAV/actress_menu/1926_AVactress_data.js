@@ -32,26 +32,103 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/飛鳥りん.jpg"
   ],
-  "works_count": 10,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 63727,
-      "IDcode": "NASK-257",
-      "title": "寝取られ人妻 夫が見ている前で他人棒に何度もイキ悶えた不貞妻",
+      "id": 19496,
+      "IDcode": "STARS-001",
+      "title": "幹翻12砲甜蜜溫泉一日遊 飛鳥鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2025-06-24",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2018-11-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20230501/20230501025131896896.",
+      "actress": [
+        "飞鸟铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-001"
+    },
+    {
+      "id": 105730,
+      "IDcode": "STAR-910",
+      "title": "极上射精引导-小凑四叶",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "森澤佳奈",
-        "桃井杏南",
-        "飞鸟铃",
-        "吉泽ひかり"
+        "飞鸟铃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-257"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-910"
+    },
+    {
+      "id": 105414,
+      "IDcode": "STAR-874",
+      "title": "禁欲后抛开理性的飞升-小凑四叶",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "飞鸟铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-874"
+    },
+    {
+      "id": 105403,
+      "IDcode": "JUY-818",
+      "title": "房产中介人妻飞鸟铃被客户的肉棒操到背叛老公",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240418-1/fd647f2a865f1172a1b5ece19575ea23.jpg",
+      "actress": [
+        "飞鸟铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-818"
+    },
+    {
+      "id": 98101,
+      "IDcode": "DVDMS-512",
+      "title": "素人街中ナンパAV1発10万円の中出しセックスぶらり旅出勤途中の美人OLさん、今から仕事をサボって温泉行きませんか《新宿→石和温泉》",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/dba3239019b09d9b5439ea9d5ee646e0.jpg",
+      "actress": [
+        "飞鸟铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-512"
+    },
+    {
+      "id": 82692,
+      "IDcode": "NACR-295",
+      "title": "まさか、息子の嫁が…義父に不倫現",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "飞鸟铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-295"
     },
     {
       "id": 78600,
@@ -60,10 +137,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://tutu1.space/images/2025/09/28/e7086e531c68c6b37c1a440d8a7b293b.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "田中寧寧",
         "藤森里穂",
@@ -78,31 +155,63 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-878"
     },
     {
-      "id": 82692,
-      "IDcode": "NACR-295",
-      "title": "まさか、息子の嫁が…  義父に不倫現場を目撃された不貞妻 飛鳥りん",
+      "id": 77863,
+      "IDcode": "MMKZ-059",
+      "title": "可愛い顔してデカ尻！！ 飛鳥りん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
+      "type": "",
+      "company": "MARRION",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/eeefcdc4266df684956922bf707cee8a.jpg",
       "actress": [
         "飞鸟铃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-295"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-059"
+    },
+    {
+      "id": 77379,
+      "IDcode": "REAL-701",
+      "title": "姊M化 我喜欢的开朗活泼姊姊婚后变了样",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/52c18e67f151018a65de4b69ec04798d.jpg",
+      "actress": [
+        "飞鸟铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-701"
+    },
+    {
+      "id": 77347,
+      "IDcode": "MEYD-486",
+      "title": "其实我一直被老公的上司侵犯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241126-1/92b26268834313ae11fe8f945b0f543d.jpg",
+      "actress": [
+        "飞鸟铃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-486"
     },
     {
       "id": 75033,
       "IDcode": "DDHZ-005",
-      "title": "僕の愛する妻が…目の前で若い男に抱かれヨガリ狂っている姿を視て勃起しています。 飛鳥りん",
+      "title": "僕の愛する妻が…目の前で若い男に抱かれヨガリ狂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-08-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "飞鸟铃",
@@ -111,32 +220,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHZ-005"
     },
     {
-      "id": 77379,
-      "IDcode": "REAL-701",
-      "title": "姉M化 ボクの大好きだった明るく活発なお姉ちゃんがアイツと結婚してから明らかに様子が変わった 飛鳥りん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-07-12",
-      "cover_url": "",
-      "actress": [
-        "飞鸟铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-701"
-    },
-    {
       "id": 74037,
       "IDcode": "MXGS-1105",
       "title": "どんなチ●ポも連射させてしまう気持ちのいいセックス 飛鳥りん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GOGOS",
-      "publish_date": "2019-06-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/8469357827b902991987cc8202c39af9.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/fc38b3c9d3968634618911b5019d12fd.jpg",
       "actress": [
         "飞鸟铃",
         "森林原人"
@@ -144,68 +237,75 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1105"
     },
     {
-      "id": 77863,
-      "IDcode": "MMKZ-059",
-      "title": "可愛い顔してデカ尻！！ 飛鳥りん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MARRION",
-      "publish_date": "2019-06-01",
-      "cover_url": "",
-      "actress": [
-        "飞鸟铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-059"
-    },
-    {
-      "id": 19496,
-      "IDcode": "STARS-001",
-      "title": "幹翻12砲甜蜜溫泉一日遊 飛鳥鈴",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-11-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230501/20230501025131896896.",
-      "actress": [
-        "飞鸟铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-001"
-    },
-    {
-      "id": 105730,
-      "IDcode": "STAR-910",
-      "title": "飛鳥りん 姉からのお下がりを着させられているムチポチャ末っ子ちゃん（18） 食い込み羞恥ちびピタ服えっち",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-05-10",
-      "cover_url": "",
-      "actress": [
-        "飞鸟铃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-910"
-    },
-    {
       "id": 70499,
       "IDcode": "STAR-899",
-      "title": "飛鳥りん 僕のツボを完全に押さえているイチャイチャラブラブ◆ノーハンドフェラメイド",
+      "title": "非常听话的乖巧小女仆-飛鳥りん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-04-12",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "飞鸟铃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-899"
+    },
+    {
+      "id": 63727,
+      "IDcode": "NASK-257",
+      "title": "寝取られ人妻 夫が見ている前で他人棒に何度もイキ悶えた不貞妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250902/7h5fQL41/1.jpg",
+      "actress": [
+        "森澤佳奈",
+        "桃井杏南",
+        "飞鸟铃",
+        "吉泽ひかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-257"
+    },
+    {
+      "id": 2541,
+      "IDcode": "NACX-158",
+      "title": "中出し＆顔射をキメる不倫人妻ハメ撮り25人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "木下日葵",
+        "藤森里穂",
+        "黑川堇",
+        "水原みその",
+        "鈴木真夕",
+        "七草千歲",
+        "塚田詩織",
+        "夏希栗",
+        "紗紗原百合",
+        "八乃翼",
+        "川菜美铃",
+        "黒川晴美",
+        "如月夏希",
+        "若槻みづな",
+        "神ユキ",
+        "大橋里緒",
+        "東希美",
+        "飞鸟铃",
+        "遥彩音",
+        "川原かなえ",
+        "水穀葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-158"
     }
   ]
 };

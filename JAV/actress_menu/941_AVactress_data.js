@@ -32,7 +32,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231031/bc01a4ef-0b8d-4896-b84d-661d00449ae0.jpg",
     "https://picture.yoshiclub.xyz/20231031/8e38c66d-f981-41d9-b59a-a07eca744f54.jpg"
   ],
-  "works_count": 3,
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 17783,
@@ -41,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
       "publish_date": "2022-09-13",
       "cover_url": "https://picture.yoshiclub.xyz/20231118/20231118002107455455.jpg",
@@ -51,36 +51,101 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-926"
     },
     {
-      "id": 17813,
-      "IDcode": "IPX-909",
-      "title": "畢業典禮後、與成為戀人的學生初次做愛… 不脫下制服現出想像不到的白皙美巨乳 廣瀨雛",
+      "id": 17835,
+      "IDcode": "IPX-893",
+      "title": "偶像美少女高潮覺醒3本番！子宮口！追擊！激烈抽插！ 胸部晃動潮吹高潮連發特別編！ 廣瀨雛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2022-08-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116010554118118.jpg",
+      "publish_date": "2022-07-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115022908841841.jpg",
       "actress": [
         "廣瀨雛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-909"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-893"
+    },
+    {
+      "id": 18088,
+      "IDcode": "IPX-860",
+      "title": "Midarechiru 美麗巨乳 G 第一次。快感高潮4製作SPECIAL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2022-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20231031/20231031234801753753.jpg",
+      "actress": [
+        "廣瀨雛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-860"
+    },
+    {
+      "id": 530192,
+      "IDcode": "BF-678",
+      "title": "我明明有老婆了，却败给学生的诱惑在放学后被带到旅馆狂中出了。 广濑雏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241114-1/75026684a5625207f00b9cd358d31478.png",
+      "actress": [
+        "廣瀨雛",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-678"
+    },
+    {
+      "id": 155758,
+      "IDcode": "JUQ-157",
+      "title": "夫の上司に犯●れ続けて7日目、私は理性を失った…。 広瀬ひな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20230428/juq00157pl.jpg",
+      "actress": [
+        "廣瀨雛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-157"
     },
     {
       "id": 17956,
       "IDcode": "IPX-877",
-      "title": "女友姊姊不戴胸罩無防備誘惑 盯上我的股間露出胸部 廣瀨雛",
+      "title": "無防備誘惑-広瀬ひな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2022-06-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231107/20231107050832247247.jpg",
       "actress": [
         "廣瀨雛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-877"
+    },
+    {
+      "id": 17813,
+      "IDcode": "IPX-909",
+      "title": "色白美巨乳-広瀬ひな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/61ab3a12c6cc6a1b725c73e7625b8dbd.jpg",
+      "actress": [
+        "廣瀨雛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-909"
     }
   ]
 };

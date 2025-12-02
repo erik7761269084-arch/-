@@ -4,7 +4,7 @@ window.actressData = {
   "name": "朝比奈結花",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 66668,
-      "IDcode": "LUXU-1779",
-      "title": "ラグジュTV 1765 秀外恵中のFカップ美女が登場！普段は仕事に打ち込むバリキャリ美女が甘美な声を響かせ潮吹き！恍惚とした表情で一心不乱に肉棒を離さない！",
+      "id": 495892,
+      "IDcode": "259LUXU-1779",
+      "title": "ラグジュTV 1765 秀外恵中のFカップ美女が登場！普段は仕事に打ち込むバリキャ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2024-03-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250508-1/774f173cedc2ae77ddfbc11a85fb0246.jpg",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/142d802f8602a7561dc1410b15e213cc.jpg",
       "actress": [
         "朝比奈結花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1779"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1779"
     }
   ]
 };

@@ -48,150 +48,1185 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230823/69fb394c-0586-424e-aa9a-65a8ea6a16bd.jpg",
     "https://picture.yoshiclub.xyz/20230823/53e7fc6f-f7ef-4458-9d3e-9f37334918db.jpg"
   ],
-  "works_count": 60,
+  "works_count": 104,
   "related_dramas": [
     {
-      "id": 2683,
-      "IDcode": "MXGS-1399",
-      "title": "老公的下屬糾纏不休…家中偷情的NTR ~ 友田彩也香",
+      "id": 8142,
+      "IDcode": "GUN-780",
+      "title": "想把美女的腳底舔得軟軟的！ 高腳絲控編 ~ 友田彩也香 川栄結愛 辻井ほのか 円井萌華 今井惠美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MAXING",
-      "publish_date": "2025-09-15",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220102276276_84573_thumbnail.webp",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "2025-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/459aadc9-c860-4452-b7a9-c112dcaabddc.jpg",
+      "actress": [
+        "友田彩也香",
+        "辻井穗乃果",
+        "円井萌華",
+        "今井惠美",
+        "川栄結愛",
+        "結城雫"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GUN-780"
+    },
+    {
+      "id": 8589,
+      "IDcode": "MMPB-066",
+      "title": "真的嗎？女神上門福利？Vol.2 擴散炎上 & 大洪水編 ~ 友田彩也香 浜崎真緒 柏木小夏 彌生美月 新村朱裏 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2025-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250202/28d53097-7a92-400a-b20c-510f01fec06b.jpg",
+      "actress": [
+        "柏木小夏",
+        "彌生美月",
+        "天月梓",
+        "新村朱里",
+        "浜崎真緒",
+        "田中寧寧",
+        "友田彩也香",
+        "仓多真央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-066"
+    },
+    {
+      "id": 8567,
+      "IDcode": "MMPB-065",
+      "title": "新春！新年祝福 第2彈！辣妹潮吹！噴噴噴！ 大合集 ~ 友田彩也香 乙愛麗絲 浜崎真緒 有阪深雪 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2025-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250203/20250203100841686686.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "浜崎真緒",
+        "友田彩也香",
+        "望月綾香",
+        "长濑麻美",
+        "瀬那瑠美奈",
+        "佐伯由美香",
+        "有坂深雪",
+        "富田优衣",
+        "加藤レイラ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-065"
+    },
+    {
+      "id": 9373,
+      "IDcode": "MMPB-062",
+      "title": "新春快樂！爲您精心挑選的最華麗女優應援特輯 ~ 鬆本一香 友田彩也香 小花暖 天馬唯 浜崎真緒 深田泳美 彌生美月 東條夏 新村朱裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2025-01-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250105/7e9bd56f-43ff-4c21-bffa-acdf56a65123.jpg",
+      "actress": [
+        "天馬唯",
+        "彌生美月",
+        "松本一香",
+        "新村朱里",
+        "浜崎真緒",
+        "友田彩也香",
+        "小花暖",
+        "東條夏",
+        "深田詠美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-062"
+    },
+    {
+      "id": 12268,
+      "IDcode": "SDDE-735",
+      "title": "「制服、下着、全裸」淫蕩航空 17",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240903/e56084d0-4c60-413d-8930-c80a69e47162.jpg",
+      "actress": [
+        "末広純",
+        "友田彩也香",
+        "流川莉央",
+        "七瀨華蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-735"
+    },
+    {
+      "id": 12298,
+      "IDcode": "OLM-099",
+      "title": "美腿名媛與惡心變態老頭的絲襪挑逗！~ 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-08-31",
+      "cover_url": "https://picture.yoshiclub.xyz/20240901/86d29029-c7dd-463d-83c8-5f162b766399.jpg",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1399"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OLM-099"
     },
     {
-      "id": 60664,
-      "IDcode": "OKK-098",
-      "title": "【FANZA限定】友田彩也香 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV 生写真付き",
+      "id": 13506,
+      "IDcode": "IKUNA-012",
+      "title": "「IKUNA #1.60」友田彩香 vs 波多野結衣 性感界最強戰士對決 超性感級「第七戰士」頂級決戰！ 《IKUNA》第4季 ~ 友田彩香VSAV國民榮譽獎波多野結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "親父の個撮",
-      "publish_date": "2025-09-11",
+      "type": "",
+      "company": "BOTAN",
+      "publish_date": "2024-08-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240707/20240707035447360360.jpg",
+      "actress": [
+        "波多野结衣",
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKUNA-012"
+    },
+    {
+      "id": 93731,
+      "IDcode": "PED-044",
+      "title": "【FANZA限定】たった7時間2人っきりにしてみたら…結果、10発セックスしてました。 友田彩也香 パンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "2024-07-05",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241015-1/abbe48a9193b3a4b1ced90d4d6007bc8.jpg",
+      "actress": [
+        "友田彩也香",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PED-044"
+    },
+    {
+      "id": 14068,
+      "IDcode": "NOSKN-096",
+      "title": "友田彩香兩人的恩愛NS溫泉之旅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NOSKINS",
+      "publish_date": "2024-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035041806806.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-096"
+    },
+    {
+      "id": 13147,
+      "IDcode": "CEMD-547",
+      "title": "幸福的亂倫 - 我是全家的性處理器 2 友田也彩香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2024-06-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20240722/cbce761b-d449-44cc-9485-5718a0afcf3a.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-547"
+    },
+    {
+      "id": 13862,
+      "IDcode": "KANO-041",
+      "title": "與 SSS 頂級美女友田彩也香在酒店度過的難忘之夜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "月刊彼女",
+      "publish_date": "2024-06-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620012946214214.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-041"
+    },
+    {
+      "id": 14569,
+      "IDcode": "ATYA-008",
+      "title": "當和美人妻做愛時，淫蕩極致潮吹發動！~ 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-05-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519094115441441.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-008"
+    },
+    {
+      "id": 14811,
+      "IDcode": "GVH-651",
+      "title": "連續5天，知道我不可以自慰的女友姐姐友田彩也香在允許射精的情況下給我挑逗口交，並通過吞下射精的精液繼續控制我的射精。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2024-05-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20240511/0d40ff01-38cb-47c5-959b-8b83c89f19c5.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-651"
+    },
+    {
+      "id": 14830,
+      "IDcode": "NDRA-113",
+      "title": "瞞着女朋友和她媽媽偷偷做愛……友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "JET映像",
+      "publish_date": "2024-05-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20240511/2153cffc-f5cd-4e3a-9abc-9da91f3e3e27.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-113"
+    },
+    {
+      "id": 14960,
+      "IDcode": "MMKZ-143",
+      "title": "可愛的臉和大屁股！ ！友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MARRION",
+      "publish_date": "2024-05-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240506/2459c13f-9b8e-422b-a747-380c15e6af33.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-143"
+    },
+    {
+      "id": 14989,
+      "IDcode": "HDKA-299",
+      "title": "裸體家政婦介紹機構 ~ 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "2024-05-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240505/d733b24d-33f7-4755-88fa-3a58214e77ec.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-299"
+    },
+    {
+      "id": 15146,
+      "IDcode": "HODV-21864",
+      "title": "與可愛女友友田彩也香的一日性愛約會",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "2024-04-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20240426/3931d062-3d02-4b85-883b-80d80ccf79c2.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21864"
+    },
+    {
+      "id": 15259,
+      "IDcode": "DASS-384",
+      "title": "閉嘴，屁股伸出來，我受不了了，你的屁股太騷了，我要強奸你。喝醉了，和認識的一個朋友通奸了。這麼久以來第一次參加同學聚會…… 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240420/20240419232128505505.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-384"
+    },
+    {
+      "id": 15341,
+      "IDcode": "YOCH-010",
+      "title": "一位離異、關在房間裏的阿姨對她侄子的陰莖充滿了欲望，每天以女上位的姿勢搖擺，友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "2024-04-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20240418/e46f8948-8da8-4216-b281-8ea3f9e08f96.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YOCH-010"
+    },
+    {
+      "id": 15661,
+      "IDcode": "YMDD-374",
+      "title": "大奶子女孩最喜歡的性愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2024-04-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401093701912912.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-374"
+    },
+    {
+      "id": 13865,
+      "IDcode": "HEZ-658",
+      "title": "友田彩也香，一位美麗的人妻，因爲想要不忠而申請這份工作。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-04-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240619/20240619052846300300.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-658"
+    },
+    {
+      "id": 15700,
+      "IDcode": "YMDS-152",
+      "title": "連續射精不可避免！吃空睾丸 超值的豐富服務 DVD 商店版 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2024-03-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401050053974974.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-152"
+    },
+    {
+      "id": 16049,
+      "IDcode": "GVH-628",
+      "title": "【女性射精課程】的技術講師，突然讓我當男模特，以驚人的技術玩弄我的雞巴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2024-02-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240227/11aaca92-b0cb-4642-9b16-a792cee0a788.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-628"
+    },
+    {
+      "id": 103454,
+      "IDcode": "DLDSS-130",
+      "title": "きっと妻はいつもの時間に…絶倫間男たちに呼び出され生中出し3Pされた一部始終を私に報告してくれる最高の鬱勃起妻です 友田彩也香 パンティと写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "2023-01-26",
+      "cover_url": "https://tuaskbgnekr.com/20221230/PFDwXRrS/1.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-130"
+    },
+    {
+      "id": 84357,
+      "IDcode": "DLDSS-113",
+      "title": "クソ生意気な息子の同級生たちに何度も犯●れ殺したいほど憎いのに相性抜群すぎて下品イキする母 友田彩也香 パンティと写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "2022-09-08",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/081db45f93151cd55971a3cb0405c8e5.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-113"
+    },
+    {
+      "id": 84254,
+      "IDcode": "DLDSS-071",
+      "title": "職場で働く女に欲情する 彩也香は制服のまま凌●された… 友田彩也香 パンティと写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "2022-05-12",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/Qf4O387j.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-071"
+    },
+    {
+      "id": 81127,
+      "IDcode": "DLDSS-057",
+      "title": "女教師肛門視姦～生徒に毎日アナルハラスメントされ続けています～ 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "2022-03-10",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/167e7bf20884417538f3b2ac80336cae.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-057"
+    },
+    {
+      "id": 83882,
+      "IDcode": "XVSR-520",
+      "title": "友田彩也香 マックスエー全作品コンプリートBEST4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "2019-12-25",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230122-1/6e93602bb93a14d52156d3bad2036806.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-520"
+    },
+    {
+      "id": 73731,
+      "IDcode": "XVSR-485",
+      "title": "濃交 友田彩也香の真正中出しSPECIAL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "2019-07-25",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/9db13c0d855430459e1eabf486a2bcc0.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-485"
+    },
+    {
+      "id": 83044,
+      "IDcode": "AP-024",
+      "title": "Aphrodite/友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-06-01",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221210-1/9006a7b60ed9d63d2fb28076583b91d1.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-024"
+    },
+    {
+      "id": 12411,
+      "IDcode": "MMGH-002",
+      "title": "美麗的女皮膚科醫生在體檢時看到了我完全勃起的雞巴 ~ 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2017-09-15",
+      "cover_url": "https://picture.yoshiclub.xyz/20240818/749f2746-756d-4451-be43-10bc3be637f2.jpg",
+      "actress": [
+        "友田彩也香",
+        "篠惠美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-002"
+    },
+    {
+      "id": 103134,
+      "IDcode": "BBAN-016",
+      "title": "レズビアンシェアハウス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2014-10-07",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "友田彩也香",
+        "Maika",
+        "しずく",
+        "村田ちか",
+        "水菜丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-016"
+    },
+    {
+      "id": 176236,
+      "IDcode": "SACE-105",
+      "title": "现役SOD全民偶像组合2天1夜所有成全员的小穴归您一人占有",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2012-10-06",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "友田彩也香",
+        "七瀬あさ美",
+        "吉美さあや",
+        "琥珀歌",
+        "朝仓ことみ",
+        "秋元美穂",
+        "穂积マヤ",
+        "爱心"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SACE-105"
+    },
+    {
+      "id": 100158,
+      "IDcode": "HUNT-466",
+      "title": "不運な巡り合わせで娘とは気付かずにセックスしてしまった最低な父",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2011-09-22",
+      "cover_url": "http://15.155250922.com/upload/vod/20221004/1hunt00466pl.jpg",
+      "actress": [
+        "友田彩也香",
+        "小林麻里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNT-466"
+    },
+    {
+      "id": 100995,
+      "IDcode": "IESP-569",
+      "title": "女刑事 中出20連發 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-03-19",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1iesp569/1iesp569pl.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-569"
+    },
+    {
+      "id": 99695,
+      "IDcode": "MIGD-336",
+      "title": "クラスで一番精子が似合う友田彩也香にぶっかける！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-06-13",
       "cover_url": "",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-336"
     },
     {
-      "id": 61558,
-      "IDcode": "MFYD-036",
-      "title": "ビアンマネージャーと現役アイドル、白日に晒されたレズビアンスキャンダル。 西元めいさ 友田彩也香",
+      "id": 107657,
+      "IDcode": "DLDSS-188",
+      "title": "公司旅行中被迫參加性騷擾宴會後被發情變態上司不斷中出的未婚妻 友田彩也香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "溜池",
-      "publish_date": "2025-08-19",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/20/ea3a7875/vod.jpg",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-036"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-188"
     },
     {
-      "id": 3808,
-      "IDcode": "HAWA-361",
-      "title": "人妻阿姨雖有娃但超饞男人啦 40歲的誘惑熟女",
+      "id": 106795,
+      "IDcode": "DLDSS-032",
+      "title": "每天晚上我的公公都要射精",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Cosmos 映像",
-      "publish_date": "2025-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014151136136_38385_thumbnail.webp",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-361"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-032"
     },
     {
-      "id": 4891,
-      "IDcode": "XVSR-825",
-      "title": "全新近距離特寫 極致中出騎乘位 腰肢騷技爆棚的色氣小姐姐新作150分鐘 PART2 ~ 友田彩也香 二宮桃 菜月光 白石渚 西野絵美 松井日奈子 夏巳百合香 日向ひかげ 神村彩月",
+      "id": 106717,
+      "IDcode": "DLDSS-049",
+      "title": "训练他哥哥的女朋友-友田彩也香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-049"
+    },
+    {
+      "id": 96438,
+      "IDcode": "ALDN-349",
+      "title": "我的岳母与我的父亲-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c8107779f1ac4ec45bb7d9/cover.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-349"
+    },
+    {
+      "id": 93586,
+      "IDcode": "NPJS-056",
+      "title": "劝诱人妻-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-056"
+    },
+    {
+      "id": 93341,
+      "IDcode": "NACR-822",
+      "title": "発情母-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-822"
+    },
+    {
+      "id": 88582,
+      "IDcode": "DLDSS-144",
+      "title": "在公司工作时间开始发泄压抑的性欲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-144"
+    },
+    {
+      "id": 84264,
+      "IDcode": "DLDSS-079",
+      "title": "和父亲不应该发生的交流-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-079"
+    },
+    {
+      "id": 82933,
+      "IDcode": "XVSR-459",
+      "title": "淫语黑丝连裤袜痴女-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "MAX-A",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628101209497497_thumbnail.webp",
-      "actress": [
-        "友田彩也香",
-        "松井日奈子",
-        "西野絵美",
-        "白石渚",
-        "日向ひかげ",
-        "菜月光",
-        "二宮桃",
-        "神村彩月",
-        "夏巳百合香",
-        "橋本理佐"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-825"
-    },
-    {
-      "id": 35603,
-      "IDcode": "IPZ-215",
-      "title": "和女友的姐姐无法告诉别人的关系-希志爱野 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-06-17",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/331adba7/vod.jpg",
-      "actress": [
-        "友田彩也香",
-        "希志爱野",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-215"
-    },
-    {
-      "id": 5397,
-      "IDcode": "SILK-183",
-      "title": "藏不住的愛意 第十季 ~ 南梨央奈 辻櫻 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SILK LABO",
-      "publish_date": "2025-06-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612090010825825_thumbnail.webp",
-      "actress": [
-        "友田彩也香",
-        "辻櫻",
-        "南梨央奈",
-        "千歳小梅",
-        "清水健翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-183"
-    },
-    {
-      "id": 5964,
-      "IDcode": "MMKS-030",
-      "title": "騷氣淫蕩奉仕 治愈系巨尻泡姬 ~ 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MARRION",
-      "publish_date": "2025-05-17",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/202505210852492929_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e27932a47ebb1a871da35/cover.jpg",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-030"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-459"
+    },
+    {
+      "id": 82932,
+      "IDcode": "XVSR-466",
+      "title": "老公出差人妻和前男友同居偷情一周",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/46225e631d12e93485db391c7ebc7894.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-466"
+    },
+    {
+      "id": 82536,
+      "IDcode": "FSDSS-020",
+      "title": "AV女優History-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-020"
+    },
+    {
+      "id": 82519,
+      "IDcode": "FSDSS-030",
+      "title": "美女姐姐-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/81702a9c75ca89d599dd6c296bb0a328.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-030"
+    },
+    {
+      "id": 82405,
+      "IDcode": "GG-066",
+      "title": "露出企划-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-066"
+    },
+    {
+      "id": 80770,
+      "IDcode": "DLDSS-053",
+      "title": "息子の射精が変なんです…お漏らしザーメン母子相姦 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889757bc92318f97d1d68e5/cover.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-053"
+    },
+    {
+      "id": 80332,
+      "IDcode": "DLDSS-042",
+      "title": "直到你挤出了100轮精液",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香",
+        "平井シンジ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-042"
+    },
+    {
+      "id": 79835,
+      "IDcode": "DLDSS-027",
+      "title": "結婚報告-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-027"
+    },
+    {
+      "id": 79335,
+      "IDcode": "DLDSS-017",
+      "title": "性接客-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/sBThue23.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-017"
+    },
+    {
+      "id": 78886,
+      "IDcode": "ADN-123",
+      "title": "在丈夫的面前被侵犯的友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/b53ab1f1ec3e2d906f1953fd640cd5d8.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-123"
+    },
+    {
+      "id": 78573,
+      "IDcode": "HEZ-736",
+      "title": "あなただけに見せてあげる！不貞行為を自ら望んで応募してきた美人ヤリ妻のイケない完堕ち性交 BEST vol.01",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香",
+        "川越ゆい",
+        "浜崎真绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-736"
+    },
+    {
+      "id": 78553,
+      "IDcode": "CEMD-603",
+      "title": "アナルで発情！～本能で感じる！美女があえぎ狂う快感レズビアン～ 4（野外露出編） 友田彩也香 水川潤",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688dbc09c92318f97d4c4b59/cover.jpg",
+      "actress": [
+        "友田彩也香",
+        "由爱可奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-603"
+    },
+    {
+      "id": 76602,
+      "IDcode": "FSDSS-009",
+      "title": "無鉄砲テレビディレクターvs友田彩也香 AVぶった斬りSHOW 4days",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/c620e0c552d0c21b363927a1ffec8ada.jpg",
+      "actress": [
+        "友田彩也香",
+        "Qべぇ",
+        "浜口リュウ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-009"
+    },
+    {
+      "id": 76401,
+      "IDcode": "MMTA-008",
+      "title": "せまいところで迫ってくる友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fbfc1d20e893b91bd882cb5a859a6943.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMTA-008"
+    },
+    {
+      "id": 75850,
+      "IDcode": "BTH-009",
+      "title": "そんな弱っちい目で見ないでくださいよぉ…いつもは怖～い友田先生（笑） 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/a2d120c613a76995df0906602de7aade.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-009"
+    },
+    {
+      "id": 74659,
+      "IDcode": "BBAN-516",
+      "title": "十川ありさ レズ解禁 ママ友と禁断の愛人契約 奥様同士のドM懇願レズ調教 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8f4e34e7d663df48c2120/cover.jpg",
+      "actress": [
+        "友田彩也香",
+        "十川ありさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-516"
+    },
+    {
+      "id": 73764,
+      "IDcode": "XVSR-479",
+      "title": "一周的亲密同居生活-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/0930ebb743e9e426f7455678c81fc4af.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-479"
+    },
+    {
+      "id": 73396,
+      "IDcode": "MDB-588",
+      "title": "うまのりロデオ騎乗位でザーメンを絞りとる淫乱痴女 Part.2 友田彩也香 春原未来 舞咲みくに 大槻ひびき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "友田彩也香",
+        "春原未来",
+        "舞咲美娜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-588"
+    },
+    {
+      "id": 73317,
+      "IDcode": "MMTA-011",
+      "title": "亲戚家的姐姐的美腿勾引-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250128-1/e63efa958d177114285517a054a2f356.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMTA-011"
+    },
+    {
+      "id": 73178,
+      "IDcode": "AUKG-618",
+      "title": "不倫レズ ～性欲処理レズビアン飼育～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香",
+        "由爱可奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-618"
+    },
+    {
+      "id": 72680,
+      "IDcode": "TOMN-078",
+      "title": "超巨根性交 デカチンに魅せられる女達3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/882c0bf2a67ab2a2d7f673b91545038e.jpg",
+      "actress": [
+        "森澤佳奈",
+        "AIKA",
+        "友田彩也香",
+        "武藤彩香",
+        "南梨央奈",
+        "松井優子",
+        "原千岁",
+        "上原花恋",
+        "神谷秋妃",
+        "柏木あおい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOMN-078"
+    },
+    {
+      "id": 69858,
+      "IDcode": "XVSR-445",
+      "title": "美人妻-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/203cf80bade9ccb8a16ef779fed3f0bc.jpg",
+      "actress": [
+        "友田彩也香",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-445"
+    },
+    {
+      "id": 69251,
+      "IDcode": "XVSR-414",
+      "title": "今日、初めて見せます・・。濃密なプライベート友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/81bcffb855d2eb77deb3facc621a919b.jpg",
+      "actress": [
+        "友田彩也香",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-414"
+    },
+    {
+      "id": 67221,
+      "IDcode": "DLDSS-122",
+      "title": "洗脳催淫-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/b93acc774c6fe8f0d9ebb0314aee4320.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-122"
+    },
+    {
+      "id": 67042,
+      "IDcode": "DLDSS-155",
+      "title": "当他的妻子回家参加追悼会时",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa29289def9b1b80e4b79/cover.jpg",
+      "actress": [
+        "友田彩也香",
+        "Qべぇ",
+        "まい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-155"
     },
     {
       "id": 64035,
@@ -200,10 +1235,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-05-06",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/82efeb8bd4d2997671d3c6b79ce678d8.jpg",
       "actress": [
         "森澤佳奈",
         "森日向子",
@@ -217,126 +1252,333 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-076"
     },
     {
-      "id": 6687,
-      "IDcode": "UMSO-593",
-      "title": "門口勾引快遞小哥正嗨時，隔壁大叔來串門！VOL.03 ~ 田彩也香 海埜ほたる 川上優",
+      "id": 61558,
+      "IDcode": "MFYD-036",
+      "title": "ビアンマネージャーと現役アイドル、白日に晒されたレズビアンスキャンダル。 西元めいさ 友田彩也香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-04-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420075425292292_thumbnail.webp",
-      "actress": [
-        "友田彩也香",
-        "川上優",
-        "海埜ほたる",
-        "森萤",
-        "立岡杏菜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-593"
-    },
-    {
-      "id": 7125,
-      "IDcode": "XVSR-808",
-      "title": "超級淫亂口爆榨精大合集",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250330/15d5b524-8cb8-48fc-8833-19a28c1fb330.jpg",
-      "actress": [
-        "友田彩也香",
-        "松井日奈子",
-        "西野絵美",
-        "白石渚",
-        "日向ひかげ",
-        "菜月光",
-        "二宮桃",
-        "神村彩月",
-        "夏巳百合香",
-        "橋本理佐"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-808"
-    },
-    {
-      "id": 7472,
-      "IDcode": "DDOB-138",
-      "title": "雞巴狂熱騷熟女的48式手活大放送 ~ 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
-      "publish_date": "2025-03-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20250316/7724c9f5-6aeb-4061-b77d-ce9477e05f25.jpg",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-036"
     },
     {
-      "id": 8302,
-      "IDcode": "KAM-236",
-      "title": "我通過談話勾引已婚人壽保險推銷員，讓她溼透，並狠狠地操她整個故事 ~ 友田彩也香",
+      "id": 60664,
+      "IDcode": "OKK-098",
+      "title": "友田彩也香 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "卍GROUP",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250214/fd26af8e-dbc9-4ef3-be5a-85e086b5395c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-236"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKK-098"
     },
     {
-      "id": 73178,
-      "IDcode": "AUKG-618",
-      "title": "不倫レズ ～性欲処理レズビアン飼育～",
+      "id": 35603,
+      "IDcode": "IPZ-215",
+      "title": "和女友的姐姐无法告诉别人的关系-希志爱野 友田彩也香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/7b42ecde/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/17/331adba7/vod.jpg",
       "actress": [
         "友田彩也香",
-        "由爱可奈"
+        "希志爱野",
+        "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-618"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-215"
     },
     {
-      "id": 74659,
-      "IDcode": "BBAN-516",
-      "title": "十川ありさ レズ解禁 ママ友と禁断の愛人契約 奥様同士のドM懇願レズ調教 友田彩也香",
+      "id": 18939,
+      "IDcode": "DLDSS-221",
+      "title": "坏小孩们的巢穴 被下媚药的美人教师 友田彩也香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BIBIAN",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/e53784a5/vod.jpg",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678948f789def9b1b8096271/cover.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-221"
+    },
+    {
+      "id": 18648,
+      "IDcode": "DLDSS-228",
+      "title": "无法忘怀被切割痴汉搞到破烂不堪的快感 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678938df89def9b1b80961e3/cover.jpg",
       "actress": [
         "友田彩也香",
-        "十川ありさ"
+        "大岛丈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-516"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-228"
+    },
+    {
+      "id": 18248,
+      "IDcode": "DLDSS-235",
+      "title": "前肉食辣妹继母被全裸拜托处男毕业后…成为方便的真人自慰套 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/27/685d9c283ed39b57c003e984/cover.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-235"
+    },
+    {
+      "id": 17724,
+      "IDcode": "DLDSS-242",
+      "title": "绝伦处男大学生-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231120/20231120025406185185.jpg",
+      "actress": [
+        "友田彩也香",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-242"
+    },
+    {
+      "id": 17051,
+      "IDcode": "DLDSS-249",
+      "title": "因为被男友求婚-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231227/20231227003116393393.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-249"
+    },
+    {
+      "id": 16605,
+      "IDcode": "DLDSS-257",
+      "title": "在温泉旅行时性与爆发-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-257"
+    },
+    {
+      "id": 15364,
+      "IDcode": "AUKG-591",
+      "title": "偷窺已婚女同 - 光天化日之下自慰的妻子邀請的鄰居",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688ca19598bc99dfddea63e9/cover.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-591"
+    },
+    {
+      "id": 15128,
+      "IDcode": "DLDSS-212",
+      "title": "喜欢奉仕的奶油犬的您能舔阴让我满足的话就给你成为专属M男宠物 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DAHLIA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240428/202404280148109999.jpg",
+      "actress": [
+        "友田彩也香",
+        "みっちー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-212"
+    },
+    {
+      "id": 14504,
+      "IDcode": "HRSM-049",
+      "title": "美容部員狩獵！一流百貨店化妝品銷售美女4名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7c0b679f1ac4ec45ac1fd/cover.jpg",
+      "actress": [
+        "美咲佳奈",
+        "友田彩也香",
+        "若宮葉月",
+        "小松杏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-049"
+    },
+    {
+      "id": 12990,
+      "IDcode": "ATID-605",
+      "title": "美女们被下媚药玩弄的历史三大事件",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802060637107107.jpg",
+      "actress": [
+        "水川潤",
+        "友田彩也香",
+        "工藤由羅",
+        "いち",
+        "由爱可奈",
+        "工藤由罗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-605"
+    },
+    {
+      "id": 11419,
+      "IDcode": "CEMD-587",
+      "title": "恥辱、陵●、とびっこ装着・繁華街デート！25 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/1d360606162d1e4eb487b65928abca4f.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-587"
+    },
+    {
+      "id": 11254,
+      "IDcode": "MYBA-075",
+      "title": "人妻の花びらめくり 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241013/20241013080258623623.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-075"
+    },
+    {
+      "id": 10286,
+      "IDcode": "ADN-620",
+      "title": "被安排的邂逅-友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128101758494494.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-620"
+    },
+    {
+      "id": 10225,
+      "IDcode": "YMDS-187",
+      "title": "いちゃラブ密着特濃せっくちゅ 憧れの友田彩也香を独占した一夜。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241203/7379758e-08f7-4d92-aa33-2a269a6f2955.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-187"
+    },
+    {
+      "id": 10210,
+      "IDcode": "SDJS-291",
+      "title": "「下着・全裸」でおもてなし またがりオマ○コ航空 SOD女子社員 本多そらビジネスマナー講習便 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241203/9dd2b0ae-ef1b-4dc7-91cb-7eaddad7a4cd.jpg",
+      "actress": [
+        "友田彩也香",
+        "本多そら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-291"
+    },
+    {
+      "id": 9587,
+      "IDcode": "NEO-921",
+      "title": "推しの接吻は見てられない！友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787bd315d57b64bfd03e272/cover.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-921"
     },
     {
       "id": 9159,
       "IDcode": "CEAD-661",
-      "title": "15名女優扒開屁股爲你而自慰 Vol.4 ~ 友田彩也香 胡桃櫻花 堤芹奈 椎名心春 堀北実來 美園和花 等",
+      "title": "ケツ穴のシワまで丸見えにして、アナタだけに見せつけるオナニーで激イキする15人の女たち！vol.4",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
-      "publish_date": "2025-01-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250113/4167fbb7-31fd-4028-b7e1-8cab329d5511.jpg",
       "actress": [
         "美園和花",
@@ -354,734 +1596,280 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-661"
     },
     {
-      "id": 9587,
-      "IDcode": "NEO-921",
-      "title": "不能接受喜歡的偶像被別人吻了！~ 友田彩也香",
+      "id": 8302,
+      "IDcode": "KAM-236",
+      "title": "【コンプラ違反】 生保レディの人妻を枕営業SEX交渉で口説いて濡らしてずっぽりハメたナマナマしすぎる一部始終 【告発10カメ盗撮】 友田彩也香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "RADIX",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241226/4215b719-731e-484c-90a4-597104f78334.jpg",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/639083839a8f0cae743bff2e50cbb06d.jpg",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-921"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-236"
     },
     {
-      "id": 78573,
-      "IDcode": "HEZ-736",
-      "title": "あなただけに見せてあげる！不貞行為を自ら望んで応募してきた美人ヤリ妻のイケない完堕ち性交 BEST vol.01",
+      "id": 7472,
+      "IDcode": "DDOB-138",
+      "title": "チ〇ポ大好きビッチママのお手コキフォーティーエイト 友田彩也香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-138"
+    },
+    {
+      "id": 7125,
+      "IDcode": "XVSR-808",
+      "title": "超絶丁寧に舐め上げ口内発射で搾り取る！THEごっくんフェラ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250330/15d5b524-8cb8-48fc-8833-19a28c1fb330.jpg",
+      "actress": [
+        "友田彩也香",
+        "松井日奈子",
+        "西野絵美",
+        "白石渚",
+        "日向ひかげ",
+        "菜月光",
+        "二宮桃",
+        "神村彩月",
+        "夏巳百合香",
+        "橋本理佐"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-808"
+    },
+    {
+      "id": 6687,
+      "IDcode": "UMSO-593",
+      "title": "玄関先で宅配業者を誘惑してフェラ中に、隣の旦那さんが回覧板を持ってやって来た！！VOL.03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/20250420075425292292_thumbnail.webp",
+      "actress": [
+        "友田彩也香",
+        "川上優",
+        "海埜ほたる",
+        "森萤",
+        "立岡杏菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-593"
+    },
+    {
+      "id": 6250,
+      "IDcode": "KNIP-006",
+      "title": "無套肉棒的性愛天才-福岡愛麗絲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KNIP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052228215215_thumbnail.webp",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNIP-006"
+    },
+    {
+      "id": 5964,
+      "IDcode": "MMKS-030",
+      "title": "いじわるご奉仕 癒しの巨尻ソープ嬢 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2024-12-13",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/12/969dec0f/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/07/9b875d07/vod.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKS-030"
+    },
+    {
+      "id": 5944,
+      "IDcode": "XMOM-091",
+      "title": "玉砕スケバンあやか36歳 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014503433433_thumbnail.webp",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-091"
+    },
+    {
+      "id": 5397,
+      "IDcode": "SILK-183",
+      "title": "藏不住的愛意 第十季 ~ 南梨央奈 辻櫻 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68ab5eadaffba992c0ffcaae/cover.jpg",
       "actress": [
         "友田彩也香",
-        "川越ゆい",
-        "浜崎真绪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEZ-736"
-    },
-    {
-      "id": 10225,
-      "IDcode": "YMDS-187",
-      "title": "密着特濃做了一晚上的愛。我終於獨佔了憧憬中最喜歡的女優 ~ 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20241203/7379758e-08f7-4d92-aa33-2a269a6f2955.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-187"
-    },
-    {
-      "id": 78553,
-      "IDcode": "CEMD-603",
-      "title": "アナルで発情！～本能で感じる！美女があえぎ狂う快感レズビアン～ 4（野外露出編） 友田彩也香 水川潤",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2024-11-26",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香",
-        "由爱可奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-603"
-    },
-    {
-      "id": 93731,
-      "IDcode": "PED-044",
-      "title": "【FANZA限定】たった7時間2人っきりにしてみたら…結果、10発セックスしてました。 友田彩也香 パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2024-07-05",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PED-044"
-    },
-    {
-      "id": 93341,
-      "IDcode": "NACR-822",
-      "title": "発情母 友田彩也香 生写真とパンティ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2024-07-05",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-822"
-    },
-    {
-      "id": 14068,
-      "IDcode": "NOSKN-096",
-      "title": "友田彩香兩人的恩愛NS溫泉之旅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NOSKINS",
-      "publish_date": "2024-07-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035041806806.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-096"
-    },
-    {
-      "id": 93586,
-      "IDcode": "NPJS-056",
-      "title": "「脱いでくれたら入会するよ。」 マルチ勧誘の女ホテルに連れ込んで生ハメカウンター喰らわせてヤッた 。 勧誘人妻 あやか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2024-07-02",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-056"
-    },
-    {
-      "id": 16605,
-      "IDcode": "DLDSS-257",
-      "title": "禁欲一個月的友田彩也香在溫泉之旅中性欲爆發",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2024-02-22",
-      "cover_url": "https://picture.yoshiclub.xyz/temp/202401240311403737.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-257"
-    },
-    {
-      "id": 17051,
-      "IDcode": "DLDSS-249",
-      "title": "「我要结婚了…」最後一次和一個非常契合的砲友在一起真是太棒了，我們一便又一便的做愛，直到清晨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2024-01-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20231227/20231227003116393393.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-249"
-    },
-    {
-      "id": 17724,
-      "IDcode": "DLDSS-242",
-      "title": "絶倫的友田彩也香与粉丝童貞大学生一起过的一夜",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2023-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231120/20231120025406185185.jpg",
-      "actress": [
-        "友田彩也香",
-        "日森一"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-242"
-    },
-    {
-      "id": 18248,
-      "IDcode": "DLDSS-235",
-      "title": "當我要求岳母脫光衣服配合我時...",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2023-11-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20231021/8e40acd6-cea9-41d6-873d-ca6c138eb6d8.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-235"
-    },
-    {
-      "id": 18648,
-      "IDcode": "DLDSS-228",
-      "title": "被癡漢撕碎猥褻強暴的快感讓人難以忘懷",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2023-10-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20230919/20230919221117558558.jpg",
-      "actress": [
-        "友田彩也香",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-228"
-    },
-    {
-      "id": 15128,
-      "IDcode": "DLDSS-212",
-      "title": "你是我的舔狗。如果僅僅舔陰就滿足，我會讓你成爲專屬的受虐寵物 ~ 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2023-08-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20240428/202404280148109999.jpg",
-      "actress": [
-        "友田彩也香",
-        "みっちー"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-212"
-    },
-    {
-      "id": 107657,
-      "IDcode": "DLDSS-188",
-      "title": "社員旅行でセクハラな宴会出し物をやらされたあげく発情した変態上司に中出しされ続け身籠った婚約者 友田彩也香 パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2023-07-20",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-188"
-    },
-    {
-      "id": 67042,
-      "IDcode": "DLDSS-155",
-      "title": "法事で帰省した妻がデカチン自慢の実兄たちに巨根穴兄弟4P輪●されてしまいゲス勃起が収まりません…友田彩也香 パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2023-03-23",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香",
-        "Qべぇ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-155"
-    },
-    {
-      "id": 88582,
-      "IDcode": "DLDSS-144",
-      "title": "DLDSS-144",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2023-02-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231023-1/7eeee8240c4556320ff6108b7626616d.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-144"
-    },
-    {
-      "id": 67221,
-      "IDcode": "DLDSS-122",
-      "title": "洗脳催淫 敏腕女社長が人格ごと催●に侵略されていく… 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-09-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/b93acc774c6fe8f0d9ebb0314aee4320.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-122"
-    },
-    {
-      "id": 84357,
-      "IDcode": "DLDSS-113",
-      "title": "クソ生意気な息子の同級生たちに何度も犯●れ殺したいほど憎いのに相性抜群すぎて下品イキする母 友田彩也香 パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-09-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/081db45f93151cd55971a3cb0405c8e5.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-113"
-    },
-    {
-      "id": 84264,
-      "IDcode": "DLDSS-079",
-      "title": "あやか、体液まみれ あってはならない娘と父の交歓 友田彩也香 パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-06-09",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-079"
-    },
-    {
-      "id": 84254,
-      "IDcode": "DLDSS-071",
-      "title": "職場で働く女に欲情する 彩也香は制服のまま凌●された… 友田彩也香 パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-05-12",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-071"
-    },
-    {
-      "id": 81127,
-      "IDcode": "DLDSS-057",
-      "title": "女教師肛門視姦～生徒に毎日アナルハラスメントされ続けています～ 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-03-10",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-057"
-    },
-    {
-      "id": 80770,
-      "IDcode": "DLDSS-053",
-      "title": "息子の射精が変なんです…お漏らしザーメン母子相姦 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-02-10",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-053"
-    },
-    {
-      "id": 106717,
-      "IDcode": "DLDSS-049",
-      "title": "僕はギャル好き陰キャ童貞。盗撮で脅迫し兄貴の彼女を調教中。友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2022-01-13",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-049"
-    },
-    {
-      "id": 80332,
-      "IDcode": "DLDSS-042",
-      "title": "100発ザーメン搾り獲るまで出られない家からの脱出 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2021-12-09",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香",
-        "平井シンジ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-042"
-    },
-    {
-      "id": 106795,
-      "IDcode": "DLDSS-032",
-      "title": "毎晩お義父さんに中出しされています。 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2021-10-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1dldss032/1dldss032pl.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-032"
-    },
-    {
-      "id": 79835,
-      "IDcode": "DLDSS-027",
-      "title": "あなたにだけは知られたくない…ラブラブな笑顔でお姉ちゃんが結婚報告に来たその日、妹の私は義兄になったばかりの男に襲われました。友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2021-09-09",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-027"
-    },
-    {
-      "id": 79335,
-      "IDcode": "DLDSS-017",
-      "title": "錦糸町の嬢王 夜の蝶ごっくん中出し性接客 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DAHLIA",
-      "publish_date": "2021-07-08",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-017"
-    },
-    {
-      "id": 82519,
-      "IDcode": "FSDSS-030",
-      "title": "もうイッてるのに腰フリ止まらないってば～ 騎乗位で逆追撃ピストンしちゃう杭打ちお姉さん 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2020-04-23",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-030"
-    },
-    {
-      "id": 82536,
-      "IDcode": "FSDSS-020",
-      "title": "AV女優History the友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2020-03-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/6ee934fa6a0148c1dd120eaf6feb6a59.jpg",
-      "actress": [
-        "友田彩也香",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-020"
-    },
-    {
-      "id": 76602,
-      "IDcode": "FSDSS-009",
-      "title": "無鉄砲テレビディレクターvs友田彩也香 AVぶった斬りSHOW 4days",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2020-01-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/74dfe18c557ee02de2f7a1730216126e.jpg",
-      "actress": [
-        "友田彩也香",
-        "Qべぇ",
-        "浜口リュウ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-009"
-    },
-    {
-      "id": 75850,
-      "IDcode": "BTH-009",
-      "title": "そんな弱っちい目で見ないでくださいよぉ…いつもは怖～い友田先生（笑） 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-03",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-009"
-    },
-    {
-      "id": 83882,
-      "IDcode": "XVSR-520",
-      "title": "友田彩也香 マックスエー全作品コンプリートBEST4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2019-12-25",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-520"
-    },
-    {
-      "id": 73731,
-      "IDcode": "XVSR-485",
-      "title": "濃交 友田彩也香の真正中出しSPECIAL",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2019-07-25",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-485"
-    },
-    {
-      "id": 82932,
-      "IDcode": "XVSR-466",
-      "title": "LOVE AIR 結婚して東京に行った元カノが帰省して過ごした4日間 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2019-04-25",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-466"
-    },
-    {
-      "id": 82933,
-      "IDcode": "XVSR-459",
-      "title": "淫語痴女クライシス 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2019-03-25",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-459"
-    },
-    {
-      "id": 69251,
-      "IDcode": "XVSR-414",
-      "title": "今日、初めて見せます・・。濃密なプライベート友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2018-09-25",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-414"
-    },
-    {
-      "id": 73317,
-      "IDcode": "MMTA-011",
-      "title": "パンスト大好き少年 親戚の綺麗なお姉さんの秘蜜の匂い 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-06-19",
-      "cover_url": "https://tutu1.space/images/2025/01/27/579ae905e0302ef1b45ece346abf50f6.jpg",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMTA-011"
-    },
-    {
-      "id": 83044,
-      "IDcode": "AP-024",
-      "title": "Aphrodite/友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-06-01",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-024"
-    },
-    {
-      "id": 76401,
-      "IDcode": "MMTA-008",
-      "title": "せまいところで迫ってくる友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-03-19",
-      "cover_url": "",
-      "actress": [
-        "友田彩也香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMTA-008"
-    },
-    {
-      "id": 12411,
-      "IDcode": "MMGH-002",
-      "title": "美麗的女皮膚科醫生在體檢時看到了我完全勃起的雞巴 ~ 友田彩也香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2017-09-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20240818/749f2746-756d-4451-be43-10bc3be637f2.jpg",
-      "actress": [
-        "友田彩也香",
-        "篠惠美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-002"
-    },
-    {
-      "id": 72680,
-      "IDcode": "TOMN-078",
-      "title": "超巨根性交 デカチンに魅せられる女達3",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-01-19",
-      "cover_url": "",
-      "actress": [
-        "森澤佳奈",
-        "AIKA",
-        "友田彩也香",
-        "武藤彩香",
+        "辻櫻",
         "南梨央奈",
-        "松井優子",
-        "原千岁",
-        "上原花恋",
-        "神谷秋妃",
-        "柏木あおい"
+        "千歳小梅",
+        "清水健翔"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOMN-078"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-183"
     },
     {
-      "id": 73396,
-      "IDcode": "MDB-588",
-      "title": "うまのりロデオ騎乗位でザーメンを絞りとる淫乱痴女 Part.2 友田彩也香 春原未来 舞咲みくに 大槻ひびき",
+      "id": 4891,
+      "IDcode": "XVSR-825",
+      "title": "新撮接写アングル 極-kiwame-中出し騎乘位 腰使いを極めたエロ女子新作150分！PART2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2015-01-09",
-      "cover_url": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628101209497497_thumbnail.webp",
       "actress": [
-        "大槻响",
         "友田彩也香",
-        "春原未来",
-        "舞咲美娜"
+        "松井日奈子",
+        "西野絵美",
+        "白石渚",
+        "日向ひかげ",
+        "菜月光",
+        "二宮桃",
+        "神村彩月",
+        "夏巳百合香",
+        "橋本理佐"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDB-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-825"
     },
     {
-      "id": 82405,
-      "IDcode": "GG-066",
-      "title": "声NG！どんな場所でも、人がどんなに居ても、感じた声を絶対に出してはイケナイ指令に友田彩也香のアソコはマン汁でビチョビチョになっている！",
+      "id": 4555,
+      "IDcode": "SILK-186",
+      "title": "この愛し方しか、知らない。case2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2012-06-21",
-      "cover_url": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab655b5f03a092cf71932c/cover.jpg",
+      "actress": [
+        "友田彩也香",
+        "美波梢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-186"
+    },
+    {
+      "id": 3808,
+      "IDcode": "HAWA-361",
+      "title": "子持ちのおばさんだけどおち○ぽ欲しいの アヤさん(40歳)",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Cosmos 映像",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014151136136_38385_thumbnail.webp",
       "actress": [
         "友田彩也香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GG-066"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAWA-361"
+    },
+    {
+      "id": 3271,
+      "IDcode": "CEAD-698",
+      "title": "究極のオナサポ！主観命令オナニー！Vol.2 エロい身体で最高の射精に誘う厳選人気美女優15人！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b21e7cfbe7fd63de7f79eb/cover.jpg",
+      "actress": [
+        "波多野结衣",
+        "宮城理惠",
+        "水川潤",
+        "友田彩也香",
+        "夏川步美",
+        "吉泽友贵",
+        "紗紗原百合",
+        "白木優子",
+        "月見若葉",
+        "西村ニーナ",
+        "白河花清",
+        "一場れいか",
+        "北乃由奈",
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-698"
+    },
+    {
+      "id": 2683,
+      "IDcode": "MXGS-1399",
+      "title": "夫の部下に言い寄られ…自宅で裏切りのNTR 友田彩也香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GOGOS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d98c18ce5a404e9bbb67b6/cover.jpg",
+      "actress": [
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-1399"
+    },
+    {
+      "id": 2274,
+      "IDcode": "MMPB-096",
+      "title": "【半中半外】至高のマ●コにリアル中出し13人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天馬唯",
+        "田中寧寧",
+        "由良佳奈",
+        "友田彩也香",
+        "一条美緒",
+        "绀野光",
+        "美波梢",
+        "鳳可怜",
+        "蘭々",
+        "弘中優",
+        "辻櫻",
+        "香椎佳穂",
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-096"
     }
   ]
 };

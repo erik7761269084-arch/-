@@ -53,9 +53,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2014-09-10",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "朝桐光",

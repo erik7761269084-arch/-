@@ -37,72 +37,77 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 2058,
-      "IDcode": "DRGBD-05",
-      "title": "那是學校的裸體日：椎名光、黑崎塞西爾、星崎安娜、三澤飛鳥、宮崎由真、大塚麻友、雛薰。",
+      "id": 99974,
+      "IDcode": "TIN-028",
+      "title": "お嬢様學校の通學路にある我が家の庭先で催淫ハーブをゴミと一緒",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATCHEYE",
-      "publish_date": "2014-04-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/93656534-6ae3-4a15-836c-88ad9cee365e.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-10-10",
+      "cover_url": "http://15.155250922.com/upload/vod/20220929/1tin00028pl.jpg",
       "actress": [
         "椎名光",
-        "大塚まゆ",
-        "绫濑妃亚罗",
-        "宮崎由麻",
-        "三沢明日香"
+        "渡辺杏奈",
+        "安达まどか",
+        "中野翔子",
+        "栗山さやか",
+        "七星くる"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-05"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIN-028"
     },
     {
-      "id": 1821,
-      "IDcode": "SKYHD-118",
-      "title": "天空天使藍 Vol.114：羽川露娜",
+      "id": 150,
+      "IDcode": "HEYZO-0126",
+      "title": "光老師の騷話教室 ~ 椎名光",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2012-09-29",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250708/202507080356392121_84689_thumbnail.webp",
+      "actress": [
+        "椎名光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0126"
+    },
+    {
+      "id": 98489,
+      "IDcode": "DVH-641",
+      "title": "近親相姦 第2章 私たちは毎日、義父、義兄の欲望のままにレイプされています",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-04-25",
+      "cover_url": "",
+      "actress": [
+        "椎名光",
+        "佐藤遥希",
+        "前田优希",
+        "宫野ゆかな",
+        "原纯那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVH-641"
+    },
+    {
+      "id": 143297,
+      "IDcode": "102513-463",
+      "title": "CRB48HeartEros如果我成为中心我会做任何事情",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-10-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/b995575d-4272-45c4-b152-b6455269e481.webp",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250206-1/87107dc4c60a07369450cc7ed11e82fb.jpg",
       "actress": [
         "椎名光"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-118"
-    },
-    {
-      "id": 1819,
-      "IDcode": "MKBD-S37",
-      "title": "KIRARI 37 空服員壓抑的性慾：椎名光 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2012-12-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230131/20bb1053-c282-4e17-8a59-ca006cdfd861.webp",
-      "actress": [
-        "椎名光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S37"
-    },
-    {
-      "id": 1917,
-      "IDcode": "SMBD-68",
-      "title": "S Model 68 ～敏感美少女讓你幹到爽～ : 椎名光",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2012-10-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/effab705-0d8c-4832-9f88-39250ee50225.webp",
-      "actress": [
-        "椎名光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-68"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=102513-463"
     }
   ]
 };

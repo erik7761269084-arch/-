@@ -30,19 +30,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250528/20250528052713893893_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 85420,
       "IDcode": "MIDV-019",
-      "title": "性欲が異常すぎる彼女のお姉さんが発情デカ尻で僕を圧殺！ ひたすら鬼パコ杭打ちプレスで痴女られ暴走ピストン！ 石原希望",
+      "title": "用她的大屁股压倒了我-石原希望",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2021-12-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/12/26/6bd343dccd05b89553ca2ede19f10d3f.jpg",
       "actress": [
         "石原希望",
         "友田真希",
@@ -59,20 +59,36 @@ window.actressData = {
     {
       "id": 80109,
       "IDcode": "MIDV-004",
-      "title": "憧れの希望先輩が屈強な水泳部員に輪●されてしまった… 石原希望",
+      "title": "被强壮的游泳运动员轮奸-石原希望",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2021-11-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/c6e5f6a5ddbf34b5f38ce63d8f8160af.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/11/29/356b02ed1deb75f89a93e820f4cfbd1b.jpg",
       "actress": [
         "石原希望",
         "紫彩乃",
         "岩下たろう"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-004"
+    },
+    {
+      "id": 104,
+      "IDcode": "HEYZO-0037",
+      "title": "不要告诉任何人......-道歉是肛门",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240922-1/2c15ac04e5867ae63f9bffa4a0225d99.jpg",
+      "actress": [
+        "紫彩乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0037"
     }
   ]
 };

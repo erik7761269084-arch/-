@@ -29,40 +29,57 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230701/b78d12a3-a669-446d-97dd-506ef8d237f0.jpg",
     "https://picture.yoshiclub.xyz/20230701/a3c7dabf-4543-45e1-97fe-296f0dd80f6b.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 19111,
-      "IDcode": "IPX-335",
-      "title": "因為我被輪姦的魔法少女理紗",
+      "id": 19150,
+      "IDcode": "IPX-307",
+      "title": "一个喜欢舔生口水的淫荡护士-森沢リサ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2019-07-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230715/20230715203340574574.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230709/20230709233410871871.jpg",
+      "actress": [
+        "森澤理紗",
+        "绫瀬ミレナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-307"
+    },
+    {
+      "id": 19135,
+      "IDcode": "IPX-319",
+      "title": "誘惑日記 森沢リサ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/06/30/QQ202007010209116ef47.jpg",
+      "actress": [
+        "森澤理紗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-319"
+    },
+    {
+      "id": 19111,
+      "IDcode": "IPX-335",
+      "title": "魔法少女森泽理纱因为我魔力尽失被淫魔们轮奸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3159051fffb1355b92fcca8e3b21edad.jpg",
       "actress": [
         "森澤理紗",
         "田渊正浩"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-335"
-    },
-    {
-      "id": 19135,
-      "IDcode": "IPX-319",
-      "title": "冷笑妹妹的不穿內褲誘惑日記",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2019-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230712/20230712030042971971.jpg",
-      "actress": [
-        "森澤理紗"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-319"
     }
   ]
 };

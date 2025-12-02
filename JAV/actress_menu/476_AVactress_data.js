@@ -47,36 +47,257 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240305/2c5d6583-f71f-4c1a-8270-1c83baecc8e4.jpg",
     "https://picture.yoshiclub.xyz/20240305/68bc8e51-d837-45ff-9300-631ecedcd93c.jpg"
   ],
-  "works_count": 8,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 4147,
-      "IDcode": "SW-1010",
-      "title": "一起泡澡啦！已經長大成熟的表妹居然提出要和我混浴 ~ 有加裏乃乃花 有賀千裏 美澄玲衣",
+      "id": 5441,
+      "IDcode": "TCHB-048",
+      "title": "按摩店猥褻男15 ~ 中條りの 櫻井麻美 逢見梨花 有賀千裏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2025-07-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724035812366366_68130_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-06-06",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605050035619619_thumbnail.webp",
       "actress": [
-        "美澄玲衣",
-        "有加里乃乃花",
+        "逢見梨花",
+        "有賀千里",
+        "櫻井麻美",
+        "中条りの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-048"
+    },
+    {
+      "id": 6810,
+      "IDcode": "HOKS-193",
+      "title": "人妻的禁忌之戀 欲情之溼身日常 ~ 有賀千裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "2025-04-12",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416075517327327_thumbnail.webp",
+      "actress": [
         "有賀千里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1010"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-193"
+    },
+    {
+      "id": 11815,
+      "IDcode": "AARM-253",
+      "title": "ノースリーブの巨乳に顔埋めながらべろんべろんに乳首舐められ続ける。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240921/bdf3f6ed-8995-40a7-8a5d-3d54092a5af5.jpg",
+      "actress": [
+        "田中寧寧",
+        "和久井美兎",
+        "及川海",
+        "有賀千里",
+        "杉咲しずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-253"
+    },
+    {
+      "id": 11804,
+      "IDcode": "BONY-118",
+      "title": "24時間居座り集団中出しレ●プ04 人妻Mさん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/6d83770b1ab8c63ba6824adfa2da9c68.jpg",
+      "actress": [
+        "有賀千里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-118"
+    },
+    {
+      "id": 11764,
+      "IDcode": "MOOR-026",
+      "title": "連續絕頂高潮絕叫記錄 ~ 有賀千裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/8c75ab665210dbfaa2befb01c3a504c5.jpg",
+      "actress": [
+        "有賀千里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-026"
+    },
+    {
+      "id": 11231,
+      "IDcode": "AARM-259",
+      "title": "神BODY的精液小偷-有賀みなほ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/6519bc853d7838ad6396b6152f48e7bc.jpg",
+      "actress": [
+        "有賀千里",
+        "有贺みなほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-259"
+    },
+    {
+      "id": 8893,
+      "IDcode": "AEGE-043",
+      "title": "限界突破！喉奥破壊イラマチオ 有賀みなほ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AEGEAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/816335e6bad2177450bca8ee5f74b97d.jpg",
+      "actress": [
+        "有賀千里",
+        "有贺みなほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-043"
+    },
+    {
+      "id": 8528,
+      "IDcode": "AARM-275",
+      "title": "「ち〇ぽもっともっと硬くして…」と耳元で囁かれながら睾丸と亀頭を焦らし責められ続ける限界勃起3P性感",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/f947872182001426c6a9cc1576b9c8b3.jpg",
+      "actress": [
+        "和久井美兎",
+        "川上優",
+        "有賀千里",
+        "音羽美鈴",
+        "伊東沙蘭",
+        "相沢澪",
+        "有贺みなほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-275"
+    },
+    {
+      "id": 7089,
+      "IDcode": "AARM-284",
+      "title": "奥様のエロ尻揉みまくりからのパンティーぶっかけザーメン！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/847196a144d8587486dc9f2d6f2200d4.jpg",
+      "actress": [
+        "藤咲紫",
+        "有賀千里",
+        "美泉咲",
+        "相沢澪",
+        "美原すみれ",
+        "有贺みなほ",
+        "さくらい麻乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-284"
+    },
+    {
+      "id": 6950,
+      "IDcode": "BACJ-145",
+      "title": "毎日性処理してくれる俺の嫁は奉仕好きで甘え上手な射精マニア 有賀みなほ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250409/f0698d7e-466a-4fb9-9eab-2de926956dc4.jpg",
+      "actress": [
+        "有賀千里",
+        "有贺みなほ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-145"
+    },
+    {
+      "id": 6433,
+      "IDcode": "HZGB-049",
+      "title": "田舎でヤルことがなくて…隣に住む美巨乳デカ尻妻と種付けSEXに溺れ孕ませた真夏の汗ダク不倫5時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻花園劇場",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503095741203203_thumbnail.webp",
+      "actress": [
+        "若宮穂乃",
+        "夏川步美",
+        "星明日菜",
+        "鈴木真夕",
+        "有賀千里",
+        "夏川海",
+        "水川かえで"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGB-049"
+    },
+    {
+      "id": 6344,
+      "IDcode": "SW-1000",
+      "title": "若妻がハマる性感オイルマッサージ。（マル秘）オイル＋スケベ指技＋デカ硬チ〇ポでお漏らし痙攣止まらずイキまくり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508061215738738_thumbnail.webp",
+      "actress": [
+        "有栖舞衣",
+        "有賀千里",
+        "兼咲美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1000"
+    },
+    {
+      "id": 5956,
+      "IDcode": "SW-1002",
+      "title": "近所の人妻のむっちりパンスト！透けパンチラむっちり尻に誘われて、パンスト破って硬チ〇ポずぶずぶ侵入させてイイですよね？！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014335595595_thumbnail.webp",
+      "actress": [
+        "有賀千里",
+        "川越ゆい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1002"
     },
     {
       "id": 4165,
       "IDcode": "DOA-124",
-      "title": "震驚！絕世美女居然玩絲襪變臉，臉崩到不行！~ 小花暖 彌生美月 西田卡莉娜 望月綾香 前乃菜菜 河合陽菜 有賀千里 竹內夏希 桐谷鈴音",
+      "title": "衝撃！こんな美女が！？パンスト変顔で顔面崩壊！？",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-19",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718212741129129_45173_thumbnail.webp",
       "actress": [
         "彌生美月",
@@ -98,122 +319,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-124"
     },
     {
-      "id": 6344,
-      "IDcode": "SW-1000",
-      "title": "年輕人妻沉迷性感油壓按摩，特殊油加騷手指加巨硬肉棒，爽到失禁抽搐高潮不停 ~ 有棲舞衣 愛乃零 有賀千裏",
+      "id": 4147,
+      "IDcode": "SW-1010",
+      "title": "「一緒にお風呂はいろ！」大人に成長した従妹とまさかの混浴！おっぱいもお尻もスケベになった身体はネ僕の勃起しっぱなしのチ〇コと近親H体験したいんですよ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508061215738738_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6893029ac92318f97d87fdf8/cover.jpg",
       "actress": [
-        "有栖舞衣",
-        "有賀千里",
-        "兼咲美優"
+        "美澄玲衣",
+        "有加里乃乃花",
+        "有賀千里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1000"
-    },
-    {
-      "id": 6433,
-      "IDcode": "HZGB-049",
-      "title": "鄉下沒事幹…和隔壁大胸翹臀人妻沉迷種馬性愛，汗流浹背的盛夏偷情5小時 ~ 夏川步美 夏川海 若宮穂乃 星明日菜 水川かえで 有賀千裏 鈴木真夕",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻花園劇場",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250503/20250503095741203203_thumbnail.webp",
-      "actress": [
-        "若宮穂乃",
-        "夏川步美",
-        "星明日菜",
-        "鈴木真夕",
-        "有賀千里",
-        "夏川海",
-        "水川かえで"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGB-049"
-    },
-    {
-      "id": 6950,
-      "IDcode": "BACJ-145",
-      "title": "我家的每日性處理妻超會伺候又會撒嬌 ~ 有賀千裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2025-04-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20250409/f0698d7e-466a-4fb9-9eab-2de926956dc4.jpg",
-      "actress": [
-        "有賀千里",
-        "有贺みなほ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-145"
-    },
-    {
-      "id": 7089,
-      "IDcode": "AARM-284",
-      "title": "人妻的色臀狂揉到爽！最後射滿內褲的濃精大放送！！ ~ 相沢澪 有賀千裏 藤咲紫",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/c7011a7e-10c0-4d93-9f77-bfa8e579cd0a.jpg",
-      "actress": [
-        "藤咲紫",
-        "有賀千里",
-        "美泉咲",
-        "相沢澪",
-        "美原すみれ",
-        "有贺みなほ",
-        "さくらい麻乃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-284"
-    },
-    {
-      "id": 8528,
-      "IDcode": "AARM-275",
-      "title": "請你雞巴再硬一點... 耳邊低語，同時睾丸和龜頭被挑逗和折磨，直到達到勃起的極限 ~ 相沢澪 和久井美兎 音羽美鈴 伊東沙蘭 有賀千裏 川上優",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/7a839c6d-f0cf-40b0-81b7-33d9f75e7415.jpg",
-      "actress": [
-        "和久井美兎",
-        "川上優",
-        "有賀千里",
-        "音羽美鈴",
-        "伊東沙蘭",
-        "相沢澪",
-        "有贺みなほ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-275"
-    },
-    {
-      "id": 8893,
-      "IDcode": "AEGE-043",
-      "title": "限界突破！深喉奧義破壞 ~ 有賀千里",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AEGEAN",
-      "publish_date": "2025-01-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/cbce845b-16cc-4a66-ab47-2cf474586a67.jpg",
-      "actress": [
-        "有賀千里",
-        "有贺みなほ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-043"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1010"
     }
   ]
 };

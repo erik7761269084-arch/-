@@ -51,68 +51,99 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240712/29ad3cc8-5866-4de2-8c57-be7b4da8785f.jpg",
     "https://picture.yoshiclub.xyz/20240712/be4438e1-c6e5-4914-9591-99e34417820d.jpg"
   ],
-  "works_count": 12,
+  "works_count": 18,
   "related_dramas": [
     {
-      "id": 60125,
-      "IDcode": "JUFE-597",
-      "title": "【FANZA限定】究極のフェラチオ！！男性器をおクチ診療するバキューム吸引クリニック 黒咲華 生写真付き",
+      "id": 12043,
+      "IDcode": "BLK-644",
+      "title": "和我成了炮友的肉食系女孩 ~ 黑咲華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-10-08",
-      "cover_url": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "2024-09-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240913/20240913015049395395.jpg",
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-597"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-644"
     },
     {
-      "id": 2330,
-      "IDcode": "CLUB-886",
-      "title": "跟蹤偷拍大奶辣妹 迷昏後硬上",
+      "id": 12612,
+      "IDcode": "FPRE-094",
+      "title": "超級肉食系現役看護師專屬決定！ 精致迷人的黑美人，潮吹中出解禁特別專輯 ~ 黑咲華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "変態紳士倶楽部",
-      "publish_date": "2025-10-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002041229789789_97086_thumbnail.webp",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815230037344344.jpg",
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-886"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-094"
     },
     {
-      "id": 3568,
-      "IDcode": "MANX-018",
-      "title": "極致主觀視角狂舔黑皮筋肉系辣妹 美翹臀超贊 尻控速入 ~ 黒咲華",
+      "id": 13395,
+      "IDcode": "BLK-642",
+      "title": "盡管外表看起來很騷，但她實際上是一名護士！ AV 首次亮相 ~ 黑咲華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025350843843_21330_thumbnail.webp",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712001954582582.jpg",
       "actress": [
-        "黒咲華",
-        "コグレハルト"
+        "黒咲華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-642"
+    },
+    {
+      "id": 74174,
+      "IDcode": "BLK-648",
+      "title": "黒ギャルビッチの本領発揮！ビーチで逆ナン！即持ち帰りヤリたい放題チ〇ポ狩り！！ 黒咲華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250922-1/19fb6f68d9b4e3fad228f2af90df474a.jpg",
+      "actress": [
+        "黒咲華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-648"
+    },
+    {
+      "id": 63919,
+      "IDcode": "FPRE-181",
+      "title": "私の快感のツボを知り尽くす陰湿な元カレに絶望するほどイカされて… 孕むまで中出しされ続ける逃れられない監禁種付けプレス 黑咲華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250801/6aX7IOmG/1.jpg",
+      "actress": [
+        "黒咲華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-181"
     },
     {
       "id": 61971,
       "IDcode": "KIBD-331",
-      "title": "どすけべギャルのぶりんっぶりんデカ尻騎乗位 なすすべもなく搾り取られたギャルの腰振り39本番ベスト",
+      "title": "どすけべギャルのぶりんっぶりんデカ尻騎乘位 なすすべもなく搾り取られたギャルの腰振り39本番ベスト",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2025-07-15",
-      "cover_url": "https://tutu1.space/images/2025/07/16/590155bd4625e3be927da06f377e4b68.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "松本一香",
         "春陽萌花",
@@ -128,48 +159,115 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-331"
     },
     {
-      "id": 4462,
-      "IDcode": "BLK-661",
-      "title": "風騷GAL女教師的致命誘惑 ~ 黑咲華",
+      "id": 60125,
+      "IDcode": "JUFE-597",
+      "title": "治疗男性生殖器的真空抽吸诊所黒咲華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032245513513_29001_thumbnail.webp",
-      "actress": [
-        "黒咲華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-661"
-    },
-    {
-      "id": 63919,
-      "IDcode": "FPRE-181",
-      "title": "私の快感のツボを知り尽くす陰湿な元カレに絶望するほどイカされて… 孕むまで中出しされ続ける逃れられない監禁種付けプレス 黒咲華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-06-17",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-181"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-597"
+    },
+    {
+      "id": 11327,
+      "IDcode": "FPRE-108",
+      "title": "好久不見的青梅竹馬-黑咲華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/da2db6b4a1221a0772c39adec11c087d.jpg",
+      "actress": [
+        "黒咲華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-108"
+    },
+    {
+      "id": 10639,
+      "IDcode": "BLK-646",
+      "title": "派遣GALBITCH-黑咲华",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114085341360360.jpg",
+      "actress": [
+        "黒咲華",
+        "大村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-646"
+    },
+    {
+      "id": 9937,
+      "IDcode": "FPRE-127",
+      "title": "性欲だだ漏れパーソナルトレーナーが鍛え抜かれたデカ尻で 男の下半身を刺激しまくる体液まみれのワークアウト騎乗位！ 黒咲華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211070227369369.jpg",
+      "actress": [
+        "黒咲華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-127"
+    },
+    {
+      "id": 8304,
+      "IDcode": "FPRE-140",
+      "title": "全肯定鼓勵我們的肉感爆乳黑辣妹淫語啦啦隊長",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8addccf22ae3e04db511c/cover.jpg",
+      "actress": [
+        "黒咲華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-140"
+    },
+    {
+      "id": 7563,
+      "IDcode": "BLK-647",
+      "title": "超痴女護士-黑咲華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/16/67d6adc5cf22ae3e04414602/cover.jpg",
+      "actress": [
+        "黒咲華",
+        "日森一",
+        "青沼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-647"
     },
     {
       "id": 6898,
       "IDcode": "FPRE-143",
-      "title": "在咖啡館的逆3P，生意気女僕會以超級傲慢的方式和說下流話 ~ 乙愛麗絲 黑咲華",
+      "title": "生意気なギャルメイドが超上から目線で悪口を浴びせながら抜きまくる逆3P罵倒淫語カフェ 黑咲華 乙アリス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
-      "publish_date": "2025-04-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411085609116116.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1fd68e4a73d4f159b33a9/cover.jpg",
       "actress": [
         "乙愛麗絲",
         "黒咲華",
@@ -179,87 +277,88 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-143"
     },
     {
-      "id": 7563,
-      "IDcode": "BLK-647",
-      "title": "現役辣妹護士舔幹吃光超癡女護理 ~ 黑咲華",
+      "id": 6076,
+      "IDcode": "BLK-657",
+      "title": "女友的姐姐是个淫荡巨乳辣妹，她说「我才不用套，都玩无套的」这样勾引我 黑咲华",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KIRAKIRA",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313083954457457.jpg",
-      "actress": [
-        "黒咲華",
-        "日森一",
-        "青沼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-647"
-    },
-    {
-      "id": 8304,
-      "IDcode": "FPRE-140",
-      "title": "身材肉感豐滿、皮膚黝黑的啦啦隊長，用她的特別招數給我們打氣 ~ 黑咲華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/202502130749246666.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042825637637_thumbnail.webp",
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-657"
     },
     {
-      "id": 74174,
-      "IDcode": "BLK-648",
-      "title": "黒ギャルビッチの本領発揮！ビーチで逆ナン！即持ち帰りヤリたい放題チ〇ポ狩り！！ 黒咲華",
+      "id": 4462,
+      "IDcode": "BLK-661",
+      "title": "痴女GAL女教師の誘惑 黑咲華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KIRAKIRA",
-      "publish_date": "2025-01-21",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710032245513513_29001_thumbnail.webp",
+      "actress": [
+        "黒咲華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-661"
+    },
+    {
+      "id": 3568,
+      "IDcode": "MANX-018",
+      "title": "エグ過ぎるオナニー特化アングルで 黒ギャルビッチの肉感を味わい尽くす ケツ穴剥き出し美巨尻マニアックス 黒咲華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814025350843843_21330_thumbnail.webp",
+      "actress": [
+        "黒咲華",
+        "コグレハルト"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MANX-018"
+    },
+    {
+      "id": 2330,
+      "IDcode": "CLUB-886",
+      "title": "巨乳GALつけ狙い盗撮 昏●姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "変態紳士倶楽部",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "黒咲華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-648"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-886"
     },
     {
-      "id": 9937,
-      "IDcode": "FPRE-127",
-      "title": "性欲外露的私人女教練用訓練有素的大屁股刺激男人的下半身，用沾滿體液的騎乘式幫你鍛煉！~ 黑咲華",
+      "id": 2208,
+      "IDcode": "SVMGM-041",
+      "title": "マジックミラー号ハードボイルド 水着ギャルが挑戦するスパイダー騎乗位チキンレース！1ピストン毎に100円get！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211070227369369.jpg",
-      "actress": [
-        "黒咲華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-127"
-    },
-    {
-      "id": 10639,
-      "IDcode": "BLK-646",
-      "title": "上門派送的野獸系GAL母狗女優 ~ 黑咲花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114085341360360.jpg",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "黒咲華",
-        "大村"
+        "櫻木繪里香",
+        "石原青",
+        "水瀬りた"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-646"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-041"
     }
   ]
 };

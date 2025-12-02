@@ -57,10 +57,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2012-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230209/83d035c5-7849-4582-a17c-e688ddcf7a9d.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/0e64cbf00ff2b99ba16ce46d6fb644de.jpg",
       "actress": [
         "麻倉真美"
       ],

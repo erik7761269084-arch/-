@@ -28,50 +28,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250119/d1c199c6-9186-4e13-89d2-fd19ef530047.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 3638,
-      "IDcode": "KNAM-077",
-      "title": "無套內射STYLE：小辣妹嘴硬看不起大叔卻被偷生幹 ~ 佐野莉香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-08-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212628999999_68934_thumbnail.webp",
-      "actress": [
-        "佐野りか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-077"
-    },
-    {
-      "id": 8272,
-      "IDcode": "HMN-662",
-      "title": "配對網路上願意給我的錢的都是那些身上有臭味又油膩的老男人，我討厭他們但卻別無選擇。被老男人舔陰達到極致高潮的女大學生 ~ 佐野りか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250213/20250213074725575575.jpg",
-      "actress": [
-        "佐野りか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-662"
-    },
     {
       "id": 8995,
       "IDcode": "HMN-659",
-      "title": "新人出道！大家眼中的好女孩，在AV 中首次亮相 AV DEBUT ~ 佐野りか",
+      "title": "我想要做个乖乖女AV出道-佐野丽香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
-      "publish_date": "2025-01-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075745708708.jpg",
       "actress": [
         "佐野りか",
@@ -79,6 +47,57 @@ window.actressData = {
         "タイ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-659"
+    },
+    {
+      "id": 8272,
+      "IDcode": "HMN-662",
+      "title": "在約會系統上只能遇到討厭的老頭子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b95ca34e7d663df48c259c/cover.jpg",
+      "actress": [
+        "佐野りか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-662"
+    },
+    {
+      "id": 3638,
+      "IDcode": "KNAM-077",
+      "title": "完ナマSTYLE@りかオッサンをバカにしている生意気J系に無許可ナマ中出し！※本編顔出し 佐野りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212628999999_68934_thumbnail.webp",
+      "actress": [
+        "佐野りか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNAM-077"
+    },
+    {
+      "id": 2756,
+      "IDcode": "HRSM-112",
+      "title": "温泉旅館 仲居さん狩り2 着物セックス 和服美人4名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec190c52c12b4e6846991e/cover.jpg",
+      "actress": [
+        "柏木小夏",
+        "牧野怜奈",
+        "四乃宮桃",
+        "佐野りか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-112"
     }
   ]
 };

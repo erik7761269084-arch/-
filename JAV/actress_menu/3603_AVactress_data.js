@@ -4,7 +4,7 @@ window.actressData = {
   "name": "小林日菜子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 66655,
-      "IDcode": "LUXU-1766",
-      "title": "ラグジュTV 1752 どうしようもないほどエロい…。百貨店で美容部員として働くラテン系スレンダー美女。感じる声が妙にセクシーで、ご奉仕大好きな彼女の釘打ち立ちバックとバキュームフェラ、アナル舐めが最高です。",
+      "id": 479397,
+      "IDcode": "259LUXU-1766",
+      "title": "ラグジュTV 1752 どうしようもないほどエロい…。百貨店で美容部員として働くラ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2024-01-05",
-      "cover_url": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/dbe37194b16fc0715bcc8e82dc009c5c.jpg",
       "actress": [
         "小林日菜子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1766"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1766"
     }
   ]
 };

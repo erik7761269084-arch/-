@@ -47,19 +47,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 1729,
-      "IDcode": "smbd-30",
+      "IDcode": "SMBD-030",
       "title": "S Model 30 : 熱情交尾 ~ 愛內梨花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2011-05-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/d3e001df-9b3f-428c-aff1-b769d89da3c5.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "愛内梨花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=smbd-30"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-030"
     }
   ]
 };

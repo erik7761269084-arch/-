@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桜井ゆみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,33 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 94878,
-      "IDcode": "VAGU-270",
-      "title": "麗しのマネキン夫人 総集編4",
+      "id": 106018,
+      "IDcode": "MYBA-024",
+      "title": "已婚妇女的花瓣剥落-桜井ゆみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2024-06-18",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
+      "actress": [
+        "市川润",
+        "桜井ゆみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-024"
+    },
+    {
+      "id": 94878,
+      "IDcode": "VAGU-270",
+      "title": "丽しのマネキン夫人 総集编4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20241105-1/3447daab9481bca872c773a5161311da.jpg",
       "actress": [
         "水野優香",
         "竹内夏希",
@@ -43,13 +60,13 @@ window.actressData = {
     {
       "id": 86529,
       "IDcode": "VAGU-242",
-      "title": "クレーム処理のため自らマネキンになった女上司～麗しのマネキン夫人外伝～ 椿原みゆ （ブルーレイディスク） （BOD）",
+      "title": "夫人外伝-椿原みゆ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2021-12-28",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "桜井ゆみ"
@@ -59,37 +76,20 @@ window.actressData = {
     {
       "id": 79840,
       "IDcode": "JUL-738",
-      "title": "先立った兄貴に家族を宜しくと頼まれたので母×娘まとめて中出し調教して服従させる事にした―。 向井藍 椿原みゆ",
+      "title": "训练兄弟的母女-向井藍 椿原みゆ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2021-10-12",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-11/4eff54924763542d3dd96991e8bb89e7.jpg",
       "actress": [
         "向井藍",
         "小田切ジュン",
         "桜井ゆみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-738"
-    },
-    {
-      "id": 106018,
-      "IDcode": "MYBA-024",
-      "title": "人妻の花びらめくり 桜井ゆみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-07-19",
-      "cover_url": "",
-      "actress": [
-        "市川润",
-        "桜井ゆみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MYBA-024"
     }
   ]
 };

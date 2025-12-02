@@ -33,24 +33,59 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250606/88d51bd0-f6cd-4a06-a4cd-7ece7274f2b5_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250606/9c378059-7cae-40d7-a3ac-be76e6408a29_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 5499,
-      "IDcode": "VENZ-058",
-      "title": "醉酒變身吻魔的性感美秘 一含就不鬆口的極品口技 慾火難耐忍不住自慰回想大肉棒 錯過末班車留宿直接內射開幹 ~ 朝倉由良",
+      "id": 5237,
+      "IDcode": "HRSM-099",
+      "title": "對面房間的超辣無防備妹子！巨乳晃眼又露底誘惑，偷看被抓包後竟被邀入房狂榨精 ～ 柏木小夏 朝倉由良 下川紬 桃瀨日葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-06-06",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2025-06-13",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071433859859_thumbnail.webp",
+      "actress": [
+        "柏木小夏",
+        "桃瀨日葵",
+        "朝倉由良",
+        "下川紬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-099"
+    },
+    {
+      "id": 5499,
+      "IDcode": "VENZ-058",
+      "title": "这位美丽的秘书喝醉后会变成接吻怪兽-朝倉ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605050001298298_thumbnail.webp",
       "actress": [
         "朝倉由良",
         "ばたけ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-058"
+    },
+    {
+      "id": 4166,
+      "IDcode": "GBSA-090",
+      "title": "背徳の秘湯 由紀恵（仮名）二十九歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718213216879879_96948_thumbnail.webp",
+      "actress": [
+        "朝倉由良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GBSA-090"
     }
   ]
 };

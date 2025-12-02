@@ -31,18 +31,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240924/216930dc-848d-4755-b712-f6ce7df2a003.jpg",
     "https://picture.yoshiclub.xyz/20240924/1518e6b7-81a1-45ca-91f1-d626a93faf50.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 10027,
-      "IDcode": "SDNM-492",
-      "title": "神祕的極品美人最終章：神祕人妻的淫蕩外表被揭開，1泊2日的不倫溫泉之旅 ~ 加藤あゆ香",
+      "id": 11735,
+      "IDcode": "SDNM-487",
+      "title": "不倫する度に惹かれてゆく、知的でミステリアスな「極」美麗妻 加藤あゆ香 31歳 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-01-09",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240924/a8a3164f-7286-4e09-9924-9fdf71ca1c00.jpg",
+      "actress": [
+        "加藤あゆ香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-487"
+    },
+    {
+      "id": 11111,
+      "IDcode": "SDNM-490",
+      "title": "不倫する度に惹かれてゆく、知的でミステリアスな 美麗妻 加藤あゆ香 31歳 第2章 欲求不満な人妻の性欲が溢れ出す 5人の間男達が美人妻を激ピストン 自宅不倫で声我慢イキ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787e024478d611da7751e87/cover.jpg",
+      "actress": [
+        "加藤あゆ香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-490"
+    },
+    {
+      "id": 10027,
+      "IDcode": "SDNM-492",
+      "title": "不倫する度に惹かれてゆく、知的でミステリアスな「極」美麗妻 加藤あゆ香 31歳 最終章 露わになるミステリアスな人妻の淫靡な姿 1泊2日でハメまくる不倫温泉旅行",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241210/20241210015235794794.jpg",
       "actress": [
         "加藤あゆ香"

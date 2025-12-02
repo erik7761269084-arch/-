@@ -4,7 +4,7 @@ window.actressData = {
   "name": "大森しずか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2023-11-28",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240912/doMDNipk/1.jpg",
       "actress": [
         "西村ニーナ",
         "春菜华",
@@ -51,7 +51,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2022-09-20",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/0fd5387f894af6b172ffb7d46c53c69e.jpg",
@@ -71,8 +71,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/6c7199c9d440d58348000a3e5678fbce.jpg",
       "actress": [
@@ -87,8 +87,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DANDY",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-20",
       "cover_url": "",
       "actress": [
@@ -98,37 +98,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-702"
     },
     {
-      "id": 77664,
-      "IDcode": "MOND-174",
-      "title": "憧れの兄嫁と 大森しずか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2019-09-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/7e83607452f5a89e1e0f6cfff8a26f20.jpg",
-      "actress": [
-        "大森しずか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-174"
-    },
-    {
       "id": 77735,
       "IDcode": "JUY-956",
-      "title": "妻が旅行中、ふたりの巨乳義姉と過ごした2泊3日中出し生活―。",
+      "title": "我和2位巨乳表姐姐一起度过3天2夜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-08-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241124-1/9da2e85d0fb2befad96b57461097ba6a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9b136f480d18ad820cb276c641d6b397.jpg",
       "actress": [
         "篠崎环奈",
         "大森しずか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-956"
+    },
+    {
+      "id": 77664,
+      "IDcode": "MOND-174",
+      "title": "憧れの兄嫁と大森しずか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/7e83607452f5a89e1e0f6cfff8a26f20.jpg",
+      "actress": [
+        "大森しずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-174"
     }
   ]
 };

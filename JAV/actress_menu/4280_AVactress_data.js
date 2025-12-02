@@ -4,7 +4,7 @@ window.actressData = {
   "name": "新宮かすみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 72622,
       "IDcode": "HTHD-223",
-      "title": "友達の母親～最終章～ 新宮かすみ",
+      "title": "朋友的母亲-新宫霞",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-11-14",
-      "cover_url": "https://tutu1.space/images/2025/02/08/6e03f461feeaa5b4267dedbe3c0deb28.jpg",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "新宮かすみ"
       ],

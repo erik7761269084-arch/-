@@ -39,14 +39,14 @@ window.actressData = {
     {
       "id": 4366,
       "IDcode": "MMGH-011",
-      "title": "傳聞中的絕對口暴美豔護士 ~ 彌生美月 弘前綾香",
+      "title": "のぞみ（21）女子大生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/20250715103810359359_41077_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c8099d79f1ac4ec45b9387/cover.jpg",
       "actress": [
         "彌生美月",
         "彩音遙菜",

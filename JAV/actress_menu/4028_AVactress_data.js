@@ -4,7 +4,7 @@ window.actressData = {
   "name": "山本莲加",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,37 +19,16 @@ window.actressData = {
   "works_count": 13,
   "related_dramas": [
     {
-      "id": 8513,
-      "IDcode": "SILK-175",
-      "title": "One’s Daily Life season 9-good holiday ~ Nia 三尾惠 山本蓮加",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SILK LABO",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/60d78c80-2d85-4d48-a046-4f4b52b9adab.jpg",
-      "actress": [
-        "Nia",
-        "三尾惠",
-        "山本蓮加",
-        "東雲怜弥",
-        "千歳小梅",
-        "山本莲加"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-175"
-    },
-    {
       "id": 94204,
       "IDcode": "SILK-164",
       "title": "友達以上、想像以上。1",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SILK LABO",
       "publish_date": "2024-08-08",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241024-1/b5c7598d7337d6212a7a0daac86ad0f3.jpg",
       "actress": [
         "沙月惠奈",
         "原美织",
@@ -66,10 +45,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-03-08",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c7a8cc1752ccd8316a3d3eb77be7d2cc.jpg",
       "actress": [
         "斎藤まりな",
         "山本莲加"
@@ -83,8 +62,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DANDY",
+      "type": "",
+      "company": "",
       "publish_date": "2022-02-10",
       "cover_url": "",
       "actress": [
@@ -102,8 +81,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-12-28",
       "cover_url": "",
       "actress": [
@@ -115,37 +94,21 @@ window.actressData = {
     },
     {
       "id": 80359,
-      "IDcode": "SW-815",
+      "IDcode": "SW-0815",
       "title": "夫婦交換スワッピング！夫の見てる前で他所の旦那のチ○ポ挿されイキまくる欲しがり妻",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SWITCH",
       "publish_date": "2021-12-09",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/65d4dad233b7dac3b95d3ec80ca497f4.jpg",
       "actress": [
         "永野司",
         "赤城穂波",
         "山本莲加"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-815"
-    },
-    {
-      "id": 70419,
-      "IDcode": "MKON-040",
-      "title": "僕が先に好きだったのに、図書委員のあの子は今ラグビー部の主将と付き合ってる 山本蓮加",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-11-19",
-      "cover_url": "",
-      "actress": [
-        "山本莲加"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-040"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0815"
     },
     {
       "id": 81345,
@@ -154,14 +117,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2020-09-01",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/90c4a60479a59af9c6c9c0f039ebbbbd.jpg",
       "actress": [
         "山本莲加"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLOT-012"
+    },
+    {
+      "id": 157790,
+      "IDcode": "259LUXU-1237",
+      "title": "ラグジュTV 1224 美しきリケジョが挑むAV撮影！溢れるマン汁でランジェリーを",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/d0e8b769f5d00d7b328de54ad2c1d875.jpg",
+      "actress": [
+        "山本莲加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1237"
     },
     {
       "id": 81983,
@@ -170,10 +149,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2020-04-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/82b95d975b28de4f87e9911c9f4a113c.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/0c5918f818e0fa67b7554f3510d2a0f5.jpg",
       "actress": [
         "山本莲加",
         "水沢つぐみ"
@@ -187,10 +166,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-04-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cfec5ca43028d6993a61038a9619432e.jpg",
       "actress": [
         "水卜麻衣奈",
         "河奈亜依",
@@ -206,10 +185,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/0206127028d254c5fd566233429fd8e5.jpg",
       "actress": [
         "原花音",
         "天月叶菜",
@@ -221,32 +200,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-429"
     },
     {
-      "id": 83402,
-      "IDcode": "LUXU-1237",
-      "title": "ラグジュTV 1224 美しきリケジョが挑むAV撮影！溢れるマン汁でランジェリーを濡らし、巨根の激しいピストンに形の整った乳を揺らして何度も何度もイキまくる！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-02-21",
-      "cover_url": "",
-      "actress": [
-        "山本莲加"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1237"
-    },
-    {
       "id": 72066,
       "IDcode": "HJMO-389",
       "title": "素人娘達のピストンバイブ フェラ早抜き競争3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
-      "publish_date": "2018-10-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250225-1/ce9bb2327b182380581a4a30a6f16901.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8d90ca6cdcb478df752bf56305432325.jpg",
       "actress": [
         "绀野光",
         "沙藤由梨",
@@ -256,6 +219,43 @@ window.actressData = {
         "山本莲加"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-389"
+    },
+    {
+      "id": 70419,
+      "IDcode": "MKON-040",
+      "title": "僕が先に好きだったのに、図書委員のあの子は今ラグビー部の主将と付き合ってる 山本蓮加",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/517905941b9371b0725968eab76143a2.jpg",
+      "actress": [
+        "山本莲加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-040"
+    },
+    {
+      "id": 8513,
+      "IDcode": "SILK-175",
+      "title": "One’s Daily Life season 9-good holiday",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/56f3ba9b/vod.jpg",
+      "actress": [
+        "Nia",
+        "三尾惠",
+        "山本蓮加",
+        "東雲怜弥",
+        "千歳小梅",
+        "山本莲加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-175"
     }
   ]
 };

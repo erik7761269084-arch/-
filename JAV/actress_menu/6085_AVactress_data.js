@@ -4,7 +4,7 @@ window.actressData = {
   "name": "志保",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,18 +16,37 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 98124,
-      "IDcode": "SHKD-450",
-      "title": "隣のお姉さんを犯したあの日…7 志保",
+      "id": 104684,
+      "IDcode": "RBD-311",
+      "title": "把四姐妹一起送上奴隶的舞台",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2011-08-07",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "遥惠美",
+        "水澤真央",
+        "志保",
+        "柚奈りり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-311"
+    },
+    {
+      "id": 98124,
+      "IDcode": "SHKD-450",
+      "title": "我强奸邻居妹妹的那一天",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "志保"

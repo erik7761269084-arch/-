@@ -29,13 +29,13 @@ window.actressData = {
     {
       "id": 103954,
       "IDcode": "SNIS-619",
-      "title": "美乳がポロリ 早乙女美々",
+      "title": "美丽的乳房-早乙女美々",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2016-03-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "鲛岛",

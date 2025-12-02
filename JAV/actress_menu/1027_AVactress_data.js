@@ -33,44 +33,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230123/b617a6da-3258-4c44-bae2-808efc2bb069.jpg",
     "https://picture.yoshiclub.xyz/20230123/e18dcb14-1328-4b8d-b65c-c29b6dcff3eb.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
-      "id": 1955,
-      "IDcode": "LAFBD-10",
-      "title": "Laforet Girl Vol.10 : 光、瀧川索菲亞、新山楓、一之瀨流花",
+      "id": 99294,
+      "IDcode": "BBAN-063",
+      "title": "上原花恋とHIKARIの旅ビアン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/f62540d3-5aac-4f69-b5d5-caf43e32ba83.webp",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-11-07",
+      "cover_url": "",
       "actress": [
-        "新山枫",
-        "一ノ瀬ルカ",
         "HIKARI",
-        "滝川ソフィア"
+        "上原花恋"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-10"
-    },
-    {
-      "id": 1947,
-      "IDcode": "LAFBD-09",
-      "title": "Laforet Girl Vol.9 : 光、淺野南、南愛理",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-10-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/39b5137a-4566-4b42-a28d-5c8a5c9300a6.webp",
-      "actress": [
-        "美波愛梨",
-        "HIKARI",
-        "浅之美波"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-09"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-063"
     }
   ]
 };

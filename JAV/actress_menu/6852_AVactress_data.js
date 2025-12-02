@@ -4,7 +4,7 @@ window.actressData = {
   "name": "黒谷咲纪",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 107236,
       "IDcode": "MEYD-600",
-      "title": "ケバいけどカラダの相性は最高にいい愛人とビジホ不倫 黒谷咲紀",
+      "title": "愛人とビジホ不倫 黒谷咲紀",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-07-13",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "黒谷咲纪"

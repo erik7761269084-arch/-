@@ -37,34 +37,18 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241108/343b2861-585b-43c4-9b46-5955b0e5f049.jpg",
     "https://picture.yoshiclub.xyz/20241108/c71e08cf-c1ce-49ab-bee9-9f2afce5651c.jpg"
   ],
-  "works_count": 4,
+  "works_count": 8,
   "related_dramas": [
-    {
-      "id": 6325,
-      "IDcode": "SONE-718",
-      "title": "媚藥和大屌在手 就算是個猥瑣大叔也能輕鬆把有男友的清純妹子弄得一塌糊塗 ~ 夏空梨花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065118660660_thumbnail.webp",
-      "actress": [
-        "夏空梨花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-718"
-    },
     {
       "id": 71056,
       "IDcode": "SONE-636",
-      "title": "真面目で清純な水泳部エースも媚薬エステの前では理性保てず下品にイキ堕ち 洗練されたアスリートボディが際立つ卑猥な競泳水着を着せられて…。 夏空りか （BOD）",
+      "title": "即使是认真严肃又纯洁的游泳队王牌",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-11",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "夏空梨花"
@@ -72,15 +56,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-636"
     },
     {
-      "id": 8460,
-      "IDcode": "SONE-558",
-      "title": "218次強烈的高潮！ 4400次痙攣！ 2850cc潮噴！清純、性欲旺盛、淫蕩…性愛超新星情欲覺醒：首次大痙攣特輯 ~ 夏空梨花",
+      "id": 10747,
+      "IDcode": "SONE-514",
+      "title": "新人NO.1STYLE 夏空りかAVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-02-11",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107084837645645.jpg",
+      "actress": [
+        "夏空梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-514"
+    },
+    {
+      "id": 10129,
+      "IDcode": "SONE-515",
+      "title": "清纯与暴露结合-夏空りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789074c5d57b64bfd9be394/cover.jpg",
+      "actress": [
+        "夏空梨花",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-515"
+    },
+    {
+      "id": 9265,
+      "IDcode": "SONE-516",
+      "title": "清純…いやもう溢れ出る変態本性 雑に扱われて、イカされて、支配されてドM欲望むき出し猥褻性交 夏空りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109075228878878.jpg",
+      "actress": [
+        "夏空梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-516"
+    },
+    {
+      "id": 8460,
+      "IDcode": "SONE-558",
+      "title": "激イキ218回！痙攣4400回！イキ潮2850cc！清純で性欲強くてドスケベ…セックス超新星 夏空りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080034300300.jpg",
       "actress": [
         "夏空梨花",
@@ -90,21 +123,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-558"
     },
     {
-      "id": 10129,
-      "IDcode": "SONE-515",
-      "title": "清楚系女孩的性傾向既純潔又變態，在三場性癖開發絕對3本番 ~ 夏空梨花",
+      "id": 7083,
+      "IDcode": "SONE-680",
+      "title": "在出差地和我讨厌的那个可爱但傲慢的后辈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205081843455455.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/202504030930104343.jpg",
       "actress": [
-        "夏空梨花",
-        "森林原人"
+        "夏空梨花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-515"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-680"
+    },
+    {
+      "id": 6325,
+      "IDcode": "SONE-718",
+      "title": "媚薬とデカチンがあればキモオジでも彼氏持ちの清楚女子を最も簡単に堕とせてぐっちゃぐちゃにできるよ 夏空りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065118660660_thumbnail.webp",
+      "actress": [
+        "夏空梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-718"
+    },
+    {
+      "id": 5562,
+      "IDcode": "SONE-756",
+      "title": "漂亮又清纯的法学部夏空在做大人陪侍-夏空りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605044851922922_thumbnail.webp",
+      "actress": [
+        "夏空梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-756"
     }
   ]
 };

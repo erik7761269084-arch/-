@@ -4,7 +4,7 @@ window.actressData = {
   "name": "柿峰春奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,16 +19,16 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 69312,
+      "id": 532249,
       "IDcode": "AHK-003",
-      "title": "- 初撮り半外半中潮吹き看護師真正種付け 柿峰春奈 - JAV目錄大全javmenu.com",
+      "title": "首拍半户外半室内喷潮护士真实内射",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/03/f1767bb2/vod.jpg",
+      "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250710-1/0482c57975de2d4b91d3bfd8cc791203.jpg",
       "actress": [
         "柿峰春奈"
       ],

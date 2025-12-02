@@ -4,7 +4,7 @@ window.actressData = {
   "name": "高坂亜由美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,21 +19,21 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 81403,
-      "IDcode": "LUXU-1264",
+      "id": 509182,
+      "IDcode": "259LUXU-1264",
       "title": "ラグジュTV 1244 旦那とのセックスレスに悩む美人ピアノ講師が忘れかけたオンナとしての快楽を取り戻すためAV出演を決断。久しぶりの巨根に悦びの笑みを浮かべ、押し寄せる快楽にイキ乱れる！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-04-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221026-1/ad394a301b3a475f284c1fc84ed87ac3.jpg",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/87157955aa131d8cc5b14ef72270c8d3.jpg",
       "actress": [
         "市川润",
         "高坂亜由美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1264"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1264"
     }
   ]
 };

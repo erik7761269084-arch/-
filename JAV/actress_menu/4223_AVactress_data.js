@@ -4,7 +4,7 @@ window.actressData = {
   "name": "月形はるひ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FIRST STAR",
-      "publish_date": "2025-01-27",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/45b1f6e8536fc6aba180de9721d470dd.jpg",
       "actress": [
         "月形はるひ"
       ],

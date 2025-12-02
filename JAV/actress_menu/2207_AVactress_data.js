@@ -58,8 +58,28 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241128/00378544-8710-4e32-b18c-f289eb246e9c.jpg",
     "https://picture.yoshiclub.xyz/20241128/ad29108e-f016-4acf-9eac-88c44d34b73f.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 10342,
+      "IDcode": "ONEX-072",
+      "title": "懷念與青春少女瘋狂的做愛 一位40來歲學校事務員的投稿映像 04",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ONE MORE",
+      "publish_date": "2024-12-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/0dc78166-fb06-4ecc-9e93-e6aa4699c06c.jpg",
+      "actress": [
+        "神楽アイネ",
+        "山川由奈",
+        "森永ぴの",
+        "吉川美憂",
+        "和登心"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEX-072"
+    },
     {
       "id": 87060,
       "IDcode": "OKAX-909",
@@ -67,10 +87,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231018/YcWzENr8/1.jpg",
       "actress": [
         "森日向子",
         "上田紗奈",
@@ -85,6 +105,26 @@ window.actressData = {
         "青井いちご"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-909"
+    },
+    {
+      "id": 99797,
+      "IDcode": "LOVE-379",
+      "title": "女子校生革命！夏なんてぶっ飛ばせ！5人の美少女が制服大改造スーパークールビズで登校してきた！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-08-11",
+      "cover_url": "",
+      "actress": [
+        "一色さゆり",
+        "山川由奈",
+        "矢泽美々",
+        "姬川优奈",
+        "澄川鲇"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOVE-379"
     }
   ]
 };

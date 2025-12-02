@@ -49,8 +49,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250421/20250421072359146146_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250421/202504210724014040_l.webp"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
+    {
+      "id": 7102,
+      "IDcode": "MGT-198",
+      "title": "街頭素人搭訕！Vol.115 給我介紹比你更色的朋友（騷貨）吧！Vol. 25 ~ 本田瞳 最上一花 藤井蘭々 上阪芽衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-01-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20250402/c9a3728f-3c91-4182-8c2a-39c9fdc19e8c.jpg",
+      "actress": [
+        "本田瞳",
+        "藤井蘭々",
+        "上坂芽衣",
+        "最上一花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGT-198"
+    },
     {
       "id": 87401,
       "IDcode": "DDK-212",
@@ -58,7 +77,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOGMA",
       "publish_date": "2022-08-16",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230725-1/00a7ff09becf030b13d67463bc74328a.jpg",
@@ -74,7 +93,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2022-07-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/a71bdfa52dc080b19ed2fb2f993d85ee.jpg",
@@ -90,10 +109,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
       "publish_date": "2022-01-04",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230211-1/e6183c566335daa72946e31b66249c9d.jpg",
       "actress": [
         "最上一花"
       ],
@@ -102,14 +121,14 @@ window.actressData = {
     {
       "id": 69871,
       "IDcode": "XVSR-593",
-      "title": "濃交 MAX-A専属女優 最上一花が初めて知る大人のリアルSEX",
+      "title": "成人性行为-最上一花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
-      "publish_date": "2021-06-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20241101-1/61b6c4fc75e1e55d138ad1e4eafedab2.jpg",
       "actress": [
         "最上一花",
         "蓝井优太"

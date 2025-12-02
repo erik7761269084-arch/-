@@ -27,10 +27,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "S1",
-      "publish_date": "2010-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/cbe1155d-c448-4975-a339-ea77975aa13a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/5bc5b04cf7957564bf7826346d46257f.jpg",
       "actress": [
         "佳山三花"
       ],

@@ -22,7 +22,7 @@ window.actressData = {
     "Imai Mayumi"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 83481,
@@ -31,8 +31,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-25",
       "cover_url": "",
       "actress": [
@@ -51,14 +51,14 @@ window.actressData = {
     {
       "id": 105755,
       "IDcode": "CESD-337",
-      "title": "イチャLOVEレズビアンデート2 今井真由美 波多野結衣",
+      "title": "全世界最甜蜜的蕾丝边约会爱爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2017-03-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240309-1/2dcafa2ecfec0c6e66010dee77a9929e.jpg",
       "actress": [
         "波多野结衣",
         "今井真由美"
@@ -68,13 +68,13 @@ window.actressData = {
     {
       "id": 105032,
       "IDcode": "SDNM-097",
-      "title": "SOD人妻レーベル史上最も人気のあった美しすぎる本物人妻2名 佐々木あき×今井真由美 プレミアム交流会",
+      "title": "超人气人妻交流会-佐々木あき 今井真由美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2017-01-06",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "佐佐木明希",
@@ -83,6 +83,22 @@ window.actressData = {
         "今井真由美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-097"
+    },
+    {
+      "id": 96187,
+      "IDcode": "CESD-333",
+      "title": "禁欲第10天的壮阳药-今井真由美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "今井真由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-333"
     }
   ]
 };

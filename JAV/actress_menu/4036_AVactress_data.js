@@ -4,7 +4,7 @@ window.actressData = {
   "name": "袖川弥生",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-06-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/5cfe2c5f39462d768ae3e1704e545e07.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0b210fff2b1f6fab6075e795e5ee58b3.jpg",
       "actress": [
         "袖川弥生"
       ],

@@ -34,19 +34,74 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250121/7d69c896-cc84-4e9b-9244-637eddc171fb.jpg",
     "https://picture.yoshiclub.xyz/20250121/e306c556-191f-4820-b6f6-9ff1bfecb4eb.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 3517,
-      "IDcode": "MUCD-336",
-      "title": "純情少女的深喉調教 又痛又爽的4小時大合集 ~ 倉本菫 東條夏 笠木いちか 東雲梓 久和原聖羅 天乃のあ 響乃詩 逢月日葵 皆瀨明里 有加里乃乃花 広瀬みつき 花狩舞 日向ひかげ 橘ひなの 日泉舞香 雅子裡菜",
+      "id": 5438,
+      "IDcode": "KTRA-722",
+      "title": "無毛嫩穴被中出爆汁！4小時特別大合輯 ~ 橘ひなの 齋藤南 佐倉陽菜 早美憐夢",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609002718947947_thumbnail.webp",
+      "actress": [
+        "佐倉陽菜",
+        "橘ひなの",
+        "早美怜夢",
+        "齋藤南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-722"
+    },
+    {
+      "id": 8929,
+      "IDcode": "KTRA-691",
+      "title": "天使與淫亂！蘿莉特輯2 4小時 ~ 市井結夏 八尋麻衣 あまね彌生 橘ひなの 永瀬ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250121/f61357a8-d22e-47c8-bf20-171a5cb18082.jpg",
+      "actress": [
+        "市井結夏",
+        "永瀬ゆい",
+        "八尋麻衣",
+        "橘ひなの",
+        "あまね弥生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-691"
+    },
+    {
+      "id": 156345,
+      "IDcode": "MUKC-024",
+      "title": "绑架并囚禁了被背叛的偶像HinaTachibanaTachibanaTachibana训练深喉超越喉咙满脸的男性汁液",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040540261261_67540_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://fqjpg4.top/upload/vod/20240922-1/9fe31120dedefbb02e8aab8a732e73ba.jpg",
+      "actress": [
+        "橘ひなの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-024"
+    },
+    {
+      "id": 3517,
+      "IDcode": "MUCD-336",
+      "title": "無垢な女の子のイラマチオ とってもくるしくてきもちぃ4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "倉本菫",
         "皆瀨明里",

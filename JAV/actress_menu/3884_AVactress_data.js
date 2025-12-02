@@ -4,7 +4,7 @@ window.actressData = {
   "name": "光野奈緒美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 69264,
       "IDcode": "JRZE-137",
-      "title": "- 初撮り人妻ドキュメント 光野奈緒美 - JAV目錄大全javmenu.com",
+      "title": "初撮人妻-光野奈緒美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
       "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250403-1/e54253f50d862a1e13d3b0815eb9a2e6.jpg",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/24/688128bff0620ff98b2eec68/cover.jpg",
       "actress": [
         "光野奈緒美"
       ],

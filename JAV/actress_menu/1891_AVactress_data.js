@@ -27,18 +27,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20241011/7b400d15-e6f6-4591-8af1-1f6803246af8.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 10250,
-      "IDcode": "NPJS-112",
-      "title": "在銀座高級俱樂部工作的黑短發美女！能在夜場釣到最好的魚了！ ~ 桐山ここみ",
+      "id": 11305,
+      "IDcode": "MIFD-538",
+      "title": "新人 あの有名俳優も足繁く通う会員制の六本木某高級クラブで働くおじさん大好き若ママが着物を脱いでAVデビュー！ 桐山ここみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/de16859c59b787a37206f7ca95420285.jpg",
+      "actress": [
+        "桐山ここみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-538"
+    },
+    {
+      "id": 10250,
+      "IDcode": "NPJS-112",
+      "title": "能钓到鱼的好女人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "NAPA-JAPAN",
-      "publish_date": "2024-12-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102702413413.jpg",
       "actress": [
         "桐山ここみ"

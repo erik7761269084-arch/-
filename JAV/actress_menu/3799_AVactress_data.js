@@ -27,13 +27,13 @@ window.actressData = {
     {
       "id": 68365,
       "IDcode": "UMSO-591",
-      "title": "【FANZA限定】Iカップ以上の爆乳女優ベストセレクション18人 生写真とパンティ付き",
+      "title": "Iカップ以上の爆乳女優ベストセレクション18人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-04-23",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "七草千歲",

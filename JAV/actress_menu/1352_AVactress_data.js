@@ -37,31 +37,15 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 5984,
-      "IDcode": "SDNM-510",
-      "title": "加班晚歸不只是工作問題啦！36歲人妻的終極幻想，10個陌生男的狂野顏射讓職場女王美臉全是精華 ~ 川崎奈々",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215923823823_thumbnail.webp",
-      "actress": [
-        "川崎奈々"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-510"
-    },
-    {
       "id": 7446,
       "IDcode": "SDNM-501",
-      "title": "新人出道！晚歸不只是因爲加班…可能還有別的哦 36歲 素人人妻首次亮相 AV DEBUT ~ 川崎奈々",
+      "title": "帰宅が遅いのは残業のせい…だけじゃないかも 川崎奈々 36歳 素人人妻がAV初出演",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-04-24",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317231201858858.jpg",
       "actress": [
         "川崎奈々"
@@ -71,18 +55,34 @@ window.actressData = {
     {
       "id": 6663,
       "IDcode": "SDNM-505",
-      "title": "加班晚歸可不只是工作原因啦！36歲人妻的隱秘約會 ~ 川崎奈々",
+      "title": "帰宅が遅いのは残業のせい…だけじゃないかも 川崎奈々 36歳 第2章 初めて年下男と2人きりデート 盛る男の性欲を手懐ける母性溢れる官能セックス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-04-22",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250421/6c707a0c-2d8c-4f3f-bd3f-6d87ef04d815_thumbnail.webp",
       "actress": [
         "川崎奈々"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-505"
+    },
+    {
+      "id": 5984,
+      "IDcode": "SDNM-510",
+      "title": "帰宅が遅いのは残業のせい…だけじゃないかも 川崎奈々 36歳 最終章 人妻の美顔が精子まみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519215923823823_thumbnail.webp",
+      "actress": [
+        "川崎奈々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDNM-510"
     }
   ]
 };

@@ -22,8 +22,30 @@ window.actressData = {
     "Tejima Tomoyo"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 78813,
+      "IDcode": "NUBI-034",
+      "title": "なんか出るまでイラマチオ4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-12-24",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/1c298de2f862ec2f1851c2ea2481bb72.jpg",
+      "actress": [
+        "望月綾香",
+        "叶月桃",
+        "凉川えいみ",
+        "花宫レイ",
+        "爱乃零",
+        "手岛知世",
+        "林美玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NUBI-034"
+    },
     {
       "id": 76828,
       "IDcode": "DOCP-105",
@@ -31,10 +53,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-16",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/95d5b6cad3132f202a2e8fbe3b1f2e20.jpg",
       "actress": [
         "神楽アイネ",
         "阳木かれん",

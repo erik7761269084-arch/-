@@ -54,18 +54,69 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241202/65e3f10f-88b6-4ec9-9805-cde3858d2747.jpg",
     "https://picture.yoshiclub.xyz/20241202/e8165957-576d-450d-99c6-8aab0768d5bb.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 10234,
-      "IDcode": "SAN-296",
-      "title": "大久保公園的女孩 ~ 奧菜みさき",
+      "id": 101375,
+      "IDcode": "MDVHJ-098",
+      "title": "近親乱交相姦 絶倫でデカチンな義父のセックスの虜になる息子の嫁と嫁の妹（2） 一条みおさんと奥菜みさきさんのチェキとパンティ2枚付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-02-27",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/48mdvhj098/48mdvhj098pl.jpg",
+      "actress": [
+        "桐香悠裡",
+        "奥菜みさき",
+        "一条美绪",
+        "永瀬爱菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDVHJ-098"
+    },
+    {
+      "id": 520828,
+      "IDcode": "200GANA-2976",
+      "title": "マジ软派、初撮。 2003 买い物帰りの天然巨乳ちゃんをナンパ！警戒心强めかと思いきや、マシュマロおっぱいを揺らしてイキまくりのSEXモンスターでしたw",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-12-14",
+      "cover_url": "",
+      "actress": [
+        "奥菜みさき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2976"
+    },
+    {
+      "id": 96907,
+      "IDcode": "DVDMS-867",
+      "title": "東北生まれGカップ美乳のセレブ妻。 奥菜みさき AVデビュー「夫は淡白で一度もイったことがないんです…」女の喜びをまだ知らない奥様が初めて尽くしの連続絶頂アクメ （ブルーレイディスク） （BOD）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2022-09-06",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/dvdms867/dvdms867pl.jpg",
+      "actress": [
+        "奥菜みさき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-867"
+    },
+    {
+      "id": 10234,
+      "IDcode": "SAN-296",
+      "title": "大●保公園女子Mちゃん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "マザー",
-      "publish_date": "2024-11-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241202/53348779-fd24-48ed-9d9a-28ee2df28077.jpg",
       "actress": [
         "奥菜みさき"

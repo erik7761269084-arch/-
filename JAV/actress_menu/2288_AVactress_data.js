@@ -65,19 +65,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 1604,
-      "IDcode": "mxgs-916",
+      "IDcode": "MXGS-916",
       "title": "寫真界清純女星也下海啦 陽向沙耶香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MAXING",
+      "type": "",
+      "company": "GOGOS",
       "publish_date": "2016-11-16",
       "cover_url": "https://picture.yoshiclub.xyz/20230405/d8181fb8-2130-47ee-b12f-e92bfdadf720.jpg",
       "actress": [
         "陽向さえか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=mxgs-916"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-916"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "もりの小鸟",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 82308,
       "IDcode": "DASD-426",
-      "title": "色白華奢巨乳の彼女がDQNな先輩に寝取られ種付けプレスされていた。 もりの小鳥",
+      "title": "乖巧可爱的女友森野小鸟被巨汉流氓前辈压在身下狠狠抽插内射受孕",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-04-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f861489def9b1b8cf3135/cover.jpg",
       "actress": [
         "もりの小鸟"
       ],

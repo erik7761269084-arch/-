@@ -31,10 +31,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "NEXT",
-      "publish_date": "2023-07-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/75f12dc2b8fc013a88acf204b313d009.jpg",
       "actress": [
         "小泉のぞみ",
         "佐伯ひなた",

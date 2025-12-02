@@ -4,7 +4,7 @@ window.actressData = {
   "name": "朝日まこと",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-05-30",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231122/gGvtAi2x/1.jpg",
       "actress": [
         "朝日まこと"
       ],
@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2022-09-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240118-1/ada50c3316888e7c2f2dfd1d1fa8e3fa.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/4660354c5eccef96093abc22394cfbef.jpg",
       "actress": [
         "朝日まこと"
       ],

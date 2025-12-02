@@ -4,7 +4,7 @@ window.actressData = {
   "name": "広瀬ゆい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
       "publish_date": "2022-08-24",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230723-1/c3f5faf89e1236e55ced564c91836a96.jpg",
       "actress": [
         "森林原人",
         "広瀬ゆい"

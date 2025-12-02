@@ -28,19 +28,98 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230329/a31af911-0573-4a26-8c4b-d8a521b36fe2.jpg"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 66875,
-      "IDcode": "FSET-318",
-      "title": "家族に見つからないように受験生の娘とやっちゃった家庭教師の僕。",
+      "id": 98919,
+      "IDcode": "HFD-184",
+      "title": "昼間っから制服美少女と淫口 3 村西まりな 大沢美加 加藤なつみ 花井りん 広瀬奏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2011-07-07",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-02-02",
       "cover_url": "",
+      "actress": [
+        "大沢美加",
+        "篠田优",
+        "西野まお",
+        "凉宫ゆい",
+        "花井りん",
+        "樱井ともか",
+        "弘前亮子",
+        "青岛すみれ",
+        "初美ありす",
+        "神河美音",
+        "结月こはる",
+        "羽田桃子",
+        "村西まりな",
+        "広瀬奏",
+        "大岛みなみ",
+        "加藤なつみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HFD-184"
+    },
+    {
+      "id": 99936,
+      "IDcode": "MIGD-405",
+      "title": "解禁真性アナルFUCK 大沢美加",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-07-13",
+      "cover_url": "",
+      "actress": [
+        "大沢美加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-405"
+    },
+    {
+      "id": 103356,
+      "IDcode": "MIGD-399",
+      "title": "真性中出し 大沢美加",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-06-13",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/migd399pl.jpg",
+      "actress": [
+        "大沢美加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-399"
+    },
+    {
+      "id": 99648,
+      "IDcode": "SHKD-405",
+      "title": "女子大生就活-大沢美加",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd405/shkd405pl.jpg",
+      "actress": [
+        "大沢美加"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-405"
+    },
+    {
+      "id": 66875,
+      "IDcode": "FSET-318",
+      "title": "家庭教師",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/725f118d94b6bbdd3a1e22568ed260dd.jpg",
       "actress": [
         "大沢美加",
         "秋本ゆいか",
@@ -48,38 +127,6 @@ window.actressData = {
         "桃色バンビ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-318"
-    },
-    {
-      "id": 1599,
-      "IDcode": "SDMT-131",
-      "title": "大澤美加 濃厚性愛全餐×6套角色扮演服裝",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2010-06-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20230331/051a5e2f-d276-4730-843f-cca93759d372.jpg",
-      "actress": [
-        "大沢美加"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMT-131"
-    },
-    {
-      "id": 99648,
-      "IDcode": "SHKD-405",
-      "title": "女子大生就活レイプ 私の涙とひきかえに…。 叶えたい夢の代償-。 大沢美加",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2010-04-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/shkd405/shkd405pl.jpg",
-      "actress": [
-        "大沢美加"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-405"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "庵叶和子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,26 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 103236,
+      "IDcode": "NASS-980",
+      "title": "ダメな部下に発情した女上司",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-25",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/09/691002a871eb543bb0f55fe4/poster2.jpg",
+      "actress": [
+        "近藤郁",
+        "庵叶和子",
+        "汝鸟すみか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASS-980"
+    },
     {
       "id": 66189,
       "IDcode": "VSED-260",
@@ -25,10 +43,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-04-26",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/19/7247162e/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e6af498bc99dfdd032b2a/cover.jpg",
       "actress": [
         "沙罗树",
         "桐岛秋子",

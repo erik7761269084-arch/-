@@ -4,7 +4,7 @@ window.actressData = {
   "name": "仲丘たまき",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,20 +19,20 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 80495,
-      "IDcode": "AKO-456",
-      "title": "MAKINA",
+      "id": 520348,
+      "IDcode": "210AKO-456",
+      "title": "跨在男人身上就湿了鸡巴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2022-03-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3798be92648b5777d055cdc82ada2a9d.jpg",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/3798be92648b5777d055cdc82ada2a9d.jpg",
       "actress": [
         "仲丘たまき"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-456"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=210AKO-456"
     },
     {
       "id": 81491,
@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-06",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221028-1/184aeb709ebb9e95ac6cf4619e3eb438.jpg",
       "actress": [
         "仲丘たまき"
       ],
@@ -57,10 +57,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2014-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/64ae24dfd77e65554902bf31de6a13f9.jpg",
+      "cover_url": "",
       "actress": [
         "仲丘たまき"
       ],

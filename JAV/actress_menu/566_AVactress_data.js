@@ -55,35 +55,123 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230408/e9a7879b-5223-4d35-9734-ad14957bbafd.jpg",
     "https://picture.yoshiclub.xyz/20230408/d921e802-61e4-4a35-826f-66de2bd2fa21.jpg"
   ],
-  "works_count": 21,
+  "works_count": 22,
   "related_dramas": [
     {
-      "id": 35453,
-      "IDcode": "SNIS-553",
-      "title": "传奇女优粉丝感谢祭只要撑住十分钟不射就能和女神打炮-明日花绮罗",
+      "id": 102680,
+      "IDcode": "SNIS-508",
+      "title": "中から出てくる白濁汁 明日花キララ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "S1",
-      "publish_date": "2025-08-10",
-      "cover_url": "https://tutu1.space/images/2023/06/13/8c78456a776280e50ca50e688c6885bb.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-10-07",
+      "cover_url": "http://15.155250922.com/upload/vod/20231223/snis508pl.jpg!320x216.jpg",
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-553"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-508"
+    },
+    {
+      "id": 104817,
+      "IDcode": "SNIS-634",
+      "title": "痴女集团首领明日花绮罗派手下出去寻找帅哥",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "明日花綺蘿",
+        "小田切ジュン",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-634"
+    },
+    {
+      "id": 104421,
+      "IDcode": "SOE-976",
+      "title": "黄金比例体-明日花キララ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "明日花綺蘿",
+        "しみけん",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-976"
+    },
+    {
+      "id": 104383,
+      "IDcode": "SNIS-254",
+      "title": "无遮拦的尽情做爱-明日花绮罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "明日花綺蘿",
+        "小田切ジュン",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-254"
+    },
+    {
+      "id": 104362,
+      "IDcode": "SNIS-052",
+      "title": "黑丝美女家庭教师-明日花绮罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "明日花綺蘿",
+        "しみけん",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-052"
+    },
+    {
+      "id": 82946,
+      "IDcode": "SNIS-789",
+      "title": "明日花绮罗潜入色情影碟店的秘密作战行动",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "明日花綺蘿"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-789"
     },
     {
       "id": 72887,
       "IDcode": "SSNI-166",
-      "title": "寝ている夫のすぐそばで義父に毎晩犯され続けるセレブ巨乳妻 明日花キララ （ブルーレイディスク）",
+      "title": "在老公旁边被公公侵犯的明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-03-30",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250128-1/e0e718e260501978518f33a98e183d35.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "明日花綺蘿",
         "大岛丈"
@@ -91,32 +179,49 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-166"
     },
     {
-      "id": 16710,
-      "IDcode": "SSNI-089",
-      "title": "明日花綺蘿禁欲2個月腎上腺素大爆發！性欲暴露被調侃跨性別FUCK",
+      "id": 72483,
+      "IDcode": "SNIS-075",
+      "title": "与女友同居性福生活-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2018-01-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240117/20240117094641137137.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "明日花綺蘿"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-075"
+    },
+    {
+      "id": 72034,
+      "IDcode": "SNIS-212",
+      "title": "敏感爆乳パイズリ挟射 明日花キララ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "明日花綺蘿",
+        "しみけん",
         "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-089"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-212"
     },
     {
       "id": 72005,
       "IDcode": "SNIS-381",
-      "title": "成為了內衣模特兒…明日花綺羅",
+      "title": "被迫成为公司的内衣模特-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2015-04-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "明日花綺蘿",
@@ -127,14 +232,14 @@ window.actressData = {
     {
       "id": 71997,
       "IDcode": "SNIS-360",
-      "title": "保險女業務的枕營業 明日花綺羅",
+      "title": "保险女郎用身体潜规则销售-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2015-03-19",
-      "cover_url": "https://tutu1.space/images/2025/02/26/b22baab250e21eb73501986a68c4f21e.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7133242ff119de59a50bad44297c6e58.jpg",
       "actress": [
         "明日花綺蘿",
         "しみけん"
@@ -142,67 +247,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-360"
     },
     {
-      "id": 19607,
-      "IDcode": "SNIS-338",
-      "title": "白天我的女老闆，晚上我的女奴。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2015-02-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20230409/22118468-2237-4eab-9de7-b6027704b707.jpg",
-      "actress": [
-        "明日花綺蘿"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-338"
-    },
-    {
-      "id": 71373,
-      "IDcode": "SNIS-233",
-      "title": "巨根抽插 明日花綺羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-09-19",
-      "cover_url": "https://tutu1.space/images/2025/03/04/392d68489710c140720478dbecb4351f.jpg",
-      "actress": [
-        "明日花綺蘿",
-        "沢井亮",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-233"
-    },
-    {
-      "id": 72034,
-      "IDcode": "SNIS-212",
-      "title": "敏感爆乳パイズリ挟射 明日花キララ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-08-19",
-      "cover_url": "",
-      "actress": [
-        "明日花綺蘿",
-        "しみけん",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-212"
-    },
-    {
       "id": 71986,
       "IDcode": "SNIS-172",
-      "title": "官能エステティシャン 明日花キララ",
+      "title": "巨乳美女按摩技师-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-06-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "明日花綺蘿",
@@ -213,13 +266,13 @@ window.actressData = {
     {
       "id": 71389,
       "IDcode": "SNIS-095",
-      "title": "明日花キララの騎乗位スペシャル （ブルーレイディスク）",
+      "title": "騎乗位-明日花キララ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-02-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "明日花綺蘿",
@@ -229,49 +282,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-095"
     },
     {
-      "id": 72483,
-      "IDcode": "SNIS-075",
-      "title": "キララと同棲ズボズボ性活 明日花キララ （ブルーレイディスク）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2014-01-19",
-      "cover_url": "",
-      "actress": [
-        "明日花綺蘿"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-075"
-    },
-    {
-      "id": 104362,
-      "IDcode": "SNIS-052",
-      "title": "ホームティーチャーキララ 明日花キララ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2013-12-19",
-      "cover_url": "",
-      "actress": [
-        "明日花綺蘿",
-        "しみけん",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-052"
-    },
-    {
       "id": 71387,
       "IDcode": "SNIS-030",
-      "title": "バコバコ高級ソープ嬢 明日花キララ",
+      "title": "顶级级泡泡浴小姐为您服务-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2013-11-19",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "明日花綺蘿"
@@ -279,134 +298,141 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-030"
     },
     {
-      "id": 104421,
-      "IDcode": "SOE-976",
-      "title": "明日花キララの黄金比ボディ",
+      "id": 71373,
+      "IDcode": "SNIS-233",
+      "title": "巨根抽插-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2013-08-19",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/soe976/soe976pl.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "明日花綺蘿",
-        "しみけん",
+        "沢井亮",
         "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-976"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-233"
     },
     {
-      "id": 19445,
-      "IDcode": "ABS-003",
-      "title": "工作救星綺羅 明日花綺羅在辣妹酒吧工作。",
+      "id": 70259,
+      "IDcode": "SNIS-191",
+      "title": "被痴汉侵犯堕落的霸道女上司",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2010-10-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/20230507003437128128.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e599a6b99ad4428b0438db816c6c71e5.jpg",
       "actress": [
-        "明日花綺蘿"
+        "明日花綺蘿",
+        "小田切ジュン",
+        "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-003"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-191"
     },
     {
-      "id": 19446,
-      "IDcode": "ABS-002",
-      "title": "拍攝結束後…！？明日花綺羅在私底下大鬧一番！！叫朋友來體驗名媛氣氛！！！",
+      "id": 35453,
+      "IDcode": "SNIS-553",
+      "title": "传奇女优粉丝感谢祭只要撑住十分钟不射就能和女神打炮-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2010-09-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/20230507003219799799.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-553"
     },
     {
-      "id": 19442,
-      "IDcode": "ABS-001",
-      "title": "彈性美臀玩具綺羅 ~ 明日花綺羅",
+      "id": 19607,
+      "IDcode": "SNIS-338",
+      "title": "白天在公司高冷的女上司-明日花绮罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "蚊香社",
-      "publish_date": "2010-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/a14f7b9f-7ac6-47cb-a891-d5deaea414f2.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230409/22118468-2237-4eab-9de7-b6027704b707.jpg",
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-338"
     },
     {
-      "id": 19447,
-      "IDcode": "HOBD-00015",
-      "title": "明日花綺羅身穿角色扮演服裝嬌喘連連 嚴選性愛☆BEST10",
+      "id": 17172,
+      "IDcode": "SSNI-043",
+      "title": "女友明日花绮罗在聚会被侵犯录像",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2010-05-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/9966ccff-72f1-4be9-b36b-2214dfe9e5d4.jpg",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240415-1/6d86a60756390cbfd2bdc773dd45a0a5.jpg",
       "actress": [
-        "明日花綺蘿"
+        "明日花綺蘿",
+        "ゆうき"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00015"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-043"
     },
     {
-      "id": 19441,
-      "IDcode": "HOBD-00014",
-      "title": "明日花綺羅最精選 高畫質★特輯 Vol.4",
+      "id": 16710,
+      "IDcode": "SSNI-089",
+      "title": "明日花绮罗禁欲后的疯狂性爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2010-02-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/e886ad49-cbc4-4730-9611-e33ca5375fd1.jpg",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240117/20240117094641137137.jpg",
       "actress": [
-        "明日花綺蘿"
+        "明日花綺蘿",
+        "玉木玲"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-089"
     },
     {
-      "id": 19443,
-      "IDcode": "HOBD-00007",
-      "title": "明日花綺羅最精選 高畫質★特輯 Vol.2",
+      "id": 16276,
+      "IDcode": "SSNI-142",
+      "title": "明日花綺羅奪走你的處男",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2009-07-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/f7b08ec6-5958-4a9b-9c9c-43e2e62271e1.jpg",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214095600821821.jpg",
       "actress": [
         "明日花綺蘿"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-142"
     },
     {
-      "id": 19444,
-      "IDcode": "HOBD-00001",
-      "title": "明日花綺羅最精選 高畫質★特輯 Vol.1",
+      "id": 15337,
+      "IDcode": "SSNI-192",
+      "title": "明日花绮罗出道十周年企划",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2008-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/dd30aeec-3000-4ccd-a3cd-9c591240ba49.jpg",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/321aa159ef594948e19715821b92b3b6.jpg",
       "actress": [
-        "明日花綺蘿"
+        "明日花綺蘿",
+        "小田切ジュン",
+        "イセドン内村",
+        "大岛丈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOBD-00001"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-192"
     }
   ]
 };

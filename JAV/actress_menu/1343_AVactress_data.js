@@ -40,40 +40,56 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/d0e7fa30-98a9-4f12-be67-a7bb2cc5c15e_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/9ff7927c-27c5-45d7-a37b-fe22afcab68d_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 2604,
-      "IDcode": "SONE-899",
-      "title": "年齡成謎 藏不住的性感肉體 尖叫高潮無極限 溫泉調教實錄 隱藏抖M本性覺醒 ~ 東實果",
+      "id": 5043,
+      "IDcode": "SONE-877",
+      "title": "新人NO.1 STYLE 年齢非公表 1億人の愛人 東実果",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918023750766766_83100_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204639147147_thumbnail.webp",
       "actress": [
-        "東實果",
-        "鲛岛"
+        "東實果"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-899"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-877"
     },
     {
       "id": 3415,
       "IDcode": "SONE-878",
-      "title": "少女般敏感，人妻般騷浪！愛人A,愛人B,愛人C，年輕小哥哥到大叔通殺的不倫3本番交尾 ~ 東實果",
+      "title": "敏感得像少女-东实果",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-08-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022826629629_39561_thumbnail.webp",
       "actress": [
         "東實果"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-878"
+    },
+    {
+      "id": 2604,
+      "IDcode": "SONE-899",
+      "title": "高潮温泉闯入记录 实际上是一个受虐成人-東実果",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "東實果",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-899"
     }
   ]
 };

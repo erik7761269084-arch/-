@@ -57,7 +57,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2015-06-25",
       "cover_url": "https://picture.yoshiclub.xyz/20230207/6a2b3a83-72f0-49fc-bc81-454da0086842.webp",

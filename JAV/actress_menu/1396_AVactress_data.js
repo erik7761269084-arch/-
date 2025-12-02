@@ -39,7 +39,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/7-Moodyz/真白愛莉.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-あかね志帆.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 73582,
@@ -48,10 +48,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2016-05-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250126-1/c0e3f6fb3fc6cbf781201f0d7ed0cf8c.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7c98aa1ee2ca4fc8a3e34b74ea5acfce.jpg",
       "actress": [
         "椎名空",
         "眞白愛梨",
@@ -65,22 +65,6 @@ window.actressData = {
         "玉城マイ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-163"
-    },
-    {
-      "id": 1992,
-      "IDcode": "MCBD-12",
-      "title": "MERCIBOKU 12 終於讓人無套射進去啦 : 眞白愛梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2016-04-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/459700cb-fce3-4b3d-8fe8-89e03ea9f379.webp",
-      "actress": [
-        "眞白愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-12"
     }
   ]
 };

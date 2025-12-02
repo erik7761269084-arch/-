@@ -38,8 +38,259 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230903/c99b6ce0-4676-4773-a3a5-141daefd7a24.jpg",
     "https://picture.yoshiclub.xyz/20230903/189931a6-fd72-4a51-a8ff-10cc025401fb.jpg"
   ],
-  "works_count": 11,
+  "works_count": 14,
   "related_dramas": [
+    {
+      "id": 8149,
+      "IDcode": "KIBD-327",
+      "title": "忘掉劇本，忘掉監督，完全投入本能的舌吻！體液交換會欲望MAX！67發超暴交尾 大合集 ~ 逢見梨花 浜崎真緒 乙愛麗絲 北野未奈 等",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-02-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219123324661661.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "森日向子",
+        "新村朱里",
+        "北野未奈",
+        "浜崎真緒",
+        "姫咲華",
+        "新井里真",
+        "東條夏",
+        "齋藤亞美里",
+        "宝田萌奈美",
+        "沙月芽衣",
+        "加藤桃香",
+        "水川蓳",
+        "推川悠里",
+        "逢見梨花",
+        "七草千歲",
+        "夏希栗",
+        "藤井蘭々",
+        "永井瑪麗亞",
+        "小栗操",
+        "神坂朋子",
+        "永野司",
+        "枢木葵",
+        "浅田結梨",
+        "皇柚子",
+        "三尾惠",
+        "河南実里",
+        "渋谷華",
+        "吉岡日和",
+        "南条一香",
+        "貓宮美結",
+        "一色さゆり",
+        "花園茉莉花",
+        "加藤蘿絲",
+        "ERINA"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-327"
+    },
+    {
+      "id": 89465,
+      "IDcode": "SVVRT-023",
+      "title": "素人バラエティそれなーっ！こっそり媚薬で勝手に性欲覚醒？夏休みパリピJDがビキニで挑戦するヌルっヌルオイルマッサージ！いやだ勃起しちゃう…凸ったビーチク＆クリトリスを激震電マで執拗に愛撫、ガニ股失禁イキ潮ブッシャーッ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-09-21",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/06c693713128e16106cd15f82998fa65.jpg",
+      "actress": [
+        "美澄玲衣",
+        "渋谷華",
+        "仓木诗织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-023"
+    },
+    {
+      "id": 18835,
+      "IDcode": "MMKZ-133",
+      "title": "金發、高挑、皮膚白皙以及超大的屁股",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MARRION",
+      "publish_date": "2023-09-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20230903/20230903011845408408.jpg",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-133"
+    },
+    {
+      "id": 89483,
+      "IDcode": "SVDVD-945",
+      "title": "軟体肉便器 高身長182cm！パリピギャルの四肢をガッチリ拘束してマシンバイブで鬼調教！‘ご自由に射精可能な肉便器’に仕上げ、ねっちょりピストンで連続中出し11連発！きゃぱい（ハート） 渋谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "2023-08-24",
+      "cover_url": "https://tuaskbgnekr.com/20240706/LKGv5LRD/1.jpg",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-945"
+    },
+    {
+      "id": 88817,
+      "IDcode": "TIKB-168",
+      "title": "【神ギャル殿堂入り】やっぱりギャルが最強説！vol.7",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2023-08-15",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/8137933042c794c45934c8c6a7d044c2.jpg",
+      "actress": [
+        "森澤佳奈",
+        "AIKA",
+        "水川蓳",
+        "蘭々",
+        "水卜麻衣奈",
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-168"
+    },
+    {
+      "id": 88838,
+      "IDcode": "TIKB-162",
+      "title": "【ハメログ】スタイル抜群の高身長ギャルにお酒を飲ませたらヤリマンオーラが全開だったのでそのままハメ撮りしちゃいました！ 渋谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2023-06-20",
+      "cover_url": "",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-162"
+    },
+    {
+      "id": 84091,
+      "IDcode": "BLK-595",
+      "title": "東京超高樓性愛 想被超高身長婊子辣妹搞癡女玩法！ 涉谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "2022-07-19",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/c40dd5bdf1c992dcb556e2d3b5cd65c1.jpg",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-595"
+    },
+    {
+      "id": 167574,
+      "IDcode": "IENF-249",
+      "title": "从早到晚的中出性爱-渋谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/19/682b496fe7e672bea5f38cf7/cover.jpg",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-249"
+    },
+    {
+      "id": 90932,
+      "IDcode": "BONY-041",
+      "title": "宠物今天在等着你-渋谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-041"
+    },
+    {
+      "id": 90806,
+      "IDcode": "MOPT-025",
+      "title": "脚長おねいさんのM男いじめ パンストとジーンズとニーハイブーツ 渋谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240223-1/9cefd9ac32fb86986799388407dbe7d2.jpg",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOPT-025"
+    },
+    {
+      "id": 87888,
+      "IDcode": "REXD-473",
+      "title": "地下アイドル握手会の女性警備員 渋谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/7843097dd9e1fbca05dbf84c62df7c71.jpg",
+      "actress": [
+        "渋谷華",
+        "平井シンジ",
+        "岩下たろう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-473"
+    },
+    {
+      "id": 84048,
+      "IDcode": "BLK-606",
+      "title": "版與千禧年時尚的Z世代180公分辣妹在涉谷約會抽插一整天涉谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240923-1/0e2f0e886e5d9d75a5e9e29a8fd5d53c.jpg",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-606"
+    },
+    {
+      "id": 67960,
+      "IDcode": "YMDS-130",
+      "title": "恋爱中的浓情蜜意-渋谷華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250316-1/e4152f5656a09684a209cce3b9f5c803.jpg",
+      "actress": [
+        "渋谷華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-130"
+    },
     {
       "id": 5128,
       "IDcode": "BONY-150",
@@ -47,9 +298,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-20",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092134322322_thumbnail.webp",
       "actress": [
         "乙愛麗絲",
@@ -70,175 +321,6 @@ window.actressData = {
         "若宫穂乃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-150"
-    },
-    {
-      "id": 89465,
-      "IDcode": "SVVRT-023",
-      "title": "素人バラエティそれなーっ！こっそり媚薬で勝手に性欲覚醒？夏休みパリピJDがビキニで挑戦するヌルっヌルオイルマッサージ！いやだ勃起しちゃう…凸ったビーチク＆クリトリスを激震電マで執拗に愛撫、ガニ股失禁イキ潮ブッシャーッ！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
-      "publish_date": "2023-09-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/06c693713128e16106cd15f82998fa65.jpg",
-      "actress": [
-        "美澄玲衣",
-        "渋谷華",
-        "仓木诗织"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-023"
-    },
-    {
-      "id": 89483,
-      "IDcode": "SVDVD-945",
-      "title": "軟体肉便器 高身長182cm！パリピギャルの四肢をガッチリ拘束してマシンバイブで鬼調教！‘ご自由に射精可能な肉便器’に仕上げ、ねっちょりピストンで連続中出し11連発！きゃぱい（ハート） 渋谷華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
-      "publish_date": "2023-08-24",
-      "cover_url": "",
-      "actress": [
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVDVD-945"
-    },
-    {
-      "id": 88817,
-      "IDcode": "TIKB-168",
-      "title": "【神ギャル殿堂入り】やっぱりギャルが最強説！vol.7",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-08-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231209-1/8137933042c794c45934c8c6a7d044c2.jpg",
-      "actress": [
-        "森澤佳奈",
-        "AIKA",
-        "水川蓳",
-        "蘭々",
-        "水卜麻衣奈",
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-168"
-    },
-    {
-      "id": 87888,
-      "IDcode": "REXD-473",
-      "title": "地下アイドル握手会の女性警備員 渋谷華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "卍GROUP",
-      "publish_date": "2023-06-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/7843097dd9e1fbca05dbf84c62df7c71.jpg",
-      "actress": [
-        "渋谷華",
-        "平井シンジ",
-        "岩下たろう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REXD-473"
-    },
-    {
-      "id": 88838,
-      "IDcode": "TIKB-162",
-      "title": "【ハメログ】スタイル抜群の高身長ギャルにお酒を飲ませたらヤリマンオーラが全開だったのでそのままハメ撮りしちゃいました！ 渋谷華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-06-20",
-      "cover_url": "",
-      "actress": [
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIKB-162"
-    },
-    {
-      "id": 90806,
-      "IDcode": "MOPT-025",
-      "title": "脚長おねいさんのM男いじめ パンストとジーンズとニーハイブーツ 渋谷華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-06-13",
-      "cover_url": "",
-      "actress": [
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOPT-025"
-    },
-    {
-      "id": 90932,
-      "IDcode": "BONY-041",
-      "title": "今日も馬用興奮剤を飲ませたペットが待っています。 180cm高身長ギャル編 渋谷華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-03-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240303-1/9a2cc2d1573941ff037ca3e6057758af.jpg",
-      "actress": [
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-041"
-    },
-    {
-      "id": 67960,
-      "IDcode": "YMDS-130",
-      "title": "いちゃラブ宅飲み濃厚べろちゅう密着せっくちゅ 渋谷華が彼女になった日",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-03-04",
-      "cover_url": "",
-      "actress": [
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-130"
-    },
-    {
-      "id": 84048,
-      "IDcode": "BLK-606",
-      "title": "Y2KファッションのZ世代180cmギャルと渋谷デートで1日中パコろうぜ！！ 渋谷華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2022-09-20",
-      "cover_url": "",
-      "actress": [
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-606"
-    },
-    {
-      "id": 84091,
-      "IDcode": "BLK-595",
-      "title": "東京超高樓性愛 想被超高身長婊子辣妹搞癡女玩法！ 涉谷華",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2022-07-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230104-1/c40dd5bdf1c992dcb556e2d3b5cd65c1.jpg",
-      "actress": [
-        "渋谷華"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-595"
     }
   ]
 };

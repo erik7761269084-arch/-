@@ -51,39 +51,57 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/3400e1c7-a7a7-4359-bc0a-fa20057b8d5f.jpg",
     "https://picture.yoshiclub.xyz/20230210/55d6411c-6bbb-4405-bd7a-c506722db7f3.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 1797,
-      "IDcode": "SKYHD-098",
-      "title": "天天使藍Vol.98：木村綱",
+      "id": 564,
+      "IDcode": "HEYZO-0676",
+      "title": "放學後美少女檔案 No.7～超可愛洛麗塔 ~ 木村都那",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-07-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/129e6161-66c1-4621-b4ef-c22885d1da8f.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2014-09-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20241120/b2aa6f4a-c6db-4b84-803f-a6851b508a4f.jpg",
       "actress": [
         "木村都那"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0676"
     },
     {
-      "id": 1790,
-      "IDcode": "SKYHD-091",
-      "title": "SKY ANGEL 91 初降臨3P中出 ~ 木村都那",
+      "id": 416,
+      "IDcode": "HEYZO-0492",
+      "title": "操了一次又一次 蘿莉娘內射中出連續注入 ~ 木村都那",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/ba9ca309-bc33-467d-97c6-84e1cab73b21.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2013-12-31",
+      "cover_url": "https://picture.yoshiclub.xyz/20250210/658ef272-5e7b-45a6-a8f2-60a69ec29021.jpg",
       "actress": [
         "木村都那"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0492"
+    },
+    {
+      "id": 100262,
+      "IDcode": "HUNT-749",
+      "title": "女子からはキモがられ一切無視されている僕。かたや自分の誕生日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2013-09-19",
+      "cover_url": "",
+      "actress": [
+        "木村都那",
+        "爱代さやか",
+        "篠宫ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNT-749"
     },
     {
       "id": 73570,
@@ -92,10 +110,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2012-03-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1865e20c74e4dc5b60c2bcada3b4a352.jpg",
       "actress": [
         "木村都那"
       ],

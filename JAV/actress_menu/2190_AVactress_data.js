@@ -48,13 +48,13 @@ window.actressData = {
     {
       "id": 7222,
       "IDcode": "CAWD-823",
-      "title": "新人出道！從山形來玩的無垢田舍娘被街頭色色採訪套路成功！強引說服她出演 首次亮相 AV DEBUT ~ 平山羽那",
+      "title": "从山形来的纯洁乡下妹-平山羽那",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-04-01",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084014364364.jpg",
       "actress": [
         "平山羽那"

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "爱须みのん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,36 +19,16 @@ window.actressData = {
   "works_count": 16,
   "related_dramas": [
     {
-      "id": 61123,
-      "IDcode": "OKC-024",
-      "title": "神着衣お風呂＆おもらし 8人8放尿 競泳水着・スク水編（OKC-024）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2025-07-24",
-      "cover_url": "https://tutu1.space/images/2025/08/12/f6c1df8a7e852e498da650261058b36f.jpg",
-      "actress": [
-        "黑川堇",
-        "沙月芽衣",
-        "岬梓沙",
-        "有坂深雪",
-        "爱须みのん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-024"
-    },
-    {
       "id": 93696,
       "IDcode": "OKC-013",
       "title": "神着衣ぶっかけ 8人8発射 245分 競泳水着・スク水編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2024-08-15",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241016-1/a4740c442254f05db2be8da5b1701837.jpg",
       "actress": [
         "绀野光",
         "河奈亜依",
@@ -68,7 +48,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/9289d09c70929288d2b8700d515682ad.jpg",
@@ -88,10 +68,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-05-30",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231122/17WpcyKo/1.jpg",
       "actress": [
         "儿玉玲奈",
         "爱须みのん",
@@ -100,33 +80,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-139"
     },
     {
-      "id": 84826,
-      "IDcode": "HUNTB-240",
-      "title": "「子供扱いするならエッチなこと教えてもらおっかな～！w」メスガキ従妹2人のトロける様なお口とマ○コに挟まれて言いなり中出し！昔よく遊んだ…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-03-22",
-      "cover_url": "",
-      "actress": [
-        "皆月光",
-        "白石環奈",
-        "爱须みのん",
-        "高梨有纱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-240"
-    },
-    {
       "id": 80925,
       "IDcode": "HUNTB-213",
       "title": "「おち○ちん触ってると落ち着く…」幼い頃からボクの股間を触ると落ち着く姉が、大人になった今でも不安なことがあると触ってくる。ボクが拒否して…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-02-22",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/bf90b088caaf338676975783482ab98f.jpg",
       "actress": [
@@ -143,30 +104,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2022-02-22",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/e2304dff0df0b740b0d824aa959beb51.jpg",
       "actress": [
         "爱须みのん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-042"
-    },
-    {
-      "id": 84423,
-      "IDcode": "FOCS-052",
-      "title": "ねぇねぇ？誰かに似てない！？居酒屋バイト娘をナンパしてハメ撮り＆3Pブッコむ！可愛いうえにエッチにめっちゃ積極的な変態だったwww愛須みのん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2022-02-15",
-      "cover_url": "",
-      "actress": [
-        "爱须みのん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-052"
     },
     {
       "id": 84812,
@@ -175,8 +120,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-02-08",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230115-1/688958fb165d39451a75dc54ac822535.jpg",
       "actress": [
@@ -193,8 +138,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-09-28",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/49f3cb8bf8657469ac265e52781df453.jpg",
       "actress": [
@@ -212,10 +157,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-09-28",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/bb88350433ac1021ee8fba4a90122faa.jpg",
       "actress": [
         "爱须みのん",
         "初岛うい"
@@ -223,24 +168,39 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-098"
     },
     {
-      "id": 79495,
-      "IDcode": "HUNTB-099",
-      "title": "1週間休み無しでエッチしまくり！月水金は君とSEX！火木土はお前とSEX！日曜はみんなで！合法的重婚！夢の一夫多妻性活！これぞ恋愛の最終形態",
+      "id": 84826,
+      "IDcode": "HUNTB-240",
+      "title": "「子供扱いするならエッチなこと教えてもらおっかな～！w」メスガキ従妹2人のトロける様なお口とマ○コに挟まれて言いなり中出し！昔よく遊んだ…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2021-09-28",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc718f9a2e9b1d45c6ca7/cover.jpg",
+      "actress": [
+        "皆月光",
+        "白石環奈",
+        "爱须みのん",
+        "高梨有纱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-240"
+    },
+    {
+      "id": 84423,
+      "IDcode": "FOCS-052",
+      "title": "居酒屋-愛須みのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "川菜美铃",
-        "雨村梨花",
-        "桃井杏南",
-        "爱须みのん",
-        "河西乃爱"
+        "爱须みのん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-099"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-052"
     },
     {
       "id": 83068,
@@ -249,10 +209,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221217-1/4a3fe113491c4a187d894b5b705315c9.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/d02df772e2dbbd33cd9c24a6f7a2f40f.jpg",
       "actress": [
         "皆月光",
         "富田优衣",
@@ -264,16 +224,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-741"
     },
     {
+      "id": 79495,
+      "IDcode": "HUNTB-099",
+      "title": "1週間休み無しでエッチしまくり！月水金は君とSEX！火木土はお前とSEX！日曜はみんなで！合法的重婚！夢の一夫多妻性活！これぞ恋愛の最終形態",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daeba6d6fbef4e90d1f6b6/cover.jpg",
+      "actress": [
+        "川菜美铃",
+        "雨村梨花",
+        "桃井杏南",
+        "爱须みのん",
+        "河西乃爱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-099"
+    },
+    {
+      "id": 76534,
+      "IDcode": "OKS-077",
+      "title": "濡れてテカってピッタリ密着 神スク水 九条",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/88c3e0379758d0fa4927675505eaf7b5.jpg",
+      "actress": [
+        "爱须みのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-077"
+    },
+    {
       "id": 75839,
       "IDcode": "AP-737",
       "title": "ついカンニングをしてしまった優等生の弱みに付け込み教員たちが拘束輪●指導",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241218-1/a062b55d779a4dca4bdcffc8fb8e010c.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/72d9268ab261bb11cf9ae1fa8ae218ca.jpg",
       "actress": [
         "天馬唯",
         "爱须みのん",
@@ -290,10 +286,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
-      "publish_date": "2020-01-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20241225-1/dd4faaeed50e1b1fc87848f194a7ea96.jpg",
       "actress": [
         "松本菜奈実",
         "イセドン内村",
@@ -304,20 +300,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-423"
     },
     {
-      "id": 76534,
-      "IDcode": "OKS-077",
-      "title": "濡れてテカってピッタリ密着 神スク水 九条しずく 可愛い女子のスクール水着姿をじっとりと堪能！着替え盗撮から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけに生中出し等を完全着衣で楽しむAV",
+      "id": 61123,
+      "IDcode": "OKC-024",
+      "title": "神着衣お風呂＆おもらし 8人8放尿 競泳水着・スク水編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/425eb80f81074b3ae7764ed412798ff7.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
+        "黑川堇",
+        "沙月芽衣",
+        "岬梓沙",
+        "有坂深雪",
         "爱须みのん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKS-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKC-024"
     }
   ]
 };

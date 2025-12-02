@@ -34,77 +34,64 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240712/a16b2ca9-d1b8-4e14-bfd7-afeb4c385a0e.jpg"
   ],
-  "works_count": 9,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 2520,
-      "IDcode": "APGH-044",
-      "title": "鄉下長大的軟萌女學生 爽到翻白眼高潮噴水！天然肉感妹子淫亂約會 乖巧無垢小侍奉 ~ 皐月ゆら",
+      "id": 73204,
+      "IDcode": "AKDL-313",
+      "title": "偶然見えた胸チラしている姿に発情しちゃった俺",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919090937910910_65155_thumbnail.webp",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-2/5bd6f2287648c013dd154a9ac4a62d60.jpg",
       "actress": [
+        "如月りいさ",
+        "朝比ゆの",
         "皐月ゆら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-044"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-313"
     },
     {
-      "id": 3237,
-      "IDcode": "GAID-026",
-      "title": "初次羞恥調教體驗 暑假被大叔們教壞的淫亂回憶 美巨乳×草帽×顏射×羞恥放尿×口爆×吞精 ~ 皐月ゆら",
+      "id": 72790,
+      "IDcode": "AKDL-315",
+      "title": "神技ゴム手袋コキでチンポコ我慢できない！！「もう発射していいすか？」 精液まで飲んでくれるゴム手袋メンエス店",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827014338377377_85421_thumbnail.webp",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "皐月ゆら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAID-026"
-    },
-    {
-      "id": 59994,
-      "IDcode": "IKHR-016",
-      "title": "裏垢女子 JD めいたん 皐月ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "素人Only",
-      "publish_date": "2025-08-24",
-      "cover_url": "https://tutu1.space/images/2025/09/13/5d29776a78e217b241ac93289c57d704.jpg",
-      "actress": [
-        "皐月ゆら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-016"
-    },
-    {
-      "id": 3540,
-      "IDcode": "MUCD-333",
-      "title": "運動部美少女滿身大汗練完直接開幹青春激情SEX！6位運動妹子情侶內射精選合集 ~ 乙羽阿姆 倉木詩織 雅子里菜 皐月由拉 奈築里緒 望月蕾",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140343525353_52339_thumbnail.webp",
-      "actress": [
-        "望月蕾",
-        "倉木詩織",
-        "雅子裡菜",
-        "乙羽あむ",
         "皐月ゆら",
-        "奈築里緒",
-        "仓木诗织"
+        "横峯めぐ",
+        "江澄ゆゆ",
+        "佐佐波绫"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-333"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-315"
+    },
+    {
+      "id": 69637,
+      "IDcode": "DHLD-016",
+      "title": "DHLD-016 早漏改善パイズリクリニック～巨乳ナースの寸止め射精コントロール～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "绫濑心",
+        "若宮穂乃",
+        "小梅惠奈",
+        "月見若葉",
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-016"
     },
     {
       "id": 67519,
@@ -113,10 +100,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OFFICE K’S",
-      "publish_date": "2025-05-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250709-1/bba679dee213e46aa760cd46c65564c8.jpg",
       "actress": [
         "绫濑心",
         "若宮穂乃",
@@ -127,15 +114,63 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-637"
     },
     {
-      "id": 6522,
-      "IDcode": "DOKS-635",
-      "title": "被正妹盯著看還貼身揉奶超挑逗",
+      "id": 59994,
+      "IDcode": "IKHR-016",
+      "title": "裏垢女子 JD めいたん 皐月ゆら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-016"
+    },
+    {
+      "id": 11702,
+      "IDcode": "KNMB-085",
+      "title": "G罩杯巨胸M系半業餘美女優 ~ 皐月ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/2fb37e9b72fce5a286be8c728ab36a59.jpg",
+      "actress": [
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KNMB-085"
+    },
+    {
+      "id": 10499,
+      "IDcode": "AKDL-304",
+      "title": "患者さんにがっつき接吻で元気にしてあげていた看護師 乳首もオチンポもいっぱいベロちゅうで24歳 皐月ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/74f4f03d/vod.jpg",
+      "actress": [
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-304"
+    },
+    {
+      "id": 6522,
+      "IDcode": "DOKS-635",
+      "title": "パイフレに見つめられながら密着乳揉みしだき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "OFFICE K’S",
-      "publish_date": "2025-05-01",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501053851323323_thumbnail.webp",
       "actress": [
         "绫濑心",
@@ -149,61 +184,128 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-635"
     },
     {
-      "id": 69637,
-      "IDcode": "DHLD-016",
-      "title": "早漏改善パイズリクリニック～巨乳ナースの寸止め射精コントロール～ 小梅えなさんのチェキ付き",
+      "id": 5418,
+      "IDcode": "SDJS-316",
+      "title": "SOD女子社員試験官9名が全裸男性1名へち○ぽの勃起からザ～汁射精梶尾羽歌 安心院結愛 金子茉珠 加賀谷恋白 古木薊 菱沼萌咲 谷口柊樺 大和田来望 釜谷明日華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OFFICE K’S",
-      "publish_date": "2025-04-01",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609192736674674_thumbnail.webp",
+      "actress": [
+        "永野鈴",
+        "久和原聖羅",
+        "皐月ゆら",
+        "小鳩琉璃",
+        "雨宮あや花",
+        "相月菜緒",
+        "望月ふうか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-316"
+    },
+    {
+      "id": 3908,
+      "IDcode": "PS-122",
+      "title": "新B級素人初撮り 122 「あなた、ゴメンなさい。」ゆらさん 23歳 新妻の主婦 身長148センチです Fカップ新妻 皐月ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc0d76c6d1004ed41dc9d9/cover.jpg",
+      "actress": [
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PS-122"
+    },
+    {
+      "id": 3540,
+      "IDcode": "MUCD-333",
+      "title": "部活帰りの汗だく美少女と練習着のまま即ハメ青春SEX！ 運動部女子6人 カップル中出しBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/26/8e919d1c43ee580ce3608edfabe787d2.jpg",
+      "actress": [
+        "望月蕾",
+        "倉木詩織",
+        "雅子裡菜",
+        "乙羽あむ",
+        "皐月ゆら",
+        "奈築里緒",
+        "仓木诗织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-333"
+    },
+    {
+      "id": 3237,
+      "IDcode": "GAID-026",
+      "title": "初めての凌●羞恥プレイ 大人達にわいせつな体験を教え込まれる思い出の夏休み 美巨乳×麦わら帽子×ぶっかけ×恥ずい放尿×イラマ×ごっくん 皐月ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d04615eb67774efbac6821/cover.jpg",
+      "actress": [
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAID-026"
+    },
+    {
+      "id": 3126,
+      "IDcode": "YSN-647",
+      "title": "近所で可愛いと有名な子を飼ってます。 皐月ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828040655334334_47276_thumbnail.webp",
+      "actress": [
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-647"
+    },
+    {
+      "id": 2520,
+      "IDcode": "APGH-044",
+      "title": "田舎育ちのおっとり女学生 白目を剥いて絶頂イキ！ 天然肉感娘と姦淫デート 従順 無垢 ご奉仕娘 皐月ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20251005/OYMmLdcX/1.jpg",
+      "actress": [
+        "皐月ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-044"
+    },
+    {
+      "id": 2420,
+      "IDcode": "YSN-648",
+      "title": "やべーほどカワイイ妹を貪りたい 皐月ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "绫濑心",
-        "若宮穂乃",
-        "小梅惠奈",
-        "月見若葉",
         "皐月ゆら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-016"
-    },
-    {
-      "id": 72790,
-      "IDcode": "AKDL-315",
-      "title": "【AKNRフェティシズム】 神技ゴム手袋コキでチンポコ我慢できない！！「もう発射していいすか？」 精液まで飲んでくれるゴム手袋メンエス店",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/3d4533f4/vod.jpg",
-      "actress": [
-        "皐月ゆら",
-        "横峯めぐ",
-        "江澄ゆゆ",
-        "佐佐波绫"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-315"
-    },
-    {
-      "id": 73204,
-      "IDcode": "AKDL-313",
-      "title": "偶然見えた胸チラしている姿に発情しちゃった俺（AKDL-313）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2025-01-23",
-      "cover_url": "https://tutu1.space/images/2025/08/12/a09fd73d3cb2936f93238d106944c0b0.jpg",
-      "actress": [
-        "如月りいさ",
-        "朝比ゆの",
-        "皐月ゆら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-313"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YSN-648"
     }
   ]
 };

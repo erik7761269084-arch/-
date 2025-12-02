@@ -39,8 +39,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241108/ed4867f0-0e65-4c80-a5be-7bbbef66cbee.jpg",
     "https://picture.yoshiclub.xyz/20241108/12d166c4-481e-41d3-8f6a-97dbde192504.jpg"
   ],
-  "works_count": 5,
+  "works_count": 13,
   "related_dramas": [
+    {
+      "id": 60846,
+      "IDcode": "MVG-138",
+      "title": "肛门装置束缚新铁拘束肛门拷问-佐久间つな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-138"
+    },
     {
       "id": 59990,
       "IDcode": "PTS-534",
@@ -48,9 +64,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-09-15",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "佐久間津奈",
@@ -59,48 +75,65 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-534"
     },
     {
-      "id": 60846,
-      "IDcode": "MVG-138",
-      "title": "Anal Device Bondage シン・鉄拘束アナル拷問 佐久間つな （BOD）",
+      "id": 10757,
+      "IDcode": "IPSE-008",
+      "title": "AVデビュー×100万回の大絶頂M覚醒 1本限定契約 佐久間つな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2025-09-09",
-      "cover_url": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107082937367367.jpg",
       "actress": [
-        "佐久間津奈"
+        "佐久間津奈",
+        "イセドン内村"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVG-138"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-008"
     },
     {
-      "id": 6734,
-      "IDcode": "MISM-378",
-      "title": "近距離圍觀我的小菊花被大雞巴插入！溫柔後庭暴走欲望抽搐的最狂後門癖好玩法 ~ 佐久間津奈",
+      "id": 9866,
+      "IDcode": "MVSD-627",
+      "title": "最初最强的肛门解禁-佐久間つな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "えむっ娘ラボ",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092436528528_thumbnail.webp",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787abf48daf6b1db43c3037/cover.jpg",
       "actress": [
         "佐久間津奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-378"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-627"
+    },
+    {
+      "id": 9072,
+      "IDcode": "MIAB-429",
+      "title": "初めての喉ボコイラマチオ ノド便器と美女のちょうど間。いきなり限界突破SP 佐久間つな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/23/67bb3dcc4e7d663df4a101f6/cover.jpg",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-429"
     },
     {
       "id": 8775,
       "IDcode": "MISM-364",
-      "title": "屁眼，深喉，陰戶，清楚系美人3孔覺醒 ~ 佐久間津奈",
+      "title": "真正変態性を剥き出しに肉棒貪るピュアマゾ少女 佐久間つな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072741745745.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b896744e7d663df48c19d3/cover.jpg",
       "actress": [
         "佐久間津奈",
         "鲛岛"
@@ -108,21 +141,116 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-364"
     },
     {
-      "id": 10757,
-      "IDcode": "IPSE-008",
-      "title": "新人AV出道×100萬次大高潮M覺醒1限定契約 AV DEBUT~ 佐久間津奈",
+      "id": 6734,
+      "IDcode": "MISM-378",
+      "title": "私のアナルがデカブツ咥えてる所を近くで見てね？淑やかな尻穴が性欲暴走し痙攣ヒクつく最狂肛門フェティッシュ性交 佐久間つな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107082937367367.jpg",
+      "type": "",
+      "company": "えむっ娘ラボ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/2480135ca6b812e66bfc4e26fe296704.jpg",
       "actress": [
-        "佐久間津奈",
-        "イセドン内村"
+        "佐久間津奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPSE-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-378"
+    },
+    {
+      "id": 3668,
+      "IDcode": "GMA-082",
+      "title": "緊縛調教妻 夫が起こした事故の保険金が下りず身を差し出した妻。変態保険屋の言いなり調教で目覚めていくマゾ快楽 佐久間つな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLOBAL MEDIA ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809011602839839_88665_thumbnail.webp",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-082"
+    },
+    {
+      "id": 3248,
+      "IDcode": "KUSE-036",
+      "title": "大量の腸汁ダクダクダクダク超キバリイキ ウルトラ連続AtoM ウルトラ大量浣腸 佐久間つな（24）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250826/20250826022753446446_48179_thumbnail.webp",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KUSE-036"
+    },
+    {
+      "id": 3102,
+      "IDcode": "COGM-085",
+      "title": "塩対応J〇を逆転イキ狂いさせたら、甘い声で鳴き始めたから肉オナホに仕込んでやりました",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250830/20250830202610828828_96904_thumbnail.webp",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COGM-085"
+    },
+    {
+      "id": 2478,
+      "IDcode": "UZU-032",
+      "title": "時間よ止まれ 時間停止の世界 無反応アナルSEX 佐久間つな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UZU-032"
+    },
+    {
+      "id": 2225,
+      "IDcode": "SOAN-119",
+      "title": "肛門カウンセリング 学校帰りに屈辱バチボコ浣腸特訓無麻酔による2穴拡張挿入必須科目 佐久間つな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOAN-119"
+    },
+    {
+      "id": 2223,
+      "IDcode": "MIAB-532",
+      "title": "極太アナル拡張 佐久間つな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/11/12/189383fe8e29a8ab4b847f1550cff506.jpg",
+      "actress": [
+        "佐久間津奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-532"
     }
   ]
 };

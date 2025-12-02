@@ -4,7 +4,7 @@ window.actressData = {
   "name": "忍川ほたる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K-Tribe",
-      "publish_date": "2019-12-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/8466160aaed56e76a4463cf1b44ee3c8.jpg",
       "actress": [
         "忍川ほたる"
       ],

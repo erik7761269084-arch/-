@@ -4,7 +4,7 @@ window.actressData = {
   "name": "南城リノ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 4022,
       "IDcode": "SDAM-148",
-      "title": "開車比老公還溜的MT女司機 婚後兩年欲求不滿被男優撩撥 羞澀中釋放肉感爆棚大屁股的性欲 南城リノAV首秀",
+      "title": "旦那より運転が上手いMTドライバー 結婚2年目にしてレスの欲求不満を男優に引き出され 南城リノ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-07-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203352870870_46067_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/08/68960b8455337d7f7baad899/cover.jpg",
       "actress": [
         "南城リノ"
       ],

@@ -37,35 +37,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/AI-Fix-水沢のの.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1902,
-      "IDcode": "MXGS-709",
-      "title": "昏睡醜男性愛 ～媚藥×催眠×爛醉～ 水澤乃乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MAXING",
-      "publish_date": "2014-12-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/1427a3c9-21df-4082-9f3b-67cf0be190e8.jpg",
-      "actress": [
-        "水沢のの"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXGS-709"
-    },
     {
       "id": 1976,
       "IDcode": "MXGS-697",
-      "title": "午後陣雨～被淋濕的秘肉～ 水澤乃乃",
+      "title": "湿润的秘密肉体-水沢のの",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "MAXING",
-      "publish_date": "2014-11-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230403/3e04d30e-fe31-43a9-8b2c-3ebe489b508f.jpg",
+      "company": "GOGOS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc19934e7d663df4da3e4d/cover.jpg",
       "actress": [
         "水沢のの"
       ],

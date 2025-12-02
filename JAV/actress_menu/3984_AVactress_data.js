@@ -4,7 +4,7 @@ window.actressData = {
   "name": "石川祐奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 10,
+  "works_count": 13,
   "related_dramas": [
     {
       "id": 88939,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-06-27",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231211-1/46f1de3d206cab27ff5dabe2d5dfa0bf.jpg",
@@ -51,10 +51,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-02",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/7zHwMsCZ.jpg",
       "actress": [
         "君岛美绪",
         "凉南佳奈",
@@ -71,10 +71,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2019-12-27",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230105-1/899116fd8ab0d0b94739c13ac52920d5.jpg",
       "actress": [
         "推川悠里",
         "绀野光",
@@ -88,35 +88,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-075"
     },
     {
-      "id": 77278,
-      "IDcode": "MDBK-048",
-      "title": "某上場一流企業で働く美人受付嬢濃密4本番",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/46b199260cac88ae31a86191f78fc497.jpg",
-      "actress": [
-        "仓多真央",
-        "植村恵名",
-        "小田切ありさ",
-        "石川祐奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-048"
-    },
-    {
       "id": 74464,
       "IDcode": "RCTD-238",
       "title": "淫語依存症改善センズリ支援センター",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
       "publish_date": "2019-06-20",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/76cc942cb50f0db58a34c5162fe69a9b.jpg",
       "actress": [
         "早乙女らぶ",
         "桥本丽华",
@@ -125,16 +106,86 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-238"
     },
     {
-      "id": 85732,
-      "IDcode": "NASH-030",
-      "title": "弟の嫁が色っぽいので思わず寝取って中出し",
+      "id": 98973,
+      "IDcode": "PTS-442",
+      "title": "高級オイルエステ 人妻拘束M絶頂レズ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-03-22",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-03-15",
+      "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/11-14/11/otz0i5mevvo1108otz0i5mevvo281429.jpg",
+      "actress": [
+        "美咲佳奈",
+        "橘瑪麗",
+        "大槻响",
+        "石川祐奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-442"
+    },
+    {
+      "id": 538802,
+      "IDcode": "259LUXU-1085",
+      "title": "ラグジュTV 1070 丽しきファッションデザイナー、再び。オイルを涂りたくられた美スタイル。敏感になった阴部の奥深くを巨根でピストンされれば、妖艶度が増した表情で中イキ絶顶！1",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2019-02-27",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/9803e00cbe5648b4da01655d2bd0917f.jpg",
+      "actress": [
+        "石川祐奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1085"
+    },
+    {
+      "id": 98738,
+      "IDcode": "RCTD-167",
+      "title": "TSFふたなり潜入捜査官 三原ほのか 吉川あいみ 石川祐奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "2018-11-22",
+      "cover_url": "http://15.155250922.com/upload/vod/2022/09/41lv5twdjdd.jpg",
+      "actress": [
+        "三原穗香",
+        "吉川爱美",
+        "石川祐奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-167"
+    },
+    {
+      "id": 102927,
+      "IDcode": "JUY-430",
+      "title": "向かい部屋の人妻 石川祐奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-03-25",
       "cover_url": "",
+      "actress": [
+        "ゆうき",
+        "石川祐奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-430"
+    },
+    {
+      "id": 85732,
+      "IDcode": "NASH-030",
+      "title": "弟弟的媳妇很风骚 毫不犹豫的NTR中出 白石未央,羽生亚梨沙,吹石玲奈等演员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/9e985cc1e6aac638b79568ca1ef58170.jpg",
       "actress": [
         "吹石玲奈",
         "羽生ありさ",
@@ -151,9 +202,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "PLANETPLUS",
-      "publish_date": "2019-03-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "石川祐奈"
@@ -161,32 +212,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-217"
     },
     {
-      "id": 74616,
-      "IDcode": "LUXU-1085",
-      "title": "ラグジュTV 1070 麗しきファッションデザイナー、再び。オイルを塗りたくられた美スタイル。敏感になった陰部の奥深くを巨根でピストンされれば、妖艶度が増した表情で中イキ絶頂！",
+      "id": 77639,
+      "IDcode": "SABA-419",
+      "title": "0歳児ママ限定ガチナンパ！甘～いミルクたっぷりのぷるぷるおっぱいで童貞君に授乳筆おろししてもらえませんか？ベビーカーで眠る赤ちゃんが起きないよう声我慢する優しいママにぬぷぬぷ抜き挿し！出産以来のご無沙汰ま●こにたっぷり生中出し！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2019-02-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250110-1/9803e00cbe5648b4da01655d2bd0917f.jpg",
+      "type": "",
+      "company": "S級素人",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b55a76723f5cd45bebe2427fb09fdfe0.jpg",
       "actress": [
+        "桐岛莉乃",
+        "椎叶みくる",
+        "石川祐奈",
+        "有马かれん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-419"
+    },
+    {
+      "id": 77278,
+      "IDcode": "MDBK-048",
+      "title": "某上場一流企業で働く美人受付嬢濃密4本番",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "仓多真央",
+        "植村恵名",
+        "小田切ありさ",
         "石川祐奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1085"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-048"
     },
     {
       "id": 70256,
       "IDcode": "SDMU-908",
-      "title": "タイガー小堺監督の人気AV女優人生相談 vol.2 AV女優の素の顔を見てみませんか？",
+      "title": "大人气AV女优9名和小界导演在性爱前畅聊人生说中了就脱衣服",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-11-22",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/689da51095ee9914393ace2c89feb77f.jpg",
       "actress": [
         "向井藍",
         "卯水咲流",
@@ -199,25 +272,6 @@ window.actressData = {
         "石川祐奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-908"
-    },
-    {
-      "id": 77639,
-      "IDcode": "SABA-419",
-      "title": "0歳児ママ限定ガチナンパ！甘～いミルクたっぷりのぷるぷるおっぱいで童貞君に授乳筆おろししてもらえませんか？ベビーカーで眠る赤ちゃんが起きないよう声我慢する優しいママにぬぷぬぷ抜き挿し！出産以来のご無沙汰ま●こにたっぷり生中出し！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S級素人",
-      "publish_date": "2018-05-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/5c56d5bf91ab26386eeaca9a1b698c82.jpg",
-      "actress": [
-        "桐岛莉乃",
-        "椎叶みくる",
-        "石川祐奈",
-        "有马かれん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-419"
     }
   ]
 };

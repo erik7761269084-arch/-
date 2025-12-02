@@ -4,7 +4,7 @@ window.actressData = {
   "name": "小沢麻貴",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 66307,
       "IDcode": "JRZE-241",
-      "title": "初撮り人妻ドキュメント 小沢麻貴",
+      "title": "初次拍摄人妻-小泽麻贵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2025-05-08",
+      "publish_date": "",
       "cover_url": "https://tutu1.space/images/2025/05/25/0a02f72a0b6e403f1042dea4a73358b1.jpg",
       "actress": [
         "小沢麻貴"

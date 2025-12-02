@@ -36,8 +36,24 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240816/7d79c352-f5c7-4fba-bca1-ed11d498aa0a.jpg",
     "https://picture.yoshiclub.xyz/20240816/c26dae74-79f9-4831-ba22-5e7b2a8f6720.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 12634,
+      "IDcode": "MIFD-521",
+      "title": "新人出道！平日裏是辦公室OL……實際卻是個想要刺激的變態，喝了10發精子，吞精天才AV DEBUT！ ~ 筱咲拉拉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815233011971971.jpg",
+      "actress": [
+        "篠咲拉拉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-521"
+    },
     {
       "id": 62807,
       "IDcode": "KTDH-010",
@@ -45,9 +61,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-06-09",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "篠咲拉拉"
@@ -55,15 +71,63 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTDH-010"
     },
     {
-      "id": 8354,
-      "IDcode": "SDDE-724",
-      "title": "當SEX成爲日常生活中必不可少的一部分 - 性交新聞發布會 ~ 篠咲拉拉 美木雛乃 乃木絢愛 天乃のあ",
+      "id": 11994,
+      "IDcode": "MVSD-615",
+      "title": "激突！喉奥チ○ポホール！ 喉射！口射！おやじザーメン大量精飲ごっくんイラマチオ 篠咲らら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/11/11/5b9ecd22f5f145f830285b5b442be2e0.jpg",
+      "actress": [
+        "篠咲拉拉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-615"
+    },
+    {
+      "id": 10956,
+      "IDcode": "MIAB-362",
+      "title": "ボクだけが知ってしまった女教師の裏の顔。ボクの大好きならら先生が不良達に放課後イラマチオ開発され続けていた…。 篠咲らら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67889f9230833b4bf53b470e/cover.jpg",
+      "actress": [
+        "篠咲拉拉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-362"
+    },
+    {
+      "id": 9737,
+      "IDcode": "BONY-130",
+      "title": "ベロキスフェラ舐め唾ダラ舌交ちゅうちゅう口戯 篠咲らら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d7bb5d57b64bfd101f49/cover.jpg",
+      "actress": [
+        "篠咲拉拉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-130"
+    },
+    {
+      "id": 8354,
+      "IDcode": "SDDE-724",
+      "title": "―SEXが溶け込んでいる日常―「常に性交」記者会見",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-03-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250211/609e0d67-c15c-4ff3-95a8-e34857e2425d.jpg",
       "actress": [
         "美木雛乃",
@@ -72,22 +136,6 @@ window.actressData = {
         "篠咲拉拉"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-724"
-    },
-    {
-      "id": 9737,
-      "IDcode": "BONY-130",
-      "title": "最棒的舔、唾液、舌頭纏繞的口活 ~ 篠咲拉拉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218103038630630.jpg",
-      "actress": [
-        "篠咲拉拉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-130"
     }
   ]
 };

@@ -48,66 +48,134 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240719/0bc3ac15-eea2-4e17-9cfb-847fa0393399.jpg",
     "https://picture.yoshiclub.xyz/20240719/141c11b5-962b-4176-8c58-e94c4a2832ee.jpg"
   ],
-  "works_count": 7,
+  "works_count": 13,
   "related_dramas": [
     {
-      "id": 3882,
-      "IDcode": "VEC-717",
-      "title": "想拉我進自治會？先讓大嫂陪我爽一波 惱人推銷直接無套反殺 ~ 松野蘭",
+      "id": 12483,
+      "IDcode": "JUQ-824",
+      "title": "放歸野外的不倫妻的激烈性愛，像野獸一樣互相吞噬 ~ 松野蘭",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/202507311014308484_68032_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-08-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822223631271271.jpg",
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-717"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-824"
     },
     {
-      "id": 6787,
-      "IDcode": "JUR-297",
-      "title": "夜夜被絕倫阿姨榨幹，考生小哥哥性覺醒後瘋狂沉迷連發內射 ~ 鬆野蘭",
+      "id": 13210,
+      "IDcode": "JUQ-792",
+      "title": "为魅惑男人而生的人妻-松野蘭",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092159101101_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daf465d6fbef4e90d2255b/cover.jpg",
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-297"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-792"
     },
     {
-      "id": 7372,
-      "IDcode": "JUR-273",
-      "title": "把精英女上司在出差時監禁強奸，三天降級成我專屬抖M肉奴！~ 鬆野蘭",
+      "id": 11825,
+      "IDcode": "JUQ-892",
+      "title": "麦当娜专属第3弹-松野蘭",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111120254254.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240919/20240919042737929929.jpg",
+      "actress": [
+        "松野蘭",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-892"
+    },
+    {
+      "id": 11196,
+      "IDcode": "JUQ-911",
+      "title": "如果公司的人知道了-松野兰",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/ad8c95e16ba402758944087179a4bad5.jpg",
+      "actress": [
+        "松野蘭",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-911"
+    },
+    {
+      "id": 10417,
+      "IDcode": "JUQ-975",
+      "title": "妻子被体力劳动者中出轮奸-澄河美花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122004655538538.jpg",
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-975"
+    },
+    {
+      "id": 9753,
+      "IDcode": "JUR-148",
+      "title": "中途の人妻社員が肉便器と化すまで、部署全員で輪●し続ける温泉旅行。 松野蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678739b489def9b1b801ba24/cover.jpg",
+      "actress": [
+        "松野蘭",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-148"
+    },
+    {
+      "id": 8842,
+      "IDcode": "JUR-168",
+      "title": "真夜中のデート 夫の知らない別の顔―。 松野蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2f6464e7d663df4e99152/cover.jpg",
+      "actress": [
+        "松野蘭",
+        "ナイアガラ翔"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-168"
     },
     {
       "id": 8087,
       "IDcode": "JUR-195",
-      "title": "初次2泊3日W不倫旅行，我們一直做愛直到避孕套用完爲止 ~ 鬆野蘭",
+      "title": "一直到避孕套用完为止-松野蘭",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-02-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093819265265.jpg",
       "actress": [
         "松野蘭",
@@ -116,54 +184,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-195"
     },
     {
-      "id": 8842,
-      "IDcode": "JUR-168",
-      "title": "午夜約會：我丈夫不認識的另一張面孔 ~ 鬆野蘭",
+      "id": 7372,
+      "IDcode": "JUR-273",
+      "title": "エリート女上司を出張先で監禁、俺専用マゾ奴●に降格させる3日間―。 松野蘭",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123074536441441.jpg",
-      "actress": [
-        "松野蘭",
-        "ナイアガラ翔"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-168"
-    },
-    {
-      "id": 9753,
-      "IDcode": "JUR-148",
-      "title": "本來很美好的公司的溫泉之旅，整個部門都在輪奸人妻女社員，把她調教成了肉便器 ~ 鬆野蘭",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218103926222222.jpg",
-      "actress": [
-        "松野蘭",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-148"
-    },
-    {
-      "id": 10417,
-      "IDcode": "JUQ-975",
-      "title": "能不能幫我一個忙...最好的朋友提出希望我心愛的妻子和他假裝一下戀人，但最惡的結果是我沒有想到的.... ~ 鬆野蘭",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-11-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241122/20241122004655538538.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111120254254.jpg",
       "actress": [
         "松野蘭"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-975"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-273"
+    },
+    {
+      "id": 6787,
+      "IDcode": "JUR-297",
+      "title": "每晚都和精力旺盛的叔叔疯狂做爱-松野蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/15/6825e76d130ac02b587f182f/cover.jpg",
+      "actress": [
+        "松野蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-297"
+    },
+    {
+      "id": 5283,
+      "IDcode": "DDOB-140",
+      "title": "黑絲真空騷貨 172cm抖M美腿讓你爽到爆 ~ 鬆野蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2ec1682e2e9281a548ea/cover.jpg",
+      "actress": [
+        "松野蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-140"
+    },
+    {
+      "id": 3882,
+      "IDcode": "VEC-717",
+      "title": "我要加入邻里协会所以让我操你的老婆吧-松野兰",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/202507311014308484_68032_thumbnail.webp",
+      "actress": [
+        "松野蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-717"
+    },
+    {
+      "id": 3501,
+      "IDcode": "FSTU-012",
+      "title": "高身長食い込みレースクイーン ハイレグファックおま●こピットイン 松野蘭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/37801a10/vod.jpg",
+      "actress": [
+        "松野蘭"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSTU-012"
     }
   ]
 };

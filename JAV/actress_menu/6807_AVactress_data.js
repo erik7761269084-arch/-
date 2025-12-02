@@ -4,7 +4,7 @@ window.actressData = {
   "name": "大塚仁美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106562,
       "IDcode": "JRZE-126",
-      "title": "初撮り人妻ドキュメント 大塚仁美",
+      "title": "初撮人妻-大塚仁美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女人妻最強廠",
-      "publish_date": "2022-09-15",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_086jrze126/h_086jrze126pl.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/23/68804f933ed39b57c0879330/cover.jpg",
       "actress": [
         "大塚仁美"
       ],

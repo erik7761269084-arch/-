@@ -4,7 +4,7 @@ window.actressData = {
   "name": "石川あやみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91992,
       "IDcode": "JUTA-137",
-      "title": "極上！！三十路奥さま初脱ぎAVドキュメント 石川あやみ",
+      "title": "三十岁人妻初脱-夏希栗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-01-02",
-      "cover_url": "",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250601-1/49754cd3c7b49c2cdc0d448d38df9419.jpg",
       "actress": [
         "夏希栗",
         "石川あやみ"

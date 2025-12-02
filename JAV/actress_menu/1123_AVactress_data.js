@@ -43,23 +43,92 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250116/53d0d0d3-8f50-48bc-b0f7-0146c7e8ec67.jpg",
     "https://picture.yoshiclub.xyz/20250116/6cef3660-bd24-40ae-a8c2-ab5b197fae8a.jpg"
   ],
-  "works_count": 1,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 7844,
-      "IDcode": "NPJS-140",
-      "title": "狂熱粉在地下偶像演唱會後成功約炮 偷拍視頻外泄後連同事務所調教SEX一起賣了 ~ 鈴芽由羅",
+      "id": 9093,
+      "IDcode": "MIFD-569",
+      "title": "お騒がせやらせていただきましたァン 元炎上系悪ガキアイドル本物AVデビュー すずめ ゆら すずめゆら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/22/e079b469/vod.jpg",
+      "actress": [
+        "鈴芽由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-569"
+    },
+    {
+      "id": 7844,
+      "IDcode": "NPJS-140",
+      "title": "地下偶像的粉丝在现场结束时联系在一起SEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "NAPA-JAPAN",
-      "publish_date": "2025-03-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227073534534534.jpg",
       "actress": [
         "鈴芽由羅"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-140"
+    },
+    {
+      "id": 3455,
+      "IDcode": "SDMM-207",
+      "title": "話題騒然のサウナミラー号第2弾 移動式サウナに男女2人きり？！の状況で何故かムクムクと膨らんでしまった勃起ち〇こに、気まずさと興奮で発汗効果MAX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250819/20250819104244274274_36264_thumbnail.webp",
+      "actress": [
+        "前田美波",
+        "小野坂唯香",
+        "渡來楓",
+        "鈴芽由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-207"
+    },
+    {
+      "id": 2678,
+      "IDcode": "SDJS-331",
+      "title": "「人は延々と潮を噴かされ続けたらどうなるか？」をSOD女子社員3名が真面目に検証 計82回の拡散！長距離！連続！イクスプロージョン潮噴き実験 SOD性科学ラボREPORT21",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220050854854_87576_thumbnail.webp",
+      "actress": [
+        "一色さら",
+        "小鳩琉璃",
+        "鈴芽由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-331"
+    },
+    {
+      "id": 2157,
+      "IDcode": "COSX-093",
+      "title": "【神乳Hカップ】【ヤリマン】【おじOK】むちむち可愛い爆乳ちょろ系レイヤーと中出しSEX！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Kospaco 叔叔",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "鈴芽由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COSX-093"
     }
   ]
 };

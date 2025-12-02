@@ -28,37 +28,37 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 82627,
-      "IDcode": "GVG-230",
-      "title": "禁断介護 坂口れな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2015-12-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221117-1/027e3b158052fbebe5b44fd356088d3e.jpg",
-      "actress": [
-        "坂口れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-230"
-    },
-    {
       "id": 88220,
       "IDcode": "SGA-026",
       "title": "逸材過ぎる才色兼備人妻 坂口れな 27歳 AVデビュー 「自分の知らないアブノーマルな世界を覗いてみたい…」 AVとは無縁な老舗料亭若女将が…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2015-06-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/442bd6a6930c244bcec5620f6f766c01.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7dd2243008183bce0ae33198c1902618.jpg",
       "actress": [
         "小田切ジュン",
         "坂口れな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SGA-026"
+    },
+    {
+      "id": 82627,
+      "IDcode": "GVG-230",
+      "title": "为了报杀父之仇的人妻-坂口れな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "坂口れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-230"
     }
   ]
 };

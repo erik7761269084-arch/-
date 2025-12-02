@@ -40,20 +40,69 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
-      "id": 4678,
-      "IDcode": "RPIN-087",
-      "title": "肉感爆棚！超火辣OL色情狂，性欲巔峯求大屌猛插！ ~ 南天音",
+      "id": 91989,
+      "IDcode": "JUTA-140",
+      "title": "極上！！三十路奥さま初脱ぎAVドキュメント 水川奈穂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706092841579579_87856_thumbnail.webp",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "2024-04-02",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240624-1/eaf341a54beabce2334446547f9f85f4.jpg",
       "actress": [
         "南天音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-140"
+    },
+    {
+      "id": 93078,
+      "IDcode": "MOND-272",
+      "title": "住在附近的漂亮人妻-南天音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "水晶映像",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240729-1/a6963e1df97401f5446664f493056e08.jpg",
+      "actress": [
+        "南天音",
+        "ミチくん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-272"
+    },
+    {
+      "id": 91556,
+      "IDcode": "ALDN-303",
+      "title": "幸运大叔-南天音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240515-1/4faeaeb64fba63838812c4bc94fd52ff.jpg",
+      "actress": [
+        "南天音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-303"
+    },
+    {
+      "id": 5595,
+      "IDcode": "FJIN-081",
+      "title": "合算12発抜き！！親の再婚でできた義姉は喪女！だらしないのにエロすぎた無防備巨乳な姉に杭打ち中出しされた僕…南天音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042155804804_thumbnail.webp",
+      "actress": [
+        "南天音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-081"
     },
     {
       "id": 5128,
@@ -62,9 +111,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-06-20",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092134322322_thumbnail.webp",
       "actress": [
         "乙愛麗絲",
@@ -87,69 +136,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-150"
     },
     {
-      "id": 5595,
-      "IDcode": "FJIN-081",
-      "title": "一口氣12發爽爆！父母再婚帶來的喪女繼姐太色了，無防備大胸誘惑讓我瘋狂中出 ~ 南天音",
+      "id": 4678,
+      "IDcode": "RPIN-087",
+      "title": "肉感爆棚！超火辣OL色情狂，性欲巔峯求大屌猛插！ ~ 南天音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-05-31",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531042155804804_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706092841579579_87856_thumbnail.webp",
       "actress": [
         "南天音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FJIN-081"
-    },
-    {
-      "id": 93078,
-      "IDcode": "MOND-272",
-      "title": "【FANZA限定】綺麗な近所の奥さんが 南天音 チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2024-06-12",
-      "cover_url": "",
-      "actress": [
-        "南天音",
-        "ミチくん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOND-272"
-    },
-    {
-      "id": 91556,
-      "IDcode": "ALDN-303",
-      "title": "【FANZA限定】おっさんラッキー 南天音 チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2024-04-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240515-1/11af6d087c5690930be39a6101606160.jpg",
-      "actress": [
-        "南天音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-303"
-    },
-    {
-      "id": 91989,
-      "IDcode": "JUTA-140",
-      "title": "極上！！三十路奥さま初脱ぎAVドキュメント 水川奈穂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-04-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240624-1/eaf341a54beabce2334446547f9f85f4.jpg",
-      "actress": [
-        "南天音"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-087"
     }
   ]
 };

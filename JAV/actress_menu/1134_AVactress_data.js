@@ -43,50 +43,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/雪奈真冬.jpg",
     "https://picture.yoshiclub.xyz/20231126/79e4fd09-1b9b-42e5-9060-c2c476381833.jpg"
   ],
-  "works_count": 5,
+  "works_count": 9,
   "related_dramas": [
-    {
-      "id": 5307,
-      "IDcode": "MUDR-318",
-      "title": "擁有超大雞巴的陰鬱男被全班女生圍着求幹，瘋狂開幹的後宮大亂交 ~ 有加裏乃乃花 早見奈奈 泉莉音 伊織雛乃 雪奈真冬 香月えりさ 須崎美羽 天乃のあ 宮ノ木しゅんか 木之內奈々葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061939367367_thumbnail.webp",
-      "actress": [
-        "泉莉音",
-        "有加里乃乃花",
-        "伊織雛乃",
-        "天乃のあ",
-        "須崎美羽",
-        "宮ノ木しゅんか",
-        "早見奈奈",
-        "香月えりさ",
-        "雪奈真冬",
-        "木之内奈々葉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
-    },
-    {
-      "id": 68232,
-      "IDcode": "PFAS-032",
-      "title": "令和ザ・スワップ 夫婦交換 人妻姉妹スワッピング同盟",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FAプロ",
-      "publish_date": "2025-04-01",
-      "cover_url": "",
-      "actress": [
-        "美泉咲",
-        "雪奈真冬"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-032"
-    },
     {
       "id": 87429,
       "IDcode": "DOKS-567",
@@ -94,7 +52,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OFFICE K’S",
       "publish_date": "2022-08-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/73cf6a28befa9736b2af0914d5e563c7.jpg",
@@ -113,10 +71,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2021-12-14",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/316a8538029c098a0474149c5995532b.jpg",
       "actress": [
         "大浦真奈美",
         "雪奈真冬",
@@ -126,16 +84,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-156"
     },
     {
-      "id": 73612,
-      "IDcode": "MIRD-188",
-      "title": "いつでもどこでも時間停止して中出しできる学園IV",
+      "id": 103256,
+      "IDcode": "MEKI-001",
+      "title": "外は灼熱の真夏日なのに部屋のエアコンが故障！？暑さに我慢できずスカートの奥のパンツに扇風機を当ててる‘無防備’な制服姿の女の子を見てたら…そりゃあ男なら、我慢できません！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2019-07-01",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-08-27",
       "cover_url": "",
+      "actress": [
+        "雪奈真冬",
+        "市桥惠理奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKI-001"
+    },
+    {
+      "id": 73612,
+      "IDcode": "MIRD-188",
+      "title": "变态猥琐头教师带领全班男生停止时间把校园内的女学生干个遍",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e74cac179ffb1db5fdafb/cover.jpg",
       "actress": [
         "枢木葵",
         "大島愛里亞",
@@ -148,6 +123,97 @@ window.actressData = {
         "咲良ゆめ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-188"
+    },
+    {
+      "id": 68232,
+      "IDcode": "PFAS-032",
+      "title": "夫妻交換",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美泉咲",
+        "雪奈真冬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFAS-032"
+    },
+    {
+      "id": 17655,
+      "IDcode": "MISM-295",
+      "title": "顔面崩壊特化專業深喉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "えむっ娘ラボ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6cf38f1cbfc7a9c7dc5d/cover.jpg",
+      "actress": [
+        "雪奈真冬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-295"
+    },
+    {
+      "id": 15767,
+      "IDcode": "ATID-595",
+      "title": "我對不起你…… 我瞞着丈夫，無法停止我那變態的欲望。已婚護士 雪奈真冬",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a2fceac813dc779d96118/cover.jpg",
+      "actress": [
+        "雪奈真冬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-595"
+    },
+    {
+      "id": 10327,
+      "IDcode": "ATID-609",
+      "title": "第一次尝试黑人巨大阴茎-雪奈真冬",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/202411281026489999.jpg",
+      "actress": [
+        "雪奈真冬",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-609"
+    },
+    {
+      "id": 5307,
+      "IDcode": "MUDR-318",
+      "title": "擁有大吉肉棒的陰沉男生讓班上的女生為了升級效果而群聚-有加里ののか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/05/6891905cc92318f97d7ffd26/cover.jpg",
+      "actress": [
+        "泉莉音",
+        "有加里乃乃花",
+        "伊織雛乃",
+        "天乃のあ",
+        "須崎美羽",
+        "宮ノ木しゅんか",
+        "早見奈奈",
+        "香月えりさ",
+        "雪奈真冬",
+        "木之内奈々葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "篠宮友香",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 3876,
       "IDcode": "JUTA-175",
-      "title": "極品四十路人妻首次全裸AV紀實 ~ 篠宮友香",
+      "title": "四十多岁妻子的首部裸体AV纪录片-篠宮友香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "熟女JAPAN",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101130541541_33672_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/1a56294a2809979300dca2463e3971c6.jpg",
       "actress": [
         "篠宮友香"
       ],

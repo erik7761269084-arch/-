@@ -39,40 +39,178 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231228/5da2956a-47af-481b-8383-d895422bc392.jpg",
     "https://picture.yoshiclub.xyz/20231228/e906856f-4207-493c-b1e8-9755064ee1a0.jpg"
   ],
-  "works_count": 3,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 4184,
-      "IDcode": "SCPX-534",
-      "title": "素人女大學生假陽具忍耐挑戰1000次！撐住贏百萬，忍不住的懲罰就要當場被幹SEX ~ 相沢澪 弘中優 上白美央 天乃のあ 宇佐美みおん 春日惠奈",
+      "id": 6844,
+      "IDcode": "KSBJ-375",
+      "title": "光滑無毛超誘惑！無毛熟女精選50人集結 ~ 君島美緒 弘中優 永田莉雨 本田瞳 廣瀨里緒菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SCOOP",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221245451451_77003_thumbnail.webp",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "2025-04-12",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/20250414112455110110_thumbnail.webp",
       "actress": [
-        "天乃のあ",
+        "本田瞳",
+        "君島美緒",
         "弘中優",
-        "宇佐美みおん",
-        "相沢澪",
-        "春日惠奈",
-        "上白美央"
+        "赤瀬尚子",
+        "廣瀨里緒菜",
+        "仲野梢",
+        "佐々木咲和"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-534"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-375"
+    },
+    {
+      "id": 8409,
+      "IDcode": "RVG-232",
+      "title": "禁斷介護 大合集 BEST VOL.20 ~ 弘中優 朝日奈花戀 百瀨凜花 Nia 北野未奈 廣瀨里緒菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2025-02-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250208/202502080842006565.jpg",
+      "actress": [
+        "北野未奈",
+        "Nia",
+        "弘中優",
+        "廣瀨里緒菜",
+        "百瀬凛花",
+        "朝日奈花戀"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-232"
+    },
+    {
+      "id": 9375,
+      "IDcode": "MMPB-064",
+      "title": "屁股中間很光滑很嫩！ ！ 高美感！ ！ 給淫蕩的無毛小穴超多中出 ~ 弘中優 本田瞳 彌生美月 辻井ほのか 美衣みかな 末広純",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2025-01-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250105/80fef5a3-9756-4d35-a285-71c60386f3c1.jpg",
+      "actress": [
+        "彌生美月",
+        "末広純",
+        "辻井穗乃果",
+        "本田瞳",
+        "花衣つばき",
+        "弘中優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-064"
+    },
+    {
+      "id": 9615,
+      "IDcode": "UMSO-578",
+      "title": "理性喪失！愛液滿滿溢出的恥辱部位刺激！21位美人自慰大合集！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2024-12-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/8b010c65-23e7-4517-9a2d-1598c8092e79.jpg",
+      "actress": [
+        "波多野结衣",
+        "通野未帆",
+        "鈴木真夕",
+        "弘中優",
+        "皇柚子",
+        "水谷心音",
+        "宮村菜菜子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-578"
+    },
+    {
+      "id": 13146,
+      "IDcode": "AARM-242",
+      "title": "想要姐姐色色的大屁股壓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "2024-07-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240722/06f1113d-0628-4856-abdb-7ea93990007e.jpg",
+      "actress": [
+        "岬櫻",
+        "豊岡さつき",
+        "弘中優",
+        "百咲未色",
+        "宗像れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-242"
+    },
+    {
+      "id": 15367,
+      "IDcode": "PKYS-011",
+      "title": "女優的最後一天：弘中優，性格SSSSS、深受業內人士喜愛的女優還是退役了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-04-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240416/20240416062915529529.jpg",
+      "actress": [
+        "弘中優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKYS-011"
+    },
+    {
+      "id": 17161,
+      "IDcode": "KANO-014",
+      "title": "中出調情溫泉之旅 弘中優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "月刊彼女",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/e364cf9f7341be16724691e2c018e638.jpg",
+      "actress": [
+        "弘中優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-014"
+    },
+    {
+      "id": 10487,
+      "IDcode": "AARM-263",
+      "title": "ショートパンツスーツのふともも×腿こき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c37473735bb663f77ce915/cover.jpg",
+      "actress": [
+        "和久井美兎",
+        "桐香悠裡",
+        "音羽美鈴",
+        "弘中優",
+        "森下ことの",
+        "杉咲しずか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-263"
     },
     {
       "id": 9785,
       "IDcode": "AARM-268",
-      "title": "「69大合集」互相舔吸對方的雞巴和乳頭 ~ 弘中優 仲川空 青田悠華 円井萌華 宇流木沙羅 等",
+      "title": "互相舔舐乳头",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241219/c6d4b21f-2753-40ec-a450-b49bfd5dadb9.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250120-1/60026e4d596d784d4af1cf75e96fa6f0.jpg",
       "actress": [
         "宇流木沙羅",
         "円井萌華",
@@ -85,20 +223,53 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-268"
     },
     {
-      "id": 17161,
-      "IDcode": "KANO-014",
-      "title": "中出調情溫泉之旅 弘中優",
+      "id": 4184,
+      "IDcode": "SCPX-534",
+      "title": "素人女子大生クンニ我慢チャレンジ1000ペロ耐えたら100万円 イッたら罰ゲーム即生中出しSEX 2枚組6人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "月刊彼女",
-      "publish_date": "2023-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231221/d73f2025-a46a-4659-acc7-6500297d33ef.jpg",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221245451451_77003_thumbnail.webp",
       "actress": [
-        "弘中優"
+        "天乃のあ",
+        "弘中優",
+        "宇佐美みおん",
+        "相沢澪",
+        "春日惠奈",
+        "上白美央"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KANO-014"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-534"
+    },
+    {
+      "id": 2274,
+      "IDcode": "MMPB-096",
+      "title": "【半中半外】至高のマ●コにリアル中出し13人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天馬唯",
+        "田中寧寧",
+        "由良佳奈",
+        "友田彩也香",
+        "一条美緒",
+        "绀野光",
+        "美波梢",
+        "鳳可怜",
+        "蘭々",
+        "弘中優",
+        "辻櫻",
+        "香椎佳穂",
+        "七碧乃蒼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-096"
     }
   ]
 };

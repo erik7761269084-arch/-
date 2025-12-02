@@ -4,7 +4,7 @@ window.actressData = {
   "name": "白雪姫",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-06-30",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230828-1/240eecf5e10c03df050416ba7c467b2a.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/17236a1e65a8a0ba209a7df89c8a5a6d.jpg",
       "actress": [
         "白雪姫"
       ],

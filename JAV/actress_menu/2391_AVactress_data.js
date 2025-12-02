@@ -23,13 +23,13 @@ window.actressData = {
     {
       "id": 7437,
       "IDcode": "KSBJ-367",
-      "title": "“咕嘰咕嘰”響不停，美熟女抖着爽到高潮28連發！！VOL.05 ~ 汐河佳奈 翔田千裏 矢吹京子 上原千佳 永野つかさ 谷梓 水川蓳 緒方泰子",
+      "title": "クチュクチュ音を立て、ビクビクとイキまくる美熟女のオナニー28連発！！VOL.05",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-03-18",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250319/20250319104300691691.jpg",
       "actress": [
         "小早川怜子",

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "森川玉緒",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 107569,
       "IDcode": "SDJS-184",
-      "title": "中山琴葉・森川玉緒でユーザー様のお宅へ中出しOK訪問 逆3P特別待遇スペシャル!",
+      "title": "到用户家中出OK访问",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-04-20",
-      "cover_url": "https://tutu1.space/images/2023/05/17/40240c3c2d8f4fe0795b5aab0a859e50.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "中山琴叶",
         "森川玉緒"
@@ -38,14 +38,14 @@ window.actressData = {
     {
       "id": 80978,
       "IDcode": "SDJS-139",
-      "title": "超敏感身軀顫抖扭捏隨著本能覺醒！瘋狂高潮做愛！～也挑戰初次3P～ 森川玉緒",
+      "title": "非常敏感的身体-森川玉绪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2022-03-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/de32e4096d555914f61a5c11fc2d823a.jpg",
       "actress": [
         "森川玉緒"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "宫崎リン",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,46 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 13,
+  "works_count": 14,
   "related_dramas": [
-    {
-      "id": 8364,
-      "IDcode": "HUBLK-044",
-      "title": "集體睡眠奸：某大學活動訓練營合宿中，我們將安眠藥放入來自農村的女新生的飲料中，然後強奸她們 ~ 二宮桃 宮崎玲 星仲ここみ 碓井せりな NATSUKA 真白みのり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080729844844.jpg",
-      "actress": [
-        "二宮桃",
-        "碓井せりな",
-        "真白みのり",
-        "星仲ここみ",
-        "宮崎玲",
-        "NATSUKA",
-        "宫崎リン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-044"
-    },
-    {
-      "id": 91496,
-      "IDcode": "BACJ-076",
-      "title": "【FANZA限定】W甘サドお姉さまの密着ハーレム痴女エステ 宮崎リン 野咲美桜 宮崎リンさんのパンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2023-10-11",
-      "cover_url": "",
-      "actress": [
-        "宫崎リン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-076"
-    },
     {
       "id": 89759,
       "IDcode": "SABA-851",
@@ -63,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S級素人",
       "publish_date": "2023-09-12",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240108-1/fa0c70df569ca90d8bfb451b737ef75c.jpg",
@@ -80,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231122/IIAvFzjk/1.jpg",
       "actress": [
         "宫泽千春",
         "大島愛里亞",
@@ -100,10 +62,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-05-30",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231122/17WpcyKo/1.jpg",
       "actress": [
         "儿玉玲奈",
         "爱须みのん",
@@ -112,48 +74,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-139"
     },
     {
-      "id": 86184,
-      "IDcode": "SDJS-169",
-      "title": "SOD女子社員・宮崎リンに即尺アプリ『nukeruクン』開発命令!今すぐヌキたい人とシャブリたい人をマッチングできる新アプリ!24時間モニター体験!",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-10-20",
-      "cover_url": "",
-      "actress": [
-        "宫崎リン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-169"
-    },
-    {
-      "id": 86157,
-      "IDcode": "SDJS-158",
-      "title": "宮崎リンが業務命令で廃業寸前の風俗店をプロデュース!オナクラ・メンズエステ・ヘルス!真夏の御奉仕セックス3本番!",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-08-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230203-1/d70790f16434b6ff29dd7cff386cf639.jpg",
-      "actress": [
-        "宫崎リン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-158"
-    },
-    {
       "id": 80728,
       "IDcode": "HUNTB-234",
       "title": "『童貞のお兄ちゃん…私のテクニックに3分我慢出来たらエッチさせてあげるよ！特別に中に出してもいいよ』義妹の本性はウブの仮面をかぶった…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-03-22",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/519d13bd91b213d94aa85323a11f0cc8.jpg",
       "actress": [
         "水卜麻衣奈",
         "宫崎リン"
@@ -167,7 +97,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2022-03-01",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/da4657cb32b889888596c136f9a0ab24.jpg",
@@ -184,10 +114,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2022-02-22",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/1d7dfaac553707e807515f23ad7b7be3.jpg",
       "actress": [
         "宫崎リン"
       ],
@@ -200,8 +130,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2022-02-08",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3196ccda4bcd99406026f567ac883870.jpg",
       "actress": [
@@ -215,18 +145,34 @@ window.actressData = {
     {
       "id": 93554,
       "IDcode": "MVSD-472",
-      "title": "白衣の乳首エンジェル 小悪魔スマイルで癒しいやらしビーチク射精看護 宮崎リン",
+      "title": "白衣小悪魔-宮崎リン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MVG GROUP",
-      "publish_date": "2021-07-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/7cd10498681a3dd47e4e90c5004355d2.jpg",
       "actress": [
         "宫崎リン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-472"
+    },
+    {
+      "id": 91496,
+      "IDcode": "BACJ-076",
+      "title": "【FANZA限定】W甘サドお姉さまの密着ハーレム痴女エステ 宮崎リン 野咲美桜 宮崎リンさんのパンティと生写真付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240513-1/1b0bca6a723abc6a9814c10853b89f62.jpg",
+      "actress": [
+        "宫崎リン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-076"
     },
     {
       "id": 87648,
@@ -235,14 +181,84 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2020-12-10",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/32cada5ec886c7a74b25017df283888f.jpg",
       "actress": [
         "宫崎リン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-098"
+    },
+    {
+      "id": 86184,
+      "IDcode": "SDJS-169",
+      "title": "为那些想现在就上床的人牵线搭桥",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2dcbc36e34926adfbc168b80fc09bed8.jpg",
+      "actress": [
+        "宫崎リン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-169"
+    },
+    {
+      "id": 86157,
+      "IDcode": "SDJS-158",
+      "title": "男士美容沙龙-宮崎リン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c40862ce3c3dc40394c790e773f8423b.jpg",
+      "actress": [
+        "宫崎リン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-158"
+    },
+    {
+      "id": 15325,
+      "IDcode": "HUNTC-053",
+      "title": "两个极端的青梅竹马",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240601-1/fb4626e13fa62ce40f24a006d1300ac2.jpg",
+      "actress": [
+        "宫崎リン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-053"
+    },
+    {
+      "id": 8364,
+      "IDcode": "HUBLK-044",
+      "title": "集団睡眠姦 大学のイベサー合宿で地方出身の新入生女子たちの酒に睡眠薬を盛って眠らせて、全員好きなだけ犯してヤリました。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080729844844.jpg",
+      "actress": [
+        "二宮桃",
+        "碓井せりな",
+        "真白みのり",
+        "星仲ここみ",
+        "宮崎玲",
+        "NATSUKA",
+        "宫崎リン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-044"
     }
   ]
 };

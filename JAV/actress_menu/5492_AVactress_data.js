@@ -28,19 +28,37 @@ window.actressData = {
     "Akina"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 88202,
-      "IDcode": "SCPX-196",
-      "title": "オッパイ美人な叔母さんに家庭教師をお願いしたら隣の谷間に童貞チ○ポは勃起っぱなし！動かさないって約束するからと肉厚なドテ素股でヌイてもらうはずが高まりすぎちゃって熱い膣内にビックバン！！",
+      "id": 99535,
+      "IDcode": "HAR-024",
+      "title": "社内で盛られた媚薬で発情し生中セックスでイキまくる女子新入社員",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-03-02",
+      "cover_url": "",
+      "actress": [
+        "美咲佳奈",
+        "柳美和子",
+        "白间れおな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAR-024"
+    },
+    {
+      "id": 88202,
+      "IDcode": "SCPX-196",
+      "title": "赤裸裸的性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2017-04-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/4b50b99f80b9b6f16c02891479b77800.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/e4d8d9db738b23193dc98a8a1a7a2e4a.jpg",
       "actress": [
         "月本爱",
         "若菜まゆ",

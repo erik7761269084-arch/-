@@ -4,7 +4,7 @@ window.actressData = {
   "name": "レイニー・グレイ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106782,
       "IDcode": "WKD-033",
-      "title": "挑発面接室 in USA レイニー・グレイ",
+      "title": "挑発面接室",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-09-04",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/09/20/4bc9cd6a2d5c27a64ea2558fd927abd8.jpg",
       "actress": [
         "レイニー・グレイ"
       ],

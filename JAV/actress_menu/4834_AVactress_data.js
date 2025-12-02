@@ -24,8 +24,27 @@ window.actressData = {
     "Nakazato Sawa"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 98458,
+      "IDcode": "DOMD-007",
+      "title": "「実は私、脅迫されてて…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "原千尋",
+        "江波りゅう（RYU)",
+        "香澄果穗",
+        "本田莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOMD-007"
+    },
     {
       "id": 78527,
       "IDcode": "CLO-035",
@@ -33,10 +52,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-04-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241107-1/889dc5be3cb52766946d22d198b522b2.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/37e994f0d5336581f88a327d61a1ad9d.jpg",
       "actress": [
         "本田莉子"
       ],

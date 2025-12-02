@@ -44,54 +44,1010 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231020/630d4b90-eb96-468a-ba0e-b8722d1b1d70.jpg",
     "https://picture.yoshiclub.xyz/20231020/20593cb2-e59f-4df3-b77a-ef4d11443575.jpg"
   ],
-  "works_count": 31,
+  "works_count": 61,
   "related_dramas": [
     {
-      "id": 3073,
-      "IDcode": "GVH-775",
-      "title": "地雷系女網紅被弱男輪⬤ 失禁潮吹強制口爆 ~ 皆瀨明裏",
+      "id": 4646,
+      "IDcode": "KTRA-728",
+      "title": "小惡魔痴女的致命勾引 4小時 ~ 希咲那奈 皆瀨明里 花衣椿 沖田里緒 守永葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210600854854_39908_thumbnail.webp",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103943563563_92993_thumbnail.webp",
+      "actress": [
+        "皆瀨明里",
+        "希咲那奈",
+        "花衣つばき",
+        "沖田里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-728"
+    },
+    {
+      "id": 6165,
+      "IDcode": "REAL-915",
+      "title": "無毛蘿莉被強制侵犯 極品美人娘合集 SUPER BEST 240分鍾 ~ 鬆本一香 逢見梨花 皆月光 彌生美月 有村希 天馬唯 胡桃櫻花 皆瀨明裏 美園和花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/202505100602469797_thumbnail.webp",
+      "actress": [
+        "美園和花",
+        "天馬唯",
+        "彌生美月",
+        "松本一香",
+        "皆月光",
+        "末広純",
+        "新村朱里",
+        "沙月惠奈",
+        "胡桃櫻花",
+        "吉根柚莉爱",
+        "有村希",
+        "皆瀨明里",
+        "冬愛琴音",
+        "若宮葉月",
+        "逢見梨花",
+        "日泉舞香",
+        "宫泽千春",
+        "広瀬みつき",
+        "佐倉陽菜",
+        "大空七海",
+        "赤瀬尚子",
+        "佐野なつ",
+        "河北春菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-915"
+    },
+    {
+      "id": 6563,
+      "IDcode": "TENN-034",
+      "title": "美少女 野外青奸 露出調教輪奸 ~ 鳥楽ひな 露梨あやせ 皆瀨明裏 如月りいさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "2025-04-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427112134635635_thumbnail.webp",
+      "actress": [
+        "皆瀨明里",
+        "如月りいさ",
+        "鳥楽ひな",
+        "露梨あやせ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TENN-034"
+    },
+    {
+      "id": 7659,
+      "IDcode": "KTRA-704",
+      "title": "光溜溜的小穴中出！！無毛美少女合集 4小時 ~ 皆瀨明裏 早美憐夢 佐倉陽菜 池內遙 平花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250309/32ae1c43-9db5-4e79-8f01-d1dff85cc769.jpg",
+      "actress": [
+        "皆瀨明里",
+        "佐倉陽菜",
+        "池内遥",
+        "早美怜夢",
+        "平花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-704"
+    },
+    {
+      "id": 9604,
+      "IDcode": "DAZD-220",
+      "title": "64名美女4小時60次連續強暴，暴力活塞接連襲來，高潮不斷。強暴大合集",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/20241225032906842842.jpg",
+      "actress": [
+        "森澤佳奈",
+        "天馬唯",
+        "倉本菫",
+        "都月楓",
+        "椿莉香",
+        "松本一香",
+        "沙月惠奈",
+        "五日市芽依",
+        "木下日葵",
+        "美咲佳奈",
+        "吉根柚莉爱",
+        "白石桃",
+        "田中寧寧",
+        "美谷朱里",
+        "藤森里穂",
+        "皆瀨明里",
+        "辻井穗乃果",
+        "黑川堇",
+        "月野江翠",
+        "百永纱里奈",
+        "渚光希",
+        "小花暖",
+        "東條夏",
+        "尾崎惠梨香",
+        "優梨舞奈",
+        "冬愛琴音",
+        "月乃露娜",
+        "齋藤亞美里",
+        "沙月芽衣",
+        "花狩舞",
+        "加藤桃香",
+        "水原みその",
+        "篠田優",
+        "水川蓳",
+        "根尾朱里",
+        "向井藍",
+        "夏希栗",
+        "弓乃凜夢",
+        "仓多真央",
+        "前乃菜菜",
+        "日泉舞香",
+        "小栗操",
+        "加藤ツバキ",
+        "君島美緒",
+        "蘭々",
+        "初川南",
+        "藤野つかさ",
+        "浅田結梨",
+        "天然美月",
+        "水谷梨明日",
+        "星宮菜奈",
+        "七海るな",
+        "丹羽すみれ",
+        "愛沢さら",
+        "七瀬るい",
+        "かわきためいさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-220"
+    },
+    {
+      "id": 11945,
+      "IDcode": "FLAV-369",
+      "title": "淫蕩女學生快樂中毒成爲大屁股的性欲怪物 ~ 皆瀨明裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DIGITALARK",
+      "publish_date": "2024-09-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20240916/cf0d4ddc-bc07-4e56-a10c-426ed079f28f.jpg",
       "actress": [
         "皆瀨明里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-775"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FLAV-369"
     },
     {
-      "id": 3287,
-      "IDcode": "REAL-932",
-      "title": "被綁架的女學生隨便玩弄，喉嚨和肉洞被徹底侵犯的凌辱風俗2 ~ 皆瀨明里 逢月日葵 有村希",
+      "id": 13296,
+      "IDcode": "SUJI-243",
+      "title": "●學生強奸：尾隨、伏擊、欺騙、強行催情、帶入、綁架、監管、輪奸 ~ 皆瀬あかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033921770770_69667_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240714/20240714023822970970.jpg",
       "actress": [
-        "有村希",
-        "皆瀨明里",
-        "逢月日葵",
-        "ラヴズ"
+        "皆瀨明里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-932"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-243"
+    },
+    {
+      "id": 14916,
+      "IDcode": "NHDTB-916",
+      "title": "膽小的女學生在夜間公交車上睡着時陰道被人用手指插入了，太害怕了假裝睡着卻高潮了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240509/20240509012232399399.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-916"
+    },
+    {
+      "id": 15249,
+      "IDcode": "DAZD-196",
+      "title": "我不想要了！制服凌亂的美少女未成熟的陰道沾滿大量濃稠的精液，青春就此崩塌！中出4小時",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2024-04-23",
+      "cover_url": "https://picture.yoshiclub.xyz/20240420/20240420033806510510.jpg",
+      "actress": [
+        "天馬唯",
+        "倉本菫",
+        "皆瀨明里",
+        "绫濑心",
+        "小栗操",
+        "久留木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAZD-196"
+    },
+    {
+      "id": 18191,
+      "IDcode": "MGMJ-064",
+      "title": "誰都無法阻止皆瀬あかり的黑絲美腳誘惑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MEGAMI",
+      "publish_date": "2023-10-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20231023/20231023231534418418.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGMJ-064"
+    },
+    {
+      "id": 18264,
+      "IDcode": "CPDE-062",
+      "title": "最強屬性62 水瀨明里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "最強屬性",
+      "publish_date": "2023-10-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20231020/119402f8-0944-4c54-832f-d51bb82095bd.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CPDE-062"
+    },
+    {
+      "id": 84267,
+      "IDcode": "DASS-075",
+      "title": "俺から逃げれると思うなよ 教師失格。教え子ゴチソウサマ。体液どろねちゃ卑劣調教 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DASDAS",
+      "publish_date": "2022-10-11",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c28e3b3ba74f50035a9dffbb4deede03.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-075"
+    },
+    {
+      "id": 87316,
+      "IDcode": "CEMD-237",
+      "title": "絶叫！悶絶！ポルチオ開発！子宮の奥にある奥の奥でイク女7 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "2022-09-24",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5e13d44c0fba906835716731ef3a380.jpg",
+      "actress": [
+        "皆瀨明里",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-237"
+    },
+    {
+      "id": 155473,
+      "IDcode": "MUDR-213",
+      "title": "我的父母抛弃了我-皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-4/cc175328fa48be9ded4b020de8a81840.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-213"
+    },
+    {
+      "id": 87437,
+      "IDcode": "DGCEMD-237",
+      "title": "★配信限定！特典映像付★絶叫！闷絶！ポルチオ开発！子宫の奥にある奥の奥でイク女7",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230726-1/35969c5afba1a00d47c58c4f567a7fa0.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-237"
+    },
+    {
+      "id": 86137,
+      "IDcode": "SAN-077",
+      "title": "【FANZA限定】夫の上司に抱かれ過ぎて誰の子かわからない子供を妊娠してしまった妻 / 皆瀬あかり チェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8c6a7dcb7d1d0d3e97408e3d4d745f52.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-077"
+    },
+    {
+      "id": 84433,
+      "IDcode": "FOCS-084",
+      "title": "快感悶絶15発射-皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-084"
+    },
+    {
+      "id": 13366,
+      "IDcode": "MUDR-273",
+      "title": "舔耳朵直到變傻，受虐狂M男的受虐感 ~ 皆月光 皆瀨明裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/e5a9ae573ec5846245e51584be3c893b.jpg",
+      "actress": [
+        "皆月光",
+        "皆瀨明里",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-273"
+    },
+    {
+      "id": 11587,
+      "IDcode": "GVH-690",
+      "title": "妹が友達を連れてウチに泊まりにきた！両親が居ない間によだれ飲まされ続け、モノの見事にM堕ちメスイキまでさせられてしまった 皆瀬あかり希咲那奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240930/a41a7064-a9ce-4e9e-9cd5-f8cde326054a.jpg",
+      "actress": [
+        "皆瀨明里",
+        "希咲那奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-690"
+    },
+    {
+      "id": 11077,
+      "IDcode": "T-38018",
+      "title": "田舎育ちの日焼けメスガキを絶倫汚チ●ポでわからせる！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241025/d5f845e5-f752-454e-be45-336a1b8b7ff0.jpg",
+      "actress": [
+        "望月蕾",
+        "皆瀨明里",
+        "美咲音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=T-38018"
+    },
+    {
+      "id": 10818,
+      "IDcode": "MIST-454",
+      "title": "危険日直撃！！子作りできる派遣メイド 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Mr.Michiru",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb37114e7d663df4c48f6f/cover.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-454"
+    },
+    {
+      "id": 10563,
+      "IDcode": "MUDR-278",
+      "title": "ツンデレの楓と天然クールな鈴。双子の美少女に囲まれるエッチな学園生活がはじまる！ 皆月ひかる 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678893f35d57b64bfd2c8f60/cover.jpg",
+      "actress": [
+        "皆月光",
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-278"
+    },
+    {
+      "id": 10559,
+      "IDcode": "MUKD-516",
+      "title": "オジサンの事を見下している生意気な少女達を理解らせWレ×プ あかり かな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67887fac5d57b64bfd2c046e/cover.jpg",
+      "actress": [
+        "由良佳奈",
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-516"
+    },
+    {
+      "id": 9996,
+      "IDcode": "GOUL-009",
+      "title": "凌辱绝望の负债母女：暴力胁迫还债の日常实录 小早川怜子×皆瀬明里 高利贷恶汉强制轮X家庭崩坏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241212/824b08f8-8602-43b6-8302-44325f392d3d.jpg",
+      "actress": [
+        "皆瀨明里",
+        "小早川怜子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOUL-009"
+    },
+    {
+      "id": 9551,
+      "IDcode": "217MIHA-094",
+      "title": "危険日直撃 子作り出来るJ● 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Mr.Michiru",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787cdd55d57b64bfd0f8605/cover.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=217MIHA-094"
+    },
+    {
+      "id": 9489,
+      "IDcode": "LOL-240",
+      "title": "このあと…わたし、門限までセックスした…パイパン●学生あかり 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLAYz",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c91f5d57b64bfd0eea33/cover.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-240"
+    },
+    {
+      "id": 8607,
+      "IDcode": "DSJH-010",
+      "title": "媚薬オイルエステ 乳首責め×エビ反り×連続痙攣アクメ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/c5f786ed270f96bbf4090a8a2821d53d.jpg",
+      "actress": [
+        "皆月光",
+        "由良佳奈",
+        "皆瀨明里",
+        "千石もなか",
+        "長谷川礼奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSJH-010"
+    },
+    {
+      "id": 8200,
+      "IDcode": "DVMM-208",
+      "title": "乳首とお股を隠してるはずなのに逆に目立って大赤面！共演男性モデルとの追い打ちハレンチポージング羞恥で濡れちゃったJDオマ○コにヌルっとデカチン生挿入…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250217/c3790989-c2a7-47b8-918c-0f60f7f26d96.jpg",
+      "actress": [
+        "皆瀨明里",
+        "雅子裡菜",
+        "菜月光",
+        "有馬美玖"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-208"
+    },
+    {
+      "id": 8028,
+      "IDcode": "REAL-893",
+      "title": "失禁イキ痴●列車 塾帰りの電車の中、媚薬で徐々に改造され放尿・潮吹きが癖付いたJ〇をイカセ続ける。 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250223/a4ee7efd-915e-4db4-872d-cfdef13ae380.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-893"
+    },
+    {
+      "id": 7840,
+      "IDcode": "NPJS-163",
+      "title": "悪徳メンエス店長の芋づる式懲らしめ動画 本番強要されたとインフルエンサーにタレコミして飛んだあかり、アウト。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250227/2025022707351777.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-163"
+    },
+    {
+      "id": 7773,
+      "IDcode": "SCR-335",
+      "title": "泥●ギャル連れ込み中出しレ●プ映像",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLAYz",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/e1662724-a251-4b13-973b-79c598f72e6d.jpg",
+      "actress": [
+        "小那海綾",
+        "春陽萌花",
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-335"
+    },
+    {
+      "id": 7766,
+      "IDcode": "MILK-237",
+      "title": "陽キャJ○の従順ペット 舐め犬先生飼い始めました！！皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4b82a5f03a092cf66fe95/cover.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-237"
+    },
+    {
+      "id": 7640,
+      "IDcode": "HSODA-060",
+      "title": "可以時間停止的神奇學生宿舍 用神器隨時插進拔出想停就停 ~ 柏木小夏 五十嵐清華 皆瀨明里 愛瀨優里 鬆丸香澄",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dedd4fdbf24d4ed317eadf/cover.jpg",
+      "actress": [
+        "柏木小夏",
+        "皆瀨明里",
+        "五十嵐清華",
+        "愛瀬優里",
+        "松丸香澄"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-060"
+    },
+    {
+      "id": 7228,
+      "IDcode": "MIAB-427",
+      "title": "時間停止学校 ［時間停止アプリでTIME STOP］ 虐めてくる美形ヤンキー女もいつも勉強ばかりしてる眼鏡優等生もクラスで目立ってる金髪ギャル女も…時間を止めてたっぷりじっくりしっかり堪能する！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250723-1/55ccfd7b1770b07ef885be9dee4e50fb.jpg",
+      "actress": [
+        "木下日葵",
+        "皆瀨明里",
+        "椎名心春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-427"
+    },
+    {
+      "id": 7157,
+      "IDcode": "MIZD-446",
+      "title": "我也想擁有這種甜蜜青春！被超色激萌制服J系多次癡女榨精的我BEST ~ 新有菜 石川澪 小野六花 鬆本一香 美園和花 等40人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f2706a0063c92fb9fa243/cover.jpg",
+      "actress": [
+        "美園和花",
+        "天馬唯",
+        "倉本菫",
+        "乙愛麗絲",
+        "柏木小夏",
+        "松本一香",
+        "森日向子",
+        "末広純",
+        "沙月惠奈",
+        "白石桃",
+        "新井里真",
+        "新有菜",
+        "皆瀨明里",
+        "宍戸里帆",
+        "绫濑心",
+        "渚光希",
+        "東條夏",
+        "星乃夏月",
+        "七泽美亚",
+        "響乃詩",
+        "石原希望",
+        "五芭",
+        "希咲那奈",
+        "花狩舞",
+        "宮下玲奈",
+        "小野六花",
+        "八木奈々",
+        "葵伊吹",
+        "水原みその",
+        "石川澪",
+        "水卜櫻",
+        "円井萌華",
+        "蘭華",
+        "琴音華",
+        "広瀬みつき",
+        "早見奈奈",
+        "雙葉胡桃",
+        "堀北わん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-446"
+    },
+    {
+      "id": 6817,
+      "IDcode": "SUJI-275",
+      "title": "ザーメンごっくん・べぇ～めちゃカワ特化フェラチオ映像集4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416071750285285_thumbnail.webp",
+      "actress": [
+        "柏木小夏",
+        "北岡果林",
+        "白石桃",
+        "由良佳奈",
+        "望月蕾",
+        "皆瀨明里",
+        "市川りく",
+        "横宮七海",
+        "星七奈奈美",
+        "水瀨裡奈",
+        "安倍亜沙美",
+        "乙叶カレン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-275"
+    },
+    {
+      "id": 6534,
+      "IDcode": "SAN-347",
+      "title": "うかつに近寄れない圧倒的美少女 皆瀬あかり250分",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428103501616616_thumbnail.webp",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-347"
+    },
+    {
+      "id": 5800,
+      "IDcode": "UMSO-595",
+      "title": "家出少女のエッチな恩返し「オジサンありがとう！泊めてくれたお礼にいいことしてあげる」VOL.03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031906126126_thumbnail.webp",
+      "actress": [
+        "皆瀨明里",
+        "藤田梢",
+        "高瀬りな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-595"
+    },
+    {
+      "id": 5291,
+      "IDcode": "MUKD-546",
+      "title": "我們超喜歡被幹到爆的事！某天的線下炮友中出大亂鬥 ~ 前田美波 皆瀨明裏 白石桃 逢月日葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062616618618_thumbnail.webp",
+      "actress": [
+        "白石桃",
+        "前田美波",
+        "皆瀨明里",
+        "逢月日葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-546"
+    },
+    {
+      "id": 5236,
+      "IDcode": "HRSM-100",
+      "title": "快遞小妹被強拉進門無情開搞 ～ 前乃菜々 皆瀨明裏 月見若葉 末広純",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071448476476_thumbnail.webp",
+      "actress": [
+        "末広純",
+        "皆瀨明里",
+        "前乃菜菜",
+        "月見若葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-100"
+    },
+    {
+      "id": 4805,
+      "IDcode": "HUNTC-233",
+      "title": "怎麼這麼硬了？惡霸女同學把我這處男給調教得服服帖帖！ ~ 藍瀬ミナ 雫月心桜 皆瀨明裏 日向ひかげ 真白みのり 市川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae52e5682e2e9281a54afe/cover.jpg",
+      "actress": [
+        "皆瀨明里",
+        "市川りく",
+        "日向ひかげ",
+        "雫月心桜",
+        "真白みのり",
+        "藍瀬ミナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
+    },
+    {
+      "id": 4801,
+      "IDcode": "HUNTC-234",
+      "title": "出租我的小窩當情趣酒店 ~ 夏白麻矢 柏木小夏 皆瀨明裏 綾瀬ひまり 星仲ここみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747494494_thumbnail.webp",
+      "actress": [
+        "柏木小夏",
+        "皆瀨明里",
+        "星仲ここみ",
+        "夏白麻矢",
+        "綾瀬ひまり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-234"
+    },
+    {
+      "id": 4800,
+      "IDcode": "HUNTC-401",
+      "title": "學校儲物櫃後面的祕密基地！偷摸幹柴烈火被發現後，和飢渴妹子們接連開戰！2 ~ 七藤優亜 白戸はつみ 五十嵐清華 皆瀨明裏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091704784784_thumbnail.webp",
+      "actress": [
+        "皆瀨明里",
+        "五十嵐清華",
+        "七藤優亜",
+        "白戸はつみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-401"
+    },
+    {
+      "id": 4634,
+      "IDcode": "URKK-115",
+      "title": "大學生女友沉迷牛郎欠下巨債被迫肉償淪陷新宿歌舞伎町 ~ 皆濑明里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "UNFINISHED",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707033455751751_21088_thumbnail.webp",
+      "actress": [
+        "皆瀨明里",
+        "トミフミ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-115"
+    },
+    {
+      "id": 4392,
+      "IDcode": "SUJI-281",
+      "title": "哥哥分手後憋不住開始對我動手動腳，半夜趁我睡着直接無套開幹 ~ 皆瀨明裏 白石渚 市井結夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892f9fec92318f97d87fb00/cover.jpg",
+      "actress": [
+        "皆瀨明里",
+        "白石渚",
+        "市井結夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-281"
+    },
+    {
+      "id": 4158,
+      "IDcode": "MILK-251",
+      "title": "デリヘル呼んだら昔ボクをイジメていたあかりが来たので生チ○ポで復讐することにした 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/09/6896658755337d7f7babb92b/cover.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-251"
+    },
+    {
+      "id": 3855,
+      "IDcode": "IMO-033",
+      "title": "風呂場でオナニー中にまさか全裸姿の妹が乱入！？禁断の家庭内兄妹中出し-麻里梨夏 姫咲はな 高瀬りな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLAYz",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101540982982_83648_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "姫咲華",
+        "由良佳奈",
+        "皆瀨明里",
+        "千石もなか",
+        "希咲那奈",
+        "横宮七海",
+        "高瀬りな",
+        "木村好乃美",
+        "綾瀬もか",
+        "麻里梨夏",
+        "日野りこ",
+        "安倍亜沙美",
+        "乙叶カレン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-033"
+    },
+    {
+      "id": 3688,
+      "IDcode": "URKK-116",
+      "title": "発射無制限！美少女J系風俗裏バイト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "UNFINISHED",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809011605760760_84686_thumbnail.webp",
+      "actress": [
+        "柏木小夏",
+        "沙月惠奈",
+        "皆瀨明里",
+        "松井日奈子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-116"
+    },
+    {
+      "id": 3626,
+      "IDcode": "HSODA-078",
+      "title": "学生が体験入社。淫ターンシップ 耳元でエロい事囁かれるとか、お尻に軽くタッチされるとか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e3fe10d6fbef4e90e44154/cover.jpg",
+      "actress": [
+        "末広純",
+        "皆瀨明里",
+        "五十嵐清華",
+        "市川りく",
+        "櫻木繪里香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HSODA-078"
     },
     {
       "id": 3517,
       "IDcode": "MUCD-336",
-      "title": "純情少女的深喉調教 又痛又爽的4小時大合集 ~ 倉本菫 東條夏 笠木いちか 東雲梓 久和原聖羅 天乃のあ 響乃詩 逢月日葵 皆瀨明里 有加里乃乃花 広瀬みつき 花狩舞 日向ひかげ 橘ひなの 日泉舞香 雅子裡菜",
+      "title": "無垢な女の子のイラマチオ とってもくるしくてきもちぃ4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040540261261_67540_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "倉本菫",
         "皆瀨明里",
@@ -115,513 +1071,237 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
     },
     {
-      "id": 3688,
-      "IDcode": "URKK-116",
-      "title": "無限發射！美少女JK風俗店秘密打工 ~ 柏木小夏 沙月惠奈 皆瀨明里 松井日奈子",
+      "id": 3314,
+      "IDcode": "HUNTC-389",
+      "title": "「この部屋、なんか股間がムズムズしてくる…。」ボクの恥ずかしい汚部屋に興奮を覚えた近所の女の子とその友達に芋づる式中出し！2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "UNFINISHED",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809011605760760_84686_thumbnail.webp",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d0439eeb67774efbac6801/cover.jpg",
+      "actress": [
+        "皆瀨明里",
+        "泉莉音",
+        "雅子裡菜",
+        "廣瀬好美",
+        "藤田柚"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-389"
+    },
+    {
+      "id": 3287,
+      "IDcode": "REAL-932",
+      "title": "約束の女の子です。ご自由にお使いください。拘束された女子校生の喉と肉穴を犯し尽くす凌●デリヘル2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033921770770_69667_thumbnail.webp",
+      "actress": [
+        "有村希",
+        "皆瀨明里",
+        "逢月日葵",
+        "ラヴズ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-932"
+    },
+    {
+      "id": 3073,
+      "IDcode": "GVH-775",
+      "title": "アヘ顔失禁イラマチオ輪● 弱者男達に廻されわからされた地雷系配信者 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/09/071b069a32497efeda9fbad24a2494f2.jpg",
+      "actress": [
+        "皆瀨明里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-775"
+    },
+    {
+      "id": 3062,
+      "IDcode": "DVEH-063",
+      "title": "学校帰りの可愛い妹と童貞兄がオイルエステち○ぽ＆ま○こ擦れる素股体験！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032609235235_76137_thumbnail.webp",
+      "actress": [
+        "皆瀨明里",
+        "天羽梨梨花",
+        "南日菜乃",
+        "幸村紀那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-063"
+    },
+    {
+      "id": 2964,
+      "IDcode": "FFFS-066",
+      "title": "盗撮ドキュメントのすべて58 あり余る性欲が我慢できず年下に手を出した若妻編 結花さん・Hカップ・30歳・アソコが疼いてオナニーばかりの若妻 朱里さん・Dカップ・33歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "皆瀨明里",
+        "小野坂唯香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-066"
+    },
+    {
+      "id": 2862,
+      "IDcode": "MKMP-674",
+      "title": "ぴっちぴちな制服美少女が乱れまくり！！痴女も…M女も…み～んな集合！！めちゃカワJ系 4時間 COMPLETE BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/19/d09ac99bac1cb3e41d0c6a2c538d5d53.jpg",
+      "actress": [
+        "美園和花",
+        "天馬唯",
+        "乙愛麗絲",
+        "柏木小夏",
+        "森日向子",
+        "天月梓",
+        "末広純",
+        "沙月惠奈",
+        "小那海綾",
+        "新井里真",
+        "由良佳奈",
+        "七瀨愛麗絲",
+        "皆瀨明里",
+        "一条美緒",
+        "渚光希",
+        "小花暖",
+        "冬愛琴音",
+        "流川莉央",
+        "横宮七海",
+        "藤田梢",
+        "小栗操",
+        "幾田真知",
+        "中城葵",
+        "姫野らん",
+        "大島愛里亞",
+        "大空七海",
+        "水卜麻衣奈",
+        "ゆめみてうた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-674"
+    },
+    {
+      "id": 2679,
+      "IDcode": "SDDE-758",
+      "title": "―SEXが溶け込んでいる日常― 名門私立女子校で紡ぐ「常に性交」幼なじみ女子学生5人組のアオハル群像劇～10性交19発射～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915220054242242_55296_thumbnail.webp",
       "actress": [
         "柏木小夏",
         "沙月惠奈",
-        "皆瀨明里",
-        "松井日奈子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-116"
-    },
-    {
-      "id": 3855,
-      "IDcode": "IMO-033",
-      "title": "浴室裡自嗨正爽，妹妹居然全裸闖入！禁忌兄妹家庭內中出亂倫合輯13人4小時 ~ 由良佳奈 皆瀨明里 希咲那奈 綾瀨萌香 天馬唯 日野梨子 麻里梨夏 橫宮七海 姬咲華 木村好乃美 千石萌香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLAYz",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101540982982_83648_thumbnail.webp",
-      "actress": [
-        "天馬唯",
-        "姫咲華",
-        "由良佳奈",
-        "皆瀨明里",
-        "千石もなか",
-        "希咲那奈",
-        "横宮七海",
-        "高瀬りな",
-        "木村好乃美",
-        "綾瀬もか",
-        "麻里梨夏",
-        "日野りこ",
-        "安倍亜沙美",
-        "乙叶カレン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-033"
-    },
-    {
-      "id": 4634,
-      "IDcode": "URKK-115",
-      "title": "大學生女友沉迷牛郎欠下巨債被迫肉償淪陷新宿歌舞伎町 ~ 皆濑明里",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "UNFINISHED",
-      "publish_date": "2025-07-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707033455751751_21088_thumbnail.webp",
-      "actress": [
-        "皆瀨明里",
-        "トミフミ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=URKK-115"
-    },
-    {
-      "id": 4805,
-      "IDcode": "HUNTC-233",
-      "title": "怎麼這麼硬了？惡霸女同學把我這處男給調教得服服帖帖！ ~ 藍瀬ミナ 雫月心桜 皆瀨明裏 日向ひかげ 真白みのり 市川りく",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092038592592_thumbnail.webp",
-      "actress": [
-        "皆瀨明里",
-        "市川りく",
-        "日向ひかげ",
-        "雫月心桜",
-        "真白みのり",
-        "藍瀬ミナ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
-    },
-    {
-      "id": 4801,
-      "IDcode": "HUNTC-234",
-      "title": "出租我的小窩當情趣酒店 ~ 夏白麻矢 柏木小夏 皆瀨明裏 綾瀬ひまり 星仲ここみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747494494_thumbnail.webp",
-      "actress": [
-        "柏木小夏",
-        "皆瀨明里",
-        "星仲ここみ",
-        "夏白麻矢",
-        "綾瀬ひまり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-234"
-    },
-    {
-      "id": 4800,
-      "IDcode": "HUNTC-401",
-      "title": "學校儲物櫃後面的祕密基地！偷摸幹柴烈火被發現後，和飢渴妹子們接連開戰！2 ~ 七藤優亜 白戸はつみ 五十嵐清華 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091704784784_thumbnail.webp",
-      "actress": [
-        "皆瀨明里",
-        "五十嵐清華",
-        "七藤優亜",
-        "白戸はつみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-401"
-    },
-    {
-      "id": 5291,
-      "IDcode": "MUKD-546",
-      "title": "我們超喜歡被幹到爆的事！某天的線下炮友中出大亂鬥 ~ 前田美波 皆瀨明裏 白石桃 逢月日葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062616618618_thumbnail.webp",
-      "actress": [
-        "白石桃",
-        "前田美波",
-        "皆瀨明里",
-        "逢月日葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-546"
-    },
-    {
-      "id": 5236,
-      "IDcode": "HRSM-100",
-      "title": "快遞小妹被強拉進門無情開搞 ～ 前乃菜々 皆瀨明裏 月見若葉 末広純",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "癡漢廠",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618071448476476_thumbnail.webp",
-      "actress": [
-        "末広純",
-        "皆瀨明里",
-        "前乃菜菜",
-        "月見若葉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-100"
-    },
-    {
-      "id": 5800,
-      "IDcode": "UMSO-595",
-      "title": "離家少女的肉體回報：大叔謝謝你！收留我的報答就是陪你爽一下 VOL.03 ~ 藤田梢 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-05-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524031906126126_thumbnail.webp",
-      "actress": [
-        "皆瀨明里",
-        "藤田梢",
-        "高瀬りな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-595"
-    },
-    {
-      "id": 6817,
-      "IDcode": "SUJI-275",
-      "title": "吞精小妖精~超萌妹子專屬口技大片4小時 ~ 柏木小夏 橫宮七海 皆瀨明裏 白石桃 星七奈奈美 望月蕾 北岡果林 由良佳奈 市川りく",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250416/20250416071750285285_thumbnail.webp",
-      "actress": [
-        "柏木小夏",
-        "北岡果林",
-        "白石桃",
-        "由良佳奈",
         "望月蕾",
         "皆瀨明里",
-        "市川りく",
-        "横宮七海",
-        "星七奈奈美",
-        "水瀨裡奈",
-        "安倍亜沙美",
-        "乙叶カレン"
+        "小野寺舞"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-275"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-758"
     },
     {
-      "id": 7228,
-      "IDcode": "MIAB-427",
-      "title": "時間停止學校 [使用時間停止應用程式使時間停止] 無論是欺負你的漂亮洋基女孩，還是一直學習的戴眼鏡的優等生，還是在班級中脫穎而出的金發女孩…… 都讓時間停止並徹底享受她們！",
+      "id": 2422,
+      "IDcode": "NMSL-021",
+      "title": "好きな人のためなら何でもできるヤンデレJ〇と変態彼氏 皆瀬あかり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327081732384384.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "木下日葵",
-        "皆瀨明里",
-        "椎名心春"
+        "皆瀨明里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAB-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NMSL-021"
     },
     {
-      "id": 7766,
-      "IDcode": "MILK-237",
-      "title": "陽光辣妹J○的乖順寵物 舔狗老師被我收服啦 ~ 皆瀨明里",
+      "id": 2284,
+      "IDcode": "MMPB-093",
+      "title": "美少女を俺の精子で孕ませたいっ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/5b0fc08e/vod.jpg",
+      "actress": [
+        "天馬唯",
+        "柏木小夏",
+        "天月梓",
+        "胡桃櫻花",
+        "小坂ひまり",
+        "皆瀨明里",
+        "竹内美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-093"
+    },
+    {
+      "id": 2272,
+      "IDcode": "XVSR-842",
+      "title": "有名女優のガチSEX見せて下さい！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2dffddbf24d4ed31ff0b1/cover.jpg",
+      "actress": [
+        "波多野结衣",
+        "天馬唯",
+        "浜崎真緒",
+        "大槻响",
+        "月野香澄",
+        "AIKA",
+        "前田美波",
+        "皆瀨明里",
+        "優梨舞奈",
+        "齋藤亞美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-842"
+    },
+    {
+      "id": 2141,
+      "IDcode": "MILK-261",
+      "title": "私立バブみヶ丘保育園 甘あま赤ちゃん淫語と授乳手コキで筆おろし あかり先生 皆瀬あかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "MILK",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250306/7d155dde-88c7-4896-af26-87822330bf16.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/66ec0032/vod.jpg",
       "actress": [
         "皆瀨明里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-237"
-    },
-    {
-      "id": 7773,
-      "IDcode": "SCR-335",
-      "title": "泥醉辣妹被撿屍回家中出侵犯實錄 ~ 皆瀨裏裏 小那海綾 春陽モカ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLAYz",
-      "publish_date": "2025-03-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/e1662724-a251-4b13-973b-79c598f72e6d.jpg",
-      "actress": [
-        "小那海綾",
-        "春陽萌花",
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-335"
-    },
-    {
-      "id": 7840,
-      "IDcode": "NPJS-163",
-      "title": "惡德按摩店長報復視頻 舉報本番跑路後被抓回來狠狠教訓 ~ 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NAPA-JAPAN",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/2025022707351777.jpg",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-163"
-    },
-    {
-      "id": 8028,
-      "IDcode": "REAL-893",
-      "title": "失禁癡漢列車 從補習班回家的電車上，高中女生被癡漢用媚藥襲擊，不斷放尿和潮吹中達到高潮 ~ 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250223/a4ee7efd-915e-4db4-872d-cfdef13ae380.jpg",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-893"
-    },
-    {
-      "id": 8200,
-      "IDcode": "DVMM-208",
-      "title": "一般男女監控AV 女大學生限定 情趣裸模羞恥倍增！「遮羞貼紙」助陣公開裸繪挑戰！乳頭和私密處本該隱藏卻反顯眼，共演男優熱辣姿勢追加羞辱！溼潤花心被巨根插入...",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-02-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250217/c3790989-c2a7-47b8-918c-0f60f7f26d96.jpg",
-      "actress": [
-        "皆瀨明里",
-        "雅子裡菜",
-        "菜月光",
-        "有馬美玖"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-208"
-    },
-    {
-      "id": 9489,
-      "IDcode": "LOL-240",
-      "title": "我準備好了！... 和無毛白虎學生妹一直做到門禁結束 ~ 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLAYz",
-      "publish_date": "2025-01-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250101/518cbc6d-b33c-42eb-9bb4-9c3bfd8b4163.jpg",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-240"
-    },
-    {
-      "id": 10818,
-      "IDcode": "MIST-454",
-      "title": "危險日直擊！ ！可以爲你生孩子的援交女僕 ~ 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Mr.Michiru",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107044329797797.jpg",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-454"
-    },
-    {
-      "id": 9996,
-      "IDcode": "GOUL-009",
-      "title": "絕望母娘強暴輪奸 - 渣男丈夫還不起債務一走了之，母女卻要爲此付出代價 ~ 小早川憐子 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241212/824b08f8-8602-43b6-8302-44325f392d3d.jpg",
-      "actress": [
-        "皆瀨明里",
-        "小早川怜子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOUL-009"
-    },
-    {
-      "id": 10563,
-      "IDcode": "MUDR-278",
-      "title": "蘿莉顏的楓和鈴 大師極町的傑作終於拍成真人版了！傲嬌楓和天生冷酷的鈴。美麗雙胞胎女孩包圍的淫欲的學校生活開始了！ ~ 皆月光 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114110245383383.jpg",
-      "actress": [
-        "皆月光",
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-278"
-    },
-    {
-      "id": 10559,
-      "IDcode": "MUKD-516",
-      "title": "W狠狠的無套操那些看不起老男人的生意氣女孩們 ~ 皆瀨明裏 由良佳奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114112652690690.jpg",
-      "actress": [
-        "由良佳奈",
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-516"
-    },
-    {
-      "id": 13366,
-      "IDcode": "MUDR-273",
-      "title": "舔耳朵直到變傻，受虐狂M男的受虐感 ~ 皆月光 皆瀨明裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-07-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712021610666666.jpg",
-      "actress": [
-        "皆月光",
-        "皆瀨明里",
-        "左慈半造"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-273"
-    },
-    {
-      "id": 13296,
-      "IDcode": "SUJI-243",
-      "title": "●學生強奸：尾隨、伏擊、欺騙、強行催情、帶入、綁架、監管、輪奸 ~ 皆瀬あかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2024-07-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20240714/20240714023822970970.jpg",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-243"
-    },
-    {
-      "id": 86137,
-      "IDcode": "SAN-077",
-      "title": "【FANZA限定】夫の上司に抱かれ過ぎて誰の子かわからない子供を妊娠してしまった妻 / 皆瀬あかり チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2022-10-11",
-      "cover_url": "",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-077"
-    },
-    {
-      "id": 84267,
-      "IDcode": "DASS-075",
-      "title": "俺から逃げれると思うなよ 教師失格。教え子ゴチソウサマ。体液どろねちゃ卑劣調教 皆瀬あかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DASDAS",
-      "publish_date": "2022-10-11",
-      "cover_url": "",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-075"
-    },
-    {
-      "id": 87437,
-      "IDcode": "DGCEMD-237",
-      "title": "★配信限定！特典映像付★絶叫！悶絶！ポルチオ開発！子宮の奥にある奥の奥でイク女7 皆瀬あかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2022-09-24",
-      "cover_url": "",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DGCEMD-237"
-    },
-    {
-      "id": 87316,
-      "IDcode": "CEMD-237",
-      "title": "絶叫！悶絶！ポルチオ開発！子宮の奥にある奥の奥でイク女7 皆瀬あかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2022-09-24",
-      "cover_url": "",
-      "actress": [
-        "皆瀨明里",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-237"
-    },
-    {
-      "id": 84433,
-      "IDcode": "FOCS-084",
-      "title": "甘サド美少女が優しく搾精！ケツ穴から尿道まで舐め回して中出しで搾り取る！快感悶絶15発射 皆瀬あかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2022-09-06",
-      "cover_url": "",
-      "actress": [
-        "皆瀨明里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-261"
     }
   ]
 };

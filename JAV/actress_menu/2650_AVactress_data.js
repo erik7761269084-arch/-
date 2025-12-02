@@ -48,15 +48,31 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3491,
-      "IDcode": "MKCK-398",
-      "title": "巨乳晃不停，高潮時那小表情太撩人，我要射了！中出正常位精選4小時87人 ~ 有阪深雪 美園和花 有村希 清宮仁愛 希咲愛莉絲 莉莉遙香 雨宮響 宮本留衣 華澄結愛 鬼塚萌奈美 香阪紗梨 逢見梨花 藤井蘭々...",
+      "id": 91482,
+      "IDcode": "EBOD-800",
+      "title": "連続射精するまで生ハメ神対応！！無限発射OKソープ嬢 小麦肌スリムGcup沙和れもん中出し解禁",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/a4d0fc9e95cc2cb8b1e45b6b04d49897.jpg",
+      "actress": [
+        "沙和檸檬"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-800"
+    },
+    {
+      "id": 3491,
+      "IDcode": "MKCK-398",
+      "title": "揺れる巨乳とイキ顔がエロ過ぎて…俺もイッちゃうッ！種付け寸前の中出し正常位ベスト4時間87名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818045151795795_88584_thumbnail.webp",
       "actress": [
         "美園和花",
@@ -130,22 +146,6 @@ window.actressData = {
         "叶月桃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
-    },
-    {
-      "id": 91482,
-      "IDcode": "EBOD-800",
-      "title": "連続射精するまで生ハメ神対応！！無限発射OKソープ嬢 小麦肌スリムGcup沙和れもん中出し解禁",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2021-02-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240508-1/009caf353c44b2b267c3fb253f57c67b.jpg",
-      "actress": [
-        "沙和檸檬"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-800"
     }
   ]
 };

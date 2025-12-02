@@ -36,36 +36,13 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 6347,
-      "IDcode": "SILK-181",
-      "title": "嘴硬心軟的戀人們 第九季 ~ 葉月萌 新村朱里Nia",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SILK LABO",
-      "publish_date": "2025-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508055258652652_thumbnail.webp",
-      "actress": [
-        "新村朱里",
-        "Nia",
-        "葉月萌",
-        "上原千明",
-        "新村晶",
-        "向理来",
-        "大空太陽",
-        "叶月もえ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-181"
-    },
-    {
       "id": 13318,
       "IDcode": "SILK-161",
       "title": "愛情補品～同事的男朋友～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SILK LABO",
       "publish_date": "2024-07-11",
       "cover_url": "https://picture.yoshiclub.xyz/20240712/3274dc9b-2c4f-4db5-913c-b5f6f3e66ae6.jpg",
@@ -82,16 +59,39 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-161"
     },
     {
+      "id": 6347,
+      "IDcode": "SILK-181",
+      "title": "素直になれない恋人たち 9th season",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508055258652652_thumbnail.webp",
+      "actress": [
+        "新村朱里",
+        "Nia",
+        "葉月萌",
+        "上原千明",
+        "新村晶",
+        "向理来",
+        "大空太陽",
+        "叶月もえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-181"
+    },
+    {
       "id": 1634,
-      "IDcode": "sdjs-033",
-      "title": "SOD女員工SP版SOD酒吧團呈現！ ！人生充滿坎坷！遊戲裡有這麼多性感的方塊，讓我忍不住感到尷尬！一場盛大的感恩節聚會，我們邀請了每天支持我們的用戶！",
+      "IDcode": "SDJS-033",
+      "title": "大型的感恩节聚会",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2019-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230405/84fdb166-573e-42a6-83a7-a7be252697da.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/0e4e04e1f54df5bdd18161622ce15481.jpg",
       "actress": [
         "今井栞菜",
         "有栖露露",
@@ -103,7 +103,7 @@ window.actressData = {
         "月下あいり",
         "望月理沙"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdjs-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-033"
     }
   ]
 };

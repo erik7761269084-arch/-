@@ -4,7 +4,7 @@ window.actressData = {
   "name": "五十岚しのぶ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,43 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 98670,
+      "IDcode": "WA-283",
+      "title": "人妻禁断マッサージ娘がいるのにキワドイ指使いに声を押し殺し一瞬で燃え上がる淫乱ママ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-05-15",
+      "cover_url": "",
+      "actress": [
+        "五十岚しのぶ",
+        "宫部凉花",
+        "三桥杏奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-283"
+    },
+    {
+      "id": 95979,
+      "IDcode": "NSPS-362",
+      "title": "名人妻和穷人的妻子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "村上涼子",
+        "五十岚しのぶ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-362"
+    },
     {
       "id": 62479,
       "IDcode": "NASK-266",
@@ -25,9 +60,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2025-07-22",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "佐佐木明希",
@@ -41,23 +76,6 @@ window.actressData = {
         "樱井夕树"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-266"
-    },
-    {
-      "id": 95979,
-      "IDcode": "NSPS-362",
-      "title": "【AIリマスター版】厳選・官能名作熟女ドラマ セレブ妻と貧乏妻",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-09-30",
-      "cover_url": "",
-      "actress": [
-        "村上涼子",
-        "五十岚しのぶ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSPS-362"
     }
   ]
 };

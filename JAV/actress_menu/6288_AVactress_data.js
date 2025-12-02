@@ -4,7 +4,7 @@ window.actressData = {
   "name": "辻泽もも",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 99938,
       "IDcode": "MIFD-104",
-      "title": "新人20歳 ペットにしたくなるゆるふわ甘顔天然女子大生デビュー 辻澤もも",
+      "title": "甘顔天然女子大生-辻澤もも",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2020-03-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e2d432a47ebb1a871da9e/cover.jpg",
       "actress": [
         "イセドン内村",
         "辻泽もも"

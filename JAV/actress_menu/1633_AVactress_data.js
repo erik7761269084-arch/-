@@ -41,30 +41,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-04-09",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/8289b06dcc04eda1c93546fd346e98a1.jpg",
       "actress": [
         "小岩伊都"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-018"
-    },
-    {
-      "id": 2016,
-      "IDcode": "KMHRS-005",
-      "title": "慶祝20歲！馬上飲酒！醉酒害羞汁液滿溢性交 小岩伊都",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2019-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230214/a981aab2-f7b6-440a-87cc-6b131d10e4cb.jpg",
-      "actress": [
-        "小岩伊都"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-005"
     },
     {
       "id": 1836,
@@ -73,7 +57,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-11-21",
       "cover_url": "https://picture.yoshiclub.xyz/20230214/a085252b-6504-4630-993d-03b7d3570739.jpg",
@@ -81,6 +65,22 @@ window.actressData = {
         "小岩伊都"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-003"
+    },
+    {
+      "id": 2016,
+      "IDcode": "KMHRS-005",
+      "title": "CHINASES SUB  祝、ハタチ！即、飲酒！とろ酔い恥ずかし汁まみれ性交 小岩いと",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/54333cb5f99bc5c5c765f07891706870.jpg",
+      "actress": [
+        "小岩伊都"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHRS-005"
     }
   ]
 };

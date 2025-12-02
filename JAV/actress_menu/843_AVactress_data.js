@@ -37,45 +37,56 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240914/9f5e5ff6-a650-445c-8ead-82e49538eae1.jpg",
     "https://picture.yoshiclub.xyz/20240914/18de4308-6cad-4bee-9f79-f67d3a704dae.jpg"
   ],
-  "works_count": 4,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 3244,
-      "IDcode": "IENF-403",
-      "title": "拜託溫柔性感護士姊姊幫忙改善早洩小老弟的過敏體質 ~ 彩葉由奈 望月蕾",
+      "id": 11996,
+      "IDcode": "MIFD-529",
+      "title": "新人！みんなのオカズになりたいです！等身大の’イイ女’が詰まってる！168cm！関西出身の女子大生AVデビュー。 彩葉ゆな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-08-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827000936956956_11512_thumbnail.webp",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/11/11/04ed9d4d75d48cf47a8d0b5fe8c39ec6.jpg",
       "actress": [
-        "望月蕾",
-        "加藤桃香",
         "彩葉ゆな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-403"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-529"
     },
     {
-      "id": 4594,
-      "IDcode": "HUNTC-376",
-      "title": "校園站街女學生2！單獨1.5？校內直接開戰免酒店費！談得好還能無套！ ~ 彩葉ゆな 廣瀬好美 市川りく 上阪芽衣 沙優七羽",
+      "id": 11316,
+      "IDcode": "MIFD-535",
+      "title": "原始体内射精性爱-绫叶由奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083301861861_thumbnail.webp",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/ad263d1d0a76f8c98565f8790f953ca9.jpg",
       "actress": [
-        "市川りく",
-        "上坂芽衣",
-        "廣瀬好美",
-        "沙優七羽",
         "彩葉ゆな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-376"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-535"
+    },
+    {
+      "id": 10585,
+      "IDcode": "MIFD-546",
+      "title": "24小时的饭店约会",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241204-1/5a8f863ab348654e83a4c1e03325a67a.jpg",
+      "actress": [
+        "彩葉ゆな",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-546"
     },
     {
       "id": 4803,
@@ -84,10 +95,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091843353353_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae3ea1682e2e9281a54986/cover.jpg",
       "actress": [
         "皆月光",
         "望月蕾",
@@ -99,21 +110,61 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-378"
     },
     {
-      "id": 10585,
-      "IDcode": "MIFD-546",
-      "title": "超過300次接吻、150 次高潮、9351陰道痙攣，24小時不休的酒店約會，他們的體液交織在一起，尋找彼此深深的舌吻 ~ 彩葉ゆな",
+      "id": 4594,
+      "IDcode": "HUNTC-376",
+      "title": "校内立ちんぼ女子〇生2！ホ別1.5？校内でヤレばホテル代無料！交渉次第でNNOK！援交・パパ活する女子たちは最近公園で取り締まりが厳しく…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114092533900900.jpg",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703083301861861_thumbnail.webp",
       "actress": [
-        "彩葉ゆな",
-        "蓝井优太"
+        "市川りく",
+        "上坂芽衣",
+        "廣瀬好美",
+        "沙優七羽",
+        "彩葉ゆな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-546"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-376"
+    },
+    {
+      "id": 3244,
+      "IDcode": "IENF-403",
+      "title": "我请求一位既美丽又温柔的护士女士来改善我-加藤ももか 望月つぼみ 彩葉ゆな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c558dbd6fbef4e90a9189d/cover.jpg",
+      "actress": [
+        "望月蕾",
+        "加藤桃香",
+        "彩葉ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-403"
+    },
+    {
+      "id": 2584,
+      "IDcode": "HUNTC-380",
+      "title": "羞恥心ゼロ！巨乳の自覚ゼロ！突然出来た義妹が日常生活すべてで天然巨乳を無防備に晒してボクの股間をイライラさせる！そんな勃起しっぱなしのボクを見て義妹が",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051624348348_38628_thumbnail.webp",
+      "actress": [
+        "愛瀬優里",
+        "小野寺舞",
+        "宮本聡美",
+        "彩葉ゆな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-380"
     }
   ]
 };

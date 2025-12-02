@@ -39,36 +39,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 4843,
-      "IDcode": "SVERS-001",
-      "title": "前傭兵狙擊手震撼AV出道！~ 潤香里奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220657543543_thumbnail.webp",
-      "actress": [
-        "潤香里奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVERS-001"
-    },
-    {
       "id": 62974,
       "IDcode": "NKD-330",
       "title": "変態M貧乳娘 元自●官かりな 潤香里奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-06-17",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/22/0947e2a6/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "潤香里奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NKD-330"
+    },
+    {
+      "id": 4843,
+      "IDcode": "SVERS-001",
+      "title": "元傭兵-狙撃手（マークスマン）- 戦慄のAVデビュー！ 潤香里奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220657543543_thumbnail.webp",
+      "actress": [
+        "潤香里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVERS-001"
     }
   ]
 };

@@ -33,25 +33,48 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230331/b37ee391-b651-4373-a394-b4bdf58676d4.jpg",
     "https://picture.yoshiclub.xyz/20230331/d31a1025-8240-4b8a-bc23-1ea5ef68ea5c.jpg"
   ],
-  "works_count": 11,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 68908,
-      "IDcode": "SDMUA-053",
-      "title": "SDMUA-053",
+      "id": 10251,
+      "IDcode": "BMW-321",
+      "title": "唾液溼吻，超棒手技的雙重樂趣，W快樂壓榨 BEST 合集",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-12-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250402-1/cdf51f1a0b351e8b5ad1ed02bf3ea329.jpg",
+      "type": "",
+      "company": "WANZ FACTORY",
+      "publish_date": "2024-12-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128102111652652.jpg",
       "actress": [
+        "森澤佳奈",
+        "倉本菫",
+        "松本一香",
+        "森日向子",
+        "末広純",
+        "沙月惠奈",
+        "木下日葵",
+        "北野未奈",
+        "新井里真",
+        "藤森里穂",
+        "JULIA",
+        "辻井穗乃果",
+        "佐山爱",
+        "月乃露娜",
+        "沙月芽衣",
+        "花狩舞",
+        "水川蓳",
+        "日下部加奈",
+        "佐野由真",
+        "深田詠美",
+        "君島美緒",
+        "永瀬ゆい",
+        "長谷川夕奈",
+        "皇柚子",
         "朝比奈七瀨",
-        "日森一",
-        "タイ"
+        "蕾"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-053"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-321"
     },
     {
       "id": 87486,
@@ -60,10 +83,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻花園劇場",
       "publish_date": "2022-08-12",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2a450f1e834170d33b53ac17666854a9.jpg",
       "actress": [
         "朝比奈七瀨"
       ],
@@ -76,7 +99,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2022-06-29",
       "cover_url": "",
@@ -86,31 +109,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ZOZO-135"
     },
     {
-      "id": 87966,
-      "IDcode": "FCP-097",
-      "title": "【配信専用】ヌキ無し店なのに…超過剰サービスで疲労も精子もぶっ飛ぶ！！リピート確定！搾精メンズエステ ＃9 斎藤あみり 佐藤ののか 朝比奈ななせ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-06-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230828-1/6bf2ee6f0b98ffe20daa2700e20a5e98.jpg",
-      "actress": [
-        "加藤桃香",
-        "朝比奈七瀨",
-        "斋藤亚美里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-097"
-    },
-    {
       "id": 79439,
       "IDcode": "RKI-616",
       "title": "オジサン大好き美少女のスケベな接吻とねっとりスローフェラチオと濃厚中出しSEX 朝比奈ななせ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROOKIE",
       "publish_date": "2021-08-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/62555a13249cff6040937c682f7ecad8.jpg",
@@ -126,8 +131,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "溜池",
       "publish_date": "2021-04-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250417-1/4120275ec523a9f5df24952bd3c778e2.jpg",
       "actress": [
@@ -136,79 +141,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-670"
     },
     {
-      "id": 73103,
-      "IDcode": "STARS-310",
-      "title": "偏差値72の元アイドル美少女がデカチンでイキ狂う！ 限界イカセ 何回イっても止まらない巨根超絶激ピストン 朝比奈ななせ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-12-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/a0b62e5fe82b33abbda5f714ffe82722.jpg",
-      "actress": [
-        "朝比奈七瀨",
-        "森林原人",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-310"
-    },
-    {
-      "id": 1579,
-      "IDcode": "STARS-250",
-      "title": "大龜頭撞擊子宮口性交 朝比奈七瀨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2020-06-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230331/e00f9137-070c-4ea1-a976-8194148d8b73.jpg",
-      "actress": [
-        "朝比奈七瀨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-250"
-    },
-    {
-      "id": 1651,
-      "IDcode": "STARS-238",
-      "title": "渾身是羞汁,口水,汗潮,敏感FUCK 朝比奈七瀨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2020-05-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20230331/837ef38c-a38d-4fcc-b932-0a68b500b77b.jpg",
-      "actress": [
-        "朝比奈七瀨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-238"
-    },
-    {
-      "id": 1614,
-      "IDcode": "STARS-226",
-      "title": "19 歲的性發育 4 製作，第一次體驗，3 小時 OVER 朝比奈七瀨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2020-04-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20230331/39cb15ff-cad9-4d90-96ef-ed2d87ed9177.jpg",
-      "actress": [
-        "朝比奈七瀨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-226"
-    },
-    {
       "id": 82057,
       "IDcode": "STARS-213",
       "title": "朝比奈ななせ AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2020-03-12",
       "cover_url": "",
@@ -218,6 +157,109 @@ window.actressData = {
         "玉木玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-213"
+    },
+    {
+      "id": 103825,
+      "IDcode": "BBAN-398",
+      "title": "【FANZA限定】ねぇ。いっぱいキスしようよ！ Let’s kiss more！ 朝比奈ななせ 沙月恵奈 生写真3枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ccf8b2a47ebb1a8683ead/cover.jpg",
+      "actress": [
+        "沙月惠奈",
+        "朝比奈七瀨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-398"
+    },
+    {
+      "id": 87966,
+      "IDcode": "FCP-097",
+      "title": "【配信専用】ヌキ無し店なのに…超過剰サービスで疲労も精子もぶっ飛ぶ！！リピート確定！搾精メンズエステ ＃9 斎藤あみり 佐藤ののか 朝比奈ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/1deb478381d490d49be4d149b61c9fa5.jpg",
+      "actress": [
+        "加藤桃香",
+        "朝比奈七瀨",
+        "斋藤亚美里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCP-097"
+    },
+    {
+      "id": 73103,
+      "IDcode": "STARS-310",
+      "title": "偏差値72の元アイドル美少女がデカチンでイキ狂う！ 限界イカセ 何回イっても止まらない巨根超絶激ピストン 朝比奈ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/cf182cdd0b41e1565c0e3d2b254676d1.jpg",
+      "actress": [
+        "朝比奈七瀨",
+        "森林原人",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-310"
+    },
+    {
+      "id": 68908,
+      "IDcode": "SDMUA-053",
+      "title": "性自慰的宠物-朝比奈ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250326-1/c44cf3acce43d0626895e78ea98ad356.jpg",
+      "actress": [
+        "朝比奈七瀨",
+        "日森一",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-053"
+    },
+    {
+      "id": 1651,
+      "IDcode": "STARS-238",
+      "title": "敏感的射精-朝比奈ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230331/837ef38c-a38d-4fcc-b932-0a68b500b77b.jpg",
+      "actress": [
+        "朝比奈七瀨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-238"
+    },
+    {
+      "id": 1579,
+      "IDcode": "STARS-250",
+      "title": "与大龟头性交-朝比奈ななせ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230331/e00f9137-070c-4ea1-a976-8194148d8b73.jpg",
+      "actress": [
+        "朝比奈七瀨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-250"
     }
   ]
 };

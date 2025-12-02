@@ -48,50 +48,306 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250303/aa99d068-f5c4-40f8-9417-b71929abdf33.jpg",
     "https://picture.yoshiclub.xyz/20250303/cda12c2b-0a77-4701-89fd-a609116a9549.jpg"
   ],
-  "works_count": 14,
+  "works_count": 25,
   "related_dramas": [
     {
-      "id": 3871,
-      "IDcode": "START-362",
-      "title": "叫了個援交妹居然是公司財務部那個欲求不滿的OL小姐姐 平時一本正經的實際上卻騷暴了，無論家裏公司都幫我爽到爆 ~ 柴崎春",
+      "id": 12092,
+      "IDcode": "START-146",
+      "title": "順從溫泉之旅 ~ 柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/0d2bf6ef-9cb8-4826-bd51-13a4fe073e55_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240910/592349ae-b873-4450-8d0c-c648bc6b36d7.jpg",
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-362"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-146"
     },
     {
-      "id": 5605,
-      "IDcode": "START-321",
-      "title": "太爽了！修學旅行中，居然附身到了帥氣新人擔任老師身上，那當然要讓同學們好好的爽一下啦！~ 柴崎春",
+      "id": 12726,
+      "IDcode": "START-123",
+      "title": "SODstar轉生女優初出勤！ 可以無限制持續中出的完全會員制泡泡浴 ~ 柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-06-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602085831171171_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-09-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240813/be695d35-63cd-438c-b5b9-dc9326933c64.jpg",
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-321"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-123"
+    },
+    {
+      "id": 15188,
+      "IDcode": "START-043",
+      "title": "（前SOD女職員）柴崎はる正式以SODstar身份出道！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-05-09",
+      "cover_url": "",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-043"
+    },
+    {
+      "id": 16185,
+      "IDcode": "SDJS-232",
+      "title": "像男孩子般帥氣的柴崎はる問我 你要摸一下我的奶子看看它們大嗎？ 從那時起，我開始每次見到她時都會檢查她的胸部",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220011436813813.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-232"
+    },
+    {
+      "id": 16730,
+      "IDcode": "SDJS-221",
+      "title": "第一次刷約會！預約SOD女員工一天！ ！在親吻了處女，從早到晚相愛的SEX文檔！ ！ ！柴崎春",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-02-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20240116/20240116064225641641.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-221"
+    },
+    {
+      "id": 106358,
+      "IDcode": "SDJS-211",
+      "title": "满脸通红的全裸业务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/8788f83c29847f26c7a66443338cf9f5.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-211"
+    },
+    {
+      "id": 90276,
+      "IDcode": "SDJS-193",
+      "title": "第一次燃尽-柴崎春",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240119-1/326a9bac4e5206146701584f99c5f4d8.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-193"
+    },
+    {
+      "id": 90268,
+      "IDcode": "SDJS-200",
+      "title": "超敏感なスケベなマ〇コにいきなり突撃! 巨根チ〇ポで即ハメ!4本番  照れ屋ショートカット グッズ事業部 入社2年目柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240119-1/8912824a47a04412549a8b76f5868579.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-200"
+    },
+    {
+      "id": 90264,
+      "IDcode": "SDJS-195",
+      "title": "女性用成人玩具研究实测",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240119-1/7e4a16871e933bc35f5957e8ce2673c5.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-195"
+    },
+    {
+      "id": 14056,
+      "IDcode": "START-044",
+      "title": "想和已婚的老板生孩子，在一次溫泉戀情之旅中讓老板不斷射精 ~ 柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a073d3cf22ae3e04a019ad/cover.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-044"
+    },
+    {
+      "id": 13887,
+      "IDcode": "START-100",
+      "title": "护士的后续口交-柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240618/b16c3f59-a906-4cae-b94b-b7b9b870b71c.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-100"
+    },
+    {
+      "id": 13461,
+      "IDcode": "START-084",
+      "title": "妹妹長大成了漂亮女孩並且有了男朋友，哥哥嫉妒的發瘋 ~ 柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d43ff3dd88d14f0604d093/cover.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-084"
+    },
+    {
+      "id": 11250,
+      "IDcode": "START-167",
+      "title": "外出拍摄因大雪无法返回东京-柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/73a831c59fa6bf7e47edf26493d353a2.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-167"
+    },
+    {
+      "id": 10678,
+      "IDcode": "START-190",
+      "title": "人生初のごっくん解禁 SMILEザーメン飲み合計20発＆10Pノンストップ連続SEX 柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787f4e0478d611da775210a/cover.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-190"
+    },
+    {
+      "id": 10030,
+      "IDcode": "START-211",
+      "title": "禁断の関係だった元教え子と5年ぶりの再会。大人になった彼女とホテルに巣ごもり燃えるような不倫SEXで猿みたいに中出し絶頂をし続けた。柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daf6d1d6fbef4e90d225c0/cover.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-211"
+    },
+    {
+      "id": 9147,
+      "IDcode": "START-226",
+      "title": "【合宿強迫膣ペット】クソ部長マジうぜーから彼女襲っちゃおうぜ（笑）夏合宿中に陰湿輪●で部員達の性処理ダッチワイフになった陸上女子 柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250114/39c27351-471d-4d93-89a5-ca2c35fd3d27.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-226"
+    },
+    {
+      "id": 8556,
+      "IDcode": "START-249",
+      "title": "被催眠光束控制的空手道美女 柴崎春",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efd16acf22ae3e04d34784/cover.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-249"
+    },
+    {
+      "id": 7783,
+      "IDcode": "START-278",
+      "title": "絶対3発射のドスケベな責めテクニックを存分に堪能できる三者三様痴女ビデオ 合計14発 柴崎はる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250303/148389a5-b067-4458-baa0-6afeb0a85f0f.jpg",
+      "actress": [
+        "柴崎春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-278"
     },
     {
       "id": 7110,
       "IDcode": "START-287",
-      "title": "30發內射超亂交！130分鍾無剪輯狂插30根小弟弟+滿身射精！【出道2周年特別企劃】 ~ 柴崎春",
+      "title": "30発中出し大乱交！ノンストップ・ノーカットで30本のチ●ポを滅多挿し＆ぶっかけ！【デビュー2周年特別企画】 柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-08",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250401/34552721-1414-4622-8a30-8c28da4b3b6b.jpg",
       "actress": [
         "柴崎春"
@@ -101,13 +357,13 @@ window.actressData = {
     {
       "id": 6382,
       "IDcode": "START-303",
-      "title": "柴崎春 首次粉絲感謝祭！真愛告白選拔賽，658位素人中脫穎而出，浪漫過夜約會 ~ 柴崎春",
+      "title": "柴崎はる 初ファン感！ガチ恋オーディション。一般エントリー658名の中から1人だけ…夢のお泊りデート。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-05-06",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/55e723e5-547b-43e9-9241-b11a8e4796ae_thumbnail.webp",
       "actress": [
         "柴崎春"
@@ -115,164 +371,84 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-303"
     },
     {
-      "id": 7783,
-      "IDcode": "START-278",
-      "title": "盡享絕對三連發的超色責罰技巧 三種不同癡女體驗視頻 共14發 ~ 柴崎春",
+      "id": 5605,
+      "IDcode": "START-321",
+      "title": "えwww修学旅行中、ボーイッシュな新人担任教師に憑依したったww 実は超敏感ムッツリ体質だった事が発覚www 俺（先生）大絶頂おふざけ記録。 柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250303/148389a5-b067-4458-baa0-6afeb0a85f0f.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250602/20250602085831171171_thumbnail.webp",
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-278"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-321"
     },
     {
-      "id": 8556,
-      "IDcode": "START-249",
-      "title": "被催眠光線支配的空手道美人娘 ~ 柴崎はる",
+      "id": 4823,
+      "IDcode": "START-340",
+      "title": "最高の敏感娘を最良のトロマン状態で禁欲明けに理性がブッ飛ぶ 淫汁 汗 唾液とろだく漏らしっぱなし性交 柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250204/20250204011129454454.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250630/20250630224422457457_thumbnail.webp",
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-249"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-340"
     },
     {
-      "id": 10678,
-      "IDcode": "START-190",
-      "title": "人生初吞精解禁 SMILE着吞掉合計20發中出精液 & 10P連續大亂交 ~ 柴崎はる",
+      "id": 3871,
+      "IDcode": "START-362",
+      "title": "デリヘル呼んだらいつも領収書を突っ返してくる経理部の欲求不満OLと遭遇「まさか、柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241112/fafec75e-b8ee-4cbe-ad1a-42ea9d825f10.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/0d2bf6ef-9cb8-4826-bd51-13a4fe073e55_thumbnail.webp",
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-190"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-362"
     },
     {
-      "id": 13461,
-      "IDcode": "START-084",
-      "title": "妹妹長大成了漂亮女孩並且有了男朋友，哥哥嫉妒的發瘋 ~ 柴崎はる",
+      "id": 3053,
+      "IDcode": "START-387",
+      "title": "交往1个月后与素颜女友共度3天假期4次激情性爱-柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20240709/5c51aea3-30f2-4ff0-bfd3-df00b449e84c.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250901/202509012136183232_31005_thumbnail.webp",
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-084"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-387"
     },
     {
-      "id": 13887,
-      "IDcode": "START-100",
-      "title": "即使在顏射時也總是微笑着的護士，口交神器 ~ 柴崎はる",
+      "id": 2188,
+      "IDcode": "START-417",
+      "title": "キモメンおじさん大大好き性交！！ 柴崎はる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240618/b16c3f59-a906-4cae-b94b-b7b9b870b71c.jpg",
-      "actress": [
-        "柴崎春"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-100"
-    },
-    {
-      "id": 14056,
-      "IDcode": "START-044",
-      "title": "想和已婚的老板生孩子，在一次溫泉戀情之旅中讓老板不斷射精 ~ 柴崎はる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240611/1b247801-57e5-4ab0-9067-3ec11bc555f2.jpg",
-      "actress": [
-        "柴崎春"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-044"
-    },
-    {
-      "id": 106358,
-      "IDcode": "SDJS-211",
-      "title": "入社2年目グッズ事業部柴崎はる 全裸業務で顔を真っ赤にしながらも羞恥心を克服!全裸業務中にまさかの即ハメ3本番!?",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-23",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "柴崎春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-211"
-    },
-    {
-      "id": 90268,
-      "IDcode": "SDJS-200",
-      "title": "超敏感なスケベなマ〇コにいきなり突撃! 巨根チ〇ポで即ハメ!4本番  照れ屋ショートカット グッズ事業部 入社2年目柴崎はる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-08-24",
-      "cover_url": "",
-      "actress": [
-        "柴崎春"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-200"
-    },
-    {
-      "id": 90276,
-      "IDcode": "SDJS-193",
-      "title": "初めて尽くし3本番奮闘ドキュメント 『より良いオナホグッズ開発研究の為に私のおマ〇コでテストさせてください』照れ屋だけどスケベっぷり半端ないグッズ事業部 入社2年目 柴崎はる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-06-22",
-      "cover_url": "",
-      "actress": [
-        "柴崎春"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-193"
-    },
-    {
-      "id": 90264,
-      "IDcode": "SDJS-195",
-      "title": "おもちゃ開発で大絶頂ドキュメント！ 女性用アダルトグッズの研究で実際に試して気持ち良さを追求するうち気づけば何度もイっちゃってました…！ ショートカットが可愛らしいグッズ事業部 入社2年目柴崎はる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-06-20",
-      "cover_url": "",
-      "actress": [
-        "柴崎春"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-195"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-417"
     }
   ]
 };

@@ -39,53 +39,53 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 67823,
-      "IDcode": "JOHS-008",
-      "title": "淫乱症",
+      "id": 98993,
+      "IDcode": "SOE-351",
+      "title": "生意気女子校生犯す 音羽レオン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-12-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/b7305845b8cf339461bb9cdfb186e3a5.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-02-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/soe351/soe351pl.jpg",
+      "actress": [
+        "音羽蕾恩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-351"
+    },
+    {
+      "id": 99673,
+      "IDcode": "SOE-323",
+      "title": "レイプ×ギリモザ 犯された女教師 音羽レオン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2009-12-07",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/soe323/soe323pl.jpg",
+      "actress": [
+        "音羽蕾恩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SOE-323"
+    },
+    {
+      "id": 522484,
+      "IDcode": "JOHS-008",
+      "title": "【淫乱症候群发作】北宫优×浅宫ゆうか×音羽蕾欧 多人连发治疗实录 肉体崩坏临界点",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sha.lashayu.com/upload/vod/20250418-1/b7305845b8cf339461bb9cdfb186e3a5.jpg",
       "actress": [
         "音羽蕾恩",
         "浅宫ゆうか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JOHS-008"
-    },
-    {
-      "id": 1990,
-      "IDcode": "MCBD-03",
-      "title": "Merci Beaucoup 03 乞求 SEX 無限性慾：Leon Otowa",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2013-12-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/ab9a7823-c447-4670-b618-f21a4e455db5.webp",
-      "actress": [
-        "音羽蕾恩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-03"
-    },
-    {
-      "id": 2065,
-      "IDcode": "CWPBD-90",
-      "title": "CATWALK POISON 90 PRIVATE 中出性愛 : 音羽蕾恩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/99725380-ae4b-4014-b21e-eed7dcecc969.webp",
-      "actress": [
-        "音羽蕾恩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-90"
     }
   ]
 };

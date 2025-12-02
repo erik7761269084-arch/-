@@ -43,34 +43,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250521/dc7bdb1a-32e5-4c8b-a43e-dac2fc64aac5_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250521/21ae4bca-556b-4f85-95f7-227df9aad708_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 4815,
-      "IDcode": "FNS-075",
-      "title": "轉校到全是男生的學校，天然妹子無防備走光勾引，面對硬挺大傢伙內褲濕透啦 ~ 淺野心愛",
+      "id": 5979,
+      "IDcode": "FNS-065",
+      "title": "纯白肌肤淡粉乳头F罩杯的F社20岁新人浅野心愛出道作",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-07-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250701/20250701203205533533_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "浅野心愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-075"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-065"
     },
     {
       "id": 5619,
       "IDcode": "FNS-074",
-      "title": "九淺一深，猝不及防高潮連連！初體驗滿滿的絕叫性感開發3本番 ~ 淺野心愛",
+      "title": "从慢速活塞开始的激烈活塞让她突然高潮初次体验-浅野心爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-06-02",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250601/20250601230509830830_thumbnail.webp",
       "actress": [
         "浅野心愛"
@@ -78,20 +78,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-074"
     },
     {
-      "id": 5979,
-      "IDcode": "FNS-065",
-      "title": "超可愛新人出道！F杯美胸小蠻腰 羞澀笑容誘惑滿分 首次亮相 AV DEBUT ~ 淺野心愛",
+      "id": 4815,
+      "IDcode": "FNS-075",
+      "title": "转学到男子学校的女生毫无防备地露出内裤天然诱惑-浅野心愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-05-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521015920315315_s.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250701/20250701203205533533_thumbnail.webp",
       "actress": [
         "浅野心愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-065"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-075"
+    },
+    {
+      "id": 3844,
+      "IDcode": "FNS-081",
+      "title": "想要被主人处罚自己变成性玩具的阿叔恋朴素眼镜女僕-浅野心爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250805/20250805211815552552_41304_thumbnail.webp",
+      "actress": [
+        "浅野心愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-081"
+    },
+    {
+      "id": 3030,
+      "IDcode": "FNS-095",
+      "title": "巨乳少女浅野心愛穿着泳装被教练狠狠插入-浅野心愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904174632867867_31864_thumbnail.webp",
+      "actress": [
+        "浅野心愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-095"
+    },
+    {
+      "id": 2250,
+      "IDcode": "FNS-103",
+      "title": "「あの頃、私はあの人が好きだった…」オープニング研修で知り合ったコ 浅野心愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "浅野心愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-103"
     }
   ]
 };

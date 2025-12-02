@@ -29,8 +29,72 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231128/3dedfe04-2e7e-46c9-8148-ce67e61596a5.jpg"
   ],
-  "works_count": 1,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 14384,
+      "IDcode": "KKBT-007",
+      "title": "店內絕對不允許的無套中出解禁！現役知名風俗女星一條のぞみ 最終章",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-06-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240528/95606c2a-6bee-41a7-ae79-a017bfb7efcd.jpg",
+      "actress": [
+        "一条のぞみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KKBT-007"
+    },
+    {
+      "id": 15855,
+      "IDcode": "KKBT-006",
+      "title": "高級 [Club Brenda VIP TOKYO] 活躍的風俗娘一條希美 對陷入困境的受虐狂的驚喜拜訪！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-04-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20240326/20240326053809182182.jpg",
+      "actress": [
+        "一条のぞみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KKBT-006"
+    },
+    {
+      "id": 16030,
+      "IDcode": "KKBT-005",
+      "title": "高品質服務 活躍的風俗明星一條のぞみ ~ 我的夢想女主互相渴望直到我們枯萎的純愛性愛記錄",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-02-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240227/20240227225009564564.jpg",
+      "actress": [
+        "一条のぞみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KKBT-005"
+    },
+    {
+      "id": 16534,
+      "IDcode": "KKBT-004",
+      "title": "活躍的風俗娘一条のぞみ的漂亮身體淫蕩地顫抖，她被大雞巴操翻了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-02-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240131/5ced5052-8ae4-4766-852e-0dca3104c7ac.jpg",
+      "actress": [
+        "一条のぞみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KKBT-004"
+    },
     {
       "id": 17565,
       "IDcode": "KKBT-002",
@@ -38,14 +102,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231128/20231128020812886886.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20476cf22ae3e04a817a7/cover.jpg",
       "actress": [
         "一条のぞみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KKBT-002"
+    },
+    {
+      "id": 17053,
+      "IDcode": "KKBT-003",
+      "title": "高級風俗店[Club Brenda 東京澀谷店] 現役一條希美展現了她真正的潛力！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab6bd05f03a092cf71c57a/cover.jpg",
+      "actress": [
+        "一条のぞみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KKBT-003"
     }
   ]
 };

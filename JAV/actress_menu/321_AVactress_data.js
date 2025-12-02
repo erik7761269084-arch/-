@@ -51,151 +51,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241206/c385a409-583f-4da0-96ac-35cf3eb56209.jpg",
     "https://picture.yoshiclub.xyz/20241206/41b89a94-e60d-4d7e-bfb5-e96d7a4a4b24.jpg"
   ],
-  "works_count": 14,
+  "works_count": 24,
   "related_dramas": [
     {
-      "id": 9639,
-      "IDcode": "START-244",
-      "title": "著名拉面店唯一的女性兼職，能接受性欲發泄的OK娘 ~ 諸戀生",
+      "id": 5780,
+      "IDcode": "START-342",
+      "title": "CAごときが定年間近ベテランパイロットの俺を捨てるなんて許さない 洗脳エステで俺の思い通りにしてやる！ 渚恋生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241224/ec40e269-4b5d-434b-ab93-e7053391bc7c.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250526/20250526105543409409_thumbnail.webp",
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-244"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-342"
     },
     {
-      "id": 2390,
-      "IDcode": "START-420",
-      "title": "與傲嬌女上司與盛夏出差21天，最後3天汗流浹背瘋狂開幹 ~ 渚戀生",
+      "id": 12405,
+      "IDcode": "START-168",
+      "title": "與渚戀生一起度過的優雅假期，二泊三日，4SEX10發 ~ 渚戀生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929210850886886_84900_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-09-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240827/20ab42dc-0fae-4cf0-8ad6-57a87e1f3470.jpg",
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-420"
-    },
-    {
-      "id": 3259,
-      "IDcode": "START-391",
-      "title": "人生初中出解禁 ~ 渚戀生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-08-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212139947947_65204_thumbnail.webp",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-391"
-    },
-    {
-      "id": 4030,
-      "IDcode": "START-376",
-      "title": "被醫生救回一條性命的病人竟是最惡強漢魔！被逼無奈陷入無盡輪幹地獄的美人醫生 ~ 渚戀生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-07-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203350418418_87170_thumbnail.webp",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-376"
-    },
-    {
-      "id": 6546,
-      "IDcode": "START-324",
-      "title": "新人芭蕾舞孃性支配NTR 軟嫩小穴被老男人肉棒強插狂幹到高潮墮落的紀錄片 ~ 渚戀生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/be0fc833-9095-42d0-a74a-d38c52bd833b_thumbnail.webp",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-324"
-    },
-    {
-      "id": 8745,
-      "IDcode": "START-263",
-      "title": "一生一度的求婚NTR：我希望你在結婚之前和其它男人上牀。男友在給我訂婚戒指時說了這句話，無法接受卻又不敢分手... ~ 渚戀生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-02-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250128/37a37882-c681-478f-8062-18ca49cf6165.jpg",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-263"
-    },
-    {
-      "id": 13056,
-      "IDcode": "START-140",
-      "title": "離開學校已經10年了呀，10來第一次與以前的同學重聚。當年我們曾經做過愛的記憶校舍已經不見蹤影…… ~ 渚戀生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20240730/65312503-821f-46f2-b174-319cf9ce47e2.jpg",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-140"
-    },
-    {
-      "id": 14740,
-      "IDcode": "START-074",
-      "title": "我的女朋友渚戀生 在第一次過夜約會時就發生了性關系",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240514/3aec2a75-5140-4d15-a6c9-e75c13442dbd.jpg",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-074"
-    },
-    {
-      "id": 14390,
-      "IDcode": "START-115",
-      "title": "芸能人的誘惑SEX，感度超高的BODY覺醒，擡起她的臀部並抽搐！~ 渚戀生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240528/52b609c1-62a0-4274-baa1-89284c70a05e.jpg",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-168"
     },
     {
       "id": 15674,
@@ -204,8 +92,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-04-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240402/20240402035734787787.jpg",
       "actress": [
@@ -214,29 +102,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-061"
     },
     {
-      "id": 16521,
-      "IDcode": "START-019",
-      "title": "外景拍攝歸來後的合租房間NTR， 一位因大雪無法回家的播報氣象的小姐，被狡猾的中年導演用權力騷擾了一晚上渚戀生",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-02-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240131/b09d1207-2656-480c-86ea-1f862d74fc2a.jpg",
-      "actress": [
-        "渚恋生"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-019"
-    },
-    {
       "id": 17186,
       "IDcode": "STARS-989",
       "title": "從接吻開始的四職業cosplay，天生淫蕩的職業OL女性，上班一打開開關就停不下來。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-01-25",
       "cover_url": "https://picture.yoshiclub.xyz/20231219/59104aa2-6b1d-4d32-8601-733ee118490b.jpg",
@@ -246,15 +118,63 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-989"
     },
     {
-      "id": 17708,
-      "IDcode": "STARS-975",
-      "title": "芸能人 渚恋生 絶頂開発 敏感BODY 从来没有过的史上最强烈的高潮！！巨根大絶頂",
+      "id": 172470,
+      "IDcode": "START-118",
+      "title": "夜班中偷偷地到处生着-渚恋生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/11/68207927c7cb4ba33f6f42b9/cover.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-118"
+    },
+    {
+      "id": 18549,
+      "IDcode": "STARS-931",
+      "title": "藝能界引退後馬上AV出道 渚戀生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-11-21",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a0013e9550e292a7766b4e/cover.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-931"
+    },
+    {
+      "id": 18174,
+      "IDcode": "STARS-946",
+      "title": "藝人突擊拜訪去你家！把渚戀生無限租借給你 渚戀生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/50500d1d3ea0d56bff2126180392a90b.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-946"
+    },
+    {
+      "id": 17708,
+      "IDcode": "STARS-975",
+      "title": "史上最高激潮-渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231122/7ca50ff6-1727-43e5-b059-76c24d69dbf7.jpg",
       "actress": [
         "渚恋生"
@@ -262,20 +182,260 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-975"
     },
     {
-      "id": 18549,
-      "IDcode": "STARS-931",
-      "title": "退出演藝圈後，立即演出成人電影。",
+      "id": 16521,
+      "IDcode": "START-019",
+      "title": "外景拍摄回去相房间NTR-渚恋生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-10-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230926/20230926035144280280.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240131/b09d1207-2656-480c-86ea-1f862d74fc2a.jpg",
       "actress": [
         "渚恋生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-931"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-019"
+    },
+    {
+      "id": 16054,
+      "IDcode": "START-029",
+      "title": "射精無限F罩杯泡泡浴-渚戀生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240329-1/cc4aa029e5166c2ea365cb416fe19b45.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-029"
+    },
+    {
+      "id": 14740,
+      "IDcode": "START-074",
+      "title": "我的女朋友是独占渚恋生艺人-渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240514/3aec2a75-5140-4d15-a6c9-e75c13442dbd.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-074"
+    },
+    {
+      "id": 14390,
+      "IDcode": "START-115",
+      "title": "敏感觉醒体翘臀抽搐-小尾渚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240528/52b609c1-62a0-4274-baa1-89284c70a05e.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-115"
+    },
+    {
+      "id": 13056,
+      "IDcode": "START-140",
+      "title": "要不要久违的去看看学校-渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf160f7de28f4ede510f38/cover.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-140"
+    },
+    {
+      "id": 11740,
+      "IDcode": "START-186",
+      "title": "ハネムーン中の新婚夫婦から旦那をお触り誘惑 館内で寝取り口淫セックスをくり返す淫乱美人なホテルスタッフ 渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/766d192d127771ec60283b70ac6ba8cd.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-186"
+    },
+    {
+      "id": 11022,
+      "IDcode": "START-210",
+      "title": "那須塩原温泉を訪れた渚恋生ちゃん（23）タオル一枚男湯入ってみませんか？HARD",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688db544c92318f97d4b206b/cover.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-210"
+    },
+    {
+      "id": 9639,
+      "IDcode": "START-244",
+      "title": "拉面店唯一的女性打工妹-渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241224/ec40e269-4b5d-434b-ab93-e7053391bc7c.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-244"
+    },
+    {
+      "id": 8745,
+      "IDcode": "START-263",
+      "title": "一生に一度のプロポーズNTR 婚約指輪を渡されたタイミングで彼氏に告げられ 今さら別れる気にもなれず 渋々受け入れてしまったドMカノジョ 渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250128/37a37882-c681-478f-8062-18ca49cf6165.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-263"
+    },
+    {
+      "id": 7970,
+      "IDcode": "START-280",
+      "title": "最高の芸能人を最良のトロマン状態で 禁欲明けに理性がブッ飛ぶ 淫汁 汗 唾液とろだく漏らしっぱなし性交 渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c5a5f44e7d663df4ca7772/cover.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-280"
+    },
+    {
+      "id": 7283,
+      "IDcode": "START-307",
+      "title": "昼は清楚な新人女子アナ恋生は 夜はボクの居残り残業の発声練習に付き合ってくれ とびきり下品な清らか淫語を耳元でささやいて 優しく包み込むようなフィンガーテクと乳首舐めで慰めてくれる神同期 渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250325/60a4452d-412c-4cec-bcb9-4fa7320dcd93.jpg",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-307"
+    },
+    {
+      "id": 6546,
+      "IDcode": "START-324",
+      "title": "对新人芭蕾舞女学员的性支配NTR-渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/be0fc833-9095-42d0-a74a-d38c52bd833b_thumbnail.webp",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-324"
+    },
+    {
+      "id": 5046,
+      "IDcode": "START-360",
+      "title": "いいなり温泉旅行 渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623204632577577_thumbnail.webp",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-360"
+    },
+    {
+      "id": 4030,
+      "IDcode": "START-376",
+      "title": "命を救った男は最悪の強漢魔だった。無理矢理性処理をさせられ続け輪漢沼に堕ちた救急救命医・渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728203350418418_87170_thumbnail.webp",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-376"
+    },
+    {
+      "id": 3259,
+      "IDcode": "START-391",
+      "title": "人生首次无套内射解禁-渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250825/20250825212139947947_65204_thumbnail.webp",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-391"
+    },
+    {
+      "id": 2390,
+      "IDcode": "START-420",
+      "title": "高飛車な女上司と真夏の張り込み捜査21日間 2週間過ぎてもホシは動かずしびれを切らしたぼくらは残り三日間汗だくでパコってしまい… 渚恋生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "渚恋生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-420"
     }
   ]
 };

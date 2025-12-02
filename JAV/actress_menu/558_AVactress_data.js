@@ -42,133 +42,67 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241003/3f9aa345-c4f6-4bc6-8a98-3f014b3da908.jpg",
     "https://picture.yoshiclub.xyz/20241003/a8364ea4-3ab8-4004-b6a5-3e7c50be6dd8.jpg"
   ],
-  "works_count": 9,
+  "works_count": 13,
   "related_dramas": [
     {
-      "id": 3013,
-      "IDcode": "SONE-894",
-      "title": "忍不住對性感巨乳女教師下手，癡漢的技術讓她比未婚夫好多了 ~ 篠真有",
+      "id": 11439,
+      "IDcode": "SONE-471",
+      "title": "新人NO.1-篠真有",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025701946946_72278_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/8aa4f9ca3c8112bb7e5108cdb84df21f.jpg",
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-894"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-471"
     },
     {
-      "id": 4718,
-      "IDcode": "SONE-807",
-      "title": "老師的巨乳太誘人了！性感爆棚讓人把持不住 ~ 篠真有",
+      "id": 10744,
+      "IDcode": "SONE-474",
+      "title": "篠真有初体验3本番",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053410495495_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241107/20241107090426115115.jpg",
       "actress": [
         "篠真有",
-        "日森一"
+        "鲛岛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-807"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-474"
     },
     {
-      "id": 5554,
-      "IDcode": "SONE-754",
-      "title": "偷窺女友姐姐換衣服…那巨乳身材讓我慾火爆發！天然呆又好推倒的姐姐，認真求她竟然就答應了 ~ 篠真有",
+      "id": 10130,
+      "IDcode": "SONE-494",
+      "title": "‘あなたの隣にいたかもしれない’ 純白おっぱい＆敏感ピンク乳首 Jカップ超堪能200分フルコース 篠真有",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042117542542_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205081854558558.jpg",
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-754"
-    },
-    {
-      "id": 6328,
-      "IDcode": "SONE-716",
-      "title": "喂，不會別的就靠大奶夾緊讓我爽啦！平時溫柔的我被她逼成鬼畜抖S，超愛被虐的纖細巨乳妹 ~ 篠真有",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065550341341_thumbnail.webp",
-      "actress": [
-        "篠真有",
-        "蓝井优太"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-716"
-    },
-    {
-      "id": 7080,
-      "IDcode": "SONE-678",
-      "title": "透視、溼身、走光全開！着衣巨乳姐姐那軟嫩J杯的無意識勾引五大場景 ~ 篠真有",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092853432432.jpg",
-      "actress": [
-        "篠真有"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-678"
-    },
-    {
-      "id": 7734,
-      "IDcode": "SONE-634",
-      "title": "出差被迫和猥瑣中年上司相部屋... I罩杯新人不自覺沉淪於通宵絕倫性愛 ~ 篠真有",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305124027381381.jpg",
-      "actress": [
-        "篠真有"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-634"
-    },
-    {
-      "id": 8454,
-      "IDcode": "SONE-588",
-      "title": "2泊3日的放題溫泉之旅，盡情享受溼潤閃亮的纖細J罩杯 ~ 篠真有",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075625740740.jpg",
-      "actress": [
-        "篠真有",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-588"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-494"
     },
     {
       "id": 9250,
       "IDcode": "SONE-538",
-      "title": "170次激烈高潮！ 痙攣2345回！ 潮噴3468cc！史上最細腰的女優就在你身邊 J罩杯愛神覺醒大痙攣特輯 ~ 篠真有",
+      "title": "极致高潮170次-篠真有",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074528861861.jpg",
       "actress": [
         "篠真有",
@@ -177,20 +111,151 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-538"
     },
     {
-      "id": 10130,
-      "IDcode": "SONE-494",
-      "title": "「我可以在你身邊」純白美胸+敏感粉色乳頭J罩杯超過癮200分鍾 ~ 篠真有",
+      "id": 8454,
+      "IDcode": "SONE-588",
+      "title": "随心所欲2晚3天缠绵交织的温泉不伦旅行",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205081854558558.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b95d774e7d663df48c25a5/cover.jpg",
+      "actress": [
+        "篠真有",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-588"
+    },
+    {
+      "id": 7734,
+      "IDcode": "SONE-634",
+      "title": "出差时与轻蔑的中年性骚扰上司意外同住一室",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb08a34e7d663df4c48c7d/cover.jpg",
       "actress": [
         "篠真有"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-494"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-634"
+    },
+    {
+      "id": 7080,
+      "IDcode": "SONE-678",
+      "title": "穿着衣服的巨乳姐姐的无意识诱惑5种情境",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092853432432.jpg",
+      "actress": [
+        "篠真有"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-678"
+    },
+    {
+      "id": 6328,
+      "IDcode": "SONE-716",
+      "title": "平日里温柔的我-篠真有",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065550341341_thumbnail.webp",
+      "actress": [
+        "篠真有",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-716"
+    },
+    {
+      "id": 5554,
+      "IDcode": "SONE-754",
+      "title": "看了她姐姐的日记-篠真有",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605042117542542_thumbnail.webp",
+      "actress": [
+        "篠真有"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-754"
+    },
+    {
+      "id": 4718,
+      "IDcode": "SONE-807",
+      "title": "老师的胸部也太色了吧-篠真有",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053410495495_thumbnail.webp",
+      "actress": [
+        "篠真有",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-807"
+    },
+    {
+      "id": 3792,
+      "IDcode": "SONE-842",
+      "title": "好きな男のためなら性処理でも何でもする女の末路は家畜としての人間オナホール 篠真有",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030627656656_93123_thumbnail.webp",
+      "actress": [
+        "篠真有"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-842"
+    },
+    {
+      "id": 3013,
+      "IDcode": "SONE-894",
+      "title": "忍不住对性感巨乳女教师疯狂痴汉-篠真有",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025701946946_72278_thumbnail.webp",
+      "actress": [
+        "篠真有"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-894"
+    },
+    {
+      "id": 2099,
+      "IDcode": "SONE-964",
+      "title": "內衣公司依然存在著惡劣騷擾-篠真有",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://img.cdn202511.com/videos/202511/05/690b034a23d1d48142eb7d91/cover.jpg",
+      "actress": [
+        "篠真有"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-964"
     }
   ]
 };

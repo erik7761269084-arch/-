@@ -38,25 +38,85 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-仁奈るあ.jpg",
     "https://picture.yoshiclub.xyz/20240118/f053478f-79c8-4ad9-a6e3-2689ca986f44.jpg"
   ],
-  "works_count": 5,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 72243,
-      "IDcode": "NTR-064",
-      "title": "＜胸クソ！パパ活成敗中出し＞パパにガチ恋しちゃったS級美女の末路。お嬢様系彼女を捕まえる為、今回は麻布十番でナンパ！早速清楚系の美女発見w聞くと実は彼氏彼女の関係では無くパパ活女子パパ？！面白そうなのでOK！AV出演はパパが乗り気で「むしろ上乗せする」とノリノリ。彼女は浮かない顔しているが…？実はパパにガチ恋してるとか…AV出演すれば特別な関係になれると彼に唆され決意を決める。彼の為と言いつつおま●こは大洪水&amp;他人棒で突くと激しくよがりまくりで…最後は無断中出し。ゴチでしたw",
+      "id": 8309,
+      "IDcode": "PPBD-302",
+      "title": "最佳軟綿爆乳騎乘超爽大賞 BEST 合集 ~ 吉根柚莉愛, 佐山愛, 椿りか, Hitomi, 緒川春, JULIA",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-10-25",
-      "cover_url": "https://tutu1.space/images/2025/03/08/2786f8dc8f6d81803df332b45438189d.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-02-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20250214/20250214051857569569.jpg",
+      "actress": [
+        "椿莉香",
+        "吉根柚莉爱",
+        "JULIA",
+        "佐山爱",
+        "仓多真央",
+        "春菜华",
+        "谷梓",
+        "浅田結梨",
+        "緒川春",
+        "星咲ひな",
+        "桐谷茉莉",
+        "川村晴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-302"
+    },
+    {
+      "id": 1014,
+      "IDcode": "HEYZO-1415",
+      "title": "看上去很普通的女人，脫掉衣服後卻很迷人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-02-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020936496496.jpg",
+      "actress": [
+        "星咲ひな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1415"
+    },
+    {
+      "id": 102744,
+      "IDcode": "MCSR-249",
+      "title": "人妻中出介護",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "星咲ひな",
-        "仓木诗织",
-        "しずかさん"
+        "新村晶",
+        "森保さな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-064"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-249"
+    },
+    {
+      "id": 96491,
+      "IDcode": "YAL-030",
+      "title": "就回家準備老公晚餐的主婦們",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "七草千歲",
+        "星咲ひな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YAL-030"
     },
     {
       "id": 81459,
@@ -65,10 +125,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-04-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/528ae30f9a9225fffd1460c2730d022e.jpg",
       "actress": [
         "星咲ひな",
         "三岛奈津子",
@@ -81,14 +141,14 @@ window.actressData = {
     {
       "id": 76789,
       "IDcode": "SCPX-371",
-      "title": "客の僕をダサいってバカにしてたくせに…試着室で2人になった瞬間デカチン勃起見せつけたらエロ笑顔でニッコリ微笑んで来たギャル店員「お客様…内緒ですよ」",
+      "title": "微笑店員",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2019-08-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d4c1f19072af1ee579e9c82b5579676c.jpg",
       "actress": [
         "星咲ひな",
         "REN(月乃なつき)",
@@ -98,39 +158,39 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-371"
     },
     {
+      "id": 72243,
+      "IDcode": "NTR-064",
+      "title": "狂恋爸爸的S级美女",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "星咲ひな",
+        "仓木诗织",
+        "しずかさん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NTR-064"
+    },
+    {
       "id": 71614,
       "IDcode": "FIV-012",
       "title": "★★★★★ 五ツ星ch グラマラス乙女SP ch.12 小さい身体に搭載したボリュームおっぱい！！勃起不可避4時間！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-03-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/5af5c5a866699d913e099ee36400d905.jpg",
       "actress": [
         "星咲ひな",
         "水野朝陽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-012"
-    },
-    {
-      "id": 102744,
-      "IDcode": "MCSR-249",
-      "title": "人妻中出し介護ヘルパー 世話好きで、おじいちゃんの言う事なんでもしちゃう",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2017-04-25",
-      "cover_url": "",
-      "actress": [
-        "星咲ひな",
-        "新村晶",
-        "森保さな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-249"
     }
   ]
 };

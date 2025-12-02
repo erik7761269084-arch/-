@@ -4,7 +4,7 @@ window.actressData = {
   "name": "神崎リゼ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 8816,
       "IDcode": "NAIAD-004",
-      "title": "【空想科學美人】舒緩奢華低聲淫語和柔軟蓬鬆的G罩杯乳房，超級乳交女僕神乳做愛",
+      "title": "癒しの贅沢淫語と神乳フワとろGカップでねっとり挟んでくれる極パイズリメイドさぽーと 神崎リゼ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DASDAS",
-      "publish_date": "2025-01-28",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250125/20250125072747232232.jpg",
       "actress": [
         "神崎リゼ"

@@ -30,34 +30,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/愛沢かりん.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1916,
-      "IDcode": "MKBD-S102",
-      "title": "KIRARI 102 炸彈美體 : 愛澤花梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2015-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/d5b8a268-d7e1-438c-84a8-644506532eb8.webp",
-      "actress": [
-        "爱泽花梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S102"
-    },
     {
       "id": 1799,
       "IDcode": "SMBD-128",
-      "title": "S Model 128 看到馬上插！~轉身就被插~ 愛澤花梨",
+      "title": "爱泽花梨首次下马作品",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-05-27",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230212/0655c703-a6f1-435b-9627-bbd68dd5dc79.webp",
       "actress": [
         "爱泽花梨"

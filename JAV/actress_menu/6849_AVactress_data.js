@@ -4,7 +4,7 @@ window.actressData = {
   "name": "爱田奈々",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,31 +19,15 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 107196,
-      "IDcode": "JUX-422",
-      "title": "與鄰居太太玩起下流的抓迷藏 愛田奈奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2014-09-25",
-      "cover_url": "",
-      "actress": [
-        "爱田奈々"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-422"
-    },
-    {
       "id": 107307,
       "IDcode": "RBD-558",
-      "title": "美人女將 凌辱女體接待8 愛田奈奈",
+      "title": "温泉侍奉奴隶人妻-爱田奈奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2014-02-07",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "平井シンジ",
@@ -51,6 +35,22 @@ window.actressData = {
         "爱田奈々"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-558"
+    },
+    {
+      "id": 107196,
+      "IDcode": "JUX-422",
+      "title": "寂寞的巨乳人妻-愛田奈々",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/de093e3261fadd85c1762e695f687c33.jpg",
+      "actress": [
+        "爱田奈々"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUX-422"
     }
   ]
 };

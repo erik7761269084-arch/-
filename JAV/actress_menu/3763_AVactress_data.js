@@ -25,34 +25,33 @@ window.actressData = {
   "works_count": 4,
   "related_dramas": [
     {
-      "id": 68745,
-      "IDcode": "IPZ-770",
-      "title": "隨時隨地啪啪插入中！ 立花陽未",
+      "id": 77431,
+      "IDcode": "IPZ-649",
+      "title": "マジックミラー号がイク！！完全ガチンコ素人 童貞初挿入 初体験が超絶美女2人の逆3P！ 羨ましすぎるWキャストスペシャル！ 立花はるみ 白石茉莉奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2016-06-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1f6ec90c7b8a13e1b96d6a506d46a1e5.jpg",
       "actress": [
-        "鲛岛",
-        "玉木玲",
+        "白石茉莉奈",
         "立花はるみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-649"
     },
     {
       "id": 69022,
       "IDcode": "IPZ-750",
-      "title": "美尻が際立つ究極の尻コスマニアックス×大量尻ぶっかけ！ 立花はるみ",
+      "title": "终极的臀部宇宙狂人-立花はるみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2016-05-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250401-1/4f95817c1df0e59daa4589817efe60c3.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250322-1/f1aae205a19141ef27a7e9683fe1cc7e.jpg",
       "actress": [
         "森林原人",
         "玉木玲",
@@ -61,33 +60,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-750"
     },
     {
-      "id": 77431,
-      "IDcode": "IPZ-649",
-      "title": "マジックミラー号がイク！！完全ガチンコ素人 童貞初挿入 初体験が超絶美女2人の逆3P！ 羨ましすぎるWキャストスペシャル！ 立花はるみ 白石茉莉奈",
+      "id": 68745,
+      "IDcode": "IPZ-770",
+      "title": "超长的插入-立花はるみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-11-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/56b400353130202d8b6a4016bef72f83.jpg",
       "actress": [
-        "白石茉莉奈",
+        "鲛岛",
+        "玉木玲",
         "立花はるみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-649"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-770"
     },
     {
       "id": 67794,
       "IDcode": "IPZ-623",
-      "title": "穿超薄誘人實習教師 立花陽未",
+      "title": "新人女教师の禁断授业实录 立花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-09-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250419-1/dc5a46b7bf2013cd929a1cc9fbba8181.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/a03c5df4ada5e9ed649e44d79f95a930.jpg",
       "actress": [
         "立花はるみ"
       ],

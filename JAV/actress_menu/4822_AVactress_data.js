@@ -4,7 +4,7 @@ window.actressData = {
   "name": "神崎ひかる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 78437,
       "IDcode": "DTT-043",
-      "title": "芸能事務所・マネージャー「本当の私を引き出してもらいに来ました…」神崎ひかる AVデビュー 旦那に内緒の他人棒で敏感即イキ！！",
+      "title": "芸能事務所・マネージャー「本当の私を引き出し",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5608b2c1d3dad4e0c3ae9359d6ae38f4.jpg",
       "actress": [
         "森林原人",
         "神崎ひかる"

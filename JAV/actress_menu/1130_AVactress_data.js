@@ -38,25 +38,27 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250430/d0b1d06d-09f1-4de1-a012-3f58d3120467_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250430/ec1d5810-1c74-4836-8673-ce664c1c4919_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3182,
-      "IDcode": "RBK-118",
-      "title": "Bulbs犯罪集團 第一章 輪⬤絕色麗人 肛交雙空同入 ~ 神納花",
+      "id": 6254,
+      "IDcode": "NSFS-382",
+      "title": "第一次被寝取的頂級快感：請盡情享用我的妻子！~ 真木今日子 美泉咲 水原さな 武藤あやか 高嶋亜美 神納花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-08-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032606982982_57875_thumbnail.webp",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510060251618618_thumbnail.webp",
       "actress": [
+        "真木今日子",
+        "武藤彩香",
+        "美泉咲",
         "神納花",
-        "兎美かれん",
-        "管野静香"
+        "水原さな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-118"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-382"
     },
     {
       "id": 5065,
@@ -65,9 +67,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-06-21",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/202506210757054444_thumbnail.webp",
       "actress": [
         "天馬唯",
@@ -124,6 +126,24 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REAL-920"
+    },
+    {
+      "id": 3182,
+      "IDcode": "RBK-118",
+      "title": "アマリリス 第一章 犯●れた麗女の肛門",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828032606982982_57875_thumbnail.webp",
+      "actress": [
+        "神納花",
+        "兎美かれん",
+        "管野静香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-118"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桐生もえか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,9 +25,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2020-01-25",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/0365aba752eb0afbe708ef49c116e469.jpg",
       "actress": [
         "桐生もえか"

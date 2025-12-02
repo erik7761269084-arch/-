@@ -54,10 +54,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2011-03-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20230507/7ca6dbed-98da-4004-82a7-fa1521214be9.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b509bb7bd3c451b800f18e57f656207e.jpg",
       "actress": [
         "早見るり"
       ],

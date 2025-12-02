@@ -4,7 +4,7 @@ window.actressData = {
   "name": "池崎あずさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 9952,
       "IDcode": "JUTA-158",
-      "title": "極上新人！ ！三十路人妻初脫！AV DEBUT ~ 池崎あずさ",
+      "title": "三十岁夫人初次脱衣AV纪录片-池崎梓",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241213/3251edd9-2951-4b36-bede-2bebba3759ba.jpg",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241227-1/b2b8606cadc37bee5c7aa8f9a06165b3.jpg",
       "actress": [
         "池崎あずさ"
       ],

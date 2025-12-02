@@ -49,11 +49,11 @@ window.actressData = {
     {
       "id": 1818,
       "IDcode": "MKBD-S30",
-      "title": "KIRARI 30 ～巨乳護理師中出檢查～ : 辻井美穗 (HD)",
+      "title": "KIRARI 30 ～巨乳護理師中出檢查～ : 辻井美穗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2012-09-14",
       "cover_url": "https://picture.yoshiclub.xyz/20230131/c37e3fa5-676a-475b-95d3-81849c8d26a4.webp",

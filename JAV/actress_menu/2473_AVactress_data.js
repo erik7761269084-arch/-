@@ -54,7 +54,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231128/2be84eb6-735d-4892-842f-a19e11db313d.jpg",
     "https://picture.yoshiclub.xyz/20231128/2c74d016-eb37-4fbf-9fdf-5da277e74f98.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 17548,
@@ -63,7 +63,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
       "cover_url": "https://picture.yoshiclub.xyz/20231128/9782322e-f3f1-4623-9ad2-91b1bb2bd5c1.jpg",
@@ -76,16 +76,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-195"
     },
     {
-      "id": 104615,
-      "IDcode": "HND-221",
-      "title": "2穴バックでイカセたら即中出しOKなドM人妻 高梨あゆみ",
+      "id": 98962,
+      "IDcode": "BBAN-023",
+      "title": "人妻看護師監禁アナルレズビアン高梨あゆみ朝倉ことみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2015-09-25",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hnd221/hnd221pl.jpg",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2014-12-07",
+      "cover_url": "",
+      "actress": [
+        "黒木歩",
+        "高梨步",
+        "朝仓ことみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-023"
+    },
+    {
+      "id": 104615,
+      "IDcode": "HND-221",
+      "title": "射精的支配者-高梨あゆみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "高梨步",
         "鲛岛"

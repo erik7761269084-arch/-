@@ -27,14 +27,14 @@ window.actressData = {
     {
       "id": 61082,
       "IDcode": "ADN-062",
-      "title": "あなた、許して…。 官能小説のように 浅野えみ",
+      "title": "官能小説-浅野えみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2015-06-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/10/02/bd043fa63dc426cfdf8ef9e4dbb7b8e7.jpg",
       "actress": [
         "浅野えみ"
       ],

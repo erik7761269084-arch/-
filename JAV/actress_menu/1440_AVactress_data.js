@@ -38,35 +38,70 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/水野葵.jpg",
     "https://picture.yoshiclub.xyz/20230124/b8a43540-46ed-4edf-9c24-db14674b23d5.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 68374,
-      "IDcode": "MIDV-215",
-      "title": "さくらたん初顔射大作戦！！苦手なのに…一撃ぶっかけ 星乃さくら 生写真3枚付き",
+      "id": 97094,
+      "IDcode": "MIDV-170",
+      "title": "【FANZA限定】さくらたんがイッた！？ イキたくてエッチ猛特訓！ぜ～んぶ初体験だよ！性感開発3本番スペシャル 星乃さくら （ブルーレイディスク） 生写真3枚付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2022-10-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250418-1/20b3e0f5f49b4a1ad64ca3f4cff1a378.jpg",
+      "publish_date": "2022-08-17",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d5f64044465c3be2cadbe715b5f173f6.jpg",
       "actress": [
         "水野葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-170"
+    },
+    {
+      "id": 97847,
+      "IDcode": "SDMU-169",
+      "title": "一般人カップル×真正中出し×連続射精ゲーム 愛する彼氏の目の前で、いつ他人精子が暴発するか分からない！？ 彼氏を中出し発射することができれば100万円！！ ハラハラドキドキ中出しロシアンルーレット",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-01-22",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1sdmu169/1sdmu169pl.jpg",
+      "actress": [
+        "水野葵",
+        "凉宫琴音",
+        "冲野るり",
+        "水沢あいり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMU-169"
+    },
+    {
+      "id": 142574,
+      "IDcode": "011916-077",
+      "title": "想要被克制的德米美人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250201-1/f5ee84160861b305d43a1fb9c5b6b957.jpg",
+      "actress": [
+        "水野葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=011916-077"
     },
     {
       "id": 85460,
       "IDcode": "MIDV-193",
-      "title": "制服少女さくらたんと学校でこっそり声我慢SEXしたい人いる？？ 星乃さくら （ブルーレイディスク） （BOD）",
+      "title": "制服少女-星乃さくら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2022-09-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230125-1/4313c4be9f5e7d7082a85194b9b51fda.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-8/6b92c1607049d11be4c1711eea7c56bf.jpg",
       "actress": [
         "水野葵",
         "Qべぇ"
@@ -74,36 +109,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-193"
     },
     {
-      "id": 1945,
-      "IDcode": "LAFBD-43",
-      "title": "林間少女 43 美人崩壞 水野葵",
+      "id": 68374,
+      "IDcode": "MIDV-215",
+      "title": "顔射大作戦-星乃さくら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2015-03-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/938551f5-9a0c-417e-b6e1-11113ec99461.webp",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-7/347c6ca15a3f254b3843195ee10489be.jpg",
       "actress": [
         "水野葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-43"
-    },
-    {
-      "id": 1991,
-      "IDcode": "MKBD-S91",
-      "title": "KIRARI 91 人妻不倫溫泉 : 水野葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2015-02-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/0aa33577-9a03-48f3-ab65-9ef6c3a3bc65.webp",
-      "actress": [
-        "水野葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S91"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-215"
     }
   ]
 };

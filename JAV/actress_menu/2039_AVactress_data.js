@@ -34,7 +34,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/鈴木理沙.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 1004,
@@ -43,7 +43,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-04-26",
       "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124231057748748.jpg",
@@ -51,22 +51,6 @@ window.actressData = {
         "鈴木理沙"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1398"
-    },
-    {
-      "id": 1704,
-      "IDcode": "MKBD-S133",
-      "title": "KIRARI 133 乖巧好色學生妹 : 鈴木理沙",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2017-01-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/ad471105-4b3d-4087-804b-2965d5e3bc94.webp",
-      "actress": [
-        "鈴木理沙"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S133"
     }
   ]
 };

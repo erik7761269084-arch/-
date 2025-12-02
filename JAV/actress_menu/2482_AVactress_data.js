@@ -46,15 +46,82 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 3491,
-      "IDcode": "MKCK-398",
-      "title": "巨乳晃不停，高潮時那小表情太撩人，我要射了！中出正常位精選4小時87人 ~ 有阪深雪 美園和花 有村希 清宮仁愛 希咲愛莉絲 莉莉遙香 雨宮響 宮本留衣 華澄結愛 鬼塚萌奈美 香阪紗梨 逢見梨花 藤井蘭々...",
+      "id": 87303,
+      "IDcode": "BOBB-352",
+      "title": "おっぱい星人御用達！Jカップ108cmに包まれ愛情たっぷり！訪問おっぱい御奉仕サービス密着ドキュメントBoin「花渕なつ」Box",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2022-09-20",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5f4c0493a57de7911c480c2ff36bf3a7.jpg",
+      "actress": [
+        "花渕なつ",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-352"
+    },
+    {
+      "id": 86999,
+      "IDcode": "EBOD-920",
+      "title": "大家族の長女-花渕なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/c07d329f6dd1188c284c09afaf0819cc.jpg",
+      "actress": [
+        "花渕なつ",
+        "小田切ジュン",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-920"
+    },
+    {
+      "id": 86554,
+      "IDcode": "VEC-550",
+      "title": "与前辈的妻子偷情-花渕なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "花渕なつ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-550"
+    },
+    {
+      "id": 66795,
+      "IDcode": "ATID-541",
+      "title": "黒太棒-花渕なつ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/08/67f518d2cf22ae3e04f0bad4/cover.jpg",
+      "actress": [
+        "花渕なつ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-541"
+    },
+    {
+      "id": 3491,
+      "IDcode": "MKCK-398",
+      "title": "揺れる巨乳とイキ顔がエロ過ぎて…俺もイッちゃうッ！種付け寸前の中出し正常位ベスト4時間87名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250818/20250818045151795795_88584_thumbnail.webp",
       "actress": [
         "美園和花",
@@ -128,73 +195,6 @@ window.actressData = {
         "叶月桃"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-398"
-    },
-    {
-      "id": 66795,
-      "IDcode": "ATID-541",
-      "title": "ATID-541",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-12-30",
-      "cover_url": "",
-      "actress": [
-        "花渕なつ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-541"
-    },
-    {
-      "id": 87303,
-      "IDcode": "BOBB-352",
-      "title": "おっぱい星人御用達！Jカップ108cmに包まれ愛情たっぷり！訪問おっぱい御奉仕サービス密着ドキュメントBoin「花渕なつ」Box",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2022-09-20",
-      "cover_url": "",
-      "actress": [
-        "花渕なつ",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BOBB-352"
-    },
-    {
-      "id": 86554,
-      "IDcode": "VEC-550",
-      "title": "與前輩太太馬上抽插雙重不倫 與最棒的外遇對象時間許可內見面中出做愛 花渕夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
-      "actress": [
-        "花渕なつ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-550"
-    },
-    {
-      "id": 86999,
-      "IDcode": "EBOD-920",
-      "title": "【FANZA限定】「大家族の長女で家族のみんなが本当に大好き！休日は8人分の料理もしてます！」 高嶺の花に見えますが実は超家庭的！！激むちメガトンJカップ花渕なつE-BODY専属AVデビュー 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2022-07-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230528-1/360bd89bd4f587857e83d8c696ce7201.jpg",
-      "actress": [
-        "花渕なつ",
-        "小田切ジュン",
-        "南佳也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-920"
     }
   ]
 };

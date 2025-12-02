@@ -30,19 +30,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250129/f1d3dca0-2155-45f4-8f15-a00c35bfe1b9.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 6565,
-      "IDcode": "NECO-002",
-      "title": "偷窺洗澡時光 鄰家素人妹子的隱秘自慰 ~ 篠崎菜都香",
+      "id": 8731,
+      "IDcode": "SDJS-296",
+      "title": "處女喪失 這對我來說只是份工作而已！SOD女子社員 編成部 中途1年目 ~ 篠崎菜都香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2025-01-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20250129/782720e3-bf76-4558-be9f-34d73d3355db.jpg",
+      "actress": [
+        "篠崎菜都香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-296"
+    },
+    {
+      "id": 6565,
+      "IDcode": "NECO-002",
+      "title": "のぞき見バスタイム 騒音に耐えかねて窓を覗いたら地味で物静かな娘がお風呂場で自慰行為をしている姿をみてしまい、俺は発育途中のムチムチな身体に興奮してしまい我慢できずに犯した。 篠崎菜都香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "FIRST STAR",
-      "publish_date": "2025-04-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/202504271116357575_s.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "篠崎菜都香"
       ],

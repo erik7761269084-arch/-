@@ -4,7 +4,7 @@ window.actressData = {
   "name": "NIMO",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,80 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 9,
+  "works_count": 12,
   "related_dramas": [
+    {
+      "id": 81960,
+      "IDcode": "PYM-330",
+      "title": "ノンストップ絶対止めるな！！ 無限絶頂イカセ痙攣電マ 割れ目クッキリ21人全員イキ潮まみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2020-02-15",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/debc95ee87f2606cafdea858e5d75c8d.jpg",
+      "actress": [
+        "爱里るい",
+        "永瀬爱菜",
+        "相泽ゆりな",
+        "NIMO",
+        "悠月アイシャ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-330"
+    },
+    {
+      "id": 99032,
+      "IDcode": "RCTD-172",
+      "title": "友達同士の女の子がTSFふたなり体験2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "2018-12-06",
+      "cover_url": "http://15.155250922.com/upload/vod/2022/09/xmukjxqt40q.jpg",
+      "actress": [
+        "山冈りりな",
+        "枝川结衣",
+        "NIMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-172"
+    },
+    {
+      "id": 98662,
+      "IDcode": "MEKI-007",
+      "title": "「イヤだとは言えない…」女子力UPを目指してやって来たエステ店で、施術師の男の口車に乗せられ快楽に身を委ねてしまった制服美少女たちの性感オイルマッサージ2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-11-27",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_1133meki007/h_1133meki007pl.jpg",
+      "actress": [
+        "浅田结梨",
+        "一宫みかり",
+        "NIMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEKI-007"
+    },
+    {
+      "id": 99691,
+      "IDcode": "ONEZ-163",
+      "title": "即ハメ こねくりフェラしてくれる俺の推しアイドルとエッチできた件について！NIMO Vol.002",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-11-02",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118onez163/118onez163pl.jpg",
+      "actress": [
+        "NIMO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-163"
+    },
     {
       "id": 91219,
       "IDcode": "EVIS-489",
@@ -25,10 +97,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-10-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240415-1/f527e9009db60be0a5571ff2ed3ef88e.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240415-1/bdfe89aa429a3a598f9b1d37ad6c74ee.jpg",
       "actress": [
         "阿部乃美久",
         "雨村梨花",
@@ -44,16 +116,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EVIS-489"
     },
     {
+      "id": 87541,
+      "IDcode": "AP-596",
+      "title": "癡汉追到家把她连续内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f2a388444c42f1c1ccb70879748c154b.jpg",
+      "actress": [
+        "真木今日子",
+        "星空萌愛",
+        "森春流",
+        "NIMO",
+        "香山亜衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-596"
+    },
+    {
       "id": 83182,
       "IDcode": "RCTD-313",
       "title": "真・時間が止まる腕時計パート16",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROCKET",
-      "publish_date": "2020-03-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221221-1/961e39cd79e0c794d38d1d70bbaf9ecc.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "月宫ねね",
         "NIMO",
@@ -64,55 +156,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-313"
     },
     {
-      "id": 81960,
-      "IDcode": "PYM-330",
-      "title": "ノンストップ絶対止めるな！！ 無限絶頂イカセ痙攣電マ 割れ目クッキリ21人全員イキ潮まみれ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-02-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221104-1/debc95ee87f2606cafdea858e5d75c8d.jpg",
-      "actress": [
-        "爱里るい",
-        "永瀬爱菜",
-        "相泽ゆりな",
-        "NIMO",
-        "悠月アイシャ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PYM-330"
-    },
-    {
-      "id": 76164,
-      "IDcode": "GDHH-181",
-      "title": "ある日空から降って来たのは時間を止められるノート！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-01-07",
-      "cover_url": "",
-      "actress": [
-        "富井美帆",
-        "今井まい",
-        "NIMO",
-        "立花芽衣",
-        "新田理央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-181"
-    },
-    {
       "id": 77268,
       "IDcode": "NHDTB-260",
       "title": "仲良し2人組いじり比べ痴漢 友達の前で交互にイカされた女子○生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2019-04-25",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "深田詠美",
@@ -126,15 +178,34 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-260"
     },
     {
+      "id": 77155,
+      "IDcode": "POST-453",
+      "title": "ボクが知らない彼女の真実 寿退社しボクと結婚する彼女の上司から送られてきた会社の上司から脅迫されていた彼女は…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b04ed0749cc59cacf590297e0752f37d.jpg",
+      "actress": [
+        "川越ゆい",
+        "近藤ユキ",
+        "NIMO",
+        "河原かえで"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
+    },
+    {
       "id": 77055,
       "IDcode": "POST-468",
       "title": "ターゲットは美人女性宿泊客！ 旅館従業員にすすめられた地酒を飲むと意識がなくなり昏睡！？目を覚ますと固定バイブされていたのだ！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2018-12-25",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "新村晶",
@@ -144,24 +215,24 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-468"
     },
     {
-      "id": 87541,
-      "IDcode": "AP-596",
-      "title": "一軒家追いかけ回し連続中出し痴漢",
+      "id": 76164,
+      "IDcode": "GDHH-181",
+      "title": "ある日空から降って来たのは時間を止められるノート！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-11-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/00f156d204b45f1b1ea3f9c0601c2b6f.jpg",
       "actress": [
-        "真木今日子",
-        "星空萌愛",
-        "森春流",
+        "富井美帆",
+        "今井まい",
         "NIMO",
-        "香山亜衣"
+        "立花芽衣",
+        "新田理央"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AP-596"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-181"
     },
     {
       "id": 73252,
@@ -170,10 +241,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-10-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/dad8fd0cd9a4bd2d07d1caca98e1707e.jpg",
       "actress": [
         "葵千恵",
         "花笑一杏",
@@ -183,25 +254,6 @@ window.actressData = {
         "NIMO"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-506"
-    },
-    {
-      "id": 77155,
-      "IDcode": "POST-453",
-      "title": "ボクが知らない彼女の真実 寿退社しボクと結婚する彼女の上司から送られてきた会社の上司から脅迫されていた彼女は…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-08-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241201-1/f9be27f4ae14a23e17e564bc0aae6077.jpg",
-      "actress": [
-        "川越ゆい",
-        "近藤ユキ",
-        "NIMO",
-        "河原かえで"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=POST-453"
     }
   ]
 };

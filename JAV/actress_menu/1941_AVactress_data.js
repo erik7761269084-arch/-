@@ -40,40 +40,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/7-S1/新名あみん.jpg"
   ],
-  "works_count": 14,
+  "works_count": 17,
   "related_dramas": [
-    {
-      "id": 68132,
-      "IDcode": "RBK-061",
-      "title": "潜入捜査官 敗れし者達への鎮魂歌 鳴らせなかったウェディングベル 天国るる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-11-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250413-1/d5553ef5de00baebc65e1cead0f41dca.jpg",
-      "actress": [
-        "天國露露"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-061"
-    },
-    {
-      "id": 83936,
-      "IDcode": "FSDSS-429",
-      "title": "「イカセて欲しいならお願いしなよ！」射精を焦らして馬乗り騎乗する。金髪白ギャル痴女の服従M男イジメ。天国るる パンティと写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2022-06-09",
-      "cover_url": "",
-      "actress": [
-        "天國露露"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-429"
-    },
     {
       "id": 83952,
       "IDcode": "FSDSS-414",
@@ -81,10 +49,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2022-05-12",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c83c631898ed1ef3180a95e6dc9202c7.jpg",
       "actress": [
         "天國露露"
       ],
@@ -97,7 +65,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2022-04-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230102-1/855dd0fc3735a078acd8387171b0f752.jpg",
@@ -107,29 +75,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-398"
     },
     {
-      "id": 80566,
-      "IDcode": "FSDSS-370",
-      "title": "リストラ宣告された上司とデリヘルバイトで再会。天国るる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2022-02-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/3dfd11794f633d00dc5217000d31669b.jpg",
-      "actress": [
-        "天國露露"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-370"
-    },
-    {
       "id": 83974,
       "IDcode": "FSDSS-356",
       "title": "隣の部屋から聞こえる俺の彼女の喘ぎ声。天国るる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2022-01-27",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230102-1/a41d71efe22d415fa87a5c81abb498bf.jpg",
@@ -145,7 +97,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2021-12-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230102-1/dc9a7f62b725f0a9b29f2a4468e81c69.jpg",
@@ -155,49 +107,80 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-342"
     },
     {
-      "id": 80120,
-      "IDcode": "FSDSS-328",
-      "title": "乳首をこねくり連続発射させる。美女がもてなす搾精メンズエステ。天国るる",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2021-11-25",
-      "cover_url": "",
-      "actress": [
-        "天國露露",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-328"
-    },
-    {
       "id": 79862,
       "IDcode": "FSDSS-312",
       "title": "新生デビュー 美乳と美尻の間にあるひときわ輝く極上くびれ。天国るる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
       "publish_date": "2021-09-09",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241006-1/ecaa8cf8c329ac3e4c77b90b23d40c95.jpg",
       "actress": [
         "天國露露"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-312"
     },
     {
-      "id": 88476,
-      "IDcode": "SSNI-895",
-      "title": "夏はノーパンで過ごすマイペースお姉さんのおま●こ無防備誘惑 新名あみん",
+      "id": 8159,
+      "IDcode": "SSNI-577",
+      "title": "新人報到！NO.1 STYLE 首次亮相 AV DEBUT ~ 新名愛明",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-10-19",
-      "cover_url": "",
+      "publish_date": "2019-09-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20250219/20250219052507148148.jpg",
+      "actress": [
+        "天國露露"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-577"
+    },
+    {
+      "id": 155965,
+      "IDcode": "SSNI-922",
+      "title": "完全紧缚强迫侵犯爆乳制服空姐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240926-1/fe1f2451855e92efd40ca2ab8dffbf04.jpg",
+      "actress": [
+        "天國露露"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-922"
+    },
+    {
+      "id": 107546,
+      "IDcode": "SSNI-833",
+      "title": "巨尻騎乗位-新名あみん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ca4c250c495827e3f92a45db673bcd58.jpg",
+      "actress": [
+        "天國露露"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-833"
+    },
+    {
+      "id": 88476,
+      "IDcode": "SSNI-895",
+      "title": "無防備誘惑-新名あみん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/dab21f597fb4ca0220be9110362c5b6a.jpg",
       "actress": [
         "天國露露",
         "田渊正浩"
@@ -205,48 +188,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-895"
     },
     {
-      "id": 107546,
-      "IDcode": "SSNI-833",
-      "title": "極上手技與巨臀拍擊騎乘位讓人射兩次喜歡射精的按摩師 新名愛明",
+      "id": 83936,
+      "IDcode": "FSDSS-429",
+      "title": "如果你想让我射-天国るる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-08-19",
-      "cover_url": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-9/88d570380f9f3941f1cf7fdf51b9ef59.jpg",
       "actress": [
         "天國露露"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-833"
-    },
-    {
-      "id": 70302,
-      "IDcode": "SSNI-788",
-      "title": "年下のクセに俺より仕事が出来る同僚と社内で2人きり… ゲリラ豪雨の夜、俺の理性は吹き飛んだ。 新名あみん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-05-19",
-      "cover_url": "",
-      "actress": [
-        "天國露露",
-        "戸川夏也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-788"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-429"
     },
     {
       "id": 83880,
       "IDcode": "SSNI-685",
-      "title": "人生最高の激イキ体験 潮吹き痙攣ずぶ濡れ大失禁オーガズム 新名あみん",
+      "title": "从影迷变成AV女优的小美女-新名あみん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2020-01-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "天國露露",
@@ -255,22 +221,104 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-685"
     },
     {
-      "id": 75648,
-      "IDcode": "SSNI-655",
-      "title": "交わる体液、濃密セックス 完全ノーカットスペシャル 新名あみん",
+      "id": 80566,
+      "IDcode": "FSDSS-370",
+      "title": "和老板重聚-天国るる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-11/cd1c834daaef94716e8b5c082d1765d9.jpg",
+      "actress": [
+        "天國露露"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-370"
+    },
+    {
+      "id": 80120,
+      "IDcode": "FSDSS-328",
+      "title": "美丽的女人给你做按摩-天国るる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/12/15/9e0c9697347ed90b9c0ea8848c617001.jpg",
+      "actress": [
+        "天國露露",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-328"
+    },
+    {
+      "id": 75648,
+      "IDcode": "SSNI-655",
+      "title": "新名爱明交换体液浓密做爱一镜到底无剪辑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "S1",
-      "publish_date": "2019-12-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241227-1/a27dabaec672e0f9708e41162f3c2253.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/7f5fdc9775aa7b25fde7ac800394377e.jpg",
       "actress": [
         "天國露露",
         "鲛岛",
         "小田切ジュン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-655"
+    },
+    {
+      "id": 70302,
+      "IDcode": "SSNI-788",
+      "title": "黑丝人妻OL-新名あみん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/aacf73cb4a505a0f0228efcb9113f34e.jpg",
+      "actress": [
+        "天國露露",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-788"
+    },
+    {
+      "id": 68132,
+      "IDcode": "RBK-061",
+      "title": "潜入捜査官-天国るる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250404-1/16ff4a19a9580aab8628b835b956fc50.jpg",
+      "actress": [
+        "天國露露"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBK-061"
+    },
+    {
+      "id": 4047,
+      "IDcode": "SSNI-602",
+      "title": "苗条美少女初次体验高潮快感三本番颠覆对性爱的想法",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/20250728053856994994_36636_thumbnail.webp",
+      "actress": [
+        "天國露露"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-602"
     }
   ]
 };

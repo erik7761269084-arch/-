@@ -4,7 +4,7 @@ window.actressData = {
   "name": "奥菜えいみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,28 +16,30 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 76345,
-      "IDcode": "HUNTA-700",
-      "title": "昨日まで童貞だったボクが1日にして経験人数7人！超絶倫童貞男が女子寮の女の子たちを手あたり次第ヤリまくりでノンストップ中出ししまくり！お姉…",
+      "id": 103206,
+      "IDcode": "GDHH-160",
+      "title": "元ヤリマンばかりの定時制校でミラクル展開！女子は全員制服だけど年齢はバラバラ！！しかも男はボク1人！ボクの通う定時制校は校則で制服着用が義務なんです！クラスには色々な世代の女の子がそれぞれ当時の制服姿で来るから毎日がドッキドキ！しかも、みんな昔ヤリマン…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-07-19",
+      "cover_url": "http://15.155250922.com/upload/vod/2022/09/llgpjvsurlf.jpg",
       "actress": [
-        "辻井穗乃果",
-        "阿部乃美久",
-        "小泉真理",
-        "幸田ユマ",
+        "若月玛丽亚",
+        "神ユキ",
+        "秋本詩音",
+        "望月理沙",
+        "若宫はずき",
         "奥菜えいみ",
-        "小宫山えまり"
+        "百冈いつか",
+        "新美さくら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-700"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDHH-160"
     },
     {
       "id": 73613,
@@ -46,10 +48,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-13",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/693f2a52d926bf1c18c7fc72a3894e66.jpg",
       "actress": [
         "阿部乃美久",
         "桜木优希音",
@@ -67,10 +69,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-06-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b08b91464acd1b7d5e5fb2a37f35a9c7.jpg",
       "actress": [
         "加濑七穗",
         "宫名初季",
@@ -78,6 +80,27 @@ window.actressData = {
         "石川ひかる"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-152"
+    },
+    {
+      "id": 76345,
+      "IDcode": "HUNTA-700",
+      "title": "昨日まで童貞だったボクが1日にして経験人数7人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/f9442637363261042529ca45f9134699.jpg",
+      "actress": [
+        "辻井穗乃果",
+        "阿部乃美久",
+        "小泉真理",
+        "幸田ユマ",
+        "奥菜えいみ",
+        "小宫山えまり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-700"
     }
   ]
 };

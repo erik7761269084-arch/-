@@ -41,65 +41,16 @@ window.actressData = {
   "works_count": 5,
   "related_dramas": [
     {
-      "id": 63100,
-      "IDcode": "RBD-919",
-      "title": "對受虐覺醒之女 8 榎本美咲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2019-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/09835cf8c2391a0ae82e51b893eefa37.jpg",
-      "actress": [
-        "榎本美咲",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-919"
-    },
-    {
-      "id": 105722,
-      "IDcode": "ADN-196",
-      "title": "あなた、許して…。 思い出迷子3 榎本美咲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2019-01-07",
-      "cover_url": "https://tutu1.space/images/2024/03/11/de9274a24a94308b055208bbcf0f243c.jpg",
-      "actress": [
-        "榎本美咲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-196"
-    },
-    {
-      "id": 19495,
-      "IDcode": "STARS-002",
-      "title": "榎本美咲合規溫泉之旅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230501/20230501025324982982.",
-      "actress": [
-        "榎本美咲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-002"
-    },
-    {
       "id": 107663,
       "IDcode": "STAR-943",
-      "title": "榎本美咲 日帰りで12発射精しちゃうヤリまくりイチャイチャ温泉旅行",
+      "title": "温泉旅行-榎本美咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2018-07-26",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1star943/1star943pl.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a979652b729b01af287d52d9112860c2.jpg",
       "actress": [
         "榎本美咲"
       ],
@@ -108,18 +59,68 @@ window.actressData = {
     {
       "id": 106376,
       "IDcode": "STAR-846",
-      "title": "榎本美咲×ドキドキ職場SEX バレそうな状況に興奮して…仕事中にチ○ポを欲しがる誘惑ヤリたがり人妻ナースさん",
+      "title": "惊心动魄的职场性爱-榎本美咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2017-11-16",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "榎本美咲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-846"
+    },
+    {
+      "id": 105722,
+      "IDcode": "ADN-196",
+      "title": "老公请原谅我-榎本美咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240313-1/69c4d991433d68e516cfdcb1415eea32.jpg",
+      "actress": [
+        "榎本美咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-196"
+    },
+    {
+      "id": 105447,
+      "IDcode": "MEYD-468",
+      "title": "隔壁的高傲人妻-榎本美咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "榎本美咲",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-468"
+    },
+    {
+      "id": 63100,
+      "IDcode": "RBD-919",
+      "title": "受虐的女人-榎本美咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a4eb8fb649226bdbbf1b68383f6aae50.jpg",
+      "actress": [
+        "榎本美咲",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-919"
     }
   ]
 };

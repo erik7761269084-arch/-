@@ -4,7 +4,7 @@ window.actressData = {
   "name": "さえこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,21 +19,21 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 67107,
-      "IDcode": "GANA-2993",
-      "title": "マジ軟派、初撮。 2028 吉祥寺グルメをリサーチ中の美人雑誌記者をナンパ！3年ぶりのご無沙汰SEXで「そこダメッ！！当たってるッ！！！」と何度もイキ狂う！",
+      "id": 495912,
+      "IDcode": "200GANA-2993",
+      "title": "マジ軟派、初撮。 2028 吉祥寺グルメをリサーチ中の美人雑誌記者をナンパ！3年ぶ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2024-04-05",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "碓井沙英子",
         "さえこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2993"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2993"
     }
   ]
 };

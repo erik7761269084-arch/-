@@ -33,7 +33,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "木曜日！全員集合！！",
       "publish_date": "2020-04-02",
       "cover_url": "",

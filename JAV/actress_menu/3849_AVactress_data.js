@@ -4,7 +4,7 @@ window.actressData = {
   "name": "塩见彩",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,86 +19,16 @@ window.actressData = {
   "works_count": 16,
   "related_dramas": [
     {
-      "id": 68779,
-      "IDcode": "GTJ-161",
-      "title": "夫婦イラマチオ 塩見彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
-      "publish_date": "2025-04-15",
-      "cover_url": "",
-      "actress": [
-        "塩见彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-161"
-    },
-    {
-      "id": 76586,
-      "IDcode": "GTJ-153",
-      "title": "拘束レズフィスト（GTJ-153）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
-      "publish_date": "2024-12-17",
-      "cover_url": "",
-      "actress": [
-        "前乃菜菜",
-        "塩见彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-153"
-    },
-    {
-      "id": 93906,
-      "IDcode": "PTS-521",
-      "title": "美人妻レズエステ 女同士イキツボに目覚めるマ○コ絶頂ループSEX 8人5時間 総集編",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-07-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241018-1/1f6881244712153406c17bade6d3ca3f.jpg",
-      "actress": [
-        "葵百合香",
-        "望月綾香",
-        "佐伯由美香",
-        "丹羽すみれ",
-        "夏树カオル",
-        "塩见彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-521"
-    },
-    {
-      "id": 91178,
-      "IDcode": "GTJ-129",
-      "title": "拘束レズフィスト",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
-      "publish_date": "2023-12-19",
-      "cover_url": "",
-      "actress": [
-        "塩见彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-129"
-    },
-    {
       "id": 87203,
       "IDcode": "GTJ-107",
       "title": "縄がないと、生きれない女 塩見彩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOGMA",
       "publish_date": "2022-08-16",
-      "cover_url": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/XJhb8745.jpg",
       "actress": [
         "塩见彩"
       ],
@@ -111,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOGMA",
       "publish_date": "2022-07-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230720-1/d2935fb96a76660e5a2fbcbddf2472a6.jpg",
@@ -127,7 +57,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2022-03-22",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/2d8c32bcd279ddb24a0a17eae373b173.jpg",
@@ -143,10 +73,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2022-02-20",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230714-1/3f4c493a5acd160503b6cc7aaa91d3d7.jpg",
       "actress": [
         "森日向子",
         "八乃翼",
@@ -164,10 +94,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "G.M.E",
       "publish_date": "2021-12-28",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20230103-1/de63ce8e6df80fafe0862a10cb7ab394.jpg",
       "actress": [
         "塩见彩"
       ],
@@ -180,8 +110,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "2021-12-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230116-1/202e7ead07477615b000a272413762a0.jpg",
       "actress": [
@@ -196,8 +126,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
+      "type": "",
+      "company": "",
       "publish_date": "2021-10-05",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/7fd325da17784c8bf33b96597bd3b895.jpg",
       "actress": [
@@ -212,7 +142,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2021-09-21",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230204-1/ffbcf2f25dd63af4384478928cb0678b.jpg",
@@ -228,10 +158,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "WAAP GROUP",
       "publish_date": "2021-09-03",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/1ec7fbc8d561dc167a77f06929d6c0fa.jpg",
       "actress": [
         "塩见彩"
       ],
@@ -244,15 +174,52 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
       "publish_date": "2021-08-25",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/eda42f1dc6546939b81ce288c8c36605.jpg",
       "actress": [
         "一条美绪",
         "塩见彩"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-209"
+    },
+    {
+      "id": 93906,
+      "IDcode": "PTS-521",
+      "title": "美人妻レズエステ 女同士イキツボに目覚めるマ○コ絶頂ループSEX 8人5時間 総集編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888b20798bc99dfddb236c7/cover.jpg",
+      "actress": [
+        "葵百合香",
+        "望月綾香",
+        "佐伯由美香",
+        "丹羽すみれ",
+        "夏树カオル",
+        "塩见彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PTS-521"
+    },
+    {
+      "id": 91178,
+      "IDcode": "GTJ-129",
+      "title": "拘束レズフィスト",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240402-1/7da008b1baa6bdb7052e755e09cb729c.jpg",
+      "actress": [
+        "塩见彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-129"
     },
     {
       "id": 88143,
@@ -261,10 +228,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2021-03-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/fd5eaddcc0f1c33968e42a8a647091d8.jpg",
       "actress": [
         "塩见彩"
       ],
@@ -273,12 +240,12 @@ window.actressData = {
     {
       "id": 79178,
       "IDcode": "HUNTB-017",
-      "title": "- 「ねぇ～そんなに私とエッチしたいの…？別にいいけど…」義姉はとんでもない童貞喰い超絶倫清楚系ヤリマンビッチだった！突然出来た義姉は… - JAV目錄大全javmenu.com",
+      "title": "「ねぇ～そんなに私とエッチしたいの…？別にいいけど…」義姉はとんでもない童貞喰い超絶倫清楚系ヤリマンビッチだった！突然出来た義姉は…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/20a23f761a350fead06d7d1d3e5a2774.jpg",
       "actress": [
@@ -289,6 +256,39 @@ window.actressData = {
         "冲田里绪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTB-017"
+    },
+    {
+      "id": 76586,
+      "IDcode": "GTJ-153",
+      "title": "拘束レズフィスト 前乃菜々 塩見彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250917-1/60c07f08b0f6dc4a1065ddadf0ad24c3.jpg",
+      "actress": [
+        "前乃菜菜",
+        "塩见彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-153"
+    },
+    {
+      "id": 68779,
+      "IDcode": "GTJ-161",
+      "title": "夫婦イラマチオ 塩見彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "塩见彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GTJ-161"
     }
   ]
 };

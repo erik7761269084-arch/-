@@ -4,7 +4,7 @@ window.actressData = {
   "name": "麻宫わかな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AROMA PLANNING",
-      "publish_date": "2021-10-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230212-1/ce69dc141976b19398ecbaca268252eb.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/edec35cb04c1a929dbeb8fd57cfd3495.jpg",
       "actress": [
         "麻宫わかな"
       ],

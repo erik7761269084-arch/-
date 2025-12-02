@@ -39,62 +39,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230403/3e3ea961-401b-464f-836c-6672d6adcac2.jpg",
     "https://picture.yoshiclub.xyz/20230403/809d232d-a527-4f5c-a8c3-5f0d4213be3c.jpg"
   ],
-  "works_count": 13,
+  "works_count": 18,
   "related_dramas": [
-    {
-      "id": 68857,
-      "IDcode": "SDMUA-042",
-      "title": "代替女友參加活動返家搭上夜行巴士被女友的三位朋友搞起【外遇後宮逆NTR】…新潟→新宿間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-12-22",
-      "cover_url": "",
-      "actress": [
-        "天馬唯",
-        "大浦真奈美",
-        "水原乃亜"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-042"
-    },
-    {
-      "id": 68531,
-      "IDcode": "SDMUA-034",
-      "title": "小悪魔なプリケツランナー達にトリプル尻プレスで連続射精させられる覗き魔のボク",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-12-22",
-      "cover_url": "",
-      "actress": [
-        "水原乃亜",
-        "小泉真理",
-        "南乃そら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-034"
-    },
-    {
-      "id": 68108,
-      "IDcode": "SDMUA-027",
-      "title": "同學會睽違10年再會的前辣妹同學來到年過三十身為處男的我家裡做愛射了12發到早上",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-12-22",
-      "cover_url": "",
-      "actress": [
-        "水原乃亜",
-        "爱乃零",
-        "叶月もえ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-027"
-    },
     {
       "id": 81603,
       "IDcode": "HUNTA-750",
@@ -102,10 +48,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-07",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20241022/pnLxHpXq/1.jpg",
       "actress": [
         "通野未帆",
         "大浦真奈美",
@@ -117,39 +63,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-750"
     },
     {
-      "id": 83150,
-      "IDcode": "SDJS-057",
-      "title": "SOD女子社員8名が業務中に全裸健康診断 膣の奥までチ○ポでチェックするAV会社ならではの赤面羞恥検診 8名全員のSEXを収録した4時間スペシャル！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2020-03-12",
-      "cover_url": "",
-      "actress": [
-        "天馬唯",
-        "藤森里穂",
-        "九十九メイ",
-        "奏自由",
-        "水原乃亜",
-        "ふわり结爱",
-        "浅海さえ",
-        "大崎美奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-057"
-    },
-    {
       "id": 74645,
       "IDcode": "CJOB-046",
       "title": "「丸出しチンチンみ～つけたっ！」絶対に脱がされない高みの立場から興味津々に 全裸の男をいじめる着衣のお姉さんたち",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/af05023fce8b4e3689d5e70d81d0ba18.jpg",
       "actress": [
         "波多野结衣",
         "美谷朱里",
@@ -170,31 +93,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-046"
     },
     {
-      "id": 71481,
-      "IDcode": "FAA-315",
-      "title": "妻の友人に浴室で密着されすぎて、息も出来ない…。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-07-11",
-      "cover_url": "",
-      "actress": [
-        "波多野结衣",
-        "水原乃亜",
-        "皆野あい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-315"
-    },
-    {
       "id": 1674,
       "IDcode": "SDJS-028",
       "title": "SOD女子社員 絶頂！SOD公司2019年内部説明會現場！失禁高潮72次到無法忍受",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2019-07-11",
       "cover_url": "https://picture.yoshiclub.xyz/20230404/38c75d3f-9f63-4bab-ab37-db4e725429d2.jpg",
@@ -213,8 +118,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
+      "type": "",
+      "company": "",
       "publish_date": "2019-02-01",
       "cover_url": "",
       "actress": [
@@ -231,14 +136,14 @@ window.actressData = {
     {
       "id": 106297,
       "IDcode": "VRTM-396",
-      "title": "新体操部所属の姉に媚薬を飲ませるとレオタード食い込むだけで愛液ジワリ！欲求不満なカラダは我慢できず自らチ○ポ挿入すると卑猥なうねり腰で何度もエビ反り絶頂！",
+      "title": "当她给她的妹妹服用春药时",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-12-14",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/h_910vrtm396/h_910vrtm396pl.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-10/6369978836d0a6589d1c16a1b692817d.jpg",
       "actress": [
         "水原乃亜",
         "桜木优希音",
@@ -249,16 +154,72 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VRTM-396"
     },
     {
+      "id": 83150,
+      "IDcode": "SDJS-057",
+      "title": "SOD女子社員8名が業務中に全裸健康診断 膣の奥までチ○ポでチェックするAV会社ならではの赤面羞恥検診 8名全員のSEXを収録した4時間スペシャル！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "天馬唯",
+        "藤森里穂",
+        "九十九メイ",
+        "奏自由",
+        "水原乃亜",
+        "ふわり结爱",
+        "浅海さえ",
+        "大崎美奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-057"
+    },
+    {
+      "id": 74955,
+      "IDcode": "CJOD-161",
+      "title": "追击潮吹强制内射-水原乃亜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "水原乃亜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-161"
+    },
+    {
+      "id": 73363,
+      "IDcode": "PRTD-020",
+      "title": "没有快感的麻醉女医师-水原乃亜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/01874e3ee99ee6d99984044eb4d974ed.jpg",
+      "actress": [
+        "水原乃亜",
+        "戸川夏也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-020"
+    },
+    {
       "id": 72139,
       "IDcode": "DOCP-111",
       "title": "「マジ天使！？」骨折してオナニーできない僕のチ●コは我慢の限界！それを見かねた美人ナースは使命感に駆られたのか優しく手を添えてくれ…2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2018-12-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/56e3a26335d508d5e6f3ef1f1eb4ea4a.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d36eca5940c8420078cea91549e57429.jpg",
       "actress": [
         "水原乃亜",
         "初乃文香",
@@ -267,39 +228,160 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-111"
     },
     {
-      "id": 73363,
-      "IDcode": "PRTD-020",
-      "title": "不感症麻酔女医ノア 開発体位で堕とされて… 水原乃亜",
+      "id": 71481,
+      "IDcode": "FAA-315",
+      "title": "妻の友人に浴室で密着されすぎて、息も出来ない…。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2018-10-07",
-      "cover_url": "https://tutu1.space/images/2025/01/27/4bbe7139060557af2d7499ff36fa84ba.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8a09467d682dc8db71e53f683d4e032c.jpg",
+      "actress": [
+        "波多野结衣",
+        "水原乃亜",
+        "皆野あい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-315"
+    },
+    {
+      "id": 68857,
+      "IDcode": "SDMUA-042",
+      "title": "出轨后宫逆袭NTR",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/24/688177d5c92318f97daf94e6/cover.jpg",
+      "actress": [
+        "天馬唯",
+        "大浦真奈美",
+        "水原乃亜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-042"
+    },
+    {
+      "id": 68531,
+      "IDcode": "SDMUA-034",
+      "title": "我是一个偷窥狂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250322-1/30a88e563b54567b9b95237a24d916c5.jpg",
       "actress": [
         "水原乃亜",
-        "戸川夏也"
+        "小泉真理",
+        "南乃そら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRTD-020"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-034"
+    },
+    {
+      "id": 68108,
+      "IDcode": "SDMUA-027",
+      "title": "年纪大了还是处男",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250403-1/cbe1ac106346a2eac237568d1e8ef5f1.jpg",
+      "actress": [
+        "水原乃亜",
+        "爱乃零",
+        "叶月もえ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMUA-027"
+    },
+    {
+      "id": 16016,
+      "IDcode": "SSNI-164",
+      "title": "水原乃亚的出道作",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240229/20240229040112582582.jpg",
+      "actress": [
+        "水原乃亜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-164"
+    },
+    {
+      "id": 15340,
+      "IDcode": "SSNI-189",
+      "title": "水原乃亚性感觉醒激情潮吹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418000044848848.jpg",
+      "actress": [
+        "水原乃亜",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-189"
+    },
+    {
+      "id": 15115,
+      "IDcode": "SSNI-215",
+      "title": "水原乃亚交换体液浓密做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240429/20240429031259721721.jpg",
+      "actress": [
+        "水原乃亜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-215"
     },
     {
       "id": 14719,
       "IDcode": "SSNI-238",
-      "title": "114次恍惚高潮！4600次的痛苦噴射3800cc噴射淫水，水原乃亜",
+      "title": "完美身材水原乃亚人生初疯狂痉挛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2018-06-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20240514/20240514100738435435.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/710814e61aaecc10cf397f3e5e469be6.jpg",
       "actress": [
         "水原乃亜",
         "鲛岛",
-        "玉木玲"
+        "玉木玲",
+        "水原乃亚"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-238"
+    },
+    {
+      "id": 14370,
+      "IDcode": "SSNI-264",
+      "title": "实习老师水原乃亚遭遇集体鬼畜轮奸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3943c8980690c514cd3d9e4529fafcde.jpg",
+      "actress": [
+        "水原乃亜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-264"
     }
   ]
 };

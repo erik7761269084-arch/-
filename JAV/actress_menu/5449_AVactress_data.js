@@ -4,7 +4,7 @@ window.actressData = {
   "name": "雪崎みなと",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 87968,
       "IDcode": "FCP-125",
-      "title": "FCP-125",
+      "title": "エッチなお姉様に見つめられ、囁かれながら、発射させられる…超神業手コキ ♯5",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-11-17",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/0734b1849e262a99b034191666773201.jpg",
       "actress": [
         "生田みく",
         "雪崎みなと"

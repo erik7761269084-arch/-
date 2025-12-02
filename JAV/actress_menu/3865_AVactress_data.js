@@ -22,19 +22,53 @@ window.actressData = {
     "Kozai Saki"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 98638,
-      "IDcode": "JUY-087",
-      "title": "母の友人 香西咲",
+      "id": 99282,
+      "IDcode": "JUY-061",
+      "title": "中年男を濃厚な接吻でおもてなす美熟女ソープ 香西咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2017-02-19",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-01-13",
       "cover_url": "",
+      "actress": [
+        "大岛丈",
+        "戸川夏也",
+        "香西咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-061"
+    },
+    {
+      "id": 97969,
+      "IDcode": "JUY-037",
+      "title": "暴風雨 憧れの咲先生と二人だけの夜 香西咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-12-19",
+      "cover_url": "",
+      "actress": [
+        "香西咲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-037"
+    },
+    {
+      "id": 98638,
+      "IDcode": "JUY-087",
+      "title": "老妈的美人妻朋友-香西咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-8/066205e1a7f275a3a4d1551ab560b823.jpg",
       "actress": [
         "イセドン内村",
         "香西咲"
@@ -44,13 +78,13 @@ window.actressData = {
     {
       "id": 68929,
       "IDcode": "SNIS-002",
-      "title": "明歩與咲 美女姊妹整天都在做愛 吉澤明歩 香西咲",
+      "title": "美人姉妹-吉沢明歩 香西咲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2013-10-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "吉沢明歩",

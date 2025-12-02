@@ -4,7 +4,7 @@ window.actressData = {
   "name": "志戸哲也",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 82180,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-04-01",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/r5XLGSRW/1.jpg",
       "actress": [
         "妃月るい",
         "心音にこ",
@@ -47,7 +47,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-04-01",
       "cover_url": "",
@@ -64,10 +64,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-01-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221105-1/ec8c1d02a7c829a353557ccb04a3ead7.jpg",
+      "cover_url": "",
       "actress": [
         "大浦真奈美",
         "向理来",
@@ -79,16 +79,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQTE-280"
     },
     {
-      "id": 100965,
-      "IDcode": "STAR-278",
-      "title": "藝人 羽田亞衣 初次吞精15連發！",
+      "id": 98096,
+      "IDcode": "ARSO-17105",
+      "title": "舞ワイフ ～セレブ倶楽部～ 105",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2011-05-19",
-      "cover_url": "https://tutu1.space/images/2023/02/17/bf45f6ff33cac45e23facda4aaac0a0a.jpg",
+      "type": "",
+      "company": "AROUND",
+      "publish_date": "2017-12-21",
+      "cover_url": "",
+      "actress": [
+        "推川悠里",
+        "桐岛莉乃",
+        "市川润",
+        "志戸哲也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARSO-17105"
+    },
+    {
+      "id": 107120,
+      "IDcode": "ABS-072",
+      "title": "全裸家政妇朱音唯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "朱音ゆい",
+        "志戸哲也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABS-072"
+    },
+    {
+      "id": 100965,
+      "IDcode": "STAR-278",
+      "title": "可爱女优初次挑战吞精15连发",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "羽田あい",
         "志戸哲也"

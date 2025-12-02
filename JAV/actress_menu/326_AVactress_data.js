@@ -38,128 +38,42 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231012/8879bb90-10a1-429a-bcf3-4ffc0b78d69a.jpg",
     "https://picture.yoshiclub.xyz/20231012/5ee4967c-26bd-4f75-9662-0d1cc782d347.jpg"
   ],
-  "works_count": 17,
+  "works_count": 22,
   "related_dramas": [
     {
-      "id": 3084,
-      "IDcode": "HNTD-001",
-      "title": "素人美女 HUNTINGxHUNTING No.001 丸之內職場精英美女被幹到高潮迭起 ~ 斉藤帆夏 吉澤友貴",
+      "id": 4861,
+      "IDcode": "HOIZ-168",
+      "title": "素人約炮日記16：一夜情神器匹配，愛巢激戰實錄 ~ 斉藤帆夏 南條彩 依本詩織 工藤百合",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2025-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831055009214214_49334_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-06-28",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629115448281281_thumbnail.webp",
       "actress": [
-        "吉泽友贵",
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTD-001"
-    },
-    {
-      "id": 4470,
-      "IDcode": "MUKC-098",
-      "title": "誘惑大叔的清純系變態地下偶像 秘密Cosplay痴女啪啪 榨精內射加角色扮演SEX 徹底淪為肉便器抖M妹 ~ 斉藤帆夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040422807807_95400_thumbnail.webp",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-098"
-    },
-    {
-      "id": 5227,
-      "IDcode": "NGHJ-013",
-      "title": "素人限定！頂級百貨店氣質美容顧問初次挑戰30分鍾無手口活連續射精！優雅姐姐被灌滿小嘴精液狂漏！ ~ 斉藤帆夏 有加裏乃乃花 夢川ほの香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014349274274_thumbnail.webp",
-      "actress": [
-        "有加里乃乃花",
+        "南條彩",
+        "工藤百合",
         "斉藤帆夏",
-        "夢川ほの香"
+        "依本詩織"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-013"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOIZ-168"
     },
     {
-      "id": 5648,
-      "IDcode": "DVMM-251",
-      "title": "轉生變成護理實訓人偶的班主任 被學生妹包圍全方位調戲的狂歡後宮 動不了但每天都爽到爆 ~ 斉藤帆夏 宮西光 赤名いと 雙葉麗奈 星仲ここみ 涼花くるみ",
+      "id": 12277,
+      "IDcode": "START-157",
+      "title": "SOD出道1周年記念 初！1月の禁欲解禁！極限我慢狀態性欲超大解放！！我要吃掉你的雞巴 ~ 斉藤帆夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-05-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291735054242_thumbnail.webp",
-      "actress": [
-        "宮西光",
-        "斉藤帆夏",
-        "赤名いと",
-        "星仲ここみ",
-        "涼花くるみ",
-        "雙葉麗奈",
-        "凉南佳奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
-    },
-    {
-      "id": 9146,
-      "IDcode": "START-247",
-      "title": "初中出解禁！全身是汗的大絕叫大絕頂高潮 ~ 斉藤帆夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250114/393243ac-8451-45ef-8cc7-21c442803936.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20240903/bdf713f3-c034-4344-9274-d2e2b4271e4f.jpg",
       "actress": [
         "斉藤帆夏"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-247"
-    },
-    {
-      "id": 10028,
-      "IDcode": "START-238",
-      "title": "魔鏡一號性愛反轉路人粉絲挑戰 ~ 斉藤帆夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20241210/20241210014942123123.jpg",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-238"
-    },
-    {
-      "id": 10676,
-      "IDcode": "START-222",
-      "title": "聖誕SP！特別新聞播音員在工作中不斷痙攣、潮吹、失禁卻仍然大聲讀稿 ~ 斉藤帆夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241112/c32266a0-d7fe-4a65-a40b-dafe12502600.jpg",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-222"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-157"
     },
     {
       "id": 12890,
@@ -168,8 +82,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-09-12",
       "cover_url": "https://picture.yoshiclub.xyz/20240806/6bad04f9-d295-4e73-8ade-6f14ef8d6856.jpg",
       "actress": [
@@ -178,46 +92,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-049"
     },
     {
-      "id": 13619,
-      "IDcode": "START-131",
-      "title": "新婚女教師成了全班的性處理工具 ~ 斉藤帆夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20240703/b3d4fe1b-1db3-420b-b7f7-d8334dcbbb88.jpg",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-131"
-    },
-    {
-      "id": 14215,
-      "IDcode": "START-113",
-      "title": "工作壓力很大時，同事OL斉藤帆夏偷偷給我打手槍口交安慰我",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240604/9bb74d43-7b5c-4fab-96e9-14b999b91eb1.jpg",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-113"
-    },
-    {
       "id": 14946,
       "IDcode": "START-083",
       "title": "沒事吧？離我家很近，去休息一下嗎？新員工的酒會後，與好心禮貌地照顧我的同事毫無防護措施的做愛直到天亮 ~ 斉藤帆夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-06-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240507/2d9c6603-9b8f-4b0c-9e14-1124b4e3ee93.jpg",
       "actress": [
@@ -232,8 +114,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-05-09",
       "cover_url": "https://picture.yoshiclub.xyz/20240402/20240402020858463463.jpg",
       "actress": [
@@ -248,8 +130,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2024-02-20",
       "cover_url": "https://picture.yoshiclub.xyz/20240220/20240220011209243243.jpg",
       "actress": [
@@ -258,61 +140,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-018"
     },
     {
-      "id": 16614,
-      "IDcode": "START-003",
-      "title": "總是對病人的雞巴進行深度口交的護士斉藤帆夏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-02-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20240123/20240123110957380380.jpg",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-003"
-    },
-    {
-      "id": 17414,
-      "IDcode": "STARS-982",
-      "title": "雖然禁止本番 但是這個害羞，敏感的菜鳥風俗娘根本不懂得拒絕",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20231205/85d4ba8d-4d5a-4899-83ee-b8dd1a9caa84.jpg",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-982"
-    },
-    {
-      "id": 17825,
-      "IDcode": "STARS-961",
-      "title": "絶頂開発敏感而又娇小的身体史上最高的高潮!绝顶巨根!",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-12-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024450959959.jpg",
-      "actress": [
-        "斉藤帆夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-961"
-    },
-    {
       "id": 18359,
       "IDcode": "STARS-945",
       "title": "Honka 齊藤 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-11-09",
       "cover_url": "https://picture.yoshiclub.xyz/20231012/c5856c50-bfab-4d2f-922e-e9a7fa9463f0.jpg",
@@ -321,6 +155,262 @@ window.actressData = {
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-945"
+    },
+    {
+      "id": 17825,
+      "IDcode": "STARS-961",
+      "title": "巨根大绝顶-斋藤帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231115/20231115024450959959.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-961"
+    },
+    {
+      "id": 17414,
+      "IDcode": "STARS-982",
+      "title": "不光抖M还是不善拒绝的性格-斋藤帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231205/85d4ba8d-4d5a-4899-83ee-b8dd1a9caa84.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STARS-982"
+    },
+    {
+      "id": 16614,
+      "IDcode": "START-003",
+      "title": "總是對病人的雞巴進行深度口交的護士斉藤帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a0fd6ecf22ae3e04a02898/cover.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-003"
+    },
+    {
+      "id": 14215,
+      "IDcode": "START-113",
+      "title": "虽然朴素但感觉很色的事务员小姐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240604/9bb74d43-7b5c-4fab-96e9-14b999b91eb1.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-113"
+    },
+    {
+      "id": 13619,
+      "IDcode": "START-131",
+      "title": "新婚女教師成了全班的性處理工具 ~ 斉藤帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0f4aac813dc779d95fae/cover.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-131"
+    },
+    {
+      "id": 11560,
+      "IDcode": "START-150",
+      "title": "「僕は、彼女がハメられている所が見たい。」同僚が仕込んだ絶倫マッサージ師に不本意にイカされ突かれる姿を録画された美人OL。 斉藤帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/e3c04dd2cf86494dae74da7cf91cf05c.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-150"
+    },
+    {
+      "id": 10676,
+      "IDcode": "START-222",
+      "title": "クリスマスSP トビジオっ！特報NEWS 業務中、ずっと痙攣・潮吹きっぱなし・失禁しても平然と原稿を読み上げる・斉藤帆夏アナウンサー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67888b155d57b64bfd2c2dd6/cover.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-222"
+    },
+    {
+      "id": 10028,
+      "IDcode": "START-238",
+      "title": "連れ込みマジックミラー号 逆ナンチャレンジ 斉藤帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b58d512cbbe4640280272f/cover.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-238"
+    },
+    {
+      "id": 9146,
+      "IDcode": "START-247",
+      "title": "尖叫连连的极致性爱-斉籐帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c5a6d74e7d663df4ca7775/cover.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-247"
+    },
+    {
+      "id": 5648,
+      "IDcode": "DVMM-251",
+      "title": "轉生成了看護實習用模特兒的班導師被學生包圍-斉藤帆夏 宮西ひかる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/202505291735054242_thumbnail.webp",
+      "actress": [
+        "宮西光",
+        "斉藤帆夏",
+        "赤名いと",
+        "星仲ここみ",
+        "涼花くるみ",
+        "雙葉麗奈",
+        "凉南佳奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-251"
+    },
+    {
+      "id": 5227,
+      "IDcode": "NGHJ-013",
+      "title": "働く素人女性限定！一流百貨店に勤務する清楚で品格漂う美容部員さんが初めてのじゅぼじゅぼノーハンドフェラで30分間連続射精チャレンジに挑戦！上品なお姉さんのお口が喋れなくなるほどの大量口内連続射精で精子ダダ漏らし！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014349274274_thumbnail.webp",
+      "actress": [
+        "有加里乃乃花",
+        "斉藤帆夏",
+        "夢川ほの香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-013"
+    },
+    {
+      "id": 4470,
+      "IDcode": "MUKC-098",
+      "title": "秘密的Cosplay痴女榨取精液进行内射与Cosplay性爱-斉藤帆夏",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250718-1/20a431aa6f410a65bbc1a5a1c90855b8.jpg",
+      "actress": [
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-098"
+    },
+    {
+      "id": 4121,
+      "IDcode": "OFES-021",
+      "title": "寝取られ願望のある夫婦限定！ 巨乳人妻ノーハンドフェラ旦那チ〇ポ当てマッチング！3 生チン10本からお口の感触だけで当てたら100万円！失敗で即ズボNTR罰ゲーム",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040626620620_38843_thumbnail.webp",
+      "actress": [
+        "都月楓",
+        "夕美紫苑",
+        "斉藤帆夏",
+        "望月ふうか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-021"
+    },
+    {
+      "id": 3525,
+      "IDcode": "DVMM-277",
+      "title": "マジックミラー便 一流百貨店に勤務する清楚で品格漂う美容部員さん 初めてのじゅぼじゅぼバキュームノーハンドフェラ編 vol.05",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b149df15c08d63a9907ad8/cover.jpg",
+      "actress": [
+        "南條彩",
+        "五芭",
+        "斉藤帆夏",
+        "神樂坂愛琉",
+        "夏芽さき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-277"
+    },
+    {
+      "id": 3084,
+      "IDcode": "HNTD-001",
+      "title": "素人美女ナンパ HUNTING×HUNTING No.001 丸の内シゴデキ美女を極上イカせファック",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831055009214214_49334_thumbnail.webp",
+      "actress": [
+        "吉泽友贵",
+        "斉藤帆夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNTD-001"
     }
   ]
 };

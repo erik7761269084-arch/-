@@ -28,40 +28,23 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240102/42bd8204-35e9-483b-b0db-7950bd916c1c.jpg"
   ],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 16422,
-      "IDcode": "SAME-094",
-      "title": "對於社會地位不同的我來說，和年輕漂亮的你發生性關系只有一種方法。就是現在要強奸你",
+      "id": 107641,
+      "IDcode": "PRED-504",
+      "title": "从福冈来的清纯美女-远藤沙耶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207080826714714.jpg",
-      "actress": [
-        "遠藤沙耶",
-        "左慈半造"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-094"
-    },
-    {
-      "id": 16977,
-      "IDcode": "ADN-522",
-      "title": "她肚子裏的孩子是丈夫的還是她公公的？公公不斷強奸兒媳婦",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20240101/20240101100209754754.jpg",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "遠藤沙耶"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-522"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-504"
     },
     {
       "id": 90205,
@@ -70,62 +53,95 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-11-02",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/c7878650379084a8e564a762cd595849.jpg",
       "actress": [
         "遠藤沙耶"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-791"
     },
     {
-      "id": 90031,
-      "IDcode": "PRED-518",
-      "title": "おち○ぽマニア素人の本領発揮！じゅるッ！ジュボ！追撃ちんシャブ大量顔射フルコース 遠藤沙耶",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2023-09-19",
-      "cover_url": "",
-      "actress": [
-        "遠藤沙耶"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-518"
-    },
-    {
       "id": 90035,
       "IDcode": "PRED-509",
-      "title": "もうイッてるってばぁ！ ビンカン素人娘の禁欲状態マ○コに追撃アクメピストン 遠藤沙耶",
+      "title": "已经高潮了啊-远藤沙耶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2023-08-15",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/3cdb5ce842fcd7244bbe44b759e2d62d.jpg",
       "actress": [
         "遠藤沙耶"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-509"
     },
     {
-      "id": 107641,
-      "IDcode": "PRED-504",
-      "title": "福岡から来たウブで清楚そうな見た目でとっても礼儀正しいのに生おちんちんを見るとすぐに発情してメス顏になってしまう博多美人 AV出演！ 遠藤沙耶",
+      "id": 90031,
+      "IDcode": "PRED-518",
+      "title": "喜爱素人肉棒的狂热者-远藤沙耶",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2023-07-18",
-      "cover_url": "https://tutu1.space/images/2023/08/24/92a009fbd60629502ef9116a8cbb6058.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240114-1/9f9359075ae2b4caa0c66524c38ac332.jpg",
       "actress": [
         "遠藤沙耶"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-504"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-518"
+    },
+    {
+      "id": 16977,
+      "IDcode": "ADN-522",
+      "title": "肚子里的孩子是丈夫的吗-远藤沙耶",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250506-1/4656948bc6bf69dcf21f11200efa721a.jpg",
+      "actress": [
+        "遠藤沙耶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-522"
+    },
+    {
+      "id": 16422,
+      "IDcode": "SAME-094",
+      "title": "我唯一可以幹到千金美女的方法",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d54522cf22ae3e043cb98b/cover.jpg",
+      "actress": [
+        "遠藤沙耶",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-094"
+    },
+    {
+      "id": 15966,
+      "IDcode": "SAME-099",
+      "title": "你可以花1000日元和这位老师做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a230dac813dc779d96082/cover.jpg",
+      "actress": [
+        "遠藤沙耶"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-099"
     }
   ]
 };

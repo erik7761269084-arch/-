@@ -31,18 +31,50 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240913/58b044a9-65f8-41a1-aed5-87b333c9e68d.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 5227,
-      "IDcode": "NGHJ-013",
-      "title": "素人限定！頂級百貨店氣質美容顧問初次挑戰30分鍾無手口活連續射精！優雅姐姐被灌滿小嘴精液狂漏！ ~ 斉藤帆夏 有加裏乃乃花 夢川ほの香",
+      "id": 12020,
+      "IDcode": "MOER-002",
+      "title": "尽管她是个整洁干净的活跃护士",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/c176022f67d4f96a03b6d4f49581f749.jpg",
+      "actress": [
+        "夢川ほの香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-002"
+    },
+    {
+      "id": 10940,
+      "IDcode": "NPJS-093",
+      "title": "被困在床上",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031091235441441.jpg",
+      "actress": [
+        "夢川ほの香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-093"
+    },
+    {
+      "id": 5227,
+      "IDcode": "NGHJ-013",
+      "title": "働く素人女性限定！一流百貨店に勤務する清楚で品格漂う美容部員さんが初めてのじゅぼじゅぼノーハンドフェラで30分間連続射精チャレンジに挑戦！上品なお姉さんのお口が喋れなくなるほどの大量口内連続射精で精子ダダ漏らし！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-06-07",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014349274274_thumbnail.webp",
       "actress": [
         "有加里乃乃花",

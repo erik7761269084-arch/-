@@ -29,18 +29,76 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250504/c798e696-b465-4a19-be68-0e373d7bf8f7_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 6407,
-      "IDcode": "KSBJ-378",
-      "title": "大屁股熟女精選合集52人 ~ 松坂美紀 塚田詩織 春菜華 響鈴 吉根柚莉愛 成澤雛美 小早川怜子 推川悠里 水城奈緒 西山朝日",
+      "id": 99421,
+      "IDcode": "RCT-772",
+      "title": "全裸オイルキャットファイト 5 ヘビー級GP2015",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2015-09-10",
+      "cover_url": "",
+      "actress": [
+        "杏美月",
+        "大场唯",
+        "神波多一花",
+        "有奈めぐみ",
+        "黒宫えいみ",
+        "甲斐ミハル",
+        "佐野玲华",
+        "芦川芽衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-772"
+    },
+    {
+      "id": 82836,
+      "IDcode": "KIL-014",
+      "title": "社内で一番人気の巨乳OLが寿退社。どうせ二度と会わないと思うと何しても許されそうだったので…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-09-03",
+      "cover_url": "",
+      "actress": [
+        "美泉咲",
+        "杏美月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIL-014"
+    },
+    {
+      "id": 66704,
+      "IDcode": "HITMA-165",
+      "title": "我妻子的乳房下垂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230220/LOSqDRGJ/1.jpg",
+      "actress": [
+        "本真友里",
+        "杏美月",
+        "长泽あずさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HITMA-165"
+    },
+    {
+      "id": 6407,
+      "IDcode": "KSBJ-378",
+      "title": "巨尻熟女ベストセレクション52人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105638247247_thumbnail.webp",
       "actress": [
         "吉根柚莉爱",
@@ -92,39 +150,25 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-378"
     },
     {
-      "id": 82836,
-      "IDcode": "KIL-014",
-      "title": "社内で一番人気の巨乳OLが寿退社。どうせ二度と会わないと思うと何しても許されそうだったので…",
+      "id": 4640,
+      "IDcode": "HDKA-321",
+      "title": "全裸主婦 巨臀誘惑精選VOL.02 ~ 杏美月 葉月奈穗 青木琳 西山朝日 春菜華 響琳 篠崎環奈 藤白桃羽 篠原千歲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2013-09-03",
-      "cover_url": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d6f555337d7f7bbc2531/cover.jpg",
       "actress": [
-        "美泉咲",
-        "杏美月"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIL-014"
-    },
-    {
-      "id": 66704,
-      "IDcode": "HITMA-165",
-      "title": "我妻なたれ乳 HD（ブルーレイディスク）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2012-12-21",
-      "cover_url": "",
-      "actress": [
-        "本真友里",
+        "春菜华",
+        "篠崎環奈",
+        "藤白桃羽",
         "杏美月",
-        "长泽あずさ"
+        "西山あさひ",
+        "響りん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HITMA-165"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-321"
     }
   ]
 };

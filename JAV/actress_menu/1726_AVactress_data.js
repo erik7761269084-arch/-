@@ -35,24 +35,40 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250703/6f8f3f83-7846-4e5d-b32e-65ddd6944e9c_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 4761,
       "IDcode": "IPZZ-557",
-      "title": "新人出道！專屬打造純色世界 美院女大學生天賦異稟 超淫蕩潮吹高潮 變態抖M天才AV出道 AV DEBUT ~ 水原和子",
+      "title": "知名美术大学女学生展现的感性超淫乱的绝顶潮吹-水原わこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703050052751751_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/c5bf849eaec9434d06d908af3d6c3a17.jpg",
       "actress": [
         "水原和子",
         "鲛岛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-557"
+    },
+    {
+      "id": 2826,
+      "IDcode": "PRED-815",
+      "title": "学生越聪明根就越色情-水原わこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/202509110215217878_55587_thumbnail.webp",
+      "actress": [
+        "水原和子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-815"
     }
   ]
 };

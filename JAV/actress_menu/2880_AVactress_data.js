@@ -18,18 +18,35 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/緒方泰子.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 7437,
-      "IDcode": "KSBJ-367",
-      "title": "“咕嘰咕嘰”響不停，美熟女抖着爽到高潮28連發！！VOL.05 ~ 汐河佳奈 翔田千裏 矢吹京子 上原千佳 永野つかさ 谷梓 水川蓳 緒方泰子",
+      "id": 75551,
+      "IDcode": "SPRD-1230",
+      "title": "婿に抱かれた義母 緒方泰子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-03-18",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241223-1/0ba164d2ea6f4f9855c1a10370a6ccde.jpg",
+      "actress": [
+        "緒方泰子",
+        "绪方泰子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1230"
+    },
+    {
+      "id": 7437,
+      "IDcode": "KSBJ-367",
+      "title": "クチュクチュ音を立て、ビクビクとイキまくる美熟女のオナニー28連発！！VOL.05",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250319/20250319104300691691.jpg",
       "actress": [
         "小早川怜子",

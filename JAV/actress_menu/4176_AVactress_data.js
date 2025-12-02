@@ -4,7 +4,7 @@ window.actressData = {
   "name": "高树あすか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
       "publish_date": "2024-06-04",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/ff06ad9243b1da45f5753cea082ebdba.jpg",
@@ -42,32 +42,13 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-038"
     },
     {
-      "id": 76875,
-      "IDcode": "SCPX-394",
-      "title": "「おばさんの下着盗ってたの、キミ？」「おばさんの下着だから欲しかったんです！」若い男の子からそう言われた瞬間、忘れていた女の感情が…自分の下着に欲情してくれる若者チ○ポを思い通りに出来ることを想像するだけで興奮が止まらない。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2020-05-29",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241203-1/e321342b9b99e1d56b360359c38595f1.jpg",
-      "actress": [
-        "伊吹彩",
-        "爱乃零",
-        "豊田爱菜",
-        "高树あすか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-394"
-    },
-    {
       "id": 82009,
       "IDcode": "SQTE-289",
       "title": "快楽に溺れ、イキまくるセックス",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S-CUTE",
       "publish_date": "2020-03-13",
       "cover_url": "",
@@ -86,7 +67,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OFFICE K’S",
       "publish_date": "2020-02-01",
       "cover_url": "",
@@ -102,8 +83,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-13",
       "cover_url": "",
       "actress": [
@@ -118,30 +99,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-03",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "高树あすか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKSK-018"
-    },
-    {
-      "id": 71632,
-      "IDcode": "BIJN-169",
-      "title": "陰毛剃り上げ卑猥性器に特濃ザーメン連続発射！SEXを我慢出来ない快楽狂い熟れた女のカラダ 高樹あすか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2019-12-01",
-      "cover_url": "",
-      "actress": [
-        "高树あすか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-169"
     },
     {
       "id": 77917,
@@ -150,15 +115,50 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-08-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c2c908fe365afd2fa278a979d004f402.jpg",
       "actress": [
         "しみけん",
         "高树あすか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-942"
+    },
+    {
+      "id": 76875,
+      "IDcode": "SCPX-394",
+      "title": "你在偷我姑姑的内衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8ca1dceaf5072b2586a4b71e816fb4fd.jpg",
+      "actress": [
+        "伊吹彩",
+        "爱乃零",
+        "豊田爱菜",
+        "高树あすか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-394"
+    },
+    {
+      "id": 71632,
+      "IDcode": "BIJN-169",
+      "title": "陰毛剃り上げ卑猥性器に特濃ザーメン連続発射！SEXを",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/52e1626465b4285fbf55501fbf991b3b.jpg",
+      "actress": [
+        "高树あすか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-169"
     }
   ]
 };

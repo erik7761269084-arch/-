@@ -25,35 +25,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/原明奈.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1804,
-      "IDcode": "SMBD-12",
-      "title": "S Model 12 : 原明奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2010-07-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/bdf3bf80-1a6c-49d5-ba01-4b8eb3508716.webp",
-      "actress": [
-        "原明奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-12"
-    },
     {
       "id": 1717,
       "IDcode": "CWPBD-21",
-      "title": "時裝表演毒藥 21：第 1 部分（高清）",
+      "title": "猫步毒药-原明奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2010-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230120/20230120102104892892.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "原明奈"
       ],

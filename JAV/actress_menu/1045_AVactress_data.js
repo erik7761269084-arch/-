@@ -30,63 +30,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230122/a240bdeb-ba60-4aaf-8c15-a4210f8e2cd3.jpg",
     "https://picture.yoshiclub.xyz/20230122/244c690d-d6be-4613-8220-a97392b0008b.jpg"
   ],
-  "works_count": 3,
+  "works_count": 1,
   "related_dramas": [
     {
-      "id": 2064,
-      "IDcode": "CWPBD-91",
-      "title": "Catwalk Catwalk Poison 91 中出海灘亂交：綾香、一之瀨瑠花、愛野奈美，共7人。",
+      "id": 141818,
+      "IDcode": "CARIBBEANCOM-080521-004",
+      "title": "美少女连续射精2次",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/05c3b181-edbd-4c05-9061-72291cbce5fa.webp",
-      "actress": [
-        "新山枫",
-        "愛乃娜美",
-        "一ノ瀬ルカ",
-        "美波愛梨",
-        "浅之美波",
-        "滝川ソフィア",
-        "北田千夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-91"
-    },
-    {
-      "id": 1947,
-      "IDcode": "LAFBD-09",
-      "title": "Laforet Girl Vol.9 : 光、淺野南、南愛理",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2013-10-31",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/39b5137a-4566-4b42-a28d-5c8a5c9300a6.webp",
-      "actress": [
-        "美波愛梨",
-        "HIKARI",
-        "浅之美波"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-09"
-    },
-    {
-      "id": 2024,
-      "IDcode": "MKBD-S56",
-      "title": "KIRARI 56 中出過夜旅行 : 淺之美波",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2013-08-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230131/eef9b3c0-a1b2-4d02-ac4f-517e4b02950e.webp",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250129-1/5f73d4a78edec83996fecdfe6c5bd20d.jpg",
       "actress": [
         "浅之美波"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S56"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIBBEANCOM-080521-004"
     }
   ]
 };

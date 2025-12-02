@@ -44,18 +44,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250515/cab6c399-3384-406b-a30d-a482729e7b3a_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250515/2ca413bc-05a0-4ead-b186-38efae5636ab_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 3606,
-      "IDcode": "EBWH-247",
-      "title": "酷熱之夜，與迷人人妻上司共處一室，汗香撩人讓我失控 ~ 柏木文香",
+      "id": 6119,
+      "IDcode": "EBWH-218",
+      "title": "可愛さと色気の融和。〇〇大学附属病院 現役看護師（人妻）結婚3年目 29歳 Iカップ 柏木ふみか AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515040000326326_thumbnail.webp",
+      "actress": [
+        "柏木文香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-218"
+    },
+    {
+      "id": 5369,
+      "IDcode": "EBWH-233",
+      "title": "「彼女のお姉ちゃんだから浮気にならないよ」彼女と3人での温泉旅行中に母性全開の巨乳見せつけ誘惑！彼女の目の前で逆NTRされてしまったボク 柏木ふみか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055258882882_thumbnail.webp",
+      "actress": [
+        "柏木文香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-233"
+    },
+    {
+      "id": 3606,
+      "IDcode": "EBWH-247",
+      "title": "灼熱の夜、甘い汗香る柔肉おっぱいな美人妻上司と相部屋に…「初めては任せてね…」と微笑まれ快楽と背徳感に翻弄され続けた童貞の僕 柏木ふみか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814023013915915_55461_thumbnail.webp",
       "actress": [
         "柏木文香"
@@ -63,20 +95,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-247"
     },
     {
-      "id": 5369,
-      "IDcode": "EBWH-233",
-      "title": "女友的姐姐不算偷吃啦！溫泉旅行被巨乳誘惑逆NTR ~ 柏木文香",
+      "id": 2796,
+      "IDcode": "EBWH-267",
+      "title": "優しくて断れない人妻介護士は 真っ白な女体を高齢者に貪られ… 濃厚こってり計16P乱交 柏木ふみか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055258882882_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911014934861861_13779_thumbnail.webp",
       "actress": [
         "柏木文香"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-267"
     }
   ]
 };

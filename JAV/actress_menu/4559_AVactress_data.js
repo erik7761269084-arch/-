@@ -4,7 +4,7 @@ window.actressData = {
   "name": "三条つばさ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,23 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 75557,
-      "IDcode": "SPRD-1215",
-      "title": "僕、三十歳叔母さんで童貞すてれました。 三条つばさ",
+      "id": 102941,
+      "IDcode": "AUKG-451",
+      "title": "四十路レズ ～妻が好色ビアンに寝取られて～ 美原すみれ 三条つばさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-14",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-03-13",
       "cover_url": "",
       "actress": [
+        "美原すみれ",
         "三条つばさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1215"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AUKG-451"
     },
     {
       "id": 76370,
@@ -41,9 +42,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2019-11-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "羽生ありさ",
@@ -52,6 +53,22 @@ window.actressData = {
         "三条つばさ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-050"
+    },
+    {
+      "id": 75557,
+      "IDcode": "SPRD-1215",
+      "title": "僕、三十歳叔母さんで童貞すてれました。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "三条つばさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1215"
     }
   ]
 };

@@ -35,23 +35,55 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230211/73557035-3130-403b-aba6-c0d0eae53be1.jpg",
     "https://picture.yoshiclub.xyz/20230211/00f43f02-cb58-4c6f-80bc-438bf1b0eb8b.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 1745,
-      "IDcode": "SKYHD-158",
-      "title": "天空天使藍 Vol.150：長谷川未來",
+      "id": 1074,
+      "IDcode": "HEYZO-1509",
+      "title": "中出性学旅行 - 我被迫做淫穢的事情！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-06-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20231212/03d041b0-8176-4ea7-a0c8-e8fff1bef979.jpg",
+      "actress": [
+        "長谷川美裸"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1509"
+    },
+    {
+      "id": 553727,
+      "IDcode": "1PONDO-052323_001",
+      "title": "性爱教学实地演练！长谷川美裸的淫荡旅行日记~巨乳教师肉体指导特别课程",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2015-10-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20230211/ea60ccb3-863f-4d0e-84df-6b396692a9ca.webp",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sha.lashayu.com/upload/vod/20250422-1/3654816eac4fc3aebe93969cdb060af7.jpg",
       "actress": [
         "長谷川美裸"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-158"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-052323_001"
+    },
+    {
+      "id": 158264,
+      "IDcode": "1PONDO-053023_001",
+      "title": "余裕で三連発できちゃう極上の女優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250218/naTBX83L/1.jpg",
+      "actress": [
+        "長谷川美裸"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-053023_001"
     }
   ]
 };

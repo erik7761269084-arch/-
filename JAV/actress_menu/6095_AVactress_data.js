@@ -4,7 +4,7 @@ window.actressData = {
   "name": "三井里绪",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 98231,
       "IDcode": "ATID-242",
-      "title": "美人会計士 娼婦育成プロジェクト あずみ恋",
+      "title": "美人会計-あずみ恋",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2014-04-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/atid242/atid242pl.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "莲美恋",
         "三井里绪"

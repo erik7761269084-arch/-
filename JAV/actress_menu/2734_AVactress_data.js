@@ -36,14 +36,14 @@ window.actressData = {
     {
       "id": 7604,
       "IDcode": "MSPK-025",
-      "title": "癡女啪啪 No.25 拘束女體觀察 ~ 野々宮のん",
+      "title": "メスパコNo.25 拘束女体観察 ーかのんー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FIRST STAR",
-      "publish_date": "2025-03-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20250312/6b33186a-196f-4307-9b76-ea1865851ea4.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/3d2722c1a35a0ecf7bda59bf3c4a59bd.jpg",
       "actress": [
         "野々宮のん"
       ],

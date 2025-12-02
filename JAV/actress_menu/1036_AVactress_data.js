@@ -30,23 +30,71 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231014/83715d0f-4488-414a-9a29-b5c1031a10fc.jpg"
   ],
-  "works_count": 1,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 17768,
-      "IDcode": "MIDV-540",
-      "title": "20歲，笑容可愛，美麗的皮膚和有彈性的胸部，享受她的前3次高潮！",
+      "id": 17213,
+      "IDcode": "MIDV-560",
+      "title": "人生中最好的一次做愛！ 與叔叔接吻約會然後一晚被操了3次",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2023-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20231118/2643120b-2538-4237-a51f-7424239051cb.jpg",
+      "publish_date": "2023-12-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20231217/256189cd-f10a-4aaa-b66b-139b27efa0ff.jpg",
+      "actress": [
+        "七瀨末白"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-560"
+    },
+    {
+      "id": 18329,
+      "IDcode": "MIDV-507",
+      "title": "其他學校轉學的熱點女孩 千葉縣笑容可愛的新人AV出道",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "2023-10-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20231015/93307047-a311-4e3a-9291-a2082003d163.jpg",
+      "actress": [
+        "七瀨末白"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-507"
+    },
+    {
+      "id": 17768,
+      "IDcode": "MIDV-540",
+      "title": "很像某偶像的超可爱笑容-七濑美代",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/e0d28d31000c54e54fd791d1182e9d96.jpg",
       "actress": [
         "七瀨末白"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-540"
+    },
+    {
+      "id": 16799,
+      "IDcode": "MIDV-602",
+      "title": "乳頭被揉捏，青春期陰部被精液充滿，大雞巴調教陰戶",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a5005ac813dc779d96278/cover.jpg",
+      "actress": [
+        "七瀨末白"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-602"
     }
   ]
 };

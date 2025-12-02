@@ -31,18 +31,85 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241212/5ab34d45-c005-43cc-b872-f2ae3caa0a9d.jpg",
     "https://picture.yoshiclub.xyz/20241212/22b040f0-2578-4028-b641-7a87226edad1.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 3920,
-      "IDcode": "DVMM-270",
-      "title": "顏出MM號 受驗生限定專屬 魔鏡面接 衝刺名校的女學生口暴大考驗！自我介紹時被滿嘴射爆，精液狂漏！激烈面試後羞澀小穴被大肉棒狂插，精液滿身SEX！全員中出特別篇！ ~ 有馬美月 東雲梓 五十嵐美月 星乃蓳 廣瀬好美",
+      "id": 7648,
+      "IDcode": "NGHJ-003",
+      "title": "純真可愛素人妹挑戰超色任務：讓處男射出30毫升精液贏百萬！羞澀榨精中發情 奇跡生插初體驗連射中出狂歡 ~ 西尾真裏奈 鬆下莉子 四乃宮もも 星乃蓳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-08-01",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250310/c1b8af74-b5f7-40a7-8473-c829bd369215.jpg",
+      "actress": [
+        "西尾真里奈",
+        "松下莉子",
+        "四乃宮桃",
+        "星乃蓳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-003"
+    },
+    {
+      "id": 68453,
+      "IDcode": "CAD-031",
+      "title": "制服相机-星乃すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/09/689651f555337d7f7babb05b/cover.jpg",
+      "actress": [
+        "星乃蓳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAD-031"
+    },
+    {
+      "id": 9927,
+      "IDcode": "HMN-638",
+      "title": "すみません！私の勤務先でAVデビューします 前代未聞！？都内某一流ホテルで働くホテルマン星乃すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68bf83c7735bb663f77519d7/cover.jpg",
+      "actress": [
+        "星乃蓳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-638"
+    },
+    {
+      "id": 7256,
+      "IDcode": "APGH-033",
+      "title": "「超想被幹到不行…」害羞欲求不滿的宅女被勾引久違開幹後徹底騷起來〈同人作家〉堇小姐【酒店閉關自拍激情約會】 ~ 星乃堇",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250326/f4492f63-58b7-42cc-b1a7-bb14d62df1d5.jpg",
+      "actress": [
+        "星乃蓳"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-033"
+    },
+    {
+      "id": 3920,
+      "IDcode": "DVMM-270",
+      "title": "顔出しMM号 受験生限定 ザ・マジックミラー 難関大学への合格を目指す女子○生にじゅぼじゅぼフェラ面接試験",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084721323323_11354_thumbnail.webp",
       "actress": [
         "廣瀬好美",
@@ -52,54 +119,6 @@ window.actressData = {
         "星乃蓳"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-270"
-    },
-    {
-      "id": 68453,
-      "IDcode": "CAD-031",
-      "title": "【FANZA限定】シン・制服カメラ 星乃すみれ パンティと生写真付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2025-04-05",
-      "cover_url": "",
-      "actress": [
-        "星乃蓳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAD-031"
-    },
-    {
-      "id": 7256,
-      "IDcode": "APGH-033",
-      "title": "「超想被幹到不行…」害羞欲求不滿的宅女被勾引久違開幹後徹底騷起來〈同人作家〉堇小姐【酒店閉關自拍激情約會】 ~ 星乃堇",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250326/f4492f63-58b7-42cc-b1a7-bb14d62df1d5.jpg",
-      "actress": [
-        "星乃蓳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-033"
-    },
-    {
-      "id": 9927,
-      "IDcode": "HMN-638",
-      "title": "新人！對不起！我在自己的工作場所拍AV！在東京某頂級酒店工作的酒店女社員（23歲）利用休息時間，就在酒店的牀上 首次亮相 AV DEBUT ~ 星乃蓳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211064905371371.jpg",
-      "actress": [
-        "星乃蓳"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-638"
     }
   ]
 };

@@ -34,18 +34,34 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250627/f42ebbf9-24fd-485c-bc26-3c69b6226a8c_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 3955,
-      "IDcode": "CAWD-862",
-      "title": "143cm小只馬AV出道後犯校規被立即開除！…慘遭大量顔射深刻反省求回教育實習的可憐蘿莉實習生 ～ 小阪環奈",
+      "id": 4971,
+      "IDcode": "CAWD-857",
+      "title": "新人出道！拍攝中出AV算不算違反校規？神某川縣某浜市立某丘高中 身高143cm比學生還萌的蘿莉實習老師 失足少女初登場 AV DEBUT ~ 小阪環奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2025-08-01",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626031334412412_s.webp",
+      "actress": [
+        "小坂環奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-857"
+    },
+    {
+      "id": 3955,
+      "IDcode": "CAWD-862",
+      "title": "143cm 中出しデビューが校則違反で謹慎になってしまいました…小坂環奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731093944217217_51225_thumbnail.webp",
       "actress": [
         "小坂環奈"

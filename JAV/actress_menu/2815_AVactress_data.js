@@ -23,23 +23,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230918/3b72837e-3a84-4ce0-a03a-51e6fff18acd.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 74396,
       "IDcode": "JUL-150",
-      "title": "魔性の人妻 第2弾！中出し解禁！！ ナマとナマで激しく貪り合う、昼下がりの接吻シーソーゲーム。 川合らな",
+      "title": "已经结婚的美人妻-川合らな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/1b67e95705633ce49354ab5c2011b773.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/9ba977323a5a8b11a65d4f95af1f1eb9.jpg",
       "actress": [
         "川合らな"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-150"
+    },
+    {
+      "id": 18666,
+      "IDcode": "JUL-109",
+      "title": "深爱性爱的魔性32岁人妻-川合らな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230918/20230918003200408408.jpg",
+      "actress": [
+        "川合らな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-109"
     }
   ]
 };

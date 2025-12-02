@@ -26,8 +26,24 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230611/1fa2cd3a-e415-49f1-ba04-09034d8edffc.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 1446,
+      "IDcode": "HEYZO-2826",
+      "title": "無盡高潮天國 ～從疑惑變為快感～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2022-07-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20230611/a58731f9-cc2f-402d-9b54-1797963a3f54.jpg",
+      "actress": [
+        "山田萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2826"
+    },
     {
       "id": 1429,
       "IDcode": "HEYZO-2790",
@@ -35,7 +51,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2022-05-29",
       "cover_url": "https://picture.yoshiclub.xyz/20230617/20230617233732274274.jpg",

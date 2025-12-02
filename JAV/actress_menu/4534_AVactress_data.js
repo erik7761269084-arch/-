@@ -4,7 +4,7 @@ window.actressData = {
   "name": "七绪夕希",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 97525,
       "IDcode": "JUL-170",
-      "title": "コインランドリーで下着を落とす人妻 七緒夕希",
+      "title": "被丈夫冷落的人妻-七緒夕希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-03-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/eabd20c65771fe5d0911a23cfc0925ae.jpg",
       "actress": [
         "イセドン内村",
         "七绪夕希"
@@ -42,10 +42,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-02-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e27fb2a47ebb1a871da36/cover.jpg",
       "actress": [
         "小田切ジュン",
         "七绪夕希"

@@ -49,26 +49,84 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/33107bed-611d-4028-9bc5-049e6255ee62.jpg",
     "https://picture.yoshiclub.xyz/20230124/b05345a8-a4c8-4c3d-b3ec-3623143003cc.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 35284,
-      "IDcode": "FSET-474",
-      "title": "偷偷捆绑调教我的大嫂-椎名由奈",
+      "id": 82163,
+      "IDcode": "MCSR-382",
+      "title": "中出し近親相姦 お義父様やめて下さい 極上爆乳Special 4時間10人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "TMA",
-      "publish_date": "2025-10-08",
-      "cover_url": "https://tutu1.space/images/2025/10/07/0f0b19a4fecfa36c7817f7db9e627bbb.jpg",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "2020-03-28",
+      "cover_url": "https://tuaskbgnekr.com/20221126/KmqegqAt/1.jpg",
       "actress": [
-        "椎名由奈",
+        "小早川怜子",
+        "羽生ありさ",
+        "若槻みづな",
+        "黒沢那智",
         "原千草",
-        "小田切ジュン",
-        "大冢れん"
+        "三浦恵理子",
+        "宫野ゆかな",
+        "八ッ桥さい子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-474"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-382"
+    },
+    {
+      "id": 99690,
+      "IDcode": "EBOD-283",
+      "title": "卑猥な制服性交 原千草",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "2013-06-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ebod283/ebod283pl.jpg",
+      "actress": [
+        "原千草"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-283"
+    },
+    {
+      "id": 105636,
+      "IDcode": "SSR-036",
+      "title": "淫荡美腿OL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "通野未帆",
+        "春原未来",
+        "原千草",
+        "佐々木恋海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSR-036"
+    },
+    {
+      "id": 88218,
+      "IDcode": "SHE-475",
+      "title": "淫らな人妻との温泉中出しの旅 平穏な毎日に不満があるわけではないがどこか物足りない。もう一度だけときめきを感じたくて女は見知らぬ男に抱かれる… 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/997e3663887063f19fd659cab0b64c4b.jpg",
+      "actress": [
+        "希咲彩",
+        "原千草",
+        "大冢れん",
+        "篠田优"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHE-475"
     },
     {
       "id": 67844,
@@ -77,10 +135,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Big Morkal",
-      "publish_date": "2025-04-26",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/27/c45d2725/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "本真友里",
         "川上優",
@@ -97,62 +155,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-597"
     },
     {
-      "id": 82163,
-      "IDcode": "MCSR-382",
-      "title": "中出し近親相姦 お義父様やめて下さい 極上爆乳Special 4時間10人",
+      "id": 35284,
+      "IDcode": "FSET-474",
+      "title": "偷偷捆绑调教我的大嫂-椎名由奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2020-03-28",
-      "cover_url": "",
-      "actress": [
-        "小早川怜子",
-        "羽生ありさ",
-        "若槻みづな",
-        "黒沢那智",
-        "原千草",
-        "三浦恵理子",
-        "宫野ゆかな",
-        "八ッ桥さい子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-382"
-    },
-    {
-      "id": 2021,
-      "IDcode": "MCBD-25",
-      "title": "Merci Beaucoup 連續 25 次內射：Chigusa Hara",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MERCI BEAUCOUP",
-      "publish_date": "2018-08-29",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/ba483a84-183e-46ad-8ec1-50871185a127.webp",
-      "actress": [
-        "原千草"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCBD-25"
-    },
-    {
-      "id": 88218,
-      "IDcode": "SHE-475",
-      "title": "淫らな人妻との温泉中出しの旅 平穏な毎日に不満があるわけではないがどこか物足りない。もう一度だけときめきを感じたくて女は見知らぬ男に抱かれる… 4",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2017-10-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/6f8f5fb93fd9196a277d2bb643825029.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/07/0f0b19a4fecfa36c7817f7db9e627bbb.jpg",
       "actress": [
-        "希咲彩",
+        "椎名由奈",
         "原千草",
-        "大冢れん",
-        "篠田优"
+        "小田切ジュン",
+        "大冢れん"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHE-475"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-474"
     }
   ]
 };

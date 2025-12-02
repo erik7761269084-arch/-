@@ -39,58 +39,74 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250411/fe24c741-37bc-494d-9e8a-459c545292ab.jpg",
     "https://picture.yoshiclub.xyz/20250411/30d23c0a-3cdd-4c2b-b3df-16d252d0a36b.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
-    {
-      "id": 2775,
-      "IDcode": "MVSD-655",
-      "title": "性感美人理療師用她的溼滑小穴和超騷腰技帶你多次中出爽翻的回春男士按摩風俗店 ~ 椎名七海",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2025-09-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911015958631631_72049_thumbnail.webp",
-      "actress": [
-        "椎名七海",
-        "じゅうもんじ",
-        "向理来"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-655"
-    },
-    {
-      "id": 5321,
-      "IDcode": "PRST-022",
-      "title": "港區極品美女首次解禁無套中出 火辣身材挑逗慾望被濃精填滿 ~ 椎名七海",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612060020372372_thumbnail.webp",
-      "actress": [
-        "椎名七海"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-022"
-    },
     {
       "id": 6891,
       "IDcode": "PRST-019",
-      "title": "新人出道！港區甜心首秀！G杯敏感妹激情開撩到爆 首次亮相 AV DEBUT ~ 椎名七海",
+      "title": "新人 椎名ななみ AVデビュー ミナトク神美女子の情熱溢れる本能セックスは",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2025-04-15",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250411/202504112324022020.jpg",
       "actress": [
         "椎名七海",
         "ハメ鳥の人"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-019"
+    },
+    {
+      "id": 6146,
+      "IDcode": "PRST-021",
+      "title": "高潮绝顶的女人-椎名ななみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515042828398398_thumbnail.webp",
+      "actress": [
+        "椎名七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-021"
+    },
+    {
+      "id": 5321,
+      "IDcode": "PRST-022",
+      "title": "想带回家的港区美女-用浓精灌满",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae1ed0682e2e9281a5486f/cover.jpg",
+      "actress": [
+        "椎名七海"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRST-022"
+    },
+    {
+      "id": 2775,
+      "IDcode": "MVSD-655",
+      "title": "美丽的治疗师用粘糊糊鸡巴阴道射精-椎名ななみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/29/58f9bec6/vod.jpg",
+      "actress": [
+        "椎名七海",
+        "じゅうもんじ",
+        "向理来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-655"
     }
   ]
 };

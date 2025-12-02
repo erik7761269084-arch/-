@@ -32,19 +32,19 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250803/0efd28c1-d3a6-4463-a8be-909ad2d6e6f5_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250803/99dd92d1-0b4a-4bc2-b797-36ec5b949629_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 3924,
       "IDcode": "MGOLD-045",
-      "title": "新人出道 短影音女王 震撼 AV DEBUT ~ 澪奈明日見",
+      "title": "新人 電マ女王 澪奈あすみ AVdebut-澪奈あすみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-08-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250803/20250803044656659659_77421_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/09ca30e37d38dc1c971c7bb94c154903.jpg",
       "actress": [
         "澪奈明日見",
         "鲛岛",
@@ -52,6 +52,38 @@ window.actressData = {
         "イセドン内村"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-045"
+    },
+    {
+      "id": 3041,
+      "IDcode": "MGOLD-046",
+      "title": "焦らし・目隠し・服破り・拘束・玩具責め期待汁だらっだらおチ〇ポおねだり-奈あすみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250903/20250903203745249249_74314_thumbnail.webp",
+      "actress": [
+        "澪奈明日見"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-046"
+    },
+    {
+      "id": 2353,
+      "IDcode": "MGOLD-047",
+      "title": "電マ女王を電マ持参でお貸しします。 澪奈あすみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "澪奈明日見"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MGOLD-047"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "流川帆波",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "えむっ娘ラボ",
-      "publish_date": "2020-09-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230908-1/0b1a9066838ec20f157d8009f26f6782.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/65d6acc037219e7d35898f256373054f.jpg",
       "actress": [
         "流川帆波"
       ],

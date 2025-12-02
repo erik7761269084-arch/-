@@ -4,7 +4,7 @@ window.actressData = {
   "name": "二代目乱田舞",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-07-01",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/097528b972cd08a8a1aa75e661406ac9.jpg",
       "actress": [
         "葉月ひな",
         "二代目乱田舞"
@@ -38,14 +38,14 @@ window.actressData = {
     {
       "id": 6471,
       "IDcode": "RBK-117",
-      "title": "東京墮落夜 綁縛女編輯 歡迎來到瘋狂變態的SM深淵 ~ 向井藍",
+      "title": "東京デカダンス 縛られた女編集者 ようこそ、狂気と倒錯の渦巻くサドマゾの世界へ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ATTACKERS",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501042246318318_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/12/6821bfb1c7cb4ba33f7739c5/cover.jpg",
       "actress": [
         "向井藍",
         "二代目乱田舞"

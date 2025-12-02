@@ -36,8 +36,28 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250122/21f18c00-e761-4283-a057-b15131f8ca57.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 8913,
+      "IDcode": "KTRA-693",
+      "title": "心跳加速 家庭內亂倫 4小時合集 ~ 花狩舞 希咲那奈 純真かれん 幾田真知",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acbf6731eb0592de65bd32/cover.jpg",
+      "actress": [
+        "希咲那奈",
+        "花狩舞",
+        "幾田真知",
+        "仲村りお",
+        "純真かれん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-693"
+    },
     {
       "id": 6690,
       "IDcode": "KTRA-714",
@@ -45,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K-Tribe",
-      "publish_date": "2025-04-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/202504200739583636_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac70a55337d7f7be48e04/cover.jpg",
       "actress": [
         "Nia",
         "鈴音杏夏",

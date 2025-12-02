@@ -54,26 +54,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250630/20250630110723673673_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250630/20250630110732540540_l.webp"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
-    {
-      "id": 4839,
-      "IDcode": "SAN-370",
-      "title": "讓人完全把持不住的誘惑！小惡魔幼妻的致命勾引240分鐘 ~ 篠宮友里 保坂えり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-06-30",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220959916916_thumbnail.webp",
-      "actress": [
-        "篠宮友里",
-        "保坂えり",
-        "篠宫ゆり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-370"
-    },
     {
       "id": 81622,
       "IDcode": "GRCH-358",
@@ -81,10 +63,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/1ad915b66d19354e362da7c33a54e071.jpg",
+      "cover_url": "",
       "actress": [
         "波多野结衣",
         "大槻响",
@@ -98,16 +80,49 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GRCH-358"
     },
     {
+      "id": 99884,
+      "IDcode": "IENE-332",
+      "title": "丸の内OL向け痴漢撃退セミナー開催！と言いつつロクな撃退法を教えず、素人OLに痴漢AVばりの触りまくり実習",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2013-10-24",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1iene332/1iene332pl.jpg",
+      "actress": [
+        "保坂えり",
+        "森川ななせ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENE-332"
+    },
+    {
+      "id": 106904,
+      "IDcode": "DVDES-699",
+      "title": "盯上巨乳妈妈的同学-保坂绘里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "保坂えり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-699"
+    },
+    {
       "id": 87970,
       "IDcode": "KISD-085",
       "title": "kira★kira STREET GAL＆おやじっち×BLACK GAL SPECIAL おやじっちマッサージ師の凄テク施術テクニックに桃色オマ●コから愛液をダダ漏らし、我慢できずに施術師のパンツを強引に脱がせチ●ポを喉奥まで咥え込みジュボフェラ！ゴッドハンドの指マンに何度…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-06-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/486a01f0a1c3f36678dfc7619de2ad20.jpg",
       "actress": [
         "保坂えり",
         "上原花恋",
@@ -117,20 +132,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KISD-085"
     },
     {
-      "id": 106904,
-      "IDcode": "DVDES-699",
-      "title": "盯上媽媽乳房的早熟同學2 ～拜託來睡我的媽媽讓她懷孕吧…！！～ 保阪繪里",
+      "id": 4839,
+      "IDcode": "SAN-370",
+      "title": "絶対に射精がガマンできない！男を誘惑する小悪魔幼妻たち240分",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2014-01-09",
-      "cover_url": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629220959916916_thumbnail.webp",
       "actress": [
-        "保坂えり"
+        "篠宮友里",
+        "保坂えり",
+        "篠宫ゆり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-699"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-370"
     }
   ]
 };

@@ -26,19 +26,19 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250206/85bb7fb5-6442-419d-9d0b-d77db2f00307.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 8725,
       "IDcode": "SDJS-292",
-      "title": "455分鍾全11試合 野球拳100周年紀念大會 SOD女子社員總計8名出場 平時幕後工作的同事首次獻射！ ~ 大川釉埜 藤村麻央 森永千波 前野伽鈴 渡會菜未 北岡愛 飯塚壽維 北村海智 志田柚月",
+      "title": "みんなで野球拳100周年記念大会 SOD女子社員8名出場 同僚が働く平日昼間オフィスど真ん中 特設スタジアムで開幕",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250129/20250129040200279279.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/13/67d2f6bd4e7d663df4e9916b/cover.jpg",
       "actress": [
         "北村海智",
         "藤村麻央",
@@ -50,6 +50,25 @@ window.actressData = {
         "飯塚寿維"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-292"
+    },
+    {
+      "id": 4018,
+      "IDcode": "SODS-060",
+      "title": "SOD女子社員 ハダカになるより恥ずかしい！脱ぎキャンBOX野球拳 速報Vol.5 10時間超3枚組",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250728/202507282038323636_35095_thumbnail.webp",
+      "actress": [
+        "北村海智",
+        "水澄せいら",
+        "吉井彩葉",
+        "藤村麻央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SODS-060"
     }
   ]
 };

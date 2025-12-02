@@ -41,78 +41,41 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241210/5251a3c6-b3f9-4b3e-92ed-c51eb3e10b9b.jpg",
     "https://picture.yoshiclub.xyz/20241210/602ea5dc-5005-4829-8cb1-98165124bbd1.jpg"
   ],
-  "works_count": 12,
+  "works_count": 15,
   "related_dramas": [
     {
-      "id": 2374,
-      "IDcode": "SDAM-149",
-      "title": "那須鹽原溫泉鄉邂逅的小姐姐 就裹條毛巾進男湯？美嫩皮膚水滑水滑的 大雞巴忍不住就要狂插了！ 超人氣任務《用嘴玩套圈》7人特別篇 ~ 天羽梨梨花 本城花 那津乃千奈美 柴又詩穗 小鬆本果",
+      "id": 4868,
+      "IDcode": "HRSM-101",
+      "title": "巴士導遊狩獵2 東京觀光4美人 ~ 綾美なな 那津乃千奈美 那賀崎雪音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213400254254_36744_thumbnail.webp",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006462462_thumbnail.webp",
       "actress": [
-        "天羽梨梨花",
+        "那賀崎雪音",
         "那津乃千奈美",
-        "小松本果",
-        "本城花",
-        "柴又詩穗"
+        "綾美なな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-101"
     },
     {
-      "id": 3368,
-      "IDcode": "FOCS-266",
-      "title": "清純大學生妹子墮入淫亂社團 田徑鍛鍊的古銅色身材 被玩弄到快感上腦 5P大亂鬥淪為社團公用肉便器 ~ 那津乃千奈美",
+      "id": 63760,
+      "IDcode": "KSBJ-384",
+      "title": "義父と妊活 種なし息子の嫁の誘惑 那津乃ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025539978978_14671_thumbnail.webp",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "那津乃千奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-266"
-    },
-    {
-      "id": 3704,
-      "IDcode": "NGHJ-024",
-      "title": "家庭倫理的羈絆能敵過欲望嗎？兄妹全身油膩膩按摩素股體驗 ~ 川上しずく 福原美奈 那津乃千奈美 有馬美玖",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013532957957_83418_thumbnail.webp",
-      "actress": [
-        "有馬美玖",
-        "那津乃千奈美",
-        "川上しずく",
-        "福原美奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-024"
-    },
-    {
-      "id": 3658,
-      "IDcode": "BACJ-160",
-      "title": "新人女王登場！平凡妹子化身M性感女王 ~ 那津乃千奈美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2025-08-08",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095803376376_65489_thumbnail.webp",
-      "actress": [
-        "那津乃千奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-384"
     },
     {
       "id": 62540,
@@ -121,10 +84,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-22",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/26/b204d6f6/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "水乃菜乃華",
         "廣瀬好美",
@@ -136,64 +99,83 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGMX-232"
     },
     {
-      "id": 63760,
-      "IDcode": "KSBJ-384",
-      "title": "義父と妊活 種なし息子の嫁の誘惑 那津乃ちなみ （BOD）",
+      "id": 10025,
+      "IDcode": "SDAB-322",
+      "title": "18歳AVデビュー那津乃ちなみ 陸上少女の流す汗とまなざし潤うまな板ちっぱい。未熟な心に芽生えた本能。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-06-17",
-      "cover_url": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241210/20241210015725867867.jpg",
       "actress": [
         "那津乃千奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-322"
     },
     {
-      "id": 5995,
-      "IDcode": "NACR-958",
-      "title": "肉壺懇願 學分不夠的女大學生無法拒絕 ~ 那津乃千奈美",
+      "id": 8351,
+      "IDcode": "SDAB-326",
+      "title": "陸上で鍛えた長身171cmのスレンダーな身体をおじさんの精子で汚すお籠り性学習 那津乃ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-05-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233213294294_thumbnail.webp",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250211/1324d182-2168-4500-a2f8-83cc37522bb9.jpg",
       "actress": [
         "那津乃千奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-958"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-326"
     },
     {
-      "id": 6094,
-      "IDcode": "BLK-652",
-      "title": "超愛口交的抖M小麥肌辣妹在情趣旅館即刻開戰3P亂鬥",
+      "id": 6629,
+      "IDcode": "PFES-090",
+      "title": "脚長日焼け黑ギャル日替わりパンツ家庭内盗撮中出し性交",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515092548430430_thumbnail.webp",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205127849849_thumbnail.webp",
       "actress": [
+        "那津乃千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-090"
+    },
+    {
+      "id": 6543,
+      "IDcode": "SDDE-751",
+      "title": "青春汗水獻給手活的女子高中生！私立新中野學院發射部 ~ 松井日奈子 那津乃千奈美 菊池春 笠木一花 桐香悠里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250429/5a773b20-bfcc-404c-931d-c1bf227a2e84_thumbnail.webp",
+      "actress": [
+        "松井日奈子",
+        "桐香悠裡",
+        "菊池春",
         "那津乃千奈美",
-        "ニック"
+        "笠木いちか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-652"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-751"
     },
     {
       "id": 6366,
       "IDcode": "SDMM-197",
-      "title": "魔鏡一號！感謝支持第三彈！10人出演6小時 保健體育課外教學 在現役女學生面前秀出成人濃烈性愛！點燃青春期性好奇心 首次體驗杭打騎乘位直達高潮體驗3",
+      "title": "【おかげさまで第3弾！10名出演6時間】マジックミラー号 保健体育の課外授業 現役女子〇生の目の前でオトナの濃厚SEXを見せつける！思春期の性的好奇心に火を点けて初めての杭打ち騎乘位で中イキ体験3",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/13185a29-5fff-4348-9ef6-03eda06a2da8_thumbnail.webp",
       "actress": [
         "千川とわ",
@@ -208,56 +190,125 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
     },
     {
-      "id": 6543,
-      "IDcode": "SDDE-751",
-      "title": "青春汗水獻給手活的女子高中生！私立新中野學院發射部 ~ 松井日奈子 那津乃千奈美 菊池春 笠木一花 桐香悠里",
+      "id": 6094,
+      "IDcode": "BLK-652",
+      "title": "最喜欢口交的抖M租借辣妹在情趣酒店的3P乱交-那津乃千奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250429/5a773b20-bfcc-404c-931d-c1bf227a2e84_thumbnail.webp",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515092548430430_thumbnail.webp",
       "actress": [
-        "松井日奈子",
-        "桐香悠裡",
-        "菊池春",
         "那津乃千奈美",
-        "笠木いちか"
+        "ニック"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-751"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-652"
     },
     {
-      "id": 6629,
-      "IDcode": "PFES-090",
-      "title": "長腿曬黑辣妹每天換內褲家庭偷拍中出激戰 ~ 那津乃千奈美",
+      "id": 5995,
+      "IDcode": "NACR-958",
+      "title": "肉壺懇願 単位が足りない女子大生は断れない 那津乃ちなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "変態紳士倶楽部",
-      "publish_date": "2025-04-25",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424205127849849_thumbnail.webp",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519233213294294_thumbnail.webp",
       "actress": [
         "那津乃千奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PFES-090"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-958"
     },
     {
-      "id": 10025,
-      "IDcode": "SDAB-322",
-      "title": "【最嫩女優2006年出生】新人出道！田徑少女的汗水和那天真眼神，性感翹臀，未完全成熟的身體讓人有種本能衝動！首次亮相 AV DEBUT ~ 那津乃千奈美",
+      "id": 3704,
+      "IDcode": "NGHJ-024",
+      "title": "家族の絆は性欲に負けてしまうのか！？なかよし兄妹が全身ぬるべちょオイルエステ素股体験危ういドキドキのオイルマッサージ…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013532957957_83418_thumbnail.webp",
+      "actress": [
+        "有馬美玖",
+        "那津乃千奈美",
+        "川上しずく",
+        "福原美奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-024"
+    },
+    {
+      "id": 3658,
+      "IDcode": "BACJ-160",
+      "title": "新人女王 M性感で働くことになった普通の女の子 那津乃ちなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811095803376376_65489_thumbnail.webp",
+      "actress": [
+        "那津乃千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-160"
+    },
+    {
+      "id": 3368,
+      "IDcode": "FOCS-266",
+      "title": "玩弄快感堕落的意识跳跃5P共享肉便池-那津乃ちなみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025539978978_14671_thumbnail.webp",
+      "actress": [
+        "那津乃千奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-266"
+    },
+    {
+      "id": 2769,
+      "IDcode": "MUKD-556",
+      "title": "バイバイ青春 Wチアガール再起不能トラウマレ×プ スレンダー美脚BODYがバキバキに折れ潰れるほど犯●れて…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/23/9376f656/vod.jpg",
+      "actress": [
+        "那津乃千奈美",
+        "渡來楓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-556"
+    },
+    {
+      "id": 2374,
+      "IDcode": "SDAM-149",
+      "title": "名湯の湯もはじく若肌へ茹だった精子が思わず飛び出すびゅるっと暴発ぶっかけ連発 大人気ミッション《口だけでち〇ぽ輪投げ》7名スペシャル編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20241210/20241210015725867867.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "那津乃千奈美"
+        "天羽梨梨花",
+        "那津乃千奈美",
+        "小松本果",
+        "本城花",
+        "柴又詩穗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-322"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-149"
     }
   ]
 };

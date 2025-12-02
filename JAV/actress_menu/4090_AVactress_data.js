@@ -4,7 +4,7 @@ window.actressData = {
   "name": "柏木まい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,53 +19,14 @@ window.actressData = {
   "works_count": 6,
   "related_dramas": [
     {
-      "id": 81586,
-      "IDcode": "FCH-052",
-      "title": "【配信専用】「ちょ、待っ、え！こんなところで！？」バレたらマズい場所で美少女がチ●ポをエッチに抜きまくり！2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2020-04-03",
-      "cover_url": "",
-      "actress": [
-        "胡桃多惠",
-        "神野雛",
-        "香坂みりな",
-        "望月憧",
-        "柏木まい",
-        "加贺美まり",
-        "菊川みつ叶",
-        "富永舞"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-052"
-    },
-    {
-      "id": 70900,
-      "IDcode": "FAA-324",
-      "title": "デカ尻若妻に3日間朝も昼も夜も痴女られまくった話",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-09-26",
-      "cover_url": "",
-      "actress": [
-        "柏木まい"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-324"
-    },
-    {
       "id": 82748,
       "IDcode": "CESD-799",
       "title": "星奈あいが柏木まいと渚みつきのオマ○コ重ねてまとめてイカせるガチレズ同性愛SEX！ド淫乱な2人も星奈あいを激しく責めて…全員エビ反り絶頂！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
+      "type": "",
+      "company": "",
       "publish_date": "2019-08-25",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221121-1/84002a6d4bd6bff6e375d7f5ab881c78.jpg",
       "actress": [
@@ -82,15 +43,38 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "BIBIAN",
       "publish_date": "2019-06-07",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/73898f82ddf9a7e032c0c3e8c78a70aa.jpg",
       "actress": [
         "星奈爱",
         "柏木まい"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-235"
+    },
+    {
+      "id": 81586,
+      "IDcode": "FCH-052",
+      "title": "【配信専用】「ちょ、待っ、え！こんなところで！？」バレたらマズい場所で美少女がチ●ポをエッチに抜きまくり！2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/424d9f57b446a31408aeb46f8a3209f8.jpg",
+      "actress": [
+        "胡桃多惠",
+        "神野雛",
+        "香坂みりな",
+        "望月憧",
+        "柏木まい",
+        "加贺美まり",
+        "菊川みつ叶",
+        "富永舞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FCH-052"
     },
     {
       "id": 72145,
@@ -99,10 +83,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-05-17",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ab701425d4fc0ebf5b5e5e17d900e283.jpg",
       "actress": [
         "有栖露露",
         "柏木まい",
@@ -118,16 +102,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-05-03",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/1f40c2e1f841059fb5c7c9f9ff69f671.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9447b740402f96c59ddbe5fc5f5e4f7b.jpg",
       "actress": [
         "亜矢みつき",
         "柏木まい",
         "绀野さゆり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-146"
+    },
+    {
+      "id": 70900,
+      "IDcode": "FAA-324",
+      "title": "デカ尻若妻に3日間朝も昼も夜も痴女られまくった話",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9497fddc1ee3080aab8d56204b460042.jpg",
+      "actress": [
+        "柏木まい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAA-324"
     }
   ]
 };

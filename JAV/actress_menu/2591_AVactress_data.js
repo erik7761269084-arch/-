@@ -39,13 +39,13 @@ window.actressData = {
     {
       "id": 6834,
       "IDcode": "SDAB-330",
-      "title": "新人報到！日本東北不知名小港口在地妹初登場，嬌小純白身軀加迷人電眼，多次高潮噴水停不下來 首次亮相 AV DEBUT ~ 四ッ葉かな",
+      "title": "東北生まれの港町育ち、小柄で純白なカラダと吸い寄せられる瞳が輝く幼な顔は何度もイって潮を吹く 四ツ葉かな 18歳AVデビュー 四ッ葉かな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-04-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/0ea3696e-c4c1-4b1d-b8a5-dd97406da2b2_thumbnail.webp",
       "actress": [
         "四ッ葉かな"

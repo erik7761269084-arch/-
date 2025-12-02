@@ -48,50 +48,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241212/0768c1a7-cd37-4a75-af5d-ba9d7a28cf39.jpg",
     "https://picture.yoshiclub.xyz/20241212/d2efd8d7-b9da-4754-9393-3d5805f5c2e9.jpg"
   ],
-  "works_count": 5,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 4388,
-      "IDcode": "MIBB-057",
-      "title": "幹翻天！超辣Coser正妹 ~ 花宮京子",
+      "id": 4661,
+      "IDcode": "HOIZ-169",
+      "title": "宅家開幹26 素人約炮實錄 巨乳辣妹一夜情大作戰 ~ 花宮京子 湊堇 佐山由依 春陽萌花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILU",
-      "publish_date": "2025-07-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712052201160160_42103_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706103512512512_98725_thumbnail.webp",
       "actress": [
-        "花宮京子"
+        "春陽萌花",
+        "佐山由依",
+        "花宮京子",
+        "凑堇"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOIZ-169"
     },
     {
-      "id": 5343,
-      "IDcode": "BLK-654",
-      "title": "超下流辣妹！黃金町小巷撿到的瘋狂肉彈騷貨，一整天窩在情趣酒店生猛內射 ~ 花宮京子",
+      "id": 6655,
+      "IDcode": "SVHOT-001",
+      "title": "黑船來襲 超高個HOLLYWOOD大妞登陸日本！絕倫女神欲求不滿狂榨精！緊急特輯 ~ 滝ゆいな 花宮京子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120626184848_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2025-04-18",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250423/20250423081409478478_thumbnail.webp",
       "actress": [
+        "滝ゆいな",
         "花宮京子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVHOT-001"
+    },
+    {
+      "id": 9916,
+      "IDcode": "EBWH-178",
+      "title": "エロすぎるSNSフォロワー6万人 難波の老舗SM倶楽部でレジェンドだった痴女王様AVデビュー 花宮きょうこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678904365d57b64bfd84a73d/cover.jpg",
+      "actress": [
+        "花宮京子",
+        "輝大"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-178"
     },
     {
       "id": 7442,
       "IDcode": "SVMGM-035",
-      "title": "魔鏡號特輯 用比特幣賺翻了的小矮子在海邊搭訕高個沙排妹！水着縫隙裏求摩擦小弟弟，矮子直接生中出し！！ ~ 片寄しゅうか 滝ゆいな 恵沙也香 花宮京子 長谷川れいみ",
+      "title": "マジックミラー号ハードボイルド ビ〇トコインで一発当てたチビの俺が目前の海で高身長ビーチバレー娘をナンパ！素肌と水着の隙間にチン★コキお願い！最後は、低身長コンプレックス解消のナマ中出し！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Sadistic Village",
-      "publish_date": "2025-04-24",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250318/8a19c6e8-d855-4ada-898a-9969630aa792.jpg",
       "actress": [
         "滝ゆいな",
@@ -105,13 +126,13 @@ window.actressData = {
     {
       "id": 6752,
       "IDcode": "BONY-141",
-      "title": "奶頭硬到炸裂高潮不停！欲求不滿的騷浪人妻每月一次的欲望解放日 ~ 花宮京子",
+      "title": "乳首ガン勃ちイキまくり！！ 欲求不満の淫乱人妻 月に1度の性欲開放日 花宮きょうこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-04-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092434681681_thumbnail.webp",
       "actress": [
         "花宮京子"
@@ -119,21 +140,86 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-141"
     },
     {
-      "id": 9916,
-      "IDcode": "EBWH-178",
-      "title": "新人報到！6萬社交網絡粉絲，傳說中的難波老牌SM俱樂部的放蕩女王的首次亮相 AV DEBUT ~ 花宮京子",
+      "id": 5343,
+      "IDcode": "BLK-654",
+      "title": "エグい程下品な女 黄金町裏通りで見つけたイカれた肉弾ムチムチビッチと一日中ラブホにこもって生ハメ中出し",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211063611657657.jpg",
+      "type": "",
+      "company": "KIRAKIRA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120626184848_thumbnail.webp",
       "actress": [
-        "花宮京子",
-        "輝大"
+        "花宮京子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-178"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-654"
+    },
+    {
+      "id": 4388,
+      "IDcode": "MIBB-057",
+      "title": "ヤッちゃえ！コスプレイヤー 花宮きょうこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILU",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712052201160160_42103_thumbnail.webp",
+      "actress": [
+        "花宮京子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIBB-057"
+    },
+    {
+      "id": 4116,
+      "IDcode": "OFES-024",
+      "title": "難波SMクラブの元伝説女王様をM男クン家に派遣します！ド級の痴女テクと関西弁ささやきで東京マゾザーメンをブッコ抜く！ 花宮きょうこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040622911911_13459_thumbnail.webp",
+      "actress": [
+        "花宮京子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-024"
+    },
+    {
+      "id": 2843,
+      "IDcode": "HBAD-716",
+      "title": "フィットネスジムで巨乳デカ尻のエロボディを狙われた長身アパレル女子 花宮きょうこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911000621588588_63692_thumbnail.webp",
+      "actress": [
+        "花宮京子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-716"
+    },
+    {
+      "id": 2176,
+      "IDcode": "DVEH-066",
+      "title": "育児に忙しい巨乳ママさん！子育てでレス気味の欲求不満オ○ンコに童貞チ○ポ擦りつけると溢れるいやらし汁 母性＆性欲が高まるママがそのままヌルっと生挿入筆おろし",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "南條彩",
+        "似鳥日菜",
+        "花宮京子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-066"
     }
   ]
 };

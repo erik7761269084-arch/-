@@ -4,7 +4,7 @@ window.actressData = {
   "name": "白宮れい",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 75411,
       "IDcode": "MILK-232",
-      "title": "喉奥肉便器×2 冷酷無残イラマ輪〇の標的にされた仲良しメイド はるな＆れい チェキ付き",
+      "title": "喉奥肉便器×2 冷酷無残イラマ輪〇の標的にされた仲良しメイド はるな＆れい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MILK",
-      "publish_date": "2025-01-02",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873fc789def9b1b801ba43/cover.jpg",
       "actress": [
         "河合阳菜",
         "白宮れい"

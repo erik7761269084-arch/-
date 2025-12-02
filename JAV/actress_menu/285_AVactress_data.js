@@ -37,34 +37,50 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240106/7cba7952-66bf-4d34-a03d-364d02f9b729.jpg"
   ],
-  "works_count": 12,
+  "works_count": 25,
   "related_dramas": [
     {
-      "id": 3034,
-      "IDcode": "IPZZ-654",
-      "title": "內衣公司打工的美乳娘爲了公司脫光光！現場內衣模特秀，直接開幹服務！全程內衣激戰 ~ 長濱蜜璃",
+      "id": 14890,
+      "IDcode": "IPZZ-287",
+      "title": "天然G罩杯大奶子爆乳的女孩 長濱蜜璃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/202509040210324747_30020_thumbnail.webp",
+      "publish_date": "2024-05-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510022304148148.jpg",
       "actress": [
         "長濱蜜璃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-654"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-287"
+    },
+    {
+      "id": 16351,
+      "IDcode": "IPZZ-221",
+      "title": "初體驗極致覺醒的4本番",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2024-02-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240211/20240211002939364364.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-221"
     },
     {
       "id": 61955,
       "IDcode": "FWAY-068",
-      "title": "＃彼女とエッチなうに使っていいよ 長浜みつり （ブルーレイディスク）",
+      "title": "＃彼女とエッチなうに使っていいよ 長浜みつり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-08-12",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "長濱蜜璃"
@@ -72,31 +88,300 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FWAY-068"
     },
     {
-      "id": 3800,
-      "IDcode": "IPZZ-631",
-      "title": "對咖啡店一起打工的失戀巨乳小可愛溫柔一點就上手了的故事 ~ 長濱蜜璃",
+      "id": 16910,
+      "IDcode": "IPZZ-214",
+      "title": "FIRST IMPRESSION-長浜みつり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030126373373_58577_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/121c62890a3261d764a1a9221c850af2.jpg",
       "actress": [
         "長濱蜜璃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-631"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-214"
+    },
+    {
+      "id": 15594,
+      "IDcode": "IPZZ-255",
+      "title": "把睡著的性欲叫醒-長濱蜜璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240512-1/225287b895f562e8bad84164ae279018.jpg",
+      "actress": [
+        "長濱蜜璃",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-255"
+    },
+    {
+      "id": 14072,
+      "IDcode": "IPZZ-314",
+      "title": "我让我爱了很久的青梅竹马禁欲一个月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/342b6d2837191dec827dc7f2b26f4fcc.jpg",
+      "actress": [
+        "長濱蜜璃",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-314"
+    },
+    {
+      "id": 13586,
+      "IDcode": "IPZZ-324",
+      "title": "令人难以置信的柔软乳头护士-長浜みつり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/528faa212399615020e055ab6f043fd7.jpg",
+      "actress": [
+        "長濱蜜璃",
+        "鲛岛",
+        "ハカー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-324"
+    },
+    {
+      "id": 12781,
+      "IDcode": "IPZZ-347",
+      "title": "出差遇到了豪雨-長濱蜜璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/aaaa7bd44fb9a65c289a7c901eeecbd3.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-347"
+    },
+    {
+      "id": 12194,
+      "IDcode": "IPZZ-370",
+      "title": "穿着泳装故意诱惑我-长滨蜜璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240921-1/2f544806c035c58158daaf3c64783bca.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-370"
+    },
+    {
+      "id": 11519,
+      "IDcode": "IPZZ-392",
+      "title": "G罩杯的巨乳-長濱蜜璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/4f356275e0787ab0e7e1a4b749a07afa.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-392"
+    },
+    {
+      "id": 10785,
+      "IDcode": "IPZZ-411",
+      "title": "超乎想象的性欲极强的女性-長浜みつり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/2895ebea7dece534741fbb9413bbaf65.jpg",
+      "actress": [
+        "長濱蜜璃",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-411"
+    },
+    {
+      "id": 10174,
+      "IDcode": "IPZZ-431",
+      "title": "被姐姐健身时丰满的大屁股诱惑-長浜みつり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241218-1/01f5ed774d9dceebdd4b0c858219486a.jpg",
+      "actress": [
+        "長濱蜜璃",
+        "ハカー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-431"
+    },
+    {
+      "id": 9237,
+      "IDcode": "IPZZ-454",
+      "title": "不经意间被不戴胸罩的大胸姐姐诱惑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250131-1/762739971e1cefd9d04d99845e4445bc.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-454"
+    },
+    {
+      "id": 8447,
+      "IDcode": "IPZZ-482",
+      "title": "令和スキャンダル！！ マッチングお持ち帰りされたIP女優プライベートいちゃハメ独占映像解禁。 盗撮＆ハメ撮り映像そのままAV発売！ラストは大乱交！？ 長浜みつり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/a6afc5ae9f97777e4c614d0ca4bd8e5e.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-482"
+    },
+    {
+      "id": 7722,
+      "IDcode": "IPZZ-506",
+      "title": "美女私人老师的接吻课-长滨蜜璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250325-1/d3726786f39c450da8a0079666e3e4c0.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-506"
+    },
+    {
+      "id": 7073,
+      "IDcode": "IPZZ-528",
+      "title": "泳裝控的精液標記！變態教師對泳裝的瘋狂迷戀玷污了女學生 ~ 長濱蜜璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/07/11/cffbe2f3766ff062fe19f752eee19bbe.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-528"
+    },
+    {
+      "id": 6315,
+      "IDcode": "IPZZ-550",
+      "title": "非停止追擊性感開發-長濱蜜璃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/02/686472b53ed39b57c055b7d4/cover.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-550"
+    },
+    {
+      "id": 5541,
+      "IDcode": "IPZZ-578",
+      "title": "巨乳女大学生发情等待-長浜みつり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/21/f12f025288ddcc8edff839046e59334a.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-578"
+    },
+    {
+      "id": 5500,
+      "IDcode": "IPZZ-586",
+      "title": "日本よ、これがアイポケだーもう絶対に揃わない夢の究極共演桜空もも 長浜みつり 西宮ゆめ 古川ほのか愛才りあ 佐々木さき さくらわかな 役野満里奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/40492e6af9b48a92e048e57a1c766c93.jpg",
+      "actress": [
+        "桜空桃",
+        "西宮夢",
+        "古川穗花",
+        "長濱蜜璃",
+        "佐佐木紗希",
+        "櫻若菜",
+        "役野満里奈",
+        "愛才莉亞"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-586"
+    },
+    {
+      "id": 4764,
+      "IDcode": "IPZZ-601",
+      "title": "和讨厌到极点的上司在出差地的温泉旅馆居然同住一间房-長浜みつり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/42028f4ab0768b0e482a0f542f6765ae.jpg",
+      "actress": [
+        "長濱蜜璃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-601"
     },
     {
       "id": 4127,
       "IDcode": "OFES-025",
-      "title": "BEAUTY VENUS THE HARLEM-episode2 最高峯巨乳美人的國賓級泡泡浴服務，超高級風俗體驗 ~ 櫻空桃 長濱蜜璃 役野滿裏奈",
+      "title": "超高级后宫风俗之旅-桜空もも 長浜みつり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-07-25",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724040153935935_62351_thumbnail.webp",
       "actress": [
         "桜空桃",
@@ -106,133 +391,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFES-025"
     },
     {
-      "id": 4764,
-      "IDcode": "IPZZ-601",
-      "title": "出差溫泉旅館和超討厭的上司被迫同房…被噁心絕倫老男人一次次搞到高潮 ~ 長濱蜜璃",
+      "id": 3800,
+      "IDcode": "IPZZ-631",
+      "title": "長在打工处安慰伤心的巨乳可爱女孩后意外发生关系的经历-浜みつり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703044434561561_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/80c3e44e0175fe9b0260ace946a0b646.jpg",
       "actress": [
         "長濱蜜璃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-601"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-631"
     },
     {
-      "id": 5541,
-      "IDcode": "IPZZ-578",
-      "title": "公車癡漢：巨乳女大學生沉迷羞恥快感無法自拔 ~ 長濱蜜璃",
+      "id": 3034,
+      "IDcode": "IPZZ-654",
+      "title": "内衣公司新人销售OL业绩不佳被逼脱光光现场内衣模特秀-長浜みつり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040607291291_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/202509040210324747_30020_thumbnail.webp",
       "actress": [
         "長濱蜜璃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-578"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-654"
     },
     {
-      "id": 6315,
-      "IDcode": "IPZZ-550",
-      "title": "不間斷！性器抖到不行！無限高潮一次又一次！無停歇性感開發 ~ 長濱蜜璃",
+      "id": 2221,
+      "IDcode": "MIMK-247",
+      "title": "パパ活はじめました1＆2～女子大生編～ シリーズ売上120万部オーバー！！長浜みつり初実写",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065357589589_thumbnail.webp",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/08/0624dffbdc07f61d94a720756862ba0d.jpg",
       "actress": [
         "長濱蜜璃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-550"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-247"
     },
     {
-      "id": 7073,
-      "IDcode": "IPZZ-528",
-      "title": "泳裝控的精液標記！變態教師對泳裝的瘋狂迷戀玷污了女學生 ~ 長濱蜜璃",
+      "id": 2112,
+      "IDcode": "IPZZ-676",
+      "title": "让人想夺走别人的东西的笑眯眯清纯系碧池-长滨蜜璃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092238219219.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/20/343d8222/vod.jpg",
       "actress": [
         "長濱蜜璃"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-528"
-    },
-    {
-      "id": 7722,
-      "IDcode": "IPZZ-506",
-      "title": "美人家庭教師的接吻私教課 ~ 長濱蜜璃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123217180180.jpg",
-      "actress": [
-        "長濱蜜璃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-506"
-    },
-    {
-      "id": 9237,
-      "IDcode": "IPZZ-454",
-      "title": "不戴胸罩，不自覺地露出乳頭的大奶子女人，淫蕩成性，我用盡全力揉搓她的G罩杯神乳 ~ 長濱蜜璃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109074056408408.jpg",
-      "actress": [
-        "長濱蜜璃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-454"
-    },
-    {
-      "id": 10785,
-      "IDcode": "IPZZ-411",
-      "title": "帶着可愛又性感的後輩OL到酒店後……我遭到了一個絕倫淫蕩女人的反擊。 這年頭流行的年輕子社員怒濤10發！ ~ 長濱蜜璃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/0188c947-a49c-4fbd-9e5c-edc6f374065b.jpg",
-      "actress": [
-        "長濱蜜璃",
-        "蓝井优太"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-411"
-    },
-    {
-      "id": 16910,
-      "IDcode": "IPZZ-214",
-      "title": "FIRST IMPRESSION 166 新人出道 長濱蜜璃 美麗到爆的G乳巨杯美少女 首次亮相 AV DEBUT",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2024-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240105/20240105235324711711.jpg",
-      "actress": [
-        "長濱蜜璃"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-214"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-676"
     }
   ]
 };

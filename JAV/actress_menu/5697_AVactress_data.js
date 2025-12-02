@@ -4,7 +4,7 @@ window.actressData = {
   "name": "てんしちゃん",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 90897,
       "IDcode": "BOBB-365",
-      "title": "同人界からやって来たレジェンド！おっぱい天使の爆乳を極上乳フェチプレイで味わい尽くす Boin「てんしちゃん」Box",
+      "title": "品尝爆炸性奶头-てんしちゃん",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-02-24",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "てんしちゃん"

@@ -32,7 +32,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230122/a81fc401-bda8-4168-9548-8168403c9994.jpg",
     "https://picture.yoshiclub.xyz/20230122/5d247575-b8c7-4776-9ca1-89165a3ef81c.jpg"
   ],
-  "works_count": 3,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 1484,
@@ -41,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2018-05-19",
       "cover_url": "https://picture.yoshiclub.xyz/20230520/cc4f0834-3821-48d7-9f00-abdedf77df2c.jpg",
@@ -51,36 +51,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1736"
     },
     {
-      "id": 1767,
-      "IDcode": "MKBD-S131",
-      "title": "KIRARI 131 聖誕節來享受高級泡泡浴吧 : 相本美樹",
+      "id": 1002,
+      "IDcode": "HEYZO-1394",
+      "title": "你可以試試去這家賣SM商品的商店",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2016-12-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/b7057179-bb54-4f43-888f-45f561ce037b.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20240125/20240124231205753753.jpg",
       "actress": [
         "相本みき"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S131"
-    },
-    {
-      "id": 1855,
-      "IDcode": "CWPBD-149",
-      "title": "CATWALK POISON 149 初拍妻子：相本美紀",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2016-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/aef30ba6-2b69-4ef5-9e1b-5f087be68c26.webp",
-      "actress": [
-        "相本みき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1394"
     }
   ]
 };

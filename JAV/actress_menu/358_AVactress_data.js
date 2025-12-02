@@ -43,161 +43,190 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240403/d35b2448-5353-4e86-8658-7ccfcba64d85.jpg",
     "https://picture.yoshiclub.xyz/20240403/64368f71-a9f0-4d86-8c4e-0449731f2162.jpg"
   ],
-  "works_count": 13,
+  "works_count": 20,
   "related_dramas": [
     {
-      "id": 3781,
-      "IDcode": "SONE-791",
-      "title": "女教師沉迷電車癡漢的不倫快感中 ~ 金鬆季歩",
+      "id": 15654,
+      "IDcode": "TEK-099",
+      "title": "18Gold 金鬆季歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807030016720720_40537_thumbnail.webp",
-      "actress": [
-        "金松季歩",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-791"
-    },
-    {
-      "id": 4774,
-      "IDcode": "SONE-790",
-      "title": "S1出道一週年紀念 寫真偶像金松季步 粉絲解禁狂歡！20人痴女群戰混浴溫泉大亂射一泊兩日感恩祭 ~ 金松季步",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040708489489_thumbnail.webp",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-790"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-099"
     },
     {
-      "id": 5195,
-      "IDcode": "SONE-563",
-      "title": "S1二十周年紀念 AV業界史上最強聯手神作 憋不住就射吧 我們是老司機技師團 ~ 河北彩花 本鄉愛 金鬆季歩 Miru 楓富愛 奧田咲 淺野心 七森莉莉 三田真鈴 明日葉三葉",
+      "id": 13573,
+      "IDcode": "SONE-227",
+      "title": "绝美艺人-金松季歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/202506190634547979_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705002439134134.jpg",
+      "actress": [
+        "金松季歩",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-227"
+    },
+    {
+      "id": 12771,
+      "IDcode": "SONE-262",
+      "title": "初体验Special-金松季歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234125320320.jpg",
+      "actress": [
+        "金松季歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-262"
+    },
+    {
+      "id": 12175,
+      "IDcode": "SONE-305",
+      "title": "丝袜高跟美腿-金松季歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906005552858858.jpg",
+      "actress": [
+        "金松季歩",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-305"
+    },
+    {
+      "id": 11477,
+      "IDcode": "SONE-353",
+      "title": "高潮340次-金松季歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/5f7af35e1394a067554d1fa1a8930926.jpg",
+      "actress": [
+        "金松季歩",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-353"
+    },
+    {
+      "id": 10763,
+      "IDcode": "SONE-399",
+      "title": "痴女的觉醒-金松季歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67888fae5d57b64bfd2c3606/cover.jpg",
+      "actress": [
+        "金松季歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-399"
+    },
+    {
+      "id": 10137,
+      "IDcode": "SONE-492",
+      "title": "写真艺人的第一次完全禁欲-金松季歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bea7afce3e366423d42c1c/cover.jpg",
+      "actress": [
+        "金松季歩",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-492"
+    },
+    {
+      "id": 10117,
+      "IDcode": "SONE-560",
+      "title": "S1 PRECIOUS GIRLS 2024 - 史上從來未有過的最大規模亂交！24場全明星大集合大亂交超絕亂舞 Special特輯 ~ 河北彩花 金鬆季步 本鄉愛 Miru 楓花戀 等24位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e04c6379f1ac4ec48c195b/cover.jpg",
       "actress": [
         "奥田咲",
         "Miru",
         "河北彩花",
+        "未步奈奈",
+        "小日向美優",
         "七森莉莉",
         "三田真鈴",
+        "村上悠華",
         "明日葉三葉",
         "楓富愛",
         "淺野心",
         "本郷愛",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
+        "川越仁子",
         "金松季歩",
-        "日森一"
+        "白上咲花",
+        "神樂桃果",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-560"
     },
     {
-      "id": 5557,
-      "IDcode": "SONE-752",
-      "title": "來場風俗按摩如何 ~ 金松季歩",
+      "id": 9263,
+      "IDcode": "SONE-521",
+      "title": "在出差地被性骚扰-金松季歩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035031859859_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787afb430833b4bf5ffee85/cover.jpg",
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-752"
-    },
-    {
-      "id": 6302,
-      "IDcode": "SONE-714",
-      "title": "寫真偶像巨屌直衝子宮高潮 深處被玩壞的瘋狂大亂交 ~ 金松季步",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065235849849_thumbnail.webp",
-      "actress": [
-        "金松季歩",
-        "鲛岛",
-        "じゅうもんじ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-714"
-    },
-    {
-      "id": 7068,
-      "IDcode": "SONE-676",
-      "title": "與絕世情人沉淪到人生失控 無底洞的不倫SEX ~ 金鬆季歩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403091912379379.jpg",
-      "actress": [
-        "金松季歩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-676"
-    },
-    {
-      "id": 7743,
-      "IDcode": "SONE-632",
-      "title": "潮吹狂熱高潮 狂插潮噴・失禁到崩潰飛天 ~ 金鬆季歩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122824324324.jpg",
-      "actress": [
-        "金松季歩",
-        "ハメ鳥の人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-632"
-    },
-    {
-      "id": 8427,
-      "IDcode": "SONE-586",
-      "title": "人生最高的射精體驗 ULTRA VIP GRAVURE 風俗10 with 4K ~ 金鬆季步",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206074922288288.jpg",
-      "actress": [
-        "金松季歩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-586"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-521"
     },
     {
       "id": 8873,
       "IDcode": "SONE-565",
-      "title": "【巨作警告】S1 20周年 AV界史上最強作 世界上最好的一流女優的極上奉仕 超S1級風俗店 ~ 河北彩花 本鄉愛 金鬆季步 楓福愛 田野優等16位最美女優",
+      "title": "在AV业界史上留名的最强组合作品",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072259469469.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6f1d6dbf24d4ed3076241/cover.jpg",
       "actress": [
         "奥田咲",
         "Miru",
@@ -220,70 +249,187 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-565"
     },
     {
-      "id": 9263,
-      "IDcode": "SONE-521",
-      "title": "F罩杯的白領，出差時竟然和自己鄙視的中年老板同住一個房間……她意外地感受到了持續到早上的性愛 ~ 金鬆季歩",
+      "id": 8427,
+      "IDcode": "SONE-586",
+      "title": "与金松季步一起体验人生最棒的射精",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109073828264264.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/21/67b898cc4e7d663df48c19d6/cover.jpg",
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-586"
     },
     {
-      "id": 10137,
-      "IDcode": "SONE-492",
-      "title": "平面寫真芸能人 人生初的完全禁欲生活解禁後！自宅，私生活完全暴露在公衆眼前，操，操，操到她陰部爆裂，禁欲40天的完整記錄！ ~ 金鬆季歩",
+      "id": 7743,
+      "IDcode": "SONE-632",
+      "title": "极限的高潮与失禁体验-金松季步",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205080806428428.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122824324324.jpg",
       "actress": [
         "金松季歩",
-        "鲛岛"
+        "ハメ鳥の人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-492"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-632"
     },
     {
-      "id": 12771,
-      "IDcode": "SONE-262",
-      "title": "成人平面偶像金鬆季歩 S1 第 2 章 暴露裸體性交第一次體驗特別 ~ 金鬆季歩",
+      "id": 7068,
+      "IDcode": "SONE-676",
+      "title": "跟房地产顾问的出轨做爱-金松季步",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-08-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20240808/20240808234125320320.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403091912379379.jpg",
       "actress": [
         "金松季歩"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-262"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-676"
     },
     {
-      "id": 13573,
-      "IDcode": "SONE-227",
-      "title": "寫真偶像名人金鬆季歩 S1 專屬決定！3本番！",
+      "id": 7031,
+      "IDcode": "SONE-561",
+      "title": "S1二十周年纪念AV业界史上最强合作",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2024-07-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240705/20240705002439134134.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403092036150150.jpg",
+      "actress": [
+        "河北彩花",
+        "小日向美優",
+        "本郷愛",
+        "五条恋",
+        "兒玉七海",
+        "田野憂",
+        "金松季歩",
+        "神樂桃果",
+        "榊原萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-561"
+    },
+    {
+      "id": 6302,
+      "IDcode": "SONE-714",
+      "title": "深处被彻底开发的多人性爱乱交-金松季步",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065235849849_thumbnail.webp",
       "actress": [
         "金松季歩",
-        "鲛岛"
+        "鲛岛",
+        "じゅうもんじ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-714"
+    },
+    {
+      "id": 5557,
+      "IDcode": "SONE-752",
+      "title": "来嘛来嘛来做男士油压放松一下-金松季歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035031859859_thumbnail.webp",
+      "actress": [
+        "金松季歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-752"
+    },
+    {
+      "id": 5195,
+      "IDcode": "SONE-563",
+      "title": "顶尖S1女优们用情色技巧 互相竞争的不插即射精大赛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/202506190634547979_thumbnail.webp",
+      "actress": [
+        "奥田咲",
+        "Miru",
+        "河北彩花",
+        "七森莉莉",
+        "三田真鈴",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "本郷愛",
+        "金松季歩",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-563"
+    },
+    {
+      "id": 4774,
+      "IDcode": "SONE-790",
+      "title": "庆祝S1出道一周年粉丝答谢会-金松季歩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703040708489489_thumbnail.webp",
+      "actress": [
+        "金松季歩",
+        "金松季步"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-790"
+    },
+    {
+      "id": 3781,
+      "IDcode": "SONE-791",
+      "title": "身为圣职者的女教师却沦为电车痴汉的性俘虏-金松季步",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689db4a0c4945608543892a9/cover.jpg",
+      "actress": [
+        "金松季歩",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-791"
+    },
+    {
+      "id": 3025,
+      "IDcode": "SONE-792",
+      "title": "美人上司与有爱妻的我同住一室仅有一床-金松季步",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020935642642_28130_thumbnail.webp",
+      "actress": [
+        "金松季歩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-792"
     }
   ]
 };

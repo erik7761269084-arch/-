@@ -31,15 +31,15 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 1634,
-      "IDcode": "sdjs-033",
-      "title": "SOD女員工SP版SOD酒吧團呈現！ ！人生充滿坎坷！遊戲裡有這麼多性感的方塊，讓我忍不住感到尷尬！一場盛大的感恩節聚會，我們邀請了每天支持我們的用戶！",
+      "IDcode": "SDJS-033",
+      "title": "大型的感恩节聚会",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2019-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230405/84fdb166-573e-42a6-83a7-a7be252697da.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/0e4e04e1f54df5bdd18161622ce15481.jpg",
       "actress": [
         "今井栞菜",
         "有栖露露",
@@ -51,7 +51,7 @@ window.actressData = {
         "月下あいり",
         "望月理沙"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdjs-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-033"
     }
   ]
 };

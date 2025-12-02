@@ -25,20 +25,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 87981,
-      "IDcode": "GANA-2282",
-      "title": "マジ軟派、初撮。 1478 特技のマジックでハートを掴みホテルに連れ込んだ清楚系美女♪マジックと称して胸を触ったりキスをしちゃったり♪完全に信じきった美女はFカップ巨乳を乱舞させて得意の騎乗位を披露♪",
+      "id": 482789,
+      "IDcode": "200GANA-2282",
+      "title": "严重的第一枪。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-04-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230901-1/0dd8743d574ad097fc79237e22d8c62b.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "みさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2282"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2282"
     }
   ]
 };

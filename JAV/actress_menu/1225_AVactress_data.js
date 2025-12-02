@@ -36,38 +36,50 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230121/d4b70361-70e7-408b-b792-c8b6030c2f63.jpg",
     "https://picture.yoshiclub.xyz/20230121/c1ed3856-6d9f-4910-bd7c-54883b61b016.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 2058,
-      "IDcode": "DRGBD-05",
-      "title": "那是學校的裸體日：椎名光、黑崎塞西爾、星崎安娜、三澤飛鳥、宮崎由真、大塚麻友、雛薰。",
+      "id": 143,
+      "IDcode": "HEYZO-0105",
+      "title": "為了女兒升學走後門的騷氣媽媽 ~ 绫濑妃亚罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATCHEYE",
-      "publish_date": "2014-04-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/93656534-6ae3-4a15-836c-88ad9cee365e.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2012-08-31",
+      "cover_url": "",
       "actress": [
-        "椎名光",
-        "大塚まゆ",
-        "绫濑妃亚罗",
-        "宮崎由麻",
-        "三沢明日香"
+        "绫濑妃亚罗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRGBD-05"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0105"
+    },
+    {
+      "id": 78850,
+      "IDcode": "RBD-221",
+      "title": "おさな妻 愛液まみれの義母奴隷 綾瀬ティアラ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2010-10-07",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230602-1/1de922d85dbebc50074af1ae83a12be6.jpg",
+      "actress": [
+        "绫濑妃亚罗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-221"
     },
     {
       "id": 1711,
       "IDcode": "CWPBD-51",
-      "title": "秀場毒藥 51：綾瀨皇冠",
+      "title": "猫步毒药-绫濑妃亚罗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2011-11-28",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/834835b5-8e30-455f-b5f2-337ff79e745f.webp",
       "actress": [
         "绫濑妃亚罗"

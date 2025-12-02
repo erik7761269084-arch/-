@@ -33,36 +33,36 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 17229,
-      "IDcode": "EBWH-060",
-      "title": "動漫歌曲歌手 高山響歌AV 第二首單曲與熱情粉絲的高潮性愛",
+      "id": 17742,
+      "IDcode": "EBWH-041",
+      "title": "动漫曲歌手-高山响歌",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2023-12-20",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "高山響歌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-041"
+    },
+    {
+      "id": 17229,
+      "IDcode": "EBWH-060",
+      "title": "动漫歌手-高山响歌",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20231215/8f1807a9-100d-4b8d-a62c-c10f2dbfc721.jpg",
       "actress": [
         "高山響歌"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-060"
-    },
-    {
-      "id": 17742,
-      "IDcode": "EBWH-041",
-      "title": "新人！動漫歌曲歌手HiBiKi高山響歌的AV出道作品 夢想是達到人氣巔峰！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2023-11-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20231119/20231119022147870870.jpg",
-      "actress": [
-        "高山響歌"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-041"
     }
   ]
 };

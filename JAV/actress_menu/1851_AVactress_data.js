@@ -48,43 +48,30 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250623/1d2393b1-02b2-460f-85ce-abc252be861d_l.webp"
   ],
-  "works_count": 19,
+  "works_count": 24,
   "related_dramas": [
     {
-      "id": 6690,
-      "IDcode": "KTRA-714",
-      "title": "戀人以上，家庭未滿！？超甜蜜家庭內中出大作戰 4小時合集 ~ Nia 鈴音杏夏 仲村りお",
+      "id": 5063,
+      "IDcode": "UMSO-602",
+      "title": "大乳暈美人女優精選8人 ~ 吉根柚莉愛 椿莉香 七草千歲 彌生美月 逢澤理衣奈 華澄結愛 姫咲華 田中寧寧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K-Tribe",
-      "publish_date": "2025-04-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250420/202504200739583636_thumbnail.webp",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621083352383383_thumbnail.webp",
       "actress": [
-        "Nia",
-        "鈴音杏夏",
-        "逢澤理衣奈",
-        "仲村りお"
+        "彌生美月",
+        "椿莉香",
+        "吉根柚莉爱",
+        "姫咲華",
+        "田中寧寧",
+        "七草千歲",
+        "華澄結愛",
+        "逢澤理衣奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-714"
-    },
-    {
-      "id": 89502,
-      "IDcode": "LUXU-1268",
-      "title": "ラグジュTV 1251 『前回の体験が忘れられなくて…』スレンダー巨乳パティシエが新たな快感を求め2回目の出演！華奢なボディーで激しいピストンを受け止め、快感に喘ぎ乱れる…！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2020-04-24",
-      "cover_url": "",
-      "actress": [
-        "逢澤理衣奈",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1268"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-602"
     },
     {
       "id": 81619,
@@ -93,8 +80,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-04-07",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/d2bb29ef53e5c54e23debdb9f5f9f323.jpg",
       "actress": [
@@ -113,7 +100,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
       "publish_date": "2020-03-26",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221030-1/917c91cb16ee43513864aaaad13a343a.jpg",
@@ -137,7 +124,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
       "publish_date": "2020-03-12",
       "cover_url": "",
@@ -156,8 +143,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-07",
       "cover_url": "",
       "actress": [
@@ -169,15 +156,125 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDMS-510"
     },
     {
+      "id": 99200,
+      "IDcode": "NHDTB-360",
+      "title": "ナチュラルハイ20周年記念作品満員バスで背後から制服越",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "2020-01-09",
+      "cover_url": "",
+      "actress": [
+        "富井美帆",
+        "逢澤理衣奈",
+        "雪美千夏",
+        "须崎まどか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-360"
+    },
+    {
+      "id": 81540,
+      "IDcode": "CESD-845",
+      "title": "リア充女子×こじらせ女子 レズビアンルームメイト 渚みつき はとり心咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-12-13",
+      "cover_url": "",
+      "actress": [
+        "渚光希",
+        "逢澤理衣奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-845"
+    },
+    {
+      "id": 99961,
+      "IDcode": "DOCP-141",
+      "title": "妻の連れ子の巨乳美人姉妹と川の字で寢ることに手を出しては",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-04-19",
+      "cover_url": "",
+      "actress": [
+        "大浦真奈美",
+        "逢澤理衣奈",
+        "相沢夏帆",
+        "千叶ゆうか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-141"
+    },
+    {
+      "id": 157829,
+      "IDcode": "259LUXU-1268",
+      "title": "ラグジュTV 1251 『前回の体験が忘れられなくて…』スレンダー巨乳パティシエが",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/a8763af82ba937170bd4e9e0f951b124.jpg",
+      "actress": [
+        "逢澤理衣奈",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1268"
+    },
+    {
+      "id": 94954,
+      "IDcode": "DOCP-193",
+      "title": "旦那が近くにいるのに、突然背後からねっとり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5f7252b9293dd9d6c2a770f6399f8fec.jpg",
+      "actress": [
+        "藤白桃羽",
+        "逢澤理衣奈",
+        "河北麻衣",
+        "仲间明日香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-193"
+    },
+    {
+      "id": 83242,
+      "IDcode": "UMSO-287",
+      "title": "爆乳女子特有の肩こりの悩みを解決する！？マッサージ店のおっぱいもみほぐし治療！！VOL.06",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "凛音とうか",
+        "水澄光",
+        "逢澤理衣奈",
+        "优木いおり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-287"
+    },
+    {
       "id": 83125,
       "IDcode": "NHDTB-369",
       "title": "上下同時痴●5 2人の痴●師に乳首とマ○コを同時責めされイキ墜ちる女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2020-02-06",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "高杉麻里",
@@ -194,10 +291,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "セレブの友",
-      "publish_date": "2020-01-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/6f9418ac8991935e78aa0bf65792a64a.jpg",
       "actress": [
         "逢澤理衣奈",
         "南佳也"
@@ -205,59 +302,137 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-285"
     },
     {
-      "id": 94954,
-      "IDcode": "DOCP-193",
-      "title": "旦那が近くにいるのに、突然背後からねっとり乳揉みされて、抵抗するも快楽には勝てずに言いなりに…発情した女は自ら腰を振って何度もイキまくり最後は連続中出し！！",
+      "id": 82711,
+      "IDcode": "ARA-360",
+      "title": "无辜的巨乳19岁新手Rina-chan来了她申请就读福利专业学生的理由是我从来没有发生过激烈的性行为现在的青少年有很多背影从来不脏的纯真美女纯G奶是演员的技术人生第一次",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250402-1/c07b0c4011e44ba7aa0c171f43bc0846.jpg",
       "actress": [
-        "藤白桃羽",
-        "逢澤理衣奈",
-        "河北麻衣",
-        "仲间明日香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-193"
-    },
-    {
-      "id": 83242,
-      "IDcode": "UMSO-287",
-      "title": "爆乳女子特有の肩こりの悩みを解決する！？マッサージ店のおっぱいもみほぐし治療！！VOL.06",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-12-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221222-1/906ad30b93b94918e99fd87dac4d0a67.jpg",
-      "actress": [
-        "凛音とうか",
-        "水澄光",
-        "逢澤理衣奈",
-        "优木いおり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-287"
-    },
-    {
-      "id": 81540,
-      "IDcode": "CESD-845",
-      "title": "リア充女子×こじらせ女子 レズビアンルームメイト 渚みつき はとり心咲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
-      "actress": [
-        "渚光希",
         "逢澤理衣奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CESD-845"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-360"
+    },
+    {
+      "id": 78975,
+      "IDcode": "MIST-284",
+      "title": "日本最大の繁華街にある「老舗おっぱいパブ」でオキニの嬢が騎乗位生ハメで中出しするまで はとり心咲",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Mr.Michiru",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-4/a76e336ff6629acdb75b616ae299168b.jpg",
+      "actress": [
+        "逢澤理衣奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-284"
+    },
+    {
+      "id": 76610,
+      "IDcode": "KTRA-105",
+      "title": "スーパープロポーション巨乳妹 逢沢りいな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/48aa09271035c2f8d26fa49056f15fc1.jpg",
+      "actress": [
+        "逢澤理衣奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-105"
+    },
+    {
+      "id": 74786,
+      "IDcode": "MARA-046",
+      "title": "逢沢りいなの爆乳劇場 Hcup97cm",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/3ea1c247f8d4a32ac91ba97166c38a24.jpg",
+      "actress": [
+        "逢澤理衣奈",
+        "ゆうき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-046"
+    },
+    {
+      "id": 73822,
+      "IDcode": "MKON-013",
+      "title": "中出しヤリサー合宿 彼女と一緒にテニスサークルに参加したら、まだキスもしてなかったのに寝取られて生ハメ肉便器にされてしまった 逢沢りいな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/901f3fa9b816093d4270ad2aeadf6e8a.jpg",
+      "actress": [
+        "逢澤理衣奈",
+        "岩下たろう"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-013"
+    },
+    {
+      "id": 72204,
+      "IDcode": "DOCP-121",
+      "title": "女友達に僕の部屋着を貸したら、隙間からチラ見えするこぼれそうなハミ乳に興奮してしまい…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e5ceb501b2ed63c7abd6df2700f08894.jpg",
+      "actress": [
+        "大浦真奈美",
+        "咲々原リン",
+        "逢澤理衣奈",
+        "浅田结梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-121"
+    },
+    {
+      "id": 71166,
+      "IDcode": "GVG-844",
+      "title": "家庭教師が巨乳受験生にした事の全記録 逢沢りいな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7b338f15180e7f881257b5aa3027f2a4.jpg",
+      "actress": [
+        "逢澤理衣奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-844"
+    },
+    {
+      "id": 70279,
+      "IDcode": "SORA-220",
+      "title": "性奴隶的原石 理衣奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b202a08f2c2052a2ccf38998c4cf3a19.jpg",
+      "actress": [
+        "逢澤理衣奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-220"
     },
     {
       "id": 69863,
@@ -266,10 +441,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2019-10-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250319-1/fdfe24521b7a573cc907e6c703db4155.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1a99af201aa7e6bfb9e191a751d1f8b3.jpg",
       "actress": [
         "塚田詩織",
         "凛音とうか",
@@ -279,121 +454,43 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-276"
     },
     {
-      "id": 73822,
-      "IDcode": "MKON-013",
-      "title": "中出しヤリサー合宿 彼女と一緒にテニスサークルに参加したら、まだキスもしてなかったのに寝取られて生ハメ肉便器にされてしまった 逢沢りいな",
+      "id": 6690,
+      "IDcode": "KTRA-714",
+      "title": "戀人以上，家庭未滿！？超甜蜜家庭內中出大作戰 4小時合集 ~ Nia 鈴音杏夏 仲村りお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2019-07-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250116-1/901f3fa9b816093d4270ad2aeadf6e8a.jpg",
-      "actress": [
-        "逢澤理衣奈",
-        "岩下たろう"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKON-013"
-    },
-    {
-      "id": 74786,
-      "IDcode": "MARA-046",
-      "title": "逢沢りいなの爆乳劇場 Hcup97cm",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-06-01",
-      "cover_url": "",
-      "actress": [
-        "逢澤理衣奈",
-        "ゆうき"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARA-046"
-    },
-    {
-      "id": 70279,
-      "IDcode": "SORA-220",
-      "title": "性奴隷の原石。りいな（19歳）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2019-04-19",
-      "cover_url": "",
-      "actress": [
-        "逢澤理衣奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SORA-220"
-    },
-    {
-      "id": 71166,
-      "IDcode": "GVG-844",
-      "title": "家庭教師が巨乳受験生にした事の全記録 逢沢りいな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLORY QUEST",
-      "publish_date": "2019-03-21",
-      "cover_url": "",
-      "actress": [
-        "逢澤理衣奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVG-844"
-    },
-    {
-      "id": 76610,
-      "IDcode": "KTRA-105",
-      "title": "スーパープロポーション巨乳妹 逢沢りいな",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K-Tribe",
-      "publish_date": "2019-03-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/48aa09271035c2f8d26fa49056f15fc1.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ac70a55337d7f7be48e04/cover.jpg",
       "actress": [
-        "逢澤理衣奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-105"
-    },
-    {
-      "id": 82711,
-      "IDcode": "ARA-360",
-      "title": "【清純巨乳】19歳【経験少ない】りいなちゃん参上！福祉の専門学生に通う彼女の応募理由は『激しいエッチした事なくて…』今時十代は奥手多し！穢れ少なき【ピュアなG乳】イッた事がない清純美女は男優のテクに【人生初イキ】&amp;【初顔射】スタイル抜群19歳の生SEX見逃すな！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-01-22",
-      "cover_url": "",
-      "actress": [
-        "逢澤理衣奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARA-360"
-    },
-    {
-      "id": 72204,
-      "IDcode": "DOCP-121",
-      "title": "女友達に僕の部屋着を貸したら、隙間からチラ見えするこぼれそうなハミ乳に興奮してしまい…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-01-18",
-      "cover_url": "",
-      "actress": [
-        "大浦真奈美",
-        "咲々原リン",
+        "Nia",
+        "鈴音杏夏",
         "逢澤理衣奈",
-        "浅田结梨"
+        "仲村りお"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-121"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-714"
+    },
+    {
+      "id": 4202,
+      "IDcode": "KTRA-730",
+      "title": "可愛さ反則級！エロカワ美少女に中出し 4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718221748935935_77168_thumbnail.webp",
+      "actress": [
+        "花音うらら",
+        "河奈亜依",
+        "優月せら",
+        "逢澤理衣奈",
+        "佐久間恵美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-730"
     }
   ]
 };

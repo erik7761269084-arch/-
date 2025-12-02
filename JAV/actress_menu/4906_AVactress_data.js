@@ -24,20 +24,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 79183,
-      "IDcode": "GANA-2521",
-      "title": "- ナンパ初心者でも簡単に即日お持ち帰りできる方法を実録！＜観れば必ず＞お持ち帰りセックスできる！！ - JAV目錄大全javmenu.com",
+      "id": 519905,
+      "IDcode": "200GANA-2521",
+      "title": "即使是初学者也可以在同一天轻松带回家的真实记录！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "",
       "publish_date": "",
       "cover_url": "",
       "actress": [
         "りりあ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2521"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2521"
     }
   ]
 };

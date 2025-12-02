@@ -38,15 +38,49 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 6366,
-      "IDcode": "SDMM-197",
-      "title": "魔鏡一號！感謝支持第三彈！10人出演6小時 保健體育課外教學 在現役女學生面前秀出成人濃烈性愛！點燃青春期性好奇心 首次體驗杭打騎乘位直達高潮體驗3",
+      "id": 10591,
+      "IDcode": "MIFD-544",
+      "title": "新人 子供にもパパさんにも大人気！可愛い笑顔の超ビンカン保育士さん抑えきれない好奇心がはじけてド下品なオホ声でイキまくりAVDebut！！ 白穂乃愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678893675d57b64bfd2c8eb6/cover.jpg",
+      "actress": [
+        "白穂乃愛",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-544"
+    },
+    {
+      "id": 9946,
+      "IDcode": "MIFD-555",
+      "title": "三年后再次穿上制服约会-白穂乃爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787d8725d57b64bfd103628/cover.jpg",
+      "actress": [
+        "白穂乃愛",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-555"
+    },
+    {
+      "id": 6366,
+      "IDcode": "SDMM-197",
+      "title": "【おかげさまで第3弾！10名出演6時間】マジックミラー号 保健体育の課外授業 現役女子〇生の目の前でオトナの濃厚SEXを見せつける！思春期の性的好奇心に火を点けて初めての杭打ち騎乘位で中イキ体験3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/13185a29-5fff-4348-9ef6-03eda06a2da8_thumbnail.webp",
       "actress": [
         "千川とわ",
@@ -59,40 +93,6 @@ window.actressData = {
         "白穂乃愛"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-197"
-    },
-    {
-      "id": 9946,
-      "IDcode": "MIFD-555",
-      "title": "初中出解禁！！離開學校3年以來再次穿JK制服約會！不管在屋內外，請立即吻我！ ~ 白穂乃愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211074404772772.jpg",
-      "actress": [
-        "白穂乃愛",
-        "タツ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-555"
-    },
-    {
-      "id": 10591,
-      "IDcode": "MIFD-544",
-      "title": "新人出道，特別受孩子和爸爸的歡迎！笑容可愛的超萌的幼稚園保育士，好奇心爆棚，淫叫聲特別大 首次亮相 AV DEBUT ~ 白穂乃愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241114/20241114084548374374.jpg",
-      "actress": [
-        "白穂乃愛",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-544"
     }
   ]
 };

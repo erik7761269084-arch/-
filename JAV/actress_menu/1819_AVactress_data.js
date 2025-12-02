@@ -34,26 +34,97 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-あやね遥菜.jpg"
   ],
-  "works_count": 4,
+  "works_count": 9,
   "related_dramas": [
     {
-      "id": 4366,
-      "IDcode": "MMGH-011",
-      "title": "傳聞中的絕對口暴美豔護士 ~ 彌生美月 弘前綾香",
+      "id": 9387,
+      "IDcode": "MADM-194",
+      "title": "打電話叫了上門援交，進來的竟然是我的嫂子，原來哥哥的妻子是個蕩婦！ ？與大嫂的中出性交，她用最好的口交幫我中出 ~ 彩音遙菜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/20250715103810359359_41077_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-01-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250105/e72c6741-228a-4292-b935-5a16087cd10d.jpg",
       "actress": [
-        "彌生美月",
-        "彩音遙菜",
-        "弘前綾香",
-        "タクト"
+        "彩音遙菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADM-194"
+    },
+    {
+      "id": 100188,
+      "IDcode": "DOCP-037",
+      "title": "欲求不満な名門女子大生が気弱なクラスメートを媚",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-04-06",
+      "cover_url": "",
+      "actress": [
+        "佐倉陽菜",
+        "彩音遙菜",
+        "篠田优",
+        "成沢めい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-037"
+    },
+    {
+      "id": 98572,
+      "IDcode": "RCT-846",
+      "title": "デカチンふたなりレズバトル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2016-04-07",
+      "cover_url": "",
+      "actress": [
+        "彩音遙菜",
+        "神波多一花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-846"
+    },
+    {
+      "id": 99183,
+      "IDcode": "BBAN-059",
+      "title": "ボイン大好きレズビアン、女友達に過激なレズイタズラ。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-10-07",
+      "cover_url": "",
+      "actress": [
+        "霧島さくら",
+        "青山未来",
+        "彩音遙菜",
+        "久我かのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-059"
+    },
+    {
+      "id": 88337,
+      "IDcode": "DVDES-827",
+      "title": "女子大生専用チ●ポ付きシェアハウス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/bced6a9f1b5b8aa8d3c498f371e3913f.jpg",
+      "actress": [
+        "绀野光",
+        "川村真矢",
+        "彩音遙菜",
+        "あゆみ翼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-827"
     },
     {
       "id": 73075,
@@ -62,10 +133,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-02-03",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/14/aa82f0b7/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "彩音遙菜"
       ],
@@ -78,10 +149,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-05-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/197a925971b8c0aa9dfefbf8a2e03b15.jpg",
       "actress": [
         "彩音遙菜",
         "宫崎彩",
@@ -91,23 +162,41 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAPL-026"
     },
     {
-      "id": 88337,
-      "IDcode": "DVDES-827",
-      "title": "女子大生専用チ●ポ付きシェアハウス",
+      "id": 4366,
+      "IDcode": "MMGH-011",
+      "title": "のぞみ（21）女子大生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-03-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231004-1/4a45eb9aa29d0b9f9bf68b0bc01552cd.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c8099d79f1ac4ec45b9387/cover.jpg",
       "actress": [
-        "绀野光",
-        "川村真矢",
+        "彌生美月",
         "彩音遙菜",
-        "あゆみ翼"
+        "弘前綾香",
+        "タクト"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-827"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMGH-011"
+    },
+    {
+      "id": 2209,
+      "IDcode": "NAMHS-004",
+      "title": "真正中出し映像集 第4回作 全て正真正銘本物ザーメン避妊具なしの生輪セックス4名 計19発",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "なまなま",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/ef80128c/vod.jpg",
+      "actress": [
+        "葵百合香",
+        "羽月果音",
+        "彩音遙菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMHS-004"
     }
   ]
 };

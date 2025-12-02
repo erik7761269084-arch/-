@@ -4,7 +4,7 @@ window.actressData = {
   "name": "苺みるく",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2003-02-20",
-      "cover_url": "https://tutu1.space/images/2023/01/31/2f1b45e00bff0bea44e0e693c18f3ad0.jpg",
+      "cover_url": "",
       "actress": [
         "苺みるく"
       ],

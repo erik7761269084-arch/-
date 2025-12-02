@@ -49,29 +49,23 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/8f13464b-4e8f-4fde-b7a6-f3a634be2fae.jpg",
     "https://picture.yoshiclub.xyz/20230210/57c37629-2ec1-45a7-ac86-082cf48fbd36.jpg"
   ],
-  "works_count": 4,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1533,
-      "IDcode": "SKYHD-127",
-      "title": "雙重滲透 EX 12Girls 180 分鐘：Koi Azumi、Arisa Nakano、Hikaru Asagiri",
+      "id": 348,
+      "IDcode": "HEYZO-0406",
+      "title": "愛杏美的肛交講座 〜和傲嬌老師一起前後生中出射精 〜 愛杏美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2015-01-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230504/b230a299-c6e8-412d-93c6-ac0b1761a0cc.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2013-09-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20250317/2029521e-f329-41ba-8def-4e00a5e61658.jpg",
       "actress": [
-        "大槻响",
-        "篠惠美",
-        "京野结衣",
-        "爱杏美",
-        "花井佳音",
-        "真白希実",
-        "永作亜美"
+        "爱杏美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-127"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0406"
     },
     {
       "id": 2013,
@@ -80,48 +74,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "SKY HIGH",
-      "publish_date": "2014-01-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/549967cc-e020-4ce4-9983-17de0fc48a41.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b98cbde58c430459cc746050df5301e4.jpg",
       "actress": [
         "爱杏美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-102"
-    },
-    {
-      "id": 1973,
-      "IDcode": "SKYHD-116",
-      "title": "天空天使Plus 3：安住廉、武井真紀、椎名美優",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-10-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/38612eca-b94e-43e3-b46b-e4a7fd83e88b.webp",
-      "actress": [
-        "爱杏美",
-        "椎名美優",
-        "武井麻希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-116"
-    },
-    {
-      "id": 2044,
-      "IDcode": "SKYHD-096",
-      "title": "天天使藍 Vol.96 : 戀安曇 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/3d6591da-e78e-4767-8924-26f78feba486.webp",
-      "actress": [
-        "爱杏美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-096"
     }
   ]
 };

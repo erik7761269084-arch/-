@@ -56,13 +56,13 @@ window.actressData = {
     {
       "id": 19618,
       "IDcode": "IPTD-598",
-      "title": "寡妇 老公對不起… 松島楓",
+      "title": "对不起死去丈夫的松岛枫",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2010-07-01",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230407/b0fd3196-2c85-4c56-a231-a9a391c3c1ea.jpg",
       "actress": [
         "松島楓"

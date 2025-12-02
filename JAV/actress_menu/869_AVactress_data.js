@@ -41,18 +41,117 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240812/011cfb77-e206-482d-b252-086854f9e6ba.jpg",
     "https://picture.yoshiclub.xyz/20240812/65ec1154-cdad-46fb-bad0-aab7738c1e67.jpg"
   ],
-  "works_count": 2,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 4265,
-      "IDcode": "ALDN-486",
-      "title": "內心掙扎卻又渴望被綑綁的快感 ~ 池谷佳純",
+      "id": 9617,
+      "IDcode": "NATR-741",
+      "title": "兩部合集！ ~ 池谷佳純",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "Nadeshiko",
+      "publish_date": "2024-12-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20241225/14b48c8f-365c-4732-9dde-6b8e90c72b93.jpg",
+      "actress": [
+        "池谷佳純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NATR-741"
+    },
+    {
+      "id": 9902,
+      "IDcode": "KAM-229",
+      "title": "我和叔母之間不能說的禁斷故事.... 花撫あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "2024-12-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20241214/40a7ce8e-a405-4057-a247-e0d8b970782b.jpg",
+      "actress": [
+        "池谷佳純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-229"
+    },
+    {
+      "id": 10551,
+      "IDcode": "KAM-224",
+      "title": "對離家出走的巨乳美妻爲所欲爲！把她變成了一個專用於中出的肉便器 ~ 花撫あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "2024-11-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20241116/3490fa14-92a6-4b69-9d45-dadf421f095e.jpg",
+      "actress": [
+        "池谷佳純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAM-224"
+    },
+    {
+      "id": 12739,
+      "IDcode": "MIST-446",
+      "title": "乳首發狂 最愛你的乳頭 ~ 花撫あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Mr.Michiru",
+      "publish_date": "2024-09-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240812/1db09bb9-2b94-4788-8825-10ddfd234b04.jpg",
+      "actress": [
+        "池谷佳純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIST-446"
+    },
+    {
+      "id": 67189,
+      "IDcode": "ALDN-116",
+      "title": "母亲和孩子一起旅行-花撫あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "TAKARA",
-      "publish_date": "2025-07-19",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "池谷佳純",
+        "日森一"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-116"
+    },
+    {
+      "id": 11142,
+      "IDcode": "ALDN-379",
+      "title": "和我女儿的男朋友-花抚あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/b546995a4b88373fc146d71f967261fb.jpg",
+      "actress": [
+        "池谷佳純",
+        "ひょこり",
+        "池谷佳纯"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-379"
+    },
+    {
+      "id": 4265,
+      "IDcode": "ALDN-486",
+      "title": "こころは無理…でも縛られたい 花撫あや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TAKARA",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718220109700700_44436_thumbnail.webp",
       "actress": [
         "池谷佳純",
@@ -62,21 +161,22 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-486"
     },
     {
-      "id": 67189,
-      "IDcode": "ALDN-116",
-      "title": "ALDN-116",
+      "id": 3428,
+      "IDcode": "DANDY-991",
+      "title": "彼女が隣にいても構わずイケメン彼氏を背後からネチョいコネくり手コキで勃起誘惑する性欲熟女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TAKARA",
-      "publish_date": "2023-01-21",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821021223791791_79660_thumbnail.webp",
       "actress": [
-        "池谷佳純",
-        "日森一"
+        "天宮かすみ",
+        "明里友香",
+        "池谷佳純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-116"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-991"
     }
   ]
 };

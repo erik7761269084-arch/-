@@ -20,8 +20,87 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/近藤郁美.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 103236,
+      "IDcode": "NASS-980",
+      "title": "ダメな部下に発情した女上司",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-25",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/09/691002a871eb543bb0f55fe4/poster2.jpg",
+      "actress": [
+        "近藤郁",
+        "庵叶和子",
+        "汝鸟すみか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASS-980"
+    },
+    {
+      "id": 98215,
+      "IDcode": "MLSM-003",
+      "title": "嫁の母 濡れすぎて欲情 12人4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-02-07",
+      "cover_url": "",
+      "actress": [
+        "近藤郁",
+        "加山なつ子",
+        "宝田さゆり",
+        "円城ひとみ",
+        "远野丽子",
+        "菊川麻里",
+        "小池絵美子",
+        "乌丸まどか",
+        "若松かをり",
+        "小野上早希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MLSM-003"
+    },
+    {
+      "id": 91732,
+      "IDcode": "MLW-2067",
+      "title": "家政婦-近藤郁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-9/0e1b480c492ab76eadda95873d952acf.jpg",
+      "actress": [
+        "近藤郁"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MLW-2067"
+    },
+    {
+      "id": 66853,
+      "IDcode": "AVOP-453",
+      "title": "现在开始强奸这一家 近藤郁美 森崎立华 枢木葵 高杉麻里 高杉麻里,妃月るい,枢木葵等演员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/c24c1d31ee2449d328ad18152e682cf5.jpg",
+      "actress": [
+        "枢木葵",
+        "妃月るい",
+        "高杉麻里",
+        "近藤郁",
+        "市川润"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-453"
+    },
     {
       "id": 62478,
       "IDcode": "NASK-269",
@@ -29,9 +108,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Nadeshiko",
-      "publish_date": "2025-07-22",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "井上綾子",
@@ -48,9 +127,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-01",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250402/20250402111237558558.jpg",
       "actress": [
         "黑川堇",
@@ -71,42 +150,6 @@ window.actressData = {
         "宫本纱央里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-371"
-    },
-    {
-      "id": 66853,
-      "IDcode": "AVOP-453",
-      "title": "今からこの一家全員レ●プします 大○区田園○布",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2019-02-01",
-      "cover_url": "",
-      "actress": [
-        "枢木葵",
-        "妃月るい",
-        "高杉麻里",
-        "近藤郁",
-        "市川润"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVOP-453"
-    },
-    {
-      "id": 91732,
-      "IDcode": "MLW-2067",
-      "title": "家政婦のイイなり もし「近藤郁美」が、家政婦さんだったら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2014-05-25",
-      "cover_url": "",
-      "actress": [
-        "近藤郁"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MLW-2067"
     }
   ]
 };

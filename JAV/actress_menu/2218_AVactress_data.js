@@ -57,13 +57,13 @@ window.actressData = {
     {
       "id": 19416,
       "IDcode": "IPX-017",
-      "title": "我被強暴太多了…女大學生被強暴的故事-曝見習教師",
+      "title": "来自不断受虐的实习女教师-きみかわ結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2017-09-23",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230513/20230513103536841841.jpg",
       "actress": [
         "華嶋れい菜"

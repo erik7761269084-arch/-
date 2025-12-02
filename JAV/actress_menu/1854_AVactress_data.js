@@ -32,18 +32,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250412/a4b068d3-0a1a-4885-89a3-6ab784177024.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 6881,
       "IDcode": "EBWH-216",
-      "title": "新人出道！野生癡女DJ炸場！水煙吧邂逅的纖細巨乳撩神 AV決斷出演！ 首次亮相 AV DEBUT ~ 山城三日月",
+      "title": "野生の天才痴女があらわれた！ シーシャバーで出会ってノリで出演決めたスリム巨乳ガールズDJ 山城三日月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-04-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412001406780780.jpg",
       "actress": [
         "山城三日月",
@@ -53,6 +53,22 @@ window.actressData = {
         "ナイアガラ翔"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-216"
+    },
+    {
+      "id": 6108,
+      "IDcode": "EBWH-228",
+      "title": "陰キャな僕はスリム巨乳女DJに逆ナンされ媚薬吸わされホテルへ… キマっているから10発痴女られても勃起が止まらないキメセクお泊りパーティー 山城三日月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515063608358358_thumbnail.webp",
+      "actress": [
+        "山城三日月"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-228"
     }
   ]
 };

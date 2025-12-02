@@ -38,37 +38,88 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/7-Moodyz/AI-Fix-さとう遥希.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 5037,
-      "IDcode": "DOA-119",
-      "title": "爆乳絕頂風俗泡泡浴 滑溜溜軟乳按摩爽到爆！五位超萌泡姬 ~ 辻井穗乃果 佐藤遙希 花柳杏奈 大原亞夢",
+      "id": 99078,
+      "IDcode": "RCT-648",
+      "title": "イカセ死亡遊戯2 さとう遥希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-06-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081515743743_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2014-09-06",
+      "cover_url": "http://15.155250922.com/upload/vod/20221001/1rct00648pl.jpg",
       "actress": [
-        "辻井穗乃果",
-        "花柳杏奈",
-        "佐藤遥希",
-        "大原亞夢"
+        "大槻响",
+        "佐藤遥希"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-119"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCT-648"
+    },
+    {
+      "id": 97712,
+      "IDcode": "SDDE-338",
+      "title": "「常に性交」メンズエステ 濃密",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2014-01-09",
+      "cover_url": "http://15.155250922.com/upload/vod/20221104/1sdde00338pl.jpg",
+      "actress": [
+        "大槻响",
+        "佐藤遥希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-338"
+    },
+    {
+      "id": 98489,
+      "IDcode": "DVH-641",
+      "title": "近親相姦 第2章 私たちは毎日、義父、義兄の欲望のままにレイプされています",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-04-25",
+      "cover_url": "",
+      "actress": [
+        "椎名光",
+        "佐藤遥希",
+        "前田优希",
+        "宫野ゆかな",
+        "原纯那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVH-641"
+    },
+    {
+      "id": 72033,
+      "IDcode": "STM-011",
+      "title": "全身性感帯 2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-04-20",
+      "cover_url": "",
+      "actress": [
+        "佐藤遥希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-011"
     },
     {
       "id": 82936,
       "IDcode": "ZIZG-001",
-      "title": "対魔忍ユキカゼ",
+      "title": "经典漫改对魔忍三姐妹",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2013-11-29",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "椎名由奈",
@@ -80,14 +131,14 @@ window.actressData = {
     {
       "id": 67930,
       "IDcode": "MIRD-122",
-      "title": "美しき潜入捜査官集団レイプ輪姦 かすみりさ 椎名ゆな さとう遥希",
+      "title": "潜入搜查官 集团轮奸 かすみりさ,椎名由奈,佐藤遥希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-06-13",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250404-1/b20c508dee576cba3ec548ac1e197272.jpg",
       "actress": [
         "椎名由奈",
         "佐藤遥希",
@@ -98,36 +149,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-122"
     },
     {
-      "id": 1567,
-      "IDcode": "MIAD-585",
-      "title": "日曬痕跡 遙希",
+      "id": 5037,
+      "IDcode": "DOA-119",
+      "title": "爆乳大奶牛给你提供的极上乳交泡泡浴体验",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MOODYZ",
-      "publish_date": "2012-10-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230330/c5430ea4-3dfb-4ae1-8270-83bc49197496.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250621/20250621081515743743_thumbnail.webp",
       "actress": [
-        "佐藤遥希"
+        "辻井穗乃果",
+        "花柳杏奈",
+        "佐藤遥希",
+        "大原亞夢"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAD-585"
-    },
-    {
-      "id": 72033,
-      "IDcode": "STM-011",
-      "title": "全身性感帯 2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2012-04-20",
-      "cover_url": "",
-      "actress": [
-        "佐藤遥希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STM-011"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOA-119"
     }
   ]
 };

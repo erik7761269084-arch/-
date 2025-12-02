@@ -36,19 +36,198 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240529/b443715f-f3e4-4060-94cb-6a2f3e47b063.jpg",
     "https://picture.yoshiclub.xyz/20240529/fdad4437-90dc-44d5-a2ff-edc9f36e041c.jpg"
   ],
-  "works_count": 7,
+  "works_count": 13,
   "related_dramas": [
     {
-      "id": 5807,
-      "IDcode": "MKMP-641",
-      "title": "超敏感妹子潮吹高潮噴個不停精選合集 ~ 乙愛麗絲 吉岡日和 紺野光 吉良鈴 久留木玲 幾田真知",
+      "id": 5396,
+      "IDcode": "FNEO-092",
+      "title": "微乳美少女中出精選：7位小隻馬蘿莉的甜蜜激戰300分鐘 ~ 千葉彩芽 菜月光 市川りく 北山憂 姫野らん 竹內美涼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "2025-06-12",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/202506120903234848_thumbnail.webp",
+      "actress": [
+        "市川りく",
+        "菜月光",
+        "姫野らん",
+        "北山憂",
+        "竹内美涼",
+        "千葉彩芽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNEO-092"
+    },
+    {
+      "id": 93114,
+      "IDcode": "MMPB-047",
+      "title": "パイパン美少女10人にタップリ生中出し 綺麗なワレメから溢れ出す濃厚ザーメン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2024-08-06",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/ea3e5b330463bb98011139441e0316b7.jpg",
+      "actress": [
+        "千石もなか",
+        "工藤拉拉",
+        "竹内美涼",
+        "東城ゆい",
+        "月宫ねね",
+        "NAOO"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-047"
+    },
+    {
+      "id": 93110,
+      "IDcode": "MMPB-045",
+      "title": "君たちはどう生きるか 居残り体育少女、健康的で透きとおる小さなカラダ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "2024-07-02",
+      "cover_url": "https://tuaskbgnekr.com/20240703/2XKG7MJ5/1.jpg",
+      "actress": [
+        "千石もなか",
+        "市川りく",
+        "竹内美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-045"
+    },
+    {
+      "id": 14377,
+      "IDcode": "SAN-247",
+      "title": "請中出NTR我的妻子 ~ 竹內美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528070746626626.jpg",
+      "actress": [
+        "竹内美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-247"
+    },
+    {
+      "id": 94903,
+      "IDcode": "SW-0945",
+      "title": "黒パンスト女上司 欲求不満な女上司たちが、とりあえず身近なダメダメ男子社員に黒パンスト尻見せつけ誘惑したら、勃起チ○ポの相性が良すぎてイキまくりオフィスラブ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "2024-03-20",
+      "cover_url": "https://tuaskbgnekr.com/20240807/bS0ooQ56/1.jpg",
+      "actress": [
+        "竹内美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-0945"
+    },
+    {
+      "id": 101549,
+      "IDcode": "DDHP-050",
+      "title": "サイバー美少女との最高な枕営業SEX！色白スレンダーのからかい上手なコンカフェ嬢に大量中出し！【美涼(20)】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-03-10",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250513-1/940a9867108308fdca2850d5a8ff2502.jpg",
+      "actress": [
+        "竹内美涼",
+        "美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDHP-050"
+    },
+    {
+      "id": 85538,
+      "IDcode": "MKMP-484",
+      "title": "潮初体験-竹内美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2025-05-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250525/20250525084456154154_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250324-1/c860df5aca6a1a08c41441ef91cfd982.jpg",
+      "actress": [
+        "竹内美涼",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-484"
+    },
+    {
+      "id": 69382,
+      "IDcode": "YMDD-316",
+      "title": "叔叔和我一起玩吧-竹内美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250313-1/320bced2bc1c6df9ffe3f60b708b806e.jpg",
+      "actress": [
+        "竹内美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-316"
+    },
+    {
+      "id": 10703,
+      "IDcode": "BACJ-126",
+      "title": "令和女子は女性用風俗で性の喜びを知る 竹内美涼",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/644d812149ea794b11c65ff706e8b151.jpg",
+      "actress": [
+        "竹内美涼"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-126"
+    },
+    {
+      "id": 9374,
+      "IDcode": "MMPB-063",
+      "title": "NS Hotel 1.5 在傳聞中的大久保公園發現中出OK的超級可愛天使 ~ 鳳可憐 星七奈奈美 愛瀨優裏 春陽モカ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b15de15fdaf263a256e61c/cover.jpg",
+      "actress": [
+        "春陽萌花",
+        "愛瀬優里",
+        "鳳可怜",
+        "星七奈奈美",
+        "竹内美涼",
+        "清音咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-063"
+    },
+    {
+      "id": 5807,
+      "IDcode": "MKMP-641",
+      "title": "潮吹きするほどビンカン女子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/06/01/dbed5e9e/vod.jpg",
       "actress": [
         "天馬唯",
         "乙愛麗絲",
@@ -70,108 +249,79 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-641"
     },
     {
-      "id": 93114,
-      "IDcode": "MMPB-047",
-      "title": "パイパン美少女10人にタップリ生中出し 綺麗なワレメから溢れ出す濃厚ザーメン",
+      "id": 3227,
+      "IDcode": "MKMP-667",
+      "title": "君がイっても激ハメは終わらない！！マ〇コから頭の先まで駆け巡る快感 下から突き上げピストンBEST！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2024-08-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/ea3e5b330463bb98011139441e0316b7.jpg",
-      "actress": [
-        "千石もなか",
-        "工藤拉拉",
-        "竹内美涼",
-        "東城ゆい",
-        "月宫ねね",
-        "NAOO"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-047"
-    },
-    {
-      "id": 93110,
-      "IDcode": "MMPB-045",
-      "title": "君たちはどう生きるか 居残り体育少女、健康的で透きとおる小さなカラダ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "桃太郎映像出版",
-      "publish_date": "2024-07-02",
-      "cover_url": "",
-      "actress": [
-        "千石もなか",
-        "市川りく",
-        "竹内美涼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-045"
-    },
-    {
-      "id": 14377,
-      "IDcode": "SAN-247",
-      "title": "請中出NTR我的妻子 ~ 竹內美涼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2024-05-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528070746626626.jpg",
-      "actress": [
-        "竹内美涼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-247"
-    },
-    {
-      "id": 94903,
-      "IDcode": "SW-945",
-      "title": "黒パンスト女上司 欲求不満な女上司たちが、とりあえず身近なダメダメ男子社員に黒パンスト尻見せつけ誘惑したら、勃起チ○ポの相性が良すぎてイキまくりオフィスラブ！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2024-03-20",
-      "cover_url": "",
-      "actress": [
-        "竹内美涼"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-945"
-    },
-    {
-      "id": 85538,
-      "IDcode": "MKMP-484",
-      "title": "アダルトの世界へ一瞬で一直線。イキ潮初体験 絶頂3本番SPECIAL 竹内美涼",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2022-10-08",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827110306816816_99438_thumbnail.webp",
       "actress": [
+        "天馬唯",
+        "倉本菫",
+        "松本一香",
+        "皆月光",
+        "天月梓",
+        "新村朱里",
+        "沙月惠奈",
+        "姫咲華",
+        "田中寧寧",
+        "藤森里穂",
+        "百永纱里奈",
+        "渚光希",
+        "冬愛琴音",
+        "有岡みう",
+        "月乃露娜",
+        "葵百合香",
+        "若宮葉月",
+        "松本菜奈実",
+        "绀野光",
+        "美波梢",
+        "日泉舞香",
+        "藤田梢",
+        "工藤拉拉",
+        "中城葵",
+        "宫泽千春",
+        "胡桃多惠",
+        "枢木葵",
+        "冰堂梨梨愛",
+        "早見奈奈",
+        "奏自由",
+        "河北春菜",
+        "若月玛丽亚",
         "竹内美涼",
-        "鲛岛"
+        "冨安玲於奈",
+        "山本蓮加",
+        "富井美帆",
+        "川崎亜里沙",
+        "影山櫻"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-484"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-667"
     },
     {
-      "id": 69382,
-      "IDcode": "YMDD-316",
-      "title": "- おじさん、あそぼ ～1日だけのわるい子～ 竹内美涼 - JAV目錄大全javmenu.com",
+      "id": 2284,
+      "IDcode": "MMPB-093",
+      "title": "美少女を俺の精子で孕ませたいっ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
       "publish_date": "",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250403-1/32bf0095ee373eae420ef89b6c435f8f.jpg",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/5b0fc08e/vod.jpg",
       "actress": [
+        "天馬唯",
+        "柏木小夏",
+        "天月梓",
+        "胡桃櫻花",
+        "小坂ひまり",
+        "皆瀨明里",
         "竹内美涼"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-316"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-093"
     }
   ]
 };

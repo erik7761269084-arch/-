@@ -33,39 +33,88 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250314/a4106018-cbe9-4220-8e56-1f56dd2e67c4.jpg"
   ],
-  "works_count": 2,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 6391,
-      "IDcode": "RPIN-086",
-      "title": "溫柔笑容拉面店員小姐姐 肉感爆乳加滿身刺青反差超帶感 笑眯眯被猛男狂幹到不行 ~ 野野宮司",
+      "id": 2365,
+      "IDcode": "PKPL-054",
+      "title": "輕鬆又刺激的中出小任務 空閒時搞P活的酒吧妹子瘋狂放送 ~ 野野宮司",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-05-03",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105509925925_thumbnail.webp",
+      "publish_date": "2025-05-31",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250531/20250531050400894894_thumbnail.webp",
       "actress": [
         "野野宮司"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-086"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPL-054"
+    },
+    {
+      "id": 5962,
+      "IDcode": "PKPD-370",
+      "title": "巨乳素人妹子私拍福利 F杯港區系辣妹與G杯抖M紋身騷氣娘 ~ 椎名心春 野野宮司",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-05-17",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521085353194194_thumbnail.webp",
+      "actress": [
+        "椎名心春",
+        "野野宮司"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-370"
+    },
+    {
+      "id": 7556,
+      "IDcode": "MOER-010",
+      "title": "色白爆乳のくせに…脱いだらタトゥーまみれのSEXがエロい。一度揉んだらクセになる。狼タトゥー女子を男優チ〇ポでイカせまくりの衝撃。AVデビュー。 野々宮つかさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-2/27bbed8a36b7253b7b3b9adf538734f9.jpg",
+      "actress": [
+        "野野宮司"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-010"
     },
     {
       "id": 6572,
       "IDcode": "UBUG-002",
-      "title": "貧乳的我一直都很自卑，今天終於要告別保持20年的處女之身了 ~ 野野宮司",
+      "title": "「胸がちっちゃいのが恥ずかしいので、20年間処女でした。でも、今日卒業します…」紗霧（二十歳）",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2025-04-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427104705342342_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "野野宮司"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UBUG-002"
+    },
+    {
+      "id": 6391,
+      "IDcode": "RPIN-086",
+      "title": "おっとり笑顔のラーメン店員さん ムチムチ巨乳にガッツリタトゥーのギャップたまらん にこやか笑顔のまま絶倫チ●ポ叩き込まれた",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd5cef006939637678b79e/cover.jpg",
+      "actress": [
+        "野野宮司"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPIN-086"
     }
   ]
 };

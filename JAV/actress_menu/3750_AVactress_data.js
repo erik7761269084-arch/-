@@ -4,7 +4,7 @@ window.actressData = {
   "name": "姫宮みお",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 6567,
       "IDcode": "TENN-033",
-      "title": "鄉下純情妹子AV初登場獻初夜 處女破身物語 ~ 姫宮みお",
+      "title": "AVデビューでロストヴァージン 地方在住うぶっ娘 処女喪失物語 姫宮みお",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FIRST STAR",
-      "publish_date": "2025-04-27",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/202504271103291313_thumbnail.webp",
       "actress": [
         "姫宮みお"

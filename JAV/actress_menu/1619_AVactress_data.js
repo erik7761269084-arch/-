@@ -29,19 +29,73 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-松浦まいこ.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 8340,
-      "IDcode": "GNS-113",
-      "title": "緊急拘捕！不要拍照！ ！廢墟中回蕩着女性的悲鳴 被強奸的女人 x 20名",
+      "id": 80986,
+      "IDcode": "SDDE-663",
+      "title": "【超部屋結界】ハーレムSPECIAL 〜ようこそ僕だけの淫乱病院へ イヒ!〜 美人ナースやインテリ女医を下品な淫乱女へと洗脳支配する",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6740763b2436b10c8f2ff3172754c931.jpg",
+      "actress": [
+        "推川悠里",
+        "初音實",
+        "加藤あやの",
+        "谷梓",
+        "亜矢みつき",
+        "堀麻美子",
+        "椎叶みくる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-663"
+    },
+    {
+      "id": 8341,
+      "IDcode": "GNS-114",
+      "title": "尊嚴侵害，無恥性侵犯！被討厭的上司以出差的名義在溫泉旅館裏寢取",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "GooNiES",
-      "publish_date": "2025-02-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250212/96707400-ed99-4cb6-93b9-17c2ef6e9aad.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa34879550e292a785c867/cover.jpg",
+      "actress": [
+        "千石もなか",
+        "天美めあ",
+        "木野野葉惠里香",
+        "真白みのり",
+        "祈山愛",
+        "涼花くるみ",
+        "皇柚子",
+        "上野真奈美",
+        "楽園ミナ",
+        "七瀨華蓮",
+        "天海一華",
+        "東城ゆい",
+        "永瀬愛菜",
+        "美音夢",
+        "堀麻美子",
+        "汐見唯",
+        "加賀美真里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-114"
+    },
+    {
+      "id": 8340,
+      "IDcode": "GNS-113",
+      "title": "【緊急逮×！】「撮らないで！！」廃墟に響き渡る女性の悲鳴 女たちのヤリすて廃棄場強× 20名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GooNiES",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250811-1/d382b06a4ba683ca1c390f593ad31314.jpg",
       "actress": [
         "千石もなか",
         "天美めあ",
@@ -62,28 +116,6 @@ window.actressData = {
         "加賀美真里"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GNS-113"
-    },
-    {
-      "id": 80986,
-      "IDcode": "SDDE-663",
-      "title": "【超部屋結界】ハーレムSPECIAL 〜ようこそ僕だけの淫乱病院へ イヒ!〜 美人ナースやインテリ女医を下品な淫乱女へと洗脳支配する",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2022-03-10",
-      "cover_url": "",
-      "actress": [
-        "推川悠里",
-        "初音實",
-        "加藤あやの",
-        "谷梓",
-        "亜矢みつき",
-        "堀麻美子",
-        "椎叶みくる"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-663"
     }
   ]
 };

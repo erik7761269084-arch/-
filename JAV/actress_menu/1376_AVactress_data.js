@@ -32,23 +32,55 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250613/01911c88-347c-470c-9fe7-4703c18fd900_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250613/e1defe27-541d-4114-92b9-a487e3c1ba60_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4469,
-      "IDcode": "MFYD-025",
-      "title": "家裏來的大肉棒被口活超棒的騷老婆偷吃啦 ~ 真城かのん",
+      "id": 5317,
+      "IDcode": "MFYD-016",
+      "title": "在表参道的一家牙科诊所被发现-真城香音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-07-11",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061940213213_thumbnail.webp",
+      "actress": [
+        "真城かのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-016"
+    },
+    {
+      "id": 4469,
+      "IDcode": "MFYD-025",
+      "title": "偷吃家里大鸡巴的口交狂热人妻-真城かのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710040338724724_33796_thumbnail.webp",
       "actress": [
         "真城かのん"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MFYD-025"
+    },
+    {
+      "id": 2722,
+      "IDcode": "BANK-218",
+      "title": "いいなり美人妻 むちゃくちゃHが好きな和風美人 花音28歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ま○こ銀行",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250913/20250913085612923923_29282_thumbnail.webp",
+      "actress": [
+        "真城かのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-218"
     }
   ]
 };

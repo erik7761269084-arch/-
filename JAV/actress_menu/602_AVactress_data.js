@@ -37,34 +37,164 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241107/bc2afd44-e427-490f-a4d3-a8606000c2f4.jpg",
     "https://picture.yoshiclub.xyz/20241107/f56ac239-fd6c-4916-bf8b-acfa575c0b86.jpg"
   ],
-  "works_count": 8,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 3026,
-      "IDcode": "SONE-895",
-      "title": "偶像瞬間變床上玩具！突襲石田佳蓮私生活，史上最狂整人即插醜聞 ~ 石田佳蓮",
+      "id": 77785,
+      "IDcode": "TEK-100",
+      "title": "I doing-石田佳蓮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025655298298_99896_thumbnail.webp",
+      "type": "",
+      "company": "素人Only",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-895"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TEK-100"
+    },
+    {
+      "id": 10759,
+      "IDcode": "SONE-473",
+      "title": "前御台场系地面波偶像艺人-石田佳蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678891465d57b64bfd2c6d73/cover.jpg",
+      "actress": [
+        "石田佳蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-473"
+    },
+    {
+      "id": 10167,
+      "IDcode": "SONE-495",
+      "title": "超级瘦的排骨系偶像艺人小姐姐-石田佳蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205081354888888.jpg",
+      "actress": [
+        "石田佳蓮",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-495"
+    },
+    {
+      "id": 9238,
+      "IDcode": "SONE-612",
+      "title": "电视上看不到的艺人秘密性交-石田佳蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b1715d57b64bfdfc3b4d/cover.jpg",
+      "actress": [
+        "石田佳蓮",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-612"
+    },
+    {
+      "id": 8425,
+      "IDcode": "SONE-613",
+      "title": "在拍摄现场与鄙视的中年性骚扰制作人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8e216cf22ae3e04db5383/cover.jpg",
+      "actress": [
+        "石田佳蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-613"
+    },
+    {
+      "id": 7730,
+      "IDcode": "SONE-635",
+      "title": "解禁巨根性交-石田佳蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123924878878.jpg",
+      "actress": [
+        "石田佳蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-635"
+    },
+    {
+      "id": 7076,
+      "IDcode": "SONE-679",
+      "title": "被下药迷奸沦为性奴的电视台偶像-石田佳蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093136119119.jpg",
+      "actress": [
+        "石田佳蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-679"
+    },
+    {
+      "id": 6283,
+      "IDcode": "SONE-717",
+      "title": "地上波アイドルのスレンダー美脚とスラリ指先とキュートな口で徹底的にシコリング！！！ヌいてヌいてヌキ尽くす痴女覚醒ごぼう抜き13連発 石田佳蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065232772772_thumbnail.webp",
+      "actress": [
+        "石田佳蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-717"
+    },
+    {
+      "id": 5535,
+      "IDcode": "SONE-755",
+      "title": "家庭美容院一个超级喜欢她的中年粉丝-石田佳蓮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605043542906906_thumbnail.webp",
+      "actress": [
+        "石田佳蓮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-755"
     },
     {
       "id": 4784,
       "IDcode": "SONE-808",
-      "title": "地上波偶像首次解禁精液洗禮 石田佳蓮突破極限的初次大亂交狂歡派對 ~ 石田佳蓮",
+      "title": "人生首次被一群男人一起中出-石田佳蓮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-04",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703053924826826_thumbnail.webp",
       "actress": [
         "石田佳蓮",
@@ -76,102 +206,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-808"
     },
     {
-      "id": 5535,
-      "IDcode": "SONE-755",
-      "title": "藝能人轉行自宅沙龍 被變態中年粉絲強迫蛋蛋按摩 ~ 石田佳蓮",
+      "id": 3026,
+      "IDcode": "SONE-895",
+      "title": "女偶像被我一秒插进去！突击石田佳莲的私人生活，史无前例的突袭插入大丑闻！ 石田佳莲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605043542906906_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904025655298298_99896_thumbnail.webp",
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-755"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-895"
     },
     {
-      "id": 6283,
-      "IDcode": "SONE-717",
-      "title": "地下偶像的纖細美腿和修長手指加上可愛小嘴，徹底榨幹你的節奏！癡女覺醒連續13發大爆發 ~ 石田佳蓮",
+      "id": 2123,
+      "IDcode": "SONE-971",
+      "title": "ロケバス車内で痴●されて…大御所タレントの不同意指マンに声を殺してイキ続けた地上波で絶対に売れたい元アイドル 石田佳蓮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508065232772772_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "石田佳蓮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-717"
-    },
-    {
-      "id": 7730,
-      "IDcode": "SONE-635",
-      "title": "石田佳蓮巨根解禁FUCK！地下偶像的小穴徹底崩潰 ~ 石田佳蓮",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305123924878878.jpg",
-      "actress": [
-        "石田佳蓮"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-635"
-    },
-    {
-      "id": 8425,
-      "IDcode": "SONE-613",
-      "title": "電視臺的女主播最終被脅迫和她討厭的中年性騷擾制片人相部屋……她對持續到早上的激烈性愛措手不及 ~ 石田佳蓮",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206075047625625.jpg",
-      "actress": [
-        "石田佳蓮"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-613"
-    },
-    {
-      "id": 9238,
-      "IDcode": "SONE-612",
-      "title": "狂野熱吻 地下偶像的祕密 ~ 石田佳蓮",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109073757464464.jpg",
-      "actress": [
-        "石田佳蓮",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-612"
-    },
-    {
-      "id": 10167,
-      "IDcode": "SONE-495",
-      "title": "前臺場系地面偶像 S-1第2作 ~ 石田佳蓮",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-12-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205081354888888.jpg",
-      "actress": [
-        "石田佳蓮",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-495"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-971"
     }
   ]
 };

@@ -40,7 +40,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/逢沢はるか.jpg",
     "https://picture.yoshiclub.xyz/20231227/3304107e-6865-47fe-bda6-4ae28885cab9.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
       "id": 79526,
@@ -49,14 +49,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2021-08-19",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/ffd4165af13e96bd91a93cdb42b1343d.jpg",
       "actress": [
         "逢澤遙"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GVH-279"
+    },
+    {
+      "id": 1025,
+      "IDcode": "HEYZO-1431",
+      "title": "對逢澤遙的惡作劇，讓她得到性高潮她什麼都願意做。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-03-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20240112/7c70ab8b-7eab-49bd-87f8-6a43cda9886a.jpg",
+      "actress": [
+        "逢澤遙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1431"
     },
     {
       "id": 72075,
@@ -65,14 +81,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-11-23",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3f0fddcd65ce30f235463f1e098f00da.jpg",
       "actress": [
         "逢澤遙"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GIGL-525"
+    },
+    {
+      "id": 468,
+      "IDcode": "HEYZO-3497",
+      "title": "可以借給你操哦！！ Vol.50 ~ 逢澤遙",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68c0105e5f13d063bcd8de0a/cover.jpg",
+      "actress": [
+        "逢澤遙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3497"
     }
   ]
 };

@@ -39,19 +39,65 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250202/5c06e8d5-b2e9-4711-a12b-18039898df9a.jpg"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 88279,
-      "IDcode": "CAWD-100",
-      "title": "「ボクには彼女がいるのに…」密着フォーメーション逆3Pで痴女られ朝から晩までずーっと腰を振られてたっぷり射精させられたボク 松本いちか 丘えりな",
+      "id": 8335,
+      "IDcode": "KCDA-316",
+      "title": "淫蕩女子校生精射4小時合集 ~ 西村ニーナ 莉莉遙香 彌生美月 美園和花 小梅惠乃 丘惠理奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-02-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250212/028a190c-8735-44ff-8b20-e98ae41e38d8.jpg",
+      "actress": [
+        "美園和花",
+        "彌生美月",
+        "莉莉遙香",
+        "小梅惠奈",
+        "西村ニーナ",
+        "丘惠理奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KCDA-316"
+    },
+    {
+      "id": 8587,
+      "IDcode": "MMBS-017",
+      "title": "小惡魔挑逗美少女4小時合輯III",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-02-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20250202/68bb2749-87a9-4678-acc7-1073f56fc8d7.jpg",
+      "actress": [
+        "松本一香",
+        "五日市芽依",
+        "木下日葵",
+        "東條夏",
+        "竹田夢",
+        "小栗操",
+        "久留木玲",
+        "吉良鈴",
+        "樋口三葉",
+        "丘惠理奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMBS-017"
+    },
+    {
+      "id": 88279,
+      "IDcode": "CAWD-100",
+      "title": "3Pで痴女-松本いちか 丘えりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KAWAII",
-      "publish_date": "2020-07-25",
-      "cover_url": "",
+      "publish_date": "2024-07-17",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/44303ee8261369abc22f725acc2a7422.jpg",
       "actress": [
         "松本一香",
         "丘惠理奈"
@@ -59,32 +105,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-100"
     },
     {
-      "id": 86825,
-      "IDcode": "CAWD-078",
-      "title": "彼女の妹のムッチリ太ももとパンチラ誘惑に負けて中出しまでしちゃったボク。 丘えりな （ブルーレイディスク）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2020-04-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230214-1/250e14108bc48f9f253c6c02b361b5b4.jpg",
-      "actress": [
-        "丘惠理奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-078"
-    },
-    {
       "id": 100002,
       "IDcode": "MIFD-108",
-      "title": "19歳の冒険AV DEBUT ど田舎はヤルことがない！暇が嫌いな女子大生 丘えりな",
+      "title": "初次来东京的19岁可爱美少女-丘えりな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2020-04-01",
-      "cover_url": "https://tutu1.space/images/2023/01/08/c07045e2bff6fdaf2603faa8c741e515.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/417caf93bdf5d57a73a6d68a1b6843e7.jpg",
       "actress": [
         "丘惠理奈",
         "森林原人",
@@ -92,6 +122,22 @@ window.actressData = {
         "玉木玲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-108"
+    },
+    {
+      "id": 86825,
+      "IDcode": "CAWD-078",
+      "title": "女友的妹妹-丘えりな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e670fc3ccea2022c2e7a93a137a506c1.jpg",
+      "actress": [
+        "丘惠理奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-078"
     }
   ]
 };

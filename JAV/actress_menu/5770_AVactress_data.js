@@ -4,7 +4,7 @@ window.actressData = {
   "name": "星川さつき",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91991,
       "IDcode": "JUTA-136",
-      "title": "極上！！四十路奥さま初脱ぎAVドキュメント 星川さつき",
+      "title": "四十岁人妻初脱-星川沙月",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240624-1/96c376d9ada6e6dca977620c128937c0.jpg",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250601-1/ae16af99ad3b10c039695446ed76a6b4.jpg",
       "actress": [
         "星川さつき"
       ],

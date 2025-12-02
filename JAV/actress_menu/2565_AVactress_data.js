@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 9038,
       "IDcode": "MUDR-298",
-      "title": "新人出道！可愛的八重齒和JK制服，無垢164cm苗條美少女 首次亮相 AV DEBUT ~ 鬆山みなみ",
+      "title": "有可爱的双牙和制服-松山南",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116075312902902.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab6eab5f03a092cf71d2a0/cover.jpg",
       "actress": [
         "松山みなみ"
       ],

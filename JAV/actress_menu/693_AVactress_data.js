@@ -38,19 +38,139 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250217/70cfb4d3-0362-47c3-9972-5fea60a78b15.jpg",
     "https://picture.yoshiclub.xyz/20250217/84e619f3-5c9a-45f3-8adc-4ecb1022c19a.jpg"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 2486,
-      "IDcode": "HALT-069",
-      "title": "【個撮】口暴大全 VOL.12 ~ 大原理央 小野阪唯香 南條彩 葉山小百合 橘日向 水川潤 花裏明理 澄河美花 御影れみ",
+      "id": 6169,
+      "IDcode": "MADM-200",
+      "title": "不管你來幾次都沒問題…想怎麼玩就怎麼玩 素人熟女人妻帶你破處 25 三組連發內射全收錄 ~ 若宮穗乃 水端麻美 大原理央",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-05-10",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510101512846846_thumbnail.webp",
+      "actress": [
+        "水端麻美",
+        "若宮穂乃",
+        "大原理央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MADM-200"
+    },
+    {
+      "id": 8199,
+      "IDcode": "BANK-195",
+      "title": "操我屁眼吧，求你了！悶絕二穴FUCK的升天高潮4 ~ 美雲そら 大原理央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ま○こ銀行",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e4f804e4a73d4f15c27508/cover.jpg",
+      "actress": [
+        "美雲そら",
+        "大原理央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-195"
+    },
+    {
+      "id": 6702,
+      "IDcode": "AVSA-373",
+      "title": "俺の家には奥さんが2人 Wムチムチ肉感BODYでハーレム三昧 RIO＆KOZUE",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919065057692692_39525_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250419/20250419053528215215_thumbnail.webp",
+      "actress": [
+        "大原理央",
+        "仲野梢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-373"
+    },
+    {
+      "id": 4404,
+      "IDcode": "TCHB-050",
+      "title": "とある男の撮影拐集03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e7e7a98bc99dfdd03327a/cover.jpg",
+      "actress": [
+        "宫泽千春",
+        "大原理央",
+        "紺野美衣奈",
+        "百瀨莉子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-050"
+    },
+    {
+      "id": 3644,
+      "IDcode": "GMJK-027",
+      "title": "Mデブアナルファック羞恥輪●調教 大原理央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212618257257_85733_thumbnail.webp",
+      "actress": [
+        "大原理央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMJK-027"
+    },
+    {
+      "id": 3230,
+      "IDcode": "GHAT-160",
+      "title": "泥●巨乳ギャルをナンパお持ち帰り！終電逃して意識朦朧…ムチムチ巨尻ギャルを犯しまくり朦朧姦",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827105509694694_28221_thumbnail.webp",
+      "actress": [
+        "大原理央",
+        "藤沢ユリア"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-160"
+    },
+    {
+      "id": 2611,
+      "IDcode": "MISM-404",
+      "title": "出来立て肉塊を身動きできないほど縛りあげる！チャーシューデブイラマ 嘔吐破裂ノド凹マシマシ！事務職好奇心旺盛な理央33歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "えむっ娘ラボ",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/05/64e6a1aaa60478113c1c1c20b79c6884.jpg",
+      "actress": [
+        "大原理央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-404"
+    },
+    {
+      "id": 2486,
+      "IDcode": "HALT-069",
+      "title": "【個撮】 フェラなら撮らしてくれた！12 あ～んぐり口内射精10人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "水川潤",
         "小野坂唯香",
@@ -63,91 +183,6 @@ window.actressData = {
         "御影れみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
-    },
-    {
-      "id": 2611,
-      "IDcode": "MISM-404",
-      "title": "叉燒肥妹深喉爆裂加倍刺激 !事務部好奇心旺盛的OL 33歲 ~ 大原理央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "えむっ娘ラボ",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918041839543543_25677_thumbnail.webp",
-      "actress": [
-        "大原理央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-404"
-    },
-    {
-      "id": 3230,
-      "IDcode": "GHAT-160",
-      "title": "醉酒巨乳辣妹街頭撿屍！錯過末班車意識模糊…狂幹肉感翹臀妹子 ~ 大原理央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NEXT",
-      "publish_date": "2025-08-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250827/20250827105509694694_28221_thumbnail.webp",
-      "actress": [
-        "大原理央",
-        "藤沢ユリア"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHAT-160"
-    },
-    {
-      "id": 3644,
-      "IDcode": "GMJK-027",
-      "title": "M胖妹後門調教羞恥輪番上陣 ~ 大原理央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MERCURY",
-      "publish_date": "2025-08-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811212618257257_85733_thumbnail.webp",
-      "actress": [
-        "大原理央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMJK-027"
-    },
-    {
-      "id": 4404,
-      "IDcode": "TCHB-050",
-      "title": "變態男的誘拐攝入集03 ~ 大原理央 宮澤千春 百瀨莉子 紺野美衣奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714204924266266_96030_thumbnail.webp",
-      "actress": [
-        "宫泽千春",
-        "大原理央",
-        "紺野美衣奈",
-        "百瀨莉子"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TCHB-050"
-    },
-    {
-      "id": 6702,
-      "IDcode": "AVSA-373",
-      "title": "我有兩個老婆，雙倍肉感身材的後宮狂歡 ~ 仲野梢 大原理央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250419/20250419053528215215_thumbnail.webp",
-      "actress": [
-        "大原理央",
-        "仲野梢"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AVSA-373"
     }
   ]
 };

@@ -32,7 +32,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230207/91d41450-975d-4ffc-973b-03250f13d2be.jpg",
     "https://picture.yoshiclub.xyz/20230207/c4b4fa8c-ee70-42bf-855b-4f072b8bd087.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
     {
       "id": 90363,
@@ -41,31 +41,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "NEXT",
-      "publish_date": "2023-11-20",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/0511d3df26840590811328031cbba6b3.jpg",
       "actress": [
         "栗原葵",
         "芹奈梨紅"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-002"
-    },
-    {
-      "id": 1896,
-      "IDcode": "MKBD-S78",
-      "title": "KIRARI 78「我自己的女性○生onapepet」：Kaho。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2014-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/44f90cdc-05e8-42ab-aa3c-e8903ff2addc.webp",
-      "actress": [
-        "栗原葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S78"
     }
   ]
 };

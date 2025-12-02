@@ -31,19 +31,38 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250207/debdc410-7aa2-45a6-86b0-5388b1a6ce97.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 4591,
-      "IDcode": "HUNTC-344",
-      "title": "色色幻想成真了！去脫毛診所被性感小姐姐假裝認真工作故意撩撥我的VIO！不只是毛毛被清理... ~ 沙つむぐ 五十嵐清華 依本詩織 小野寺舞 加賀美",
+      "id": 8494,
+      "IDcode": "DOCD-046",
+      "title": "街頭素人論破！街頭對情侶的高額賞金挑戰.... 大師把他巨大的雞巴對準女友的肉穴狠狠插進去了！ ~ 沙つむぐ 西尾真裏奈 桃咲乃亞 小鳥遊りか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-02-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250207/4a179dd3-8d59-42fe-b88a-1be31a8fde8f.jpg",
+      "actress": [
+        "西尾真里奈",
+        "桃咲乃亞",
+        "沙つむぐ",
+        "小鳥遊りか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-046"
+    },
+    {
+      "id": 4591,
+      "IDcode": "HUNTC-344",
+      "title": "エッチな妄想が現実だった！脱毛クリニックに行ったらセクシーな女性スタッフが真面目に仕事するフリしてボクのVIOをわざと刺激！ムダ毛以外も…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703075656231231_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e586098bc99dfdd032261/cover.jpg",
       "actress": [
         "五十嵐清華",
         "小野寺舞",

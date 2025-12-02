@@ -42,18 +42,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230124/e44fb37b-086e-4810-b844-425e9f9166d9.jpg",
     "https://picture.yoshiclub.xyz/20230124/376d8518-23c9-4fb8-a01c-11bfdb5b5fa9.jpg"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 6896,
-      "IDcode": "MEYD-999",
-      "title": "11年功力按摩女王AV初登場！108式神手撩爆你的心！超甜笑容+軟彈身材的大橋裏緒姐姐（32歲）",
+      "id": 4631,
+      "IDcode": "DOKS-642",
+      "title": "龜頭玩弄快感爆射的極致口技 ~ 戶川奈美 白河花清 大橋裏緒 花裏明理 岬櫻 及川海",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "2025-07-01",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707033027204204_98522_thumbnail.webp",
+      "actress": [
+        "花里明理",
+        "岬櫻",
+        "戶川奈美",
+        "及川海",
+        "白河花清",
+        "大橋里緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-642"
+    },
+    {
+      "id": 6896,
+      "IDcode": "MEYD-999",
+      "title": "11年間不動のNo.1！噂のメンエス嬢がAVデビュー。 手コキバリエーション108手オーバー！まぶしい笑顔と抱き心地が最高なムチムチBODYの大橋りおさん（32歳）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "溜池",
-      "publish_date": "2025-04-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250411/202504110903048787.jpg",
       "actress": [
         "大橋里緒",
@@ -63,20 +84,40 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-999"
     },
     {
-      "id": 1783,
-      "IDcode": "LAFBD-84",
-      "title": "林間少女 84 與製服 JK 的激烈性交 : 櫻美雪",
+      "id": 2541,
+      "IDcode": "NACX-158",
+      "title": "中出し＆顔射をキメる不倫人妻ハメ撮り25人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2017-05-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/a0a9a19c-4047-4390-b402-34d1b61cba82.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
-        "大橋里緒"
+        "木下日葵",
+        "藤森里穂",
+        "黑川堇",
+        "水原みその",
+        "鈴木真夕",
+        "七草千歲",
+        "塚田詩織",
+        "夏希栗",
+        "紗紗原百合",
+        "八乃翼",
+        "川菜美铃",
+        "黒川晴美",
+        "如月夏希",
+        "若槻みづな",
+        "神ユキ",
+        "大橋里緒",
+        "東希美",
+        "飞鸟铃",
+        "遥彩音",
+        "川原かなえ",
+        "水穀葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-84"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACX-158"
     }
   ]
 };

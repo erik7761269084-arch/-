@@ -4,7 +4,7 @@ window.actressData = {
   "name": "成田かなこ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,23 +16,71 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 63117,
-      "IDcode": "KSBJ-385",
-      "title": "【FANZA限定】娘婿の朝起ちチ○ポを目の当たりにした未亡人の義母は！？ 成田かなこ 生写真とパンティ付き",
+      "id": 95127,
+      "IDcode": "JURA-123",
+      "title": "第一次拍摄50岁的妻子文件第2章-成田加奈子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KSB企畫",
-      "publish_date": "2025-07-02",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/03/39a36b01/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241114-1/e477f10873d3eb123a3222cf6cd6adca.jpg",
       "actress": [
         "成田かなこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-385"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JURA-123"
+    },
+    {
+      "id": 74262,
+      "IDcode": "KAAD-077",
+      "title": "我家漂亮的婆婆-成田かなこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250114-1/03d1de1831111dc3078c459342c72a04.jpg",
+      "actress": [
+        "成田かなこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-077"
+    },
+    {
+      "id": 67947,
+      "IDcode": "YOCH-021",
+      "title": "私人調教ヤリ部屋盗撮団地旦那の借金返済の為に…肉体を捧げ家まで乘っ取られた五十路の母―。 成田かなこ56歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b973c5ce3e366423cc79cf/cover.jpg",
+      "actress": [
+        "成田かなこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YOCH-021"
+    },
+    {
+      "id": 64058,
+      "IDcode": "HDKA-320",
+      "title": "裸体芭蕾舞老师-成田かなこ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "成田かなこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-320"
     },
     {
       "id": 63725,
@@ -41,62 +89,30 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2025-06-24",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b3f8798bc99dfddd613ec/cover.jpg",
       "actress": [
         "成田かなこ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEWM-109"
     },
     {
-      "id": 64058,
-      "IDcode": "HDKA-320",
-      "title": "はだかのバレエ講師 成田かなこ 生写真とパンティ付き",
+      "id": 63117,
+      "IDcode": "KSBJ-385",
+      "title": "娘婿の朝起ちチ○ポを目の当たりにした未亡人の義母は！？ 成田かなこ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-05-20",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "成田かなこ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-320"
-    },
-    {
-      "id": 67947,
-      "IDcode": "YOCH-021",
-      "title": "私人調●ヤリ部屋●撮団地旦那の借金返済の為に…肉体を捧げ家まで乗っ取られた五十路の母―。 成田かなこ56歳",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2025-04-24",
-      "cover_url": "https://tutu1.space/images/2025/07/15/67be11488b2fffc52b8d09f45e7109b4.jpg",
-      "actress": [
-        "成田かなこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YOCH-021"
-    },
-    {
-      "id": 74262,
-      "IDcode": "KAAD-077",
-      "title": "我が家の美しい姑 成田かなこ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2024-11-28",
-      "cover_url": "",
-      "actress": [
-        "成田かなこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KAAD-077"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-385"
     }
   ]
 };

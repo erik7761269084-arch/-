@@ -38,37 +38,372 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240322/592b6afe-eb78-41dd-a192-92d259e154f9.jpg"
   ],
-  "works_count": 13,
+  "works_count": 23,
   "related_dramas": [
     {
-      "id": 2631,
-      "IDcode": "SONE-907",
-      "title": "嘴硬刁蠻的蘿莉妹子太叼了吧，橄欖球部的大佬們直接把她給輪⬤了 ~ 渚愛梨",
+      "id": 5915,
+      "IDcode": "SONE-564",
+      "title": "被世界顶级美女环绕-未歩なな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918023754404404_31793_thumbnail.webp",
+      "publish_date": "2025-06-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/202505220753447272_thumbnail.webp",
+      "actress": [
+        "未步奈奈",
+        "村上悠華",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
+        "白上咲花",
+        "神樂桃果",
+        "乃坂日和"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-564"
+    },
+    {
+      "id": 95559,
+      "IDcode": "SONE-416",
+      "title": "上京NTR-渚爱梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787da1d478d611da7751deb/cover.jpg",
       "actress": [
         "渚愛梨",
-        "ニック",
-        "タクト",
-        "ラビットけんと"
+        "まーち"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-907"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-416"
+    },
+    {
+      "id": 15928,
+      "IDcode": "SONE-172",
+      "title": "新人NO.1STYLE-渚爱里",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240322/20240322081008558558.jpg",
+      "actress": [
+        "渚愛梨",
+        "小田切ジュン",
+        "タツ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-172"
+    },
+    {
+      "id": 15296,
+      "IDcode": "SONE-173",
+      "title": "渚あいり的大眼睛美少女感覺真好！第一次，體驗，3次真正的高潮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e48917944bbe4ef030ac80/cover.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-173"
+    },
+    {
+      "id": 14498,
+      "IDcode": "SONE-216",
+      "title": "交錯的體液濃密性愛-渚愛理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524031734380380.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-216"
+    },
+    {
+      "id": 13835,
+      "IDcode": "SONE-239",
+      "title": "共同具備年輕跟可愛的美少女-渚愛理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621000737969969.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-239"
+    },
+    {
+      "id": 13249,
+      "IDcode": "SONE-278",
+      "title": "自从被学生诱惑并干下去-渚爱理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719000833100100.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-278"
+    },
+    {
+      "id": 12484,
+      "IDcode": "SONE-327",
+      "title": "一個月的禁欲後-渚愛理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822220537226226.jpg",
+      "actress": [
+        "渚愛梨",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-327"
+    },
+    {
+      "id": 11886,
+      "IDcode": "SONE-371",
+      "title": "违反规则的走光诱惑-渚爱理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/7cf7e83cc37b703ca3980406e7a657aa.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-371"
+    },
+    {
+      "id": 10454,
+      "IDcode": "SONE-465",
+      "title": "志愿者用奶嘴将中年大叔堆积的精液射到脸上",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/12/68c375b1735bb663f77cf366/cover.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-465"
+    },
+    {
+      "id": 10117,
+      "IDcode": "SONE-560",
+      "title": "S1 PRECIOUS GIRLS 2024 - 史上從來未有過的最大規模亂交！24場全明星大集合大亂交超絕亂舞 Special特輯 ~ 河北彩花 金鬆季步 本鄉愛 Miru 楓花戀 等24位",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/04/68e04c6379f1ac4ec48c195b/cover.jpg",
+      "actress": [
+        "奥田咲",
+        "Miru",
+        "河北彩花",
+        "未步奈奈",
+        "小日向美優",
+        "七森莉莉",
+        "三田真鈴",
+        "村上悠華",
+        "明日葉三葉",
+        "楓富愛",
+        "淺野心",
+        "本郷愛",
+        "五条恋",
+        "早坂ひめ",
+        "兒玉七海",
+        "田野憂",
+        "渚愛梨",
+        "川越仁子",
+        "金松季歩",
+        "白上咲花",
+        "神樂桃果",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-560"
+    },
+    {
+      "id": 9758,
+      "IDcode": "SONE-509",
+      "title": "初次有了女朋友-渚爱理",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095150849849.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-509"
+    },
+    {
+      "id": 8868,
+      "IDcode": "SONE-551",
+      "title": "偶像级外貌的女学生-渚爱梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68accc458cce1a927a09f6d2/cover.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-551"
+    },
+    {
+      "id": 8099,
+      "IDcode": "SONE-602",
+      "title": "我是个可悲的成年人-渚あいり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093025922922.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-602"
+    },
+    {
+      "id": 7751,
+      "IDcode": "SONE-562",
+      "title": "S1学院射精祭业界名女优集合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6b2538cce1a927afdc031/cover.jpg",
+      "actress": [
+        "未步奈奈",
+        "小日向美優",
+        "村上悠華",
+        "早坂ひめ",
+        "兒玉七海",
+        "渚愛梨",
+        "川越仁子",
+        "白上咲花",
+        "倉木華",
+        "乃坂日和",
+        "榊原萌",
+        "ラヴズ",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
+    },
+    {
+      "id": 7308,
+      "IDcode": "SONE-650",
+      "title": "游泳俱乐部的教练盯上了漂亮女学员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f3ad194e7d663df493870f/cover.jpg",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-650"
+    },
+    {
+      "id": 6785,
+      "IDcode": "SONE-693",
+      "title": "頭がおかしくなる1時間の寸止めイキ我慢の果てに…。絶頂懇願から絶頂ギブアップまで終わらない 渚あいりが人生で一番イッた日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417081018513513_thumbnail.webp",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-693"
+    },
+    {
+      "id": 5864,
+      "IDcode": "SONE-730",
+      "title": "某天突然被清纯的学妹后辈告白了-渚あい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075649487487_thumbnail.webp",
+      "actress": [
+        "渚愛梨",
+        "タイ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-730"
+    },
+    {
+      "id": 5204,
+      "IDcode": "SONE-768",
+      "title": "青春期的暑假跟青梅竹马女生舌吻3p-白上咲花 渚爱梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6892f2e5c92318f97d87f867/cover.jpg",
+      "actress": [
+        "渚愛梨",
+        "白上咲花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-768"
     },
     {
       "id": 4318,
       "IDcode": "SONE-566",
-      "title": "S1二十週年紀念 最強聯手神作 1對18 新人助理導演被頂級性感女優偷偷挑逗 陷入職場桃色誘惑 ~ 田野憂 五條戀 未步奈奈 白上咲花 神樂桃果 楓富愛 明日葉三葉 村上悠華 淺野心 渚愛梨",
+      "title": "新人助理导演-楓ふうあ 未歩なな 明日葉みつは",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/202507170018358585_94006_thumbnail.webp",
       "actress": [
         "未步奈奈",
@@ -89,13 +424,13 @@ window.actressData = {
     {
       "id": 4272,
       "IDcode": "SONE-820",
-      "title": "按摩店絕美小姐姐的祕密服務，我選逆按摩把她弄得超敏感直接高潮連連 ~ 渚愛梨",
+      "title": "号称绝对不会做特服的技师小姐姐被意外碰到敏感部位-渚あいり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-07-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250718/20250718213201511511_30437_thumbnail.webp",
       "actress": [
         "渚愛梨"
@@ -103,178 +438,39 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-820"
     },
     {
-      "id": 5204,
-      "IDcode": "SONE-768",
-      "title": "青春期暑假青梅竹馬閨蜜玩嗨了互相親親…我看得熱血沸騰直接加入3P大戰 ~ 渚愛梨 白上咲花",
+      "id": 3404,
+      "IDcode": "SONE-858",
+      "title": "文系美少女のネットリささやき淫語誘惑には抗えない 渚あいり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619063456230230_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821023629793793_53675_thumbnail.webp",
+      "actress": [
+        "渚愛梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-858"
+    },
+    {
+      "id": 2631,
+      "IDcode": "SONE-907",
+      "title": "因为性格强硬又麻烦的小个子女很烦人所以用橄榄球队的力量强行轮了她-渚爱梨",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918023754404404_31793_thumbnail.webp",
       "actress": [
         "渚愛梨",
-        "白上咲花"
+        "ニック",
+        "タクト",
+        "ラビットけんと"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-768"
-    },
-    {
-      "id": 5864,
-      "IDcode": "SONE-730",
-      "title": "清純學妹突然表白，三年調教讓她變成我的專屬肉便器 ~ 渚愛梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075649487487_thumbnail.webp",
-      "actress": [
-        "渚愛梨",
-        "タイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-730"
-    },
-    {
-      "id": 6785,
-      "IDcode": "SONE-693",
-      "title": "瘋狂一小時的寸止忍耐挑戰！從求饒到崩潰的高潮風暴 ~ 渚あいり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417081018513513_thumbnail.webp",
-      "actress": [
-        "渚愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-693"
-    },
-    {
-      "id": 7751,
-      "IDcode": "SONE-562",
-      "title": "S1 20周年紀念 AV史上最強組合力作 最佳顏值的女學生們放肆狂幹滿足來賓的S1學園射精祭 ~ 乃阪日和 小日向美優 兒玉七海 榊原萌 渚あいり 川越仁子 早阪ひめ 未步奈奈 倉木華 村上悠華 白上咲",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305122839266266.jpg",
-      "actress": [
-        "未步奈奈",
-        "小日向美優",
-        "村上悠華",
-        "早坂ひめ",
-        "兒玉七海",
-        "渚愛梨",
-        "川越仁子",
-        "白上咲花",
-        "倉木華",
-        "乃坂日和",
-        "榊原萌",
-        "ラヴズ",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-562"
-    },
-    {
-      "id": 8099,
-      "IDcode": "SONE-602",
-      "title": "生意氣可愛的兼職女學生像小混蛋一樣對待我！我要讓她明白我那勃起不退的大雞巴的厲害！ ~ 渚あいり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220093025922922.jpg",
-      "actress": [
-        "渚愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-602"
-    },
-    {
-      "id": 8868,
-      "IDcode": "SONE-551",
-      "title": "我是個顏控癡漢，這麼漂亮的女大學生怎麼能夠放過。猥褻她……結果她對我的性技巧入迷了 ~ 渚あいり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123073549935935.jpg",
-      "actress": [
-        "渚愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-551"
-    },
-    {
-      "id": 9758,
-      "IDcode": "SONE-509",
-      "title": "青梅竹馬的可愛女孩對我的性愛特訓！爲了治愈早泄的親身射精管理 ~ 渚あいり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095150849849.jpg",
-      "actress": [
-        "渚愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-509"
-    },
-    {
-      "id": 13249,
-      "IDcode": "SONE-278",
-      "title": "自從那天被學生勾引，將她抱在懷裏後……雖然很後悔，但禁忌關系卻不斷加深 ~ 渚あいり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719000833100100.jpg",
-      "actress": [
-        "渚愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-278"
-    },
-    {
-      "id": 13835,
-      "IDcode": "SONE-239",
-      "title": "161次激烈高潮！4128次抽搐！高潮潮噴2511cc！ 稚氣與淫蕩並存的美少女，愛神覺醒 ~ 渚あいり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-06-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621000737969969.jpg",
-      "actress": [
-        "渚愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-239"
-    },
-    {
-      "id": 14498,
-      "IDcode": "SONE-216",
-      "title": "交換體液，激烈的性交，女孩變成女性，貪婪地吞噬男性。~ 渚あいり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-05-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524031734380380.jpg",
-      "actress": [
-        "渚愛梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-216"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-907"
     }
   ]
 };

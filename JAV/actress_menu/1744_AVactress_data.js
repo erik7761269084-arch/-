@@ -34,7 +34,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-09-12",
       "cover_url": "https://picture.yoshiclub.xyz/20240813/471fe12f-0b1d-4ed6-86b4-9eac96beb094.jpg",
@@ -46,13 +46,13 @@ window.actressData = {
     {
       "id": 13882,
       "IDcode": "SDJS-268",
-      "title": "第一次下班後中出，射在她的陰戶裏，直到早上... 加入SOD已經3年的企劃部女社員 ~ 倉田優希",
+      "title": "第一次的中出-倉田優希",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-07-01",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240618/c26b036c-73f8-4fd5-b66c-ea108a8b8d44.jpg",
       "actress": [
         "倉田優希"

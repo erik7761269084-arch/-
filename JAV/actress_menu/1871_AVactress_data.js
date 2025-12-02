@@ -31,18 +31,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250411/df227643-ca1e-4abd-95e3-40b46c1f753a.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 6907,
       "IDcode": "EBWH-214",
-      "title": "新人出道！抖奶巨乳和超敏感粉嫩乳頭不拖後腿 全國級力量型攻手 制服下藏不住的健康肉感身材真運動員 初登場 AV DEBUT ~ 岡田優愛",
+      "title": "揺れる巨乳と敏感すぎるピンク乳首をハンデにしない全国クラスのパワー系アタッカー ユニフォーム越しでもわかる健康的ムチムチボディの本物アスリート 岡田優愛 AV DEBUT",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-04-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411004011322322.jpg",
       "actress": [
         "岡田優愛",
@@ -50,6 +50,22 @@ window.actressData = {
         "小田切ジュン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-214"
+    },
+    {
+      "id": 6070,
+      "IDcode": "EBWH-234",
+      "title": "第一次交到的女朋友脫光後-岡田優愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/202505150533263535_thumbnail.webp",
+      "actress": [
+        "岡田優愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-234"
     }
   ]
 };

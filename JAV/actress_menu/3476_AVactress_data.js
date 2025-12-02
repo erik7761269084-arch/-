@@ -22,32 +22,8 @@ window.actressData = {
     "Kawakami nanami"
   ],
   "gallery": [],
-  "works_count": 51,
+  "works_count": 60,
   "related_dramas": [
-    {
-      "id": 90371,
-      "IDcode": "PBD-428",
-      "title": "綺麗なお姉さん達に囲まれ犯●れハーレム 30コーナーBEST",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
-      "actress": [
-        "波多野结衣",
-        "希島愛理",
-        "AIKA",
-        "山岸逢花",
-        "蓮実クレア",
-        "星奈爱",
-        "香椎花乃",
-        "安倍亜沙美",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-428"
-    },
     {
       "id": 84579,
       "IDcode": "HMN-190",
@@ -55,78 +31,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "本中",
       "publish_date": "2022-06-21",
-      "cover_url": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230322-1/b364246deef6eea576b00da4640a83ea.jpg",
       "actress": [
         "川上奈奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-190"
-    },
-    {
-      "id": 86084,
-      "IDcode": "SAME-001",
-      "title": "ATTACKERS 引退 女教師、お礼参り輪●。 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2022-06-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230202-1/cde9011d92adf049ce69bbe0f8429f2d.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-001"
-    },
-    {
-      "id": 86088,
-      "IDcode": "ROYD-092",
-      "title": "超絶ヤリマンの姉も痙攣するほどイカされまくり！性欲モンスターなんですボクの友達は… 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2022-05-24",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-092"
-    },
-    {
-      "id": 85625,
-      "IDcode": "MVSD-506",
-      "title": "今…アナタ以外の男に抱かれてます…。 夫の為に他人棒を受け入れた愛妻の淫らな喘ぎ声 遠隔実況NTS 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2022-04-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230127-1/2395b1624787093040ba36beda2b06dc.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-506"
-    },
-    {
-      "id": 81087,
-      "IDcode": "DVAJ-562",
-      "title": "ジム初心者で非力な僕をじっくりねっとり犯し続けるパーソナルトレーナーのお姉さん 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2022-03-08",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-562"
     },
     {
       "id": 80807,
@@ -135,7 +47,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
       "publish_date": "2022-02-15",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/e11fe86847189714ab051e47e4d47097.jpg",
@@ -151,10 +63,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
       "publish_date": "2022-02-08",
-      "cover_url": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20230720-1/d7d74bb97289a4e758063de8fcdd1764.jpg",
       "actress": [
         "タイ",
         "川上奈奈美"
@@ -168,30 +80,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2022-02-01",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9987b7c9337714234434262b6115efb5.jpg",
       "actress": [
         "川上奈奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-497"
-    },
-    {
-      "id": 84368,
-      "IDcode": "DVAJ-552",
-      "title": "続・彼女が3日間家族旅行で家を空けるというので、彼女の友達と3日間ハメまくった記録（仮） 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2022-01-11",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-552"
     },
     {
       "id": 86618,
@@ -200,7 +96,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "WANZ FACTORY",
       "publish_date": "2022-01-04",
       "cover_url": "",
@@ -210,185 +106,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAAA-127"
     },
     {
-      "id": 84565,
-      "IDcode": "HMN-079",
-      "title": "え！？こんな所でこっそり中出しするの！？ 人気AV女優のセフレにAVみたいな中出しセックスをしたいとお願いしてみたら…僕のプライベートに入り込まれて、友達にバレないようにこっそりAV撮影をすることになった話。 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2021-11-23",
-      "cover_url": "",
-      "actress": [
-        "Qべぇ",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-079"
-    },
-    {
-      "id": 79876,
-      "IDcode": "DVAJ-537",
-      "title": "今付き合ってる彼女がエスちゃんでデート中ずっと乳首とチ○ポ弄られ寸止めされ勃起しっぱなしでおあずけ状態からの爆抜きセックスで6発抜かれてカラダがもちません… 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2021-10-12",
-      "cover_url": "",
-      "actress": [
-        "タイ",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-537"
-    },
-    {
-      "id": 106804,
-      "IDcode": "SSPD-166",
-      "title": "バイト先の美女2人を奴●化ハーレム計画 川上奈々美 二宮ひかり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2021-10-05",
-      "cover_url": "",
-      "actress": [
-        "二宫ひかり",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-166"
-    },
-    {
       "id": 68498,
       "IDcode": "MEYD-667",
       "title": "賢者タイムになる暇がないほど追撃してくる連続搾精メンズエステ 川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "溜池",
       "publish_date": "2021-04-13",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/d9953fdf0908d6f29987f03b11582787.jpg",
       "actress": [
         "鲛岛",
         "川上奈奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-667"
-    },
-    {
-      "id": 88617,
-      "IDcode": "DVAJ-493",
-      "title": "認真接受女上司玩笑的處男部下用光保險套還不停下十連性交 川上奈奈美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2021-01-13",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-493"
-    },
-    {
-      "id": 69248,
-      "IDcode": "MEYD-647",
-      "title": "今日は孕むまでナカに出して… 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2021-01-13",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-647"
-    },
-    {
-      "id": 68208,
-      "IDcode": "MEYD-638",
-      "title": "元ヤリマンの叔母がエロすぎて超ガリ勉の甥っ子が性欲モンスター化！絶対に逃げられない抜かずの孕ませ超絶倫ホールド 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-12-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250420-1/9956044a09ee4e32a1aeb2571b4ab4ec.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-638"
-    },
-    {
-      "id": 88322,
-      "IDcode": "DVAJ-478",
-      "title": "人生最高のSEXをくれたワンナイト痴女と5年ぶりに再会 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2020-10-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231004-1/37c936b60d6d711a0630dca7b74b3646.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-478"
-    },
-    {
-      "id": 88079,
-      "IDcode": "MEYD-606",
-      "title": "バイト先NTR 欲求不満な人妻の愚痴を聞いていたら毎日中出しSEXできた 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-07-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230907-1/b922ede6dc747e5e073e24ffed0969f4.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-606"
-    },
-    {
-      "id": 107375,
-      "IDcode": "DVAJ-454",
-      "title": "不倫セックスの一部始終を語りはじめた妻に鬱勃起が止まらなくなり…浮気なカラダを激しく責め立てながら妻に詫びを入れさせた話 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2020-05-13",
-      "cover_url": "https://tutu1.space/images/2023/06/26/5527455f77e72a31f2c8b5ece8d83394.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-454"
-    },
-    {
-      "id": 82526,
-      "IDcode": "DVAJ-449",
-      "title": "布団の中で声ガマンしてもネットリ抜き挿しする性交音は漏れてしまうバレ寸前不倫生活 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2020-04-13",
-      "cover_url": "",
-      "actress": [
-        "小田切ジュン",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-449"
     },
     {
       "id": 81643,
@@ -397,10 +129,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
       "publish_date": "2020-03-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/e08f725b8d13360422d88df69399eaa3.jpg",
+      "cover_url": "",
       "actress": [
         "川上奈奈美"
       ],
@@ -413,7 +145,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
       "publish_date": "2020-02-13",
       "cover_url": "",
@@ -423,65 +155,236 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-438"
     },
     {
-      "id": 76203,
-      "IDcode": "DVAJ-433",
-      "title": "上司に乳首ハラスメントされ続け、早漏イクイク敏感体質に仕込まれた女子社員 川上奈々美",
+      "id": 99582,
+      "IDcode": "PDV-164",
+      "title": "ザ・レイプ狂い",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-05-23",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "葵司",
+        "木南日菜",
+        "上原亞衣",
+        "辰巳ゆい",
+        "麻美由真",
+        "川上奈奈美",
+        "伊东红",
+        "朝日奈あかり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PDV-164"
+    },
+    {
+      "id": 156986,
+      "IDcode": "ADN-132",
+      "title": "女教師玩具化計画-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/10/19/e9c2f393a672cd2d03122c785850c871.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-132"
+    },
+    {
+      "id": 156709,
+      "IDcode": "DVAJ-483",
+      "title": "与儿子有肉体关系3年老公已经开始怀疑了没办法与恳求肉体的儿子说分手该如何是好",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2020-01-13",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/444855ef42496d683b0eaf771e8618d7.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-483"
+    },
+    {
+      "id": 155727,
+      "IDcode": "RBD-756",
+      "title": "強姦被害者は女性弁護士救いなき裁きに濡れて",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-433"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-756"
     },
     {
-      "id": 78404,
-      "IDcode": "MEYD-552",
-      "title": "幼なじみだった川上奈々美と希島あいりが朝から晩まで中出ししまくりOKな俺の嫁",
+      "id": 107375,
+      "IDcode": "DVAJ-454",
+      "title": "一直很贤惠的妻子-川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-12-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/7ffeac2e018e96548dc54706b843859f.jpg",
-      "actress": [
-        "希島愛理",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-552"
-    },
-    {
-      "id": 70843,
-      "IDcode": "DVAJ-427",
-      "title": "僕が覗いてるのを知っててハメシロを見せつけてくる義理のお姉さん 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2019-12-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250224-1/14662dfbf9d5b6c6eade59bc6fa40000.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-427"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-454"
+    },
+    {
+      "id": 106804,
+      "IDcode": "SSPD-166",
+      "title": "后宫计划-川上奈々美 二宮ひかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "二宫ひかり",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-166"
+    },
+    {
+      "id": 106299,
+      "IDcode": "SHKD-809",
+      "title": "为了保护学生在未婚夫面前被轮奸内射的网球部女教师川上奈奈美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e73c7c179ffb1db5fdaf5/cover.jpg",
+      "actress": [
+        "川上奈奈美",
+        "インフィニティ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-809"
+    },
+    {
+      "id": 105494,
+      "IDcode": "ADN-175",
+      "title": "恩将仇报侵犯老师川上奈奈美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/55e3c9cc2f1faac71408c49a386eff55.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-175"
+    },
+    {
+      "id": 105078,
+      "IDcode": "SSPD-146",
+      "title": "住在隔壁的两个人妻强奸犯当然要同时照顾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f5f31f9a2e9b1d46c0769/cover.jpg",
+      "actress": [
+        "田渊正浩",
+        "川上奈奈美",
+        "神咲诗织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-146"
+    },
+    {
+      "id": 105063,
+      "IDcode": "DVAJ-390",
+      "title": "对于出轨偷男人的老婆就得狠狠的蹂躏她",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-390"
+    },
+    {
+      "id": 103891,
+      "IDcode": "JUY-813",
+      "title": "回到娘家和已为人妻的妻子的妹妹",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240421-1/4e06e7cea5aa37d7492e02cadd4a2dac.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-813"
+    },
+    {
+      "id": 99763,
+      "IDcode": "ADN-086",
+      "title": "举行的一次访问-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/adn086/adn086pl.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-086"
+    },
+    {
+      "id": 99735,
+      "IDcode": "ADN-096",
+      "title": "我想被你所爱-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-096"
     },
     {
       "id": 94997,
       "IDcode": "MEYD-543",
-      "title": "妻の犯したあやまち… 川上奈々美",
+      "title": "妻子犯下的过错之被别的男人侵犯到内射上瘾的人妻川上奈奈美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-11-13",
-      "cover_url": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cb8bf8aa85b426e4ca15e573f59a30e0.jpg",
       "actress": [
         "小田切ジュン",
         "川上奈奈美"
@@ -489,64 +392,401 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-543"
     },
     {
-      "id": 70254,
-      "IDcode": "SHKD-878",
-      "title": "相部屋になった生徒に朝まで犯され続けた女教師 川上奈々美",
+      "id": 90371,
+      "IDcode": "PBD-428",
+      "title": "綺麗なお姉さん達に囲まれ犯●れハーレム 30コーナーBEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-10-07",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/e84684d19d2a9264711d6d2a85715a26.jpg",
       "actress": [
+        "波多野结衣",
+        "希島愛理",
+        "AIKA",
+        "山岸逢花",
+        "蓮実クレア",
+        "星奈爱",
+        "香椎花乃",
+        "安倍亜沙美",
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-878"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-428"
     },
     {
-      "id": 74047,
-      "IDcode": "MEYD-527",
-      "title": "欲求不満な団地妻と孕ませオヤジの汗だく濃厚中出し不倫 川上奈々美",
+      "id": 88623,
+      "IDcode": "DVAJ-258",
+      "title": "女教師-川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-09-13",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-527"
-    },
-    {
-      "id": 70736,
-      "IDcode": "DVAJ-411",
-      "title": "「もう舐めるのやめて！」執拗なドリルクンニで何度もイカされトロトロになったマ○コを追い打ち肉棒ピストンで限界突破 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2019-09-13",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/006290cbf0a9d40d53769c72af3f46e6.jpg",
+      "actress": [
+        "森林原人",
+        "鲛岛",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-258"
+    },
+    {
+      "id": 88617,
+      "IDcode": "DVAJ-493",
+      "title": "进行了十轮猿猴式的性交-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-493"
+    },
+    {
+      "id": 88322,
+      "IDcode": "DVAJ-478",
+      "title": "人生最高のSEXをくれたワンナイト痴女と5年ぶりに再会 川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/192ce556eb270d75250636c5ac0e7dcb.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-478"
+    },
+    {
+      "id": 88079,
+      "IDcode": "MEYD-606",
+      "title": "欲求不満な人妻-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a8549d250bd9dce5f9b3d4fdf01987ee.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-606"
+    },
+    {
+      "id": 86088,
+      "IDcode": "ROYD-092",
+      "title": "超级淫荡的妹妹-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/233b60439c39b1c4c013a1d190b28946.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-092"
+    },
+    {
+      "id": 86084,
+      "IDcode": "SAME-001",
+      "title": "ATTACKERS引退女教師-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/57b848c335596c90d67707f7e72f72b4.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-001"
+    },
+    {
+      "id": 85625,
+      "IDcode": "MVSD-506",
+      "title": "爱妻的淫荡呻吟-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-10/3a41ef79214a743520c8e0112848c963.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-506"
+    },
+    {
+      "id": 84565,
+      "IDcode": "HMN-079",
+      "title": "我的朋友是色情明星-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/gcfGevmt.jpg",
+      "actress": [
+        "Qべぇ",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-079"
+    },
+    {
+      "id": 84368,
+      "IDcode": "DVAJ-552",
+      "title": "間家族旅行-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-552"
+    },
+    {
+      "id": 82526,
+      "IDcode": "DVAJ-449",
+      "title": "被窝里被他弟弟玩弄得湿透了-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "小田切ジュン",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-449"
+    },
+    {
+      "id": 82514,
+      "IDcode": "DVAJ-375",
+      "title": "错过末班车的前辈-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-375"
+    },
+    {
+      "id": 82512,
+      "IDcode": "DV-1620",
+      "title": "布卡克教室-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "鲛岛",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1620"
+    },
+    {
+      "id": 82511,
+      "IDcode": "DVAJ-227",
+      "title": "回馈性爱给粉丝-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-227"
+    },
+    {
+      "id": 82510,
+      "IDcode": "DVAJ-364",
+      "title": "同棲生活-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-364"
+    },
+    {
+      "id": 82498,
+      "IDcode": "DVAJ-354",
+      "title": "究极痴女-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-354"
+    },
+    {
+      "id": 82495,
+      "IDcode": "DVAJ-330",
+      "title": "我深爱的老公-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "田渊正浩",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-330"
+    },
+    {
+      "id": 81087,
+      "IDcode": "DVAJ-562",
+      "title": "私人教练的妹妹-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-562"
+    },
+    {
+      "id": 79876,
+      "IDcode": "DVAJ-537",
+      "title": "6轮的性爱-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/ffe3f12f80f18bd53eb74cbe955443d3.jpg",
+      "actress": [
+        "タイ",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-537"
+    },
+    {
+      "id": 78404,
+      "IDcode": "MEYD-552",
+      "title": "由于一夫多妻制实行我如愿以偿同时娶了喜欢的两个青梅竹马过上没羞没臊的同居内射逆3p生活",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ec029c8a7eaeb394b95954f6a9c069a0.jpg",
+      "actress": [
+        "希島愛理",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-552"
+    },
+    {
+      "id": 78397,
+      "IDcode": "JUY-780",
+      "title": "干到快要死般地高潮的人妻川上奈奈美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "http://p.155250718p.com/upload/vod/20241114-1/dbb78d1226b2486c1846d1593a560685.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-780"
+    },
+    {
+      "id": 78061,
+      "IDcode": "JUY-748",
+      "title": "跟一直憧憬的女上司合住过夜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "イセドン内村",
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-748"
+    },
+    {
+      "id": 76203,
+      "IDcode": "DVAJ-433",
+      "title": "上司に乳首ハラスメントされ続け、早漏イクイク敏感体質に仕込まれた女子社員 川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ALICE JAPAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/3e188d2466c7fc798e84820b5560e6fd.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-433"
     },
     {
       "id": 74543,
       "IDcode": "DVAJ-406",
-      "title": "生まれたての仔鹿みたいに脚ガックガク痙攣しまくり立ちバック性交 川上奈々美",
+      "title": "她就像一只新生的小鹿-川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2019-08-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250101-1/43841f79acd6f91e991dfac28d6a3ac7.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "鲛岛",
         "川上奈奈美"
@@ -556,18 +796,34 @@ window.actressData = {
     {
       "id": 74536,
       "IDcode": "DVAJ-401",
-      "title": "レイプ魔に襲われ間一髪で逃げ隠れたが、マ○コに塗られた媚薬が時間差で効きはじめて発情オナニーが止まらない！！ 川上奈々美",
+      "title": "当她被强奸犯袭击时-川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2019-07-13",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "川上奈奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-401"
+    },
+    {
+      "id": 74368,
+      "IDcode": "MEYD-498",
+      "title": "隔壁的高傲人妻-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/941f2fef1e62f0ff9d324109f207e2f4.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-498"
     },
     {
       "id": 74049,
@@ -576,121 +832,41 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-07-13",
-      "cover_url": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/9eedf690b580d92b213d261a9039f71b.jpg",
       "actress": [
         "川上奈奈美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-508"
     },
     {
-      "id": 74368,
-      "IDcode": "MEYD-498",
-      "title": "本番なしのマットヘルスに行って出てきたのは隣家の高慢な美人妻。弱みを握った僕は本番も中出しも強要！店外でも言いなりの性奴隷にした 川上奈々美",
+      "id": 74047,
+      "IDcode": "MEYD-527",
+      "title": "欲求不満な団地妻と孕ませオヤジの汗だ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-06-13",
-      "cover_url": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/f9bfe35d880536606e9a909f16a12526.jpg",
       "actress": [
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-498"
-    },
-    {
-      "id": 70737,
-      "IDcode": "DVAJ-395",
-      "title": "「好きです」工場勤務の地味めな女の子に告白されてOKしたら実はド淫乱で8発連続でヤられた話 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2019-06-13",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-395"
-    },
-    {
-      "id": 78397,
-      "IDcode": "JUY-780",
-      "title": "抱かれたくない男に死にたくなるほどイカされて… 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-03-07",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUY-780"
-    },
-    {
-      "id": 82514,
-      "IDcode": "DVAJ-375",
-      "title": "終電を逃したサークルの先輩が家に泊まっていくことになり…彼女のすっぴん顔がストライクすぎて手を出してしまった【メイク落としシーン収録】それからず～っとノーメイクでイチャイチャお泊まり生活 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2019-02-13",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-375"
-    },
-    {
-      "id": 82510,
-      "IDcode": "DVAJ-364",
-      "title": "エッチしてる時もしてない時もず～っと乳首を責めてくるエスちゃんとの乳首コリコリされっぱなし同棲生活 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2018-11-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/55168a21e436fc79271fa75e66a13588.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-364"
-    },
-    {
-      "id": 82498,
-      "IDcode": "DVAJ-354",
-      "title": "杭打ちピストン騎乗位で白く泡立った愛液まみれチ○ポをフェラしては再びマ○コに迎え入れるPtoMセックス 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ALICE JAPAN",
-      "publish_date": "2018-10-13",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-354"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-527"
     },
     {
       "id": 73330,
       "IDcode": "SHKD-813",
-      "title": "絶対レイプ リア充OL編 川上奈々美",
+      "title": "绝对服从的强奸OL篇",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-10-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "川上奈奈美"
@@ -698,149 +874,127 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-813"
     },
     {
-      "id": 106299,
-      "IDcode": "SHKD-809",
-      "title": "テニス部顧問教師 スコート越しの凌辱 川上奈々美",
+      "id": 70843,
+      "IDcode": "DVAJ-427",
+      "title": "明知我在偷窥她做爱却不为所动的嫂子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-09-07",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/17/09b57377/vod.jpg",
-      "actress": [
-        "川上奈奈美",
-        "インフィニティ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-809"
-    },
-    {
-      "id": 82495,
-      "IDcode": "DVAJ-330",
-      "title": "妻を誘拐したレイプ魔から届く12通のビデオレター 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2018-05-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3b2cba0a519e627cc38984f046dbefa4.jpg",
       "actress": [
-        "田渊正浩",
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-330"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-427"
     },
     {
-      "id": 88623,
-      "IDcode": "DVAJ-258",
-      "title": "女教師 in… ［脅迫套房］ 川上奈奈美",
+      "id": 70737,
+      "IDcode": "DVAJ-395",
+      "title": "女孩向工厂工人表白-川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2017-08-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/5cae91d86ba6af084a09fb8bfb75c04f.jpg",
       "actress": [
-        "森林原人",
-        "鲛岛",
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-258"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-395"
     },
     {
-      "id": 82511,
-      "IDcode": "DVAJ-227",
-      "title": "専属女優が神対応！あなたの自宅に突撃訪問。 川上奈々美",
+      "id": 70736,
+      "IDcode": "DVAJ-411",
+      "title": "被男优舔到怀孕人生-川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2017-04-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/9ada40c563fb85f08366e68f034b78e0.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8860aa4d8f2fb03ea075cb1ee019ef10.jpg",
       "actress": [
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-411"
     },
     {
-      "id": 99735,
-      "IDcode": "ADN-096",
-      "title": "あなたに愛されたくて。 川上奈々美",
+      "id": 70254,
+      "IDcode": "SHKD-878",
+      "title": "和学生同住一屋的人妻女教师川上奈奈美被半夜袭击暴力内射强奸",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2016-06-07",
-      "cover_url": "",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-096"
-    },
-    {
-      "id": 63210,
-      "IDcode": "RBD-751",
-      "title": "對受虐覺醒之女 川上奈奈美 蘆名由利亞",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2016-03-07",
-      "cover_url": "",
-      "actress": [
-        "芦名ユリア",
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-751"
-    },
-    {
-      "id": 99763,
-      "IDcode": "ADN-086",
-      "title": "あなた、許して…。-抱かれるための訪問2- 川上奈々美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2016-02-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/adn086/adn086pl.jpg",
-      "actress": [
-        "川上奈奈美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-086"
-    },
-    {
-      "id": 82512,
-      "IDcode": "DV-1620",
-      "title": "奈奈美先生的顏射教室 川上奈奈美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2014-04-11",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/e16745c76cbe68b389e7681a7a62efd8.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cc3208a6d2c6e9ab83df544e0855aa39.jpg",
       "actress": [
-        "鲛岛",
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1620"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-878"
+    },
+    {
+      "id": 69322,
+      "IDcode": "MEYD-561",
+      "title": "淫荡的傲娇嫂子-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f0446e30792ffa9b87af1243f84bffc0.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-561"
+    },
+    {
+      "id": 69248,
+      "IDcode": "MEYD-647",
+      "title": "射到怀孕为止- 川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2d5e546049aaeda4ac243af1065724d2.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-647"
+    },
+    {
+      "id": 68208,
+      "IDcode": "MEYD-638",
+      "title": "叔母-川上奈々美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f5ce866075189a076a5d2ec8a49c22c4.jpg",
+      "actress": [
+        "川上奈奈美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-638"
     },
     {
       "id": 66691,
       "IDcode": "DV-1366",
-      "title": "あなただけ見つめて ～同級生とお泊まりデート～ 川上奈々美",
+      "title": "与同学的过夜约会-川上奈々美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2012-03-09",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250502-1/40c9c2ab06b0ee57204d8f9c7670a376.jpg",
       "actress": [
         "川上奈奈美"
@@ -848,20 +1002,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DV-1366"
     },
     {
-      "id": 69322,
-      "IDcode": "MEYD-561",
-      "title": "- 兄の前では冷たいお義姉さんと実はセフレのツンデレ同居生活 川上奈々美 - JAV目錄大全javmenu.com",
+      "id": 63210,
+      "IDcode": "RBD-751",
+      "title": "抖M觉醒的女人-芦名尤莉亚",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
+      "type": "",
+      "company": "MUGEN",
       "publish_date": "",
       "cover_url": "",
       "actress": [
+        "芦名ユリア",
         "川上奈奈美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-561"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-751"
     }
   ]
 };

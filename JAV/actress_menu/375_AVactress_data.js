@@ -37,53 +37,341 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240517/a701166b-fe36-4c58-aaad-6b8c7269d4c6.jpg",
     "https://picture.yoshiclub.xyz/20240517/2cc918c5-a9ff-476e-970a-bc41b4f0a107.jpg"
   ],
-  "works_count": 11,
+  "works_count": 23,
   "related_dramas": [
     {
-      "id": 2386,
-      "IDcode": "SAN-391",
-      "title": "裸族の家庭~ 七原紗由",
+      "id": 5388,
+      "IDcode": "GMJK-024",
+      "title": "FUCK NIGHT PARTY 廃工場（秘）乱交パーティ 七原さゆ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213342625625_30689_thumbnail.webp",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "2025-06-18",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68adf55d682e2e9281a546e6/cover.jpg",
       "actress": [
         "七原紗由"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-391"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMJK-024"
     },
     {
-      "id": 4169,
-      "IDcode": "DAMX-012",
-      "title": "出差男士按摩偷拍第六彈 ~ 七原紗由 永野鈴 安藤春 宇佐美すい",
+      "id": 6954,
+      "IDcode": "NGHJ-006",
+      "title": "一發10萬！超猛腰扭騎乘位連續射精中出大挑戰！！澀谷中心街撿來的騎乘位王牌色ギャル，騎上生肉棒榨到蛋蛋空空！！ ~ 七原紗由 深月芽衣 宮西光 冰堂梨梨愛",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Dama",
-      "publish_date": "2025-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250723/20250723083213845845_37538_thumbnail.webp",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-04-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250409/4f42f89e-4afa-4f91-8fe4-435345355fbd.jpg",
       "actress": [
-        "永野鈴",
+        "宮西光",
         "七原紗由",
-        "宇佐美すい",
-        "安藤春"
+        "深月芽衣",
+        "冰堂梨梨愛"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAMX-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-006"
+    },
+    {
+      "id": 7297,
+      "IDcode": "JMTY-073",
+      "title": "免費炮友File24 29歲 和隨便的美人炮友瘋狂精飲和中出的記錄 ~ 七原紗由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-03-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250323/6b762cd2-7e0a-4b9a-9cb4-5039a1f09d04.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JMTY-073"
+    },
+    {
+      "id": 13925,
+      "IDcode": "PRWF-009",
+      "title": "真正的人妻在工作期間未經許可打電話、短時間祕密會議、口交、乳交、婚外性行爲 七原紗由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-06-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614025120298298.jpg",
+      "actress": [
+        "七原紗由",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRWF-009"
+    },
+    {
+      "id": 95412,
+      "IDcode": "KSBJ-339",
+      "title": "援助交際的媳婦跟公公-七原紗由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KSB企畫",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-339"
+    },
+    {
+      "id": 15435,
+      "IDcode": "PRWF-003",
+      "title": "肉感I罩杯人妻-七原紗由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412231314167167.jpg",
+      "actress": [
+        "七原紗由",
+        "森林原人",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRWF-003"
+    },
+    {
+      "id": 14652,
+      "IDcode": "PRWF-007",
+      "title": "真正的人妻性感开发-七原佐ゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517041644500500.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRWF-007"
+    },
+    {
+      "id": 12930,
+      "IDcode": "YMDD-397",
+      "title": "淫蕩溫泉頻道",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240804/20240804061248817817.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDD-397"
+    },
+    {
+      "id": 12237,
+      "IDcode": "NACR-849",
+      "title": "假裝喝醉直接吃下去-七原紗由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240905/8b4ad67e-b3c8-4353-9f49-446e8dfb6eec.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-849"
+    },
+    {
+      "id": 11698,
+      "IDcode": "HODV-21904",
+      "title": "S級風俗へようこそ 奇跡のIcup神乳スレンダーおっぱい 七原さゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/395c61341de998555f3d5bac0ebf5635.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21904"
+    },
+    {
+      "id": 10812,
+      "IDcode": "STSK-145",
+      "title": "「既婚者同士だから大丈夫だよ」女上司に誘惑され続ける相部屋温泉逆NTR【誘惑中出し営業研修】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241107/b8ada694-5f59-4f9e-b011-9d93309dcba7.jpg",
+      "actress": [
+        "小那海綾",
+        "清巳麗乃",
+        "七原紗由",
+        "潤うるる",
+        "向理来"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-145"
+    },
+    {
+      "id": 9958,
+      "IDcode": "VEC-674",
+      "title": "同学会上的双重外遇-七原さゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241213/6f9d82d6-b849-459e-b807-bee7fc42c756.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-674"
+    },
+    {
+      "id": 9241,
+      "IDcode": "VENZ-034",
+      "title": "昼ランチで行く会社近くのカフェで働くパート妻はエロ女神 七原さゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250110/d5f04b28-17c0-4cac-a1e3-5fc26dafdf10.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-034"
+    },
+    {
+      "id": 9004,
+      "IDcode": "DVMM-191",
+      "title": "牛乳を口に含んで→巨乳モミモミ→乳首こねくりイキ我慢！我慢出来たら100万円！イッたらデカチン即ハメ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250119/e1d00d54-11ca-418a-8f4e-1aef4bb68e30.jpg",
+      "actress": [
+        "柏木小夏",
+        "小坂ひまり",
+        "白石渚",
+        "七原紗由",
+        "羽月果音"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-191"
+    },
+    {
+      "id": 8203,
+      "IDcode": "PBD-488",
+      "title": "PREMIUM的絕頂開發激突強力性愛 57本番 Special 大合集 ~ AIKA JULIA 森澤佳奈 山岸逢花 篠田優 藤森裏穗等19位名女優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895d25555337d7f7ba499f8/cover.jpg",
+      "actress": [
+        "森澤佳奈",
+        "彌生美月",
+        "白峰美羽",
+        "藤森里穂",
+        "AIKA",
+        "JULIA",
+        "辻井穗乃果",
+        "楪可憐",
+        "尾崎惠梨香",
+        "西野絵美",
+        "篠田優",
+        "山岸逢花",
+        "妃光莉",
+        "竹内有紀",
+        "伊藤舞雪",
+        "七原紗由",
+        "長谷川夕奈",
+        "凑堇",
+        "日向真凛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-488"
+    },
+    {
+      "id": 7972,
+      "IDcode": "SAN-317",
+      "title": "スケベすぎる体でカウンセリングするエロメンタリスト 七原さゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250224/6c9e8017-6011-43d7-82e5-3f4a81dea692.jpg",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-317"
+    },
+    {
+      "id": 7254,
+      "IDcode": "GOHM-001",
+      "title": "为了金钱和刺激而申请私人拍摄的职业女性",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689abb5855337d7f7be48962/cover.jpg",
+      "actress": [
+        "水川潤",
+        "七原紗由",
+        "生田望美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-001"
+    },
+    {
+      "id": 7211,
+      "IDcode": "ATID-617",
+      "title": "黑人解禁BBP大黑阴茎沦陷的女秘书",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084529541541.jpg",
+      "actress": [
+        "七原紗由",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-617"
     },
     {
       "id": 6362,
       "IDcode": "MMPB-077",
-      "title": "這才是世界級！絕美細腰爆乳女優 放心吧腰細到爆 PART2 ~ 西野繪美 結城蘭 有岡美羽 黑川堇 長瀨麻美 夏希栗 百永紗里奈 君島美緒 七原紗由 春陽萌花",
+      "title": "これが世界基準！ 麗しのスレンダーボイン女優 安心してください、くびれてますよ PART2",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250507/20250507102823396396_thumbnail.webp",
       "actress": [
         "春陽萌花",
@@ -104,144 +392,71 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-077"
     },
     {
-      "id": 7211,
-      "IDcode": "ATID-617",
-      "title": "黑人初解禁 BBP 墮入巨黑肉棒的總裁祕書 ~ 七原紗由",
+      "id": 4870,
+      "IDcode": "LULU-384",
+      "title": "受不了姐姐的大屁股每次看见她的屁股我都忍不住射在上面-七原さゆ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327084529541541.jpg",
-      "actress": [
-        "七原紗由",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-617"
-    },
-    {
-      "id": 7254,
-      "IDcode": "GOHM-001",
-      "title": "爲了錢和刺激自願拍片的OL真實性愛紀錄【不道德小學老師】【爆乳祕書】【潮水噴滿身祕書】超色美女三人組",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250326/a6689119-d755-4389-990b-a70508b5039d.jpg",
-      "actress": [
-        "水川潤",
-        "七原紗由",
-        "生田望美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOHM-001"
-    },
-    {
-      "id": 7972,
-      "IDcode": "SAN-317",
-      "title": "色情心理諮詢師用淫蕩的身體治愈患者 ~ 七原紗由",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250224/6c9e8017-6011-43d7-82e5-3f4a81dea692.jpg",
+      "type": "",
+      "company": "LUNATICS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b3ffa98bc99dfddd613ef/cover.jpg",
       "actress": [
         "七原紗由"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-317"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-384"
     },
     {
-      "id": 9004,
-      "IDcode": "DVMM-191",
-      "title": "魔鏡號！顏出MM號 女子大學生限定 嘴裏要含着奶不能露出 成功就能贏100萬日元~！否則就會被大雞巴操！ ~ 七原紗由 柏木小夏 小阪ひまり 白石なぎさ 羽月果音",
+      "id": 4169,
+      "IDcode": "DAMX-012",
+      "title": "出張メンズエステ（秘）撮影VOL.6",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-01-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20250119/e1d00d54-11ca-418a-8f4e-1aef4bb68e30.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250727-1/befdcc536c72848e8f8ad0aa5d7b5e3d.jpg",
       "actress": [
-        "柏木小夏",
-        "小坂ひまり",
-        "白石渚",
+        "永野鈴",
         "七原紗由",
-        "羽月果音"
+        "宇佐美すい",
+        "安藤春"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-191"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAMX-012"
     },
     {
-      "id": 9958,
-      "IDcode": "VEC-674",
-      "title": "同學聚會上W不倫 十多年來再次見到前女友，她變爲了美熟女 ，一遍又一遍地吮吸成熟人妻的身體 ~ 七原紗由",
+      "id": 2911,
+      "IDcode": "BNST-082",
+      "title": "プッシャーズ さゆ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241213/6f9d82d6-b849-459e-b807-bee7fc42c756.jpg",
-      "actress": [
-        "七原紗由"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-674"
-    },
-    {
-      "id": 10812,
-      "IDcode": "STSK-145",
-      "title": "「沒關系，因爲我們要結婚了」 被女上司不斷誘惑的同房溫泉逆NTR【誘惑中出營銷研修】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/b8ada694-5f59-4f9e-b011-9d93309dcba7.jpg",
-      "actress": [
-        "小那海綾",
-        "清巳麗乃",
-        "七原紗由",
-        "潤うるる",
-        "向理来"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-145"
-    },
-    {
-      "id": 13925,
-      "IDcode": "PRWF-009",
-      "title": "真正的人妻在工作期間未經許可打電話、短時間祕密會議、口交、乳交、婚外性行爲 七原紗由",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2024-06-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614025120298298.jpg",
-      "actress": [
-        "七原紗由",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRWF-009"
-    },
-    {
-      "id": 14652,
-      "IDcode": "PRWF-007",
-      "title": "巨乳人妻初體驗玩3遍理智崩潰",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2024-05-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517041644500500.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c55880d6fbef4e90a9187f/cover.jpg",
       "actress": [
         "七原紗由"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRWF-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNST-082"
+    },
+    {
+      "id": 2386,
+      "IDcode": "SAN-391",
+      "title": "裸族の家庭 七原さゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "七原紗由"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-391"
     }
   ]
 };

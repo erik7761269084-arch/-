@@ -4,7 +4,7 @@ window.actressData = {
   "name": "アンバー・カワイ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2025-06-24",
-      "cover_url": "https://tutu1.space/images/2025/06/23/68bb5bc1b0234d7b4c20bb21f6362728.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "アンバー・カワイ"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "水无瀬怜奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,26 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 98554,
+      "IDcode": "RCTD-248",
+      "title": "TSFふたなり教師びんびん夏物語",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "2019-07-25",
+      "cover_url": "",
+      "actress": [
+        "持田栞里",
+        "桥本丽华",
+        "水无瀬怜奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-248"
+    },
     {
       "id": 77343,
       "IDcode": "HOKS-022",
@@ -25,9 +43,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FAプロ",
-      "publish_date": "2019-04-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "汐河佳奈",
@@ -43,10 +61,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250219-1/6dcddc6b160e262f9d60fc3098d80362.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d5ccb68778a7355d29e203b901a38724.jpg",
       "actress": [
         "枝川结衣",
         "水无瀬怜奈",

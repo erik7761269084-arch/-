@@ -49,10 +49,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2016-07-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221209-1/3a4bd0836e295c1313b9716e2572792c.jpg",
+      "cover_url": "",
       "actress": [
         "石川しずか",
         "柴咲ゆうり",

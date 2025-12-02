@@ -4,7 +4,7 @@ window.actressData = {
   "name": "えれな",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 70610,
       "IDcode": "MEAD-011",
-      "title": "【FANZA限定】ハニカミ笑顔と愛情たっぷりのお弁当屋さんが美巨乳尻を全開！潮吹き絶頂中出しAVデビュー えれな 生写真付き",
+      "title": "美巨乳屁股全開-莉乃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2025-03-19",
-      "cover_url": "https://tutu1.space/images/2025/03/23/853cbc81d87f315c0512b62c1392cf3d.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d843ced6fbef4e90ccddf2/cover.jpg",
       "actress": [
         "小田切ジュン",
         "えれな"

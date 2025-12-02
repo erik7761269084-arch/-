@@ -72,7 +72,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250828/20250828103353434434_61458_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250828/20250828103353784784_29601_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 81820,
@@ -81,10 +81,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2020-01-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/5949a11b70a8b7d0c176890844ba256f.jpg",
       "actress": [
         "塚田詩織",
         "西村ニーナ",
@@ -93,6 +93,22 @@ window.actressData = {
         "可爱まゆ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMB-284"
+    },
+    {
+      "id": 158541,
+      "IDcode": "10MUSUME-071123_01",
+      "title": "高額報酬のお仕事にチャレンジ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250217/YisZSde7/1.jpg",
+      "actress": [
+        "大城かえで"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=10MUSUME-071123_01"
     }
   ]
 };

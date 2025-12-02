@@ -22,35 +22,84 @@ window.actressData = {
     "Kitano Nozomi"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 106207,
-      "IDcode": "ABP-450",
-      "title": "ボクを好き過ぎるボクだけの北野のぞみ",
+      "id": 99942,
+      "IDcode": "ABP-400",
+      "title": "彼女のお姉さんは、誘惑ヤリたがり娘。 北野のぞみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-03-11",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-12-01",
+      "cover_url": "http://15.155250922.com/upload/vod/20221020/118abp00400pl.jpg",
+      "actress": [
+        "北野望"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-400"
+    },
+    {
+      "id": 97676,
+      "IDcode": "ABP-254",
+      "title": "美しいお嬢様の卑猥なる飼育 北野のぞみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-02-03",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp254/118abp254pl.jpg",
+      "actress": [
+        "北野望"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-254"
+    },
+    {
+      "id": 106207,
+      "IDcode": "ABP-450",
+      "title": "只属于我的女朋友-北野望",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240109-1/07f2cee0adef65e5a0fc2753b606a212.jpg",
       "actress": [
         "北野望"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-450"
     },
     {
-      "id": 97292,
-      "IDcode": "CHN-059",
-      "title": "新・絶対的美少女、お貸しします。 ACT.32 北野のぞみ",
+      "id": 102756,
+      "IDcode": "WAT-011",
+      "title": "NEWWATERPOLE北野望",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "南佳也",
+        "北野望"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WAT-011"
+    },
+    {
+      "id": 97292,
+      "IDcode": "CHN-059",
+      "title": "绝对的美少女租借-北野望",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "",
-      "publish_date": "2015-01-01",
-      "cover_url": "https://tutu1.space/images/2023/09/27/30bba5697fc04507b6d07e431ba8e6fe.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "北野望"
       ],
@@ -59,14 +108,14 @@ window.actressData = {
     {
       "id": 78920,
       "IDcode": "ABP-369",
-      "title": "- 北野のぞみドッキリSP 専属女優・北野のぞみを即ハメドッキリでイカせちゃいます！！ - JAV目錄大全javmenu.com",
+      "title": "被性交弄得精疲力竭-北野のぞみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://tutu1.space/images/2021/08/09/2213c98b94c180720de6976a16062de7.jpg",
       "actress": [
         "しみけん",
         "北野望"

@@ -38,18 +38,36 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/8-KiraKira/美空あやか.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/w-Attackers/AI-Fix-一ノ瀬アメリ.jpg"
   ],
-  "works_count": 4,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 97958,
-      "IDcode": "ATID-183",
-      "title": "捜查官，直到墮落為止…一之瀬亞美莉",
+      "id": 104678,
+      "IDcode": "RBD-283",
+      "title": "把模特姐妹和潜伏的教师送上奴隶的舞台",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2011-09-07",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "一ノ瀬アメリ",
+        "新井爱丽",
+        "雫パイン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-283"
+    },
+    {
+      "id": 97958,
+      "IDcode": "ATID-183",
+      "title": "为了解救女性被监禁拘束的检察官-一ノ瀬アメリ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "一ノ瀬アメリ"
@@ -57,52 +75,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-183"
     },
     {
-      "id": 1940,
-      "IDcode": "MKBD-S03",
-      "title": "KIRARI 03 : 一之瀨亞美莉 (HD)",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2011-08-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/7f6e76c7-777c-4689-b887-d3cf83634f38.webp",
-      "actress": [
-        "一ノ瀬アメリ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S03"
-    },
-    {
       "id": 1998,
       "IDcode": "CWPBD-46",
-      "title": "時裝表演毒藥 46 : 一之瀨亞美莉 (HD)",
+      "title": "猫步毒药-濑亚美莉",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2011-07-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/20230121033308531531.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "一ノ瀬アメリ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-46"
-    },
-    {
-      "id": 19601,
-      "IDcode": "IPTD-607",
-      "title": "一之瀨亞美莉的深吻與性愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2010-07-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230407/aaaeee15-7062-40fd-a135-71f2235ba666.jpg",
-      "actress": [
-        "一ノ瀬アメリ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-607"
     }
   ]
 };

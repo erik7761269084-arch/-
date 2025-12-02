@@ -36,7 +36,7 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/y-溜池ゴロー/AI-Fix-新山沙弥.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
       "id": 79784,
@@ -45,14 +45,84 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
       "publish_date": "2016-06-07",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/45a69f7bdb3f31c68ed1b2a7d18cddd9.jpg",
       "actress": [
         "新山沙弥"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-778"
+    },
+    {
+      "id": 102862,
+      "IDcode": "SSPD-125",
+      "title": "女王様凌辱戦争 JACKAL ANOTHER NIGHT～仁義なき狼藉の宴～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-03-07",
+      "cover_url": "https://sex8sex811.com/20250627/yRDFnksU/1.jpg",
+      "actress": [
+        "波多野结衣",
+        "大槻响",
+        "新山沙弥",
+        "若槻シェルビー"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSPD-125"
+    },
+    {
+      "id": 98988,
+      "IDcode": "BBAN-054",
+      "title": "人妻を虜にする 寸止め淫語レズビアン 新山沙弥 大槻ひびき",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-09-07",
+      "cover_url": "",
+      "actress": [
+        "大槻响",
+        "新山沙弥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-054"
+    },
+    {
+      "id": 99680,
+      "IDcode": "DANDY-430",
+      "title": "「『おばさんを興奮させてどうするの？』久しぶりに若くて硬い少年チ●ポを見て欲情した巨乳淑女の汗だく反応を見逃すな！」VOL.3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-06-06",
+      "cover_url": "",
+      "actress": [
+        "新山沙弥",
+        "本庄瞳",
+        "上条つかさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DANDY-430"
+    },
+    {
+      "id": 103028,
+      "IDcode": "HBAD-260",
+      "title": "脆弱的寡妇-新山沙弥",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HIBINO",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1hbad260/1hbad260pl.jpg",
+      "actress": [
+        "新山沙弥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-260"
     },
     {
       "id": 87946,
@@ -61,63 +131,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
-      "publish_date": "2016-05-13",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "新山沙弥",
         "梦実あくび"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-330"
-    },
-    {
-      "id": 1815,
-      "IDcode": "MKBD-S103",
-      "title": "KIRARI 103 沙彌是你老婆 : 新山沙彌",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2015-07-27",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/7dfed89c-1353-4ebf-bd34-73280b2c66e0.webp",
-      "actress": [
-        "新山沙弥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S103"
-    },
-    {
-      "id": 1834,
-      "IDcode": "SMBD-129",
-      "title": "S Model 129 共有少女 : 新山沙彌",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2015-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/83478c9f-feaf-4845-9eb3-1cb80a9e1429.webp",
-      "actress": [
-        "新山沙弥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-129"
-    },
-    {
-      "id": 103028,
-      "IDcode": "HBAD-260",
-      "title": "辱めに濡れてしまう儚い未亡人の下半身極太がねじり込まれ声を殺して感じる 新山沙弥",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HIBINO",
-      "publish_date": "2014-08-07",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1hbad260/1hbad260pl.jpg",
-      "actress": [
-        "新山沙弥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HBAD-260"
     }
   ]
 };

@@ -51,23 +51,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230210/44204602-f788-4a34-927b-5451878b64af.jpg",
     "https://picture.yoshiclub.xyz/20230210/360cc610-76d9-41e2-b449-41bb0e64e02e.jpg"
   ],
-  "works_count": 6,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 1379,
-      "IDcode": "HEYZO-2710",
-      "title": "丈夫借錢不還那只能那巨乳妻肉償了",
+      "id": 1260,
+      "IDcode": "HEYZO-2471",
+      "title": "與自慰到溼透的女孩絶頂性交Vol.14",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2022-02-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230714/20230714223756226226.jpg",
+      "publish_date": "2021-03-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20230907/20230907001137658658.jpg",
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2710"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2471"
+    },
+    {
+      "id": 1241,
+      "IDcode": "HEYZO-2425",
+      "title": "想要做愛！欲求不滿的人妻～累積很久了！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2020-12-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20230910/20230910213341858858.jpg",
+      "actress": [
+        "江波亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2425"
     },
     {
       "id": 1118,
@@ -76,7 +92,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2017-11-07",
       "cover_url": "https://picture.yoshiclub.xyz/20231113/20231113232513698698.jpg",
@@ -86,27 +102,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1606"
     },
     {
-      "id": 1531,
-      "IDcode": "SKYHD-108",
-      "title": "SKY HIGH熟女經典 Vol.3 : 橫山美玲, 波多野結衣, 鈴木里美, 江波Ryu, 總計18名",
+      "id": 1017,
+      "IDcode": "HEYZO-1419",
+      "title": "下班6點後 ～性感全開OL女郎的欲望～ - 江波亮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2015-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20230506/3ccf5601-55f8-4dc9-ae08-101fa14f763b.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-03-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118020811829829.jpg",
       "actress": [
-        "波多野结衣",
-        "江波亮",
-        "铃木里美",
-        "横山みれい",
-        "羽生ありさ",
-        "本多成実",
-        "菅原奈緒美",
-        "若林美保"
+        "江波亮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-108"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1419"
     },
     {
       "id": 408,
@@ -115,7 +124,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
       "publish_date": "2013-12-15",
       "cover_url": "https://picture.yoshiclub.xyz/20250210/9c78b842-2850-480e-a70e-7dd91614579e.jpg",
@@ -125,36 +134,116 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0481"
     },
     {
-      "id": 1882,
-      "IDcode": "SKYHD-115",
-      "title": "天空天使藍 Vol.112 江波龍",
+      "id": 159170,
+      "IDcode": "CARIB-080723-001",
+      "title": "ネトラレ 〜盗撮されてハメられた兄嫁〜",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-10-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/230ec941-ba8c-4ef3-a295-f32631bdc39d.webp",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/6ZQi0YN6/1.jpg",
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-115"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-080723-001"
     },
     {
-      "id": 1887,
-      "IDcode": "SKYHD-107",
-      "title": "天空天使藍 Vol.107 江波龍",
+      "id": 158936,
+      "IDcode": "HEYZO-3400",
+      "title": "夫には言えない背徳妻の卑猥な秘密Vol.17 –",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/Fs0Yrs4P/1.jpg",
+      "actress": [
+        "江波亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3400"
+    },
+    {
+      "id": 158806,
+      "IDcode": "HEYZO-3123",
+      "title": "男の夢！ウハウハ逆3P！！Vol.10",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/L3WMYrhN/1.jpg",
+      "actress": [
+        "江波亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3123"
+    },
+    {
+      "id": 158185,
+      "IDcode": "1PONDO-081923_001",
+      "title": "成績の上がるエッチな実践授業",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2013-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20230210/52026c8b-6e60-4049-8c79-25f454c7d71e.webp",
+      "company": "一本道",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250218/yz4SALNv/1.jpg",
       "actress": [
         "江波亮"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-107"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=1PONDO-081923_001"
+    },
+    {
+      "id": 59117,
+      "IDcode": "HEYZO-3282",
+      "title": "娘のためなら咥えます！～悪徳教師に弄ばれる母親～ - 江波りゅう",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683f9d2d41a147ed1a5127f5/cover.jpg",
+      "actress": [
+        "江波亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3282"
+    },
+    {
+      "id": 1424,
+      "IDcode": "HEYZO-2766",
+      "title": "RyuEnamiEnamiRyu极难的3孔责备第2卷",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68881bb5c92318f97dfa38bf/cover.jpg",
+      "actress": [
+        "江波亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2766"
+    },
+    {
+      "id": 1379,
+      "IDcode": "HEYZO-2710",
+      "title": "RyuEnamiEnamiRyu一个丰满的妻子以丈夫的债务形式被搞砸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250207-1/9bb4e4758593285545f2cd71b3a50801.jpg",
+      "actress": [
+        "江波亮"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2710"
     }
   ]
 };

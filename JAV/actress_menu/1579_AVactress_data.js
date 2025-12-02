@@ -34,34 +34,18 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/AI-Fix-春日由衣.jpg"
   ],
-  "works_count": 2,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 2015,
-      "IDcode": "MKBD-S50",
-      "title": "KIRARI 50 ～名媛人妻的淫亂生活～ : 春日由衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2013-05-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230131/17cb7ac7-1caf-4981-a81e-6186daaebd41.webp",
-      "actress": [
-        "春日由衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKBD-S50"
-    },
     {
       "id": 2038,
       "IDcode": "CWPBD-78",
-      "title": "CATWALK POISON 78 春日由衣之JAPORN初降臨 徹底高潮中出本番：春日由衣",
+      "title": "春日由衣のJAPORN初降臨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-02-14",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230121/a05c81bf-3bc1-4227-b43a-b311f6866fb1.webp",
       "actress": [
         "春日由衣"

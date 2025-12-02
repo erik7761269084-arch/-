@@ -48,164 +48,151 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231010/5d7ecd45-8f31-4601-863b-053495c550d2.jpg",
     "https://picture.yoshiclub.xyz/20231010/e97def8b-d6aa-4a45-8ff3-3b4864a844c0.jpg"
   ],
-  "works_count": 13,
+  "works_count": 24,
   "related_dramas": [
     {
-      "id": 3841,
-      "IDcode": "MDON-080",
-      "title": "獨家配信 熟女天後真實自拍大片 MADOOOON 眼鏡誘惑 ~ 一乃葵",
+      "id": 16654,
+      "IDcode": "JUQ-511",
+      "title": "片廠Madonna成立20周年紀念！ 全世界最奢華紀念之作！巨大的狂歡感謝祭 無限量的中出内射！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-08-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101733284284_25892_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-01-30",
+      "cover_url": "https://picture.yoshiclub.xyz/20240121/20240121090720147147.jpg",
+      "actress": [
+        "葉山小百合",
+        "栗山莉緒",
+        "椎名由奈",
+        "竹内有紀",
+        "向井藍",
+        "愛弓涼",
+        "沖宮那美",
+        "多田有花",
+        "一乃葵",
+        "風間由美",
+        "水户香奈",
+        "白石茉莉奈",
+        "藤環奈",
+        "木下凜々子",
+        "上羽絢",
+        "流川はる香",
+        "水野優香",
+        "一色桃子",
+        "大島優香",
+        "佐田茉莉子",
+        "友田真希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-511"
+    },
+    {
+      "id": 18400,
+      "IDcode": "JUQ-387",
+      "title": "曝光外表貞潔，內裡淫蕩的妻子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-10-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20231009/20231009003542188188.jpg",
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-080"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-387"
     },
     {
-      "id": 4745,
-      "IDcode": "JUR-364",
-      "title": "逃亡途中被絕倫大叔藏匿，破舊公寓裡罪惡女囚的7天激烈纏綿 ~ 一乃葵",
+      "id": 91820,
+      "IDcode": "JUQ-590",
+      "title": "人妻嗑药中出-一乃あおい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703063313692692_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a0f55ddb8c77d79bb51a06/cover.jpg",
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-364"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-590"
     },
     {
-      "id": 5531,
-      "IDcode": "JUR-332",
-      "title": "曾經暗戀我的地味青梅竹馬搖身一變成了性感巨乳人妻，忍不住瘋狂輸出到筋疲力盡 ~ 一乃葵",
+      "id": 17896,
+      "IDcode": "JUQ-411",
+      "title": "奉獻我的處男之身-一乃葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/2025060504073777_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231112/93ef2a89-bf59-4090-a348-1839ebcc84e9.jpg",
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-332"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-411"
     },
     {
-      "id": 6309,
-      "IDcode": "JUR-309",
-      "title": "女教師NTR 不良學生寢取了我最愛的妻子 ~ 一乃葵",
+      "id": 17332,
+      "IDcode": "JUQ-452",
+      "title": "忌妒心儀巨乳姊姊-一乃あおい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-05-09",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508063627504504_thumbnail.webp",
-      "actress": [
-        "一乃葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-309"
-    },
-    {
-      "id": 7038,
-      "IDcode": "JUR-226",
-      "title": "汗水噴涌，理性崩飛—— 爽到浮空彈跳的盛夏大抽搐蝦背不倫SEX ~ 一乃葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093603880880.jpg",
-      "actress": [
-        "一乃葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-226"
-    },
-    {
-      "id": 7701,
-      "IDcode": "JUR-188",
-      "title": "W祕書和M男社長雙飛榨精日程塞滿到爆 ~ 一乃葵 上羽絢",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-03-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/20250305124108305305.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/09/68bf7731735bb663f775192c/cover.jpg",
       "actress": [
         "一乃葵",
-        "上羽絢",
-        "大岛丈"
+        "日森一"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-188"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-452"
     },
     {
-      "id": 8486,
-      "IDcode": "JUR-140",
-      "title": "尺寸不重要，愛才是最重要的... 妻子雖然這麼說，但是看到朋友的大雞巴插入她陰道後她瘋狂的淫叫後... ~ 一乃葵",
+      "id": 16869,
+      "IDcode": "JUQ-480",
+      "title": "游泳部顾问-一乃葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-02-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080157954954.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106061655786786.jpg",
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-140"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-480"
     },
     {
-      "id": 9190,
-      "IDcode": "JUR-175",
-      "title": "兒媳的吸乳誘惑。 兒子的妻子在房子裏走來走去，看上去毫無防備…… ~ 一乃葵",
+      "id": 15569,
+      "IDcode": "JUQ-635",
+      "title": "束縛，束縛，釋放，禁止：透過麻繩喚醒受虐狂 從那天起，為了我的丈夫……我被捆綁，被戲弄，變成了肉奴。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250109/20250109080510372372.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a248aac813dc779d9609f/cover.jpg",
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-175"
-    },
-    {
-      "id": 10801,
-      "IDcode": "JUQ-924",
-      "title": "誘惑牙科診所！巨乳家庭主婦牙科保健員每月1回的強制性交檢查 ~ 一乃葵",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-11-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241107/202411070832367575.jpg",
-      "actress": [
-        "一乃葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-924"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-635"
     },
     {
       "id": 14851,
       "IDcode": "JUQ-640",
-      "title": "酒吧人妻NTR ，人妻對突然蜂擁而至的男人着迷。一乃葵",
+      "title": "人妻NTR-一乃葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-05-14",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20240510/20240510023018910910.jpg",
       "actress": [
         "一乃葵",
@@ -215,53 +202,265 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-640"
     },
     {
-      "id": 16869,
-      "IDcode": "JUQ-480",
-      "title": "遊泳部顧問一乃葵老師每天被迫成爲不良學生的中出的寵物……",
+      "id": 14140,
+      "IDcode": "JUQ-714",
+      "title": "我无法让我的妻子活下去-一乃あおい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2024-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106061655786786.jpg",
-      "actress": [
-        "一乃葵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-480"
-    },
-    {
-      "id": 17332,
-      "IDcode": "JUQ-452",
-      "title": "復仇NTR 我所仰慕的姐姐，曾經告訴我她愛我，現在卻嫁給了另一個男人",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20231210/1888f191-4a7b-4e5a-bca8-af8aeb34d293.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a174dac813dc779d96006/cover.jpg",
       "actress": [
         "一乃葵",
-        "日森一"
+        "輝大"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-452"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-714"
     },
     {
-      "id": 17896,
-      "IDcode": "JUQ-411",
-      "title": "處男第一次來東京卻將自己的童貞交給了一個網路上認識的人妻",
+      "id": 13521,
+      "IDcode": "JUQ-722",
+      "title": "收到短信后直到老公回家-一乃あおい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231112/93ef2a89-bf59-4090-a348-1839ebcc84e9.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/a75de798aaeb867a886935ca0003b5a6.jpg",
       "actress": [
         "一乃葵"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-411"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-722"
+    },
+    {
+      "id": 12772,
+      "IDcode": "JUQ-786",
+      "title": "只是一瞬间也好让我插入吧-一乃葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/0ecfe72fdbf2e54448c308010f4225bc.jpg",
+      "actress": [
+        "一乃葵",
+        "Qべぇ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-786"
+    },
+    {
+      "id": 12180,
+      "IDcode": "JUQ-853",
+      "title": "都沉溺和人妻的爱巢SEX-一乃葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240906/20240906064907148148.jpg",
+      "actress": [
+        "一乃葵",
+        "左慈半造"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-853"
+    },
+    {
+      "id": 11518,
+      "IDcode": "JUQ-883",
+      "title": "逆向PtoM性交-一乃あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/6ef48caa4e7d40db4c00c9cab17b0565.jpg",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-883"
+    },
+    {
+      "id": 10801,
+      "IDcode": "JUQ-924",
+      "title": "每月一次的强制性生插入检查-一乃あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/af4fd6b1ae3f71c49716eaa270962d35.jpg",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-924"
+    },
+    {
+      "id": 10098,
+      "IDcode": "JUQ-973",
+      "title": "让她进入满是变态男的男浴室-一乃葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787a042478d611da7751973/cover.jpg",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUQ-973"
+    },
+    {
+      "id": 9190,
+      "IDcode": "JUR-175",
+      "title": "岳父岳母的吸奶诱惑-一乃あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68beb186ce3e366423d45e48/cover.jpg",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-175"
+    },
+    {
+      "id": 8486,
+      "IDcode": "JUR-140",
+      "title": "大并不一定就好哦-一乃あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250206/20250206080157954954.jpg",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-140"
+    },
+    {
+      "id": 7701,
+      "IDcode": "JUR-188",
+      "title": "W秘书严密安排过度压榨超级抖M社长",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/06/67f271144e7d663df48f06f4/cover.jpg",
+      "actress": [
+        "一乃葵",
+        "上羽絢",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-188"
+    },
+    {
+      "id": 7038,
+      "IDcode": "JUR-226",
+      "title": "理智崩溃――在盛夏中高潮抽搐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250403/20250403093603880880.jpg",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-226"
+    },
+    {
+      "id": 6309,
+      "IDcode": "JUR-309",
+      "title": "教师老婆跟坏学生出轨了-一乃葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/20250508063627504504_thumbnail.webp",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-309"
+    },
+    {
+      "id": 5531,
+      "IDcode": "JUR-332",
+      "title": "昔日土气青梅竹马今日性感巨乳人妻-一乃葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/2025060504073777_thumbnail.webp",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-332"
+    },
+    {
+      "id": 4745,
+      "IDcode": "JUR-364",
+      "title": "女囚犯被一名性欲旺盛的中年男子藏在公寓里-一乃あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703063313692692_thumbnail.webp",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-364"
+    },
+    {
+      "id": 3841,
+      "IDcode": "MDON-080",
+      "title": "配信限定 マドンナ専属女優の『リアル』ハメ撮り。 MADOOOON！！一乃あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-080"
+    },
+    {
+      "id": 2997,
+      "IDcode": "JUR-439",
+      "title": "羞耻的打桩机授精按压按摩-一乃あおい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904020937507507_39219_thumbnail.webp",
+      "actress": [
+        "一乃葵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-439"
     }
   ]
 };

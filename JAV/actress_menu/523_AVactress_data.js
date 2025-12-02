@@ -28,18 +28,277 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20230930/126da289-9eed-4b59-a6fc-bb3036543685.jpg"
   ],
-  "works_count": 9,
+  "works_count": 17,
   "related_dramas": [
     {
-      "id": 9534,
-      "IDcode": "MIZD-424",
-      "title": "子宮突擊，大力操到馬上就要高潮的狀態下不斷的追擊 BEST 3",
+      "id": 107544,
+      "IDcode": "MIDV-437",
+      "title": "完美配合的超级大肉棒-小栗美优",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2024-12-31",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/11/6820971a197cffa350f872c1/cover.jpg",
+      "actress": [
+        "小栗美優",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-437"
+    },
+    {
+      "id": 92310,
+      "IDcode": "MIDV-410",
+      "title": "光是接吻就梆硬到一击颜射-小栗美由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/3e3ef3f0b0d680186fd2be769f6a49ae.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-410"
+    },
+    {
+      "id": 67864,
+      "IDcode": "MIDV-223",
+      "title": "美少女-小栗みゆ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-7/fc24437ef2fbddb29de5aa4d63605a56.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-223"
+    },
+    {
+      "id": 18519,
+      "IDcode": "MIDV-466",
+      "title": "妻子回老家的三天 和苗条继女做了一辈子的爱 小栗美优",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/644e10a17773091e06734d3eb04f5e06.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-466"
+    },
+    {
+      "id": 18038,
+      "IDcode": "MIDV-495",
+      "title": "初次中出性交-小栗美由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/2f5bbb06318955b41a3096810fb0d70f.jpg",
+      "actress": [
+        "小栗美優",
+        "吉村卓",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-495"
+    },
+    {
+      "id": 17489,
+      "IDcode": "MIDV-525",
+      "title": "苗條身材-小栗美優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/bb3ca5aa72a6c955a49ba27074258144.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-525"
+    },
+    {
+      "id": 17018,
+      "IDcode": "MIDV-554",
+      "title": "被游泳部部员轮奸-小栗美由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787ebd1c179ffb1db907e78/cover.jpg",
+      "actress": [
+        "小栗美優",
+        "大村",
+        "輝大"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-554"
+    },
+    {
+      "id": 16411,
+      "IDcode": "SAME-093",
+      "title": "被鬼畜義父肏到怀孕的美少女  小栗美优",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787dadaf9a2e9b1d4a5302e/cover.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-093"
+    },
+    {
+      "id": 15968,
+      "IDcode": "SAME-097",
+      "title": "被学生们支配的教育实习生-小栗美由",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302084431475475.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-097"
+    },
+    {
+      "id": 15738,
+      "IDcode": "SAME-102",
+      "title": "把新交的女朋友介紹給爸爸-小栗美優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787c10d2a47ebb1a8b4c7d3/cover.jpg",
+      "actress": [
+        "小栗美優",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-102"
+    },
+    {
+      "id": 15010,
+      "IDcode": "SAME-108",
+      "title": "被强制和性骚扰顾问教师共处一室",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787af872a47ebb1a8b49c41/cover.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-108"
+    },
+    {
+      "id": 14295,
+      "IDcode": "ATID-600",
+      "title": "被打工处的中年店长全身舔舐的女大学生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531030516539539.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATID-600"
+    },
+    {
+      "id": 13671,
+      "IDcode": "ADN-576",
+      "title": "我的妻子懷孕了，所以我無法抗拒一個女學生的誘惑，她還是赤身裸體地勾引我。小慄美優",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68db0356d6fbef4e90d26b4d/cover.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-576"
+    },
+    {
+      "id": 12989,
+      "IDcode": "SAME-120",
+      "title": "小看她长大的美少女-小栗美优",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678791fb2a47ebb1a8b452ba/cover.jpg",
+      "actress": [
+        "小栗美優"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-120"
+    },
+    {
+      "id": 10268,
+      "IDcode": "MIZD-420",
+      "title": "痴●レ×プにあった13名のJ系たちー逃げ場のない電車で絶頂させられた被害記録ー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/27/742fb955/vod.jpg",
+      "actress": [
+        "倉本菫",
+        "松本一香",
+        "七泽美亚",
+        "石原希望",
+        "宮下玲奈",
+        "小野六花",
+        "石川澪",
+        "水卜櫻",
+        "月雲夜",
+        "繪戀空",
+        "小栗美優",
+        "河合結衣",
+        "志田雪奈",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
+    },
+    {
+      "id": 9534,
+      "IDcode": "MIZD-424",
+      "title": "子宮をグイグイ突きまくり「もうイッてるってばぁ！」状態で追撃突き上げピストンBEST3",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241228/20241228041647399399.jpg",
       "actress": [
         "森澤佳奈",
@@ -72,150 +331,30 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-424"
     },
     {
-      "id": 10268,
-      "IDcode": "MIZD-420",
-      "title": "13個J系精選絕美女優的癡漢電車大合輯，在電車上被操到高潮而無法逃脫的被害記錄",
+      "id": 2712,
+      "IDcode": "MIZD-482",
+      "title": "悪徳マッサージ師のオイリーハンドテクで焦らしに焦らされのけ反りアクメしてしまった私…BEST",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128091744365365.jpg",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/7cdb5d2e/vod.jpg",
       "actress": [
-        "倉本菫",
-        "松本一香",
+        "天馬唯",
+        "白石桃",
+        "佐山爱",
         "七泽美亚",
-        "石原希望",
         "宮下玲奈",
-        "小野六花",
-        "石川澪",
-        "水卜櫻",
-        "月雲夜",
-        "繪戀空",
+        "葵伊吹",
+        "望月綾香",
+        "千川とわ",
         "小栗美優",
-        "河合結衣",
-        "志田雪奈",
-        "安倍亜沙美"
+        "佐久良咲希",
+        "三咲美憂"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-420"
-    },
-    {
-      "id": 17018,
-      "IDcode": "MIDV-554",
-      "title": "我敬佩的學長小慄美優，被遊泳社的混蛋輪奸了……",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2024-01-02",
-      "cover_url": "https://picture.yoshiclub.xyz/20231230/20231230015222593593.jpg",
-      "actress": [
-        "小栗美優",
-        "大村",
-        "輝大"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-554"
-    },
-    {
-      "id": 17489,
-      "IDcode": "MIDV-525",
-      "title": "身材曲線超讚的J型少女，被人在美容院誘騙後，操了",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-12-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20231202/0b5f6e64-4c62-4725-82d8-3ab50205637f.jpg",
-      "actress": [
-        "小栗美優"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-525"
-    },
-    {
-      "id": 18038,
-      "IDcode": "MIDV-495",
-      "title": "解除禁令：人生第一次中出性愛",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20231104/e2c89b1a-21fe-46e8-b0e1-987c28fa6e7f.jpg",
-      "actress": [
-        "小栗美優",
-        "吉村卓",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-495"
-    },
-    {
-      "id": 18519,
-      "IDcode": "MIDV-466",
-      "title": "我的繼女身材苗條，從小乳頭上翹 當我妻子離家的3天 我從早到晚操她",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-10-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230930/7f888da4-cdbd-4d4d-940d-96cc18398bc0.jpg",
-      "actress": [
-        "小栗美優"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-466"
-    },
-    {
-      "id": 107544,
-      "IDcode": "MIDV-437",
-      "title": "大嫌いな研究室のセクハラ教授が相性抜群の絶倫デカチンだったなんて… ～相部屋NTRにキメセク堕ちしたリケジョの性～ 小栗みゆ （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-08-01",
-      "cover_url": "https://tutu1.space/images/2023/08/26/ef6614b99a9c9040484ca2c7f3200cc4.jpg",
-      "actress": [
-        "小栗美優",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-437"
-    },
-    {
-      "id": 92310,
-      "IDcode": "MIDV-410",
-      "title": "キスしてタマ舐め竿パックンで一撃顔射！ リケジョ家庭教師みゆ先生のチンしゃぶペロペロご褒美 小栗みゆ （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-07-04",
-      "cover_url": "",
-      "actress": [
-        "小栗美優"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-410"
-    },
-    {
-      "id": 67864,
-      "IDcode": "MIDV-223",
-      "title": "新人 專屬 20歳 看起來像這樣、經驗人數一人就讀名門私大的理系美少女蠻腰女神AV出道 小栗美優",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2022-11-01",
-      "cover_url": "",
-      "actress": [
-        "小栗美優"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDV-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-482"
     }
   ]
 };

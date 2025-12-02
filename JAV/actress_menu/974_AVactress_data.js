@@ -37,34 +37,66 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250301/6fc15c7c-f254-4219-9b9b-d4b550e29cad.jpg"
   ],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 4956,
-      "IDcode": "MIDA-223",
-      "title": "老婆回娘家三天，巨乳繼女正嫩被我狠狠幹了個夠 ~ 小泉渚",
+      "id": 7854,
+      "IDcode": "MIDA-096",
+      "title": "新人 小泉なぎさ 完璧なカラダAVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-06-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032158452452_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227070712289289.jpg",
       "actress": [
         "小泉渚"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-223"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-096"
+    },
+    {
+      "id": 7232,
+      "IDcode": "MIDA-114",
+      "title": "完美身材的高知女大学生-小泉なぎさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083752990990.jpg",
+      "actress": [
+        "小泉渚"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-114"
+    },
+    {
+      "id": 6445,
+      "IDcode": "MIDA-149",
+      "title": "いいなり巨乳全裸授業 Gカップ女教師が淫乱覚醒した羞恥講座 小泉なぎさ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc56145f13d063bcd387db/cover.jpg",
+      "actress": [
+        "小泉渚"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-149"
     },
     {
       "id": 5740,
       "IDcode": "MIDA-187",
-      "title": "潮・汗・涎 油光滑膩按摩爽到全身大・痙・攣 ~ 小泉渚",
+      "title": "潮・汗・涎・マン汁ダラダラ爆濡れオイルマッサージ エビ反り体液ブッシャーFUCKで大・痙・攣 小泉なぎさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-30",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529172018496496_thumbnail.webp",
       "actress": [
         "小泉渚",
@@ -73,52 +105,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-187"
     },
     {
-      "id": 6445,
-      "IDcode": "MIDA-149",
-      "title": "順從娘巨乳全裸授課 G杯女教師羞恥覺醒的淫亂課堂 ~ 小泉渚",
+      "id": 4956,
+      "IDcode": "MIDA-223",
+      "title": "妻子回老家3天把發育成熟正到可以吃的巨乳繼女-小泉凪紗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/202505010422518181_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626032158452452_thumbnail.webp",
       "actress": [
         "小泉渚"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-223"
     },
     {
-      "id": 7232,
-      "IDcode": "MIDA-114",
-      "title": "完美身材的才女大學生！極致高潮3場硬戰 快感開發！弓背狂彎！追擊活塞高潮轟炸！ ~ 小泉渚",
+      "id": 3385,
+      "IDcode": "FOCS-267",
+      "title": "H90cm以上 巨尻Tバックが無防備に誘惑！兄嫁の家事しながらピタパン・はみパンに我慢限界でNTR尻ぶっかけSEX 小泉なぎさ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250327/20250327083752990990.jpg",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821035455336336_13124_thumbnail.webp",
       "actress": [
         "小泉渚"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-114"
-    },
-    {
-      "id": 7854,
-      "IDcode": "MIDA-096",
-      "title": "新人出道！完美身材 首次亮相 AV DEBUT ~ 小泉渚",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227070712289289.jpg",
-      "actress": [
-        "小泉渚"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-096"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-267"
     }
   ]
 };

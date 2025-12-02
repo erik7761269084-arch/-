@@ -31,37 +31,626 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20240116/be3cf3d9-da23-429d-883b-152d805635da.jpg"
   ],
-  "works_count": 21,
+  "works_count": 39,
   "related_dramas": [
     {
-      "id": 2578,
-      "IDcode": "PIYO-211",
-      "title": "禁忌小嫩妹被媚藥迷倒後，被極惡大雞巴狠狠鬼畜調教 特別篇第七彈 ~ 乙羽あむ 日向ひかげ 廣瀬好美 市川りく",
+      "id": 13746,
+      "IDcode": "VOBB-041",
+      "title": "一個男人面對2個美少女 沙月惠奈 日向ひかげ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Hiyoko",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250920/20250920051414415415_82713_thumbnail.webp",
+      "type": "",
+      "company": "BOTAN",
+      "publish_date": "2024-07-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624024025251251.jpg",
+      "actress": [
+        "沙月惠奈",
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOBB-041"
+    },
+    {
+      "id": 14576,
+      "IDcode": "VOBB-040",
+      "title": "「IKASE Howto」性感男優的實踐技術教學SP ~ 乙愛麗絲 日向ひかげ 由良佳奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BOTAN",
+      "publish_date": "2024-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519214352410410.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "由良佳奈",
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOBB-040"
+    },
+    {
+      "id": 14994,
+      "IDcode": "VOTAN-096",
+      "title": "我變成了只能看到雞巴的透明人，兩個偶像，天使日向ひかげ和魔鬼円井萌華把我強奸了！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505022206942942.jpg",
+      "actress": [
+        "日向ひかげ",
+        "円井萌華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOTAN-096"
+    },
+    {
+      "id": 94459,
+      "IDcode": "SQSG-004",
+      "title": "『ねぇ、ホテル行きたい』セフレ以上、恋人未満。 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "2024-05-22",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241027-1/bed281c6cb0db703f0765306dd2dfff9.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQSG-004"
+    },
+    {
+      "id": 14972,
+      "IDcode": "KHIP-022",
+      "title": "我無法抗拒網球俱樂部女孩,,侄女的大屁股，撲向她並直接操她，沉迷於年輕女孩！ ！一次又一次地射精。日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-05-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240505/390beb9a-ed4c-41df-9e63-29640a8d73fd.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KHIP-022"
+    },
+    {
+      "id": 15198,
+      "IDcode": "VOTAN-088",
+      "title": "AV拍攝後臺的無限耐力訓練！我絕對不會輸給你的！ ~ 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-05-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421083738989989.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOTAN-088"
+    },
+    {
+      "id": 16076,
+      "IDcode": "ROYD-164",
+      "title": "我姐姐是挨操包！ ？手淫讓我感覺我被迫控制自己，以及我射出精液和體內射精的生活。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "2024-02-27",
+      "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054535717717.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-164"
+    },
+    {
+      "id": 16202,
+      "IDcode": "MUKC-045",
+      "title": "沉迷於性愛的美少女們的校外狂歡。體內射精，沾滿果汁，高潮淫液",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2024-02-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218080436891891.jpg",
+      "actress": [
+        "前田美波",
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKC-045"
+    },
+    {
+      "id": 88711,
+      "IDcode": "XVSR-729",
+      "title": "【FANZA限定】MGC ACT.4 MAX GIRLS COLLECTION 2023 日向ひかげ、百永さりな、本田瞳、沙月恵奈 特典セット",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "2023-10-11",
+      "cover_url": "https://tuaskbgnekr.com/20240912/AbySPgGs/1.jpg",
+      "actress": [
+        "沙月惠奈",
+        "本田瞳",
+        "日向ひかげ",
+        "黑川纱里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-729"
+    },
+    {
+      "id": 89439,
+      "IDcode": "SVSHA-013",
+      "title": "羞恥！おい！ちゅきちゅきピースしろよ！ 男尊リベンジャーズ！踏みにじられる初心・好き勝手される下半身！ミスったら即全裸に？かれる‘きまZ’学園生活、大丈夫そ？",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-08-10",
+      "cover_url": "https://tuaskbgnekr.com/20240720/AX6APGNe/1.jpg",
+      "actress": [
+        "雅子裡菜",
+        "日向ひかげ",
+        "藤田梢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-013"
+    },
+    {
+      "id": 89435,
+      "IDcode": "SVVRT-025",
+      "title": "素人バラエティ 街行く女子○校生がおま○こ丸出し拘束されたまま何度もイカされ絶頂潮吹き！人生初の快感に火照りが止まらない素人娘はデカチンを見せつけられると連続生中出しも拒めない！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2023-08-10",
+      "cover_url": "https://tuaskbgnekr.com/20240805/JE1hyuYD/1.jpg",
+      "actress": [
+        "日向ひかげ",
+        "市井結夏"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-025"
+    },
+    {
+      "id": 89120,
+      "IDcode": "VOTAN-054",
+      "title": "【調教HowTo無垢っこ】近所の清楚な無垢っこと初めての緊縛SMごっこしてたら発情しちゃって従順マゾペットになるまで滅茶苦茶SEX調教した ＃日向ひかげ＃繊細な天才＃POV特化＃赤縄＃ゴーグルなしでもVR気分【POV】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2023-07-07",
+      "cover_url": "https://tuaskbgnekr.com/20240906/xmuiw1Vy/1.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOTAN-054"
+    },
+    {
+      "id": 85657,
+      "IDcode": "MUDR-203",
+      "title": "想被喉頭開發的超苗條美少女讓她從順超M校內調教 支配口腔憧憬強迫口交的少女被大肉棒抽插到喉頭發出聲音… 日向日景",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2022-10-18",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2e65acb917a8c54a48c4b3a208bddbad.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-203"
+    },
+    {
+      "id": 104160,
+      "IDcode": "MUDR-200",
+      "title": "【FANZA限定】絶頂を知った日、私は大人になった 天然少女 無垢専属 AV DEBUT 日向ひかげ 生写真3枚付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2022-08-17",
+      "cover_url": "",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-200"
+    },
+    {
+      "id": 101703,
+      "IDcode": "MILK-203",
+      "title": "社交平台上看到的病娇女被侵犯的性交记录",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILK",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240413-1/b7b2bb05a64f43a2eae35e45ae0467a3.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MILK-203"
+    },
+    {
+      "id": 93337,
+      "IDcode": "NAMH-010",
+      "title": "感度変態の貪欲マゾ娘ちゃん 本物真正中出し解禁10発 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241012-1/b7dc5ea22a35464f66765a73d423db1c.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-010"
+    },
+    {
+      "id": 90863,
+      "IDcode": "BF-682",
+      "title": "妻子不在时-日向日景",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Baby Entertainment",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682851295d899f636104377d/cover.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-682"
+    },
+    {
+      "id": 77588,
+      "IDcode": "MIAA-814",
+      "title": "吞精中出-日向日景",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/3743a3b1bac9812af8e8f3514c8ce878.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-814"
+    },
+    {
+      "id": 67832,
+      "IDcode": "YMDS-126",
+      "title": "恋爱中的家庭-日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20230812/ymds126pl.jpg!320x216.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-126"
+    },
+    {
+      "id": 16740,
+      "IDcode": "MUKD-498",
+      "title": "只有我們兩個人知道，沒有人知道的祕密。日影和陸雙女同發布",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677ce1bf89def9b1b8bebea8/cover.jpg",
       "actress": [
         "市川りく",
-        "日向ひかげ",
-        "乙羽あむ",
-        "廣瀬好美"
+        "日向ひかげ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-211"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-498"
+    },
+    {
+      "id": 16250,
+      "IDcode": "MIRD-236",
+      "title": "会场里唯一的男",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240313-1/356e1958131430082a0cd33a359ede89.jpg",
+      "actress": [
+        "都月楓",
+        "前田美波",
+        "天晴乃愛",
+        "小松杏",
+        "市川りく",
+        "日向ひかげ",
+        "須崎美羽",
+        "源川ゆずな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-236"
+    },
+    {
+      "id": 12587,
+      "IDcode": "MUDR-269",
+      "title": "自從那天起... 制服美少女就在束縛調教中被中出 ~ 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67895f4f5d57b64bfd9bcfc2/cover.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-269"
+    },
+    {
+      "id": 9877,
+      "IDcode": "MUDR-295",
+      "title": "純粋無垢な制服美少女 日向ひかげ アナル解禁 肛門処女喪失",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787d5635d57b64bfd0fa07a/cover.jpg",
+      "actress": [
+        "日向ひかげ",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-295"
+    },
+    {
+      "id": 9700,
+      "IDcode": "MISM-357",
+      "title": "アイドル☆すろーと！エヅキわんだふる！終末デスイラマ蹂躙曾 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "えむっ娘ラボ",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678907005d57b64bfd98ceb0/cover.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MISM-357"
+    },
+    {
+      "id": 9581,
+      "IDcode": "NEO-922",
+      "title": "溺死在唾液和淫水中 ~ 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "RADIX",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787bee45d57b64bfd03f468/cover.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEO-922"
+    },
+    {
+      "id": 9525,
+      "IDcode": "FTHTD-075",
+      "title": "××の教典 堕ちた水泳部員たち～冷酷なサイコパス～ ライトノベルの実写化",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO TUBE",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "皆月光",
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FTHTD-075"
+    },
+    {
+      "id": 9170,
+      "IDcode": "APNS-361",
+      "title": "令嬢調教 懐妊までの地獄の30日間 終わらない種付け、肉棒中毒に堕ちた清純娘 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb3f5a4e7d663df4a10202/cover.jpg",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-361"
+    },
+    {
+      "id": 7125,
+      "IDcode": "XVSR-808",
+      "title": "超絶丁寧に舐め上げ口内発射で搾り取る！THEごっくんフェラ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250330/15d5b524-8cb8-48fc-8833-19a28c1fb330.jpg",
+      "actress": [
+        "友田彩也香",
+        "松井日奈子",
+        "西野絵美",
+        "白石渚",
+        "日向ひかげ",
+        "菜月光",
+        "二宮桃",
+        "神村彩月",
+        "夏巳百合香",
+        "橋本理佐"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-808"
+    },
+    {
+      "id": 4891,
+      "IDcode": "XVSR-825",
+      "title": "新撮接写アングル 極-kiwame-中出し騎乘位 腰使いを極めたエロ女子新作150分！PART2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628101209497497_thumbnail.webp",
+      "actress": [
+        "友田彩也香",
+        "松井日奈子",
+        "西野絵美",
+        "白石渚",
+        "日向ひかげ",
+        "菜月光",
+        "二宮桃",
+        "神村彩月",
+        "夏巳百合香",
+        "橋本理佐"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-825"
+    },
+    {
+      "id": 4805,
+      "IDcode": "HUNTC-233",
+      "title": "怎麼這麼硬了？惡霸女同學把我這處男給調教得服服帖帖！ ~ 藍瀬ミナ 雫月心桜 皆瀨明裏 日向ひかげ 真白みのり 市川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae52e5682e2e9281a54afe/cover.jpg",
+      "actress": [
+        "皆瀨明里",
+        "市川りく",
+        "日向ひかげ",
+        "雫月心桜",
+        "真白みのり",
+        "藍瀬ミナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
+    },
+    {
+      "id": 4574,
+      "IDcode": "BONY-151",
+      "title": "一人暮らしの美女を狙う鬼畜レ〇プ集団自宅押込み中出し性交 屈辱肉便器編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250714-1/7ef36cabd0fe44f7582084108bd5bc35.jpg",
+      "actress": [
+        "前田美波",
+        "日向ひかげ",
+        "西村礼奈",
+        "泉あや"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-151"
+    },
+    {
+      "id": 3677,
+      "IDcode": "CMN-256",
+      "title": "婚礼直前二泊三日の熱望不倫飼育 琥珀やや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "CineMagic",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CMN-256"
+    },
+    {
+      "id": 3670,
+      "IDcode": "GAJK-026",
+      "title": "蔵の中で緊縛調教される女子校生 衝撃の田舎村女学生拉致誘拐事件！！ 監禁と縄と蝋燭と鞭と凌●3P輪● 琥珀やや",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLOBAL MEDIA ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013342440440_83797_thumbnail.webp",
+      "actress": [
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAJK-026"
+    },
+    {
+      "id": 3517,
+      "IDcode": "MUCD-336",
+      "title": "無垢な女の子のイラマチオ とってもくるしくてきもちぃ4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "倉本菫",
+        "皆瀨明里",
+        "東條夏",
+        "響乃詩",
+        "逢月日葵",
+        "花狩舞",
+        "有加里乃乃花",
+        "雅子裡菜",
+        "日向ひかげ",
+        "日泉舞香",
+        "久和原聖羅",
+        "天乃のあ",
+        "高瀬りな",
+        "広瀬みつき",
+        "東雲梓",
+        "笠木いちか",
+        "橘ひなの",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
     },
     {
       "id": 3085,
       "IDcode": "MMPB-091",
-      "title": "全員中出！剛毛女優4小時大合輯 ~ 永野鈴 倉本堇 岡本莉裏 日向光影 沙月文乃 天晴乃愛 浜邊栞帆 寶生芽衣",
+      "title": "全員中出し！フサフサの毛に絡みつく白濁液！漆黒のマン毛ボーボー女優",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-08-29",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831054658434434_55793_thumbnail.webp",
       "actress": [
         "倉本菫",
@@ -78,13 +667,13 @@ window.actressData = {
     {
       "id": 3077,
       "IDcode": "MMPB-092",
-      "title": "電震狂潮！高潮噴水不止！微醺女優陷入失神快感沼澤 ~ 柊有希 美波梢 花衣つばき 児玉れな 长濑麻美 白石桃 末広純 彌生美月 水川潤 推川悠里 浜崎真緒 一条美緒 日向ひかげ 三岳祐奈",
+      "title": "激震電マ！クリ潮絶頂！ほろ酔い女優が沼った失神アクメ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "桃太郎映像出版",
-      "publish_date": "2025-08-29",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831210123861861_32037_thumbnail.webp",
       "actress": [
         "彌生美月",
@@ -110,342 +699,93 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMPB-092"
     },
     {
-      "id": 3517,
-      "IDcode": "MUCD-336",
-      "title": "純情少女的深喉調教 又痛又爽的4小時大合集 ~ 倉本菫 東條夏 笠木いちか 東雲梓 久和原聖羅 天乃のあ 響乃詩 逢月日葵 皆瀨明里 有加里乃乃花 広瀬みつき 花狩舞 日向ひかげ 橘ひなの 日泉舞香 雅子裡菜",
+      "id": 2747,
+      "IDcode": "MUCD-337",
+      "title": "制服を脱がせると、そこにあったのはちっぱいでした。発育途中のぺたんこ少女達とナイショ性交BEST4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040540261261_67540_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250911/20250911022548633633_85292_thumbnail.webp",
       "actress": [
         "倉本菫",
-        "皆瀨明里",
-        "東條夏",
-        "響乃詩",
-        "逢月日葵",
-        "花狩舞",
-        "有加里乃乃花",
-        "雅子裡菜",
+        "松本一香",
+        "皆月光",
+        "由良佳奈",
+        "渚光希",
+        "希咲那奈",
+        "伊織雛乃",
         "日向ひかげ",
         "日泉舞香",
-        "久和原聖羅",
-        "天乃のあ",
-        "高瀬りな",
-        "広瀬みつき",
-        "東雲梓",
-        "笠木いちか",
-        "橘ひなの",
-        "安倍亜沙美"
+        "工藤拉拉",
+        "木野香織",
+        "市川花音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-337"
     },
     {
-      "id": 4574,
-      "IDcode": "BONY-151",
-      "title": "獨居美女成獵物！鬼畜強暴團夥闖家門中出凌辱 肉便器屈辱篇 ~ 前田美波 泉あや 日向ひかげ 西村禮奈",
+      "id": 2713,
+      "IDcode": "MIZD-483",
+      "title": "スケベ女子たちに囲まれ挟まれベロも耳も乳首もチ○ポも玉も同時にこねくられ射精されまくったボクベスト",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709032014762762_27701_thumbnail.webp",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/0a09c1a7/vod.jpg",
       "actress": [
+        "美園和花",
+        "天馬唯",
+        "都月楓",
+        "彌生美月",
+        "椿莉香",
+        "沙月惠奈",
+        "木下日葵",
+        "春陽萌花",
+        "吉根柚莉爱",
+        "姫咲華",
+        "田中寧寧",
+        "AIKA",
+        "有村希",
         "前田美波",
-        "日向ひかげ",
-        "西村礼奈",
-        "泉あや"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-151"
-    },
-    {
-      "id": 4891,
-      "IDcode": "XVSR-825",
-      "title": "全新近距離特寫 極致中出騎乘位 腰肢騷技爆棚的色氣小姐姐新作150分鐘 PART2 ~ 友田彩也香 二宮桃 菜月光 白石渚 西野絵美 松井日奈子 夏巳百合香 日向ひかげ 神村彩月",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250628/20250628101209497497_thumbnail.webp",
-      "actress": [
-        "友田彩也香",
-        "松井日奈子",
-        "西野絵美",
-        "白石渚",
-        "日向ひかげ",
-        "菜月光",
-        "二宮桃",
-        "神村彩月",
-        "夏巳百合香",
-        "橋本理佐"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-825"
-    },
-    {
-      "id": 4805,
-      "IDcode": "HUNTC-233",
-      "title": "怎麼這麼硬了？惡霸女同學把我這處男給調教得服服帖帖！ ~ 藍瀬ミナ 雫月心桜 皆瀨明裏 日向ひかげ 真白みのり 市川りく",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092038592592_thumbnail.webp",
-      "actress": [
-        "皆瀨明里",
+        "宍戸里帆",
+        "辻井穗乃果",
+        "冬愛琴音",
+        "天晴乃愛",
+        "小松杏",
+        "逢見梨花",
         "市川りく",
         "日向ひかげ",
-        "雫月心桜",
-        "真白みのり",
-        "藍瀬ミナ"
+        "瀬那瑠美奈",
+        "滝ゆいな",
+        "鳳可怜",
+        "堤芹奈",
+        "須崎美羽",
+        "源川ゆずな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-233"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-483"
     },
     {
-      "id": 7125,
-      "IDcode": "XVSR-808",
-      "title": "超級淫亂口爆榨精大合集",
+      "id": 2578,
+      "IDcode": "PIYO-211",
+      "title": "絶対に手を出してはいけないひよこ女子に媚薬まみれの極悪チ○コで鬼イラマチオ。そして… その漆 （7）特別編！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2025-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20250330/15d5b524-8cb8-48fc-8833-19a28c1fb330.jpg",
+      "type": "",
+      "company": "Hiyoko",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1822731a2714f1c1faf90/cover.jpg",
       "actress": [
-        "友田彩也香",
-        "松井日奈子",
-        "西野絵美",
-        "白石渚",
+        "市川りく",
         "日向ひかげ",
-        "菜月光",
-        "二宮桃",
-        "神村彩月",
-        "夏巳百合香",
-        "橋本理佐"
+        "乙羽あむ",
+        "廣瀬好美"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-808"
-    },
-    {
-      "id": 9170,
-      "IDcode": "APNS-361",
-      "title": "令娘調教 - 被輪奸的地獄30天 -肉棒中毒清純娘，無休止的輪奸！請將精液全部射進去...... ~ 日向ひかげ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-01-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20250113/1569f44b-ebd5-4e31-8285-2b4987f99cd5.jpg",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-361"
-    },
-    {
-      "id": 9877,
-      "IDcode": "MUDR-295",
-      "title": "肛交解禁！純粹無垢的JK女孩肛門處女喪失 ~ 日向ひかげ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073816650650.jpg",
-      "actress": [
-        "日向ひかげ",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-295"
-    },
-    {
-      "id": 93337,
-      "IDcode": "NAMH-010",
-      "title": "感度変態の貪欲マゾ娘ちゃん 本物真正中出し解禁10発 日向ひかげ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-09-12",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241011-1/f910130232a2ba4b323afdb52c04d34b.jpg",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NAMH-010"
-    },
-    {
-      "id": 12587,
-      "IDcode": "MUDR-269",
-      "title": "自從那天起... 制服美少女就在束縛調教中被中出 ~ 日向ひかげ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-08-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816003719166166.jpg",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-269"
-    },
-    {
-      "id": 94459,
-      "IDcode": "SQSG-004",
-      "title": "『ねぇ、ホテル行きたい』セフレ以上、恋人未満。 日向ひかげ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S-CUTE",
-      "publish_date": "2024-05-22",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241027-1/bed281c6cb0db703f0765306dd2dfff9.jpg",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQSG-004"
-    },
-    {
-      "id": 88711,
-      "IDcode": "XVSR-729",
-      "title": "【FANZA限定】MGC ACT.4 MAX GIRLS COLLECTION 2023 日向ひかげ、百永さりな、本田瞳、沙月恵奈 特典セット",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2023-10-11",
-      "cover_url": "",
-      "actress": [
-        "沙月惠奈",
-        "本田瞳",
-        "日向ひかげ",
-        "黑川纱里奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-729"
-    },
-    {
-      "id": 89439,
-      "IDcode": "SVSHA-013",
-      "title": "羞恥！おい！ちゅきちゅきピースしろよ！ 男尊リベンジャーズ！踏みにじられる初心・好き勝手される下半身！ミスったら即全裸に？かれる‘きまZ’学園生活、大丈夫そ？",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2023-08-10",
-      "cover_url": "",
-      "actress": [
-        "雅子裡菜",
-        "日向ひかげ",
-        "藤田梢"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVSHA-013"
-    },
-    {
-      "id": 89435,
-      "IDcode": "SVVRT-025",
-      "title": "素人バラエティ 街行く女子○校生がおま○こ丸出し拘束されたまま何度もイカされ絶頂潮吹き！人生初の快感に火照りが止まらない素人娘はデカチンを見せつけられると連続生中出しも拒めない！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
-      "publish_date": "2023-08-10",
-      "cover_url": "",
-      "actress": [
-        "日向ひかげ",
-        "市井結夏"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVVRT-025"
-    },
-    {
-      "id": 89120,
-      "IDcode": "VOTAN-054",
-      "title": "【調教HowTo無垢っこ】近所の清楚な無垢っこと初めての緊縛SMごっこしてたら発情しちゃって従順マゾペットになるまで滅茶苦茶SEX調教した ＃日向ひかげ＃繊細な天才＃POV特化＃赤縄＃ゴーグルなしでもVR気分【POV】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BOTAN",
-      "publish_date": "2023-07-07",
-      "cover_url": "",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOTAN-054"
-    },
-    {
-      "id": 77588,
-      "IDcode": "MIAA-814",
-      "title": "【FANZA限定】僕の都合の良い精子ごっくん中出しイイナリ下級生 今にも泣きだしそうなキミにごっくんさせたい。 日向ひかげ 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2023-04-19",
-      "cover_url": "https://tutu1.space/images/2023/05/09/b87c9befd9913d9d36dfd488a245ed17.jpg",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-814"
-    },
-    {
-      "id": 90863,
-      "IDcode": "BF-682",
-      "title": "妻が不在の間、連れ子に誘惑されて中出ししてしまった僕。 日向ひかげ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Baby Entertainment",
-      "publish_date": "2023-03-31",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240223-1/ffaf6809a10d3b6deabfb2ef70309cf6.jpg",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BF-682"
-    },
-    {
-      "id": 67832,
-      "IDcode": "YMDS-126",
-      "title": "YMDS-126",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-02-04",
-      "cover_url": "",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-126"
-    },
-    {
-      "id": 85657,
-      "IDcode": "MUDR-203",
-      "title": "想被喉頭開發的超苗條美少女讓她從順超M校內調教 支配口腔憧憬強迫口交的少女被大肉棒抽插到喉頭發出聲音… 日向日景",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2022-10-18",
-      "cover_url": "",
-      "actress": [
-        "日向ひかげ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-203"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PIYO-211"
     }
   ]
 };

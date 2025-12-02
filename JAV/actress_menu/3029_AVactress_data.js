@@ -22,25 +22,39 @@ window.actressData = {
     "Matsuoka China"
   ],
   "gallery": [],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 35634,
-      "IDcode": "STAR-616",
-      "title": "请给笨手笨脚又色情的松冈千菜来点色色的惩罚吧",
+      "id": 101970,
+      "IDcode": "STAR-685",
+      "title": "松岡ちな 絶頂地獄 敏感痙攣100イキ 巨根17，572ピストン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SOD",
-      "publish_date": "2025-06-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-06-09",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/1star685/1star685pl.jpg",
       "actress": [
-        "森林原人",
-        "田渊正浩",
         "松冈千菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-616"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-685"
+    },
+    {
+      "id": 107099,
+      "IDcode": "STAR-587",
+      "title": "超高级新人泡泡浴小姐-松冈千菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "松冈千菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-587"
     },
     {
       "id": 73459,
@@ -49,30 +63,32 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2015-09-10",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250127-1/f7d7a9fbb812159f1c94e369d19be61d.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1065e48516f99e8c6e0e6be30ff1a9fa.jpg",
       "actress": [
         "松冈千菜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-622"
     },
     {
-      "id": 107099,
-      "IDcode": "STAR-587",
-      "title": "松岡千菜 超高級新人泡泡浴女郎",
+      "id": 35634,
+      "IDcode": "STAR-616",
+      "title": "请给笨手笨脚又色情的松冈千菜来点色色的惩罚吧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2015-03-05",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
+        "森林原人",
+        "田渊正浩",
         "松冈千菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-587"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STAR-616"
     }
   ]
 };

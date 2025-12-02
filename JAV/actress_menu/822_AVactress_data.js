@@ -39,34 +39,69 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241129/9f34edd7-6d68-4c5b-9de2-65778b7812dd.jpg",
     "https://picture.yoshiclub.xyz/20241129/7eee2491-d1df-4104-8834-877cd14e2f9b.jpg"
   ],
-  "works_count": 3,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2585,
-      "IDcode": "FOCS-273",
-      "title": "低身長美少女的性冷淡改善治療 M屬性徹底喚活！貧乳乳首，首絞，口爆，大潮吹施術！無毛小穴被中出內射大高潮！ ～ 三葉彌生",
+      "id": 4865,
+      "IDcode": "HRSM-102",
+      "title": "汗流浹背桑拿妹 被迫中出整頓身心 ~ 小野阪唯香 三葉彌生 小日向める 望月蕾",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051627649649_22022_s.webp",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006585585_thumbnail.webp",
+      "actress": [
+        "望月蕾",
+        "小野坂唯香",
+        "三葉彌生",
+        "小日向める"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-102"
+    },
+    {
+      "id": 75293,
+      "IDcode": "CAWD-787",
+      "title": "泣かされるほど追い込まれたい…仄暗いヤリ部屋で骨の髄まで蹂躙マゾ調教 三葉やよい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c71f5d57b64bfd0ed8d5/cover.jpg",
       "actress": [
         "三葉彌生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-273"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-787"
+    },
+    {
+      "id": 10292,
+      "IDcode": "CAWD-774",
+      "title": "痛みや苦しみの中にしか存在意義を見出せないkawaii史上類を見ないアブノーマルな女の子 この子、こう見えてド変態なマゾ AVデビュー 三葉やよい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128084354842842.jpg",
+      "actress": [
+        "三葉彌生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-774"
     },
     {
       "id": 6384,
       "IDcode": "SDJS-315",
-      "title": "電自慰棒連續潮吹實驗：陰道刺激到崩潰會怎樣？SOD女子社員6人參加測試到小穴徹底決堤！明明不想高潮身體卻不受控地抽搐求歡 SOD性科學實驗室報告 REPORT 19 ~ 相月菜緒 八森若菜 清巳麗乃 三葉彌生 雨宮あや花 遠山まき",
+      "title": "固定電マ連続お漏らし実験「膣がバグるほど刺激し続けたら？」をSOD女子社員6名が真面目に検証してみた結果オマ○コ決壊！もう限界でイキたくないはずなのにカラダが気持ち良くなろうと勝手に動いてヒクつきワギナ過剰快楽懇願 SOD性科学ラボREPORT19",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-05-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250505/20250505224119765765_thumbnail.webp",
       "actress": [
         "清巳麗乃",
@@ -85,20 +120,55 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-315"
     },
     {
-      "id": 75293,
-      "IDcode": "CAWD-787",
-      "title": "泣かされるほど追い込まれたい…仄暗いヤリ部屋で骨の髄まで蹂躙マゾ調教 三葉やよい",
+      "id": 4570,
+      "IDcode": "COSX-088",
+      "title": "キレカワでヤれちゃう！？パイパンムッツリスケベレイヤーやよいちゃんと中出しSEX！先生、中出しですか？お任せください。",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2025-01-07",
+      "type": "",
+      "company": "Kospaco 叔叔",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "三葉彌生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-787"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=COSX-088"
+    },
+    {
+      "id": 2585,
+      "IDcode": "FOCS-273",
+      "title": "矮个子美少女的性冷淡改善M性感按摩院-三葉やよい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918051627649649_22022_thumbnail.webp",
+      "actress": [
+        "三葉彌生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-273"
+    },
+    {
+      "id": 2438,
+      "IDcode": "HRSM-113",
+      "title": "スマホいじりっぱなしの無反応パパ活マグロ娘を発狂するまで素直にさせた。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "望月蕾",
+        "虹村由美",
+        "三葉彌生",
+        "大原日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-113"
     }
   ]
 };

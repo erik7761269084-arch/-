@@ -4,7 +4,7 @@ window.actressData = {
   "name": "鈴村みなみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,32 +19,31 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 67594,
-      "IDcode": "HIMA-098",
-      "title": "母親を愛しすぎて―。性欲が尽き果てるまで終わらない激情相姦 鈴村みなみ",
+      "id": 91108,
+      "IDcode": "JRZE-123",
+      "title": "初撮人妻-鈴村みなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2022-10-27",
-      "cover_url": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250401-1/ed9d3a37217db992efaf08eb8a0a5126.jpg",
       "actress": [
-        "鈴村みなみ",
-        "柚木ひおり"
+        "鈴村みなみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-098"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-123"
     },
     {
       "id": 69848,
       "IDcode": "VENX-162",
-      "title": "突然押しかけてきた嫁の姉さんに抜かれっぱなしの1泊2日 鈴村みなみ （ブルーレイディスク） （BOD）",
+      "title": "两天一夜的时间里-鈴村みなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2022-09-06",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "鈴村みなみ"
@@ -52,20 +51,21 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-162"
     },
     {
-      "id": 91108,
-      "IDcode": "JRZE-123",
-      "title": "初撮り人妻ドキュメント 鈴村みなみ",
+      "id": 67594,
+      "IDcode": "HIMA-098",
+      "title": "激情相姦-鈴村みなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "熟女人妻最強廠",
-      "publish_date": "2022-08-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d7e4f43d6972716f0ede2/cover.jpg",
       "actress": [
-        "鈴村みなみ"
+        "鈴村みなみ",
+        "柚木ひおり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JRZE-123"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HIMA-098"
     }
   ]
 };

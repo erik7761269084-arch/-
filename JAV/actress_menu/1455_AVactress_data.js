@@ -33,38 +33,35 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231016/8a581950-d8ff-415c-9e7b-61ed0aeacdef.jpg",
     "https://picture.yoshiclub.xyz/20231016/ee5ece34-9280-41c7-a77d-49e1445fa99d.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 2989,
-      "IDcode": "BONY-159",
-      "title": "獨居美女成目標，鬼畜強暴團夥入室輪⬤中出凌辱篇 ~ 有棲奏羽 白石桃 蓮水鈴 志田みずき",
+      "id": 18316,
+      "IDcode": "EBWH-029",
+      "title": "高級鋼琴老師扭曲的性愛 - 完全服從在套房裡操她的巨乳和豐滿的身體",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072904200200_45952_thumbnail.webp",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "2023-10-18",
+      "cover_url": "https://picture.yoshiclub.xyz/20231016/cba7fcf9-c2e9-4b2e-bda6-5f3513f3b6c6.jpg",
       "actress": [
-        "白石桃",
-        "有棲奏羽",
-        "志田みずき",
         "蓮水鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-029"
     },
     {
       "id": 91896,
       "IDcode": "VEC-640",
-      "title": "おっぱい激揺れ近所に住む巨乳奥さんの理性をぶっ壊す絶頂ラッシュ中出し性交 蓮水りん （BOD）",
+      "title": "绝顶性交激烈摇动乳房-莲水铃",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2024-04-09",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240617-1/a172438c5a8c01b6759312b8e53d7e7c.jpg",
       "actress": [
         "蓮水鈴"
       ],
@@ -77,30 +74,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-11-14",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/322db9e7e6bcee7af971cf854255f019.jpg",
       "actress": [
         "蓮水鈴"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHRV-191"
-    },
-    {
-      "id": 89057,
-      "IDcode": "VEC-618",
-      "title": "バイト先で働く美しい人妻を家に連れ込み中出しセックス 蓮水りん",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2023-10-17",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231212-1/837e81fb078d04f3739bcbaf1f0534c9.jpg",
-      "actress": [
-        "蓮水鈴"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-618"
     },
     {
       "id": 90517,
@@ -109,14 +90,65 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "OPPAI",
-      "publish_date": "2023-09-19",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240124-1/f0e80751f78ebf4ad468ee5c67764c44.jpg",
       "actress": [
         "蓮水鈴"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-158"
+    },
+    {
+      "id": 89057,
+      "IDcode": "VEC-618",
+      "title": "打工处一起兼职的美人妻-莲水凛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "蓮水鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-618"
+    },
+    {
+      "id": 11942,
+      "IDcode": "BBTU-087",
+      "title": "巨乳M M志願の音大卒帰国子女を密室緊縛 蓮水りん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240916/041b62e0-d3d2-4aad-9121-f0a43573eba0.jpg",
+      "actress": [
+        "蓮水鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-087"
+    },
+    {
+      "id": 2989,
+      "IDcode": "BONY-159",
+      "title": "一人暮らしの美女を狙う鬼畜レ〇プ集団自宅押込み中出し性交 凌○拷問編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072904200200_45952_thumbnail.webp",
+      "actress": [
+        "白石桃",
+        "有棲奏羽",
+        "志田みずき",
+        "蓮水鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-159"
     }
   ]
 };

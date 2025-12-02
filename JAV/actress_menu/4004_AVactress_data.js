@@ -22,28 +22,30 @@ window.actressData = {
     "Akane Haruka"
   ],
   "gallery": [],
-  "works_count": 6,
+  "works_count": 10,
   "related_dramas": [
     {
-      "id": 76476,
-      "IDcode": "HUNTA-683",
-      "title": "超ド淫乱即フェラモンスター義姉に家中を追いかけまわされ何度も何度もフェラされてはごっくんされちゃいました。ボクに突然、超エッチなヤリマン…",
+      "id": 99523,
+      "IDcode": "HNDB-158",
+      "title": "制服美少女をイカせまくり中出しSEX4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-19",
-      "cover_url": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "2020-03-25",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hndb158/hndb158pl.jpg",
       "actress": [
-        "伊吹彩",
-        "香苗レノン",
-        "タツ",
-        "叶月桃",
-        "山井すず",
+        "渚光希",
+        "永瀬ゆい",
+        "葵玲奈",
+        "枢木葵",
+        "早美怜夢",
+        "星奈爱",
+        "稻场流花",
         "茜はるか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-683"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDB-158"
     },
     {
       "id": 86967,
@@ -52,7 +54,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2019-07-19",
       "cover_url": "",
@@ -69,7 +71,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MVG GROUP",
       "publish_date": "2019-06-19",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250118-1/cd4c3235275f657c191f1d04fafac2aa.jpg",
@@ -79,16 +81,107 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-389"
     },
     {
+      "id": 99387,
+      "IDcode": "HND-623",
+      "title": "彼女の妹に愛されすぎてこっそり子作り性活 茜はるか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-01-25",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hnd623/hnd623pl.jpg",
+      "actress": [
+        "茜はるか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-623"
+    },
+    {
+      "id": 98003,
+      "IDcode": "APKH-084",
+      "title": "嬲り撮り3Pセックスウチのお店の可愛いバイト女子大生は、真面目",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-11-13",
+      "cover_url": "",
+      "actress": [
+        "茜はるか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APKH-084"
+    },
+    {
+      "id": 100114,
+      "IDcode": "GZAP-003",
+      "title": "打ち水媚薬でびしょ濡れ発情した学校帰りの部活美少女が野外で何度もイキ漏らし中出し懇願…",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/14/6783cc47f9a2e9b1d486c6f0/cover.jpg",
+      "actress": [
+        "泉莉音",
+        "一条美绪",
+        "茜はるか",
+        "茜麻衣子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GZAP-003"
+    },
+    {
+      "id": 76828,
+      "IDcode": "DOCP-105",
+      "title": "まさかノーブラ！？貧乳美人店員がコリコリに勃った乳首に気付かず働く姿に興奮してしまい…2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/95d5b6cad3132f202a2e8fbe3b1f2e20.jpg",
+      "actress": [
+        "神楽アイネ",
+        "阳木かれん",
+        "茜はるか",
+        "手岛知世"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-105"
+    },
+    {
+      "id": 76476,
+      "IDcode": "HUNTA-683",
+      "title": "超ド淫乱即フェラモンスター義姉に家中を追いか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/33e8473a4da43722753cfebccf83d26d.jpg",
+      "actress": [
+        "伊吹彩",
+        "香苗レノン",
+        "タツ",
+        "叶月桃",
+        "山井すず",
+        "茜はるか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-683"
+    },
+    {
       "id": 71628,
       "IDcode": "FSET-825",
       "title": "車好きショートカット女子は精子好き 茜はるな 20歳学生",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-04-25",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0108c0b22101414845623b1906f788e4.jpg",
       "actress": [
         "しみけん",
         "茜はるか"
@@ -102,35 +195,16 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2019-03-21",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/efa08313d9156527c1a27c42188fa109.jpg",
       "actress": [
         "梦咲ひなみ",
         "茜はるか",
         "八寻麻衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDMM-011"
-    },
-    {
-      "id": 76828,
-      "IDcode": "DOCP-105",
-      "title": "まさかノーブラ！？貧乳美人店員がコリコリに勃った乳首に気付かず働く姿に興奮してしまい…2",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2018-11-16",
-      "cover_url": "",
-      "actress": [
-        "神楽アイネ",
-        "阳木かれん",
-        "茜はるか",
-        "手岛知世"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCP-105"
     }
   ]
 };

@@ -36,23 +36,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-すみれ（東尾真子）.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1483,
-      "IDcode": "heyzo-0815",
-      "title": "已婚婦女被遙控器折磨－在丈夫面前假裝沒感覺－堇",
+      "id": 710,
+      "IDcode": "HEYZO-0857",
+      "title": "下班6點後 欲望吞食一切 ~ 山梨ゆず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "HEYZO",
-      "publish_date": "2015-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230520/7ccda329-4a07-42f9-8c5e-7ebbbd5b4f27.jpg",
+      "publish_date": "2015-05-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20240821/a7d1406c-3b7d-4695-a3c8-71359da52a33.jpg",
       "actress": [
         "山梨ゆず"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=heyzo-0815"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0857"
+    },
+    {
+      "id": 1483,
+      "IDcode": "HEYZO-0815",
+      "title": "混蛋小偷劫财又劫色",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "山梨ゆず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0815"
     }
   ]
 };

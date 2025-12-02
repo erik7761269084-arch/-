@@ -33,18 +33,37 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250412/23142e99-eb34-43e4-8dcd-4eecd546eefb.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 6878,
-      "IDcode": "HMN-691",
-      "title": "新人出道！關西萌妹咖啡店員AV初登場！美乳大學生探索S或M真我 首次亮相 AV DEBUT ~ 原陽菜乃",
+      "id": 4673,
+      "IDcode": "NGHJ-017",
+      "title": "夏天！海灘！比基尼辣妹！江之島搭訕的素人女大學生和大屌男配對成功！貼身素股油按摩挑戰，敏感點互相摩擦爽到直接插入，連續內射不停！真夏素人比基尼辣妹狂歡節 ~ 天美めあ 原陽菜乃 逢月日葵 天然美",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706095013358358_74946_thumbnail.webp",
+      "actress": [
+        "逢月日葵",
+        "天美めあ",
+        "天然美月",
+        "原陽菜乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-017"
+    },
+    {
+      "id": 6878,
+      "IDcode": "HMN-691",
+      "title": "新人 大阪のカフェで働くかわいいカフェ店員【美乳】中出しAVデビュー 自分がSなのかMなのかわからないので、AVのエッチで確かめてみたい女子大生 原陽菜乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "本中",
-      "publish_date": "2025-04-15",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250412/20250412001457655655.jpg",
       "actress": [
         "原陽菜乃",
@@ -52,6 +71,22 @@ window.actressData = {
         "じゅうもんじ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-691"
+    },
+    {
+      "id": 3246,
+      "IDcode": "FSBK-014",
+      "title": "乳首こねくり調教 変態教師からの’オッパイを小さくする裏技’でチクイキ開発されビクビク痙攣エビ反り絶頂 ミニマム美少女ひなの 原陽菜乃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FIRST STAR",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d04677eb67774efbac769a/cover.jpg",
+      "actress": [
+        "原陽菜乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSBK-014"
     }
   ]
 };

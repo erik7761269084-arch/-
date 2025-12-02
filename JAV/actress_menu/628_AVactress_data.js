@@ -41,18 +41,182 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230921/6c422b9f-fb7c-4f2d-b9f9-debc7e0c66b9.jpg",
     "https://picture.yoshiclub.xyz/20230921/648ecd90-2a85-470e-98aa-3890adaee76b.jpg"
   ],
-  "works_count": 3,
+  "works_count": 12,
   "related_dramas": [
     {
-      "id": 3622,
-      "IDcode": "KBR-030",
-      "title": "人妻兔女郎NTR 為愛夫甘願被玩弄的乖順小兔子 ~ 松岡鈴",
+      "id": 5211,
+      "IDcode": "KBR-026",
+      "title": "人妻祕書 背德舔舐契約 ~ 鬆岡鈴",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-09-05",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2025-07-04",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619032205725725_thumbnail.webp",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-026"
+    },
+    {
+      "id": 12052,
+      "IDcode": "KBR-019",
+      "title": "保健室的女神，用口交和騎乘姿勢清空青春期男孩的睾丸 ~ 鬆岡すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2024-09-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240912/211bf01c-d542-48b0-8d27-6d1d38c2360d.jpg",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-019"
+    },
+    {
+      "id": 17798,
+      "IDcode": "KBR-011",
+      "title": "絶対着衣主義 穿着让人想\"入\"非非的性感衣服 松岡すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2023-11-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116085234806806.jpg",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-011"
+    },
+    {
+      "id": 18263,
+      "IDcode": "KBR-009",
+      "title": "在老公的遺像前，未亡人被一群禽獸逼迫恥辱交尾",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2023-10-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20231020/f987e419-8027-4226-8c38-8e200d98d89c.jpg",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-009"
+    },
+    {
+      "id": 159427,
+      "IDcode": "336KBR-006",
+      "title": "認真的眼鏡美人妻子.被狡猾的男人們不斷玩弄身體.瘋狂的5次射精",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250521-1/5dcb6d698963228fafd4e742ab52d2cf.jpg",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=336KBR-006"
+    },
+    {
+      "id": 18610,
+      "IDcode": "KBR-007",
+      "title": "变态专用-松冈铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230922/c6ae214b-6db3-425e-bd99-0e8f32d4b059.jpg",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-007"
+    },
+    {
+      "id": 12848,
+      "IDcode": "KBR-018",
+      "title": "性情大变的女上司痴女中出压榨我",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240808/d4957f7f-4113-432a-b5dd-1a688bc937b1.jpg",
+      "actress": [
+        "松岡鈴",
+        "蓝井优太",
+        "松冈すず",
+        "时多しほり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-018"
+    },
+    {
+      "id": 6800,
+      "IDcode": "KBR-022",
+      "title": "憧れだった上司の奥さんに、痴女られた熱帯夜 松岡すず【限定特典映像15分付き】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a6ffef8cce1a927afe926a/cover.jpg",
+      "actress": [
+        "松岡鈴",
+        "松冈すず"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-022"
+    },
+    {
+      "id": 6156,
+      "IDcode": "KBR-024",
+      "title": "老公不在家時怎麼辦？欲求不滿的人妻按摩誘惑中出 ~ 鬆岡鈴",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a008d505de9f92f0cf0b4c/cover.jpg",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-024"
+    },
+    {
+      "id": 4342,
+      "IDcode": "KBR-028",
+      "title": "私の自慢の変態妻を寝取ってください 松岡すず",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897d7bc55337d7f7bbc2559/cover.jpg",
+      "actress": [
+        "松岡鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-028"
+    },
+    {
+      "id": 3622,
+      "IDcode": "KBR-030",
+      "title": "人妻兔女郎的NTR-松岡铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/202508140226467777_83514_thumbnail.webp",
       "actress": [
         "松岡鈴",
@@ -62,40 +226,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-030"
     },
     {
-      "id": 6800,
-      "IDcode": "KBR-022",
-      "title": "酷暑之夜被上司老婆撩到失控燃燒 ~ 松岡すず",
+      "id": 2658,
+      "IDcode": "KBR-031",
+      "title": "与人妻的一泊二日代孕旅行-松岡すず",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KANBi",
-      "publish_date": "2025-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/bc06043e-7527-40d0-9e22-f8dfd7b5787b_thumbnail.webp",
-      "actress": [
-        "松岡鈴",
-        "松冈すず"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-022"
-    },
-    {
-      "id": 12848,
-      "IDcode": "KBR-018",
-      "title": "在外出差和女總監住一個房間，突然她就變身癡女，搞的我不斷中出 ~ 鬆岡すず",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "蚊香社",
-      "publish_date": "2024-08-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20240808/d4957f7f-4113-432a-b5dd-1a688bc937b1.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf0ab5958ac04f27fb88af/cover.jpg",
       "actress": [
-        "松岡鈴",
-        "蓝井优太",
-        "松冈すず",
-        "时多しほり"
+        "松岡鈴"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-018"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KBR-031"
     }
   ]
 };

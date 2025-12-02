@@ -26,37 +26,36 @@ window.actressData = {
     "Siorisennsei"
   ],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 76730,
-      "IDcode": "SABA-476",
-      "title": "不倫SEX中に旦那から着信アリ！ハメたまま電話に出させたら感度急上昇↑こっそりゴムを外し他人の精子をたっぷり注入され種付け中出しされた美人妻",
+      "id": 100215,
+      "IDcode": "HODV-21154",
+      "title": "メスころがし 夏希みなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "S級素人",
-      "publish_date": "2018-11-09",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "2016-03-04",
       "cover_url": "",
       "actress": [
-        "大島愛里亞",
-        "夏希みなみ",
-        "黒瀬萌衣",
-        "结城ありさ"
+        "森林原人",
+        "鲛岛",
+        "夏希みなみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-476"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21154"
     },
     {
       "id": 86955,
       "IDcode": "SDDE-490",
-      "title": "催眠光線で支配された家族",
+      "title": "被催眠光线支配失去了最基本伦理道德的一家人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2017-05-03",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "川上優",
@@ -67,16 +66,54 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-490"
     },
     {
+      "id": 76730,
+      "IDcode": "SABA-476",
+      "title": "不倫SEX中に旦那から着信アリ！ハメたまま電話に出させたら感度急上昇↑こっそりゴムを外し他人の精子をたっぷり注入され種付け中出しされた美人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S級素人",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e97dc8f190fbae78025aac8f97eee6cb.jpg",
+      "actress": [
+        "大島愛里亞",
+        "夏希みなみ",
+        "黒瀬萌衣",
+        "结城ありさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SABA-476"
+    },
+    {
+      "id": 72733,
+      "IDcode": "XVSR-134",
+      "title": "官能小説 嫁くらべ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1529acbd91ff8d071307e7104d21a4e2.jpg",
+      "actress": [
+        "南真悠",
+        "田渊正浩",
+        "大岛丈",
+        "夏希みなみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-134"
+    },
+    {
       "id": 71622,
       "IDcode": "BDSR-287",
       "title": "人妻リアル不倫 流出ラブホ盗撮 欲情に身を晒す不倫人妻たちの実態！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2017-03-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250222-1/836adbe0ec48c0f93b61c26c7ec6ed3a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/19eb8d27bd30db1bb253759acbee00ab.jpg",
       "actress": [
         "夏希みなみ",
         "爱咲えな",
@@ -87,35 +124,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-287"
     },
     {
-      "id": 72733,
-      "IDcode": "XVSR-134",
-      "title": "官能小説 嫁くらべ 南まゆ 夏希みなみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2016-05-13",
-      "cover_url": "",
-      "actress": [
-        "南真悠",
-        "田渊正浩",
-        "大岛丈",
-        "夏希みなみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-134"
-    },
-    {
       "id": 70280,
       "IDcode": "SDMU-320",
       "title": "マジックミラー号 ゲレンデで見つけた卒業旅行中の友達同士の男女が「素股マッサージ」体験 初めて触れ合うチ○ポとマ○コは火が付いて、そのまま生挿入真正中出し！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2016-05-12",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/940c5e89b38c61a8bfdd9df8e6ca5ba1.jpg",
       "actress": [
         "宫崎彩",
         "森星いまり",

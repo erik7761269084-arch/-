@@ -56,7 +56,7 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250723/202507232246379191_49799_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250723/20250723224637199199_60808_l.webp"
   ],
-  "works_count": 17,
+  "works_count": 19,
   "related_dramas": [
     {
       "id": 74645,
@@ -65,10 +65,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
+      "type": "",
+      "company": "",
       "publish_date": "2019-07-25",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/af05023fce8b4e3689d5e70d81d0ba18.jpg",
       "actress": [
         "波多野结衣",
         "美谷朱里",
@@ -89,27 +89,108 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-046"
     },
     {
-      "id": 71175,
-      "IDcode": "HNDB-143",
-      "title": "嬉しそうにニヤニヤ僕を見下ろしてからかい腰振り騎乗位で全力中出ししてくる痴女お姉さんBEST4時間",
+      "id": 100268,
+      "IDcode": "ABP-489",
+      "title": "人生初・トランス状態 激イキ絶頂セックス 若菜奈央",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2019-07-25",
+      "type": "",
+      "company": "",
+      "publish_date": "2016-06-10",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/118abp489/118abp489pl.jpg",
+      "actress": [
+        "若菜奈央",
+        "森林原人",
+        "鲛岛",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-489"
+    },
+    {
+      "id": 99780,
+      "IDcode": "ABP-375",
+      "title": "天然成分由来 若菜奈央汁120％",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-10-10",
       "cover_url": "",
       "actress": [
-        "美谷朱里",
-        "深田詠美",
-        "藤浦惠",
-        "椎名空",
-        "麻里梨夏",
-        "本田岬",
-        "高坂ますみ",
+        "若菜奈央",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-375"
+    },
+    {
+      "id": 105732,
+      "IDcode": "NGOD-057",
+      "title": "我的美女老婆-若菜奈央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
         "若菜奈央"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDB-143"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-057"
+    },
+    {
+      "id": 97724,
+      "IDcode": "ABP-439",
+      "title": "女友的姐姐若菜奈央偷偷诱惑我插入她",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/01/b5b6d4ccdc5e5cf676ee4e8bf923c973.jpg",
+      "actress": [
+        "若菜奈央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-439"
+    },
+    {
+      "id": 97512,
+      "IDcode": "ADN-145",
+      "title": "在老公面前被他的上司干到高潮的美人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-5/b7b96801ef1328a8693d01157e277c23.jpg",
+      "actress": [
+        "若菜奈央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-145"
+    },
+    {
+      "id": 88359,
+      "IDcode": "HUNTA-354",
+      "title": "超絶倫童貞少年！もうヤメて！と逃げる義姉を追いかけハメまくる！6 突然出来た義理のお姉ちゃんは超ヤリマン！いつも超無防備だからパンチラ胸チラしまくりでボクは毎日勃起しまくり！ボクの勃起をからかうお姉ちゃんもいつしか勃起にムラムラして発情！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/dec95f420cfb1564e8852f06a97fe8a1.jpg",
+      "actress": [
+        "南真悠",
+        "若菜奈央",
+        "タツ",
+        "橘咲良",
+        "黒木澪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-354"
     },
     {
       "id": 88219,
@@ -118,15 +199,79 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2018-10-26",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230911-1/318b8097aac089e74bc482d7f31a38db.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/3ecb64c6c186fc1665e13271985133c1.jpg",
       "actress": [
         "若菜奈央",
         "舞岛あかり"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-313"
+    },
+    {
+      "id": 88149,
+      "IDcode": "MVSD-337",
+      "title": "時間停止-若菜奈央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/ceb68ab109dca86e12cb688a28578215.jpg",
+      "actress": [
+        "若菜奈央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-337"
+    },
+    {
+      "id": 82599,
+      "IDcode": "IESP-634",
+      "title": "女教師中出-若菜奈央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2020/09/23/eb39d6a62884f8457252817e94656ea8.jpg",
+      "actress": [
+        "若菜奈央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-634"
+    },
+    {
+      "id": 82490,
+      "IDcode": "ECB-108",
+      "title": "貸します-若菜奈央",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6781a3b689def9b1b8e477da/cover.jpg",
+      "actress": [
+        "若菜奈央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-108"
+    },
+    {
+      "id": 82347,
+      "IDcode": "CJOD-070",
+      "title": "究极痴女若菜奈央的榨精骑乘位现实缓缓抽插然后突然加速锁紧子宫吸住龟头把精液取出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "若菜奈央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-070"
     },
     {
       "id": 78181,
@@ -135,10 +280,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "KIRAKIRA",
-      "publish_date": "2018-06-15",
-      "cover_url": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/204cd1416d000265aabd03835e639698.jpg",
       "actress": [
         "AIKA",
         "椎名空",
@@ -154,120 +299,37 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-232"
     },
     {
-      "id": 71101,
-      "IDcode": "HODV-21270",
-      "title": "若菜奈央ベスト4時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "H.M.P 芳友舍",
-      "publish_date": "2018-01-12",
-      "cover_url": "",
-      "actress": [
-        "若菜奈央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21270"
-    },
-    {
-      "id": 82490,
-      "IDcode": "ECB-108",
-      "title": "M男クンのアパートの鍵、貸します。 若菜奈央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "WAAP GROUP",
-      "publish_date": "2018-01-05",
-      "cover_url": "",
-      "actress": [
-        "若菜奈央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ECB-108"
-    },
-    {
       "id": 76518,
       "IDcode": "MEYD-331",
       "title": "私、実は夫の上司に犯され続けてます… 若菜奈央",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2017-12-24",
-      "cover_url": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f13c6799c005e4954ced1f88dc0d15fb.jpg",
       "actress": [
         "若菜奈央"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-331"
     },
     {
-      "id": 97512,
-      "IDcode": "ADN-145",
-      "title": "夫の目の前で犯されて― 暴虐の再訪― 若菜奈央",
+      "id": 73239,
+      "IDcode": "JUFD-716",
+      "title": "究极痴女教师若菜奈央穿上丝袜解决学生的青春期的性爱烦恼",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2017-11-25",
-      "cover_url": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/4b1d75df00e9b8f50d7a571d71628298.jpg",
       "actress": [
-        "若菜奈央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADN-145"
-    },
-    {
-      "id": 88149,
-      "IDcode": "MVSD-337",
-      "title": "時間停止リベンジ中出し ～DQNが集まる同窓会で糞ビッチに復讐射精！～ 若菜奈央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2017-11-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230909-1/4a1085166ba611c415189331adff5352.jpg",
-      "actress": [
-        "若菜奈央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-337"
-    },
-    {
-      "id": 88359,
-      "IDcode": "HUNTA-354",
-      "title": "超絶倫童貞少年！もうヤメて！と逃げる義姉を追いかけハメまくる！6 突然出来た義理のお姉ちゃんは超ヤリマン！いつも超無防備だからパンチラ胸チラしまくりでボクは毎日勃起しまくり！ボクの勃起をからかうお姉ちゃんもいつしか勃起にムラムラして発情！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-10-07",
-      "cover_url": "",
-      "actress": [
-        "南真悠",
         "若菜奈央",
-        "タツ",
-        "橘咲良",
-        "黒木澪"
+        "森林原人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-354"
-    },
-    {
-      "id": 105732,
-      "IDcode": "NGOD-057",
-      "title": "僕のねとられ話しを聞いてほしい 「生理的に無理」とまで言った最も忌み嫌うゲス男のチ●ポであへあへと寝盗られた妻 若菜奈央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2017-10-01",
-      "cover_url": "",
-      "actress": [
-        "若菜奈央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-057"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-716"
     },
     {
       "id": 71671,
@@ -276,10 +338,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "変態紳士倶楽部",
-      "publish_date": "2017-07-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/dfdf9a6d98e8f80de2f1b0cb6a269a84.jpg",
       "actress": [
         "水谷心音",
         "若菜奈央"
@@ -287,65 +349,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-389"
     },
     {
-      "id": 82599,
-      "IDcode": "IESP-634",
-      "title": "若菜奈央 女教師中出し20連発",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2017-06-01",
-      "cover_url": "",
-      "actress": [
-        "若菜奈央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IESP-634"
-    },
-    {
-      "id": 82347,
-      "IDcode": "CJOD-070",
-      "title": "スロ～で射精させてからギアチェンジ爆速中出しSEX 若菜奈央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-03-07",
-      "cover_url": "",
-      "actress": [
-        "若菜奈央"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-070"
-    },
-    {
-      "id": 73239,
-      "IDcode": "JUFD-716",
-      "title": "淫亂上班女郎的穿衣幹砲 若菜奈央",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2017-03-01",
-      "cover_url": "",
-      "actress": [
-        "若菜奈央",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-716"
-    },
-    {
       "id": 71350,
       "IDcode": "ABP-546",
-      "title": "1VS1【※演技一切無し】本能剥き出しタイマン4本番 ACT.07 若菜奈央",
+      "title": "若菜奈央连战巨根持久猛男",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-12-16",
-      "cover_url": "https://tutu1.space/images/2025/03/05/0ca1b74e495a58bd82e4126aa6da91de.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250305-1/702f5991b12516036efc9e74817c3b66.jpg",
       "actress": [
         "若菜奈央",
         "森林原人"
@@ -353,20 +366,43 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-546"
     },
     {
-      "id": 97724,
-      "IDcode": "ABP-439",
-      "title": "彼女のお姉さんは、誘惑ヤリたがり娘。 若菜奈央",
+      "id": 71175,
+      "IDcode": "HNDB-143",
+      "title": "淫荡的姐姐开心地朝我咧嘴笑",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-02-10",
-      "cover_url": "https://tutu1.space/images/2025/09/01/b5b6d4ccdc5e5cf676ee4e8bf923c973.jpg",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f2c24a0c017bad54e30c9af510f8aa43.jpg",
+      "actress": [
+        "美谷朱里",
+        "深田詠美",
+        "藤浦惠",
+        "椎名空",
+        "麻里梨夏",
+        "本田岬",
+        "高坂ますみ",
+        "若菜奈央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDB-143"
+    },
+    {
+      "id": 71101,
+      "IDcode": "HODV-21270",
+      "title": "若菜奈央ベスト4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/e15a944202f1478a23720180c69fa7af.jpg",
       "actress": [
         "若菜奈央"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-439"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HODV-21270"
     }
   ]
 };

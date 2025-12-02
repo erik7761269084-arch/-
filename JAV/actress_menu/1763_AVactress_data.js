@@ -28,20 +28,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1827,
-      "IDcode": "CWPBD-139",
-      "title": "CATWALK POISON 139 : 絢森一花",
+      "id": 853,
+      "IDcode": "HEYZO-1060",
+      "title": "放學後美少女的性生活 絢森一花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2015-12-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230122/783c47ef-6e97-42be-b220-e971a3e55706.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-01-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240513/20240513090736187187.jpg",
       "actress": [
         "絢森一花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1060"
     }
   ]
 };

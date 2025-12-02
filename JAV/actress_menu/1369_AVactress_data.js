@@ -30,20 +30,20 @@ window.actressData = {
   "works_count": 1,
   "related_dramas": [
     {
-      "id": 1714,
-      "IDcode": "LAFBD-86",
-      "title": "林間少女 86 學生妹放學後 : 水島仁菜",
+      "id": 1069,
+      "IDcode": "HEYZO-1505",
+      "title": "謝謝你接我電話 請讓我馬上開始為你口吧",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2017-07-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/dce78554-e296-4c4e-aece-dce63f05aaef.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-08-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20231220/73e54d92-9aad-4dec-b2db-1c1eba00b9b7.jpg",
       "actress": [
         "水島仁菜"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-86"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1505"
     }
   ]
 };

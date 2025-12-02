@@ -46,84 +46,66 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241206/50a8f4b4-d559-4aaa-ac0b-9b1cb001b91b.jpg",
     "https://picture.yoshiclub.xyz/20241206/c279c8b7-5b34-48d1-ae39-fc53e9c25a99.jpg"
   ],
-  "works_count": 7,
+  "works_count": 11,
   "related_dramas": [
     {
-      "id": 3009,
-      "IDcode": "SONE-951",
-      "title": "跟青梅竹馬玩SM結果她覺醒抖M屬性變成超聽話的淫蕩小寵物 ~ 糸井瑠花",
+      "id": 10143,
+      "IDcode": "SONE-568",
+      "title": "新人NO.1 STYLE 時代は賢くてエロい娘！若くて綺麗なカラダの教育実習生！糸井瑠花AVデビュー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904030444480480_91266_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787fa555d57b64bfd1a6111/cover.jpg",
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-951"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-568"
     },
     {
-      "id": 5196,
-      "IDcode": "SONE-757",
-      "title": "把愛液榨乾為止不停高潮 6小時無間斷SEX爽到爆噴潮吹 ~ 糸井瑠花",
+      "id": 8863,
+      "IDcode": "SONE-570",
+      "title": "男孩气质女大生的人生初体验-纟井瑠花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619074344776776_thumbnail.webp",
-      "actress": [
-        "糸井瑠花",
-        "ラヴズ",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-757"
-    },
-    {
-      "id": 5916,
-      "IDcode": "SONE-719",
-      "title": "乖巧學生妹的無 bra 誘惑，嫩乳制服挑逗老師校內禁忌激戰 ~ 糸井瑠花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080101671671_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250217-1/0b0cb25da408be3a06efe99a0ed62a88.jpg",
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-719"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-570"
     },
     {
-      "id": 6782,
-      "IDcode": "SONE-681",
-      "title": "天真小妹被老男人玩弄於股掌！偷偷把女友妹妹吃幹抹淨的渣男日常 ~ 糸井瑠花",
+      "id": 8098,
+      "IDcode": "SONE-611",
+      "title": "天真无邪却超级色情-糸井瑠花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417091121728728_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/202502200937153636.jpg",
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-681"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-611"
     },
     {
       "id": 7352,
       "IDcode": "SONE-660",
-      "title": "高潮噴水+插入噴水2600cc！純情女大生色欲覺醒，初次大失禁抽搐特別篇 ~ 糸井瑠花",
+      "title": "清纯女大学生情欲觉醒-糸井瑠花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-03-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320111236137137.jpg",
       "actress": [
         "糸井瑠花",
@@ -132,36 +114,118 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-660"
     },
     {
-      "id": 8098,
-      "IDcode": "SONE-611",
-      "title": "無邪氣美人娘。白天純真，夜晚誘人，短發美人嬌豔動人 ！ ！兩人親密而又激情的約會 ~ 糸井瑠花",
+      "id": 6782,
+      "IDcode": "SONE-681",
+      "title": "太过纯真而对年长男性言听计从",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/202502200937153636.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689a9a576ccb447f8c852998/cover.jpg",
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-611"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-681"
     },
     {
-      "id": 8863,
-      "IDcode": "SONE-570",
-      "title": "男孩子氣的女大學生人生第一次體驗高潮！幾乎沒有與男人交往經驗，妄想變成現實超衝擊3本番絕頂高潮！ ~ 糸井瑠花",
+      "id": 5916,
+      "IDcode": "SONE-719",
+      "title": "认真学生的鲜活乳房诱惑-糸井瑠花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072518923923.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080101671671_thumbnail.webp",
       "actress": [
         "糸井瑠花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-570"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-719"
+    },
+    {
+      "id": 5196,
+      "IDcode": "SONE-757",
+      "title": "愛液を全部出し尽くすまでず～っとイカセ続けてあげる ノンストップ6時間SEXで見たことない潮吹き絶頂 糸井瑠花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae3ef9682e2e9281a54988/cover.jpg",
+      "actress": [
+        "糸井瑠花",
+        "ラヴズ",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-757"
+    },
+    {
+      "id": 3410,
+      "IDcode": "SONE-911",
+      "title": "侄女从乡下回家的路上被迫独自呆在她讨厌的叔叔家-糸井瑠花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821175213725725_46662_thumbnail.webp",
+      "actress": [
+        "糸井瑠花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-911"
+    },
+    {
+      "id": 3009,
+      "IDcode": "SONE-951",
+      "title": "跟青梅竹马闹着玩尝试SM结果她竟然觉醒成抖M的色色受虐宠物-糸井瑠花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904030444480480_91266_thumbnail.webp",
+      "actress": [
+        "糸井瑠花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-951"
+    },
+    {
+      "id": 2458,
+      "IDcode": "CKCK-014",
+      "title": "お隣の引きこもり女子●生と仲良くなってしまった 糸井瑠花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "糸井瑠花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CKCK-014"
+    },
+    {
+      "id": 2117,
+      "IDcode": "SONE-973",
+      "title": "在医务室上学的糸井先生被B组所有男生-糸井瑠花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "糸井瑠花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-973"
     }
   ]
 };

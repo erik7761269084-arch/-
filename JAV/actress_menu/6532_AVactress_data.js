@@ -4,7 +4,7 @@ window.actressData = {
   "name": "藤井シェリー",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 106944,
       "IDcode": "IPZ-582",
-      "title": "タイトスカート 痴女医の淫らな誘惑 Shelly",
+      "title": "黑丝超短裙女医师-シェリー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-06-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-7/4b570705c79945f48e3cdc8f864254e3.jpg",
       "actress": [
         "玉木玲",
         "藤井シェリー"

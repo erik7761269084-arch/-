@@ -30,18 +30,87 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/6-Warashi/中野七緒.jpg"
   ],
-  "works_count": 1,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 19517,
-      "IDcode": "MEYD-596",
-      "title": "被關在冷凍倉庫事故二人獨處…打工人妻全裸抱合身體取暖密著性交到早上 中野七緒",
+      "id": 15896,
+      "IDcode": "NASK-043",
+      "title": "真實的4個騷女人的故事",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-06-13",
+      "type": "",
+      "company": "",
+      "publish_date": "2024-03-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20240323/20240323065450968968.jpg",
+      "actress": [
+        "小早川怜子",
+        "鈴木真夕",
+        "川上優",
+        "中野七緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NASK-043"
+    },
+    {
+      "id": 155286,
+      "IDcode": "SPRD-1502",
+      "title": "代理出産の母-中野七緒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250204-1/106c3305c4f8bab2c933252cffa70236.jpg",
+      "actress": [
+        "中野七緒"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPRD-1502"
+    },
+    {
+      "id": 88081,
+      "IDcode": "MEYD-542",
+      "title": "被强行留下加班的人妻家庭随着被部长内射的精液一起摧毁了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5c3ba95350276ab4e200162ef95a3aed.jpg",
+      "actress": [
+        "中野七緒",
+        "中野七绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-542"
+    },
+    {
+      "id": 78075,
+      "IDcode": "MEYD-560",
+      "title": "不能告诉老公的秘密-中野七緒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4558875cd202979d448f7cced33efbe9.jpg",
+      "actress": [
+        "中野七緒",
+        "中野七绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEYD-560"
+    },
+    {
+      "id": 19517,
+      "IDcode": "MEYD-596",
+      "title": "冷凍倉庫-中野七緒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "溜池",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230405/20230405085026127127.jpg",
       "actress": [
         "中野七緒",

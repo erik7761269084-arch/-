@@ -38,13 +38,13 @@ window.actressData = {
     {
       "id": 9965,
       "IDcode": "EBWH-180",
-      "title": "13年前出演大公司廣告的前童星，以色白美巨乳復活，請滿足我的性欲 首次亮相 AV DEBUT ~ 蒼井澪",
+      "title": "13年前に大手企業のCMに出演した元子役が色白美巨乳になって復活 蒼井澪",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2024-12-17",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073500526526.jpg",
       "actress": [
         "蒼井澪",

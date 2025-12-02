@@ -29,13 +29,13 @@ window.actressData = {
     {
       "id": 97852,
       "IDcode": "NHDTA-782",
-      "title": "姉を犯してしまったところを母親に見られ後戻りができず泥沼中出し親子丼",
+      "title": "母亲看到他强奸她的妹妹时",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2016-02-18",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "堀口奈津美",

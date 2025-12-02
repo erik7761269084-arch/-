@@ -39,30 +39,30 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 1672,
-      "IDcode": "tigr-007",
+      "IDcode": "TIGR-007",
       "title": "熱視線 深井彩夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SOD",
+      "type": "",
+      "company": "",
       "publish_date": "2023-04-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230402/8366c998-6e6b-4606-96b0-7469e5105030.jpg",
+      "cover_url": "",
       "actress": [
         "君色花音"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=tigr-007"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TIGR-007"
     },
     {
       "id": 19208,
       "IDcode": "IPX-243",
-      "title": "巨乳全開猛烈誘惑女友小惡魔妹妹",
+      "title": "女友的巨乳小恶魔妹妹桃乃木香奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IDEA POCKET",
-      "publish_date": "2018-12-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230624/20230624222631552552.jpg",
       "actress": [
         "桃乃木香奈",

@@ -41,8 +41,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241207/5f0fba89-b7b0-4747-b493-d7c3f1c9336b.jpg",
     "https://picture.yoshiclub.xyz/20241207/e86529aa-2add-4ea0-9b62-e5c233e0df0c.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 5218,
+      "IDcode": "GMAB-006",
+      "title": "鄉下老宅裡被緊縛調教的女學生精選合集 第二彈 純情美少女身心淪陷繩藝快感 10人4小時 ~ 綾瀨ひまり はないしずく 渚光希 白石環奈 森咲はるの 河合陽菜 天野花乃 由良佳奈 千石もなか 中城葵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618213727950950_thumbnail.webp",
+      "actress": [
+        "由良佳奈",
+        "渚光希",
+        "千石もなか",
+        "中城葵",
+        "天野花乃",
+        "河合陽菜",
+        "白石環奈",
+        "森咲はるの",
+        "綾瀬ひまり",
+        "はないしずく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMAB-006"
+    },
+    {
+      "id": 10101,
+      "IDcode": "HUNTC-165",
+      "title": "完全主観で楽しむグレー過ぎるメンズエステ。ずっと見つめて神手コキ、乳首責め、素股、3P！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205101456254254.jpg",
+      "actress": [
+        "本田桃",
+        "竹内夏希",
+        "綾瀬ひまり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-165"
+    },
     {
       "id": 4801,
       "IDcode": "HUNTC-234",
@@ -50,9 +93,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-06-20",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619091747494494_thumbnail.webp",
       "actress": [
         "柏木小夏",

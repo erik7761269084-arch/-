@@ -4,7 +4,7 @@ window.actressData = {
   "name": "麻仓忧",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,29 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
-    {
-      "id": 90338,
-      "IDcode": "PBD-455",
-      "title": "アナタを見つめながらどっちゅどっきゅ精子搾る騎乗位BEST",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2023-12-19",
-      "cover_url": "",
-      "actress": [
-        "希島愛理",
-        "山岸逢花",
-        "星奈爱",
-        "篠田优",
-        "麻仓忧",
-        "樱井まみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-455"
-    },
     {
       "id": 87298,
       "IDcode": "BMW-265",
@@ -46,7 +25,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "WANZ FACTORY",
       "publish_date": "2022-09-06",
       "cover_url": "",
@@ -66,15 +45,85 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BMW-265"
     },
     {
-      "id": 76815,
-      "IDcode": "PRED-091",
-      "title": "中出しOK！いじわる囁き淫語で犯してあげる 麻倉憂",
+      "id": 107637,
+      "IDcode": "WANZ-281",
+      "title": "我的子宫-麻倉憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "麻仓忧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-281"
+    },
+    {
+      "id": 104991,
+      "IDcode": "WANZ-269",
+      "title": "完全主观逆袭3p内射服",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "麻仓忧",
+        "二宫沙树"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-269"
+    },
+    {
+      "id": 104721,
+      "IDcode": "PRED-096",
+      "title": "在同学会出轨与前男友的内射做爱录像带",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
       "company": "PREMIUM",
-      "publish_date": "2018-08-07",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67803d55478d611da7747dba/cover.jpg",
+      "actress": [
+        "麻仓忧"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-096"
+    },
+    {
+      "id": 90338,
+      "IDcode": "PBD-455",
+      "title": "アナタを見つめながらどっちゅどっきゅ精子搾る騎乗位BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/4f41b7fa701113d8c7d8636560cd076b.jpg",
+      "actress": [
+        "希島愛理",
+        "山岸逢花",
+        "星奈爱",
+        "篠田优",
+        "麻仓忧",
+        "樱井まみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-455"
+    },
+    {
+      "id": 76815,
+      "IDcode": "PRED-091",
+      "title": "耳机专用之麻仓优在耳边说着淫语让你中出",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "麻仓忧"
@@ -84,34 +133,18 @@ window.actressData = {
     {
       "id": 62962,
       "IDcode": "WANZ-332",
-      "title": "孕ませ痴漢電車 麻倉憂",
+      "title": "痴汉受孕电车被轮奸内射-麻倉憂",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2015-05-01",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "麻仓忧"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-332"
-    },
-    {
-      "id": 107637,
-      "IDcode": "WANZ-281",
-      "title": "對我的子宮射精吧 麻倉憂",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2015-01-01",
-      "cover_url": "",
-      "actress": [
-        "麻仓忧"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WANZ-281"
     }
   ]
 };

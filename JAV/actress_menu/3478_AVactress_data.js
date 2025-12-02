@@ -4,7 +4,7 @@ window.actressData = {
   "name": "乃咲みくる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,9 +25,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2025-06-04",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "乃咲みくる"
@@ -37,13 +37,13 @@ window.actressData = {
     {
       "id": 6405,
       "IDcode": "XVSR-813",
-      "title": "精液控妹子的色色生活口活對決4 ~ 九十九梅 市川陸 天晴乃愛 藤田柚 十束流羽 西野繪美 星空萌愛 倉木詩織",
+      "title": "精子好き女子のエロ活フェラ抜きマッチング4",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MAX-A",
-      "publish_date": "2025-05-03",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504105422951951_thumbnail.webp",
       "actress": [
         "西野絵美",

@@ -37,14 +37,14 @@ window.actressData = {
     {
       "id": 19576,
       "IDcode": "IPZ-508",
-      "title": "不道德的牢籠 - 禁止監禁和強迫交換攻擊兩對幸福的夫婦",
+      "title": "性欲旺盛的巨根强奸犯",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2015-01-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230407/20230407090039110110.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/8d27edfbd8ce152fa0d90124290377ad.jpg",
       "actress": [
         "愛田奈々",
         "美波娜美"

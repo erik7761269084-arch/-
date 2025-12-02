@@ -32,15 +32,31 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 6593,
-      "IDcode": "HRSM-094",
-      "title": "模擬高爾夫一對一教學的癡漢玩法 ~ 新垣まりん 逢月ひまり 浜辺栞帆 汐梨",
+      "id": 7257,
+      "IDcode": "APAK-301",
+      "title": "【職場女郎的激烈性愛】中出肉感高潮美巨臀OL「頂到深處一下就高潮啦！」子宮直擊爽翻天！後入騎乘臀肉抖不停！#線下約炮妹子酒店閉關淫亂絕頂SEX ~ 汐梨",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250326/c83a1b93-d00e-44c7-b00f-9615bf6e78cf.jpg",
+      "actress": [
+        "汐梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-301"
+    },
+    {
+      "id": 6593,
+      "IDcode": "HRSM-094",
+      "title": "シュミレーションゴルフ マンツーマンレッスン痴○",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "癡漢廠",
-      "publish_date": "2025-04-25",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250426/20250426015911265265_thumbnail.webp",
       "actress": [
         "浜辺栞帆",
@@ -49,22 +65,6 @@ window.actressData = {
         "汐梨"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-094"
-    },
-    {
-      "id": 7257,
-      "IDcode": "APAK-301",
-      "title": "【職場女郎的激烈性愛】中出肉感高潮美巨臀OL「頂到深處一下就高潮啦！」子宮直擊爽翻天！後入騎乘臀肉抖不停！#線下約炮妹子酒店閉關淫亂絕頂SEX ~ 汐梨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-03-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20250326/c83a1b93-d00e-44c7-b00f-9615bf6e78cf.jpg",
-      "actress": [
-        "汐梨"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-301"
     }
   ]
 };

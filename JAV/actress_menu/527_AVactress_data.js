@@ -50,50 +50,162 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240908/8c10616f-f9dd-4172-9c61-c80f7ce531a8.jpg",
     "https://picture.yoshiclub.xyz/20240908/d1355e47-cb79-45d8-ae9e-939261954572.jpg"
   ],
-  "works_count": 8,
+  "works_count": 14,
   "related_dramas": [
     {
-      "id": 3416,
-      "IDcode": "FNS-091",
-      "title": "一泊兩日溫泉旅館把老婆的小穴借你玩，隨便你搞，她都聽你的 ~ 女神純",
+      "id": 6892,
+      "IDcode": "FNS-014",
+      "title": "出差時,童貞下屬戀母失控！相部屋狂撩胸部整晚偷心 ~ 女神純",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821172249885885_57853_thumbnail.webp",
+      "publish_date": "2025-05-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20250411/20250411231904681681.jpg",
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-091"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-014"
     },
     {
-      "id": 5209,
-      "IDcode": "FNS-050",
-      "title": "超性感！眼神勾魂唾液狂流全身舔弄超濃厚舌吻性交 ~ 女神純",
+      "id": 12128,
+      "IDcode": "FSDSS-869",
+      "title": "「Who Are You？」写真展イベントで話題になった謎の美女 専属AV DEBUT 女神ジュン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619170724709709_s.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-050"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-869"
+    },
+    {
+      "id": 11553,
+      "IDcode": "FSDSS-887",
+      "title": "第一次体验非常高潮的觉醒3制作",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/a6778889680d817e7ec62b12d1e143bb.jpg",
+      "actress": [
+        "女神純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-887"
+    },
+    {
+      "id": 11242,
+      "IDcode": "FSFST-002",
+      "title": "AVデビュー前の秘蔵ハメ撮り映像 女神ジュン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/6cf0a6732484bb537c1fa5c512411fc9.jpg",
+      "actress": [
+        "女神純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSFST-002"
+    },
+    {
+      "id": 10895,
+      "IDcode": "FSDSS-906",
+      "title": "体液持续感性-女神ジュン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251021-1/dfc81619835cf285e4af672a1e054edd.jpg",
+      "actress": [
+        "女神純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-906"
+    },
+    {
+      "id": 10087,
+      "IDcode": "FSDSS-913",
+      "title": "超近距离充分欣赏极品美乳的3个场景",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/04/67c69bf2cf22ae3e041b7993/cover.jpg",
+      "actress": [
+        "女神純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-913"
+    },
+    {
+      "id": 9412,
+      "IDcode": "FSDSS-959",
+      "title": "ずっとここ見てたでしょノーブラGカップおっぱいで無防備アピールしてくる彼女の巨乳姉と、圧倒的誘惑に負けちゃう最悪なボク 女神ジュン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/ce4de804/vod.jpg",
+      "actress": [
+        "女神純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-959"
+    },
+    {
+      "id": 8540,
+      "IDcode": "FSDSS-979",
+      "title": "全肯定愛人 とことん甘やかしてくれる不倫生活 女神ジュン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/2c599434af1df7069140023745779b5e.jpg",
+      "actress": [
+        "女神純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-979"
+    },
+    {
+      "id": 7663,
+      "IDcode": "FSDSS-993",
+      "title": "射精無限大の神サービスの本物の女神の笑顔で癒され、必ず10発ヌいてくれる極上ソープ 女神ジュン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FALENO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250727-1/d203067567205d4b909c956f9b3ff806.jpg",
+      "actress": [
+        "女神純"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-993"
     },
     {
       "id": 5842,
       "IDcode": "FNS-035",
-      "title": "史上最辣身材 反翹瘋狂高潮下的媚藥按摩 抽搐快感挑逗油壓性感開發 ~ 女神純",
+      "title": "史上最高ボディがエビ反るイカレ絶頂マッサージ 痙攣イキ性感焦らしオイルエステ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-05-24",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250524/20250524040905206206_thumbnail.webp",
       "actress": [
         "女神純",
@@ -104,84 +216,68 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-035"
     },
     {
-      "id": 8540,
-      "IDcode": "FSDSS-979",
-      "title": "全肯定愛人 寵你入骨的不倫生活 ~ 女神純",
+      "id": 5209,
+      "IDcode": "FNS-050",
+      "title": "超性感！眼神勾魂唾液狂流全身舔弄超濃厚舌吻性交 ~ 女神純",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-03-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250204/202502042334082121.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-979"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-050"
     },
     {
-      "id": 10087,
-      "IDcode": "FSDSS-913",
-      "title": "超近距離充分欣賞極品美乳的3本番，專享極致G罩杯 ~ 女神純",
+      "id": 4338,
+      "IDcode": "FNS-071",
+      "title": "エロそうな彼女の姉がやたら色っぽくて終電逃してほろ●い状態で泊まりに来た。 女神ジュン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2025-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20241208/20241208010716306306.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717170755655655_71281_thumbnail.webp",
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-913"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-071"
     },
     {
-      "id": 10895,
-      "IDcode": "FSDSS-906",
-      "title": "體液交換絕對性感官能肉欲作 ~ 女神純",
+      "id": 3416,
+      "IDcode": "FNS-091",
+      "title": "一泊二日温泉旅館で妻の穴貸します。好き放題してやってください。 女神ジュン",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://picture.yoshiclub.xyz/20241103/202411032124592828.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821172249885885_57853_thumbnail.webp",
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-906"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-091"
     },
     {
-      "id": 11553,
-      "IDcode": "FSDSS-887",
-      "title": "初體驗超級性覺醒3本番 ~ 女神純",
+      "id": 2495,
+      "IDcode": "FNS-100",
+      "title": "アナタの最高オナニーのために女神の笑顔に癒されながらおち〇こを刺激し、",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FALENO",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241002/20241002192749624624.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "女神純"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSDSS-887"
-    },
-    {
-      "id": 11242,
-      "IDcode": "FSFST-002",
-      "title": "超高級新人首次AV拍攝真實紀錄 ~ 女神純",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FALENO",
-      "publish_date": "2024-11-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20241017/20241017012528474474.jpg",
-      "actress": [
-        "女神純"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSFST-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNS-100"
     }
   ]
 };

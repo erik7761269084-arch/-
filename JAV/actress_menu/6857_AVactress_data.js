@@ -4,7 +4,7 @@ window.actressData = {
   "name": "常盤いち夏",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,13 +21,13 @@ window.actressData = {
     {
       "id": 107304,
       "IDcode": "JURA-076",
-      "title": "初撮り人妻、みたび。 常盤いち夏",
+      "title": "初次拍摄人妻-常盘一夏",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2023-08-03",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "常盤いち夏"

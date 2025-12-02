@@ -38,55 +38,71 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230121/a6d38343-41ce-4e12-90fa-67001ea061c8.jpg",
     "https://picture.yoshiclub.xyz/20230121/e01b34ff-fe42-4147-9d98-a9547e952ae0.jpg"
   ],
-  "works_count": 3,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 1929,
-      "IDcode": "LAFBD-45",
-      "title": "林間少女 45 極度上癮的女人 : 水菜麗",
+      "id": 720,
+      "IDcode": "HEYZO-0869",
+      "title": "清楚妻的黑歷史 ~ 水菜麗",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2015-04-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230124/8edace6d-2be3-49dd-8d62-ad46e29c3cec.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-05-29",
+      "cover_url": "https://picture.yoshiclub.xyz/20240814/d50c7402-258d-4060-88b0-b0499c1619ea.jpg",
       "actress": [
         "水菜麗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-45"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0869"
     },
     {
       "id": 1844,
       "IDcode": "CWPBD-82",
-      "title": "CATWALK POISON 82 ～緊貼程度120%的濃情中出性愛～ : 水菜麗",
+      "title": "密着度120%-みづなれい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "CATWALK",
-      "publish_date": "2013-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20230121/4fa8a60f-3a5b-485f-a206-66b070def8f9.webp",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8c1f54e7d663df48c1c87/cover.jpg",
       "actress": [
         "水菜麗"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-82"
     },
     {
-      "id": 1864,
-      "IDcode": "SMBD-73",
-      "title": "S Model 73 ~蜜桃公主中出SEX~ : 水菜麗 (HD)",
+      "id": 692,
+      "IDcode": "HEYZO-0830",
+      "title": "被上司强留下来的性感女秘书-水菜丽みづなれい",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SUPER MODEL",
-      "publish_date": "2013-01-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230212/ade985f0-d1b6-4301-b95a-73a9e9e2180b.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250111-1/d1d52b4689f169d27a95420ebbf52bd2.jpg",
       "actress": [
         "水菜麗"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-73"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0830"
+    },
+    {
+      "id": 293,
+      "IDcode": "HEYZO-0310",
+      "title": "純和風美少女-水菜丽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240512-1/18ca7d97812349db479d05a6514cb93e.jpg",
+      "actress": [
+        "水菜麗"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0310"
     }
   ]
 };

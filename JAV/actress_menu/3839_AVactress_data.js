@@ -4,7 +4,7 @@ window.actressData = {
   "name": "安達ゆら",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,46 +25,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-07-31",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231122/JYU6pK31/1.jpg",
       "actress": [
         "安達ゆら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-155"
-    },
-    {
-      "id": 68588,
-      "IDcode": "YMDS-125",
-      "title": "いちゃラブ宅飲み濃厚べろちゅう密着せっくちゅ 安達ゆらが彼女になった日",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2022-12-31",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250407-1/c83f9e30f15b1a64077ed82d6d28c065.jpg",
-      "actress": [
-        "安達ゆら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-125"
-    },
-    {
-      "id": 84132,
-      "IDcode": "CAWD-434",
-      "title": "彼女の親友がバレたら絶体絶命な状況で中出しおねだり囁き誘惑 安達ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "KAWAII",
-      "publish_date": "2022-10-04",
-      "cover_url": "",
-      "actress": [
-        "安達ゆら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-434"
     },
     {
       "id": 87299,
@@ -73,7 +41,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
       "publish_date": "2022-09-06",
       "cover_url": "",
@@ -90,7 +58,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KAWAII",
       "publish_date": "2022-08-02",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230723-1/a0a557aa2adb6f7924dcbfdf8f584614.jpg",
@@ -98,6 +66,38 @@ window.actressData = {
         "安達ゆら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-412"
+    },
+    {
+      "id": 84132,
+      "IDcode": "CAWD-434",
+      "title": "在绝望的情况下-安達ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "KAWAII",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安達ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CAWD-434"
+    },
+    {
+      "id": 68588,
+      "IDcode": "YMDS-125",
+      "title": "恋爱中的家常便饭-安達ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "桃太郎映像出版",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "安達ゆら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=YMDS-125"
     }
   ]
 };

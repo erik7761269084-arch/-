@@ -31,40 +31,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/AI-Fix-Meguru Kosaka.jpg",
     "https://picture.yoshiclub.xyz/20230123/ac83cc21-1eca-4b52-8a88-30dea52fabf1.jpg"
   ],
-  "works_count": 3,
+  "works_count": 1,
   "related_dramas": [
-    {
-      "id": 1964,
-      "IDcode": "DRCBD-02",
-      "title": "爆乳 G罩杯 ~ 美少女傳說、再臨 ~ : 小阪巡",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "CATCHEYE",
-      "publish_date": "2013-03-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/d7f432e1-1fef-4870-85d9-e27964f8d5c7.webp",
-      "actress": [
-        "小坂惠"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DRCBD-02"
-    },
-    {
-      "id": 1961,
-      "IDcode": "SKYHD-074",
-      "title": "天天使藍 Vol.74：小坂巡",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "无码",
-      "company": "SKY HIGH",
-      "publish_date": "2012-05-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20230202/20230202040546961961.jpg",
-      "actress": [
-        "小坂惠"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SKYHD-074"
-    },
     {
       "id": 72177,
       "IDcode": "STM-003",
@@ -72,8 +40,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2012-02-21",
       "cover_url": "",
       "actress": [

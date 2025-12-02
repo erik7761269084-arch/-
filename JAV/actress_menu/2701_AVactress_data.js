@@ -48,13 +48,13 @@ window.actressData = {
     {
       "id": 5346,
       "IDcode": "EBWH-232",
-      "title": "新人出道！只服務頂級名人的最高級私人會所裏出來的小姐姐，脫光後極品細腰大奶身材，超騷55cm小蠻腰，AV DEBUT ~ 香住南",
+      "title": "数多くの財界人が遊ぶ高級クラブのトップ嬢は脱いだら極細美ボディ、ドスケベ 超華奢55cm 美巨乳No.1ホステス AVデビュー 香住みなみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "E-BODY",
-      "publish_date": "2025-06-13",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612062613881881_thumbnail.webp",
       "actress": [
         "香住南",

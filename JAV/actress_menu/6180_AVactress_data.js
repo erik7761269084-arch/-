@@ -22,18 +22,36 @@ window.actressData = {
     "Kanna Manami"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 102726,
-      "IDcode": "HCM-003",
-      "title": "クギづけ！ 目が奪われる瞬間 病院編",
+      "id": 98989,
+      "IDcode": "WA-301",
+      "title": "「お願いっ！中はやめてっ！」友達の綺麗なお母さんを縛り付けて犯したら…中出しされて何度も痙攣耐えイキ！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2016-08-19",
+      "publish_date": "2015-12-15",
+      "cover_url": "",
+      "actress": [
+        "武藤彩香",
+        "谷原ゆき",
+        "栞菜まなみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WA-301"
+    },
+    {
+      "id": 102726,
+      "IDcode": "HCM-003",
+      "title": "医院里引人注目的时刻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "安斉愛結",

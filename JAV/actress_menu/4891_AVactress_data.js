@@ -22,7 +22,7 @@ window.actressData = {
     "Harukawa Sesera"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
       "id": 81519,
@@ -31,8 +31,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-01-07",
       "cover_url": "",
       "actress": [
@@ -46,6 +46,40 @@ window.actressData = {
         "大岛美绪"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-029"
+    },
+    {
+      "id": 78976,
+      "IDcode": "ABP-391",
+      "title": "天然成分由来 春川せせら汁120％",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20221025-1/aa8835cea1267bded858851db3ef586a.jpg",
+      "actress": [
+        "森林原人",
+        "沢井亮",
+        "春川せせら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABP-391"
+    },
+    {
+      "id": 78956,
+      "IDcode": "CHN-086",
+      "title": "新・絶対的美少女、お貸しします。 ACT.47 春川せせら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-4/1cc5392bdb41d1032ef7aca08e24e6d2.jpg",
+      "actress": [
+        "春川せせら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-086"
     }
   ]
 };

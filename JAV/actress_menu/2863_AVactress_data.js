@@ -34,13 +34,13 @@ window.actressData = {
     {
       "id": 6272,
       "IDcode": "VEC-699",
-      "title": "新人！隔壁騷氣人妻天天自慰讓我忍無可忍，理智崩盤欲望爆炸的激烈纏綿 首次亮相 AV DEBUT ~ 新山麻由美",
+      "title": "每天自慰的淫蕩鄰居妻子讓我忍無可忍",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-05-09",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250508/202505080707235151_thumbnail.webp",
       "actress": [
         "新山麻由美"

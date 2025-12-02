@@ -4,7 +4,7 @@ window.actressData = {
   "name": "辰美アカリ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 69470,
       "IDcode": "KNIP-005",
-      "title": "- A5ランクのダイナマイトボディ美少女。2度と現れない。2度と出会えない。おっぱい、くびれ、お尻すべて黄金比────。抱いても抱いても抱き足りない 大自然が育んだH（ホルスタイン）cup 色白美巨乳 辰美アカリ 爆誕 - JAV目錄大全javmenu.com",
+      "title": "A5ランクのダイナマイトボディ美少女。2度と現れない。2度と出会えない。おっぱい、くびれ、お尻すべて黄金比────。抱いても抱いても抱き足りない 大自然が育んだH（ホルスタイン）cup 色白美巨乳 辰美アカリ 爆誕",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "KNIP",
       "publish_date": "",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250718-1/e38c5206d1bfbcbb21a425d66ca1e5b7.jpg",
       "actress": [
         "辰美アカリ"
       ],

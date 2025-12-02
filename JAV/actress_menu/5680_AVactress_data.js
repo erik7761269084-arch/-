@@ -22,8 +22,47 @@ window.actressData = {
     "Amane Arisu"
   ],
   "gallery": [],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
+    {
+      "id": 103106,
+      "IDcode": "DOKS-479",
+      "title": "制服娘の乳首を執拗に触診する変態医師のワイセツ健康診断！女子",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "2019-04-01",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/8bf9fc45c55ab86b6f2caa080ea3c28d.jpg",
+      "actress": [
+        "麻里梨夏",
+        "春日部木叶",
+        "南星愛",
+        "天月叶菜",
+        "一乃瀬るりあ",
+        "天音ありす",
+        "和登こころ",
+        "朝长ゆき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOKS-479"
+    },
+    {
+      "id": 107748,
+      "IDcode": "MOT-176",
+      "title": "爆乳无毛妈妈-天音亚莉西",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/49e24746ef04e224c0ea452e132c3687.jpg",
+      "actress": [
+        "天音ありす"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOT-176"
+    },
     {
       "id": 90421,
       "IDcode": "PPBD-242",
@@ -31,10 +70,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2022-09-16",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/cc988ac8d5a1cf1b908edb39c16d19de.jpg",
       "actress": [
         "安部藍",
         "蒼空なつき",
@@ -48,22 +87,6 @@ window.actressData = {
         "天音ありす"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPBD-242"
-    },
-    {
-      "id": 107748,
-      "IDcode": "MOT-176",
-      "title": "爆乳パイパンママとHな赤ちゃんごっこ 天音ありす",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2016-07-25",
-      "cover_url": "",
-      "actress": [
-        "天音ありす"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOT-176"
     }
   ]
 };

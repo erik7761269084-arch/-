@@ -34,98 +34,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240110/56d3b559-e379-472f-bac9-21cf3264b6cf.jpg",
     "https://picture.yoshiclub.xyz/20240110/037df58b-4417-48f6-b571-873ce7305766.jpg"
   ],
-  "works_count": 9,
+  "works_count": 11,
   "related_dramas": [
-    {
-      "id": 4070,
-      "IDcode": "FNTR-007",
-      "title": "美少女內射精選集 有男友卻被陌生大屌猛插內射的女高中生 5人5小時大合集 ~ 星七奈奈美 江澄ゆゆ 乙羽あむ 甘井くるみ 鬆井日奈子",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2025-07-27",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250727/20250727110936375375_58683_thumbnail.webp",
-      "actress": [
-        "松井日奈子",
-        "星七奈奈美",
-        "乙羽あむ",
-        "甘井くるみ",
-        "江澄ゆゆ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNTR-007"
-    },
-    {
-      "id": 5893,
-      "IDcode": "BONY-145",
-      "title": "真實輪奸: 今日獵物是這對母娘 24小時上門輪奸 03 ~ 甘井くるみ よしい美希",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080254690690_thumbnail.webp",
-      "actress": [
-        "吉井美希",
-        "甘井くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-145"
-    },
-    {
-      "id": 7961,
-      "IDcode": "SAN-320",
-      "title": "被學生時代的恩師亂暴強奸，去沉迷於他大屌的女人 ~ 甘井くるみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "マザー",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250225/e1833394-5044-4a53-aa7f-fe6ad14bb068.jpg",
-      "actress": [
-        "甘井くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-320"
-    },
-    {
-      "id": 72786,
-      "IDcode": "AKDL-314",
-      "title": "チンポを舐めるのが大好きだけど精子が超～苦手な僕の彼女",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AKNR",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/b03e2416/vod.jpg",
-      "actress": [
-        "足立友梨",
-        "如月りいさ",
-        "朝比ゆの",
-        "鳥楽ひな",
-        "甘井くるみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-314"
-    },
-    {
-      "id": 12595,
-      "IDcode": "MVSD-612",
-      "title": "還在發育的田舍娘，過度敏感的身體在按摩時痛苦地翻滾中綻放。母親的情人（按摩師）每天給她提供愉悅的護理，成爲比母親還要淫蕩的女人 ~ 甘井くるみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MVG GROUP",
-      "publish_date": "2024-08-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816002921981981.jpg",
-      "actress": [
-        "甘井くるみ",
-        "栗原良"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-612"
-    },
     {
       "id": 13879,
       "IDcode": "SETM-029",
@@ -133,8 +43,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SOD",
+      "type": "",
+      "company": "",
       "publish_date": "2024-07-01",
       "cover_url": "https://picture.yoshiclub.xyz/20240618/6664cc96-83ac-454d-8f38-d2c0396a7e05.jpg",
       "actress": [
@@ -145,20 +55,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SETM-029"
     },
     {
-      "id": 16846,
-      "IDcode": "SDAB-291",
-      "title": "放學後的祕密會議教職員工性俱樂部",
+      "id": 15685,
+      "IDcode": "SDAB-310",
+      "title": "父母不在的一周，我被迫吸吮住在垃圾房的叔叔的臭雞巴，一遍又一遍地受精 ~ 甘井くるみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-02-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240109/202401090229211111.jpg",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240402/29d1d865-db7b-4a2d-a91f-da40ec4a5f3d.jpg",
       "actress": [
         "甘井くるみ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-310"
+    },
+    {
+      "id": 16431,
+      "IDcode": "SDAB-301",
+      "title": "甘井くるみ ~ 身材嬌小的大奶俱樂部經理，不斷被高級俱樂部成員的爆炸性大力抽插",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-02-06",
+      "cover_url": "https://picture.yoshiclub.xyz/20240207/20240207042214930930.jpg",
+      "actress": [
+        "甘井くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-301"
     },
     {
       "id": 89673,
@@ -167,32 +93,138 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-12-05",
-      "cover_url": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690b100746d2372859a60882/poster2.jpg",
       "actress": [
         "甘井くるみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-285"
     },
     {
-      "id": 10008,
-      "IDcode": "AKDL-307",
-      "title": "舌尖交纏，口水粘稠 和我互相愛吻的公司後輩 ~ 鳥楽ひな 甘井くるみ 足立友梨",
+      "id": 72786,
+      "IDcode": "AKDL-314",
+      "title": "チンポを舐めるのが大好きだけど精子が超～苦手な僕の彼女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AKNR",
-      "publish_date": "2019-11-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20241212/6053d510-048b-4f79-ad9f-22428c9833ba.jpg",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "足立友梨",
+        "如月りいさ",
+        "朝比ゆの",
+        "鳥楽ひな",
+        "甘井くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-314"
+    },
+    {
+      "id": 16846,
+      "IDcode": "SDAB-291",
+      "title": "偷拍老师俱乐部-甘井胡桃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240109/202401090229211111.jpg",
+      "actress": [
+        "甘井くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-291"
+    },
+    {
+      "id": 12595,
+      "IDcode": "MVSD-612",
+      "title": "发育正盛的乡下妹子-甘井胡桃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816002921981981.jpg",
+      "actress": [
+        "甘井くるみ",
+        "栗原良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-612"
+    },
+    {
+      "id": 10008,
+      "IDcode": "AKDL-307",
+      "title": "唾液が糸を引くほど舌を絡ませてキスせがんでくる接吻好き後輩 鳥楽ひな 足立友梨 甘井くるみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/51b5d21f/vod.jpg",
       "actress": [
         "足立友梨",
         "鳥楽ひな",
         "甘井くるみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-307"
+    },
+    {
+      "id": 7961,
+      "IDcode": "SAN-320",
+      "title": "学生時代の恩師に乱暴されるもそのデカチンにハマってしまった女 甘井くるみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250225/e1833394-5044-4a53-aa7f-fe6ad14bb068.jpg",
+      "actress": [
+        "甘井くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-320"
+    },
+    {
+      "id": 5893,
+      "IDcode": "BONY-145",
+      "title": "今日の獲物はこの母娘 24時間居座りレ●プ 03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080254690690_thumbnail.webp",
+      "actress": [
+        "吉井美希",
+        "甘井くるみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-145"
+    },
+    {
+      "id": 4070,
+      "IDcode": "FNTR-007",
+      "title": "美少女中出し総集編 大好きな彼氏がいるのに…他人棒デカチンをぶち込まれ中出しされた女子校生 5名収録",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "松井日奈子",
+        "星七奈奈美",
+        "乙羽あむ",
+        "甘井くるみ",
+        "江澄ゆゆ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FNTR-007"
     }
   ]
 };

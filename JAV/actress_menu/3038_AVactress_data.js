@@ -4,7 +4,7 @@ window.actressData = {
   "name": "架純",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 58115,
       "IDcode": "053122-001",
-      "title": "ピチピチ美人女子大生とチュッパチュッパSEX",
+      "title": "Pichi美丽的女大学生和ChupaChupaSEXKasumi",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "",
-      "publish_date": "2022-05-31",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230825-1/84364878f58494a4fafc4f288935104e.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/adace6d8a6fe13fa6f01975f60917c1b.jpg",
       "actress": [
         "架純"
       ],

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "のあた",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,20 +20,20 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 8545,
-      "IDcode": "MAAN-1049",
-      "title": "【和Tiktok上超火的美人主播的中出SEX】直奔酒店⇒立刻口交⇒立刻中出！巨大雞巴被塞進白皙美女緊致的陰道！怒濤3連戰 ~ 桃咲乃亞(原水色乃亞)",
+      "IDcode": "300MAAN-1049",
+      "title": "リスナー食いで炎上中の配信者と即ホテル⇒即フェラ⇒即中出し！色白美女のキツキツま〇こに巨チンをぶちこむ！とんとん拍子で進む怒涛の3連戦 桃咲ノア",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DOC",
-      "publish_date": "2025-01-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20250204/a4d72a2b-cf5e-43c0-ae7b-c99858766b98.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "桃咲乃亞",
         "のあた"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MAAN-1049"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1049"
     }
   ]
 };

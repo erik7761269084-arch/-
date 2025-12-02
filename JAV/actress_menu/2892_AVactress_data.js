@@ -61,26 +61,79 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623080644895895_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250623/20250623080645483483_l.webp"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 75047,
-      "IDcode": "NSM-016",
-      "title": "媚薬オイルマッサージ 痴●盗撮＆中出し素人娘VOL.16 超強力媚薬を配合したマッサージオイルを施術中に知らずに塗りこまれたオンナは、身体の火照りに驚き、チ○ポを欲しがる自分に戸惑い、垂れ出したマン汁に恥ずかしがりながらも生ハメ中出しまで欲してしまう！",
+      "id": 5077,
+      "IDcode": "KTRA-724",
+      "title": "極致誘惑細腰辣妹精選 4小時 ~ 神宮寺奈緒 東條夏 胡桃多惠 日向澪 まなかかな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/92d98634bd7bf28b30e635517142ad0f.jpg",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250623/20250623075745305305_thumbnail.webp",
       "actress": [
-        "七海雛",
-        "まなかかな",
-        "爱乃零",
-        "音海里奈"
+        "東條夏",
+        "神宫寺奈緒",
+        "胡桃多惠",
+        "日向澪",
+        "まなかかな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-724"
+    },
+    {
+      "id": 521628,
+      "IDcode": "200GANA-2060",
+      "title": "マジ软派、初撮。 1316 原宿で买い物中の纯朴系雑货屋女子を谢礼で钓ってゲット。AV撮影に乘り気じゃなかったけど、电マでオナニーし",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-04-15",
+      "cover_url": "",
+      "actress": [
+        "ゆうき",
+        "まなかかな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2060"
+    },
+    {
+      "id": 98156,
+      "IDcode": "315ETQR-043",
+      "title": "からかい上手の教え子とエッチしよ まなかかな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Eromanga",
+      "publish_date": "2018-06-25",
+      "cover_url": "",
+      "actress": [
+        "まなかかな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-043"
+    },
+    {
+      "id": 76509,
+      "IDcode": "NHDTB-343",
+      "title": "痴漢泣き寝入り娘2 拒絶しながらも半べそ顔でイってしまった黒髪女子○生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/97743b8d8d8cf4b0d40bbbae9e070a60.jpg",
+      "actress": [
+        "泉莉音",
+        "まなかかな",
+        "冬爱琴音",
+        "仓木诗织"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-343"
     },
     {
       "id": 75842,
@@ -89,10 +142,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/725fa894a6aa643b87df8e7538b98c72.jpg",
       "actress": [
         "乙愛麗絲",
         "皆月光",
@@ -110,10 +163,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-12-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/a5421838a03b6eb1939c188c4380e945.jpg",
       "actress": [
         "夏原唯",
         "まなかかな",
@@ -125,23 +178,23 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ARM-820"
     },
     {
-      "id": 76509,
-      "IDcode": "NHDTB-343",
-      "title": "痴漢泣き寝入り娘2 拒絶しながらも半べそ顔でイってしまった黒髪女子○生",
+      "id": 75047,
+      "IDcode": "NSM-016",
+      "title": "媚薬オイルマッサージ 痴●盗撮＆中出し素人娘VOL.16 超強力媚薬を配合したマッサージオイルを施術中に知らずに塗りこまれたオンナは、身体の火照りに驚き、チ○ポを欲しがる自分に戸惑い、垂れ出したマン汁に恥ずかしがりながらも生ハメ中出しまで欲してしまう！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DREAMTICKET",
-      "publish_date": "2019-11-21",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241207-1/fec664c70e5c32c12b73fc4680de8d3d.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/180a7b3fc2c9205899a9c4fcbb579ca9.jpg",
       "actress": [
-        "泉莉音",
+        "七海雛",
         "まなかかな",
-        "冬爱琴音",
-        "仓木诗织"
+        "爱乃零",
+        "音海里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-343"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSM-016"
     },
     {
       "id": 71629,
@@ -150,33 +203,16 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
-      "publish_date": "2019-07-11",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ccca96fba7d98ecaaf43e842dfc0c4d9.jpg",
       "actress": [
         "まなかかな",
         "鲛岛",
         "小田切ジュン"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FSET-837"
-    },
-    {
-      "id": 73866,
-      "IDcode": "GANA-2060",
-      "title": "マジ軟派、初撮。 1316 原宿で買い物中の純朴系雑貨屋女子を謝礼で釣ってゲット。AV撮影に乗り気じゃなかったけど、電マでオナニーしていたら気持ち良くなってきて…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2019-04-15",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250104-1/733bdab8a18f61373e7d25eae6111fa4.jpg",
-      "actress": [
-        "ゆうき",
-        "まなかかな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2060"
     }
   ]
 };

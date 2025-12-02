@@ -4,7 +4,7 @@ window.actressData = {
   "name": "湊ふうか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 2384,
       "IDcode": "SAN-392",
-      "title": "素人初撮 AV首秀 ~ 湊ふうか",
+      "title": "初撮りAVデビュー 湊ふうか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
-      "publish_date": "2025-09-29",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250929/20250929213346919919_91816_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e17a8779f1ac4ec48ede1f/cover.jpg",
       "actress": [
         "湊ふうか"
       ],

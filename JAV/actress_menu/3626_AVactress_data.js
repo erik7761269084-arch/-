@@ -22,23 +22,56 @@ window.actressData = {
     "Tsubasa"
   ],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 66754,
-      "IDcode": "GANA-2950",
-      "title": "マジ軟派、初撮。 1987 仕事帰りのおっとりした美人女性と貪るような激しいSEX！お酒を飲むとドM性が領域展開し、潮を吹いてイキまくり！！SEXに没頭する姿はまさに野獣。SEXこそ、最高のストレス発散です。",
+      "id": 495927,
+      "IDcode": "200GANA-2950",
+      "title": "マジ軟派、初撮。 1987 仕事帰りのおっとりした美人女性と貪るような激しいSEX",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2023-11-07",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "つばさ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GANA-2950"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=200GANA-2950"
+    },
+    {
+      "id": 103537,
+      "IDcode": "300MAAN-0912",
+      "title": "【ハメ潮ドバドバの露出ガール】海の駐車場で生着替えに遭遇！？そのままナンパで持ち帰り♪手マンで感じすぎ即潮吹き！満足のいくチ●コとご対面！思い切り頬張り玉裏まで丁寧にしゃぶり尽くすッ！立ちバックでハメ潮が止まらないwハメまくり中出しで底抜けの性欲女王をイカせまくり！！【もしも。】【つばさ】",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b152645f13d063bcc27af9/cover.jpg",
+      "actress": [
+        "永野司",
+        "つばさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0912"
+    },
+    {
+      "id": 100930,
+      "IDcode": "SIRO-5170",
+      "title": "美护士美臀打屁股受虐狂精神强烈即使痛苦也感觉良好的变态美护士来了有经验的人还不算50人左右初拍AV线上申请AV体验拍摄2060",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "つばさ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5170"
     }
   ]
 };

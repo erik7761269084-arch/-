@@ -49,18 +49,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250626/3f424d87-f3cd-44e1-8d77-20f2dbcf0ec6_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250626/685ddd7a-65ac-4852-b650-e1860d171955_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 3146,
-      "IDcode": "MIDA-301",
-      "title": "高潮連連被玩壞！初次追擊絕頂快感 ~ 純白彩永",
+      "id": 4987,
+      "IDcode": "MIDA-210",
+      "title": "新人 現役女子大生 専属 億超えルーキーHカップ 純白彩永 AV Debut！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-28",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae82fb81bce592e9c18c38/cover.jpg",
+      "actress": [
+        "純白彩永"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-210"
+    },
+    {
+      "id": 3992,
+      "IDcode": "MIDA-272",
+      "title": "ぜーんぶ初体験！！セックス開発 3本番Special！！ 純白彩永",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084720249249_97112_thumbnail.webp",
+      "actress": [
+        "純白彩永",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-272"
+    },
+    {
+      "id": 3146,
+      "IDcode": "MIDA-301",
+      "title": "高潮后还能高潮抖个不停的快感第一次体验追击高潮-纯白彩永",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828022222712712_12933_thumbnail.webp",
       "actress": [
         "純白彩永",
@@ -69,21 +102,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-301"
     },
     {
-      "id": 3992,
-      "IDcode": "MIDA-272",
-      "title": "初體驗解禁！大型新人女優的性欲大開發 三本番Special ~ 純白彩永",
+      "id": 2338,
+      "IDcode": "MIDA-342",
+      "title": "H罩杯真心服务亿级新人第一次体验泡泡浴-纯白彩永",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084720249249_97112_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/8bfca89b/vod.jpg",
       "actress": [
-        "純白彩永",
-        "田渊正浩"
+        "純白彩永"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-272"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDA-342"
     }
   ]
 };

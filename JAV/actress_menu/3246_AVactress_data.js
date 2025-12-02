@@ -4,7 +4,7 @@ window.actressData = {
   "name": "新井爱丽",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,81 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 37,
+  "works_count": 38,
   "related_dramas": [
-    {
-      "id": 2980,
-      "IDcode": "HDKA-323",
-      "title": "全裸主婦 巨臀誘惑精選VOL.03 ~ 藤森裏穂 聖妃羽裏 吉根柚莉愛 永井瑪麗亞 倉多真央 佐々木咲和 羽田つばさ 姫咲華 推川悠裏",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906012901207207_83779_thumbnail.webp",
-      "actress": [
-        "吉根柚莉爱",
-        "姫咲華",
-        "藤森里穂",
-        "推川悠里",
-        "仓多真央",
-        "永井瑪麗亞",
-        "聖妃羽里",
-        "佐々木咲和",
-        "羽田つばさ",
-        "舞原圣",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-323"
-    },
-    {
-      "id": 90367,
-      "IDcode": "PBD-451",
-      "title": "可憐すぎる美女達VS男1人。 挟み撃ち王様ハーレムBEST",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MUGEN",
-      "publish_date": "2023-10-17",
-      "cover_url": "",
-      "actress": [
-        "山岸逢花",
-        "仓多真央",
-        "水户香奈",
-        "凛音とうか",
-        "星奈爱",
-        "安倍亜沙美",
-        "舞原圣",
-        "新井爱丽",
-        "君岛美绪"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-451"
-    },
-    {
-      "id": 91351,
-      "IDcode": "CJOB-132",
-      "title": "奪い合いハーレム追撃お掃除フェラBEST「もう射精してるってばぁ～！」状態でもこねくり射精されちゃったボク",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "癡女特化",
-      "publish_date": "2023-06-27",
-      "cover_url": "",
-      "actress": [
-        "松本一香",
-        "AIKA",
-        "辻井穗乃果",
-        "佐山爱",
-        "吉良鈴",
-        "安倍亜沙美",
-        "椎叶みくる",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-132"
-    },
     {
       "id": 88930,
       "IDcode": "UMSO-507",
@@ -98,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240830/RKpEuDfN/1.jpg",
       "actress": [
         "波多野结衣",
         "森澤佳奈",
@@ -123,10 +50,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-05",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20230921/aWzhyQjG/1.jpg",
       "actress": [
         "美園和花",
         "森澤佳奈",
@@ -147,10 +74,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
       "publish_date": "2022-08-24",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231230-1/b648c57bd56d3bcfae0f855408e69612.jpg",
+      "cover_url": "",
       "actress": [
         "AIKA",
         "通野未帆",
@@ -169,11 +96,11 @@ window.actressData = {
     {
       "id": 87479,
       "IDcode": "HZGB-037",
-      "title": "6周年記念！！孕ませ中出し50連発 超高画質【4K】Ultra HD収録作品 永久保存版",
+      "title": "6周年記念！！孕ませ中出し50連発 超高画質Ultra 収録作品 永久保存版",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻花園劇場",
       "publish_date": "2022-08-12",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230728-1/badbb5df4b52a79133f7b3d277ab5cfa.jpg",
@@ -198,88 +125,15 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "FITCH",
       "publish_date": "2021-06-13",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241006-1/328dde2c2b34f667d61147f3da168738.jpg",
       "actress": [
         "新村晶",
         "新井爱丽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-297"
-    },
-    {
-      "id": 88297,
-      "IDcode": "DPMI-053",
-      "title": "ドM痴女 晶エリー 大浦真奈美",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MILU",
-      "publish_date": "2020-10-13",
-      "cover_url": "",
-      "actress": [
-        "大浦真奈美",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-053"
-    },
-    {
-      "id": 77624,
-      "IDcode": "JUFE-201",
-      "title": "巨乳癡女淫語射精管理究極自慰指令 晶愛理",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2020-09-01",
-      "cover_url": "",
-      "actress": [
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-201"
-    },
-    {
-      "id": 104540,
-      "IDcode": "HNDS-069",
-      "title": "本中10周年記念作品！！美少女中出し島完全版おもてもうらも全部見せちゃいます！240分SPECIAL",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-08-25",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hnds069/hnds069pl.jpg",
-      "actress": [
-        "波多野结衣",
-        "大槻响",
-        "AIKA",
-        "渚光希",
-        "葵玲奈",
-        "枢木葵",
-        "蓮実クレア",
-        "Qべぇ",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-069"
-    },
-    {
-      "id": 66726,
-      "IDcode": "EKW-059",
-      "title": "土下座痴女 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "素人Only",
-      "publish_date": "2020-05-29",
-      "cover_url": "",
-      "actress": [
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-059"
     },
     {
       "id": 82164,
@@ -288,7 +142,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "无码",
       "company": "PREMIUM",
       "publish_date": "2020-04-07",
       "cover_url": "",
@@ -305,31 +159,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MARRION",
       "publish_date": "2020-04-01",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/e8cd7655e4a1313aff190307a040eaa6.jpg",
       "actress": [
         "新井爱丽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMKZ-074"
-    },
-    {
-      "id": 81510,
-      "IDcode": "CJOD-232",
-      "title": "出張先のビジネスホテルで女上司2人とまさかの相部屋W杭打ち騎乗位で朝まで中出しされるボク…。3 波多野結衣 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-03-25",
-      "cover_url": "",
-      "actress": [
-        "波多野结衣",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-232"
     },
     {
       "id": 74763,
@@ -338,10 +175,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "GLORY QUEST",
       "publish_date": "2020-03-19",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/85324711ac2a9bd2d9f80dad3e2a2850.jpg",
       "actress": [
         "新井爱丽"
       ],
@@ -354,7 +191,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2020-03-13",
       "cover_url": "",
@@ -375,10 +212,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/ee1051279bb92fc94e44e7f91b3fe013.jpg",
+      "cover_url": "",
       "actress": [
         "北条麻妃",
         "吹石玲奈",
@@ -392,51 +229,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBSS-031"
     },
     {
-      "id": 81504,
-      "IDcode": "BIJN-175",
-      "title": "SEXに貪欲な女を焦らして性感帯覚醒手技で高めて墜とす！ 潮吹き悶絶イキ狂う32歳バツイチ女の絶頂中出しSEX 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2020-03-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221028-1/cd5cbfa30b2d8d848ae14bcce208c5a4.jpg",
-      "actress": [
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-175"
-    },
-    {
-      "id": 82587,
-      "IDcode": "HND-801",
-      "title": "SEXの天才 月に一度の異常なる性欲 1発中出ししても終わらせない追撃連続SEXで燃え尽きたい… 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2020-02-25",
-      "cover_url": "",
-      "actress": [
-        "森林原人",
-        "鲛岛",
-        "玉木玲",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-801"
-    },
-    {
       "id": 81667,
       "IDcode": "DASD-636",
       "title": "続・巨チン美少女のザーメンには強●女体化させる成分が含まれています。 晶エリー 大浦真奈美 美谷朱里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221031-1/76c26efaf3db4ebb886fb16b725798bd.jpg",
+      "cover_url": "",
       "actress": [
         "美谷朱里",
         "大浦真奈美",
@@ -452,16 +254,16 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "TMA",
       "publish_date": "2020-02-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221126-1/2bda46a5ead982a2e193cf7d3299ec4c.jpg",
+      "cover_url": "",
       "actress": [
         "黑川堇",
         "宫泽千春",
+        "永瀬ゆい",
         "蓮実クレア",
         "真田さな",
-        "永濑唯",
         "篠田优",
         "稻场流花",
         "新井爱丽",
@@ -472,101 +274,14 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HGOT-027"
     },
     {
-      "id": 77878,
-      "IDcode": "MDBK-085",
-      "title": "バブみ満開！！「自宅が保育園」が売り文句の巨乳保育士デリヘル",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2020-02-14",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/7aea75f9a5a301521d0d0e5e43d3f3bf.jpg",
-      "actress": [
-        "美園和花",
-        "上野真奈美",
-        "新井爱丽",
-        "古贺まつな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-085"
-    },
-    {
-      "id": 82351,
-      "IDcode": "DASD-623",
-      "title": "催●洗脳された巨乳アイドルは嫌がりながらも淫乱ビッチになっていた 深田えいみ 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-25",
-      "cover_url": "",
-      "actress": [
-        "深田詠美",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-623"
-    },
-    {
-      "id": 77396,
-      "IDcode": "CJOD-223",
-      "title": "メスイキの神髄に出会ういつものオナニーより精子がビュルビュル出るドライオーガズムの世界～初級MANIAX編～ 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241204-1/de9707054cf694af80c8989c377c7a52.jpg",
-      "actress": [
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-223"
-    },
-    {
-      "id": 75516,
-      "IDcode": "JUFE-132",
-      "title": "妻が社員旅行で家にいない間に巨乳で美人の妻の姉を犯し中出ししまくった5日間の調教記録 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
-      "actress": [
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-132"
-    },
-    {
-      "id": 77437,
-      "IDcode": "DASD-611",
-      "title": "ママ友カースト",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-12-25",
-      "cover_url": "",
-      "actress": [
-        "真木今日子",
-        "加藤あやの",
-        "水城奈緒",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-611"
-    },
-    {
       "id": 83633,
       "IDcode": "MIRD-198",
       "title": "潮吹き5人姉妹 両親が不在の間に汁まみれで痴女られまくったボク…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
+      "type": "",
+      "company": "",
       "publish_date": "2019-12-13",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/c15ad6e677f4816665dd45aa93c2cfa5.jpg",
       "actress": [
@@ -579,49 +294,361 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-198"
     },
     {
-      "id": 84165,
-      "IDcode": "DASD-599",
-      "title": "出張で居ない三日間、パイパン巨乳の彼女は俺の親父に寝取られ種付けプレスされていた。 晶エリー",
+      "id": 104678,
+      "IDcode": "RBD-283",
+      "title": "把模特姐妹和潜伏的教师送上奴隶的舞台",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/deeb0d9c3c56e8a99b977949f38f8853.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "一ノ瀬アメリ",
+        "新井爱丽",
+        "雫パイン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-283"
+    },
+    {
+      "id": 104540,
+      "IDcode": "HNDS-069",
+      "title": "美少女中出島完全版",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/hnds069/hnds069pl.jpg",
+      "actress": [
+        "波多野结衣",
+        "大槻响",
+        "AIKA",
+        "渚光希",
+        "葵玲奈",
+        "枢木葵",
+        "蓮実クレア",
+        "Qべぇ",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNDS-069"
+    },
+    {
+      "id": 91351,
+      "IDcode": "CJOB-132",
+      "title": "奪い合いハーレム追撃お掃除フェラBEST「もう射精してるってばぁ～！」状態でもこねくり射精されちゃったボク",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/3f9ed4026c467a366585c6edc088b0dc.jpg",
+      "actress": [
+        "松本一香",
+        "AIKA",
+        "辻井穗乃果",
+        "佐山爱",
+        "吉良鈴",
+        "安倍亜沙美",
+        "椎叶みくる",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOB-132"
+    },
+    {
+      "id": 90367,
+      "IDcode": "PBD-451",
+      "title": "可憐すぎる美女達VS男1人。 挟み撃ち王様ハーレムBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/3e8f6c6816d2ba62ef9cbae86f41e4f8.jpg",
+      "actress": [
+        "山岸逢花",
+        "仓多真央",
+        "水户香奈",
+        "凛音とうか",
+        "星奈爱",
+        "安倍亜沙美",
+        "舞原圣",
+        "新井爱丽",
+        "君岛美绪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-451"
+    },
+    {
+      "id": 88428,
+      "IDcode": "MIAA-149",
+      "title": "潮吹きSEXの天才003 晶エリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/11bfdfaa3c43667720cdb5e9b403e950.jpg",
+      "actress": [
+        "鲛岛",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-149"
+    },
+    {
+      "id": 88297,
+      "IDcode": "DPMI-053",
+      "title": "ドM痴女 晶エリー 大浦真奈美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MILU",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/daa9197b0789dbf71f3b9d9ed68d7f68.jpg",
+      "actress": [
+        "大浦真奈美",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DPMI-053"
+    },
+    {
+      "id": 87919,
+      "IDcode": "PRED-188",
+      "title": "出差的期间我的老婆每天都被我的部下内射好几次",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4d661143b31546a0ca8bc712231815b9.jpg",
+      "actress": [
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-188"
+    },
+    {
+      "id": 84165,
+      "IDcode": "DASD-599",
+      "title": "在他出差的三天里-晶エリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/e619998d7bb6bf759ff9a646af8fa36e.jpg",
       "actress": [
         "新井爱丽"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-599"
     },
     {
-      "id": 78536,
-      "IDcode": "CJOD-214",
-      "title": "こっそりノーパンノーブラお姉ちゃん達に一斉攻撃で誘惑されちゃったボク。 晶エリー 波多野結衣",
+      "id": 82587,
+      "IDcode": "HND-801",
+      "title": "异常的性欲连续做爱-晶エリー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-11-25",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "森林原人",
+        "鲛岛",
+        "玉木玲",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HND-801"
+    },
+    {
+      "id": 82482,
+      "IDcode": "EBOD-712",
+      "title": "传说中的痴女女优晶惠里完美身材独自挑战众多男优12连发内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/9e40ab3a15ae042712f509ab4191e1c4.jpg",
+      "actress": [
+        "森林原人",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-712"
+    },
+    {
+      "id": 82351,
+      "IDcode": "DASD-623",
+      "title": "被洗脑催眠的巨乳偶像",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "深田詠美",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-623"
+    },
+    {
+      "id": 81510,
+      "IDcode": "CJOD-232",
+      "title": "出差地两个黑丝女上司-晶エリー 波多野結衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "波多野结衣",
         "新井爱丽"
       ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-232"
+    },
+    {
+      "id": 81504,
+      "IDcode": "BIJN-175",
+      "title": "SEXに貪欲な女を焦らして性感帯覚醒手技で高めて墜とす！ 潮吹き悶絶イキ狂う32歳バツイチ女の絶頂中出しSEX 晶エリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/7397586453c52d309975e7e5bb329373.jpg",
+      "actress": [
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-175"
+    },
+    {
+      "id": 78536,
+      "IDcode": "CJOD-214",
+      "title": "女朋友的两个痴女姐姐不穿内裤诱惑我内射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d285fb0e49fd86dc567aa40e38b13bdb.jpg",
+      "actress": [
+        "波多野结衣",
+        "晶エリー",
+        "新井爱丽"
+      ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-214"
+    },
+    {
+      "id": 77878,
+      "IDcode": "MDBK-085",
+      "title": "バブみ満開！！「自宅が保育園」が売り文句の巨乳保育士デリヘル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美園和花",
+        "上野真奈美",
+        "新井爱丽",
+        "古贺まつな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDBK-085"
+    },
+    {
+      "id": 77624,
+      "IDcode": "JUFE-201",
+      "title": "绝对的俯视暮光-晶爱丽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/eff1dfbd6d94fdd1737347f72ebb0359.jpg",
+      "actress": [
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-201"
+    },
+    {
+      "id": 77437,
+      "IDcode": "DASD-611",
+      "title": "因为老公职务被压一头就被同楼的女人们玩弄找男人轮奸内射的悲惨人妻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "真木今日子",
+        "加藤あやの",
+        "水城奈緒",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASD-611"
+    },
+    {
+      "id": 77396,
+      "IDcode": "CJOD-223",
+      "title": "痴女天堂-晶エリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "癡女特化",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/91c30937979247ff2a42969de7ddcf66.jpg",
+      "actress": [
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CJOD-223"
+    },
+    {
+      "id": 77024,
+      "IDcode": "PPPD-798",
+      "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 晶エリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-798"
     },
     {
       "id": 76012,
       "IDcode": "HND-756",
-      "title": "快感・絶頂・精液・イクイク潮吹き無限ループ！！ 性欲が尽きるまでおかわり中出し性交 晶エリー",
+      "title": "中出し性交-晶エリー",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "本中",
-      "publish_date": "2019-11-25",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/9ab9c54a7061e51b98046747626e7af1.jpg",
       "actress": [
         "鲛岛",
         "新井爱丽"
@@ -631,13 +658,13 @@ window.actressData = {
     {
       "id": 75726,
       "IDcode": "JUL-043",
-      "title": "暴風雨 憧れの人妻宅配員と二人だけの夜 晶エリー",
+      "title": "暴雨夜强上了暗恋已久的巨乳肥臀牛仔裤人妻快递员不断活塞的夜晚",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-11-25",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "イセドン内村",
@@ -646,81 +673,31 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-043"
     },
     {
-      "id": 77024,
-      "IDcode": "PPPD-798",
-      "title": "彼女のお姉さんは巨乳と中出しOKで僕を誘惑 晶エリー",
+      "id": 75516,
+      "IDcode": "JUFE-132",
+      "title": "老婆去旅行的五天我强奸她的美女巨乳姐姐每天都疯狂内射逐渐蚕食她的理智",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "OPPAI",
-      "publish_date": "2019-10-19",
-      "cover_url": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/18005033db71a92dbf8ee93bb6738608.jpg",
       "actress": [
         "新井爱丽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPD-798"
-    },
-    {
-      "id": 82482,
-      "IDcode": "EBOD-712",
-      "title": "伝説の痴女優‘晶エリー’の中出し12連発させちゃう完熟ボディ＆熟練SEX",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2019-10-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/ccb142553ceb9a4ceaff56003905a1cb.jpg",
-      "actress": [
-        "森林原人",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBOD-712"
-    },
-    {
-      "id": 87919,
-      "IDcode": "PRED-188",
-      "title": "社員寮NTR ～出張不在！妻と部下の浮気中出し映像～",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PREMIUM",
-      "publish_date": "2019-10-07",
-      "cover_url": "",
-      "actress": [
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-188"
-    },
-    {
-      "id": 88428,
-      "IDcode": "MIAA-149",
-      "title": "潮吹きSEXの天才003 晶エリー",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2019-09-13",
-      "cover_url": "",
-      "actress": [
-        "鲛岛",
-        "新井爱丽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-149"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-132"
     },
     {
       "id": 72924,
       "IDcode": "RKI-053",
-      "title": "世界で一番大きなチンポを持つ男のSEX 晶エリー 乃亜 早川瀬里奈 星優乃",
+      "title": "这世界上最大屌的男人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ROOKIE",
-      "publish_date": "2010-01-19",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "早川瀬里奈",
@@ -729,6 +706,48 @@ window.actressData = {
         "鸟越乃亜"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
+    },
+    {
+      "id": 66726,
+      "IDcode": "EKW-059",
+      "title": "淫荡痴女母狗-晶エリー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/8a8f0c16c48d289a7b1c415896eb5bb8.jpg",
+      "actress": [
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EKW-059"
+    },
+    {
+      "id": 2980,
+      "IDcode": "HDKA-323",
+      "title": "はだかの主婦 巨尻特化セレクションVOL.03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/09/25/ad0832de/vod.jpg",
+      "actress": [
+        "吉根柚莉爱",
+        "姫咲華",
+        "藤森里穂",
+        "推川悠里",
+        "仓多真央",
+        "永井瑪麗亞",
+        "聖妃羽里",
+        "佐々木咲和",
+        "羽田つばさ",
+        "舞原圣",
+        "新井爱丽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HDKA-323"
     }
   ]
 };

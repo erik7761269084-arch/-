@@ -29,23 +29,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250311/96b0683a-2d9f-4683-9b4f-9f59d86069a0.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 7628,
       "IDcode": "SDAM-136",
-      "title": "新人出道！無法放下戀愛的破罐子破摔 處女出道(20) ~ 花鳥鬥架",
+      "title": "片思いを捨てられなかったやけくそ処女 斗架（20）処女デビュー 花鳥斗架",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2025-04-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20250311/20250311110726205205.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/a9d91d148181724ef7fac10559da388f.jpg",
       "actress": [
         "花鳥斗架"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-136"
+    },
+    {
+      "id": 7105,
+      "IDcode": "SDAM-137",
+      "title": "14日前まで処女だったライブ配信歌手 斗架（20）の未熟マ〇コが巨根マッチョのガチピストンSEXで経験人数＋5人密着ドキュメント 花鳥斗架",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce3b5779f1ac4ec4659c29/cover.jpg",
+      "actress": [
+        "花鳥斗架"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-137"
     }
   ]
 };

@@ -36,34 +36,51 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/GFriends/Content/5-痴女天堂/芦名未帆.jpg"
   ],
-  "works_count": 4,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 1784,
-      "IDcode": "S2MBD-002",
-      "title": "安可 Vol.2：峰藤幸",
+      "id": 99881,
+      "IDcode": "MIDD-685",
+      "title": "夫に売られた奴隷人妻 芦名未帆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "MUGEN",
-      "publish_date": "2019-08-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20230207/27ea3d82-833e-460d-8940-bb298e228d94.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-10-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd685/midd685pl.jpg",
       "actress": [
         "芦名未帆"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-002"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-685"
+    },
+    {
+      "id": 78895,
+      "IDcode": "MIDD-739",
+      "title": "強制男潮吹-芦名未帆",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2021/09/02/a29272581e90482e2ac4e869c55e7d1d.jpg",
+      "actress": [
+        "芦名未帆",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-739"
     },
     {
       "id": 68519,
       "IDcode": "UPSM-185",
-      "title": "馬上幹中出專門外送風俗女郎",
+      "title": "中式快餐",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2012-01-13",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250409-1/ed96a8aa9daa8ead1e0fad2184ad0fcd.jpg",
       "actress": [
         "本真友里",
@@ -75,37 +92,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UPSM-185"
     },
     {
-      "id": 78895,
-      "IDcode": "MIDD-739",
-      "title": "強制男潮吹かせクリニックVol.3 芦名未帆",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-02-13",
-      "cover_url": "",
-      "actress": [
-        "芦名未帆",
-        "しみけん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-739"
-    },
-    {
       "id": 1919,
       "IDcode": "S2MBD-006",
-      "title": "安可 Vol.6：峰藤幸",
+      "title": "アンコール Vol.6-美祢藤コウ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2010-05-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20230208/89718646-80c7-41a5-ac60-1bc996cd41a0.webp",
       "actress": [
         "芦名未帆"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-006"
+    },
+    {
+      "id": 1784,
+      "IDcode": "S2MBD-002",
+      "title": "雪国出身粉嫩美鲍鱼出击-美祢藤コウ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230207/27ea3d82-833e-460d-8940-bb298e228d94.webp",
+      "actress": [
+        "芦名未帆"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=S2MBD-002"
     }
   ]
 };

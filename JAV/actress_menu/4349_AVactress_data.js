@@ -4,7 +4,7 @@ window.actressData = {
   "name": "藤井知花",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2025-02-04",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/14/13105972/vod.jpg",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250816-1/a473e85114ad09739a6b7a7d97ca1c99.jpg",
       "actress": [
         "藤井知花"
       ],

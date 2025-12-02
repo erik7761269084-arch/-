@@ -35,7 +35,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2024-07-25",
       "cover_url": "https://picture.yoshiclub.xyz/20240625/1e83ba35-fd3a-4ae0-8cf5-e3823e36b366.jpg",

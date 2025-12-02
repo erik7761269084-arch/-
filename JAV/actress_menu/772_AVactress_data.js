@@ -29,66 +29,8 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231128/eb7ce03b-4a45-43d1-a940-82529277e5d2.jpg"
   ],
-  "works_count": 11,
+  "works_count": 15,
   "related_dramas": [
-    {
-      "id": 7423,
-      "IDcode": "IENF-378",
-      "title": "寄宿處的老板娘和她的閨蜜們把我當成了遊戲的唯一的國王 ~ 仲川空 久和原聖羅 五十嵐美月 花芽有朱 天野花乃",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IENERGY",
-      "publish_date": "2025-03-20",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
-      "actress": [
-        "久和原聖羅",
-        "五十嵐美月",
-        "天野花乃",
-        "仲川空",
-        "花芽有朱"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
-    },
-    {
-      "id": 9785,
-      "IDcode": "AARM-268",
-      "title": "「69大合集」互相舔吸對方的雞巴和乳頭 ~ 弘中優 仲川空 青田悠華 円井萌華 宇流木沙羅 等",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "AROMA PLANNING",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241219/c6d4b21f-2753-40ec-a450-b49bfd5dadb9.jpg",
-      "actress": [
-        "宇流木沙羅",
-        "円井萌華",
-        "滝ゆいな",
-        "弘中優",
-        "青田悠華",
-        "宇佐美みおん",
-        "仲川空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-268"
-    },
-    {
-      "id": 93682,
-      "IDcode": "ONSG-080",
-      "title": "巨乳デリヘル Gカップ 仲川そら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Gain Corporation",
-      "publish_date": "2024-06-25",
-      "cover_url": "",
-      "actress": [
-        "仲川空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-080"
-    },
     {
       "id": 17566,
       "IDcode": "SAN-190",
@@ -96,7 +38,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-11-28",
       "cover_url": "https://picture.yoshiclub.xyz/20231128/fc2c7b69-f309-4a0b-831f-a27afca6f89d.jpg",
@@ -113,7 +55,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "Sadistic Village",
       "publish_date": "2023-11-23",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231218-1/03b4c8a261669c73d049931d9ef4ff4b.jpg",
@@ -131,10 +73,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Sadistic Village",
+      "type": "",
+      "company": "TMA",
       "publish_date": "2023-11-23",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240805/h9GO5K1L/1.jpg",
       "actress": [
         "沙月惠奈",
         "伊織雛乃",
@@ -149,7 +91,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2023-10-18",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231217-1/a37b704b28800a03b3ecf2b13d4c3c3f.jpg",
@@ -166,7 +108,7 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "マザー",
       "publish_date": "2023-09-30",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/8c66d42615cfd1bdb93c56420730e940.jpg",
@@ -182,30 +124,14 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
       "publish_date": "2023-09-19",
-      "cover_url": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/30/69028f4379f1ac4ec4ca2118/poster2.jpg",
       "actress": [
         "仲川空"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SUJI-200"
-    },
-    {
-      "id": 91377,
-      "IDcode": "CHUC-034",
-      "title": "最高カワイイ僕専用セフレ そら（20） 仲川そら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-05-27",
-      "cover_url": "",
-      "actress": [
-        "仲川空"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-034"
     },
     {
       "id": 88834,
@@ -214,14 +140,160 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
       "publish_date": "2023-05-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20240826/XkENigQ6/1.jpg",
       "actress": [
         "仲川空"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TDAN-003"
+    },
+    {
+      "id": 93682,
+      "IDcode": "ONSG-080",
+      "title": "巨乳デリヘル Gカップ 仲川そら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Gain Corporation",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d99767ce5a404e9bbba291/cover.jpg",
+      "actress": [
+        "仲川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONSG-080"
+    },
+    {
+      "id": 91377,
+      "IDcode": "CHUC-034",
+      "title": "最高カワイイ僕専用セフレ そら（20） 仲川そら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/c29cfec8283c0a2ba1662677361498d6.jpg",
+      "actress": [
+        "仲川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-034"
+    },
+    {
+      "id": 11299,
+      "IDcode": "MVSD-601",
+      "title": "【初撮】マジでめちゃくちゃ可愛い正統派美少女。むちむちボディが超エロい！イキ狂いの魔法にかけられた誰でもウエルカム神ヤリマン ソラちゃん 22歳",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MVG GROUP",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/64bc116e4ab549ad489732ca0f5bf3ed.jpg",
+      "actress": [
+        "仲川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-601"
+    },
+    {
+      "id": 9785,
+      "IDcode": "AARM-268",
+      "title": "互相舔舐乳头",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AROMA PLANNING",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250120-1/60026e4d596d784d4af1cf75e96fa6f0.jpg",
+      "actress": [
+        "宇流木沙羅",
+        "円井萌華",
+        "滝ゆいな",
+        "弘中優",
+        "青田悠華",
+        "宇佐美みおん",
+        "仲川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AARM-268"
+    },
+    {
+      "id": 8635,
+      "IDcode": "DVMM-199",
+      "title": "巨乳女子大生さん！タオル一枚男湯でチ○ポ洗ってもらえませんか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250201/20250201035131659659.jpg",
+      "actress": [
+        "宮西光",
+        "仲川空",
+        "沙優七羽",
+        "足立るい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-199"
+    },
+    {
+      "id": 7423,
+      "IDcode": "IENF-378",
+      "title": "下宿先の奥様とママ友達に男は僕1人の王様ゲーム",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IENERGY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/62dedebc-c95e-4bb1-b7bc-941e03571c08.jpg",
+      "actress": [
+        "久和原聖羅",
+        "五十嵐美月",
+        "天野花乃",
+        "仲川空",
+        "花芽有朱"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IENF-378"
+    },
+    {
+      "id": 6112,
+      "IDcode": "MUDR-319",
+      "title": "これはただの食事だからっ！ 陰キャだけどち〇この具合は超最高 精子が主食 姫咲はな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/68933497c92318f97d88c397/cover.jpg",
+      "actress": [
+        "姫咲華",
+        "仲川空"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-319"
+    },
+    {
+      "id": 5760,
+      "IDcode": "TDAN-008",
+      "title": "SEXY DANCING GIRL DANCE FUCK STYLE",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MERCURY",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250527/20250527115302508508_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "春陽萌花",
+        "千石もなか",
+        "仲川空",
+        "朝日奈みお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TDAN-008"
     }
   ]
 };

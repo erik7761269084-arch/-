@@ -42,18 +42,52 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250809/41937902-5951-4973-a36e-640624fefaa6_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250809/73c048d3-134b-4837-86af-6396c1a169bc_l.webp"
   ],
-  "works_count": 2,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 3713,
-      "IDcode": "RVG-242",
-      "title": "母子姦BEST VOL.7 ~ 成咲優美 米倉穂香 加藤ツバキ 武藤彩香 小笠原留衣 一之瀨綾乃",
+      "id": 105597,
+      "IDcode": "HOKS-161",
+      "title": "性交哀歌",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "FAプロ",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "百咲未色",
+        "一之瀨綾乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOKS-161"
+    },
+    {
+      "id": 90762,
+      "IDcode": "NACR-701",
+      "title": "發情母 市河明日菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240210-1/d6fac35096e625cceb4fb1019ebed2fb.jpg",
+      "actress": [
+        "一之瀨綾乃",
+        "ひょこり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-701"
+    },
+    {
+      "id": 3713,
+      "IDcode": "RVG-242",
+      "title": "母子姦BEST VOL.7",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "GLORY QUEST",
-      "publish_date": "2025-08-08",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809081414829829_25720_thumbnail.webp",
       "actress": [
         "武藤彩香",
@@ -65,23 +99,6 @@ window.actressData = {
         "夏树カオル"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-242"
-    },
-    {
-      "id": 90762,
-      "IDcode": "NACR-701",
-      "title": "発情母 市河明日菜 生写真とパンティ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2023-09-05",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240206-1/36940f42d0b56133bc6575af63692c3b.jpg",
-      "actress": [
-        "一之瀨綾乃",
-        "ひょこり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-701"
     }
   ]
 };

@@ -30,54 +30,521 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231127/0d13ce6b-3f09-4d44-8815-bcb7eb79fb79.jpg",
     "https://picture.yoshiclub.xyz/20231127/77054015-b861-45c2-b1be-71ec9c680bd1.jpg"
   ],
-  "works_count": 17,
+  "works_count": 33,
   "related_dramas": [
     {
-      "id": 3356,
-      "IDcode": "NSFS-410",
-      "title": "近親相奸 出嫁後的女兒與父親的禁忌不倫 ~ 有加裏乃乃花",
+      "id": 7811,
+      "IDcode": "DHLD-014",
+      "title": "欲求不滿的美臀人妻追求刺激 穿着丈夫絕不能見的性感O字內褲輪番誘惑男人 中出後宮SEX ~ 皆月光 有加裏乃乃花 流川莉央 彌生美月 有岡み",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "人妻官能AV",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823025042518518_70997_thumbnail.webp",
+      "type": "",
+      "company": "OFFICE K’S",
+      "publish_date": "2025-03-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20250303/ccd4f478-5b96-4c7c-8bab-7b92f7a042b0.jpg",
+      "actress": [
+        "彌生美月",
+        "皆月光",
+        "有岡みう",
+        "有加里乃乃花",
+        "流川莉央"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DHLD-014"
+    },
+    {
+      "id": 12539,
+      "IDcode": "JUKF-119",
+      "title": "號稱少女收藏者的變態老師 ~ 有加裏乃乃花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "JUMP",
+      "publish_date": "2024-08-24",
+      "cover_url": "https://picture.yoshiclub.xyz/20240821/23ca4e63-5267-44e9-8e93-5e982c9208ac.jpg",
       "actress": [
         "有加里乃乃花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-410"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUKF-119"
     },
     {
-      "id": 3294,
-      "IDcode": "SCPX-536",
-      "title": "突然走紅桃花運，女閨蜜無邪氣和我一起擠被窩，貼身睡太誘惑，熬不住啊！根本忍不了！ ~ 有加裏乃乃花 香椎佳穂 市井結夏 千葉彩芽",
+      "id": 13487,
+      "IDcode": "GUPP-014",
+      "title": "逃脫遊戲如果在限定時間內無法擺脫束縛狀態的話……~ 有加裏乃乃花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SCOOP",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033343865865_47861_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-07-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240708/a91645fc-00ef-4659-a468-0db8c100afe7.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GUPP-014"
+    },
+    {
+      "id": 14945,
+      "IDcode": "HNAMH-013",
+      "title": "派對 17 次射入陰道深處，第一次真正的中出 有加裏乃乃花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "2024-06-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240506/20240506064459441441.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HNAMH-013"
+    },
+    {
+      "id": 15624,
+      "IDcode": "NOSKN-084",
+      "title": "女友背叛 [惡魔NTR] 有加裏乃乃花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NOSKINS",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240405/6f99a6c1-9182-426d-a0d0-6bec520c264c.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-084"
+    },
+    {
+      "id": 15637,
+      "IDcode": "NEOB-037",
+      "title": "天真美少女的崩潰…鎖喉，酷刑，深喉，肉便池。 有加裏乃乃花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "2024-04-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20240405/20240404232727665665.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NEOB-037"
+    },
+    {
+      "id": 15201,
+      "IDcode": "IKUNA-007",
+      "title": "《IKUNA#11.0》岬梓沙 VS 有加裏乃乃花，性感界最虐戀對決，業界最瘋狂的虐戀級終極虐戀對決！誰是最好的高潮女王？ 聖肉便器對決",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BOTAN",
+      "publish_date": "2024-04-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421082959412412.jpg",
       "actress": [
         "有加里乃乃花",
-        "市井結夏",
-        "香椎佳穂",
-        "千葉彩芽"
+        "岬梓沙"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-536"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKUNA-007"
+    },
+    {
+      "id": 17573,
+      "IDcode": "MOOR-006",
+      "title": "來和我一起度假的關西妹已經成長為超級受虐狂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2023-11-28",
+      "cover_url": "https://picture.yoshiclub.xyz/20231127/c17e8595-6384-483a-a9ca-14728e02722c.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOOR-006"
+    },
+    {
+      "id": 14565,
+      "IDcode": "MUCD-300",
+      "title": "4小時殘酷強奸合集 - 12名美麗女孩像抹布一樣被強奸調教爲肉便器",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241010-1/cd6235b9dda9862baaae1a7a3312b25c.jpg",
+      "actress": [
+        "天馬唯",
+        "柏木小夏",
+        "皆月光",
+        "有加里乃乃花",
+        "琴音華",
+        "鈴音杏夏",
+        "天然美月",
+        "二之宮りえな",
+        "安倍亜沙美",
+        "加贺美さら",
+        "雨宫もな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-300"
+    },
+    {
+      "id": 13741,
+      "IDcode": "NSFS-291",
+      "title": "猥褻者的欲望 我想嘗嘗你的每一寸…… 有加裏乃乃花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻官能AV",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67879a3ac179ffb1db907d15/cover.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-291"
+    },
+    {
+      "id": 11744,
+      "IDcode": "TLDC-018",
+      "title": "Oho 100分 性感婊子 ~ 有加裏乃乃花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BOTAN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/cd8dae72e34089125d731ae980949392.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TLDC-018"
+    },
+    {
+      "id": 11396,
+      "IDcode": "RCTD-621",
+      "title": "真・時間が止まる腕時計パート29",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/461a18dbecf6a783a6c84193e6421dc8.jpg",
+      "actress": [
+        "天月梓",
+        "有加里乃乃花",
+        "朝比ゆの",
+        "乃木ちはる"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-621"
+    },
+    {
+      "id": 10498,
+      "IDcode": "AKDL-305",
+      "title": "担当看護師のおっぱいが魅力的過ぎて「揉ませて」と頼んだら乳首イキしてハメさせてくれた小坂ひまり 有加里ののか 堀北実来（櫻茉日）",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241120/20241120205758514514.jpg",
+      "actress": [
+        "小坂ひまり",
+        "堀北実来",
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-305"
+    },
+    {
+      "id": 10260,
+      "IDcode": "SAME-136",
+      "title": "娘の前で雌犬のように激しく突かれて 橘内ひなた 有加里ののか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ATTACKERS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128095323780780.jpg",
+      "actress": [
+        "有加里乃乃花",
+        "橘日向"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-136"
+    },
+    {
+      "id": 9341,
+      "IDcode": "RCTD-642",
+      "title": "平然ビッチ女学園 バコバコ新学期編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "椿莉香",
+        "泉莉音",
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-642"
+    },
+    {
+      "id": 8137,
+      "IDcode": "AKDL-317",
+      "title": "【職場でヤレる女】 保育士の後輩はすぐにキスを求めてくるスケベな女 有加里ののか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250806-1/6a6f3e2e69e961d14274e72d65befe94.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-317"
+    },
+    {
+      "id": 7279,
+      "IDcode": "SDDE-747",
+      "title": "突然、どろっどろ精子が降り注がれる日常 「常にぶっかけ」競技かるた部 ～クラブ合宿編～ 女子6名の顔面を流れる、爽やかな汗と濃厚精子 こってり大量63発ザーメン顔面射精！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250325/20250325004300212212.jpg",
+      "actress": [
+        "夏川步美",
+        "有加里乃乃花",
+        "伊織雛乃",
+        "藤田柚"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-747"
+    },
+    {
+      "id": 6961,
+      "IDcode": "BACJ-146",
+      "title": "男に媚びず射精を管理して立場を理解させる淫腕OL 有加里ののか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BALTAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250409/1c066a7d-f1f6-4100-820e-fcb6b1f21288.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-146"
+    },
+    {
+      "id": 6953,
+      "IDcode": "GMA-078",
+      "title": "緊縛調教妻 不在が多い夫へのストレスから万引きを繰り返す若妻。バレて施されたお仕置きで開花していくマゾ性癖 有加里ののか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLOBAL MEDIA ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250409/b600b9f8-af9f-439f-95c5-e2cc89b6d6f2.jpg",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-078"
+    },
+    {
+      "id": 6719,
+      "IDcode": "BONY-142",
+      "title": "被害者7名 闇レ●プ集団の鬼畜FUCK5時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/07/04/fbf6c7b913fd40d73e7589fdc75f47b0.jpg",
+      "actress": [
+        "有加里乃乃花",
+        "天乃のあ",
+        "鈴音杏夏",
+        "加賀美さら",
+        "天海一華",
+        "児玉れな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
+    },
+    {
+      "id": 5977,
+      "IDcode": "AKDL-326",
+      "title": "パンツに擦るだけといって布越し挿入したら彼女の妹が発情してきた前田美波 有加里ののか 実田あのん",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AKNR",
+      "publish_date": "",
+      "cover_url": "https://avtdc107.cc/upload/vod/20250615-2/991d741090d8acaa306f02445591266e.jpg",
+      "actress": [
+        "前田美波",
+        "有加里乃乃花",
+        "実田あのん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKDL-326"
+    },
+    {
+      "id": 5897,
+      "IDcode": "HMN-702",
+      "title": "男女2份之1 美谷朱音",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "本中",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522080357414414_thumbnail.webp",
+      "actress": [
+        "美谷朱里",
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HMN-702"
+    },
+    {
+      "id": 5307,
+      "IDcode": "MUDR-318",
+      "title": "擁有大吉肉棒的陰沉男生讓班上的女生為了升級效果而群聚-有加里ののか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/05/6891905cc92318f97d7ffd26/cover.jpg",
+      "actress": [
+        "泉莉音",
+        "有加里乃乃花",
+        "伊織雛乃",
+        "天乃のあ",
+        "須崎美羽",
+        "宮ノ木しゅんか",
+        "早見奈奈",
+        "香月えりさ",
+        "雪奈真冬",
+        "木之内奈々葉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
+    },
+    {
+      "id": 5227,
+      "IDcode": "NGHJ-013",
+      "title": "働く素人女性限定！一流百貨店に勤務する清楚で品格漂う美容部員さんが初めてのじゅぼじゅぼノーハンドフェラで30分間連続射精チャレンジに挑戦！上品なお姉さんのお口が喋れなくなるほどの大量口内連続射精で精子ダダ漏らし！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014349274274_thumbnail.webp",
+      "actress": [
+        "有加里乃乃花",
+        "斉藤帆夏",
+        "夢川ほの香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-013"
+    },
+    {
+      "id": 5019,
+      "IDcode": "ASEX-003",
+      "title": "次世代アナルクイーン誕生 有加里ののか アナル解禁 初めてのアナルだからマ○コ中出しもお尻中出しも全部真正にこだわりましたスペシャル",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ASSMI",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000344384384_thumbnail.webp",
+      "actress": [
+        "有加里乃乃花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASEX-003"
+    },
+    {
+      "id": 4384,
+      "IDcode": "HUBLK-056",
+      "title": "媚薬ガンギマリ！エビ反り絶頂スプラッシュエステ6",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703044230256256_thumbnail.webp",
+      "actress": [
+        "由良佳奈",
+        "有加里乃乃花",
+        "雅子裡菜",
+        "菜月光"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-056"
+    },
+    {
+      "id": 4147,
+      "IDcode": "SW-1010",
+      "title": "「一緒にお風呂はいろ！」大人に成長した従妹とまさかの混浴！おっぱいもお尻もスケベになった身体はネ僕の勃起しっぱなしのチ〇コと近親H体験したいんですよ！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SWITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/06/6893029ac92318f97d87fdf8/cover.jpg",
+      "actress": [
+        "美澄玲衣",
+        "有加里乃乃花",
+        "有賀千里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1010"
+    },
+    {
+      "id": 3816,
+      "IDcode": "SILK-188",
+      "title": "四六時中発情中 6 有加里ののか 倉本すみれ 花音うらら 千歳小梅 向理来",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc4089550e292a78b9146/cover.jpg",
+      "actress": [
+        "倉本菫",
+        "有加里乃乃花",
+        "花音うらら",
+        "向理来",
+        "千歳小梅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-188"
     },
     {
       "id": 3517,
       "IDcode": "MUCD-336",
-      "title": "純情少女的深喉調教 又痛又爽的4小時大合集 ~ 倉本菫 東條夏 笠木いちか 東雲梓 久和原聖羅 天乃のあ 響乃詩 逢月日葵 皆瀨明里 有加里乃乃花 広瀬みつき 花狩舞 日向ひかげ 橘ひなの 日泉舞香 雅子裡菜",
+      "title": "無垢な女の子のイラマチオ とってもくるしくてきもちぃ4時間",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "無垢",
-      "publish_date": "2025-08-14",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040540261261_67540_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "倉本菫",
         "皆瀨明里",
@@ -101,269 +568,79 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-336"
     },
     {
-      "id": 3816,
-      "IDcode": "SILK-188",
-      "title": "四六時中發情中 6~ 有加裏乃乃花 倉本菫 花音うらら",
+      "id": 3356,
+      "IDcode": "NSFS-410",
+      "title": "婚后仍与亲生父亲的腐烂关系-有加里ののか",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "SILK LABO",
-      "publish_date": "2025-08-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250807/20250807014346233233_51723_thumbnail.webp",
-      "actress": [
-        "倉本菫",
-        "有加里乃乃花",
-        "花音うらら",
-        "向理来",
-        "千歳小梅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-188"
-    },
-    {
-      "id": 4147,
-      "IDcode": "SW-1010",
-      "title": "一起泡澡啦！已經長大成熟的表妹居然提出要和我混浴 ~ 有加裏乃乃花 有賀千裏 美澄玲衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SWITCH",
-      "publish_date": "2025-07-24",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724035812366366_68130_thumbnail.webp",
-      "actress": [
-        "美澄玲衣",
-        "有加里乃乃花",
-        "有賀千里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SW-1010"
-    },
-    {
-      "id": 4384,
-      "IDcode": "HUBLK-056",
-      "title": "媚藥上頭！蝦弓高潮絕頂潮噴按摩店6 ~ 有加裏乃乃花 菜月光 雅子裡菜 由良佳奈",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703044230256256_thumbnail.webp",
-      "actress": [
-        "由良佳奈",
-        "有加里乃乃花",
-        "雅子裡菜",
-        "菜月光"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUBLK-056"
-    },
-    {
-      "id": 5019,
-      "IDcode": "ASEX-003",
-      "title": "新一代後庭女王誕生！首次解禁後庭體驗，真正中出雙穴爽爆特輯 ~ 有加里乃乃花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ASSMI",
-      "publish_date": "2025-06-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000344384384_thumbnail.webp",
-      "actress": [
-        "有加里乃乃花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASEX-003"
-    },
-    {
-      "id": 5307,
-      "IDcode": "MUDR-318",
-      "title": "擁有超大雞巴的陰鬱男被全班女生圍着求幹，瘋狂開幹的後宮大亂交 ~ 有加裏乃乃花 早見奈奈 泉莉音 伊織雛乃 雪奈真冬 香月えりさ 須崎美羽 天乃のあ 宮ノ木しゅんか 木之內奈々葉",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-06-13",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612061939367367_thumbnail.webp",
-      "actress": [
-        "泉莉音",
-        "有加里乃乃花",
-        "伊織雛乃",
-        "天乃のあ",
-        "須崎美羽",
-        "宮ノ木しゅんか",
-        "早見奈奈",
-        "香月えりさ",
-        "雪奈真冬",
-        "木之内奈々葉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-318"
-    },
-    {
-      "id": 5227,
-      "IDcode": "NGHJ-013",
-      "title": "素人限定！頂級百貨店氣質美容顧問初次挑戰30分鍾無手口活連續射精！優雅姐姐被灌滿小嘴精液狂漏！ ~ 斉藤帆夏 有加裏乃乃花 夢川ほの香",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "脫ぐのは恥だがペニス立つ",
-      "publish_date": "2025-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014349274274_thumbnail.webp",
-      "actress": [
-        "有加里乃乃花",
-        "斉藤帆夏",
-        "夢川ほの香"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-013"
-    },
-    {
-      "id": 7279,
-      "IDcode": "SDDE-747",
-      "title": "突然濃稠精液傾瀉而下的日常 ～俱樂部集訓篇～ 6名少女臉上流淌汗水與濃厚精液 63發超大量精液顏射！ ~ 伊織雛乃 藤田柚 有加裏乃乃花 夏川步",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2025-04-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20250325/20250325004300212212.jpg",
-      "actress": [
-        "夏川步美",
-        "有加里乃乃花",
-        "伊織雛乃",
-        "藤田柚"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-747"
-    },
-    {
-      "id": 6719,
-      "IDcode": "BONY-142",
-      "title": "七位受害者慘遭鬼畜集團無情輪奸FUCK五小時合集 ~ 有加里乃乃花 天海一華 児玉れな 鈴音杏夏 加賀美さら 天乃のあ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-04-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417092932216216_thumbnail.webp",
-      "actress": [
-        "有加里乃乃花",
-        "天乃のあ",
-        "鈴音杏夏",
-        "加賀美さら",
-        "天海一華",
-        "児玉れな"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BONY-142"
-    },
-    {
-      "id": 6961,
-      "IDcode": "BACJ-146",
-      "title": "不媚男卻掌控射精教男人懂地位的淫技OL ~ 有加裏乃乃花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BALTAN",
-      "publish_date": "2025-04-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20250409/1c066a7d-f1f6-4100-820e-fcb6b1f21288.jpg",
-      "actress": [
-        "有加里乃乃花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BACJ-146"
-    },
-    {
-      "id": 6953,
-      "IDcode": "GMA-078",
-      "title": "緊縛調教小嬌妻 老公常不在壓力大偷書被抓，挨罰中抖M本性開花 ~ 有加裏乃乃花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GLOBAL MEDIA ANNEX",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://picture.yoshiclub.xyz/20250409/b600b9f8-af9f-439f-95c5-e2cc89b6d6f2.jpg",
-      "actress": [
-        "有加里乃乃花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-078"
-    },
-    {
-      "id": 9341,
-      "IDcode": "RCTD-642",
-      "title": "淫蕩癡女開發學園 新學期編 ~ 有加裏乃乃花 椿りか 泉莉音",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2025-02-06",
-      "cover_url": "https://picture.yoshiclub.xyz/20250106/20250106031117203203.jpg",
-      "actress": [
-        "椿莉香",
-        "泉莉音",
-        "有加里乃乃花"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-642"
-    },
-    {
-      "id": 10260,
-      "IDcode": "SAME-136",
-      "title": "在女兒面前像個母狗一樣被強奸！ ~ 橘日向 有加裏乃乃花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ATTACKERS",
-      "publish_date": "2024-12-03",
-      "cover_url": "https://picture.yoshiclub.xyz/20241128/20241128095323780780.jpg",
-      "actress": [
-        "有加里乃乃花",
-        "橘日向"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAME-136"
-    },
-    {
-      "id": 13741,
-      "IDcode": "NSFS-291",
-      "title": "猥褻者的欲望 我想嘗嘗你的每一寸…… 有加裏乃乃花",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "人妻官能AV",
-      "publish_date": "2024-06-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240624/caf83d31-d826-4d6d-bf17-615f1ca95204.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823025042518518_70997_thumbnail.webp",
       "actress": [
         "有加里乃乃花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-291"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSFS-410"
     },
     {
-      "id": 14565,
-      "IDcode": "MUCD-300",
-      "title": "4小時殘酷強奸合集 - 12名美麗女孩像抹布一樣被強奸調教爲肉便器",
+      "id": 3294,
+      "IDcode": "SCPX-536",
+      "title": "突然訪れたモテ期の僕宅に無邪気に泊まりに来て布団に入ってくる女友達との川の字＆添い寝密着は、眠れない！！絶対ガマン出来ない！！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2024-05-21",
-      "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519051342579579.jpg",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823033343865865_47861_thumbnail.webp",
       "actress": [
-        "天馬唯",
-        "柏木小夏",
-        "皆月光",
         "有加里乃乃花",
-        "琴音華",
-        "鈴音杏夏",
-        "天然美月",
-        "二之宮りえな",
-        "安倍亜沙美",
-        "加贺美さら",
-        "雨宫もな"
+        "市井結夏",
+        "香椎佳穂",
+        "千葉彩芽"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUCD-300"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCPX-536"
+    },
+    {
+      "id": 2956,
+      "IDcode": "NSODN-003",
+      "title": "実録、多頭飼いオジサン。 60代男性の家に群がる家出〇女。恐るべき洗脳セックスの実態。監禁キメセク、媚薬漬け調教。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906093844453453_25988_thumbnail.webp",
+      "actress": [
+        "柏木小夏",
+        "有加里乃乃花",
+        "廣瀬好美",
+        "海野いくら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSODN-003"
+    },
+    {
+      "id": 2548,
+      "IDcode": "RMER-049",
+      "title": "滴り落ちるヨダレ一線 ボールギャグを嵌められた女たち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "柏木小夏",
+        "浜辺栞帆",
+        "有加里乃乃花",
+        "佐久間楓",
+        "十川ありさ",
+        "日々樹梨花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RMER-049"
     }
   ]
 };

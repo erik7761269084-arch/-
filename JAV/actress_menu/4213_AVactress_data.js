@@ -4,7 +4,7 @@ window.actressData = {
   "name": "天宫よし子",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 71928,
       "IDcode": "JURA-023",
-      "title": "初撮り五十路妻、ふたたび。 天宮よし子",
+      "title": "第一次拍摄五十岁的妻子-天宮よし子",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2020-01-23",
-      "cover_url": "https://tutu1.space/images/2025/03/10/7623c0ef39804ec3495d8fcb8d3ed41a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "天宫よし子"
       ],

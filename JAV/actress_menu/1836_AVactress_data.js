@@ -33,23 +33,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250605/4bde3630-e53c-460e-be3c-f1d357bd5845_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 5563,
       "IDcode": "ACHJ-064",
-      "title": "新人出道！帶出去超有面子頂級J杯27歲現役祕書初次下海 特長:中國語 AV DEBUT ~ 櫻涼香",
+      "title": "每個男人都想帶著走的最高級J罩杯現役秘書-櫻涼香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-06-06",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605040736675675_thumbnail.webp",
       "actress": [
         "櫻涼香"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-064"
+    },
+    {
+      "id": 2973,
+      "IDcode": "ACHJ-072",
+      "title": "射精しても、射精してもやらせてあげる―。計10発 Jcup性欲暴走 終わらせない性交。 桜りょうか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904030434566566_50368_thumbnail.webp",
+      "actress": [
+        "櫻涼香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ACHJ-072"
     }
   ]
 };

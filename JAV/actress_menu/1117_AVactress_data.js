@@ -41,35 +41,51 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230726/dea90e9e-fb69-495b-bce8-9f580b673be9.jpg",
     "https://picture.yoshiclub.xyz/20230726/df2643d5-f332-4d7e-af1b-d0b5fb169344.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 70773,
-      "IDcode": "SHKD-770",
-      "title": "受付嬢レイプ 俺の女 輝月あんり",
+      "id": 97297,
+      "IDcode": "CHN-061",
+      "title": "新 出租素人妹給你幹 29",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-11-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250315-1/0a197fd42881d893acd7b77fe68de265.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/aab8ba6f959aa55c5e7c287b78eb42b3.jpg",
       "actress": [
         "辉月杏梨"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-770"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHN-061"
+    },
+    {
+      "id": 95107,
+      "IDcode": "IPZ-752",
+      "title": "整蛊大企划-辉月杏莉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/e194752d217e8a0606a8ffd983c2be34.jpg",
+      "actress": [
+        "辉月杏梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-752"
     },
     {
       "id": 78379,
       "IDcode": "IPZ-791",
-      "title": "刺激的なTバックの淫らな誘惑見て見ぬふりしても高まる性欲 Tバック5オムニバスSTORY 輝月あんり",
+      "title": "刺激的丁字裤-輝月あんり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2016-07-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/9845910210af952e7e05a8f04ea4bea2.jpg",
       "actress": [
         "辉月杏梨",
         "玉木玲"
@@ -77,36 +93,52 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-791"
     },
     {
-      "id": 95107,
-      "IDcode": "IPZ-752",
-      "title": "突發幹砲旅整人秀！ 輝月杏梨",
+      "id": 70773,
+      "IDcode": "SHKD-770",
+      "title": "受付嬢レイプ 俺の女 輝月あんり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2016-05-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b86b34344ea5a8d9f5fa0140af32f9f0.jpg",
       "actress": [
         "辉月杏梨"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-752"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-770"
     },
     {
       "id": 62052,
       "IDcode": "IPZ-700",
-      "title": "彼女はアナタのいいなり ヤリたい放題ヴァーチャル淫乱SEX 解禁！言われるがままに初パイパンまで！ 輝月あんり",
+      "title": "可爱的女友-輝月あんり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2016-02-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/c31cc376b2386b3af190dfc97732e53a.jpg",
       "actress": [
         "辉月杏梨"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-700"
+    },
+    {
+      "id": 62051,
+      "IDcode": "IPZ-826",
+      "title": "危険之夜-輝月あんり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/6c1059bae67fd2019b1cdf9a573fd8cd.jpg",
+      "actress": [
+        "辉月杏梨"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZ-826"
     }
   ]
 };

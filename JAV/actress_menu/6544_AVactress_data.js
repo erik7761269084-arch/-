@@ -4,7 +4,7 @@ window.actressData = {
   "name": "堀内秋美",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": "162cm",
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2014-08-22",
-      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/428dw003/428dw003pl.jpg",
+      "cover_url": "",
       "actress": [
         "堀内秋美"
       ],

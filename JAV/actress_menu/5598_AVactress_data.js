@@ -4,7 +4,7 @@ window.actressData = {
   "name": "矢野あやか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -20,19 +20,19 @@ window.actressData = {
   "related_dramas": [
     {
       "id": 89624,
-      "IDcode": "SBMO-1253",
+      "IDcode": "SBMO-01253",
       "title": "Aも好きです/矢野あやか チェキ付き",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2023-08-25",
       "cover_url": "",
       "actress": [
         "矢野あやか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-1253"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SBMO-01253"
     }
   ]
 };

@@ -59,14 +59,14 @@ window.actressData = {
     {
       "id": 61579,
       "IDcode": "MIFD-651",
-      "title": "【FANZA限定】和顔美人のシルキー白美肌の八頭身CAさん 国際線帰国後オフ日だけこっそり副業AVデビュー 指原美奈 生写真3枚付き",
+      "title": "和顔美人のシルキー白美肌の八頭身CAさん 国際線帰国後オフ日だけこっそり副業AVデビュー 指原美奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MOODYZ",
-      "publish_date": "2025-08-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/08/26/76eab4443bd5174af2f1df1a99622774.jpg",
       "actress": [
         "指原美奈",
         "ラヴズ",

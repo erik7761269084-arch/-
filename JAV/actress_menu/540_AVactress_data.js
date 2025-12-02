@@ -53,204 +53,216 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230408/46283c3a-db23-4aa8-beec-5267f293dc6f.jpg",
     "https://picture.yoshiclub.xyz/20230408/8910a41e-4bdf-4deb-a954-5e823362189a.jpg"
   ],
-  "works_count": 19,
+  "works_count": 37,
   "related_dramas": [
     {
-      "id": 1148,
-      "IDcode": "LAFBD-41",
-      "title": "林間少女 41 天使與惡魔 : 大橋未久 (藍光版)",
+      "id": 1150,
+      "IDcode": "CWPBD-120",
+      "title": "秀場毒藥 120 終於！！退休：大橋未來",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "LAFORET GIRL",
-      "publish_date": "2015-02-10",
-      "cover_url": "https://picture.yoshiclub.xyz/20231030/0a1e3d42-29f2-4a43-9819-554516d0b5c6.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2015-03-10",
+      "cover_url": "https://picture.yoshiclub.xyz/20231030/f7a6f757-350b-464c-92d2-4cf8d06df005.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-41"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CWPBD-120"
     },
     {
-      "id": 19608,
-      "IDcode": "MIDE-139",
-      "title": "引退～最後作～ 大橋未久",
+      "id": 1149,
+      "IDcode": "SMBD-115",
+      "title": "S Model 115 羞恥感出班：大橋未來",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/d35786d7-5269-48b5-94d2-88829a68c32c.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2015-01-08",
+      "cover_url": "https://picture.yoshiclub.xyz/20231029/20231029092609712712.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-139"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SMBD-115"
     },
     {
-      "id": 88063,
-      "IDcode": "MIRD-136",
-      "title": "大橋未久最後のファン感謝祭 素人男性14人ハメまくり大乱交ツアー 大橋未久",
+      "id": 103366,
+      "IDcode": "MIDD-781",
+      "title": "催眠SEX記録 大橋未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-07-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230908-1/ecab9938a6a899ae281d185186ab9345.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-07-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd781/midd781pl.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-136"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-781"
     },
     {
-      "id": 19610,
-      "IDcode": "MIDE-109",
-      "title": "即將引退 說掰掰的真實檔案 素顏的大橋未久",
+      "id": 104206,
+      "IDcode": "MIDD-771",
+      "title": "開始吹蕭之後就吹不停 大橋未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/f489667e-6de5-489b-bdb6-a8d8a04ae05a.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-05-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd771/midd771pl.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-109"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-771"
     },
     {
-      "id": 19588,
-      "IDcode": "MIRD-134",
-      "title": "美麗的2大專屬大姊姊 夢般癡女共演4小時特別編！！ 大橋未久 小泉彩",
+      "id": 100180,
+      "IDcode": "MIGD-388",
+      "title": "真性中出し 大橋未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-05-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/f882f784-9201-4a09-b596-ac4750c766c1.jpg",
-      "actress": [
-        "大橋未久",
-        "小泉彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-134"
-    },
-    {
-      "id": 96015,
-      "IDcode": "MIDE-087",
-      "title": "屈辱の失禁キャリアウーマン 大橋未久",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2014-04-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2011-04-13",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200719/migd388pl.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-087"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIGD-388"
+    },
+    {
+      "id": 99742,
+      "IDcode": "MIDD-643",
+      "title": "制服×美少女 大橋未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2010-06-13",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/midd643/midd643pl.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-643"
     },
     {
       "id": 106630,
       "IDcode": "MIDE-031",
-      "title": "夢の痴女3姉妹 大橋未久",
+      "title": "夢痴女3姉妹 大橋未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-11-01",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/68331903af5c2a774e6c149b07225a7f.jpg",
       "actress": [
         "大橋未久"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-031"
     },
     {
-      "id": 73352,
-      "IDcode": "MIDE-020",
-      "title": "タイトスカート女教師 大橋未久",
+      "id": 105851,
+      "IDcode": "MIDD-583",
+      "title": "为病人们解决性欲的白衣天使护士",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-10-01",
-      "cover_url": "",
-      "actress": [
-        "大橋未久",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-020"
-    },
-    {
-      "id": 19613,
-      "IDcode": "MIDE-007",
-      "title": "今天，被你的上司侵犯了。 大橋未久",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-09-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/bcb28c3f-6975-46c5-94b5-03bec0bd870b.jpg",
-      "actress": [
-        "大橋未久",
-        "田渊正浩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-007"
-    },
-    {
-      "id": 73411,
-      "IDcode": "MIDD-944",
-      "title": "歐吉桑和美女的濃情香汗淋漓性交 大橋未久",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2013-03-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250123-1/5a45cfa68155074fa554d3589e988a87.jpg",
-      "actress": [
-        "大橋未久",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-944"
-    },
-    {
-      "id": 96690,
-      "IDcode": "MIMK-009",
-      "title": "クリムゾン×ムーディーズ コラボ作品 女潜入捜査官マリア 大橋未久",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2012-09-01",
-      "cover_url": "https://tutu1.space/images/2024/08/01/dfc015a83f6dd575a8e8e20751591dac.jpg",
-      "actress": [
-        "大橋未久",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-009"
-    },
-    {
-      "id": 19565,
-      "IDcode": "MIDD-832",
-      "title": "導師即將跨步",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2012-01-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/5794afc3-dce2-4f47-9703-ffa9ee9e8639.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240222-1/2c130ee3048e715df1bcb5fc08f7b830.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-832"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-583"
+    },
+    {
+      "id": 104997,
+      "IDcode": "MIDD-876",
+      "title": "被男友卖掉后被轮奸的OL大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/b2dc658ec8beaddef6013af809cc677e.jpg",
+      "actress": [
+        "大橋未久",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-876"
+    },
+    {
+      "id": 103697,
+      "IDcode": "RBD-160",
+      "title": "貞操帯の女-大橋未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-160"
+    },
+    {
+      "id": 101557,
+      "IDcode": "SHKD-367",
+      "title": "在丈夫目前被侵犯的人妻-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-367"
+    },
+    {
+      "id": 101432,
+      "IDcode": "MIDD-571",
+      "title": "好色幼稚园女教师-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240309-1/45620b2bb07f55c560de9f40276755e6.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-571"
+    },
+    {
+      "id": 96692,
+      "IDcode": "MIDD-799",
+      "title": "大橋未久的上门服务",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240801-1/48c3eb0298a232e357422ea25069a834.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-799"
     },
     {
       "id": 96691,
@@ -259,110 +271,392 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-10-01",
-      "cover_url": "https://tutu1.space/images/2024/08/01/d28fd1a00449461d805e934c0c6db334.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240801-1/8660a93ec34954f214b385e09292350a.jpg",
       "actress": [
         "大橋未久"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-807"
     },
     {
-      "id": 96692,
-      "IDcode": "MIDD-799",
-      "title": "大橋未久の宅配ソープ 大橋未久",
+      "id": 96690,
+      "IDcode": "MIMK-009",
+      "title": "经典漫改女潜入搜查官-大橋未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-09-01",
-      "cover_url": "https://tutu1.space/images/2024/08/01/3a48b781be9e55e4008345f7197b0009.jpg",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240313-1/ff03a9a34efe51d4dfe751b51de18068.jpg",
       "actress": [
-        "大橋未久"
+        "大橋未久",
+        "森林原人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-799"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIMK-009"
     },
     {
-      "id": 19595,
-      "IDcode": "MIDD-791",
-      "title": "1天射10次也不罷休高潮幹砲 大橋未久",
+      "id": 96668,
+      "IDcode": "MIDE-040",
+      "title": "主人和女仆服务员-大桥未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/770bc64d-4189-4a61-bf64-8868c774b245.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240807-1/cfcf9aab090ebbc225ab2ea1e5f3af87.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-791"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-040"
+    },
+    {
+      "id": 96633,
+      "IDcode": "MIDD-822",
+      "title": "女老师失禁与潮吹的湿透性爱-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240807-1/6c632243a15cc351265bdbaaa08b4ee1.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-822"
+    },
+    {
+      "id": 96572,
+      "IDcode": "MIDD-850",
+      "title": "正在营业的公共浴场的访问性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/ee978f2bdf50f3a419375348c830da97.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-850"
+    },
+    {
+      "id": 96130,
+      "IDcode": "MIRD-078",
+      "title": "10周年纪念特别篇著名演员",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241004-1/2be4ba322b4292c58b791c2ca0d0b437.jpg",
+      "actress": [
+        "大橋未久",
+        "周防雪子"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-078"
+    },
+    {
+      "id": 96015,
+      "IDcode": "MIDE-087",
+      "title": "屈辱失禁-大橋未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-1/757b0cf31971809ca4ba402e76bd4cc4.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-087"
+    },
+    {
+      "id": 96008,
+      "IDcode": "MIDE-060",
+      "title": "独自潜入解救人质-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240926-1/e62bea78ba21378348bbbd3d0bff29cc.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-060"
+    },
+    {
+      "id": 96004,
+      "IDcode": "MIDD-894",
+      "title": "和大桥未久同时高潮绝顶吧",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240926-1/c68728af9e882425a42a70c18b4d0f7f.jpg",
+      "actress": [
+        "大橋未久",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-894"
+    },
+    {
+      "id": 96001,
+      "IDcode": "MIDD-962",
+      "title": "桃型美尻的诱惑-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240926-1/3717ae69bf6fcb9535da6bb481b19914.jpg",
+      "actress": [
+        "大橋未久",
+        "小田切ジュン",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-962"
+    },
+    {
+      "id": 95998,
+      "IDcode": "MIDD-936",
+      "title": "被女朋友管理射精-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240926-1/63c7dab17684b08b96b865ab3ec68bec.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-936"
+    },
+    {
+      "id": 95960,
+      "IDcode": "MIDD-907",
+      "title": "淫荡情人-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240928-1/333b5a9cf79c5e3cd9401e1503cf4463.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-907"
+    },
+    {
+      "id": 88063,
+      "IDcode": "MIRD-136",
+      "title": "女神大桥未久最后的粉丝感谢祭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/df765fae21e91c6e459f916a8b7b8c0b.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-136"
+    },
+    {
+      "id": 78984,
+      "IDcode": "MIDD-740",
+      "title": "露出挑战-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/87628d46e7587a201e00a6206917e11d.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-740"
+    },
+    {
+      "id": 73411,
+      "IDcode": "MIDD-944",
+      "title": "歐吉桑和美女的濃情香汗淋漓性交 大橋未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "大橋未久",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-944"
+    },
+    {
+      "id": 73352,
+      "IDcode": "MIDE-020",
+      "title": "紧身超短裙女教师-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2024/09/06/0c4f05e8f522fce7b2a3cd28cfb25e9a.jpg",
+      "actress": [
+        "大橋未久",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-020"
+    },
+    {
+      "id": 64106,
+      "IDcode": "MIDD-867",
+      "title": "快要结婚的女教师-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240404-1/726b0fdc5e4970fac19dea00c26f4203.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-867"
+    },
+    {
+      "id": 19613,
+      "IDcode": "MIDE-007",
+      "title": "被老公的上司强奸而成为性奴-大橋未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250128-1/d98699a9cbaeb7407c04fb04e8c91b78.jpg",
+      "actress": [
+        "大橋未久",
+        "田渊正浩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-007"
+    },
+    {
+      "id": 19610,
+      "IDcode": "MIDE-109",
+      "title": "即将引退的传奇女优-大橋未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-6/913a7837323a887e2e4ec800a4ff618a.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-109"
+    },
+    {
+      "id": 19588,
+      "IDcode": "MIRD-134",
+      "title": "极品痴女共同演出梦幻的四小时",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240819-1/2a75f642928b3fbb64c9d07baabc43b8.jpg",
+      "actress": [
+        "大橋未久",
+        "小泉彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-134"
+    },
+    {
+      "id": 19565,
+      "IDcode": "MIDD-832",
+      "title": "诱惑我的家教老师-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240807-1/b20341855366db221f7227950961851a.jpg",
+      "actress": [
+        "大橋未久"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-832"
+    },
+    {
+      "id": 19556,
+      "IDcode": "MIDE-051",
+      "title": "同居诱惑我的姐姐-大桥未久",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240923-1/2c1ff194a9d2ec6188bab7355de514f4.jpg",
+      "actress": [
+        "大橋未久",
+        "平井シンジ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDE-051"
     },
     {
       "id": 19540,
       "IDcode": "MIRD-081",
-      "title": "MOODY 創立10周年記念 MOODY・Premium 合作企画 不穿内褲的女教師 ~ 大橋未久",
+      "title": "不穿内裤的女教师-大桥未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2011-01-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20230408/13542e90-65f5-4e5d-bbf4-73ebee681d4e.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20241004-1/947caa7bb3ab6d73af2683e1f629247e.jpg",
       "actress": [
         "大橋未久"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIRD-081"
     },
     {
-      "id": 105851,
-      "IDcode": "MIDD-583",
-      "title": "獻身護士的深喉嚨看護 大橋未久",
+      "id": 1148,
+      "IDcode": "LAFBD-41",
+      "title": "天使与恶魔结合的化身大桥未久",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2010-01-13",
-      "cover_url": "",
-      "actress": [
-        "大橋未久"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-583"
-    },
-    {
-      "id": 101432,
-      "IDcode": "MIDD-571",
-      "title": "擁有可愛臉但卻最喜歡大屌的超淫蕩保母 大橋未久",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2009-12-13",
-      "cover_url": "",
-      "actress": [
-        "大橋未久"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIDD-571"
-    },
-    {
-      "id": 103697,
-      "IDcode": "RBD-160",
-      "title": "貞操帶之女 10 大橋未久",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2009-08-07",
-      "cover_url": "https://tutu1.space/images/2024/03/11/bc64f03cc7c5c48390b712a085e04aaf.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/09/01/0a9c25c5cd5ab8ed68f153b7aebd11e4.jpg",
       "actress": [
         "大橋未久"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RBD-160"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LAFBD-41"
     }
   ]
 };

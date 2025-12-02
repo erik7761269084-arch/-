@@ -35,23 +35,39 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-深美せりな.jpg",
     "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/AI-Fix-紺野友梨.jpg"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
-      "id": 1951,
-      "IDcode": "DSAMBD-20",
-      "title": "我會在傷心旅行中找到一個愛幹我的男人! : 深美里奈",
+      "id": 993,
+      "IDcode": "HEYZO-1381",
+      "title": "商務小姐們的業務能力——你能感受到大奶子的誘惑嗎？深美裏奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "无码",
-      "company": "SAMURAI PORN",
-      "publish_date": "2017-08-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20230123/8f45b428-9b0e-48cf-a810-e6abc58b90d2.webp",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2017-01-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240129/3cc08149-3f66-4580-b7ab-04ac9cd2864f.jpg",
       "actress": [
         "深美里奈"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DSAMBD-20"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1381"
+    },
+    {
+      "id": 972,
+      "IDcode": "HEYZO-1346",
+      "title": "先輩，喜歡枕頭嗎？ - 深見裏奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2016-12-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240216/38a36716-3c9f-46a3-b592-fbabaa903843.jpg",
+      "actress": [
+        "深美里奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-1346"
     }
   ]
 };

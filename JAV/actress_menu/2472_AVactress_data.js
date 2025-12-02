@@ -41,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "IENERGY",
-      "publish_date": "2024-12-12",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/09/06/6bd63446/vod.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b59bdf2cbbe46402805df5/cover.jpg",
       "actress": [
         "九井珠奈緒",
         "石川陽波",

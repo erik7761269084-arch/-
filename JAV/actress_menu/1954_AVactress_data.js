@@ -34,14 +34,14 @@ window.actressData = {
     {
       "id": 7456,
       "IDcode": "SUJI-271",
-      "title": "上課時遇到的陌生人……放學後遇到的女朋友……被老師迷住並做出不道德行爲的學生 ~ 柏木小夏 高瀬りな 千石もなか 夢乃美笑 日野りこ",
+      "title": "授業中は他人…放課後は彼女…担任教師を虜にする生徒と不道徳行為",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-03-18",
-      "cover_url": "https://picture.yoshiclub.xyz/20250317/20250317095056147147.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f2389a0063c92fb9f68d8/cover.jpg",
       "actress": [
         "柏木小夏",
         "千石もなか",
@@ -53,15 +53,15 @@ window.actressData = {
     },
     {
       "id": 1634,
-      "IDcode": "sdjs-033",
-      "title": "SOD女員工SP版SOD酒吧團呈現！ ！人生充滿坎坷！遊戲裡有這麼多性感的方塊，讓我忍不住感到尷尬！一場盛大的感恩節聚會，我們邀請了每天支持我們的用戶！",
+      "IDcode": "SDJS-033",
+      "title": "大型的感恩节聚会",
       "year": "",
       "country": "",
       "genre": "",
       "type": "无码",
       "company": "SOD",
-      "publish_date": "2019-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/20230405/84fdb166-573e-42a6-83a7-a7be252697da.jpg",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250511-2/0e4e04e1f54df5bdd18161622ce15481.jpg",
       "actress": [
         "今井栞菜",
         "有栖露露",
@@ -73,7 +73,7 @@ window.actressData = {
         "月下あいり",
         "望月理沙"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=sdjs-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-033"
     }
   ]
 };

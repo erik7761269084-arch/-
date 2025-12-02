@@ -37,31 +37,32 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250225/6333dc54-fc7f-4dc8-aef6-ba68619d4472.jpg",
     "https://picture.yoshiclub.xyz/20250225/b17fe2e8-4074-4d4d-9eff-02dfb6f901a4.jpg"
   ],
-  "works_count": 5,
+  "works_count": 7,
   "related_dramas": [
     {
-      "id": 6555,
-      "IDcode": "JKSR-682",
-      "title": "現役女學生被強制中出調教！鎖定制服蘿莉塔9人 ~ 澪川遙 斉藤月乃 まなみ静奈 久和原聖羅 早見奈奈 希和みこと 北岡果林 森咲はるの 恵沙也香",
+      "id": 5218,
+      "IDcode": "GMAB-006",
+      "title": "鄉下老宅裡被緊縛調教的女學生精選合集 第二彈 純情美少女身心淪陷繩藝快感 10人4小時 ~ 綾瀨ひまり はないしずく 渚光希 白石環奈 森咲はるの 河合陽菜 天野花乃 由良佳奈 千石もなか 中城葵",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2025-04-26",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428111457182182_thumbnail.webp",
+      "type": "",
+      "company": "",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618213727950950_thumbnail.webp",
       "actress": [
-        "北岡果林",
-        "久和原聖羅",
-        "恵沙也香",
-        "澪川遙",
-        "希和みこと",
-        "早見奈奈",
+        "由良佳奈",
+        "渚光希",
+        "千石もなか",
+        "中城葵",
+        "天野花乃",
+        "河合陽菜",
+        "白石環奈",
         "森咲はるの",
-        "斉藤月乃",
-        "まなみ静奈"
+        "綾瀬ひまり",
+        "はないしずく"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMAB-006"
     },
     {
       "id": 93853,
@@ -70,10 +71,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "素人Only",
       "publish_date": "2024-06-06",
-      "cover_url": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241017-1/9f5b95989a2f7afda22a3dfeff955a6b.jpg",
       "actress": [
         "森咲はるの",
         "ひょこり"
@@ -87,10 +88,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
       "publish_date": "2023-11-09",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231222/2UmzAX7P/1.jpg",
       "actress": [
         "森咲はるの",
         "藤原瞳",
@@ -99,35 +100,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-705"
     },
     {
-      "id": 89915,
-      "IDcode": "SDDE-707",
-      "title": "―SEXが溶け込んでいる日常― 女子校生活で「常に性交」 なかよし演劇部の青春ストーリー 伊織ひなの 市井結夏 森咲はるの 白浜みなみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-11-07",
-      "cover_url": "",
-      "actress": [
-        "伊織雛乃",
-        "市井結夏",
-        "森咲はるの",
-        "白濱南"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-707"
-    },
-    {
       "id": 90267,
       "IDcode": "SDJS-201",
       "title": "SOD女子社員 2023年度 全裸で健康診断 女子社員が通常業務中の社内を全裸で移動!検診!移動!検診で超羞恥",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-07-20",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240119-1/304828d48b3b158547a07f9195eef636.jpg",
       "actress": [
         "森咲はるの",
         "山内ここな",
@@ -141,6 +123,65 @@ window.actressData = {
         "小野木遥"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDJS-201"
+    },
+    {
+      "id": 89915,
+      "IDcode": "SDDE-707",
+      "title": "融入日常的SEX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cdb3c2a47ebb1a86842be/cover.jpg",
+      "actress": [
+        "伊織雛乃",
+        "市井結夏",
+        "森咲はるの",
+        "白濱南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-707"
+    },
+    {
+      "id": 7965,
+      "IDcode": "SAN-322",
+      "title": "隣の奥さんスペシャル 人妻ガイド",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "マザー",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250225/20250225012853997997.jpg",
+      "actress": [
+        "森咲はるの"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-322"
+    },
+    {
+      "id": 6555,
+      "IDcode": "JKSR-682",
+      "title": "現○女子○生 強●中出し指導！！狙われた制服ロ○ータ9名",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250428/20250428111457182182_thumbnail.webp",
+      "actress": [
+        "北岡果林",
+        "久和原聖羅",
+        "恵沙也香",
+        "澪川遙",
+        "希和みこと",
+        "早見奈奈",
+        "森咲はるの",
+        "斉藤月乃",
+        "まなみ静奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-682"
     }
   ]
 };

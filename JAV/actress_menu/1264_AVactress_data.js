@@ -43,32 +43,15 @@ window.actressData = {
   "works_count": 2,
   "related_dramas": [
     {
-      "id": 3833,
-      "IDcode": "BIJN-276",
-      "title": "真實紀錄 解放本能的極致高潮 兩穴全開爽到失控的肉感變態人妻 ~ 結城戀",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-08-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032744660660_71859_thumbnail.webp",
-      "actress": [
-        "結城恋",
-        "川崎纪里恵"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-276"
-    },
-    {
       "id": 4382,
       "IDcode": "SYKH-150",
-      "title": "風俗人妻 綺麗B級熟女 43歲 ~ 結城戀",
+      "title": "「立ちんぼ妻」 B級熟女 きりえ43歳",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-12",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250715/20250715103658318318_60509_thumbnail.webp",
       "actress": [
         "結城恋",
@@ -76,6 +59,23 @@ window.actressData = {
         "岩下たろう"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SYKH-150"
+    },
+    {
+      "id": 3833,
+      "IDcode": "BIJN-276",
+      "title": "THE ドキュメント 本能丸出しでする絶頂SEX おマ〇コもアナルもイキまくる2穴快楽絶頂に狂うムチムチ変態奥様 川崎紀里恵",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899756e55337d7f7bd1fb64/cover.jpg",
+      "actress": [
+        "結城恋",
+        "川崎纪里恵"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BIJN-276"
     }
   ]
 };

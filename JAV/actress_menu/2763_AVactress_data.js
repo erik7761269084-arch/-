@@ -36,18 +36,163 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/compressed/20250627/748e785f-42dd-45b5-b10e-17b128d11b50_l.webp",
     "https://picture.yoshiclub.xyz/compressed/20250627/6d385383-80d4-4644-b607-d6617829109d_l.webp"
   ],
-  "works_count": 6,
+  "works_count": 8,
   "related_dramas": [
     {
-      "id": 60462,
-      "IDcode": "KSBJ-396",
-      "title": "夫の仕事中に他人棒を喰らう不貞妻ハメ撮り25人BEST （BOD）",
+      "id": 4933,
+      "IDcode": "ATKD-398",
+      "title": "射精後敏感肉棒被吸得一滴不剩！極致清理口交4小時精選合集 ~ 結月莉亞 工藤拉拉 加藤結衣 波多野結衣 小早川憐子 有村希 等",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "RUBY",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224928985985_thumbnail.webp",
+      "actress": [
+        "波多野结衣",
+        "新村朱里",
+        "明里紬",
+        "希島愛理",
+        "白峰美羽",
+        "有村希",
+        "東條夏",
+        "尾崎惠梨香",
+        "月乃露娜",
+        "倉木詩織",
+        "沙月芽衣",
+        "小早川怜子",
+        "松本菜奈実",
+        "花柳杏奈",
+        "日下部加奈",
+        "結月莉亞",
+        "武藤彩香",
+        "夏目彩春",
+        "三宮椿",
+        "工藤拉拉",
+        "竹内夏希",
+        "天然美月",
+        "加藤結衣",
+        "二宮光",
+        "七瀬いおり",
+        "平井栞奈",
+        "月乃櫻",
+        "月乃滴",
+        "桃愛ゆえ",
+        "八神沙織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATKD-398"
+    },
+    {
+      "id": 155728,
+      "IDcode": "SHKD-751",
+      "title": "邻居是我梦中的妹妹-八神さおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "八神沙織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-751"
+    },
+    {
+      "id": 106277,
+      "IDcode": "SHKD-750",
+      "title": "脱獄者-八神さおり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "八神沙織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-750"
+    },
+    {
+      "id": 98046,
+      "IDcode": "DTT-049",
+      "title": "人妻柜台小姐",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "八神沙織",
+        "森林原人"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-049"
+    },
+    {
+      "id": 94978,
+      "IDcode": "JUL-042",
+      "title": "冲击的录影带我的老婆被部长调教成了母狗肉便器",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/03f8567350a9d8f8a0c67ea77c9eb6d1.jpg",
+      "actress": [
+        "八神沙織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-042"
+    },
+    {
+      "id": 88248,
+      "IDcode": "JUL-010",
+      "title": "爆乳人妻八神佐香的专属决定八个神魅惑时刻",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "八神沙織",
+        "イセドン内村",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-010"
+    },
+    {
+      "id": 78283,
+      "IDcode": "JUL-078",
+      "title": "只有我和丰满儿媳妇两人独处的暴风雨之夜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/21d0525f865a9b3c1e857df9e9a80349.jpg",
+      "actress": [
+        "八神沙織",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-078"
+    },
+    {
+      "id": 60462,
+      "IDcode": "KSBJ-396",
+      "title": "夫の仕事中に他人棒を喰らう不貞妻ハメ撮り25人BEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "KSB企畫",
-      "publish_date": "2025-09-16",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "森澤佳奈",
@@ -61,90 +206,6 @@ window.actressData = {
         "菅野真穂"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-396"
-    },
-    {
-      "id": 98046,
-      "IDcode": "DTT-049",
-      "title": "夫によって差し出された国宝級Hカップ 人妻ランジェリーナ 旦那公認で中出し懇願3連発",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-02-20",
-      "cover_url": "",
-      "actress": [
-        "八神沙織",
-        "森林原人"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DTT-049"
-    },
-    {
-      "id": 78283,
-      "IDcode": "JUL-078",
-      "title": "暴風雨 息子の嫁と二人だけの夜 八神さおり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-12-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241117-1/d76cf94ac7f5eccdd5cc9e09053e841c.jpg",
-      "actress": [
-        "八神沙織",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-078"
-    },
-    {
-      "id": 94978,
-      "IDcode": "JUL-042",
-      "title": "マジックミラーNTR 鏡越しに目撃した妻と上司の衝撃的浮気映像 八神さおり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-11-25",
-      "cover_url": "",
-      "actress": [
-        "八神沙織"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-042"
-    },
-    {
-      "id": 88248,
-      "IDcode": "JUL-010",
-      "title": "マドンナ専属決定 変化 八つの『神』で魅了する―。八神さおり 3本番！！",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2019-10-25",
-      "cover_url": "",
-      "actress": [
-        "八神沙織",
-        "イセドン内村",
-        "しみけん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUL-010"
-    },
-    {
-      "id": 106277,
-      "IDcode": "SHKD-750",
-      "title": "脱獄者 八神さおり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2017-07-31",
-      "cover_url": "",
-      "actress": [
-        "八神沙織"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SHKD-750"
     }
   ]
 };

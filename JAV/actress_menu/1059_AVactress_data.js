@@ -40,8 +40,75 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240410/31d5009f-d7d8-4996-bef5-5a089c07759e.jpg",
     "https://picture.yoshiclub.xyz/20240410/d6ace8ca-65c3-48a8-86f0-992121779876.jpg"
   ],
-  "works_count": 7,
+  "works_count": 10,
   "related_dramas": [
+    {
+      "id": 98625,
+      "IDcode": "BAZX-179",
+      "title": "働く新卒社会人と性交。VOL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-03-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241102-1/1a3a21929480b42cc576bdcf1bc9a433.jpg",
+      "actress": [
+        "咲々原リン",
+        "阿由葉あみ",
+        "春埼芽衣",
+        "山本麻衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-179"
+    },
+    {
+      "id": 538798,
+      "IDcode": "259LUXU-1078",
+      "title": "ラグジュTV 10621",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "蚊香社",
+      "publish_date": "2019-02-08",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b49373889391c4040feb0b9bc8e4fa3c.jpg",
+      "actress": [
+        "阿由葉あみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1078"
+    },
+    {
+      "id": 98526,
+      "IDcode": "315ETQR-069",
+      "title": "生中出しOKセーラー服美少女リフレ 阿由葉あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Eromanga",
+      "publish_date": "2018-12-28",
+      "cover_url": "",
+      "actress": [
+        "阿由葉あみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-069"
+    },
+    {
+      "id": 99222,
+      "IDcode": "MUDR-057",
+      "title": "制服美少女がご奉仕する秘密の中出しソープランド 阿由葉あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "2018-11-13",
+      "cover_url": "",
+      "actress": [
+        "阿由葉あみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUDR-057"
+    },
     {
       "id": 90372,
       "IDcode": "PBD-426",
@@ -49,23 +116,55 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MUGEN",
-      "publish_date": "2022-08-16",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240120-1/f339954f0ee876af336235cc92455718.jpg",
       "actress": [
         "松本一香",
         "山岸逢花",
+        "永瀬ゆい",
         "岬梓沙",
         "有坂深雪",
         "阿由葉あみ",
         "堀北わん",
         "望月憧",
         "安倍亜沙美",
-        "永濑唯",
         "樱井まみ"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PBD-426"
+    },
+    {
+      "id": 77747,
+      "IDcode": "MDTM-472",
+      "title": "新放課後美少女回春リフレクソロジー＋ Vol.019 阿由葉あみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/7bcbdc523a1b3b8938fe063c4f92b277.jpg",
+      "actress": [
+        "阿由葉あみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-472"
+    },
+    {
+      "id": 76519,
+      "IDcode": "ONEZ-175",
+      "title": "无罩不穿内裤诱惑男人早洩正姊 01",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20241006-1/7b00d2362499437f2e7eb7b0cb08e3b7.jpg",
+      "actress": [
+        "阿由葉あみ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-175"
     },
     {
       "id": 75845,
@@ -74,10 +173,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-01",
-      "cover_url": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/d6d650c09c31db42249db433bb95d706.jpg",
       "actress": [
         "皆月光",
         "渚光希",
@@ -89,16 +188,33 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AMBS-057"
     },
     {
-      "id": 70956,
-      "IDcode": "BAZX-183",
-      "title": "ラグジュOL ランチタイムにAV出演する働くオンナたち VOL.010",
+      "id": 71090,
+      "IDcode": "HUNTA-531",
+      "title": "超ヤリマンの姉友も痙攣するほどイカされまくり！性欲モンスターなんですウチの弟は…。弟の性欲が強すぎて将来が心配…。毎日、朝から晩まで暇さえあればオナニー三昧！一日最低10回が日課で、朝起きると当然ギンギンに勃起してるので、とりあえず寝起きの一発に始まり…",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "BAZOOKA",
-      "publish_date": "2019-04-12",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/56d086382f2ac06f9bb7e299fccb8010.jpg",
+      "actress": [
+        "阿由葉あみ",
+        "花咲ひらり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-531"
+    },
+    {
+      "id": 70956,
+      "IDcode": "BAZX-183",
+      "title": "ラグジュOLランチタイムにAV出演する働",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/cc50fddaae4bbb6f361432bf8ea1cabe.jpg",
       "actress": [
         "咲々原リン",
         "阿由葉あみ",
@@ -106,71 +222,6 @@ window.actressData = {
         "ゆうひ菜那"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BAZX-183"
-    },
-    {
-      "id": 74071,
-      "IDcode": "LUXU-1078",
-      "title": "ラグジュTV 1062",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "Luxury TV",
-      "publish_date": "2019-02-08",
-      "cover_url": "",
-      "actress": [
-        "阿由葉あみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LUXU-1078"
-    },
-    {
-      "id": 76519,
-      "IDcode": "ONEZ-175",
-      "title": "貞操観念常に崩壊！？ノーパンノーブラでスケベに誘惑するイクイク早漏お姉ちゃん 阿由葉あみ Vol.001",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-02-01",
-      "cover_url": "",
-      "actress": [
-        "阿由葉あみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ONEZ-175"
-    },
-    {
-      "id": 77747,
-      "IDcode": "MDTM-472",
-      "title": "新放課後美少女回春リフレクソロジー＋ Vol.019 阿由葉あみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2019-01-25",
-      "cover_url": "",
-      "actress": [
-        "阿由葉あみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-472"
-    },
-    {
-      "id": 71090,
-      "IDcode": "HUNTA-531",
-      "title": "超ヤリマンの姉友も痙攣するほどイカされまくり！性欲モンスターなんですウチの弟は…。弟の性欲が強すぎて将来が心配…。毎日、朝から晩まで暇さえあればオナニー三昧！一日最低10回が日課で、朝起きると当然ギンギンに勃起してるので、とりあえず寝起きの一発に始まり…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-12-19",
-      "cover_url": "",
-      "actress": [
-        "阿由葉あみ",
-        "花咲ひらり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-531"
     }
   ]
 };

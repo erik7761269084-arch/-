@@ -31,19 +31,61 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20240916/f6c551ee-7b6d-43fb-9d78-f50553daab17.jpg",
     "https://picture.yoshiclub.xyz/20240916/8f0a805e-c1a1-4eef-820f-efcef29e474d.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 4404,
-      "IDcode": "TCHB-050",
-      "title": "變態男的誘拐攝入集03 ~ 大原理央 宮澤千春 百瀨莉子 紺野美衣奈",
+      "id": 7937,
+      "IDcode": "UMSO-586",
+      "title": "真實密室做愛：和可愛笑顏的美少女進行的無套中出性愛！ 共收錄11人 ~ 有村希 鬆本一香 朝日凜 笠木いちか 天野碧 中條あおい 紺野美衣奈 八尋麻衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2025-02-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250226/9c34e4b5-1a61-4148-9943-cc2024fa306b.jpg",
+      "actress": [
+        "松本一香",
+        "有村希",
+        "葵玲奈",
+        "笠木いちか",
+        "朝日凜",
+        "雙葉胡桃",
+        "八尋麻衣",
+        "天野碧",
+        "紺野美衣奈",
+        "夏目愛莉",
+        "中条あおい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=UMSO-586"
+    },
+    {
+      "id": 11951,
+      "IDcode": "PKPD-325",
+      "title": "女優最後1日記錄 她的笑容令人難以忍受！最後一次與 SSS級女優的生中出攝影 ~ 紺野美衣奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250714/20250714204924266266_96030_thumbnail.webp",
+      "publish_date": "2024-09-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240916/eaefc872-f29c-4cca-b957-a3ade00a3eed.jpg",
+      "actress": [
+        "紺野美衣奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PKPD-325"
+    },
+    {
+      "id": 4404,
+      "IDcode": "TCHB-050",
+      "title": "とある男の撮影拐集03",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e7e7a98bc99dfdd03327a/cover.jpg",
       "actress": [
         "宫泽千春",
         "大原理央",

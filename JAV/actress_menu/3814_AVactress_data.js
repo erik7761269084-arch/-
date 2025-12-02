@@ -4,7 +4,7 @@ window.actressData = {
   "name": "二阶堂ゆり",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,24 +16,8 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 10,
+  "works_count": 13,
   "related_dramas": [
-    {
-      "id": 83012,
-      "IDcode": "NSSTH-038",
-      "title": "人妻 ゆり 夫の部下に強引に抱かれた妻 二階堂ゆり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-03-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/a330b558232246261a2d3d8d17ee04cc.jpg",
-      "actress": [
-        "二阶堂ゆり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSSTH-038"
-    },
     {
       "id": 83476,
       "IDcode": "BDSR-413",
@@ -41,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
+      "type": "",
+      "company": "",
       "publish_date": "2020-02-22",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/4e7bbc1c8bf4c93b02c0e9719061880d.jpg",
       "actress": [
         "仓多真央",
         "西条沙羅",
@@ -58,16 +42,119 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BDSR-413"
     },
     {
-      "id": 78471,
-      "IDcode": "MCSR-369",
-      "title": "寝取られ巨乳妻 11人4時間",
+      "id": 103294,
+      "IDcode": "NHDTB-177",
+      "title": "親戚のエロガキ2人を預かった夜に川の字で両乳首",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "Big Morkal",
-      "publish_date": "2019-12-28",
+      "type": "",
+      "company": "NATURAL HIGH",
+      "publish_date": "2018-09-20",
+      "cover_url": "http://15.155250922.com/upload/vod/20221006/1nhdtb00177pl.jpg",
+      "actress": [
+        "名森さえ",
+        "二阶堂ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NHDTB-177"
+    },
+    {
+      "id": 98617,
+      "IDcode": "HAVD-957",
+      "title": "発情人妻 接吻フィットネス・レズ 禁断の肉体関係",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2017-07-20",
       "cover_url": "",
+      "actress": [
+        "真木今日子",
+        "二阶堂ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HAVD-957"
+    },
+    {
+      "id": 97849,
+      "IDcode": "SDDE-531",
+      "title": "精液采集医院的护士们",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "美咲佳奈",
+        "仓多真央",
+        "君野步美",
+        "篠田优",
+        "二阶堂ゆり",
+        "佐仓宁宁"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-531"
+    },
+    {
+      "id": 83012,
+      "IDcode": "NSSTH-038",
+      "title": "人妻 ゆり 夫の部下に強引に抱かれた妻 二階堂ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221206-1/a330b558232246261a2d3d8d17ee04cc.jpg",
+      "actress": [
+        "二阶堂ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NSSTH-038"
+    },
+    {
+      "id": 79682,
+      "IDcode": "NGOD-053",
+      "title": "巨乳素人-二階堂ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "二阶堂ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-053"
+    },
+    {
+      "id": 79680,
+      "IDcode": "NGOD-033",
+      "title": "妻子怀上了我父亲的孩子-二階堂ゆり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "卍GROUP",
+      "publish_date": "",
+      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/1f880f1206f2f0e0452b115cbec364ea.jpg",
+      "actress": [
+        "二阶堂ゆり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-033"
+    },
+    {
+      "id": 78471,
+      "IDcode": "MCSR-369",
+      "title": "寝取られ巨乳妻11人4時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Big Morkal",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/66b37d810257dbfe70152b5195073edd.jpg",
       "actress": [
         "春菜华",
         "櫻木梨乃",
@@ -81,27 +168,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MCSR-369"
     },
     {
-      "id": 68414,
-      "IDcode": "WSP-169",
-      "title": "いかにも童貞な年下男に「おばさんねぇ…ウブな男の子がタイプなの◆」と聞かれてもいないのに自己申告して期待を持たせる巨乳妻は熟フェロモンで誘惑した初体験チ●ポを舌舐めずってタダ喰いする",
+      "id": 76867,
+      "IDcode": "RADD-009",
+      "title": "老婆第一次有外遇-二階堂ゆり",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2019-06-28",
+      "type": "",
+      "company": "DOGMA",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "七草千歲",
-        "川上優",
-        "山瀬美紀",
-        "緒川春",
-        "佐佐木明希",
-        "原千岁",
-        "水无瀬优夏",
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-169"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RADD-009"
     },
     {
       "id": 71479,
@@ -110,10 +190,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2018-08-07",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1d1125c7ae7a41bb9b33a12be02b6208.jpg",
       "actress": [
         "武藤彩香",
         "羽生ありさ",
@@ -125,14 +205,14 @@ window.actressData = {
     {
       "id": 71426,
       "IDcode": "GDHH-095",
-      "title": "私は彼氏の言いなり！寝取らせられ変態女！！同じ会社に勤める私の彼氏はオフィスでいつもエッチな命令をしてきます…。おっぱい露出やノーパンのまま勤務、デスク下でフェラやリモバイ仕込んだり…。やらないと別れるって言われるので仕方なくやっているうちに開発され…",
+      "title": "变态妇女",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2018-03-19",
-      "cover_url": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/adb3540a09c7585d86cd88119c9d235c.jpg",
       "actress": [
         "三原穗香",
         "凉川绚音",
@@ -144,14 +224,14 @@ window.actressData = {
     {
       "id": 70775,
       "IDcode": "SDDE-529",
-      "title": "手淫・口淫・極上射精の流儀「おち○ぽ作法教室」",
+      "title": "手交，口交，享受肉棒的独特刺激！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2018-02-08",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250316-1/3cbae971923a5abf1cb605df685beabb.jpg",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/159803db7d5de592e96775fc0c2f19ef.jpg",
       "actress": [
         "美咲佳奈",
         "二阶堂ゆり",
@@ -160,52 +240,27 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-529"
     },
     {
-      "id": 76867,
-      "IDcode": "RADD-009",
-      "title": "これから…妻が初めて浮気をして帰ってきます。 二階堂ゆり",
+      "id": 68414,
+      "IDcode": "WSP-169",
+      "title": "我是那种天真的男孩",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DOGMA",
-      "publish_date": "2017-12-23",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241202-1/c5ec7e2e2ead2fc703f69a402cee6f50.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250314-1/a0c21c9f70710471fcb03cac7b7fd277.jpg",
       "actress": [
+        "七草千歲",
+        "川上優",
+        "山瀬美紀",
+        "緒川春",
+        "佐佐木明希",
+        "原千岁",
+        "水无瀬优夏",
         "二阶堂ゆり"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RADD-009"
-    },
-    {
-      "id": 79682,
-      "IDcode": "NGOD-053",
-      "title": "【悲報】NTR 巨乳素人ハメ撮り動画をダウンロードしたらハメられているのは…自分の妻でした 二階堂ゆり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2017-07-13",
-      "cover_url": "",
-      "actress": [
-        "二阶堂ゆり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-053"
-    },
-    {
-      "id": 79680,
-      "IDcode": "NGOD-033",
-      "title": "皆のねとられ投稿話を再現します ウチの嫁が定年退職の親父の世継を孕んだようです 二階堂ゆり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "JET映像",
-      "publish_date": "2017-01-13",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/1f880f1206f2f0e0452b115cbec364ea.jpg",
-      "actress": [
-        "二阶堂ゆり"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGOD-033"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSP-169"
     }
   ]
 };

@@ -39,18 +39,34 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20250301/7f2888d1-336d-4161-8ad6-60985716694d.jpg",
     "https://picture.yoshiclub.xyz/20250301/a668dca2-d33e-4fcc-9550-eaf85c25aad3.jpg"
   ],
-  "works_count": 2,
+  "works_count": 4,
   "related_dramas": [
     {
-      "id": 3515,
-      "IDcode": "VENX-333",
-      "title": "小姨子來家裡借宿太迷人，兩天兩夜瘋狂纏綿的頂級情慾 ~ 水崎瑠華",
+      "id": 7846,
+      "IDcode": "MOER-008",
+      "title": "メンエス嬢のSEXは…ドMでエロい。イヤラしいカラダの持ち主は、高井戸在住、彼氏持ちのメンズエステ嬢。ヤンキーのくせに、男優チ〇ポで敏感イキ狂い。AVデビュー。 水崎瑠華",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250801-1/97a2c17dae7d1155afa2591764a584c4.jpg",
+      "actress": [
+        "水崎瑠華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-008"
+    },
+    {
+      "id": 3515,
+      "IDcode": "VENX-333",
+      "title": "来我家住的阿姨从早到晚都做爱-水崎瑠華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-08-14",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040543208208_54405_thumbnail.webp",
       "actress": [
         "水崎瑠華"
@@ -58,20 +74,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENX-333"
     },
     {
-      "id": 7846,
-      "IDcode": "MOER-008",
-      "title": "新人出道！男士按摩女郎的性愛…抖M又色情 高井戶住的有男友不良女 在男優肉棒下敏感狂亂 首次亮相 AV DEBUT ~ 水崎瑠華",
+      "id": 3261,
+      "IDcode": "OPKT-036",
+      "title": "禁断の妊娠OK中出しバイト ユラ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2025-03-04",
-      "cover_url": "https://picture.yoshiclub.xyz/20250227/20250227071245484484.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823090618926926_46789_thumbnail.webp",
       "actress": [
         "水崎瑠華"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MOER-008"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OPKT-036"
+    },
+    {
+      "id": 3140,
+      "IDcode": "NPJS-151",
+      "title": "タダマン女子…みぃつけた！ダンサー女子は都合の良いすぐヤラせてくれる神ヤリマン！デカチンでハメまくり中出し！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "NAPA-JAPAN",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250828/20250828040359222222_92352_thumbnail.webp",
+      "actress": [
+        "水崎瑠華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NPJS-151"
     }
   ]
 };

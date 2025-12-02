@@ -43,8 +43,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-05-22",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221109-1/0cee4b3e571542f3fc6790eaa2f0fb3f.jpg",
       "actress": [
@@ -59,10 +59,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HAJIME-KIKAKU",
       "publish_date": "2020-04-13",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20221126/Hwy1EqS6/1.jpg",
       "actress": [
         "桐香悠裡",
         "桃尻かのん",
@@ -74,16 +74,32 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HJMO-432"
     },
     {
+      "id": 76379,
+      "IDcode": "HKD-011",
+      "title": "あの頃、制服美少女と。 音羽るい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/2c9250d23c3cdf892b541c9614be35ed.jpg",
+      "actress": [
+        "音羽留衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKD-011"
+    },
+    {
       "id": 75645,
       "IDcode": "MDTM-609",
       "title": "神アプリで知り合ったエロカワ現役女子大生に生中出し",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
-      "publish_date": "2020-02-28",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/a90e6b0d41dec5bb67ded5f680691017.jpg",
+      "type": "",
+      "company": "宇宙企畫",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/75cd0f9d88789ab0870e0099e34478f3.jpg",
       "actress": [
         "七海雛",
         "星奈爱",
@@ -91,22 +107,6 @@ window.actressData = {
         "优月せら"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDTM-609"
-    },
-    {
-      "id": 76379,
-      "IDcode": "HKD-011",
-      "title": "あの頃、制服美少女と。 音羽るい",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "",
-      "publish_date": "2019-12-27",
-      "cover_url": "",
-      "actress": [
-        "音羽留衣"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HKD-011"
     }
   ]
 };

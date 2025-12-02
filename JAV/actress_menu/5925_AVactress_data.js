@@ -4,7 +4,7 @@ window.actressData = {
   "name": "春野ちはる",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 95903,
       "IDcode": "GHTK-019",
-      "title": "自宅でヤラれちゃうガードもお股も緩め女子を味わい尽くせ！/春野ちはる",
+      "title": "自宅でヤラれちゃうガードもお股も緩め女子を味わい尽くせ！春野ちはる",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-10-30",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/29217bec/vod.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "春野ちはる"
       ],

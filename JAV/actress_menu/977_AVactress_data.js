@@ -34,56 +34,37 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241104/4abb444e-b3ec-404a-b69b-a3fabf71fcbe.jpg",
     "https://picture.yoshiclub.xyz/20241104/b162cf09-0f74-4da5-933b-c1bf5d7c3574.jpg"
   ],
-  "works_count": 3,
+  "works_count": 6,
   "related_dramas": [
     {
-      "id": 4806,
-      "IDcode": "HUNTC-202",
-      "title": "不愛穿內衣的貧乳妹妹乳頭超敏感！無防備晃蕩被哥哥玩弄到主動求高潮 ~ 桐谷すずね 五十嵐美月 水瀬りた 愛野ひなた",
+      "id": 10876,
+      "IDcode": "XVT-017",
+      "title": "導演未剪輯版流出 - AV女優集體做愛監控 ~ 一之瀨戀 雨宮あや花 水瀬りた",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "HUNTER",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/2025061909223233_thumbnail.webp",
-      "actress": [
-        "五十嵐美月",
-        "桐谷すずね",
-        "水瀬りた",
-        "愛野ひなた"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
-    },
-    {
-      "id": 9349,
-      "IDcode": "XVSR-793",
-      "title": "AV女優 vs AV男優 本氣真實的集體PARTY監控視頻 ~ 雨宮あや花 一之瀨戀 水瀬りた",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MAX-A",
-      "publish_date": "2025-01-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20250106/08ca95db-500d-4712-9377-dba99a2ec1ae.jpg",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-11-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20241104/20241104033722772772.jpg",
       "actress": [
         "雨宮あや花",
         "一之瀨戀",
         "水瀬りた"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-793"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVT-017"
     },
     {
       "id": 10515,
       "IDcode": "SDDE-740",
-      "title": "「制服・下着・全裸」2024年度新人CA航空空服小姐 壓卷總勢11名+特別講師1名的大型航空CA研候編",
+      "title": "招待跨坐航空",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2024-12-26",
-      "cover_url": "https://picture.yoshiclub.xyz/20241119/2024111902491211.jpg",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bab4bcce3e366423ce2b0b/cover.jpg",
       "actress": [
         "五十嵐清華",
         "響乃詩",
@@ -100,6 +81,88 @@ window.actressData = {
         "安藤ハル"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDDE-740"
+    },
+    {
+      "id": 9349,
+      "IDcode": "XVSR-793",
+      "title": "AV女優とAV男優 本気のリアル合コンモニタリング 一ノ瀬恋 水瀬りた 雨宮あや花",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MAX-A",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250106/08ca95db-500d-4712-9377-dba99a2ec1ae.jpg",
+      "actress": [
+        "雨宮あや花",
+        "一之瀨戀",
+        "水瀬りた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XVSR-793"
+    },
+    {
+      "id": 9348,
+      "IDcode": "TYD-006",
+      "title": "制服女子的猥褻癡漢電車 4",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1423a15c08d63a99057ae/cover.jpg",
+      "actress": [
+        "和久井美兎",
+        "久和原聖羅",
+        "真白みのり",
+        "音羽美鈴",
+        "天野花乃",
+        "雨宮あや花",
+        "福田もも",
+        "相月菜緒",
+        "水瀬りた",
+        "香月えりさ",
+        "宮名遥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TYD-006"
+    },
+    {
+      "id": 4806,
+      "IDcode": "HUNTC-202",
+      "title": "不想穿胸罩的小妹妹的乳头灵敏度超群",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HUNTER",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889736fc92318f97d1d6819/cover.jpg",
+      "actress": [
+        "五十嵐美月",
+        "桐谷すずね",
+        "水瀬りた",
+        "愛野ひなた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-202"
+    },
+    {
+      "id": 2208,
+      "IDcode": "SVMGM-041",
+      "title": "マジックミラー号ハードボイルド 水着ギャルが挑戦するスパイダー騎乗位チキンレース！1ピストン毎に100円get！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "黒咲華",
+        "櫻木繪里香",
+        "石原青",
+        "水瀬りた"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVMGM-041"
     }
   ]
 };

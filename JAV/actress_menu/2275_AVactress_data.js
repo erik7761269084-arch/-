@@ -31,23 +31,39 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250627/ac4e8a82-6039-412d-a23b-7d9dca2e3826_l.webp"
   ],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
     {
       "id": 95447,
       "IDcode": "MARAA-201",
-      "title": "かなの快感ふるぬーど！/成瀬花奈 チェキ付き",
+      "title": "成瀬花奈 かなの快感ふるぬーど！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2024-11-27",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/06/05/d72e0706/vod.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "成瀬花奈"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MARAA-201"
+    },
+    {
+      "id": 4984,
+      "IDcode": "MIFD-609",
+      "title": "【引退後に抱き心地バツグンのむちシコ肉感ボディに】新人 ぽよ乳×プ二尻の元・全国8位新体操選手デビュー 成瀬花奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MOODYZ",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250710-1/862cd7ff52818871244b1fd2ab021ad3.jpg",
+      "actress": [
+        "成瀬花奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIFD-609"
     }
   ]
 };

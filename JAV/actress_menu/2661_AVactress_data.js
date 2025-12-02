@@ -36,13 +36,13 @@ window.actressData = {
     {
       "id": 3630,
       "IDcode": "PAIS-080",
-      "title": "身高177cm爆乳L杯素人新星，異域風情超辣身材讓人瘋狂 ~ 山郷カイリ",
+      "title": "身長177cmB119W80H121 発掘L-cup素人☆日本人離れした抜群スタイルの激しく悶えるエキゾチック・アニマル",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MERCURY",
-      "publish_date": "2025-08-11",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250813/20250813110308152152_73519_thumbnail.webp",
       "actress": [
         "山郷カイリ"

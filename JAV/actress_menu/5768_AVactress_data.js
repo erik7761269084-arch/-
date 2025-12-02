@@ -4,7 +4,7 @@ window.actressData = {
   "name": "櫻井ふみ奈",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -21,14 +21,14 @@ window.actressData = {
     {
       "id": 91988,
       "IDcode": "JUTA-138",
-      "title": "極上！！四十路奥さま初脱ぎAVドキュメント 櫻井ふみ奈",
+      "title": "四十岁人妻初脱-樱井文奈",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-02-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240624-1/a41d35f3dd4c9c42ee741d3cea010e3d.jpg",
+      "type": "",
+      "company": "熟女JAPAN",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240225-1/cb6e994be73b345bb3809ad3baecc733.jpg",
       "actress": [
         "櫻井ふみ奈"
       ],

@@ -33,35 +33,53 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/compressed/20250607/3abcbab9-a32f-4873-a456-31a4056bdcc2_l.webp"
   ],
-  "works_count": 3,
+  "works_count": 5,
   "related_dramas": [
     {
-      "id": 3264,
-      "IDcode": "APNS-384",
-      "title": "迷戀大叔的老司機女學生 自慰被抓包後和大叔們的狂熱中出激情 ~ 綾美なな",
+      "id": 4868,
+      "IDcode": "HRSM-101",
+      "title": "巴士導遊狩獵2 東京觀光4美人 ~ 綾美なな 那津乃千奈美 那賀崎雪音",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "癡漢廠",
+      "publish_date": "2025-06-27",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626035006462462_thumbnail.webp",
+      "actress": [
+        "那賀崎雪音",
+        "那津乃千奈美",
+        "綾美なな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HRSM-101"
+    },
+    {
+      "id": 5480,
+      "IDcode": "APAK-306",
+      "title": "騎乘位の天才！アスリート美少女ななちゃん！体幹バリバリ鬼腰ツキ！サンバグラインド！激速ピストン杭打ち！締まった美ボディで過激オーガズムを愉しむ女学生！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-08-22",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823051456690690_73024_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014345456456_thumbnail.webp",
       "actress": [
         "綾美なな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-384"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-306"
     },
     {
       "id": 4589,
       "IDcode": "HUNTC-403",
-      "title": "求你了讓我進去吧！中年處男上司被女員工反擊逆襲，用色誘陷阱徹底徵服！ ~ 清巳麗乃 小鬆杏 綾美なな 蘆名穗花 那賀崎雪音",
+      "title": "「お願いです挿れさせて下さい！」実は童貞だった中年パワハラ部長に立場逆転リベンジ！女子社員たちはお色気トラップで童貞部長を完全服従！",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "HUNTER",
-      "publish_date": "2025-07-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250703/20250703074033189189_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab7b73edc101930b4b5744/cover.jpg",
       "actress": [
         "小松杏",
         "那賀崎雪音",
@@ -72,20 +90,36 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTC-403"
     },
     {
-      "id": 5480,
-      "IDcode": "APAK-306",
-      "title": "騎乘位天才娘！運動系美少女瘋狂扭腰！桑巴式鬼振超速杭打活塞！緊致身材爽到極致高潮的女學生！#線下約會酒店激戰淫亂巔峯SEX ~ 綾美なな",
+      "id": 3701,
+      "IDcode": "APGH-041",
+      "title": "放課後美少女H 腰使いエグっ！騎乗位マスターの無邪気っ娘に搾られた！セクササイズで締まった美スリムボディ-綾美なな",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "AURORA PROJECT ANNEX",
-      "publish_date": "2025-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014345456456_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013530309309_68116_thumbnail.webp",
       "actress": [
         "綾美なな"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APAK-306"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APGH-041"
+    },
+    {
+      "id": 3264,
+      "IDcode": "APNS-384",
+      "title": "中年チ〇ポ偏愛女学生 オナバレから始まる、ずっと好きだったおじさん達とのとろける中出しセックス 綾美なな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "AURORA PROJECT ANNEX",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823051456690690_73024_thumbnail.webp",
+      "actress": [
+        "綾美なな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=APNS-384"
     }
   ]
 };

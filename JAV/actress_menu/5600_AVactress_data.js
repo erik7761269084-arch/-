@@ -4,7 +4,7 @@ window.actressData = {
   "name": "久我まどか",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,7 +16,7 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 6,
+  "works_count": 7,
   "related_dramas": [
     {
       "id": 94711,
@@ -25,8 +25,8 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2024-02-01",
       "cover_url": "",
       "actress": [
@@ -35,31 +35,15 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=STSK-110"
     },
     {
-      "id": 91369,
-      "IDcode": "CHUC-051",
-      "title": "薬学部で研究漬けのリケジョはパパ活お小遣いを漫画に使う まどか（22） 久我まどか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FIRST STAR",
-      "publish_date": "2023-10-27",
-      "cover_url": "",
-      "actress": [
-        "久我まどか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-051"
-    },
-    {
       "id": 106831,
       "IDcode": "FOCS-154",
-      "title": "地味めな上司の娘を媚薬キメセクで肉便器化＆チ○ポ中毒にしてやった… 久我まどか",
+      "title": "朴素的上司女儿-久我圆香",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "妄想族",
-      "publish_date": "2023-10-03",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "久我まどか"
@@ -67,16 +51,64 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-154"
     },
     {
-      "id": 89681,
-      "IDcode": "SDAB-262",
-      "title": "初めてナマ中出しされたむっつり美少女 後から避妊すれば大丈夫と言い聞かされて 久我まどか",
+      "id": 100929,
+      "IDcode": "SIRO-5165",
+      "title": "神风入职前为了留下回忆而决定出演AV的整洁JD她一边拼命晃动臀部一边微微喘息初拍AV线上申请AV体验拍摄2055",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "久我まどか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIRO-5165"
+    },
+    {
+      "id": 91369,
+      "IDcode": "CHUC-051",
+      "title": "薬学部で研究漬けのリケジョはパパ活お小遣いを漫画に使う まどか（22） 久我まどか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240430-1/b0134400b76477985bc9378f351b9edc.jpg",
+      "actress": [
+        "久我まどか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHUC-051"
+    },
+    {
+      "id": 89699,
+      "IDcode": "SDAB-252",
+      "title": "被好色大叔们性感开发-久我圆香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-07-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240106-1/daa1747ba9e9ebd7f67aadbded21a2c0.jpg",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "久我まどか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-252"
+    },
+    {
+      "id": 89681,
+      "IDcode": "SDAB-262",
+      "title": "初次被生中出的美少女-久我圆香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "久我まどか"
       ],
@@ -85,34 +117,18 @@ window.actressData = {
     {
       "id": 89668,
       "IDcode": "SDAB-259",
-      "title": "初めてのごっくんだってしちゃう大好きな先生との誰にも言えないお泊まりえっちの記録 久我まどか",
+      "title": "第一次的吞精-久我圆",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "SOD",
-      "publish_date": "2023-07-20",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "久我まどか"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-259"
-    },
-    {
-      "id": 89699,
-      "IDcode": "SDAB-252",
-      "title": "「放課後から門限ギリギリまでえっちなオジサンたちにみっちり性感開発されてきました。」 久我まどか",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2023-06-22",
-      "cover_url": "",
-      "actress": [
-        "久我まどか"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAB-252"
     }
   ]
 };

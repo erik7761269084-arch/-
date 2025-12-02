@@ -4,7 +4,7 @@ window.actressData = {
   "name": "ぽぴと",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -19,33 +19,16 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 14560,
-      "IDcode": "START-071",
-      "title": "學生公寓的漂亮房東是一個性欲極強的蕩婦，喜歡以免租來誘惑玩弄處男的雞巴 ~ 天宮花南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "SOD",
-      "publish_date": "2024-06-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20240521/66cc098b-abef-49d4-b95d-a240756dcc57.jpg",
-      "actress": [
-        "天宮花南",
-        "ぽぴと"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-071"
-    },
-    {
       "id": 88613,
       "IDcode": "DVAJ-609",
-      "title": "僕の肩に置きパイしてくるみう先生のずっしりIcup押しつけ誘惑で勉強も手につかない 有岡みう （ブルーレイディスク） （BOD）",
+      "title": "坚挺的Icup的诱惑力-有岡みう",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "ALICE JAPAN",
-      "publish_date": "2023-03-11",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/0ed622983ee7dcebb1cc77d349327f0d.jpg",
       "actress": [
         "椎叶みくる",
         "ぽぴと"
@@ -55,19 +38,36 @@ window.actressData = {
     {
       "id": 77625,
       "IDcode": "JJDA-016",
-      "title": "讓住宿中處男學生無可奈何搓揉胸部的溫柔巨乳主婦 橘梅亞莉",
+      "title": "借宿中的处男学生-橘玛丽",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "卍GROUP",
-      "publish_date": "2021-04-01",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-3/f6f9302a42baf2719329695786372c8e.jpg",
       "actress": [
         "橘瑪麗",
         "ぽぴと"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-016"
+    },
+    {
+      "id": 14560,
+      "IDcode": "START-071",
+      "title": "学生公寓的美女房东不收房租-天宮花南",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240521/66cc098b-abef-49d4-b95d-a240756dcc57.jpg",
+      "actress": [
+        "天宮花南",
+        "ぽぴと"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=START-071"
     }
   ]
 };

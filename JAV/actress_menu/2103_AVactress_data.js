@@ -45,13 +45,13 @@ window.actressData = {
     {
       "id": 63856,
       "IDcode": "VOD-043",
-      "title": "よく行く店で気になっていた超美人店員をダメ元で口説いてみたら、まさかの展開が！？ 梨木セリナ （BOD）",
+      "title": "我向一直在意的超級美人店員告白-梨木莉娜",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "VENUS",
-      "publish_date": "2025-05-27",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
         "梨木セリナ"
@@ -61,13 +61,13 @@ window.actressData = {
     {
       "id": 7004,
       "IDcode": "VENZ-050",
-      "title": "性欲超旺的人妻用色氣滿滿的舌吻誘惑 口水滴滴濃密口交讓大屌爆硬狂射 小穴大開展示自慰 老公不在家被拖進去中出SEX ~ 梨木セリナ",
+      "title": "性欲強めの人妻がお色気むんむんベロキス誘惑 よだれダラダラ濃密フェラでデカチン爆勃ち大量射精 びらびら全開オ●ンコ魅せつけバイブオナニー 夫不在の家に連れ込まれ中出しセックス 梨木セリナ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-04-08",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250405/3d64e484-fe69-465e-ac0a-59a5b4d71ddb.jpg",
       "actress": [
         "梨木セリナ"

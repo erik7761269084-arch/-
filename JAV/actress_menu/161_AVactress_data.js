@@ -52,18 +52,1051 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20230923/71147928-dd48-4550-aef9-e7478f0d9daa.jpg",
     "https://picture.yoshiclub.xyz/20230923/e95d7613-e96e-436a-85d5-9edae8b86182.jpg"
   ],
-  "works_count": 45,
+  "works_count": 64,
   "related_dramas": [
     {
-      "id": 6602,
-      "IDcode": "OFJE-505",
-      "title": "乳貼玻璃 頂級S1女優45人 過去5年極致癖好片合集67部High爆 ~ 三上悠亜 田野憂 凪光 羽笑美晴 潮美舞 小島南 はなみやあむ 乃木蛍 吉高寧寧",
+      "id": 164121,
+      "IDcode": "SSIS-982",
+      "title": "只要拜托就会帮我做的管理员",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "S1",
-      "publish_date": "2025-04-25",
+      "publish_date": "2023-12-26",
+      "cover_url": "https://picture.yoshiclub.xyz/20231223/8d348bf0-8009-44eb-ae97-d6772d17dd5f.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-982"
+    },
+    {
+      "id": 82807,
+      "IDcode": "SSNI-707",
+      "title": "童貞を1ヶ月でセックス中毒にさせちゃう神対応ご奉仕＆凄エロテク満載！架乃ゆらの筆おろし同棲ドキュメント",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2020-02-19",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-707"
+    },
+    {
+      "id": 8918,
+      "IDcode": "SSNI-571",
+      "title": "【異常高潮大絕頂】愛欲大覺醒，不停地做愛，怒濤的本氣性交 ~ 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2019-09-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20250122/20250122031753349349.jpg",
+      "actress": [
+        "架乃由羅",
+        "しみけん"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-571"
+    },
+    {
+      "id": 14361,
+      "IDcode": "SSNI-262",
+      "title": "一個月內禁止做愛或手淫，變得如此飢渴，腎上腺素爆炸，當她抽搐着被操時，性欲淫蕩暴露無遺！~ 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2018-07-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240529/20240529080258194194.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-262"
+    },
+    {
+      "id": 16597,
+      "IDcode": "SSNI-112",
+      "title": "交換體液，激烈的性愛，3個完全未剪輯的制作特輯",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "2018-02-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20240126/20240125230943140140.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-112"
+    },
+    {
+      "id": 171484,
+      "IDcode": "SSIS-681",
+      "title": "送上门侵犯M男的短发极品痴女 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-681"
+    },
+    {
+      "id": 155963,
+      "IDcode": "SSNI-912",
+      "title": "喜欢中年的由罗泉奈与喜欢美少女的絶伦变态大叔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240926-1/b1fce9ad74823a70fc9f545bc526b8e4.jpg",
+      "actress": [
+        "架乃由羅",
+        "槙泉奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-912"
+    },
+    {
+      "id": 107255,
+      "IDcode": "SSIS-836",
+      "title": "姪女的曬痕讓人忍耐不住 肉棒用力插入未開發隙縫的夏天 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-836"
+    },
+    {
+      "id": 106479,
+      "IDcode": "SSIS-583",
+      "title": "爸爸和我最好的朋友-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-583"
+    },
+    {
+      "id": 104433,
+      "IDcode": "SSIS-717",
+      "title": "第一次被干的感觉-架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6f0789def9b1b80dcd1a/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-717"
+    },
+    {
+      "id": 103068,
+      "IDcode": "SSNI-734",
+      "title": "狂风暴雨的夜晚-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅",
+        "大岛丈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-734"
+    },
+    {
+      "id": 90236,
+      "IDcode": "REBD-769",
+      "title": "Yura10 はいぱーゆらめもりある・架乃ゆら チェキ付き",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240117-1/6432c4f2252dc4bd5803181b1fe299c1.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-769"
+    },
+    {
+      "id": 88163,
+      "IDcode": "OFJE-172",
+      "title": "S1デビュー1周年記念 架乃ゆらS1初ベスト8時間",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/907bf6a64db424b9ae1894d1a28c68b3.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-172"
+    },
+    {
+      "id": 87748,
+      "IDcode": "SSIS-797",
+      "title": "樸素的大學社團學姐一喝醉就…超想要舔我的耳朵嘴巴乳頭胯下 全身親吻到變成痴女的差距超萌讓我勃起！就這樣數次被騎了！ 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240216/T9AT6Zg5/1.jpg",
+      "actress": [
+        "架乃由羅",
+        "桐谷美羽"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-797"
+    },
+    {
+      "id": 87741,
+      "IDcode": "SSIS-758",
+      "title": "放棄人生的蘿莉控老師在學校的教室和走廊裡不斷強姦學生！被調教之後了解什麼叫做快感，成為世界上最色色的女高中生 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/24/6830aa11cb21006f00c2f3f2/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-758"
+    },
+    {
+      "id": 86354,
+      "IDcode": "SSIS-436",
+      "title": "帮助你拥有最棒的自慰-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/23aff66557f2462a5034900319489f01.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-436"
+    },
+    {
+      "id": 86353,
+      "IDcode": "SSIS-556",
+      "title": "我必须和她做爱吗-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅",
+        "小田切ジュン"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-556"
+    },
+    {
+      "id": 86313,
+      "IDcode": "SSIS-381",
+      "title": "完全放置的三天-架乃由拉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-381"
+    },
+    {
+      "id": 86303,
+      "IDcode": "SSIS-408",
+      "title": "我的妻子在公整夜不断地被同事们操着",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅",
+        "白石環奈",
+        "蓝井优太"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-408"
+    },
+    {
+      "id": 86209,
+      "IDcode": "SSIS-273",
+      "title": "同時進行中-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-273"
+    },
+    {
+      "id": 82286,
+      "IDcode": "SSNI-673",
+      "title": "美少女4人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/873a819df22b563656eb88b250c41666.jpg",
+      "actress": [
+        "Miru",
+        "架乃由羅",
+        "羽笑美晴",
+        "伊贺まこ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-673"
+    },
+    {
+      "id": 80044,
+      "IDcode": "SSIS-244",
+      "title": "禁欲之后-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/1Wc2gtfN.jpg",
+      "actress": [
+        "架乃由羅",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-244"
+    },
+    {
+      "id": 79377,
+      "IDcode": "SSIS-147",
+      "title": "我丈夫的老板-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/J8DghHzs.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-147"
+    },
+    {
+      "id": 78997,
+      "IDcode": "SSNI-649",
+      "title": "傲娇坐台女郎-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/ccc95f65c13ba6eb59f26ba060a1cebd.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-649"
+    },
+    {
+      "id": 77564,
+      "IDcode": "SSIS-654",
+      "title": "壓迫巨漢 正中紅心的感覺 快要壞掉 架乃由羅人生最大高潮 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/23/68306b338c4b3b91d75f1975/cover.jpg",
+      "actress": [
+        "架乃由羅",
+        "小田切ジュン",
+        "イセドン内村"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-654"
+    },
+    {
+      "id": 77520,
+      "IDcode": "SSIS-816",
+      "title": "全明星4小时大乱交感謝祭",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "Miru",
+        "葵司",
+        "架乃由羅",
+        "三上悠亜",
+        "タイ",
+        "ようく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-816"
+    },
+    {
+      "id": 76680,
+      "IDcode": "SSNI-679",
+      "title": "我最爱的女友-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ebb4319a485dfee17340f7d29abe89eb.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-679"
+    },
+    {
+      "id": 75180,
+      "IDcode": "SSNI-623",
+      "title": "女友都不知道闺蜜的工作老司机的我一眼就看出她是AV女优架乃由罗与我疯狂做爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/1b6a2859bac6f7063ff2ebbf1d798e56.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-623"
+    },
+    {
+      "id": 70301,
+      "IDcode": "SSNI-783",
+      "title": "毕业旅行NTR-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c50b560d5790a96e5ec63b8dbbee8c44.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-783"
+    },
+    {
+      "id": 70086,
+      "IDcode": "SSNI-919",
+      "title": "優等生-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/39fbb107958fa3de47faa00c1ce34533.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-919"
+    },
+    {
+      "id": 69661,
+      "IDcode": "SSIS-495",
+      "title": "被一个男人强奸-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/8be53dae6a87a278e3c973e58d937b3b.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-495"
+    },
+    {
+      "id": 68514,
+      "IDcode": "SSIS-464",
+      "title": "发生了温泉式的同性恋关系-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/71701dc8d1fbc7cc43f5826ee87f2f97.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-464"
+    },
+    {
+      "id": 68383,
+      "IDcode": "SSIS-616",
+      "title": "颱風直撲回不去的童顏看護～和初老的數度高潮快樂墮落年歲差性交 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/e0ca977cb86a013a90fbd19a02bf0e72.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-616"
+    },
+    {
+      "id": 68182,
+      "IDcode": "SSIS-649",
+      "title": "欲求不滿 體液橫流 禁慾後的大絕頂 失禁高潮 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250412-1/5c4687d26e898588f30edf01fa2d495b.jpg",
+      "actress": [
+        "架乃由羅",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-649"
+    },
+    {
+      "id": 66649,
+      "IDcode": "SSIS-184",
+      "title": "被邻居一次又一次地干-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://imgsiwa.com:5278/cvjpg/JWOmsbZ5.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-184"
+    },
+    {
+      "id": 66647,
+      "IDcode": "SSIS-328",
+      "title": "我的继父-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-328"
+    },
+    {
+      "id": 66646,
+      "IDcode": "SSIS-354",
+      "title": "我的单相思-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-354"
+    },
+    {
+      "id": 18597,
+      "IDcode": "SSIS-872",
+      "title": "我的初戀情人 清純可愛的學姐竟然是一位淫蕩喜歡打炮的婊子！ 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230923/aa4da119-33be-499d-9117-19cd33ca2ff9.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-872"
+    },
+    {
+      "id": 18237,
+      "IDcode": "SSIS-910",
+      "title": "忍受着过激的猥亵-架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022021115987987.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-910"
+    },
+    {
+      "id": 17662,
+      "IDcode": "SSIS-949",
+      "title": "弱小的女学生-架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6c098f1cbfc7a9c7dc4f/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-949"
+    },
+    {
+      "id": 16682,
+      "IDcode": "SONE-025",
+      "title": "每天和过于单纯的孙女做爱-架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1c0752c12b4e6846a4ef/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-025"
+    },
+    {
+      "id": 16120,
+      "IDcode": "SONE-069",
+      "title": "知道他是处男后-架乃由拉",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4211ac813dc779d961e9/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-069"
+    },
+    {
+      "id": 15929,
+      "IDcode": "SONE-116",
+      "title": "可以尽情享受宅女小穴-架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240322/202403220758401717.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-116"
+    },
+    {
+      "id": 15308,
+      "IDcode": "SONE-113",
+      "title": "正经后辈喝酒后成为淫乱接吻魔",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419000039698698.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-113"
+    },
+    {
+      "id": 14726,
+      "IDcode": "SSNI-236",
+      "title": "随时听指令的女仆架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67802fd9f9a2e9b1d475a56b/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-236"
+    },
+    {
+      "id": 14458,
+      "IDcode": "SONE-198",
+      "title": "都不會出聲求救的乖乖女孩-架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524032943983983.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-198"
+    },
+    {
+      "id": 14024,
+      "IDcode": "SSNI-286",
+      "title": "满员痴汉电车被侵犯的架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/5d0bc932054e81910e9baf48ee9d8c50.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-286"
+    },
+    {
+      "id": 13834,
+      "IDcode": "SONE-212",
+      "title": "禁欲導致慾望即將爆炸-架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621010748215215.jpg",
+      "actress": [
+        "架乃由羅",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-212"
+    },
+    {
+      "id": 13424,
+      "IDcode": "SSNI-308",
+      "title": "傲娇妹妹架乃由罗无防备的诱惑",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240710/20240710080538509509.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-308"
+    },
+    {
+      "id": 13216,
+      "IDcode": "SONE-264",
+      "title": "NTR舔狗的救赎-架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787897e2a47ebb1a8b43dbd/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-264"
+    },
+    {
+      "id": 13098,
+      "IDcode": "SSNI-330",
+      "title": "流着口水舔遍全身的性爱",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240717/20240717012317116116.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-330"
+    },
+    {
+      "id": 13063,
+      "IDcode": "SSNI-355",
+      "title": "实习护士三人集团NTR轮奸",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250406-1/e638ee3ddbdbacc34d15d1e012db81da.jpg",
+      "actress": [
+        "小島南",
+        "Miru",
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-355"
+    },
+    {
+      "id": 13062,
+      "IDcode": "SSNI-352",
+      "title": "二十根肉棒疯狂抽插颜射剃毛大乱交三重解禁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250326-1/1fffc958ba3d78827467087c7e4f554c.jpg",
+      "actress": [
+        "架乃由羅",
+        "森林原人",
+        "南佳也"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-352"
+    },
+    {
+      "id": 12478,
+      "IDcode": "SONE-309",
+      "title": "AV隐退作-架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20240822/20240822220819124124.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-309"
+    },
+    {
+      "id": 12073,
+      "IDcode": "SSNI-373",
+      "title": "被逃犯们侵犯轮奸的女高中生架乃由罗",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f6130f9a2e9b1d46c0b35/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-373"
+    },
+    {
+      "id": 11375,
+      "IDcode": "SSNI-415",
+      "title": "架乃由罗汗液汁液唾液流淌全漏性交",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3358c1c04907816b73d6f6862f73f5d3.jpg",
+      "actress": [
+        "架乃由羅",
+        "玉木玲"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-415"
+    },
+    {
+      "id": 11096,
+      "IDcode": "SSNI-438",
+      "title": "小悪魔美少女-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241024/20241024032343426426.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-438"
+    },
+    {
+      "id": 10670,
+      "IDcode": "SSNI-458",
+      "title": "初恋女友架乃由罗被巨汉前辈压在身下NTR",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/10/678033a6c179ffb1db69237a/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-458"
+    },
+    {
+      "id": 10349,
+      "IDcode": "SSNI-478",
+      "title": "看着她穿着小性感服裝的美乳，美臀，雞巴過激滿載！按一下就可以開始操的風俗店 ~ 架乃由羅",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67803cba2a47ebb1a884365d/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-478"
+    },
+    {
+      "id": 9798,
+      "IDcode": "SSNI-499",
+      "title": "被痴女架乃由罗蹂躏连射精16次强制射精术",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/aa2d5aa53971bbaa25fb45613ee690b1.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-499"
+    },
+    {
+      "id": 9517,
+      "IDcode": "SSNI-522",
+      "title": "男と身体の相性-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5e964d9579be11ed1cfd733bc01d1360.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-522"
+    },
+    {
+      "id": 9482,
+      "IDcode": "SSNI-548",
+      "title": "僕が先に好きだったのに-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250101/20250101030133817817.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-548"
+    },
+    {
+      "id": 7617,
+      "IDcode": "SSNI-595",
+      "title": "满身是汗的舌吻-架乃ゆら",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897ed386ccb447f8c5ecf93/cover.jpg",
+      "actress": [
+        "架乃由羅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-595"
+    },
+    {
+      "id": 6602,
+      "IDcode": "OFJE-505",
+      "title": "乳ワイパー トップS1女優45名、過去5年分から探り当てた究極フェチ映像集67作品ラッシュ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250425/20250425035516345345_thumbnail.webp",
       "actress": [
         "宮城理惠",
@@ -83,734 +1116,6 @@ window.actressData = {
         "潮美舞"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-505"
-    },
-    {
-      "id": 13216,
-      "IDcode": "SONE-264",
-      "title": "轉生後，我是被寢取的AV主角！ ？改變NTR的未來，拯救架乃由羅。 目標是親密的激烈性交大結束END ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-07-23",
-      "cover_url": "https://picture.yoshiclub.xyz/20240719/20240719003620331331.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-264"
-    },
-    {
-      "id": 13834,
-      "IDcode": "SONE-212",
-      "title": "禁欲而增強的性欲，被媚藥放大，醉酒色欲！ 一個不正常、不一樣、獨特的夜晚，在深夜拍攝中，在MAX高度緊張的性愛中失去知覺並受到睡意襲擊的惡魔陷入瘋狂 ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-06-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20240621/20240621010748215215.jpg",
-      "actress": [
-        "架乃由羅",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-212"
-    },
-    {
-      "id": 14458,
-      "IDcode": "SONE-198",
-      "title": "早她是這樣一個沉默寡言，連呼救都不會的女人，三年前就該強暴她了 ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-05-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20240524/20240524032943983983.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-198"
-    },
-    {
-      "id": 16682,
-      "IDcode": "SONE-025",
-      "title": "他一邊領取福利金，一邊每天與天真無邪的孫女發生性關系，過着悠閒的生活。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2024-01-30",
-      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119074222414414.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-025"
-    },
-    {
-      "id": 17662,
-      "IDcode": "SSIS-949",
-      "title": "柔弱的女學生架乃由罗，轻轻的碰乳头她就无法反抗了",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-11-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20231125/1f9258cc-5f3f-4168-b63a-1ea424682ce0.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-949"
-    },
-    {
-      "id": 107255,
-      "IDcode": "SSIS-836",
-      "title": "姪っ子の日焼けあとに我慢できず未開発なワレメに肉棒を突き挿した夏 架乃ゆら 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-08-23",
-      "cover_url": "https://tutu1.space/images/2023/09/09/b99806eb6d04018ab3e82cece921ba6a.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-836"
-    },
-    {
-      "id": 90236,
-      "IDcode": "REBD-769",
-      "title": "Yura10 はいぱーゆらめもりある・架乃ゆら チェキ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2023-08-17",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240114-1/08076c9a19e6e800e009c739a5ba9694.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-769"
-    },
-    {
-      "id": 77520,
-      "IDcode": "SSIS-816",
-      "title": "スーパースター女優と大乱交 激レア共演S1ファン感謝祭 （ブルーレイディスク） ノベルティパッケージ付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-07-26",
-      "cover_url": "https://tutu1.space/images/2023/08/19/6a0541642e77326e9ec93206752547ce.jpg",
-      "actress": [
-        "Miru",
-        "葵司",
-        "架乃由羅",
-        "三上悠亜",
-        "タイ",
-        "ようく"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-816"
-    },
-    {
-      "id": 87748,
-      "IDcode": "SSIS-797",
-      "title": "地味な大学サークルの先輩が酔うと…僕の耳も口も乳首も股間も舐めたがりの 全身リップ痴女になるからギャップ萌え勃起！そのまま何度もヤられちゃう！ 架乃ゆら （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-07-25",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅",
-        "桐谷美羽"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-797"
-    },
-    {
-      "id": 87741,
-      "IDcode": "SSIS-758",
-      "title": "人生捨てたロリコン教師から学校の教室や廊下で犯●れ続け、それが気持ちいいコトと調教されて世界一エロくなった女子●生 架乃ゆら （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-06-27",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230814-1/8085c806ee9db25abff58a98642becdc.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-758"
-    },
-    {
-      "id": 104433,
-      "IDcode": "SSIS-717",
-      "title": "初めてサレた快感が忘れられず電車痴●にハマってしまった女子●生の末路 架乃ゆら （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-04-25",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-717"
-    },
-    {
-      "id": 77564,
-      "IDcode": "SSIS-654",
-      "title": "ポルチオ圧迫巨漢プレスがドストライク過ぎて感度が完全にバグった架乃ゆらの人生最大オーガズム",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-03-24",
-      "cover_url": "https://tutu1.space/images/2023/04/15/5da83fbb8ab08a0fd36a9a393f9a716e.jpg",
-      "actress": [
-        "架乃由羅",
-        "小田切ジュン",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-654"
-    },
-    {
-      "id": 68383,
-      "IDcode": "SSIS-616",
-      "title": "台風直撃で帰宅困難になった童顔の介護士 何度もイカされて快楽堕ちした初老との年の差性交 架乃ゆら （ブルーレイディスク）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-02-28",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-616"
-    },
-    {
-      "id": 68182,
-      "IDcode": "SSIS-649",
-      "title": "SSIS-649",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2023-01-20",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅",
-        "南佳也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-649"
-    },
-    {
-      "id": 106479,
-      "IDcode": "SSIS-583",
-      "title": "最喜歡的爸爸和好友由羅～今天察覺到「是同樣的香皂味」 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-12-23",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-583"
-    },
-    {
-      "id": 86353,
-      "IDcode": "SSIS-556",
-      "title": "「ちょっと待って！ヤラなきゃダメ？」1ヶ月間追っかけ検証ドキュメント 架乃ゆらはカメラが回っていればいつでもどこでも簡単にセックスを受け入れちゃう説 （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-10-25",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅",
-        "小田切ジュン"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-556"
-    },
-    {
-      "id": 69661,
-      "IDcode": "SSIS-495",
-      "title": "痴●冤罪で人生を滅茶苦茶にさせてしまった男に犯●れ、命令され、それでも全て受け入れた私 架乃ゆら 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-08-24",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-495"
-    },
-    {
-      "id": 68514,
-      "IDcode": "SSIS-464",
-      "title": "妻子不在家2日間、與年輕外表做愛都超棒的小三發洩性欲抽插溫泉不倫 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-07-26",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-464"
-    },
-    {
-      "id": 86354,
-      "IDcode": "SSIS-436",
-      "title": "あなた史上、一番気持ちいいオナニーのお手伝い！ ヌケやすさ徹底重視アングル＆こだわりの超癒し5シチュ 世話好き‘架乃ゆら’の全力献身シコシコサポートラグジュアリー （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-06-28",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-436"
-    },
-    {
-      "id": 86303,
-      "IDcode": "SSIS-408",
-      "title": "我有所不知女友的工作處。～員工旅行爛醉後被同事偷差一整晚的我的妻子～ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-05-25",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230205-1/3fa37a3dd5aecba220066aa7d2053e36.jpg",
-      "actress": [
-        "架乃由羅",
-        "白石環奈",
-        "蓝井优太"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-408"
-    },
-    {
-      "id": 86313,
-      "IDcode": "SSIS-381",
-      "title": "將M男與架乃由良完全放置在郊外獨立式洋房 3日間1分1秒都沒浪費持續搞癡女玩法",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-04-26",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-381"
-    },
-    {
-      "id": 66646,
-      "IDcode": "SSIS-354",
-      "title": "單相思的架乃爛醉後成為接吻魔與我下流做愛直到早上。 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-03-22",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-354"
-    },
-    {
-      "id": 66647,
-      "IDcode": "SSIS-328",
-      "title": "討厭到要死、又噁心、瘋狂的繼父喜歡的是身為女學生的我... 架乃由良",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2022-02-22",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-328"
-    },
-    {
-      "id": 86209,
-      "IDcode": "SSIS-273",
-      "title": "彼女が不在中の3日間、同時進行中の幼馴染（セフレ）とシタ1ヵ月ぶりのセックスがマズ過ぎた。 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2021-12-28",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-273"
-    },
-    {
-      "id": 80044,
-      "IDcode": "SSIS-244",
-      "title": "禁欲後の執拗な焦らし寸止めで極限まで感度を高めた体内汁ダダ漏れ媚薬漬けトリップ悶絶キメセク性交 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2021-11-23",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅",
-        "イセドン内村"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-244"
-    },
-    {
-      "id": 66649,
-      "IDcode": "SSIS-184",
-      "title": "隣人の絶倫チ○ポで何度も何度も犯●れ堕ちてしまった向かいに引っ越してきた新妻 架乃ゆら （ブルーレイディスク） （BOD）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2021-09-28",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-184"
-    },
-    {
-      "id": 79377,
-      "IDcode": "SSIS-147",
-      "title": "「アナタごめんなさい…」旦那が地方出張で不在の7日間、大嫌いな旦那の上司に死ぬほどイカされた私…。 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2021-08-19",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSIS-147"
-    },
-    {
-      "id": 70086,
-      "IDcode": "SSNI-919",
-      "title": "中年を殺す 優等生の秀逸なるガリ勉フェラチオ 計算されたアナルから金玉・先っぽ舐めしゃぶりテク 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-11-19",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-919"
-    },
-    {
-      "id": 70301,
-      "IDcode": "SSNI-783",
-      "title": "布団の中で寝取られ続けたわたし… 彼氏のすぐ側で巨漢先輩の馬乗り密着性交に背徳イキした2泊3日の卒業旅行 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-05-19",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-783"
-    },
-    {
-      "id": 103068,
-      "IDcode": "SSNI-734",
-      "title": "帰宅困難の生徒と教師が一線を越えて乱れ狂う台風の夜 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-03-19",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅",
-        "大岛丈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-734"
-    },
-    {
-      "id": 82807,
-      "IDcode": "SSNI-707",
-      "title": "童貞を1ヶ月でセックス中毒にさせちゃう神対応ご奉仕＆凄エロテク満載！架乃ゆらの筆おろし同棲ドキュメント",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-02-19",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-707"
-    },
-    {
-      "id": 76680,
-      "IDcode": "SSNI-679",
-      "title": "川の字で寝ていた彼女が真横で親友に夜●いされているのに寝たふりをする僕。 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-01-19",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241206-1/b240594b22970978f63fe39f834ed2e3.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-679"
-    },
-    {
-      "id": 82286,
-      "IDcode": "SSNI-673",
-      "title": "美少女4人を僕ひとりで独占！超ハーレム5Pスペシャル",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2020-01-07",
-      "cover_url": "",
-      "actress": [
-        "Miru",
-        "架乃由羅",
-        "羽笑美晴",
-        "伊贺まこ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-673"
-    },
-    {
-      "id": 75180,
-      "IDcode": "SSNI-623",
-      "title": "僕の彼女が不在中に、彼女の親友のAV女優と好き放題ハメまくった3日間 架乃ゆら",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-11-19",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-623"
-    },
-    {
-      "id": 7617,
-      "IDcode": "SSNI-595",
-      "title": "被滿身大汗的中年大叔拖進家強奸調教，陰溼變態的汗涎舌吻 ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-10-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20250312/20250312045223732732.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-595"
-    },
-    {
-      "id": 8918,
-      "IDcode": "SSNI-571",
-      "title": "【異常高潮大絕頂】愛欲大覺醒，不停地做愛，怒濤的本氣性交 ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20250122/20250122031753349349.jpg",
-      "actress": [
-        "架乃由羅",
-        "しみけん"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-571"
-    },
-    {
-      "id": 9482,
-      "IDcode": "SSNI-548",
-      "title": "沒用的我，只能眼睜睜地看着暗戀的女生在我面前被人操了…… 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-08-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20250101/20250101030133817817.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-548"
-    },
-    {
-      "id": 9517,
-      "IDcode": "SSNI-522",
-      "title": "我和這個世界上我最討厭的男人產生了最好的物理化學反應...",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-07-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241230/20241230022523518518.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-522"
-    },
-    {
-      "id": 9798,
-      "IDcode": "SSNI-499",
-      "title": "被拘束的男人！被蕩婦女王酷刑折磨下連續16發射精 超強制射精術 ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-06-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241217/20241217203816803803.jpg",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-499"
-    },
-    {
-      "id": 11375,
-      "IDcode": "SSNI-415",
-      "title": "滿頭大汗、流淫水、舔舐吸吮全身、高潮時全身都溼透的性交 ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2019-02-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20241009/20241009012405171171.jpg",
-      "actress": [
-        "架乃由羅",
-        "玉木玲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-415"
-    },
-    {
-      "id": 13063,
-      "IDcode": "SSNI-355",
-      "title": "S1 15周年紀念版3大女優大共演 第2彈 集團NTR 被輪奸的3位護士 團聚BBQ上被變態寢取 ~ 架乃由羅 Miru 小島南",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2018-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20240728/20240728230430993993.jpg",
-      "actress": [
-        "小島南",
-        "Miru",
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-355"
-    },
-    {
-      "id": 13062,
-      "IDcode": "SSNI-352",
-      "title": "出道1周年紀念！顏射、剃毛和大亂交三重解禁！暴力活塞超級亂交，20個雞巴插入高潮後抽搐的無毛陰戶！ ~ 架乃由羅",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2018-11-19",
-      "cover_url": "https://picture.yoshiclub.xyz/20240728/202407282305305959.jpg",
-      "actress": [
-        "架乃由羅",
-        "森林原人",
-        "南佳也"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-352"
-    },
-    {
-      "id": 88163,
-      "IDcode": "OFJE-172",
-      "title": "S1デビュー1周年記念 架乃ゆらS1初ベスト8時間",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "2018-11-07",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-172"
-    },
-    {
-      "id": 78997,
-      "IDcode": "SSNI-649",
-      "title": "- ツンデレゆら嬢とこっそりヤレる乳首責め手コキ専門裏サロン 架乃ゆら - JAV目錄大全javmenu.com",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S1",
-      "publish_date": "",
-      "cover_url": "",
-      "actress": [
-        "架乃由羅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SSNI-649"
     }
   ]
 };

@@ -4,7 +4,7 @@ window.actressData = {
   "name": "桃瀬かすみ",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -25,10 +25,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2024-11-10",
-      "cover_url": "https://tutu1.space/images/2025/10/05/daed30b6a9449a0f5b028b38bc3e6590.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/50d26d5bf9bfcfae24713aa103526622.jpg",
       "actress": [
         "桃瀬かすみ"
       ],

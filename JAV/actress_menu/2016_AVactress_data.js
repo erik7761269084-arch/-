@@ -28,19 +28,51 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20231211/9f56f2da-3ae3-4260-a793-c4205b8f5d71.jpg"
   ],
-  "works_count": 1,
+  "works_count": 3,
   "related_dramas": [
     {
-      "id": 101527,
-      "IDcode": "MKMP-545",
-      "title": "献身的なじゅぼフェラ回診 白く透き通ったオッパイ・美脚・美尻の色白ボディで勃起させ、卑猥なおクチで治療する思惑通りな痴女ナース 芹沢なぎ",
+      "id": 16862,
+      "IDcode": "MKMP-541",
+      "title": "芹澤凪在護理學院陰部被得到最大的滿足，每次都被衝擊到子宮頸部的高潮",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "K.M.P",
-      "publish_date": "2024-02-13",
-      "cover_url": "",
+      "publish_date": "2024-01-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240108/7fed5013-8857-474f-baa1-6e55ac14aa4b.jpg",
+      "actress": [
+        "芹澤凪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-541"
+    },
+    {
+      "id": 17311,
+      "IDcode": "MKMP-539",
+      "title": "新人出道！ 夢中赤裸 醫療現場的天然素材現役看護醫學生 芹澤凪 首次亮相！ AV DEBUT",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "2023-12-12",
+      "cover_url": "https://picture.yoshiclub.xyz/20231211/b960eb3b-f2de-443d-9963-1dac7c9d6bc2.jpg",
+      "actress": [
+        "芹澤凪"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKMP-539"
+    },
+    {
+      "id": 101527,
+      "IDcode": "MKMP-545",
+      "title": "献身的口交回诊-芹沢なぎ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K.M.P",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240313-1/e3d78aaa3f30927132b64856f49ce540.jpg",
       "actress": [
         "芹澤凪"
       ],

@@ -51,24 +51,8 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20241220/e639fc7a-8be9-46fb-a81d-bc6e43c397de.jpg",
     "https://picture.yoshiclub.xyz/20241220/6ffef151-0816-48d2-bb42-e0862840e33b.jpg"
   ],
-  "works_count": 11,
+  "works_count": 15,
   "related_dramas": [
-    {
-      "id": 3360,
-      "IDcode": "JUR-438",
-      "title": "背德的寝取劇場：貞潔人妻被猥瑣男的醜陋肉棒玷污 ~ 篠原伊代",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "MADONNA",
-      "publish_date": "2025-08-21",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022823677677_39063_thumbnail.webp",
-      "actress": [
-        "篠原伊代"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-438"
-    },
     {
       "id": 61828,
       "IDcode": "REBD-959",
@@ -76,91 +60,158 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "GRATZ",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/12/0766d215/vod.jpg",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "篠原伊代"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-959"
     },
     {
-      "id": 4320,
-      "IDcode": "JUR-402",
-      "title": "為了摯愛的丈夫，甘心淪為週末肉便器！被超絶倫惡霸大叔狂中出到懷孕 ~ 篠原伊代",
+      "id": 9761,
+      "IDcode": "JUR-012",
+      "title": "大型新人AV出道作-筱原伊代",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717001831750750_29961_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095119223223.jpg",
       "actress": [
         "篠原伊代",
         "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-402"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-012"
     },
     {
-      "id": 5118,
-      "IDcode": "JUR-356",
-      "title": "打死也不能跟老婆說，我居然讓岳母懷孕了...一泊兩日溫泉旅行，忍不住狂中出 ~ 篠原伊代",
+      "id": 8866,
+      "IDcode": "JUR-016",
+      "title": "狡猾至极的好女人-篠原いよ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619064737524524_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072246548548.jpg",
       "actress": [
         "篠原伊代",
-        "トミフミ"
+        "ハメ鳥の人"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-356"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-016"
     },
     {
-      "id": 5917,
-      "IDcode": "JUR-041",
-      "title": "和老公一直沒孩子，卻被公公中出個不停，超辣身材沉迷禁忌快感，三本番濃烈大戰 ~ 篠原伊代",
+      "id": 8096,
+      "IDcode": "JUR-023",
+      "title": "禁欲一个月后发情-篠原いよ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-05-23",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075851709709_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092246451451.jpg",
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-041"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-023"
     },
     {
-      "id": 6367,
-      "IDcode": "MDON-073",
-      "title": "獨家配信 女神級專屬女優真實一面大公開 MADOOOON 激情自拍 ~ 篠原伊代",
+      "id": 8095,
+      "IDcode": "JUR-031",
+      "title": "マドンナALL専属バスツアー2025 極上の美女を1人占めするのは僕だ！！夢のハーレムを掴み取れ！！総勢37名の大乱交SPECIAL！！前編",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-05-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/20250506203904537537_thumbnail.webp",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092235625625.jpg",
+      "actress": [
+        "橘瑪麗",
+        "藤森里穂",
+        "栗山莉緒",
+        "神宫寺奈緒",
+        "吉泽友贵",
+        "推川悠里",
+        "日下部加奈",
+        "椎名由奈",
+        "竹田夢",
+        "愛弓涼",
+        "沖宮那美",
+        "水户香奈",
+        "朝妃莉緒",
+        "白石茉莉奈",
+        "廣瀨百合",
+        "古東まりこ",
+        "吉永塔子",
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-031"
+    },
+    {
+      "id": 7355,
+      "IDcode": "JUR-241",
+      "title": "汗水和接吻充满的社长室中出性交-篠原いよ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110102681681.jpg",
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-073"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-241"
+    },
+    {
+      "id": 7344,
+      "IDcode": "JUR-032",
+      "title": "マドンナALL専属バスツアー2025 ハーレムを掴み取った男たちが極上の美女を独占！！酒池肉林のお祭りはまだまだ続く！！夢の大共演＆大乱交FESTIVAL！！後編",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202504/05/67f08a174e7d663df483517c/cover.jpg",
+      "actress": [
+        "橘瑪麗",
+        "藤森里穂",
+        "通野未帆",
+        "栗山莉緒",
+        "神宫寺奈緒",
+        "吉泽友贵",
+        "推川悠里",
+        "日下部加奈",
+        "椎名由奈",
+        "竹田夢",
+        "愛弓涼",
+        "沖宮那美",
+        "水户香奈",
+        "朝妃莉緒",
+        "白石茉莉奈",
+        "廣瀨百合",
+        "古東まりこ",
+        "吉永塔子",
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-032"
     },
     {
       "id": 6742,
       "IDcode": "JUR-040",
-      "title": "裸模NTR：老婆被上司羞辱淪陷的驚天出軌實錄 ~ 篠原いよ",
+      "title": "裸模NTR-篠原いよ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-04-18",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/compressed/20250417/20250417081019441441_thumbnail.webp",
       "actress": [
         "篠原伊代",
@@ -170,70 +221,118 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-040"
     },
     {
-      "id": 7355,
-      "IDcode": "JUR-241",
-      "title": "人妻祕書，汗水與熱吻滿溢的社長室中出性愛 超神新人終於解鎖≪中出≫大招!! ~ 篠原伊代",
+      "id": 6367,
+      "IDcode": "MDON-073",
+      "title": "解禁。 MADOOOON！！！！ 篠原いよ ハメ撮り",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-03-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250320/20250320110102681681.jpg",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-241"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-073"
     },
     {
-      "id": 8096,
-      "IDcode": "JUR-023",
-      "title": "Madonna超大型專屬女優 出軌的人妻第3章 禁欲一月後她欲火焚身，濃密的不倫之旅 ~ 篠原伊代",
+      "id": 5917,
+      "IDcode": "JUR-041",
+      "title": "公公总是在丈夫内射完以后接着中出-篠原いよ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250220/20250220092246451451.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522075851709709_thumbnail.webp",
       "actress": [
         "篠原伊代"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-023"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-041"
     },
     {
-      "id": 8866,
-      "IDcode": "JUR-016",
-      "title": "出道第2作：激烈的親吻和性交，直到性欲耗盡 ~ 篠原伊代",
+      "id": 5118,
+      "IDcode": "JUR-356",
+      "title": "这件事打死也不能告诉妻子-篠原いよ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2025-01-28",
-      "cover_url": "https://picture.yoshiclub.xyz/20250123/20250123072246548548.jpg",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/video/m3u8/2025/07/02/a90bcd35/vod.jpg",
       "actress": [
         "篠原伊代",
-        "ハメ鳥の人"
+        "トミフミ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-016"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-356"
     },
     {
-      "id": 9761,
-      "IDcode": "JUR-012",
-      "title": "Madoona超大型新人！完美人妻誕生！這世界不公平！神顏值與超性感身材可以共存與一個女人身上！ 首次亮相不可錯過 AV DEBUT ~ 筱原伊代",
+      "id": 4320,
+      "IDcode": "JUR-402",
+      "title": "被绝伦恶霸大叔疯狂中出到怀孕-篠原いよ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "MADONNA",
-      "publish_date": "2024-12-24",
-      "cover_url": "https://picture.yoshiclub.xyz/20241218/20241218095119223223.jpg",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717001831750750_29961_thumbnail.webp",
       "actress": [
         "篠原伊代",
         "小田切ジュン"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-012"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-402"
+    },
+    {
+      "id": 3360,
+      "IDcode": "JUR-438",
+      "title": "被低俗男子们的丑陋肉棒玷污的贞淑妻子-篠原いよ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821022823677677_39063_thumbnail.webp",
+      "actress": [
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-438"
+    },
+    {
+      "id": 2653,
+      "IDcode": "JUR-488",
+      "title": "身心契合度极佳的两人-篠原いよ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d98db3ce5a404e9bbb67bb/cover.jpg",
+      "actress": [
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUR-488"
+    },
+    {
+      "id": 2151,
+      "IDcode": "MDON-083",
+      "title": "配信限定 マドンナ専属女優の『リアル』解禁。SEASON2 MADOOOON！！！！ 篠原いよ ハメ撮り",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MADONNA",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "篠原伊代"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MDON-083"
     }
   ]
 };

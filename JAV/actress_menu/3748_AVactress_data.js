@@ -24,7 +24,7 @@ window.actressData = {
     "Shiraishi Akane"
   ],
   "gallery": [],
-  "works_count": 4,
+  "works_count": 8,
   "related_dramas": [
     {
       "id": 83534,
@@ -33,14 +33,103 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
+      "type": "",
+      "company": "",
       "publish_date": "2020-03-13",
-      "cover_url": "",
+      "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/94db990ffe60bfdeb34f1c90a4b59d09.jpg",
       "actress": [
         "千乃杏美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BTH-020"
+    },
+    {
+      "id": 98750,
+      "IDcode": "RKI-410",
+      "title": "ふたなり×ふたなり 大量射精＆大量潮噴き ふたなりが",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROOKIE",
+      "publish_date": "2016-01-19",
+      "cover_url": "http://15.155250922.com/upload/vod/20230816/rki410pl.jpg!320x216.jpg",
+      "actress": [
+        "浜崎真绪",
+        "千乃杏美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-410"
+    },
+    {
+      "id": 103389,
+      "IDcode": "JUFD-553",
+      "title": "最強の黒人巨根で絶頂！ハーレム3P爆乳挟撃SPECIAL 風間ゆみ 千乃あずみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DREAMTICKET",
+      "publish_date": "2016-01-01",
+      "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jufd553/jufd553pl.jpg",
+      "actress": [
+        "風間由美",
+        "千乃杏美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-553"
+    },
+    {
+      "id": 100234,
+      "IDcode": "GDTM-091",
+      "title": "夢の3P！旅館のミスで2人の先輩巨乳社員と出張先でまさかの相部屋",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2015-11-07",
+      "cover_url": "",
+      "actress": [
+        "横山みれい",
+        "水野朝陽",
+        "千乃杏美",
+        "橘优花",
+        "仲里纱羽",
+        "有森凉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GDTM-091"
+    },
+    {
+      "id": 99365,
+      "IDcode": "BBAN-056",
+      "title": "オフィスレディレズ痴漢～蒸れた黒パンスト、真夏の汗だく女性専用車両～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "2015-10-07",
+      "cover_url": "",
+      "actress": [
+        "神ユキ",
+        "大场唯",
+        "千乃杏美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-056"
+    },
+    {
+      "id": 107459,
+      "IDcode": "DVDES-841",
+      "title": "拜托把我妈睡到怀孕-千乃安住",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "千乃杏美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-841"
     },
     {
       "id": 76891,
@@ -49,9 +138,9 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MOODYZ",
-      "publish_date": "2018-11-01",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/9b97585d27d48c95260fe379aa2f6c95.jpg",
       "actress": [
         "大槻响",
@@ -68,32 +157,16 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIZD-112"
     },
     {
-      "id": 107459,
-      "IDcode": "DVDES-841",
-      "title": "盯上媽媽奶子的早熟同學5 ～拜託把睡我媽睡到懷孕吧…！千乃安住",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2015-05-09",
-      "cover_url": "",
-      "actress": [
-        "千乃杏美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVDES-841"
-    },
-    {
       "id": 67682,
       "IDcode": "MTYD-001",
-      "title": "淫媽媽 千乃安曇",
+      "title": "淫荡的妈妈-千乃あずみ",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "DREAMTICKET",
-      "publish_date": "2015-01-13",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/d2aeba2de7667a42cb261fd4cd608e98.jpg",
       "actress": [
         "蓝井优太",
         "千乃杏美"

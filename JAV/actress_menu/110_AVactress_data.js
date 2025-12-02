@@ -50,40 +50,802 @@ window.actressData = {
     "https://picture.yoshiclub.xyz/20231008/12a43da6-28ed-4a49-9042-7e7a3b05e952.jpg",
     "https://picture.yoshiclub.xyz/20231008/551ba53f-2f46-4fa8-abba-d93acb89bfe9.jpg"
   ],
-  "works_count": 24,
+  "works_count": 48,
   "related_dramas": [
     {
-      "id": 2171,
-      "IDcode": "DVMM-298",
-      "title": "每個女人頭上都會顯示她的性癖好 想上就上的世界真美好 ~ 南條彩 小阪ひまり 大浦真奈美 鈴木真夕",
+      "id": 4667,
+      "IDcode": "HOIZ-170",
+      "title": "素人私拍情侶激戰29～瘋狂自拍啪啪～ 素人美女 巨乳美臀 潮吹放尿 抖M性癮 ~ 南條彩 沙月文乃 工藤百合 花裏明理",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DEEP'S",
-      "publish_date": "2025-10-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20251002/20251002063256637637_90781_thumbnail.webp",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-07-05",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/202507061003344444_83297_thumbnail.webp",
       "actress": [
-        "小坂ひまり",
         "南條彩",
-        "鈴木真夕",
-        "大浦真奈美",
-        "七尾神",
-        "しめじ"
+        "沙月文乃",
+        "工藤百合",
+        "花里明理"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-298"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOIZ-170"
+    },
+    {
+      "id": 4861,
+      "IDcode": "HOIZ-168",
+      "title": "素人約炮日記16：一夜情神器匹配，愛巢激戰實錄 ~ 斉藤帆夏 南條彩 依本詩織 工藤百合",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2025-06-28",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629115448281281_thumbnail.webp",
+      "actress": [
+        "南條彩",
+        "工藤百合",
+        "斉藤帆夏",
+        "依本詩織"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOIZ-168"
+    },
+    {
+      "id": 7134,
+      "IDcode": "EMSK-023",
+      "title": "超狂接吻控 ~ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "WAAP GROUP",
+      "publish_date": "2025-04-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20250330/fb507154-75de-46b5-ae7c-271dd7ad46ff.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EMSK-023"
+    },
+    {
+      "id": 7657,
+      "IDcode": "NGHJ-001",
+      "title": "真實搭訕素人女大學生！硬邦邦的小弟弟摩擦下體弄得內褲滿是羞液！直接一插到底連發中出SEX！！ ~ 南條彩 宮城理惠 鬆丸香澄 逢月ひまり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "脫ぐのは恥だがペニス立つ",
+      "publish_date": "2025-03-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250309/74c3b13d-7b93-4277-a790-12210ce3b814.jpg",
+      "actress": [
+        "宮城理惠",
+        "南條彩",
+        "逢月日葵",
+        "松丸香澄"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-001"
+    },
+    {
+      "id": 7641,
+      "IDcode": "DOCD-049",
+      "title": "技藝超羣的美容師100%超高回頭率 超濃密貼身服務讓欲求不滿的淫亂美女沉迷 真實偷拍 ~ 南條彩 花音うらら 工藤百合 星川りく",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-03-07",
+      "cover_url": "https://picture.yoshiclub.xyz/20250310/08e960dc-7530-4a36-bb98-c3c7e0bd7986.jpg",
+      "actress": [
+        "南條彩",
+        "花音うらら",
+        "工藤百合",
+        "星川りく"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-049"
+    },
+    {
+      "id": 7989,
+      "IDcode": "DOCD-047",
+      "title": "隱藏攝像機拍攝的與素人在房間裏發生性關系的鏡頭，AV發售 Vol.8 ~ 南條彩 宮城理惠 葉月まゆ 花乃春日",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "2025-02-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250224/c9465b95-2f5b-4d6b-9ce5-c0f5f572bdc1.jpg",
+      "actress": [
+        "宮城理惠",
+        "南條彩",
+        "葉月まゆ",
+        "花乃春日"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-047"
+    },
+    {
+      "id": 11981,
+      "IDcode": "FPRE-096",
+      "title": "簡直不敢相信，那個被我婚前工作的風俗店禁止進入的老男人竟然是我公公……美乳若妻被精力充沛的公公的速射授精性愛而陷入快感 ~ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-09-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20240913/20240913011548695695.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-096"
+    },
+    {
+      "id": 12603,
+      "IDcode": "FPRE-082",
+      "title": "中出禁令終於解除，因乳頭折磨和坐臉舔陰而增強的性欲被喚醒！超級敏感的G罩杯風俗娘，無法抗拒並乞求無套的大雞巴 ~ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-08-20",
+      "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816002519418418.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-082"
+    },
+    {
+      "id": 13400,
+      "IDcode": "FPRE-077",
+      "title": "美人上司出差時被我的大雞巴迷住了，強制相部屋強制射精，我被淪爲她的性奴 ~ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "2024-07-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712022214886886.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-077"
+    },
+    {
+      "id": 15610,
+      "IDcode": "IPZZ-254",
+      "title": "豐滿淫蕩女教師的淫穢私教，用豐滿的巨乳和豐滿的屁股勾引學生的雞巴。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "2024-04-09",
+      "cover_url": "https://picture.yoshiclub.xyz/20240405/20240405060727649649.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-254"
+    },
+    {
+      "id": 107388,
+      "IDcode": "IPZZ-097",
+      "title": "女大18变超级美少女第一次拍AV-南条彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-2/06d3a2d04e68d45ce8e37c05d4df4491.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-097"
+    },
+    {
+      "id": 107346,
+      "IDcode": "IPZZ-111",
+      "title": "一项你意想不到的特立独行的技能！独家第 2 部分 南条绫",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/8a05e6d9fe38256ceb4bccf2d5c222e5.jpg",
+      "actress": [
+        "南條彩",
+        "鲛岛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-111"
+    },
+    {
+      "id": 107014,
+      "IDcode": "IPZZ-144",
+      "title": "丰满好色大姐姐的追-南条彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/ca717fefca67f630d1b8489324ccd456.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-144"
+    },
+    {
+      "id": 69575,
+      "IDcode": "BBAN-528",
+      "title": "終電を逃した小悪魔後輩にオナニールーティンを崩され 相部屋禁欲で敏感になったカラダを痴女責めされてレズイキ絶頂を繰り返すオナ狂い女上司 南條彩 木下ひまり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "BIBIAN",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202505/03/6815eb33361668305a9f88d0/cover.jpg",
+      "actress": [
+        "木下日葵",
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-528"
+    },
+    {
+      "id": 69380,
+      "IDcode": "CEMD-666",
+      "title": "涙のノンストップ激イカせSEX52 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-666"
+    },
+    {
+      "id": 62159,
+      "IDcode": "RCTD-676",
+      "title": "ROCKET17周年記念ユーザーリクエスト祭り エロガキが不思議なトレーディングカードゲームを手に入れた！！リメイク",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "南條彩",
+        "花音うらら"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-676"
+    },
+    {
+      "id": 18423,
+      "IDcode": "IPZZ-126",
+      "title": "超柔软 胸部护理师最棒舒爽 挤压乳交 南条彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251022-1/e2c333c55414388f64a9f4efe7c11a2b.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-126"
+    },
+    {
+      "id": 17911,
+      "IDcode": "IPZZ-140",
+      "title": "恶德沙龙的媚药浸渍按摩-南条彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250512-1/2999a0200def567d9a899f242b0df6eb.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-140"
+    },
+    {
+      "id": 17367,
+      "IDcode": "IPZZ-160",
+      "title": "他們錯過了末班車-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240102-1/10be25b64f83bbfb64b3571efb8b71a3.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-160"
+    },
+    {
+      "id": 16891,
+      "IDcode": "IPZZ-185",
+      "title": "绝伦义父-南条彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a528a8f1cbfc7a9c7db5d/cover.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-185"
+    },
+    {
+      "id": 16368,
+      "IDcode": "IPZZ-205",
+      "title": "被最侮辱的性愛給玩弄的巨乳女老師-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202503/15/67d54589cf22ae3e043cb9fc/cover.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-205"
+    },
+    {
+      "id": 14898,
+      "IDcode": "IPZZ-274",
+      "title": "超色情的爆乳痴女-南条彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240609-1/48701e82b6fb415940e63d32dc028f30.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-274"
+    },
+    {
+      "id": 11279,
+      "IDcode": "FPRE-105",
+      "title": "恥ずかしくてたまらない過激な水着モデルをさせられた女子社員 羞恥と快感が入り混じる媚薬調教にドハマりしたむっちり美巨乳ボディ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/3a881e8e63015718ef211902096de790.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-105"
+    },
+    {
+      "id": 10568,
+      "IDcode": "FPRE-114",
+      "title": "热气腾腾的大屁股-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67887ee05d57b64bfd2c0462/cover.jpg",
+      "actress": [
+        "南條彩",
+        "ひょこり"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-114"
+    },
+    {
+      "id": 9899,
+      "IDcode": "FPRE-120",
+      "title": "失禁无限中出绝顶的陷阱-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "FITCH",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787eeae5d57b64bfd10da11/cover.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-120"
+    },
+    {
+      "id": 8076,
+      "IDcode": "VENZ-046",
+      "title": "性欲強めの人妻がお色気むんむんベロキス誘惑 よだれダラダラ濃密フェラでデカチン爆勃ち大量射精 びらびら全開オ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250222/3ac41975-32ce-422e-b15b-c49cbc62d754.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-046"
+    },
+    {
+      "id": 7779,
+      "IDcode": "NACR-926",
+      "title": "自慰直播中突然门铃响了-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20250305/eb23f8f2-a1a7-470d-ae40-167614f6bdae.jpg",
+      "actress": [
+        "南條彩",
+        "ししお"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-926"
+    },
+    {
+      "id": 7233,
+      "IDcode": "KIT-005",
+      "title": "職場電影院裏不敢出聲被偷偷玩到高潮好多次的我… ~ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7a7e679f1ac4ec45a57d9/cover.jpg",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIT-005"
+    },
+    {
+      "id": 6438,
+      "IDcode": "FOCS-247",
+      "title": "随时愿意打扫主人房间还有肉棒",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501045313334334_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-247"
+    },
+    {
+      "id": 6397,
+      "IDcode": "NACR-955",
+      "title": "大叔抽獎-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "PLANETPLUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504213519825825_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-955"
+    },
+    {
+      "id": 6211,
+      "IDcode": "CEAD-680",
+      "title": "ケツ穴のシワまで丸見えにして、アナタだけに見せつけるオナニーで激イキする15人の女たち！vol.5葉山さゆり 三岳ゆうな 小春まり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/06/10/b42dc5be5ad12bd2825122c108681880.jpg",
+      "actress": [
+        "美咲佳奈",
+        "羽月乃蒼",
+        "三岳祐奈",
+        "南條彩",
+        "葉山小百合",
+        "蒼山愛奈",
+        "上戶真理",
+        "木野野葉惠里香",
+        "天沢りん",
+        "安野由美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-680"
+    },
+    {
+      "id": 6056,
+      "IDcode": "HALE-062",
+      "title": "ママ友喰い無限ループ vol.57 さやか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517111713420420_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALE-062"
+    },
+    {
+      "id": 5114,
+      "IDcode": "VEC-709",
+      "title": "我的巨乳老婆跟上司在臥房做愛中出整晚-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "VENUS",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092255118118_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-709"
+    },
+    {
+      "id": 4852,
+      "IDcode": "SQDE-015",
+      "title": "これぞイチャラブSEX！楽しくおしゃべりからの豪快ハメ潮SEX 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S-CUTE",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224752349349_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQDE-015"
+    },
+    {
+      "id": 4477,
+      "IDcode": "MUKD-541",
+      "title": "J〇黑歴史 流出。 後輩男子を呼び出して悪ノリでハメまくる陽キャ女子2人組。",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "無垢",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c1a3ac92318f97d35b74f/cover.jpg",
+      "actress": [
+        "南條彩",
+        "雙葉麗奈",
+        "東雲怜弥"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-541"
+    },
+    {
+      "id": 4294,
+      "IDcode": "ROYD-253",
+      "title": "我和乡下发育过头的巨乳堂妹发生了不伦的性爱关系-南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "ROYAL",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250717/20250717033121317317_34801_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-253"
+    },
+    {
+      "id": 3525,
+      "IDcode": "DVMM-277",
+      "title": "マジックミラー便 一流百貨店に勤務する清楚で品格漂う美容部員さん 初めてのじゅぼじゅぼバキュームノーハンドフェラ編 vol.05",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b149df15c08d63a9907ad8/cover.jpg",
+      "actress": [
+        "南條彩",
+        "五芭",
+        "斉藤帆夏",
+        "神樂坂愛琉",
+        "夏芽さき"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-277"
+    },
+    {
+      "id": 3280,
+      "IDcode": "AGAV-145",
+      "title": "とあるムチムチ肉感ドスケベ女教師の性欲に支配された淫らな一日 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823041920230230_32154_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGAV-145"
+    },
+    {
+      "id": 2891,
+      "IDcode": "HZGD-316",
+      "title": "娘が通う保育園の欲求不満な人妻保育士に誘惑され毎日中出し！ドMな僕は色んな体位でヤラれまくった… 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "人妻花園劇場",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072900645645_38839_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-316"
+    },
+    {
+      "id": 2863,
+      "IDcode": "CEAD-701",
+      "title": "乳首オナニーでイク15人の女たち！Vol，4 ～フル勃起した乳頭を過剰に責めて乳首イキする真性ドスケベ女優たち！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906222206508508_66523_thumbnail.webp",
+      "actress": [
+        "天馬唯",
+        "椿莉香",
+        "北野未奈",
+        "羽月乃蒼",
+        "九井珠奈緒",
+        "小野坂唯香",
+        "南條彩",
+        "葉山小百合",
+        "似鳥日菜",
+        "藤沢麗央",
+        "藤咲紫",
+        "月見若葉",
+        "天沢りん",
+        "櫻木湊"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-701"
+    },
+    {
+      "id": 2845,
+      "IDcode": "SILK-1961",
+      "title": "僕が誰だかわかりませんか？",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SILK LABO",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SILK-1961"
+    },
+    {
+      "id": 2700,
+      "IDcode": "SVERS-005",
+      "title": "じいじ殺到！免許を返還したご褒美に青空SEX特典！村役場の黒パンスト事務員と潮吹きラストドライブ！ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "Sadistic Village",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250915/20250915093225611611_70659_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SVERS-005"
+    },
+    {
+      "id": 2665,
+      "IDcode": "ATYA-027",
+      "title": "おじさんのデカマラにもう夢中…全身エッチな人妻がドスケベ婚外交尾で潮吹きアクメ 南條彩",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050746527527_45465_thumbnail.webp",
+      "actress": [
+        "南條彩"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-027"
+    },
+    {
+      "id": 2579,
+      "IDcode": "SIOD-002",
+      "title": "塩対応生意気P活女をわからせ。vol.02",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "DOC",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/07/d6ea1e8f51723859c29ebb7f86fce790.jpg",
+      "actress": [
+        "南條彩",
+        "美波汐里"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIOD-002"
+    },
+    {
+      "id": 2514,
+      "IDcode": "CEAD-704",
+      "title": "貴方に向かって見せつける！！大股開きのガニ股オナニーで挑発する超淫乱ドスケベ女優達15人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "セレブの友",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "波多野结衣",
+        "椿莉香",
+        "羽月乃蒼",
+        "宮城理惠",
+        "虹村由美",
+        "南條彩",
+        "葉山小百合",
+        "那賀崎雪音",
+        "花音うらら",
+        "蘆名穗花",
+        "竹内夏希",
+        "月野ゆりね",
+        "木野野葉惠里香",
+        "櫻木湊",
+        "結城雫"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEAD-704"
     },
     {
       "id": 2486,
       "IDcode": "HALT-069",
-      "title": "【個撮】口暴大全 VOL.12 ~ 大原理央 小野阪唯香 南條彩 葉山小百合 橘日向 水川潤 花裏明理 澄河美花 御影れみ",
+      "title": "【個撮】 フェラなら撮らしてくれた！12 あ～んぐり口内射精10人",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-19",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250919/20250919065057692692_39525_thumbnail.webp",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "",
       "actress": [
         "水川潤",
         "小野坂唯香",
@@ -98,363 +860,43 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HALT-069"
     },
     {
-      "id": 2579,
-      "IDcode": "SIOD-002",
-      "title": "塩対応生意気P活女 好好教訓高冷傲嬌援交妹 vol.02 ~ 美波汐裏 南條彩",
+      "id": 2176,
+      "IDcode": "DVEH-066",
+      "title": "育児に忙しい巨乳ママさん！子育てでレス気味の欲求不満オ○ンコに童貞チ○ポ擦りつけると溢れるいやらし汁 母性＆性欲が高まるママがそのままヌルっと生挿入筆おろし",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "DOC",
-      "publish_date": "2025-09-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250920/202509200512032121_65194_thumbnail.webp",
-      "actress": [
-        "南條彩",
-        "美波汐里"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SIOD-002"
-    },
-    {
-      "id": 2665,
-      "IDcode": "ATYA-027",
-      "title": "大叔的巨根讓我著迷...性感人妻婚外偷情潮吹高潮 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-09-12",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914050746527527_45465_thumbnail.webp",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ATYA-027"
-    },
-    {
-      "id": 2891,
-      "IDcode": "HZGD-316",
-      "title": "欲求不滿的人妻保育員勾引我，每天都被中出！抖M的我被各種姿勢玩爆 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "人妻花園劇場",
-      "publish_date": "2025-09-04",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250904/20250904072900645645_38839_thumbnail.webp",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HZGD-316"
-    },
-    {
-      "id": 62159,
-      "IDcode": "RCTD-676",
-      "title": "ROCKET17周年記念ユーザーリクエスト祭り エロガキが不思議なトレーディングカードゲームを手に入れた！！リメイク",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "ROCKET",
-      "publish_date": "2025-08-07",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/08/04/0c973aad/vod.jpg",
-      "actress": [
-        "南條彩",
-        "花音うらら"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RCTD-676"
-    },
-    {
-      "id": 4477,
-      "IDcode": "MUKD-541",
-      "title": "學生黑歷史外流！兩個騷氣學姊喊來學弟開趴狂嗨3P，超真實性愛影片曝光",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "無垢",
-      "publish_date": "2025-07-11",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250710/20250710042926757757_68301_thumbnail.webp",
-      "actress": [
-        "南條彩",
-        "雙葉麗奈",
-        "東雲怜弥"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MUKD-541"
-    },
-    {
-      "id": 4852,
-      "IDcode": "SQDE-015",
-      "title": "甜蜜愛愛就是這樣！聊嗨了直接開幹狂噴潮吹 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "S-CUTE",
-      "publish_date": "2025-06-28",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250627/20250627224752349349_thumbnail.webp",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SQDE-015"
-    },
-    {
-      "id": 5114,
-      "IDcode": "VEC-709",
-      "title": "和老公上司的祕密之夜 ~ 體液交融的淫亂狂歡 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-06-20",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250619/20250619092255118118_thumbnail.webp",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VEC-709"
-    },
-    {
-      "id": 6397,
-      "IDcode": "NACR-955",
-      "title": "大叔扭蛋！抽到頂級色技服務大叔爽到爆 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-05-05",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250504/20250504213519825825_thumbnail.webp",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-955"
-    },
-    {
-      "id": 6438,
-      "IDcode": "FOCS-247",
-      "title": "甜美溫柔又巨乳！一硬就直接開吃！為主人清理髒房間和髒東西的G杯即尺女僕 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "妄想族",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501045313334334_thumbnail.webp",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FOCS-247"
-    },
-    {
-      "id": 69575,
-      "IDcode": "BBAN-528",
-      "title": "終電を逃した小悪魔後輩にオナニールーティンを崩され 相部屋禁欲で敏感になったカラダを痴女責めされてレズイキ絶頂を繰り返すオナ狂い女上司 南條彩 木下ひまり",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "BIBIAN",
-      "publish_date": "2025-04-08",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/09/0c8e0fad/vod.jpg",
-      "actress": [
-        "木下日葵",
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBAN-528"
-    },
-    {
-      "id": 7779,
-      "IDcode": "NACR-926",
-      "title": "響咚響直播自慰！勾引送貨員並現場做愛！ ？網紅淫蕩主播 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "PLANETPLUS",
-      "publish_date": "2025-03-05",
-      "cover_url": "https://picture.yoshiclub.xyz/20250305/eb23f8f2-a1a7-470d-ae40-167614f6bdae.jpg",
-      "actress": [
-        "南條彩",
-        "ししお"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NACR-926"
-    },
-    {
-      "id": 8076,
-      "IDcode": "VENZ-046",
-      "title": "超強性欲人妻誘惑！深喉口暴，雞巴爆力勃起大量射精全開，丈夫不在家就可以去中出她的淫蕩人妻主婦！ ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "VENUS",
-      "publish_date": "2025-02-25",
-      "cover_url": "https://picture.yoshiclub.xyz/20250222/3ac41975-32ce-422e-b15b-c49cbc62d754.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VENZ-046"
-    },
-    {
-      "id": 9899,
-      "IDcode": "FPRE-120",
-      "title": "失禁無限中出絕頂陷阱！被催淫媚藥變成肉便器的美乳搜查官 ~ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "FITCH",
-      "publish_date": "2024-12-17",
-      "cover_url": "https://picture.yoshiclub.xyz/20241211/20241211073923996996.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-120"
-    },
-    {
-      "id": 16368,
-      "IDcode": "IPZZ-205",
-      "title": "被強奸時高潮的羞辱性強奸 巨乳女教師作爲女性受到的侮辱最多",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2024-02-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20240210/20240210222750732732.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-205"
-    },
-    {
-      "id": 16891,
-      "IDcode": "IPZZ-185",
-      "title": "美麗的女老師愛上了舔爸爸的雞巴，沾滿唾液的溼舌吻。",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2024-01-09",
-      "cover_url": "https://picture.yoshiclub.xyz/20240106/20240106041845206206.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-185"
-    },
-    {
-      "id": 17367,
-      "IDcode": "IPZZ-160",
-      "title": "酒会后，错过末班车，和最好的朋友南條彩去酒店开房，当然该发生的都发生了",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-12-13",
-      "cover_url": "https://picture.yoshiclub.xyz/20231209/dfd9fb51-c4b7-4c26-a8d8-0c09201441f2.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-160"
-    },
-    {
-      "id": 17911,
-      "IDcode": "IPZZ-140",
-      "title": "無良美容院的催情媚藥按摩，無論多少此，都無法停止高潮…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-11-14",
-      "cover_url": "https://picture.yoshiclub.xyz/20231111/20231111065403311311.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-140"
-    },
-    {
-      "id": 18423,
-      "IDcode": "IPZZ-126",
-      "title": "這位護士的奶子好柔軟 操起來太爽了",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-10-11",
-      "cover_url": "https://picture.yoshiclub.xyz/20231008/a29a0983-0ab5-443a-ba14-4814fa20b167.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-126"
-    },
-    {
-      "id": 107014,
-      "IDcode": "IPZZ-144",
-      "title": "この肉体に果てしない快楽をー むっちりドスケベお姉さんの追い込みアクメ超覚醒3本番！ 南條彩",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-09-12",
-      "cover_url": "https://tutu1.space/images/2023/10/01/dc0db6995fcb3b8a974a6840a1d25830.jpg",
-      "actress": [
-        "南條彩"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-144"
-    },
-    {
-      "id": 107346,
-      "IDcode": "IPZZ-111",
-      "title": "ぶっ飛び絶頂ブースト4 SEX 新人とは思えない異端児スキル！専属第2弾 南條彩 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-08-09",
-      "cover_url": "https://tutu1.space/images/2023/09/18/1558086e4a4417ccca42755ba3e824c7.jpg",
-      "actress": [
-        "南條彩",
-        "鲛岛"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-111"
-    },
-    {
-      "id": 107388,
-      "IDcode": "IPZZ-097",
-      "title": "新人 FIRST IMPRESSION 160-新星- 豹変の超ド級美少女 AV デビュー 南條彩 （ブルーレイディスク） 生写真3枚付き",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "IDEA POCKET",
-      "publish_date": "2023-07-12",
+      "type": "",
+      "company": "DEEP'S",
+      "publish_date": "",
       "cover_url": "",
       "actress": [
-        "南條彩"
+        "南條彩",
+        "似鳥日菜",
+        "花宮京子"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-097"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVEH-066"
     },
     {
-      "id": 69380,
-      "IDcode": "CEMD-666",
-      "title": "- 涙のノンストップ激イカせSEX52 南條彩 - JAV目錄大全javmenu.com",
+      "id": 2171,
+      "IDcode": "DVMM-298",
+      "title": "頭の上に性癖が表示される世界～見えるのは僕だけ～",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "セレブの友",
+      "type": "",
+      "company": "",
       "publish_date": "",
-      "cover_url": "https://tutu1.space/video/m3u8/2025/07/04/bedb8834/vod.jpg",
+      "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68eb98a752c12b4e68456a03/cover.jpg",
       "actress": [
-        "南條彩"
+        "小坂ひまり",
+        "南條彩",
+        "鈴木真夕",
+        "大浦真奈美",
+        "七尾神",
+        "しめじ"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CEMD-666"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVMM-298"
     }
   ]
 };

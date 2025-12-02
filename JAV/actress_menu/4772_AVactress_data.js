@@ -4,7 +4,7 @@ window.actressData = {
   "name": "相沢恋",
   "age": null,
   "birthday_date": null,
-  "img_url": "https://upload.xchina.io/default/model.jpg",
+  "img_url": "https://yunvgong.com/model.jpg",
   "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
   "zodiac": null,
   "height": null,
@@ -16,8 +16,24 @@ window.actressData = {
   "detail_url": null,
   "aliases": [],
   "gallery": [],
-  "works_count": 1,
+  "works_count": 2,
   "related_dramas": [
+    {
+      "id": 99630,
+      "IDcode": "IPTD-952",
+      "title": "新卒ガールのヤリまくり就職戦線 シュウカツ！！ 相沢恋",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2012-09-19",
+      "cover_url": "",
+      "actress": [
+        "相沢恋"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPTD-952"
+    },
     {
       "id": 77938,
       "IDcode": "MMB-248",
@@ -25,10 +41,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
-      "publish_date": "2019-06-07",
-      "cover_url": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ec2a7bedbb9380c1fa130b2ca3bd9877.jpg",
       "actress": [
         "富田优衣",
         "坂咲美穗",

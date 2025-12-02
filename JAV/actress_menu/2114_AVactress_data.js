@@ -39,15 +39,48 @@ window.actressData = {
   "works_count": 3,
   "related_dramas": [
     {
-      "id": 9015,
-      "IDcode": "MKCK-377",
-      "title": "獻給那些喜歡大奶子的巨乳迷們，這是只有AV用戶才能看到的壯觀的100番爆乳連發絕景",
+      "id": 90363,
+      "IDcode": "PESS-002",
+      "title": "個人撮影 ムチムチボインに変態行為",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "E-BODY",
-      "publish_date": "2025-01-21",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240121-1/0511d3df26840590811328031cbba6b3.jpg",
+      "actress": [
+        "栗原葵",
+        "芹奈梨紅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-002"
+    },
+    {
+      "id": 73584,
+      "IDcode": "SPZ-1134",
+      "title": "援 匂いフェチ男 就活帰りのムチムチボインJDに変態行為 妃奈瀬うみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/dcb08171ee4002c5cf6b683cbf4f0757.jpg",
+      "actress": [
+        "芹奈梨紅"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPZ-1134"
+    },
+    {
+      "id": 9015,
+      "IDcode": "MKCK-377",
+      "title": "フェラ中もおっぱいが見たい巨乳フェチのアナタへ捧げる AVユーザーしか見ることのできない唯一の絶景 爆乳ローアングルフェラチオラッシュ100連発",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
       "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116071447277277.jpg",
       "actress": [
         "天月梓",
@@ -95,39 +128,6 @@ window.actressData = {
         "安倍亜沙美"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MKCK-377"
-    },
-    {
-      "id": 90363,
-      "IDcode": "PESS-002",
-      "title": "個人撮影 ムチムチボインに変態行為",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "NEXT",
-      "publish_date": "2023-11-20",
-      "cover_url": "",
-      "actress": [
-        "栗原葵",
-        "芹奈梨紅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PESS-002"
-    },
-    {
-      "id": 73584,
-      "IDcode": "SPZ-1134",
-      "title": "援 匂いフェチ男 就活帰りのムチムチボインJDに変態行為 妃奈瀬うみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2023-02-20",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250121-1/1b80a1b2fe35362bd49575cd90564fc8.jpg",
-      "actress": [
-        "芹奈梨紅"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SPZ-1134"
     }
   ]
 };

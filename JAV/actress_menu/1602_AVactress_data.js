@@ -33,8 +33,28 @@ window.actressData = {
   "gallery": [
     "https://picture.yoshiclub.xyz/20250121/d026fe99-14fb-4ef8-973a-6608c7f693f0.jpg"
   ],
-  "works_count": 4,
+  "works_count": 6,
   "related_dramas": [
+    {
+      "id": 8929,
+      "IDcode": "KTRA-691",
+      "title": "天使與淫亂！蘿莉特輯2 4小時 ~ 市井結夏 八尋麻衣 あまね彌生 橘ひなの 永瀬ゆい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-01-14",
+      "cover_url": "https://picture.yoshiclub.xyz/20250121/f61357a8-d22e-47c8-bf20-171a5cb18082.jpg",
+      "actress": [
+        "市井結夏",
+        "永瀬ゆい",
+        "八尋麻衣",
+        "橘ひなの",
+        "あまね弥生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-691"
+    },
     {
       "id": 87059,
       "IDcode": "OKAX-910",
@@ -42,10 +62,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "K.M.P",
+      "type": "",
+      "company": "",
       "publish_date": "2023-06-27",
-      "cover_url": "",
+      "cover_url": "https://tuaskbgnekr.com/20231018/A5GkQZnN/1.jpg",
       "actress": [
         "波多野结衣",
         "椿莉香",
@@ -62,20 +82,20 @@ window.actressData = {
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OKAX-910"
     },
     {
-      "id": 81084,
-      "IDcode": "AKO-454",
-      "title": "YAYOI",
+      "id": 520340,
+      "IDcode": "210AKO-454",
+      "title": "黑发美少女~身材纤细可爱",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "company": "",
       "publish_date": "2022-03-05",
       "cover_url": "",
       "actress": [
         "あまね弥生"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AKO-454"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=210AKO-454"
     },
     {
       "id": 76194,
@@ -84,10 +104,10 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "MILK",
-      "publish_date": "2020-02-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/d0e4c32729c89723fedb3fc2536eaee8.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241127-1/9e84e2b5ee1a150ddfdd8a41d4cfea21.jpg",
       "actress": [
         "富井美帆",
         "あまね弥生",
@@ -102,19 +122,35 @@ window.actressData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "company": "TMA",
-      "publish_date": "2020-01-07",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241221-1/22b14dcc162ebca1b35b119e56f335c7.jpg",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/c9081aade22c222a1cc46948f55a60f8.jpg",
       "actress": [
         "天馬唯",
+        "永瀬ゆい",
         "水卜麻衣奈",
         "あまね弥生",
-        "永濑唯",
         "月宫ねね",
         "日向咲"
       ],
       "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HUNTA-706"
+    },
+    {
+      "id": 7114,
+      "IDcode": "307SHIC-312",
+      "title": "男人的欲望：軟弱美少女與繼父和家教的240分鍾 ~ あまね彌生",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/04/68902ef4c92318f97d73bf8e/cover.jpg",
+      "actress": [
+        "あまね弥生"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=307SHIC-312"
     }
   ]
 };
