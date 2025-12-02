@@ -37,7 +37,7 @@ window.actressData = {
     },
     {
       "id": 119516,
-      "IDcode": "FC2PPV-1168227",
+      "IDcode": "FC2-PPV-1168227",
       "title": "（モザイク有り）【まさに奇跡】",
       "year": "",
       "country": "",
@@ -49,7 +49,7 @@ window.actressData = {
       "actress": [
         "高野しずか"
       ],
-      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2PPV-1168227"
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-1168227"
     },
     {
       "id": 99528,
