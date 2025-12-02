@@ -1,0 +1,88 @@
+// 2332_AVactress_data.js
+window.actressData = {
+  "id": 2332,
+  "name": "まんげつおちゃずけくも",
+  "age": 20,
+  "birthday_date": "2005-02-22",
+  "img_url": "https://picture.yoshiclub.xyz/20250213/3997fdc4-fa82-4d30-9d5b-720a9f65e470.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250213/7a052ae2-9fc7-4ab9-82f2-3596b483b9aa.jpg",
+  "zodiac": "雙魚座",
+  "height": "164cm",
+  "measurements": "胸 86 腰 56 臀 89",
+  "measurements_display": "86E/56/89",
+  "cup": "E",
+  "description": "",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "性感",
+    "天然",
+    "美少女",
+    "美臀",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "別致顔值",
+    "鄰家女",
+    "修長癡體",
+    "極上身材",
+    "短髮",
+    "極上美人",
+    "排骨精",
+    "大臀",
+    "極上美臀",
+    "職業模特",
+    "無毛",
+    "二次元",
+    "高妹子",
+    "寫真女郎",
+    "冷豔"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/54c4431e-4ff4-4bf4-adde-4fc5a772541d.html",
+  "aliases": [
+    "Mangetsu Ochazukekumo"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250213/1d509f2a-c271-41ac-a36d-c7f8cc3cd4ba.jpg",
+    "https://picture.yoshiclub.xyz/20250213/949689e9-eb72-4c95-b8f3-3f025ade1b26.jpg",
+    "https://picture.yoshiclub.xyz/20250213/8a82ee5d-ccb1-4b7f-9958-0139dc767cd7.jpg",
+    "https://picture.yoshiclub.xyz/20250213/60026f3d-b368-47a9-ab6d-5da853361b00.jpg",
+    "https://picture.yoshiclub.xyz/20250213/a582f571-cb80-4523-b654-e59ee000bab5.jpg",
+    "https://picture.yoshiclub.xyz/20250213/4c2701fc-c6b4-41bf-ad0d-476291b3c719.jpg",
+    "https://picture.yoshiclub.xyz/20250213/e3144e74-fe90-4dce-9caa-6f0c99ae9364.jpg",
+    "https://picture.yoshiclub.xyz/20250213/57315ad0-0c53-4afe-ab33-3072f3f5a70c.jpg",
+    "https://picture.yoshiclub.xyz/20250213/1d1a249b-951c-4f1e-8747-48c44a52111c.jpg",
+    "https://picture.yoshiclub.xyz/20250213/692a865d-c528-44b6-bdf4-a5107b190164.jpg",
+    "https://picture.yoshiclub.xyz/20250213/e5678b80-634f-465d-8290-9f8f49644951.jpg",
+    "https://picture.yoshiclub.xyz/20250213/408ac317-2eee-4177-a966-c4164bdcecf6.jpg",
+    "https://picture.yoshiclub.xyz/20250213/14c35c6f-c7b2-4766-87cc-c97a9b0b16fa.jpg",
+    "https://picture.yoshiclub.xyz/20250213/3d5d8336-248d-4557-98a0-2a199136fc1b.jpg",
+    "https://picture.yoshiclub.xyz/20250213/efe6dc74-c239-4c73-a2bf-608c79fb3868.jpg",
+    "https://picture.yoshiclub.xyz/20250213/5fdb2d27-1dcf-4c0d-810b-58550b46270d.jpg",
+    "https://picture.yoshiclub.xyz/20250213/e5693ee1-c2ce-4504-898f-c90353999578.jpg",
+    "https://picture.yoshiclub.xyz/20250213/663b0483-ce6b-4e8d-b1f3-731069b94061.jpg",
+    "https://picture.yoshiclub.xyz/20250213/0456e3d0-979e-43c6-84b2-ca92ca748d15.jpg",
+    "https://picture.yoshiclub.xyz/20250213/8673ee13-ac95-42b6-9d68-221214f641ad.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 8323,
+      "IDcode": "SAT-005",
+      "title": "感覺好極了 ~ まんげつおちゃずけくも",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-12-25",
+      "cover_url": "https://picture.yoshiclub.xyz/20250213/7a052ae2-9fc7-4ab9-82f2-3596b483b9aa.jpg",
+      "actress": [
+        "まんげつおちゃずけくも"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAT-005"
+    }
+  ]
+};

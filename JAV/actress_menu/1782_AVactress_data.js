@@ -1,0 +1,88 @@
+// 1782_AVactress_data.js
+window.actressData = {
+  "id": 1782,
+  "name": "雪咲すみれ",
+  "age": 25,
+  "birthday_date": "2000-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/20240413/da17eb52-08e2-470a-93d6-50754213852d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240412/20240412230703850850.jpg",
+  "zodiac": "摩羯座",
+  "height": "158cm",
+  "measurements": "胸 88 腰 60 臀 90",
+  "measurements_display": "88F/60/90",
+  "cup": "F",
+  "description": "好、好大！雖然有個Q罩杯的新人轟動武林震驚萬教風光出場，不過這位在E-Body現身的「雪咲すみれ(雪咲蓳)」也不是好惹的，F罩杯的她是個皮膚很白奶子很大的巨乳素人，重點是封面寫了她的性經驗只有0.5人，幾乎是個處女〜為什麼是0.5個人？原來這是個紀錄片(ドキュメント)，目前是個OL的雪咲すみれ(雪咲蓳)對於「性」這個字是有創傷症候群的：因為她在19歲時的第一次完全沒感覺，結果被當時的男友察覺後就被拋棄了，這讓原本就不太主動的她從此封閉了自己的內心和小穴，從此再也沒有和任何人上床ー這就是為什麼她的性經驗只有0.5人的原因，一來是她完全沒感覺，可能是對方太小支根本沒貫通她的鮑鮑；二來是之後她就再也沒和男人好過了，雖然還是很想要，但這五年來她不敢做也不知道找誰做⋯然後雪咲すみれ(雪咲蓳)就把自己交給AV界了，向來慈悲為懷的片商E-Body為她設計了一個月的課程，讓她可以一步一步地習慣性接受性享受性ー第6天，她在服飾店露出並且跪下含住，第14天，她被各種性愛道具開發讓小穴擴張到可以被插入的程度，第24天，她第一次嘗試和男優做愛，然後到了30天，她成為了一個合格的AV女優，享受到了性愛的喜悅，高潮了！然後雪咲すみれ(雪咲蓳)開心地哭了，原來性愛是這麼美好的事和那麼美妙的滋味ー幹，E-Bod這片商可以當選AV界的好人好事代表了，不過很抱歉，他們認真做出來的這個企劃現在看起來像笑話一場，初體驗不美好所以從此封閉小穴不再做愛？那這兩支作品是怎麼回事？那就是FC2-PPV-3851957的作品「えみちゃん18歳 上京したての超色白スレンダーボディ・Gカップ美巨乳の世間知らずお嬢さまJD、高額バイトに釣られて孕ませ中出しAVデビューで人生終了」以及FC2-PPV-4247151的「【純白のダイナマイトボディ】お顔からは想像できない発達し過ぎたお胸。ガチガチに緊張した和風美女が魅せる2時間11分。千秋」，看了臉蛋就知道這位和無碼賣家合作的女孩就是雪咲すみれ(雪咲蓳)無誤，胸前那顆黑痣更是讓她無法否認在AV出道前有過這麼一段下馬的歷史ー對啦FC2-PPV-3851957那支作品她從頭到尾安安靜靜甚至面無表情可能真的沒有爽，但那也和E-Body的人設差太多了啦〜所以這次E-Body可說是吃了悶虧，明明雪咲すみれ(雪咲蓳)身材超棒又白又大超級胸，如果沒有過去這段無碼界的歷史那這支作品真的相當完美，一個對性愛有創傷症候群的大奶妹來到AV界解決了問題然後深飲豪醉瘋狂增加經驗值，是會讓人想看看這個過程的，只可惜情報剛解禁她的無碼歷史也跟著曝光了：會在網路上搜索女優訊息的AVer應該會受到影響吧？當然是先找無碼片來看！",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "天然",
+    "長相溫柔",
+    "長相甜美",
+    "優雅"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/7f563a0a-f184-49d9-8944-f07c862a7d6e.html",
+  "aliases": [
+    "Sumire Yukisaki",
+    "雪咲蓳",
+    "雪咲蓳"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240413/da17eb52-08e2-470a-93d6-50754213852d.jpg"
+  ],
+  "works_count": 3,
+  "related_dramas": [
+    {
+      "id": 15440,
+      "IDcode": "EBWH-086",
+      "title": "新人報到 ~ 只有與0.5個男人做愛經驗的白膚大奶素人的第一次高潮的AV表演記錄 ~ 雪咲すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "2024-04-16",
+      "cover_url": "https://picture.yoshiclub.xyz/20240412/20240412230703850850.jpg",
+      "actress": [
+        "雪咲すみれ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-086"
+    },
+    {
+      "id": 95698,
+      "IDcode": "EBWH-139",
+      "title": "巨乳清纯的年轻妻子-雪咲すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20240919-1/f3c6adc8de5bc67b025c07f9a48df40e.jpg",
+      "actress": [
+        "雪咲すみれ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-139"
+    },
+    {
+      "id": 13981,
+      "IDcode": "EBWH-110",
+      "title": "白皮肤大胸女孩-雪咲すみれ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "E-BODY",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d97443631cc64eb588b46e/cover.jpg",
+      "actress": [
+        "雪咲すみれ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EBWH-110"
+    }
+  ]
+};

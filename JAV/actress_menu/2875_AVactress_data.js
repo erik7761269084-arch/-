@@ -1,0 +1,86 @@
+// 2875_AVactress_data.js
+window.actressData = {
+  "id": 2875,
+  "name": "仲間明日香",
+  "age": 38,
+  "birthday_date": "1987-05-13",
+  "img_url": "https://picture.yoshiclub.xyz/20230608/c42f40ff-a25c-4b03-8df1-e672ae259da5.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230608/20230608055647173173.jpg",
+  "zodiac": "金牛座",
+  "height": "158cm",
+  "measurements": "胸 89 腰 58 臀 86",
+  "measurements_display": "89G/58/86",
+  "cup": "G",
+  "description": "仲間明日香(Nakama-Asuka)身高／罩杯：158公分／F罩杯FANZA的Prestige，Aipoke，EBODY，SOD工作生日：5.13",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "長相溫柔",
+    "嫵媚",
+    "優雅"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/f0cfd7ee-2b22-4717-a29c-ac2f8d5f074a.html",
+  "aliases": [
+    "Aki Kamijo",
+    "Asuka Nakama",
+    "Chinari Aida",
+    "Karen Natsuhara",
+    "Misaki Shimada",
+    "Nana Chihaya",
+    "上条亜樹",
+    "千早菜奈",
+    "夏原カレン",
+    "小森奈緒子",
+    "岩槻由梨奈",
+    "島田美咲",
+    "相田ちなり",
+    "萩原香奈"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/x-OPPAI/AI-Fix-千早菜奈.jpg",
+    "https://picture.yoshiclub.xyz/20230608/cc3f7745-ced2-4dfb-a6a0-004c1815f234.jpg",
+    "https://picture.yoshiclub.xyz/20230608/f2f6cbdb-e148-4033-9379-beb98483bbd0.jpg",
+    "https://picture.yoshiclub.xyz/20230608/4f0d8bc5-ce2b-47e1-8f6d-03debeee54ba.jpg",
+    "https://picture.yoshiclub.xyz/20230608/8b3b3a01-bcaa-4df2-aec8-6aea1c379198.jpg",
+    "https://picture.yoshiclub.xyz/20230608/c581ed33-09bd-4f34-8b95-5ba91f0e7bc5.jpg",
+    "https://picture.yoshiclub.xyz/20230608/b1a161cb-b7bb-41c7-8393-193eaf5b8bc0.jpg",
+    "https://picture.yoshiclub.xyz/20230608/185665da-531d-4778-9fc9-3d6101753a1e.jpg",
+    "https://picture.yoshiclub.xyz/20230608/ef3124b7-da27-4aa0-b4c5-ab019d12de32.jpg",
+    "https://picture.yoshiclub.xyz/20230608/25019e6a-4f6a-4aaf-a33f-866a288a516a.jpg",
+    "https://picture.yoshiclub.xyz/20230608/7a7184d7-40be-4893-85fe-5fe6f2184f06.jpg",
+    "https://picture.yoshiclub.xyz/20230608/abc9241e-0887-47f6-b370-2a077338f33c.jpg",
+    "https://picture.yoshiclub.xyz/20230608/d1a451a8-34de-4393-ab2c-7d27841c8268.jpg",
+    "https://picture.yoshiclub.xyz/20230608/f9383f91-1c62-4e61-8c64-bb33b41e70ab.jpg",
+    "https://picture.yoshiclub.xyz/20230608/80fe5cb4-f3d3-42cd-bdc7-2d2905c9dcb6.jpg",
+    "https://picture.yoshiclub.xyz/20230608/8890b699-1b0e-4572-b354-6049c2aeb641.jpg",
+    "https://picture.yoshiclub.xyz/20230608/67efa777-9271-4ff6-8f66-8aba8b11bb7f.jpg",
+    "https://picture.yoshiclub.xyz/20230608/907af05b-ad84-4704-8d51-6b5aad5c5e47.jpg",
+    "https://picture.yoshiclub.xyz/20230608/787fbd39-be93-4bea-80f1-71a676f5851d.jpg",
+    "https://picture.yoshiclub.xyz/20230608/39cebab2-5e50-4925-855d-5e073aae90e0.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 19283,
+      "IDcode": "IPX-169",
+      "title": "人妻電撃入店-仲間明日香",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/20230608/20230608055647173173.jpg",
+      "actress": [
+        "仲間明日香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-169"
+    }
+  ]
+};

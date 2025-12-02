@@ -1,0 +1,185 @@
+// 659_AVactress_data.js
+window.actressData = {
+  "id": 659,
+  "name": "新城由衣",
+  "age": 39,
+  "birthday_date": "1986-11-30",
+  "img_url": "https://picture.yoshiclub.xyz/20240918/c8303019-f54b-4382-aca8-a0673569e348.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250924/20250924032846169169_95243_s.webp",
+  "zodiac": "射手座",
+  "height": "165cm",
+  "measurements": "胸 86 腰 58 臀 89",
+  "measurements_display": "86D/58/89",
+  "cup": "D",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "女人味",
+    "性感",
+    "天然",
+    "嫵媚",
+    "熟女",
+    "別致顔值",
+    "修長癡體",
+    "極上身材",
+    "禦姐",
+    "辣妹系",
+    "排骨精",
+    "職業模特",
+    "寫真女郎",
+    "冷豔"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/288208c4-a734-4726-9437-7c23115a7440.html",
+  "aliases": [
+    "AkiHanazono",
+    "Haruka Suzuno",
+    "HasumiNakagawa",
+    "Hikari Yoshizawa",
+    "Hiroe Nakatani",
+    "Kanako Horiguchi",
+    "Karen Saeki",
+    "maiko saegimi",
+    "Makise Kyoko",
+    "Makise Kyoko",
+    "Misaki Fujiyama",
+    "NaoShiraishi",
+    "Natsu Ooba",
+    "Rika Kinjou",
+    "RinaKouda",
+    "Wanpakuchan",
+    "Yoriko Saito",
+    "Yui Shinjo",
+    "わんぱくちゃん",
+    "中川蓮美",
+    "仲谷広恵",
+    "佐伯かれん",
+    "倖田りな",
+    "冴君麻衣子",
+    "吉澤ひかり",
+    "堀口夏菜子",
+    "大庭菜津",
+    "寿々野美花",
+    "斉藤亜理紗",
+    "斉藤依子",
+    "本宮すず",
+    "林原りな",
+    "根中祐実",
+    "江咲はるか",
+    "牧瀬今日子",
+    "白石ナオ",
+    "花園あき",
+    "藤山美沙希",
+    "金城梨花"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/AI-Fix-倖田りな.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/斉藤依子.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-Derekhsu/冴君麻衣子.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(骑)/AI-Fix-金城梨花.jpg",
+    "https://picture.yoshiclub.xyz/20240918/6a975f51-6514-4c52-993e-07688b60b2a8.jpg",
+    "https://picture.yoshiclub.xyz/20240918/a87095a0-de4d-4cab-8c4f-3788fc9985bb.jpg",
+    "https://picture.yoshiclub.xyz/20240918/da59797c-2ee6-4d93-af0a-8282545df3b4.jpg",
+    "https://picture.yoshiclub.xyz/20240918/9a76092e-b797-4e97-a55a-4ff9fa898aee.jpg",
+    "https://picture.yoshiclub.xyz/20240918/54ce315d-8674-4cb3-9ff8-2ad977c78355.jpg"
+  ],
+  "works_count": 6,
+  "related_dramas": [
+    {
+      "id": 554638,
+      "IDcode": "HEYZO-3225",
+      "title": "手淫和射精",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20241101-1/c8a2854e8da53fb398335965915f5179.jpg",
+      "actress": [
+        "新城由衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3225"
+    },
+    {
+      "id": 224497,
+      "IDcode": "XMOM-015",
+      "title": "性欲强烈的人妻-吉澤ひかり",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "熟女人妻最強廠",
+      "publish_date": "",
+      "cover_url": "https://1.15250719pic.com/upload/vod/20240925-1/0b91243a393ed94e666104659a7c93c9.jpg",
+      "actress": [
+        "新城由衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=XMOM-015"
+    },
+    {
+      "id": 159177,
+      "IDcode": "CARIB-071123-001",
+      "title": "恍惚 ～浴衣美女と本能の赴くままに～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/GvdCRcL2/1.jpg",
+      "actress": [
+        "新城由衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071123-001"
+    },
+    {
+      "id": 158711,
+      "IDcode": "HEYZO-3406",
+      "title": "がネットリなめてジックリしゃぶる！ –",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/VfLl9W1O/1.jpg",
+      "actress": [
+        "新城由衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3406"
+    },
+    {
+      "id": 141033,
+      "IDcode": "060922-001",
+      "title": "肛交百科",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://thjpg10.top/upload/vod/20250125-1/79b680a623bd26122f5c45444f5c7927.jpg",
+      "actress": [
+        "新城由衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=060922-001"
+    },
+    {
+      "id": 674,
+      "IDcode": "HEYZO-0810",
+      "title": "出其不意安排男优进来插入",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20240624-1/8dca9fad7c325e269ca03e9a8e9f776f.jpg",
+      "actress": [
+        "新城由衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0810"
+    }
+  ]
+};

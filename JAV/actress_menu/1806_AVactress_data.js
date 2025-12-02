@@ -1,0 +1,72 @@
+// 1806_AVactress_data.js
+window.actressData = {
+  "id": 1806,
+  "name": "柚木結愛",
+  "age": 27,
+  "birthday_date": "1998-06-01",
+  "img_url": "https://picture.yoshiclub.xyz/GFriends\\Content\\9-Javrave/柚木結愛.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230606/20230606212332658658.jpg",
+  "zodiac": "雙子座",
+  "height": "155cm",
+  "measurements": "胸 85 腰 56 臀 84",
+  "measurements_display": "85E/56/84",
+  "cup": "E",
+  "description": "又有我喜歡的短髮妹出道！她叫「柚木結愛」，是個空手道高手，雖然我們都知道在這一行任你武功再高最後還是得被男優亂棒圍毆，不過柚木結愛鬼扯蛋的設定可不只會空手道，「性經驗不足」才是她的必殺招：原來看起來還很幼齒的她已經是人妻了，而且她性經驗的對象就只有老公一個，也就是說除了老公以外她沒和其他男人上過床。既然如此又為什麼來拍AV呢？理由很簡單，因為柚木結愛覺得一輩子只和老公一個人上床好像有點遜，為了體驗其他棒子和老公的有什麼不同也為了人生不要白走這一遭，所以習武的她發揮大無畏的精神勇闖暗黑界，與男優的棒子來個真剣対決ー然後柚木結愛就知道千萬不要不自量力妄想要挑戰男優，因為他們都是擊敗人，最會做的就是搞雞掰，平常在道場上常擊敗人的她這次是徹底被擊敗了，被男優拿棒子搞了又搞後她那因為長年練武而有腹肌的美好身體不斷敏感扭動，彷彿再用力一點就要壞掉了⋯看起來是不錯的新人，對吧？如果沒有那個「只和老公一個人做過」的設定就更好了ー對啦，我們都知道不需要對片商的設定認真，不過這位「柚木結愛」可是一眼就被很多人發現她在說謊—不是她在那間店應召大家都睡過，而是這位女優根本不是新人，之前還拍過無碼片！她是「日野みこと(日野美琴)」，你有名字就查得到無碼的老朋友了：還記得嗎？2017年在SODキミホレ系統登場的她是個一頭長髮的20歲小姑娘，當時的設定也是「只和老公做過的少婦」，這樣的設定三年後還可以繼續用我只能說Moodyz這家業界的頂級片商實在有點懶；而到了隔年(2018)暑假，剪短了頭髮、好一陣子沒有現身的她成了無碼片商的獵物，在經過禁慾、中出連發、春藥等重口味企劃洗禮的她似乎已經找不回出道時的清純味道，只能在鏡頭前張開雙腿讓大家欣賞沒有馬賽克那塊遮羞布擋住的下半身是如何被男優衝撞的⋯雖然是沿用三年前出道的企劃再加上空手道的設定，不過在Moodyz的幫忙下現在叫「柚木結愛」的她不只找回了清純的味道而且還把身形鍛鍊得更加苗條誘人，就算看到他還是難免會想起之前的無碼演出，但對她這次重新出發我是蠻看好的，如果經紀公司還是之前的那一家也無妨～",
+  "features": [
+    "美人",
+    "膚白",
+    "長相清純",
+    "長相可愛",
+    "鄰家女",
+    "短髮"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/8dc2a894-8349-43dd-81e9-2b002fe8c40a.html",
+  "aliases": [
+    "Keika Yasui",
+    "Kotomi Yuzuno",
+    "Mikoto Hino",
+    "Yua Yuzuki",
+    "ゆずきゆあ",
+    "ゆずの琴美",
+    "安井蛍香",
+    "日野みこと"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-Javrave/柚木結愛.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 158772,
+      "IDcode": "HEYZO-3405",
+      "title": "女優親友のカノジョを寝取ってヤりました！！～美女コレクションVol.34～ –",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250222/n1s5twaN/1.jpg",
+      "actress": [
+        "柚木結愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3405"
+    },
+    {
+      "id": 1456,
+      "IDcode": "HEYZO-2833",
+      "title": "【无码】HEYZO-2833 欲求不満な親友のカノジョを寝取ってヤりました！！ - ゆずの琴美",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250629-19/2c768e115e2e5791e3c64d5e43696ded.webp",
+      "actress": [
+        "柚木結愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2833"
+    }
+  ]
+};

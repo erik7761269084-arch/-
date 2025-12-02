@@ -1,0 +1,75 @@
+// 1756_AVactress_data.js
+window.actressData = {
+  "id": 1756,
+  "name": "水城麗沙",
+  "age": 21,
+  "birthday_date": "2004-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/20240924/dd2cca28-ef5c-438e-bf2e-54cb3a9630be.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20241015/484d5995-3b0b-4c06-b8f9-bcb85851d755.jpg",
+  "zodiac": "摩羯座",
+  "height": "157cm",
+  "measurements": "胸 88 腰 56 臀 90",
+  "measurements_display": "88G/56/90",
+  "cup": "G",
+  "description": "水树莉纱，又名：水樹りさ，来自神奈川，是女演员，所属事务所T-POWERS，兴趣爱好是料理。",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "美臀",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "娃娃臉",
+    "蘿莉",
+    "賽車女郎"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/71e49fb6-ed43-4852-847e-25ece2bb2c37.html",
+  "aliases": [
+    "Mizuki Risa"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240924/dd2cca28-ef5c-438e-bf2e-54cb3a9630be.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 11734,
+      "IDcode": "SDAM-127",
+      "title": "塗装屋ライダー 水城麗沙 20歳 AVデビュー！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251030-1/0f498b312205d051f7ea93d56ae26249.jpg",
+      "actress": [
+        "水城麗沙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-127"
+    },
+    {
+      "id": 11247,
+      "IDcode": "SDAM-128",
+      "title": "20歳の処女肛門にデカチン貫通したら腸汁ダクダク止まりません！塗装屋ライダー水城麗沙 アナル解禁",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "SOD",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789448a5d57b64bfd7c81cf/cover.jpg",
+      "actress": [
+        "水城麗沙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SDAM-128"
+    }
+  ]
+};

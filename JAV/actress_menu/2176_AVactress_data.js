@@ -1,0 +1,131 @@
+// 2176_AVactress_data.js
+window.actressData = {
+  "id": 2176,
+  "name": "美月咲良",
+  "age": 29,
+  "birthday_date": "1996-08-24",
+  "img_url": "https://picture.yoshiclub.xyz/20230527/b6a5e288-f1ca-4260-bd8e-575e56d5458e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230527/20230527023528816816.jpg",
+  "zodiac": "處女座",
+  "height": "163cm",
+  "measurements": "胸 87 腰 58 臀 88",
+  "measurements_display": "87E/58/88",
+  "cup": "E",
+  "description": null,
+  "features": [
+    "美人",
+    "美乳",
+    "女人味",
+    "人妻",
+    "排骨精"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/23443963-b8ec-4df3-bb2b-e8e112e3241a.html",
+  "aliases": [
+    "Akane Shirosaki",
+    "Mai Kaede",
+    "Nami Amuro",
+    "Sakura Mizuki",
+    "Yuria Yumikawa",
+    "みづきさくら",
+    "加山友梨",
+    "城崎茜",
+    "安室なみ",
+    "弓川由理亜",
+    "瑞野れな",
+    "白咲あかね",
+    "白崎茜"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/5-Premium/美月咲良.jpg",
+    "https://picture.yoshiclub.xyz/20230527/0b54ec2f-2502-4a7a-a8e1-8b95c3fdc005.jpg",
+    "https://picture.yoshiclub.xyz/20230527/8acd40ff-5006-4f8d-ba57-227dce5a0d1e.jpg",
+    "https://picture.yoshiclub.xyz/20230527/e73b6c94-03c0-4a4f-ad30-4c43d721228b.jpg",
+    "https://picture.yoshiclub.xyz/20230527/e1b64bb3-b979-4ba7-bf34-6019debcbb85.jpg",
+    "https://picture.yoshiclub.xyz/20230527/5473865b-0f1b-4579-9f9d-c9c123bdd428.jpg",
+    "https://picture.yoshiclub.xyz/20230527/8e2720d4-0081-4612-b9f3-7a1747a6f697.jpg",
+    "https://picture.yoshiclub.xyz/20230527/95001a69-6d0b-45bf-b9d3-b9f4d490c241.jpg",
+    "https://picture.yoshiclub.xyz/20230527/9823a8a9-8403-4b46-8e13-ac6539da5f29.jpg",
+    "https://picture.yoshiclub.xyz/20230527/2d5afe8c-53bf-4095-a434-0ea9facb584b.jpg",
+    "https://picture.yoshiclub.xyz/20230527/656f7541-23c1-40d1-80a7-f7f82a97855f.jpg",
+    "https://picture.yoshiclub.xyz/20230527/60a7e195-7f7e-460c-bcf5-4468b2aec28c.jpg",
+    "https://picture.yoshiclub.xyz/20230527/a57ce91a-0543-44d1-bcea-3004dfaee959.jpg",
+    "https://picture.yoshiclub.xyz/20230527/f0b4baa7-4389-4137-9ef6-4e52571c77c3.jpg",
+    "https://picture.yoshiclub.xyz/20230527/5692d747-9a6b-498b-958d-409dae151b71.jpg",
+    "https://picture.yoshiclub.xyz/20230527/20093780-974e-45dd-a451-5dac4bd0ec0d.jpg",
+    "https://picture.yoshiclub.xyz/20230527/aea4956b-ee0a-4e70-9a8b-e17f03676078.jpg",
+    "https://picture.yoshiclub.xyz/20230527/e3db1928-798a-4f28-b84f-0caf1bf8db0a.jpg",
+    "https://picture.yoshiclub.xyz/20230527/1a2b82f4-51d0-437a-9596-2d41c52e67c3.jpg",
+    "https://picture.yoshiclub.xyz/20230527/03327b39-2e1a-4a9c-8a8c-599c06607291.jpg"
+  ],
+  "works_count": 4,
+  "related_dramas": [
+    {
+      "id": 78213,
+      "IDcode": "PRED-205",
+      "title": "极品身材怪物新人女优把男优们搞得筋疲力尽子宫都装满了还不肯结束拍摄",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "PREMIUM",
+      "publish_date": "2024-11-22",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4e15922bb2911a46c8e627fbbf4087ee.jpg",
+      "actress": [
+        "美月咲良",
+        "鲛岛",
+        "イセドン内村",
+        "玉木玲",
+        "枫真衣"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PRED-205"
+    },
+    {
+      "id": 1470,
+      "IDcode": "HEYZO-2886",
+      "title": "即使說著不要也是很喜歡！？被上司肉棒搞到高潮的美形OL",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2022-09-17",
+      "cover_url": "https://picture.yoshiclub.xyz/20230527/20230527023528816816.jpg",
+      "actress": [
+        "美月咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-2886"
+    },
+    {
+      "id": 439353,
+      "IDcode": "HEYZO-3328",
+      "title": "胸部酒吧里的骚动案例 ～Beauty Collection Vol.21～",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202506/09/6846707c43d697271669e82b/cover.jpg",
+      "actress": [
+        "美月咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3328"
+    },
+    {
+      "id": 159191,
+      "IDcode": "CARIB-071523-001",
+      "title": "リピート率100％のオッパブ嬢 ～ルール破りの本番プレイ～安室なみ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "无码",
+      "company": "加勒比系",
+      "publish_date": "",
+      "cover_url": "https://sex8sex8sex8.com/20250220/KojjMStK/1.jpg",
+      "actress": [
+        "美月咲良"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CARIB-071523-001"
+    }
+  ]
+};

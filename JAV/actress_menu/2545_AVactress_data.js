@@ -1,0 +1,60 @@
+// 2545_AVactress_data.js
+window.actressData = {
+  "id": 2545,
+  "name": "白森胡桃",
+  "age": 26,
+  "birthday_date": "1999-12-30",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250606/9323cf20-c375-4db8-b169-06433b073f5a_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250605/20250605035706660660_s.webp",
+  "zodiac": "摩羯座",
+  "height": "158cm",
+  "measurements": "胸 82 腰 55 臀 82",
+  "measurements_display": "82C/55/82",
+  "cup": "C",
+  "description": "是氣象主播！原來會搞主播的不是只有片商Premiunm，Ideapocket(アイポケ、IP社)也可以，這位新人「白森くるみ(白森胡桃)」臉蛋姣好笑容甜美，也難怪被稱為美女姊姊～但這樣還不夠喔，因為長年練習古典芭蕾，所以這位新人不但有很棒的曲線而且還有著很柔軟的身體，可以掰過來翻過去用各種詭異的姿勢玩弄，但是ー但是她不是「本城ひめ花(本城姬花)」嗎？如果你是常混社群追蹤女優的朋友，想必對本城ひめ花(本城姬花)這個名字不陌生，因為她的X(https://x.com/himeka_honjyou)還在而且5月4日還有發文，她是寫真女優兼直播主，根據日本論壇的資料，她的直播尺度極大，下半身會光溜溜地給你看尿尿的地方(就是出鮑啦，不過，再加上她經紀公司是GG，也就是十束るう(十束流羽)的那一間，所以早就被很多人認為是即將出道的準AV女優…不過這樣就很奇怪了，她幹嘛換藝名出道？雖說凡走過必留過痕跡，要解出現在叫「白森くるみ(白森久留美)」的身分不難，但我實在不知道為什麼妥妥地準備AV出道的她為什麼要換個名字和過去切割，這點可能要知道在背後操盤的經紀公司才好調查(對，到目前為止我還不知道白森的事務所)：有知道什麼好玩的事再和大家報告。回頭來看白森くるみ(白森胡桃)的演出，雖然提到這種18禁的寫真女星轉職可能很多人會想到的是「原形畢露」、「沒那麼漂亮而且身材不好」或者是「失去遊走尺度邊緣的挑逗變成赤裸裸的碰撞後反而吸引力下滑」，不過白森くるみ(白森胡桃)沒有這些問題：第一，頭髮留長的她還蠻漂亮的；第二，她身材不錯，158公分C罩杯的身材不會太「平」、超軟Q的身體也讓人很期待她用各種超越極限的姿勢和男優做愛；最後，她是個抖M，所以必須銬起來然後3P串刺，她會爽得吱吱叫～看起來好像很優對嗎？不過白森くるみ(白森胡桃)畢竟不是ideapocket（アイポケ，IP社)用First Impression出道的新人，就算條件很好也有可能待不久，所以，喜歡就趕快看片吧。",
+  "features": [
+    "美人",
+    "美腳",
+    "膚白",
+    "女人味",
+    "性感",
+    "天然",
+    "美少女",
+    "美臀",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "優雅",
+    "舞蹈演員"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/8d9b9ddd-04a2-4662-9890-fea7b98bca28.html",
+  "aliases": [
+    "Kurumi Shiramori",
+    "本城ひめ花",
+    "白森くるみ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250606/f11fe9e6-e9f9-4278-8a1a-ece7c48264af_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250606/9eeab64c-881f-4d8a-95a7-197a46195c01_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250606/9323cf20-c375-4db8-b169-06433b073f5a_l.webp"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 5501,
+      "IDcode": "IPZZ-592",
+      "title": "新人 お天気キャスターのような美人お姉さん S心をくすぐる身体の柔らかさを持つマゾバレリーナ 白森くるみAVデビュー",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "",
+      "actress": [
+        "白森胡桃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-592"
+    }
+  ]
+};

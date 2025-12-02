@@ -1,0 +1,105 @@
+// 2206_AVactress_data.js
+window.actressData = {
+  "id": 2206,
+  "name": "浜辺アンナ",
+  "age": 24,
+  "birthday_date": "2001-09-01",
+  "img_url": "https://picture.yoshiclub.xyz/20250118/3c684087-d235-4f0a-9374-ea76583f229d.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250118/20250118064248144144.jpg",
+  "zodiac": "處女座",
+  "height": "148cm",
+  "measurements": "胸 82 腰 58 臀 80",
+  "measurements_display": "82C/58/80",
+  "cup": "C",
+  "description": "",
+  "features": [
+    "美人",
+    "美腳",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "嫵媚",
+    "美少女",
+    "嬌小身材",
+    "矮小",
+    "特別騷",
+    "野性",
+    "辣妹系",
+    "風塵氣",
+    "混血",
+    "膚黑",
+    "小麥色皮膚",
+    "風俗妹"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2a72890d-e767-4aaa-90ff-967b332674a6.html",
+  "aliases": [
+    "Anna Hamabe",
+    "Anna Saotome",
+    "chan Nana",
+    "Nozomi Hamada",
+    "Saotome Anna",
+    "Yumena Kamiya",
+    "Yuna Hirasawa",
+    "はまべあんな",
+    "平沢優奈",
+    "早乙女杏奈",
+    "浜田希",
+    "神谷夢奈"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250118/3c684087-d235-4f0a-9374-ea76583f229d.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 9022,
+      "IDcode": "KIBD-326",
+      "title": "【口交特化】用嘴幫你全部吸出來 最佳口交合集 BEST ~ 深田泳美 加藤桃香 藤森裏穗 渚光希等12人",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "MUGEN",
+      "publish_date": "2025-01-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20250118/20250118064248144144.jpg",
+      "actress": [
+        "松本一香",
+        "北野未奈",
+        "新井里真",
+        "田中寧寧",
+        "藤森里穂",
+        "渚光希",
+        "加藤桃香",
+        "篠田優",
+        "推川悠里",
+        "根尾朱里",
+        "深田詠美",
+        "永井瑪麗亞",
+        "君島美緒",
+        "奏音花音",
+        "桜華みゆ",
+        "堀北わん",
+        "河南実里",
+        "長谷川夏樹",
+        "浜辺アンナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KIBD-326"
+    },
+    {
+      "id": 437886,
+      "IDcode": "HEYZO-3470",
+      "title": "拍攝一個開朗的找乾爹女OO時,我射在她體內 - 濱田希",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf0d827de28f4ede50dc53/cover.jpg",
+      "actress": [
+        "浜辺アンナ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-3470"
+    }
+  ]
+};

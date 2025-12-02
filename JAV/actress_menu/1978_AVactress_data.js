@@ -1,0 +1,73 @@
+// 1978_AVactress_data.js
+window.actressData = {
+  "id": 1978,
+  "name": "葉月みい",
+  "age": 21,
+  "birthday_date": "2004-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/20240329/2de67444-156f-4d3a-a46b-cddd948cf10f.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240328/20240328070619207207.jpg",
+  "zodiac": "摩羯座",
+  "height": "157cm",
+  "measurements": "胸 88 腰 58 臀 84",
+  "measurements_display": "88F/58/84",
+  "cup": "F",
+  "description": "還記得Presitge有個「新人 上京AVデビュー」的系列嗎？這是讓片商Moodyz復活大感謝祭的導演「タイガー小堺(老虎小堺)」的最新力作，意思是地方的妹子非常飢渴要替她們找個可以出道的系列ー所以每位在這支作品登場的女優都不是東京人，然後為她們做個簡單的人設並且有相關的演出，最後，奪走她們的淫幕初體驗〜然後看這位來自長野的「葉月みい(葉月美衣)」：看到長野，你可能以為這位新人是個滑雪好手，但其實不是，根據片商提供的資料，這位在寵物店打工、身材纖細既有奶子又有腹肌的女優是因為「想和那些AV女優一樣有名」而下海拍A片的，為了一炮而紅所以她非常賣力拍片，口交時那飢渴的模樣讓大家都忍不住豎起了大拇指和小弟弟⋯只是激情過後，大家發現事情好像不是葉月みい(葉月美衣)說的那樣？原來是用餐時她的食量嚇壞所有工作同仁，光是迴轉壽司她就吃了50盤然後還叫餓(她說可以吃100盤)，這時候大家突然覺得葉月みい(葉月美衣)來拍A片可能不只是想成名而是食量太大要籌措餐費所以才選擇了這個有爽有錢賺的工作：所以葉月みい(葉月美衣)真正的人設是一個在寵物店打工、想和AV女優一樣變有名的「大胃王」，依照這個人設於是導演賦予她以下的形象：首先帶她大吃一頓，告訴大家這位新人真的有暴食的本事；接著就是叫她脫了，用極為纖細又有乳的身材告訴大家吃下去的熱量都集中到她胸前了；最後也是最重要的，在AV界食慾和性慾往往是一體的兩面，吃很多的通常也很愛幹，所以ー看看她的臉蛋、看看她的身材再看看她在床上的狠勁，這位葉月みい(葉月美衣)是你的菜嗎？",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "美少女",
+    "美臀",
+    "長相清純",
+    "長相可愛",
+    "萌妹子"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/e0281cb4-57d5-4181-bba3-47cf60142966.html",
+  "aliases": [
+    "Mii Hazuki",
+    "叶月美衣",
+    "葉月美衣"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20240329/2de67444-156f-4d3a-a46b-cddd948cf10f.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 12418,
+      "IDcode": "GUPP-016",
+      "title": "初體驗：3P、吞精、凌辱、拘束、好奇心旺盛的新人AV女優的願望即將實現！ ~ 葉月みい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "妄想族",
+      "publish_date": "2024-08-13",
+      "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815053157742742.jpg",
+      "actress": [
+        "葉月みい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GUPP-016"
+    },
+    {
+      "id": 15831,
+      "IDcode": "FIT-002",
+      "title": "新人轉戰東京AV出道。來自長野的葉月みい，吃得很多！ ？超美奶子 ~ 葉月みい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "2024-04-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20240328/20240328070619207207.jpg",
+      "actress": [
+        "葉月みい"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIT-002"
+    }
+  ]
+};

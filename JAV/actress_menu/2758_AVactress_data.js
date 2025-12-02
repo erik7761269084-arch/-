@@ -1,0 +1,87 @@
+// 2758_AVactress_data.js
+window.actressData = {
+  "id": 2758,
+  "name": "齋藤南",
+  "age": 27,
+  "birthday_date": "1998-01-24",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250609/0dc670a7-e208-4ebb-ac8f-09e0db30efb2_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250609/20250609002718947947_s.webp",
+  "zodiac": "水瓶座",
+  "height": "159cm",
+  "measurements": "胸 90 腰 58 臀 88",
+  "measurements_display": "90F/58/88",
+  "cup": "F",
+  "description": "妹妹你好可愛啊，叔叔帶你去看金魚好不好？是的，又有新鮮的肉體下海了，片商Prestige的知名系列、限定18歲才能演的「18歳と」在小弟我生日當天要推出超嫩的新人「斎藤みなみ(齋藤南)」，讓這位有著8頭身完美比例的女優在淫光幕前知道高潮的滋味⋯手長腳長可以去當模特兒的她高中剛畢業，未來想去做護士，之所以會當AV女優是因為想體驗「一般人不會去做的事」ー當然，她本身對性愛這檔事也很有興趣，在出道之前已經和5個人上過床了：幹，人家18歲就和5個人上床了，我18歲只能躲在房間看A片打手槍，唉！不過話說回來，如果我18歲能和這樣的女孩交往，我應該也無法保持台北柳下惠的形象而是逮到機會就想和她做愛ー因為她不只有著8頭身的好比例還有著相當可愛的臉蛋，胸部雖然不大但奶頭和下面的小妹妹都是可愛的粉紅色，這樣的女孩我一定會花很多時間吸吮她的奶頭舔食她的鮑魚，然後我不關燈的，要好好欣賞自己進出她下半身的模樣⋯糟了，我的妄想症又發作了。回頭來看這位斎藤みなみ(齋藤南)，就和某些人說的一樣，名字裡有みなみ(南)的都不是弱者，這位女優除了胸部平了些外絕對是有做專屬女優的條件，唯一要擔心的就是蚊香社對非專屬女優修圖起來是翻臉不認人的ー胡亂翻修讓你認不出是那個人，雖然有那個身體我就能吃下去，但真的不希望斎藤みなみ(齋藤南)是修圖怪物啊：還好，她在AV先修班MGStage的作品「【初撮り】【ピチピチの色白美肌】【必死に感じて..】高校を卒業したばかりの18歳美少女は好奇心いっぱい。可愛い顔に必死さが浮かび始めると.. ネットでAV応募→AV体験撮影 1304 」已經出了，我們先睹為快ー拍這支作品最怕的是什麼？除了封面殺手外還有女優太熟ー沒辦法，看過姫川ゆうな(姬川優奈)後你就很難接受那種對外宣稱18歲結果妝一化上去看起來像25歲的女人，不過還好，斎藤みなみ(齋藤南)問題不大，雖然沒辦法像姫川ゆうな(姬川優奈)那樣一副就是未成年的模樣但也是個青春的肉體，和男優應對時不斷舌吻交換口水以及一面上下搓弄棒身一面揉蛋的前戲功夫也相當不錯，被抽插時一副快受不了的表情更是好讚⋯所以，好好幹，努力幹，用力幹，我很看好你喔！",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "大眼睛",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "修長癡體",
+    "極上美人",
+    "寫真女郎"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/cc62ae79-c237-40f5-ac3d-dcb311547781.html",
+  "aliases": [
+    "Minami Saitoh",
+    "Rurika Kitayama",
+    "北山ルリカ",
+    "斋藤南",
+    "斎藤みなみ",
+    "新人ひめのちゃん"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250609/e253141e-8aa8-468e-b0b0-189f3d4156f9_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/065dcc47-9cde-4ead-b5bc-457d4874b9d0_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/c9f16595-3c4c-4b05-8f70-c8fe09a8241d_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/74e056f3-ae49-4c02-a79d-b54740ffde88_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/a70f0b6d-e34e-4352-b87c-ca85eff39ecb_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/754c6474-fdc2-4785-ae3d-4c5436b11c8c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/85c7a85e-c916-4a92-85ca-8077e6565c8a_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/53db1c81-9cf0-4b42-b435-5f8d39baa505_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/e55165a7-11b0-479a-9531-2a4b7dc85493_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/487e591e-2ff9-4001-8893-3281a7b1c9e0_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/cd724d12-706a-4401-83e0-0d1c96de98f7_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/d60a9bd3-ec58-409d-a4b7-af1367c87541_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/bea83ce4-28f7-45ed-b337-50db81995383_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/ae0bc735-6d73-40e7-959e-2418a40a760a_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/3764673a-12f6-448e-b5cf-5c97e911095f_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/68bef15b-bf3b-46ba-b4e0-227f62b3ecf2_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/9264adb3-d476-429c-99bf-fb6a71506129_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/6c56892b-ab67-4102-92f1-e4fed01d3c54_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/dc343ab0-1e63-4998-8ab5-148be22f692e_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250609/6c9ba823-5fe6-407f-a3e4-382ebe842521_l.webp"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 5438,
+      "IDcode": "KTRA-722",
+      "title": "無毛嫩穴被中出爆汁！4小時特別大合輯 ~ 橘ひなの 齋藤南 佐倉陽菜 早美憐夢",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "K-Tribe",
+      "publish_date": "2025-06-07",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609002718947947_thumbnail.webp",
+      "actress": [
+        "佐倉陽菜",
+        "橘ひなの",
+        "早美怜夢",
+        "齋藤南"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KTRA-722"
+    }
+  ]
+};

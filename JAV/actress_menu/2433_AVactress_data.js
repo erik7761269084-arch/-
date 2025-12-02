@@ -1,0 +1,77 @@
+// 2433_AVactress_data.js
+window.actressData = {
+  "id": 2433,
+  "name": "若松玲那",
+  "age": 30,
+  "birthday_date": "1995-03-03",
+  "img_url": "https://picture.yoshiclub.xyz/20240728/76cd3007-e379-4b95-ba64-612c12a13d03.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20240728/5da7531f-16fa-4fd1-be1a-5507367f19ad.jpg",
+  "zodiac": "雙魚座",
+  "height": "153cm",
+  "measurements": "胸 85 腰 58 臀 85",
+  "measurements_display": "85C/58/85",
+  "cup": "C",
+  "description": "若松玲那，又名：市桥由衣，来自山形县，是日本女演员。",
+  "features": [
+    "美人",
+    "女人味",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "嬌小身材",
+    "鄰家女",
+    "小乳房",
+    "矮小"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/71ea674c-9929-4640-a8d8-e1c5f298919e.html",
+  "aliases": [
+    "Azumi Hayasaka",
+    "Reina Okamatsu",
+    "Reina Wamatsu",
+    "Yui Ichihashi",
+    "岡松玲那",
+    "市橋由衣",
+    "早坂あずみ"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/GFriends/Content/9-AVDBS/AI-Fix-市橋由衣.jpg",
+    "https://picture.yoshiclub.xyz/GFriends/Content/z-DMM(步)/若松玲那.jpg",
+    "https://picture.yoshiclub.xyz/20240728/b136113e-0e84-4afc-8a2b-0a4b3dd267a2.jpg",
+    "https://picture.yoshiclub.xyz/20240728/112daa4f-e535-4684-bb0c-06104585b883.jpg",
+    "https://picture.yoshiclub.xyz/20240728/c26081c1-5668-41f4-87fe-cdf31712da11.jpg",
+    "https://picture.yoshiclub.xyz/20240728/4e8f9790-4917-494f-aad7-ae8bbcca79a8.jpg",
+    "https://picture.yoshiclub.xyz/20240728/f8bb2ead-fc6f-4757-abd4-f9610dc51f4b.jpg",
+    "https://picture.yoshiclub.xyz/20240728/31b2c140-d364-4615-ab4e-3c8a57b383c2.jpg",
+    "https://picture.yoshiclub.xyz/20240728/b996cfd1-bca4-4c28-bbe8-fefc6907e2af.jpg",
+    "https://picture.yoshiclub.xyz/20240728/419e356a-67cb-4961-a650-3bd2969f0569.jpg",
+    "https://picture.yoshiclub.xyz/20240728/829e805a-bdc4-4761-8fe5-8f2c6be8f668.jpg",
+    "https://picture.yoshiclub.xyz/20240728/fae658aa-0c5f-4b54-b2b9-362d96d9f599.jpg",
+    "https://picture.yoshiclub.xyz/20240728/d3d9dc24-8837-428c-b571-aa6cd0ef87f4.jpg",
+    "https://picture.yoshiclub.xyz/20240728/c3431850-a384-4399-b76a-533eed6a9d98.jpg",
+    "https://picture.yoshiclub.xyz/20240728/a044e280-ec26-4643-9194-09351942c24a.jpg",
+    "https://picture.yoshiclub.xyz/20240728/b39ec092-f67d-4a29-85a4-a3feaa6b35a1.jpg",
+    "https://picture.yoshiclub.xyz/20240728/97ed65b9-c4a8-465d-a9df-a75d7b744e9b.jpg",
+    "https://picture.yoshiclub.xyz/20240728/3aa38179-6d87-4714-9bb2-1942ad1c6dc3.jpg",
+    "https://picture.yoshiclub.xyz/20240728/93aa6901-4839-4cdd-b6d9-a4558308affa.jpg",
+    "https://picture.yoshiclub.xyz/20240728/3e7e99b3-121a-4ded-8d14-129680d0d296.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 748,
+      "IDcode": "HEYZO-0920",
+      "title": "操青春無敵的貧乳美少女 - 我太興奮了 - 若鬆玲娜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "HEYZO",
+      "publish_date": "2015-08-05",
+      "cover_url": "https://picture.yoshiclub.xyz/20240728/5da7531f-16fa-4fd1-be1a-5507367f19ad.jpg",
+      "actress": [
+        "若松玲那"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HEYZO-0920"
+    }
+  ]
+};

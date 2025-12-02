@@ -1,0 +1,79 @@
+// 2849_AVactress_data.js
+window.actressData = {
+  "id": 2849,
+  "name": "艾悠",
+  "age": 23,
+  "birthday_date": "2002-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250926/11909024-aa34-4af4-b4a9-96dc29ff299d_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250926/202509262227437272_12012_s.webp",
+  "zodiac": "摩羯座",
+  "height": "158cm",
+  "measurements": "胸 86 腰 59 臀 92",
+  "measurements_display": "86E/59/92",
+  "cup": "E",
+  "description": "又是片商WAAP，又是台灣女優！她叫「Aiyo Zao」，身高158公分F罩杯，高雄人，出道前是在服飾店打工ー看到這邊可能有人要問了，這真的是台灣人嗎？如何證明？是真的。因為我見過本人，她就是之前在SWAG本部舉辦的台灣女優出道賽脫穎而出的優勝者，是由在下小弟本人我、陳沂、兩位日本導演さもあり(Samoari)以及あおいれな(葵玲奈)選出來的ー而且請注意喔，我們事先並沒有套招，是真的從外型到演出一步一步考核最後採取多數決選出的強者(對，我們四個人中有一位把票投給另一個參賽者)⋯然後現場導演さもあり(Samoari)就拿起攝影機拍了一段畫面，我個人是忍不住「哇」了好幾聲，只見他把相機轉來轉去、時而蹲下來時時而站在椅子上取景，現場放出來的畫面馬上就有了日本AV的質感ー當下我就覺得Aiyo Zao去日本出道應該有前途，さもあり(Samoari)一定會把她拍得漂漂亮亮ー看完影片，是不是感覺出日本AV產業的先進了？由於沒有提到「専属」兩字，所以除非導演さもあり(Samoari)有後續計畫，不然被片商WAAP形容是「世界的美少女」、「肉食台湾女子」以及「性獣爆誕」的Aiyo Zao應該這片發完就要暫停在日本AV界的旅程；另外，和之前Tiny(胎尼)的作品一樣，這支作品是在台灣取景然後空運日本男優過來拍片，這種「台灣女優＋日本團隊＋台灣拍片」的模式大家應該都很清楚了，未來台灣女優要在日本出道應該都得這麼玩，不太可能跑去日本拍片；最後，以Tiny(胎尼)的例子來看，台灣女子因為新鮮感的緣故，她們的出道作在日本業界的爆發力不容小覷，片商WAAP有機會再撈一筆〜再加上之前在SOD STAR以專屬女優身分出道的齋齋いつき(齋齋樹)，日本AV界，台灣女優的時代到來了！",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "美臀",
+    "鄰家女",
+    "特別騷",
+    "極上美人",
+    "無毛",
+    "大乳頭"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/e944415e-692f-4517-8539-1598057ee79a.html",
+  "aliases": [
+    "Aiyo Zao"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250926/925e485d-6328-45ac-a7f9-26fe03d5f915_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/d887631f-db5c-41b0-815b-120d3ea27126_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/11909024-aa34-4af4-b4a9-96dc29ff299d_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/116cd18a-eaaa-4d24-a428-9bddca450866_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/069d8969-3f9d-499d-aff6-91122806c29f_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/157b634f-d942-4df6-b1d9-c6eb8b90d414_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/2d27e939-f885-450d-8cb4-470140d084cc_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/02d0b070-ee7b-4dd3-ae1a-d9df30151847_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/6dd32ec0-a3f4-4676-a21a-685224a1e82c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/63b38385-f815-4313-9980-a93ee9d3e8f0_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/550bdc23-6535-4c6b-89c6-5456b2dd19d3_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/918c95cc-9f0f-4f92-82fd-8c48b1913b8c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/dcf3d5e5-328b-4b6e-a674-fc7f512932a9_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/e183a84c-ecdd-4062-baaa-261f74489904_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/6942cb12-dcc5-405b-bbc3-5a7cdc27e45d_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/a9d841ee-a862-4512-980f-b71a0dd37590_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/a0e03f7b-ef4d-4800-bf4b-45e930c1d18f_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/f4f99321-18e9-4005-80a5-77c016c3292e_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/30781100-5ede-4c7a-bee3-7e88cd549ca6_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250926/6b3df032-f9c1-4ab8-9a03-bb682dcf4cf7_l.webp"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 2424,
+      "IDcode": "WSA-002",
+      "title": "新人 世界的美少女 AV Debut Aiyo Zao",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dbdc27ce5a404e9bc18f70/cover.jpg",
+      "actress": [
+        "艾悠"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WSA-002"
+    }
+  ]
+};

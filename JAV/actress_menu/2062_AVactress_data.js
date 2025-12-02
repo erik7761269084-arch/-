@@ -1,0 +1,84 @@
+// 2062_AVactress_data.js
+window.actressData = {
+  "id": 2062,
+  "name": "朝日奈花戀",
+  "age": 24,
+  "birthday_date": "2001-01-03",
+  "img_url": "https://picture.yoshiclub.xyz/20250208/64ed3a2d-01a3-4f95-a64e-0a41529a3f52.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250208/202502080842006565.jpg",
+  "zodiac": "摩羯座",
+  "height": "163cm",
+  "measurements": "胸 87 腰 59 臀 88",
+  "measurements_display": "87F/59/88",
+  "cup": "F",
+  "description": "雖然拿到專屬合約的是琴音華，但片商Moodyz在3月第一檔的最優秀新人可能有些人認為是她，朝日奈かれん(朝日奈花戀)：泳裝比賽第一名、大學小姐候選人、笑容甜美會蛀牙加上那一雙又長又直的修長美腿…坦白說，拿到發片清單時我還真以為Moodyz搞錯了，不是說琴音華不好，而是朝日奈かれん(朝日奈花戀)完成度更高：是我的寫輪眼發作看錯人還是片商錯過了可能爆發的大物？就讓我們一塊兒來看看這位主播不當卻跑來做AV女優的朝日奈かれん(朝日奈花戀)條件如何吧：劇照只有兩個字，可愛，或是四個字，非常可愛：雖然不知道朝日奈かれん(朝日奈花戀)是在哪一場泳裝比賽拿到冠軍，也不用去深究她是哪一所大學小姐的候選人，但這次的人設做得挺適合這位新人的—各種可愛的表情、飽滿圓潤的F罩杯美乳(當然還是快樂罩杯啦) 加上曲線美好又修長可以幫人打腳槍的美脚，說她是頂級新秀絕不為過；至於說什麼超喜歡性愛倒不用在太在意，對我而言，一個優秀的新人只要外型夠正、在床上反應不要太假就行，朝日奈かれん(朝日奈花戀)第一關過了，接下來再來看看她的演出吧：其實蠻不錯的，我是看不出她有多喜歡做愛啦(一分多鐘的影片實在看不出太多東西)，但這個商品展示非常可以，或許臉蛋不及橋本和乙白，但一來朝日奈かれん(朝日奈花戀)有奶、二來她有腿、三來當男優用手指或棒子抽插時她也是叫雞毛鴨血，夠了，這樣夠了〜不知道您覺得怎樣？我是覺得朝日奈かれん(朝日奈花戀)有專屬的能力，只可惜是以企劃女優的身分出發；是片商看走眼了嗎？我個人覺得也許是經紀公司需要一台發片機器ー奏音かのん(奏音花音)走了，過去瘋狂發片的水野朝陽與麻里梨夏復活後都成了片商的專屬女優，大家都知道企劃女優才是事務所拼經濟的關鍵，或許就是如此，她才沒成為片商的專屬女優吧⋯",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "性感",
+    "大眼睛",
+    "天然",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "萌妹子",
+    "別致顔值",
+    "修長癡體",
+    "娃娃臉",
+    "極上身材",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/010910f3-4b2b-4adf-81a8-d13e911f3a18.html",
+  "aliases": [
+    "Karen Asahina",
+    "朝日奈かれん",
+    "朝日奈花恋"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250208/277af5f3-6e89-4736-8218-72c3ca548e3e.jpg",
+    "https://picture.yoshiclub.xyz/20250208/398847cb-fa59-4273-9d76-949694f4b2a0.jpg",
+    "https://picture.yoshiclub.xyz/20250208/0099b442-460e-4292-984c-c91021f8d201.jpg",
+    "https://picture.yoshiclub.xyz/20250208/92d6c8bd-aeae-405e-aa1f-3353cb43dd1c.jpg",
+    "https://picture.yoshiclub.xyz/20250208/a49b7d07-dd06-4425-966e-502de29e7112.jpg",
+    "https://picture.yoshiclub.xyz/20250208/e61ee17b-57ba-4f7d-aab1-298dc30e7257.jpg",
+    "https://picture.yoshiclub.xyz/20250208/e7c588ae-d7d3-45c9-9263-89fcd89af0dc.jpg",
+    "https://picture.yoshiclub.xyz/20250208/9ccccf40-cb7b-496b-974a-2d55fd86d9b8.jpg",
+    "https://picture.yoshiclub.xyz/20250208/e081704d-655f-4da2-bcce-48f2bc10dd7e.jpg",
+    "https://picture.yoshiclub.xyz/20250208/145550d3-f3bf-409f-85e8-8afd78e92bbd.jpg",
+    "https://picture.yoshiclub.xyz/20250208/5f88dda3-17ba-44d9-a660-85306c7fa1c7.jpg",
+    "https://picture.yoshiclub.xyz/20250208/fedfcc52-912e-4749-9558-38c2c000d3aa.jpg",
+    "https://picture.yoshiclub.xyz/20250208/65444898-26a4-43f7-9f79-4a8f73b03f95.jpg",
+    "https://picture.yoshiclub.xyz/20250208/81139dde-1eb8-4274-a5ea-4ddb69cbfab6.jpg",
+    "https://picture.yoshiclub.xyz/20250208/111b245e-43cc-4b65-a522-079cb9cdeefd.jpg",
+    "https://picture.yoshiclub.xyz/20250208/99cf47ad-e364-401f-8309-62e6560a6b06.jpg",
+    "https://picture.yoshiclub.xyz/20250208/eef661ca-00fb-4061-983a-6f554a8c09ff.jpg",
+    "https://picture.yoshiclub.xyz/20250208/49ce3840-e08f-401e-9007-3d90929ec59a.jpg",
+    "https://picture.yoshiclub.xyz/20250208/6b01e7bd-0719-48fc-b582-398f329f7705.jpg",
+    "https://picture.yoshiclub.xyz/20250208/ac598cea-97da-4007-bc2e-386e38614c43.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 8409,
+      "IDcode": "RVG-232",
+      "title": "禁斷介護 大合集 BEST VOL.20 ~ 弘中優 朝日奈花戀 百瀨凜花 Nia 北野未奈 廣瀨里緒菜",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "GLORY QUEST",
+      "publish_date": "2025-02-11",
+      "cover_url": "https://picture.yoshiclub.xyz/20250208/202502080842006565.jpg",
+      "actress": [
+        "北野未奈",
+        "Nia",
+        "弘中優",
+        "廣瀨里緒菜",
+        "百瀬凛花",
+        "朝日奈花戀"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RVG-232"
+    }
+  ]
+};

@@ -1,0 +1,43 @@
+// 4883_AVactress_data.js
+window.actressData = {
+  "id": 4883,
+  "name": "さくらえな",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://www.hhkoo.com/d/file/20180126/b7c25d5187a468d25255d6e3935e5b6e.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": "156cm",
+  "measurements": "胸 80 腰 57 臀 82",
+  "measurements_display": "80/57/82",
+  "cup": null,
+  "description": "佐仓绘奈，是一位眉清目秀的女优，1995年02月21日出生于东京都，工作于IZBASA事务所，2013年11月07日在S1公司出道。",
+  "features": [
+    "90后,好看,漂亮"
+  ],
+  "detail_url": "https://www.hhkoo.com/nvyou/star_08960.html",
+  "aliases": [
+    "さくらえな",
+    "Sakura Ena"
+  ],
+  "gallery": [],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 78900,
+      "IDcode": "SNIS-093",
+      "title": "体内汁ダラダラ さくらえな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2014-02-07",
+      "cover_url": "",
+      "actress": [
+        "さくらえな"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SNIS-093"
+    }
+  ]
+};

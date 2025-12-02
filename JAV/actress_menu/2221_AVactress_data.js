@@ -1,0 +1,59 @@
+// 2221_AVactress_data.js
+window.actressData = {
+  "id": 2221,
+  "name": "宇野結菜",
+  "age": 31,
+  "birthday_date": "1994-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/20250227/1a3fec54-be53-497f-84c6-2e8238c67324.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20250227/797327c0-5710-4b94-98f8-5c3744253c0c.jpg",
+  "zodiac": "摩羯座",
+  "height": "156cm",
+  "measurements": "胸 90 腰 58 臀 90",
+  "measurements_display": "90G/58/90",
+  "cup": "G",
+  "description": "這封面，你覺得怎樣？她是在蚊香社(Prestige)旗下的人妻片商KANBi推出的新人「宇野ゆいな(宇野結菜)」，作品『「私を旦那の前で、寝取ってください･･･」真面目系ムッツリ変態人妻 顔出しNGだったはずが･･･！？ 宇野ゆいな AVデビュー！！』將會在3月7號發售。為什麼要戴口罩呢？理由很簡單，因為她不想給人看，所以戴上了眼鏡以及口罩變裝，希望不要暴露身份：但這樣看起來，好棒呀！看起來很讚的五官、豐滿圓潤的肉感身材加上膨脹的大奶，相信大家都會覺得好吃好吃；至於她為什麼要拍A片呢？封面寫得很清楚，就是想要在老公的面前讓他戴綠帽，是個非常認真的變態系新人⋯這樣的女優上了床多半很M，激烈的潮吹和敏感的潮紅反應是不可少的，只要片商找來精壯的肌肉棒子就可以KO她們ー然後呢？重點來了，大家都知道叫女孩子帶著口罩打炮有多麼不方便，於是在有碼片商通常會出現一個現象，就是實在太爽了怎麼辦啊帶著口罩好不方便呀，於是就抱著必死的覺悟，身分曝光會有什麼後果以後再說，好好爽比較重要，口罩我不戴了！對，所以從劇照和試看影片都可以發現，宇野ゆいな(宇野結菜)有露出真面目！只是這家片商KANBi「為了保護當事人」所以通通做了處理，沒有買片看不到宇野ゆいな(宇野結菜)的真面目ー當然啦聰明的你一定知道，這就是吊大家胃口做行銷，想知道真面目就買片，所以問題就是，看完文案劇照以及宣傳影片，您對宇野ゆいな(宇野結菜)這位新人有興趣嗎？最後補充一下，她似乎有在x上面先註冊好帳號了(https://x.com/Uno_Yui_)，不過目前處於鎖住的狀態，如果有開放大家追蹤我再補充～",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "女人味",
+    "性感",
+    "大眼睛",
+    "嫵媚",
+    "美臀",
+    "人妻",
+    "極上巨乳",
+    "極上身材"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/2eab7108-c711-4d49-9c85-117e390006f7.html",
+  "aliases": [
+    "Uno Yuna",
+    "宇野ゆいな"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20250227/1a3fec54-be53-497f-84c6-2e8238c67324.jpg",
+    "https://picture.yoshiclub.xyz/20250227/3d045fa5-f8b0-459f-84bc-81aaf6cbd544.jpg",
+    "https://picture.yoshiclub.xyz/20250227/c3154766-2ef0-400e-a8f5-0c055490e3aa.jpg"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 7919,
+      "IDcode": "FFT-023",
+      "title": "新人出道！請在狠狠地寢取我吧… 悶騷系變態人妻，本不該露臉的…！？ 首次亮相 AV DEBUT ~ 宇野ゆいな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "TMA",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8e36e7f3b7c929073a990/cover.jpg",
+      "actress": [
+        "宇野結菜"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFT-023"
+    }
+  ]
+};

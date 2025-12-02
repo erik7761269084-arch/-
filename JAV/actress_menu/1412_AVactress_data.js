@@ -1,0 +1,77 @@
+// 1412_AVactress_data.js
+window.actressData = {
+  "id": 1412,
+  "name": "【AI女優】木花愛",
+  "age": 2,
+  "birthday_date": "2023-12-22",
+  "img_url": "https://picture.yoshiclub.xyz/20231222/e166f88d-7468-45c9-9120-99ba617dc9a6.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20231222/06259411-efec-4ed0-9768-a085e439c6ee.jpg",
+  "zodiac": "摩羯座",
+  "height": "165cm",
+  "measurements": "胸 88 腰 55 臀 83",
+  "measurements_display": "88G/55/83",
+  "cup": "G",
+  "description": "這是近來最特別的新人！為什麼？看這支作品的標題就知道了，「世界初新人AI女優 完全なる美顔 木花あい AVデビュー」，這位木花あい(木花愛)是世界第一位由AI生成的女優！終於，由AI繪圖的美女取代真人AV女優的時代來臨了嗎？而且這位女優可是來勢洶洶，和一線片商的大型新人一樣，木花あい(木花愛)在出道前先去了雜誌拍寫真ー雜誌上有說這些AI美女是怎麼出來，以SOD為例，他們就曾經把星乃莉子的資料送進電腦裡生成AI版的星乃莉子，由於女優本人就長得精緻，出來的成品也相當優秀〜不過話說回來，AI繪圖出來的美女拍出來的會是什麼樣的AV？h.m.p沒給試看影片，所以我還真不知道出來的品質如何，不過h.m.p已經告訴我們了，被設定是165公分、G罩杯那麼胸的木花あい(木花愛)作品只有45分鐘長，然後給的劇照都是AI生成美美的圖案，雖然在封底有「吹喇叭」、「被揉奶」以及「九淺一深抽插進出」的縮圖，但放大了卻看不清楚是什麼樣⋯只能到時候(12/22)看看片商交出什麼樣的成品了。不過話說回來，儘管這位「技術創造的美之女神」和霹靂車一樣是尖端科技的結晶(靠北這梗好老，難怪有人覺得我該被淘汰了)，不過她也有非常擬人化的一面，比方說她是有X(twitter)和IG的，也有經紀公司「エルプロモーション(L-Promotion)」，我是不太懂為什麼AI美女也有事務所、難不成人是他們畫的？最後，雖然木花あい(木花愛)是第一個AI女優，不過AI繪圖早就在日本成人世界登場而且取得不錯的成績，之前FANZA Books的賣場就可以看到一堆AI美女的寫真在排行榜上名列前茅，雖然知道由AI美女拍攝的AV遲早會誕生，但看到木花あい(木花愛)的出現還是讓人感慨科技始終來自人性，就不知道未來會不會現實與虛擬混淆、讓人傻傻分不清楚〜",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "大乳房",
+    "性感",
+    "大眼睛",
+    "美少女",
+    "美臀",
+    "長相可愛",
+    "萌妹子",
+    "別致顔值",
+    "修長癡體",
+    "AI虛擬女優"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/73597461-9f2a-4b8e-917f-45b55d930929.html",
+  "aliases": [
+    "Ai Kihana",
+    "木花あい",
+    "木花あい【AI女優】",
+    "木花愛"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/20231222/6b64ad26-c65c-46f6-aebf-fafa7536436a.jpg",
+    "https://picture.yoshiclub.xyz/20231222/55c3a605-820d-4e3b-9ff8-87e8879d33be.jpg"
+  ],
+  "works_count": 2,
+  "related_dramas": [
+    {
+      "id": 17135,
+      "IDcode": "AIDV-001",
+      "title": "世界上首個AI女優新人出道！ 木花愛 ~ 完美顔值 首次亮相 AV DEBUT~",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "2023-12-22",
+      "cover_url": "https://picture.yoshiclub.xyz/20231222/06259411-efec-4ed0-9768-a085e439c6ee.jpg",
+      "actress": [
+        "【AI女優】木花愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIDV-001"
+    },
+    {
+      "id": 15943,
+      "IDcode": "AIDV-0003",
+      "title": "世界第一 AI 女優木花愛 覺醒性交，讓酸痛的身體連續達到高潮 束縛酷刑 x 潮吹 x 大雞巴活塞",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "H.M.P 芳友舍",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/afe8ddab5a8e76157cf9e2eb4fd902ed.jpg",
+      "actress": [
+        "【AI女優】木花愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIDV-0003"
+    }
+  ]
+};

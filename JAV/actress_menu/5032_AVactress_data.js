@@ -1,0 +1,116 @@
+// 5032_AVactress_data.js
+window.actressData = {
+  "id": 5032,
+  "name": "熊宫由乃",
+  "age": null,
+  "birthday_date": null,
+  "img_url": "https://yunvgong.com/model.jpg",
+  "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+  "zodiac": null,
+  "height": null,
+  "measurements": null,
+  "measurements_display": "",
+  "cup": null,
+  "description": null,
+  "features": [],
+  "detail_url": null,
+  "aliases": [],
+  "gallery": [],
+  "works_count": 4,
+  "related_dramas": [
+    {
+      "id": 98833,
+      "IDcode": "LZBS-051",
+      "title": "レズれ！初レズセックス厳選ベスト5時間2 こんなに柔らかい気持ち",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2019-10-19",
+      "cover_url": "",
+      "actress": [
+        "八乃翼",
+        "蓮実クレア",
+        "高杉麻里",
+        "上原亞衣",
+        "美保结衣",
+        "伴牧英",
+        "熊宫由乃",
+        "纱也いつか"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZBS-051"
+    },
+    {
+      "id": 99072,
+      "IDcode": "LZWM-026",
+      "title": "初めてのずっぷり挿入！Wペニバンレズセックス",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "2018-12-19",
+      "cover_url": "https://fh.lbfh2025.com/upload/vod/20200730/lzwm026pl.jpg",
+      "actress": [
+        "葵百合香",
+        "蓮実クレア",
+        "井上綾子",
+        "優月真裡奈",
+        "高杉麻里",
+        "仓木诗织",
+        "花宫レイ",
+        "美保结衣",
+        "后藤里香",
+        "熊宫由乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LZWM-026"
+    },
+    {
+      "id": 102748,
+      "IDcode": "GETS-086",
+      "title": "地方在住のNTR願望を秘めた人妻を口説き落として即ハメ青姦できるか！？地方妻ナンパ！5時間DX",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202502/27/67c014364e7d663df4b50777/cover.jpg",
+      "actress": [
+        "AIKA",
+        "佐倉陽菜",
+        "早乙女らぶ",
+        "青木玲",
+        "吉川爱美",
+        "京野美丽",
+        "今井まい",
+        "桃瀬ゆり",
+        "熊宫由乃",
+        "八ッ桥さい子",
+        "中山理莉"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GETS-086"
+    },
+    {
+      "id": 81571,
+      "IDcode": "FIV-061",
+      "title": "★★★★★ 五ツ星ch 高身長グラマラス モデル美女SP ch.43 美脚×美身これぞ極上ボディ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d0016310bc555484aad374f4e6e3990a.jpg",
+      "actress": [
+        "宫村ななこ",
+        "七瀬あいり",
+        "柏木恵",
+        "寺川麻衣",
+        "熊宫由乃"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FIV-061"
+    }
+  ]
+};

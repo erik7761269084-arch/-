@@ -1,0 +1,61 @@
+// 2525_AVactress_data.js
+window.actressData = {
+  "id": 2525,
+  "name": "音無鈴",
+  "age": 20,
+  "birthday_date": "2005-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20250718/0ed4a2d8-6217-4c23-b760-a3d604bd315c_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20250918/20250918040804578578_72754_s.webp",
+  "zodiac": "摩羯座",
+  "height": "152cm",
+  "measurements": "胸 84 腰 54 臀 86",
+  "measurements_display": "84F/54/86",
+  "cup": "F",
+  "description": "奇怪，S1怎麼又突然發表新人女優？然後作品馬上就要發售了(串流明天就上)！照理來說這應該是上個月就要情報解禁的新鮮肉體，結果片商捏在手裡忍到今天凌晨才讓她登場，這位新人肯定很厲害吧？她叫「音無鈴」，今年21歲，是個來自上流社會的大小姐：有多上流呢？根據S1提供的時間表，她從小就接受英才教育，精通英文、現代芭蕾、茶道以及鋼琴，16歲時，她留學紐西蘭，然後在18歲的時候回到日本就讀一流的私立大學，是那種AV界伸出觸手也碰不到的女孩；但她一直有個不為人知的秘密，升上初中以後她就會自慰找快感，到了19歲有了第一次經驗後更是一發不可收拾，然後ー然後她離家出走，在打工的時候被男友調教徹底地壞掉，接著對AV女優這個有爽有錢拿的工作產生「性」趣，最後就是在今天以頂級新秀之姿降臨業界最強片商S1ー因為出身上流社會，自然要拿出過去教育的成果，音無鈴換上了華麗的和服展現對茶道的造詣，也在鏡頭前秀了一段流利的英文，緊接著，舉止端莊、舉手投足之間都是氣質的她衣服一脫，歪斜的性癖爆發了〜換上妖豔的內衣、戴上項圈、露出飢渴的表情，被男優用大腿夾住強制口交，用力地掐住奶頭不斷拉扯，發出不知道的痛苦還是愉悅的嚎叫聲，最後倒臥在床上自己掰開雙腿懇求男優玩弄，在交合的時候不斷痙攣然後翻白眼⋯我的媽呀，如果是演的那是太浮誇，但如果是真實的反應那真的就只能說是雞動戰士了，效果十足啊：然後S1說了，音無鈴是史上反差最大的新人！這或許就是她突然情報解禁的原因吧？至於這位新人的外型如何？看了宣傳影片就知道，音無鈴不是封面殺手，換上和服展現茶道才華也是有上流社會出身的貴氣，脫了衣服後則是能感受到她是個個子嬌小、身材還算有料(資料目前沒公布，應該是D~E罩杯的水準)的沉默少女，表面的一切都是為了斬魄刀解放的狂亂做準備，與其說是主打她的出身和外型，性愛時的不受控制才是賣點〜這樣的新人你愛嗎？有沒有機會走紅呢？",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "天然",
+    "長相溫柔",
+    "長相清純",
+    "別致顔值",
+    "鄰家女",
+    "矮小",
+    "優雅",
+    "短髮"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/87d7192b-5763-4e8f-bdc6-b80dafc6d11e.html",
+  "aliases": [
+    "Otonashi Suzu",
+    "音无铃"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20250718/0ed4a2d8-6217-4c23-b760-a3d604bd315c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/50356b66-ec9e-4108-96e7-df9591074f14_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/24832943-baea-4157-b333-fdc5f775ac51_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/cbf52f15-ebdd-416e-b263-67f6877a0948_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/466c3486-9728-447b-8477-0c74fd5553d4_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20250718/5c5021a3-b907-4e5e-b06b-6e3aa1a7f60e_l.webp"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 2644,
+      "IDcode": "SONE-957",
+      "title": "一个名门望族的纯白女孩-音无铃",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "S1",
+      "publish_date": "",
+      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250918/20250918040804578578_72754_thumbnail.webp",
+      "actress": [
+        "音無鈴"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SONE-957"
+    }
+  ]
+};

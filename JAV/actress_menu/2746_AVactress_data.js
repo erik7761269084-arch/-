@@ -1,0 +1,79 @@
+// 2746_AVactress_data.js
+window.actressData = {
+  "id": 2746,
+  "name": "堀北桃愛",
+  "age": 21,
+  "birthday_date": "2004-01-01",
+  "img_url": "https://picture.yoshiclub.xyz/compressed/20251009/f1448ed3-fbd3-47bb-8838-99f08952e808_s.webp",
+  "background_img": "https://picture.yoshiclub.xyz/compressed/20251009/20251009033203827827_18369_s.webp",
+  "zodiac": "摩羯座",
+  "height": "150cm",
+  "measurements": "胸 82 腰 57 臀 83",
+  "measurements_display": "82F/57/83",
+  "cup": "F",
+  "description": "是四大新人的第二位成員！還記得嗎？為了在2025年的最後在AV界殺出血路，業界的偶像片商ideapocket啟動了連續四個月都有大型新人出道的企劃，第一位是三澄寧々，已經出道，大家可以搜尋作品番號IPZZ-688，我覺得條件相當不錯；第二位則是她，堀北桃愛，目前還在唸書的大學生：怎麼樣？可愛嗎？和三澄寧々是自寫真界轉職一樣，堀北桃愛也是有來歷的新人，她曾經在三萬人參加的選美比賽中脫穎而出，打進「日本最可愛的學生」決賽；秀氣的巴掌臉、纖細苗條的身材配上F罩杯的美乳讓她走到哪裡都是焦點〜這樣的她要交個有錢的男朋友不難吧？怎麼會來拍AV？堀北桃愛說，從小她就是個內向害羞的人，很不擅長在大家面前表達自己的想法，甚至連話都說不好ー後來在朋友的推薦下，她去參加了日本最可愛的學生甄選，結果脫穎而出殺進了決賽，第一次站上舞台的時候她心臟撲通撲通跳個不停，緊張的不得了，但另一方面，她又興奮到不行⋯「好想再一次，站在舞台上發光啊！」所以堀北桃愛也曾想過挑戰演藝圈，但她也知道沒資源的自己不可能馬上走紅，然後因為她喜歡男人、喜歡濃厚的接吻然後超愛打炮的，所以她決定成為AV女優：馬上來看她在片中的模樣，漂亮是真的漂亮，不是那種還要打磨的素人，而是像大明星那樣的漂亮，很正，真的很正；然後堀北桃愛的Body也相當不錯， 皮膚白裡透紅有著相當透明感，胸部那樣說有F罩杯太誇張但也是光滑圓潤自帶著米分糸工女乃豆頁，很能刺激大家的食慾；然後就和文案寫得一樣，堀北桃愛很擅長那檔事，不只很投入地和男優交換口水，被左右夾攻玩3P也是笑淫淫抓了就吸，交合時的騎乘位也能閉著眼睛享受，這是好手啊〜如果要挑剔的話，一來是她胸部可能不太符合大家對F罩杯的想像，二來就是她的腿比封面上的又細又長稍微粗了點，但整體而言不管是自30,000人的選美賽脫穎而出還是她的外型及演出都很有頂級新秀的水準，你覺得，她會是ideapocket的新希望嗎？",
+  "features": [
+    "美人",
+    "美乳",
+    "美腳",
+    "膚白",
+    "天然",
+    "長相溫柔",
+    "嫵媚",
+    "美少女",
+    "長相清純",
+    "長相可愛",
+    "長相甜美",
+    "萌妹子",
+    "別致顔值",
+    "嬌小身材",
+    "肉嘟嘟",
+    "矮小",
+    "二次元"
+  ],
+  "detail_url": "https://www.javrate.com/Actor/Detail/c62ab753-2605-47de-9c3a-1f3336868d3c.html",
+  "aliases": [
+    "Moa Horikita"
+  ],
+  "gallery": [
+    "https://picture.yoshiclub.xyz/compressed/20251009/53ef30cb-5607-47be-988b-868eb7ecd314_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/162eb496-09f9-42fd-84e2-e7559641cd2b_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/71e4e959-216e-4b9f-bbd6-2dc03e963fc9_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/a5fbd279-105b-4043-b033-9089c211486d_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/35453d8b-fbd0-4dee-b04a-88efbf9c6846_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/9aab94cb-e144-428e-8da3-493ae756b2a1_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/cb12881e-37a5-4021-bd5e-e1b7c5dbaa0a_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/287524c4-c538-45e2-bbe6-e7c0309f2dad_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/1bbe81b6-1ef4-47a4-969f-7d8b119acb7d_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/db383517-254a-4a80-95f0-19fe387ded1c_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/64878765-fc0c-4a68-b628-36e099a8c8f8_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/9d8b1a44-5a4f-4bbe-ba4b-510e8c02bd2d_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/55065d85-8845-499e-8f91-47185ab08098_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/ff000091-1e1b-4ad2-b688-be7540796c77_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/45aebda7-f94a-4237-8194-e052a3c2cdab_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/3650bafa-071b-484e-b649-1f6212c3d0a8_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/8cdeea41-9907-490e-af31-a61e359f16ed_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/9b80c6b0-c070-4832-975b-004ad4de7f16_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/07ff154a-d97e-4424-bb0d-b9eaaaf94990_l.webp",
+    "https://picture.yoshiclub.xyz/compressed/20251009/f1448ed3-fbd3-47bb-8838-99f08952e808_l.webp"
+  ],
+  "works_count": 1,
+  "related_dramas": [
+    {
+      "id": 2119,
+      "IDcode": "IPZZ-713",
+      "title": "参加决选日本最可爱的学生的选美比赛-堀北桃愛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "company": "IDEA POCKET",
+      "publish_date": "",
+      "cover_url": "https://tutu1.space/images/2025/10/21/a96c5de2ca466e46428be9c3e95d031f.jpg",
+      "actress": [
+        "堀北桃愛"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPZZ-713"
+    }
+  ]
+};
