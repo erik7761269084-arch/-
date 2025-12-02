@@ -1,158 +1,55 @@
 // BOTAN_company_data.js
 window.companyData = {
   "company": "BOTAN",
-  "works_count": 24,
+  "works_count": 48,
   "dramas": [
     {
-      "id": 3904,
-      "IDcode": "VAIAV-017",
-      "title": "3.1次元 放課後宅男的致命誘惑 @リズ",
+      "id": 11121,
+      "IDcode": "TLDC-019",
+      "title": "Oho 色情墮落指導 ~ 月妃さら",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2025-08-01",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804003845656656_79901_s.webp",
-      "background_img": "https://picture.yoshiclub.xyz/compressed/20250804/20250804003845656656_79901_s.webp",
-      "actress": [],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-017"
-    },
-    {
-      "id": 4182,
-      "IDcode": "VAIAV-015",
-      "title": "3.1次元 AI精靈 異世界風俗地下激戰篇 ~ Mana",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2025-07-18",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722225611198198_57745_thumbnail.webp",
-      "background_img": "https://picture.yoshiclub.xyz/compressed/20250722/20250722225611198198_57745_s.webp",
-      "actress": [],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-015"
-    },
-    {
-      "id": 5433,
-      "IDcode": "VAIAV-011",
-      "title": "【3.1次元】AI異世界NTR風俗樂園 ~ Mel",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2025-06-06",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/202506092148307373_s.webp",
-      "background_img": "https://picture.yoshiclub.xyz/compressed/20250609/202506092148307373_s.webp",
-      "actress": [],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-011"
-    },
-    {
-      "id": 5999,
-      "IDcode": "VAIAV-013",
-      "title": "3.1次元 AI肉感寵物奶牛娘 胸部揉揉奶子擠擠",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2025-05-16",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519214810265265_thumbnail.webp",
-      "background_img": "https://picture.yoshiclub.xyz/compressed/20250519/20250519214810265265_s.webp",
-      "actress": [
-        "@牛娘メイ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-013"
-    },
-    {
-      "id": 67466,
-      "IDcode": "VAIAV-008",
-      "title": "【3.1次元】AIハーフエルフ 新人裏撮り @Alinya（アリーニャ）",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-      "actress": [],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-008"
-    },
-    {
-      "id": 67465,
-      "IDcode": "TLDC-028",
-      "title": "お前だけの俺 4 上原千明 沙月ふみの",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-      "actress": [
-        "沙月文乃",
-        "安倍亜沙美"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-028"
-    },
-    {
-      "id": 6386,
-      "IDcode": "VAIAV-012",
-      "title": "【3.1次元】 AI拳擊寶貝的枕交易(援交) ~ 星奈めぐみ",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/202505060222257272_thumbnail.webp",
-      "background_img": "https://picture.yoshiclub.xyz/compressed/20250506/202505060222257272_s.webp",
-      "actress": [
-        "@星奈めぐみ"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-012"
-    },
-    {
-      "id": 6385,
-      "IDcode": "VAIAV-009",
-      "title": "【3.1次元】 AI異世界 精靈限定風俗館等你來嗨",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2025-05-02",
-      "cover_url": "https://picture.yoshiclub.xyz/compressed/20250506/20250506022234779779_s.webp",
-      "background_img": "https://picture.yoshiclub.xyz/compressed/20250506/20250506022234779779_s.webp",
-      "actress": [
-        "@Alinya（アリーニャ）"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-009"
-    },
-    {
-      "id": 11120,
-      "IDcode": "SEVEN-007",
-      "title": "婚禮上遇到的非常色情的婚外故事 ~ 波多野結衣",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
+      "type": "",
       "publish_date": "2024-11-15",
-      "cover_url": "https://picture.yoshiclub.xyz/20241020/202410202224538282.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20241020/202410202224538282.jpg",
+      "cover_url": "https://picture.yoshiclub.xyz/20241020/20241020221844819819.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20241020/20241020221844819819.jpg",
       "actress": [
-        "波多野结衣"
+        "月妃さら"
       ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-007"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-019"
     },
     {
-      "id": 10888,
-      "IDcode": "VAIAV-003",
-      "title": "[3.1D] AI人妻精油按摩，全身塗滿精油的淫蕩浮氣妻",
+      "id": 12083,
+      "IDcode": "SEVEN-004",
+      "title": "東京素人街拍 ~ 美園和花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2024-11-01",
-      "cover_url": "https://picture.yoshiclub.xyz/20241103/20241103044804371371.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20241103/20241103044804371371.jpg",
-      "actress": [],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VAIAV-003"
+      "type": "",
+      "publish_date": "2024-10-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20240910/20240910012325156156.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240910/20240910012325156156.jpg",
+      "actress": [
+        "美園和花"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-004"
+    },
+    {
+      "id": 12079,
+      "IDcode": "TLDC-017",
+      "title": "文系巨乳女子 ~ 天月梓",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-10-04",
+      "cover_url": "https://picture.yoshiclub.xyz/20240910/20240910080247405405.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240910/20240910080247405405.jpg",
+      "actress": [
+        "天月梓"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-017"
     },
     {
       "id": 12900,
@@ -161,7 +58,7 @@ window.companyData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "publish_date": "2024-09-06",
       "cover_url": "https://picture.yoshiclub.xyz/20240804/20240804223444110110.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240804/20240804223444110110.jpg",
@@ -177,7 +74,7 @@ window.companyData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "publish_date": "2024-08-02",
       "cover_url": "https://picture.yoshiclub.xyz/20240707/202407070351276161.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240707/202407070351276161.jpg",
@@ -187,13 +84,64 @@ window.companyData = {
       "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-003"
     },
     {
+      "id": 13506,
+      "IDcode": "IKUNA-012",
+      "title": "「IKUNA #1.60」友田彩香 vs 波多野結衣 性感界最強戰士對決 超性感級「第七戰士」頂級決戰！ 《IKUNA》第4季 ~ 友田彩香VSAV國民榮譽獎波多野結衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-08-02",
+      "cover_url": "https://picture.yoshiclub.xyz/20240707/20240707035447360360.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240707/20240707035447360360.jpg",
+      "actress": [
+        "波多野结衣",
+        "友田彩也香"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-012"
+    },
+    {
+      "id": 13763,
+      "IDcode": "IKUNA-011",
+      "title": "高潮對決！性高潮結束時達到高潮是狂喜嗎？你暈倒了嗎？失禁？誰是最好的高潮女王？",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-07-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624023317659659.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240624/20240624023317659659.jpg",
+      "actress": [
+        "美園和花",
+        "水川潤"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-011"
+    },
+    {
+      "id": 13746,
+      "IDcode": "VOBB-041",
+      "title": "一個男人面對2個美少女 沙月惠奈 日向ひかげ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-07-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624024025251251.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240624/20240624024025251251.jpg",
+      "actress": [
+        "沙月惠奈",
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-041"
+    },
+    {
       "id": 14063,
       "IDcode": "SEVEN-001",
       "title": "我的淫蕩色情體驗......在海濱別墅遇到了一個可愛淫蕩的GAL店員，在女友洗澡的時候她偷偷摸摸地約我出去 ~ 乙愛麗絲",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "publish_date": "2024-07-05",
       "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035802546546.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20240610/20240610035802546546.jpg",
@@ -203,179 +151,584 @@ window.companyData = {
       "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-001"
     },
     {
-      "id": 14997,
-      "IDcode": "TLDC-008",
-      "title": "《IKASE Howto》性感演員的實用技巧VS波多野結衣！",
+      "id": 14578,
+      "IDcode": "IKUNA-009",
+      "title": "《IKUNA #13.0》渚光希 vs 皆月光 全性感界最強平胸族對決 誰是最好的高潮女王？",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2024-06-07",
-      "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505021826466466.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20240505/20240505021826466466.jpg",
+      "type": "",
+      "publish_date": "2024-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519214552597597.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240519/20240519214552597597.jpg",
+      "actress": [
+        "皆月光",
+        "渚光希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-009"
+    },
+    {
+      "id": 14576,
+      "IDcode": "VOBB-040",
+      "title": "「IKASE Howto」性感男優的實踐技術教學SP ~ 乙愛麗絲 日向ひかげ 由良佳奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-06-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519214352410410.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240519/20240519214352410410.jpg",
+      "actress": [
+        "乙愛麗絲",
+        "由良佳奈",
+        "日向ひかげ"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-040"
+    },
+    {
+      "id": 15200,
+      "IDcode": "IKUNA-008",
+      "title": "《IKUNA #12.0》 性感世界 GAMANKO 最閃亮的對決 女王級最閃亮的頂級對決！誰是最好的高潮女王？ 「黑GAL始皇帝」AIKA vs 「惡之花」蘭華",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-05-03",
+      "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421083118667667.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240421/20240421083118667667.jpg",
+      "actress": [
+        "AIKA",
+        "蘭華"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-008"
+    },
+    {
+      "id": 15328,
+      "IDcode": "VOBB-035",
+      "title": "完全珍藏 SP 版 - 蕩婦對我來說太漂亮了",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-05-01",
+      "cover_url": "https://picture.yoshiclub.xyz/20240419/a293ca11-99ee-441b-ba02-1c62ff81ba87.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240419/a293ca11-99ee-441b-ba02-1c62ff81ba87.jpg",
+      "actress": [
+        "新村朱里",
+        "渚光希"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-035"
+    },
+    {
+      "id": 15201,
+      "IDcode": "IKUNA-007",
+      "title": "《IKUNA#11.0》岬梓沙 VS 有加裏乃乃花，性感界最虐戀對決，業界最瘋狂的虐戀級終極虐戀對決！誰是最好的高潮女王？ 聖肉便器對決",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-04-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421082959412412.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240421/20240421082959412412.jpg",
+      "actress": [
+        "有加里乃乃花",
+        "岬梓沙"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-007"
+    },
+    {
+      "id": 16700,
+      "IDcode": "IKUNA-004",
+      "title": "波多野結衣VS大槻響，GAMANKO世界最性感的對決，傳說中的最艶頂上決戦！第二季",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2024-01-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20240119/20240119012542184184.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20240119/20240119012542184184.jpg",
+      "actress": [
+        "波多野结衣",
+        "大槻响"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-004"
+    },
+    {
+      "id": 576320,
+      "IDcode": "700VOBB-007",
+      "title": "【福袋】【超SALE】海绵じろう原作＜REC·生配信＞SPっ！爆売れ御礼！超SALE！超人気作2巻セット！＜アヘ颜生切り忘れ生配信！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230203/BEEX1mXp/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=700VOBB-007"
+    },
+    {
+      "id": 576319,
+      "IDcode": "700VOBB-006",
+      "title": "【福袋】【超SALE】海绵じろう原作＜教えてっ＞SPっ！爆売れ御礼！超SALE！超人気作2巻セット！＜イカセHowto！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230203/nyzqBgtC/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=700VOBB-006"
+    },
+    {
+      "id": 576245,
+      "IDcode": "700VOBB-012",
+      "title": "【BEST！】【POV特化】＜生意気なメスガキにチョロくなる発情催●をかけたあと金玉空っぽになるまで灭茶苦茶种付",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "http://15.155250922.com/upload/vod/20230924/pb_e_700vobb-012.jpg!320x216.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=700VOBB-012"
+    },
+    {
+      "id": 575367,
+      "IDcode": "700VOBB-014",
+      "title": "【BEST！】【HowTo】【SEX上达】イカロイ＜见れば必ずHが上手くなる＞SPっ！！",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250713/AjY5lsu7/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=700VOBB-014"
+    },
+    {
+      "id": 575366,
+      "IDcode": "700VOBB-016",
+      "title": "【BEST！】【POV特化】＜生意気なメスガキにチョロくなる発情催●をかけたあと金玉空っ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250713/Iia9j0Wj/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=700VOBB-016"
+    },
+    {
+      "id": 575365,
+      "IDcode": "700VOBB-015",
+      "title": "【BEST！】【POV特化】＜结果なんでもSEXで解决しちゃう娘となし崩しに即ハメ贞操観",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250713/2BAfpZHU/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=700VOBB-015"
+    },
+    {
+      "id": 565078,
+      "IDcode": "SEVEN-008",
+      "title": "东京ヤレンダー2",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250111/6IaGd1lk/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-008"
+    },
+    {
+      "id": 565018,
+      "IDcode": "SEVEN-006",
+      "title": "大宫駅前ナンパちょろい说",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20241210/1wgARDc2/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-006"
+    },
+    {
+      "id": 564925,
+      "IDcode": "TLDSP-006",
+      "title": "お前だけの俺マツケン",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20241114/tG6HBDVh/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDSP-006"
+    },
+    {
+      "id": 561460,
+      "IDcode": "IKUNA-005",
+      "title": "‘IKUNA＃9.0’柊ゆうきvs凤カレン 全セクシー界GAMANKO最雕対决 妖艶刺青闷々",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240320/zine5vHA/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-005"
+    },
+    {
+      "id": 560801,
+      "IDcode": "IKUNA-010",
+      "title": "‘IKUNA＃14.0’浜崎真绪vs虹色ぐみ 全セクシー界GAMANKO最响対决 セクシーマ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240611/SWFaLzDG/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-010"
+    },
+    {
+      "id": 550734,
+      "IDcode": "TLDSP-003",
+      "title": "“梦魇第3部”第 1 部～与美丽的仙女无尽的交配～我迷失在被玩弄和竞争 IKASE 爱情战斗的乐趣中～渚美月",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://img1.souavzy.org/upload/vod/20250226-1/d6ccae0062490086d1e925b06892d020.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDSP-003"
+    },
+    {
+      "id": 550705,
+      "IDcode": "TLDC-026",
+      "title": "レイヤ骑士団长がメイド长と秘密のメス堕ち逆指导",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250429/QghQ4aPt/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-026"
+    },
+    {
+      "id": 550689,
+      "IDcode": "SEVEN-013",
+      "title": "俺の上司の嫁が元カノだった··· 出世より射精を优先してしまった话",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250422/wPVt12Xl/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-013"
+    },
+    {
+      "id": 550592,
+      "IDcode": "TLDC-020",
+      "title": "おほぉチョロい若妻のおほ咆哮",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250116/XDJZjtJE/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-020"
+    },
+    {
+      "id": 546914,
+      "IDcode": "IKUNA-003",
+      "title": "‘IKUNA＃7.0’望月あやかvs新村あかり 全セクシー界GAMANKO最淫対决 白目アへ",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240109/7fS8wjZy/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-003"
+    },
+    {
+      "id": 545819,
+      "IDcode": "IKUNA-006",
+      "title": "‘IKUNA＃10.0’浜崎真绪vs日向ひかげ 全セクシー界GAMANKO最脚対决 业界最狂",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240411/b3Y954D2/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=IKUNA-006"
+    },
+    {
+      "id": 544924,
+      "IDcode": "VOBB-031",
+      "title": "‘渚とみつきと弥生とみづき’无限射精な天使と射精管理な悪魔の双子 ＃无限射精な白い天使＃射精管",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240906/tucYjASq/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-031"
+    },
+    {
+      "id": 544923,
+      "IDcode": "VOBB-033",
+      "title": "‘いちかとにちかと乙美とアリス’无限射精な天使と射精管理な悪魔の双子 ＃无限射精な白い天使＃射",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240906/gIC9laXl/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-033"
+    },
+    {
+      "id": 544922,
+      "IDcode": "VOBB-034",
+      "title": "‘インキュバス’完全爱蔵SP版～美形すぎる淫魔たちと无限交尾～ 矢野慎二#マツケン#フランクフルト林",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240906/qhFVwxij/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-034"
+    },
+    {
+      "id": 544921,
+      "IDcode": "VOBB-038",
+      "title": "GALLAN☆BESTパパ活ギャルを解らせる计19発射TRANCE FUCK ALICE＆RANKA",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240906/qGloQmN1/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-038"
+    },
+    {
+      "id": 544920,
+      "IDcode": "VOBB-043",
+      "title": "おつオツ乙アリスベストアリス俺たちのアリス乙ありがとうBEST",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240906/t7zMtsS7/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-043"
+    },
+    {
+      "id": 540771,
+      "IDcode": "700IKUNA-002",
+      "title": "‘IKUNA＃6.0’吉根ゆりあvs优月まりな 全セクシー界GAMANKO最乳対决 究",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20250712/DjeGurmi/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=700IKUNA-002"
+    },
+    {
+      "id": 477044,
+      "IDcode": "SEVEN-005",
+      "title": "一个关于在我去的健身房里被一个拥有坚如盘石的腹肌的色情荡妇骑的故事。 三岳优奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251102-1/1f409f6d4e20a1412e1b7deb9b745ddf.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-005"
+    },
+    {
+      "id": 194863,
+      "IDcode": "SEVEN-016",
+      "title": "BARで釣れた女子二人組。肉食だった先輩の事後目覚めた控えめ後輩にも火がついて跨られた話 沙月ふみの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-016"
+    },
+    {
+      "id": 194099,
+      "IDcode": "SEVEN-018",
+      "title": "童貞メシア性の伝道師南条が教える童貞を真の漢にする方法 Nia",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-018"
+    },
+    {
+      "id": 67465,
+      "IDcode": "TLDC-028",
+      "title": "お前だけの俺 4 上原千明 沙月ふみの",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://lust103.cc/upload/vod/20250703-1/78d46e1a4afbd954c84c55304484d6f4.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "沙月文乃",
+        "安倍亜沙美"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-028"
+    },
+    {
+      "id": 14997,
+      "IDcode": "TLDC-008",
+      "title": "如何使其高潮-波多野结衣",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "波多野结衣"
       ],
       "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-008"
     },
     {
-      "id": 16265,
-      "IDcode": "VOTAN-087",
-      "title": "無限耐力訓練！我絕對不會輸給一個屌絲！ 乙愛麗絲",
+      "id": 11744,
+      "IDcode": "TLDC-018",
+      "title": "Oho 100分 性感婊子 ~ 有加裏乃乃花",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2024-02-16",
-      "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216044042481481.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20240216/20240216044042481481.jpg",
-      "actress": [
-        "乙愛麗絲"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-087"
-    },
-    {
-      "id": 89099,
-      "IDcode": "VOTAN-062",
-      "title": "超乳まいっちんぐマスクせんせい ＃聖璃とあ＃メスマゾ覚醒＃コルセットマニア＃超乳痴女教師＃全頭マスク＃あほ天然な正義感＃POV目線＃連続射精＃下品に痴女変態",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2023-10-06",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/cd8dae72e34089125d731ae980949392.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "露梨あやせ"
+        "有加里乃乃花"
       ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-062"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDC-018"
     },
     {
-      "id": 89082,
-      "IDcode": "VOTAN-059",
-      "title": "『乙美とアリス』無限射精な天使と射精管理な悪魔の双子 ＃無限射精な白い天使＃限界超えても射精＃射精しても射精しても＃金玉からっぽ＃もっと出すまで許してくれない＃優しき悪魔「いっぱい好きなだけ、死んじゃいそうになるまで何度でも何度でも気持ちよく射精…乙アリス",
+      "id": 11743,
+      "IDcode": "TLDSP-005",
+      "title": "[令和王子]我的一切只爲你 ~ 三田櫻",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2023-10-06",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/c99b8c207ac093f69c85816c51557dd6.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251101-1/9604d4a4a5748d66a478e02ac8f28c18.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "乙愛麗絲"
+        "三田櫻"
       ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-059"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=TLDSP-005"
     },
     {
-      "id": 89084,
-      "IDcode": "VOTAN-052",
-      "title": "『弥生とみづき』無限射精な天使と射精管理な悪魔の双子＃無限射精な白い天使＃限界超えても射精＃射精しても射精しても＃金玉からっぽ＃もっと出すまで許してくれない＃優しき悪魔「いっぱい好きなだけ、死んじゃいそうになるまで何度でも何度でも気持ちよく射…弥生みづき",
+      "id": 11742,
+      "IDcode": "VOBB-044",
+      "title": "祝AD好運！ SP最好！仔細看新廣告，發現她胸很大，臉超級漂亮，而且性格好像還不錯，所以在拍攝的時候偷偷操了她+α ~ 堀北実來",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2023-09-01",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/078c5cb499ea2e91a4e84f7d2fd9e971.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251028-1/3d5bfa2c430d3ee5359551705349e0f7.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "弥生美月"
+        "堀北実来"
       ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-052"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOBB-044"
     },
     {
-      "id": 89076,
-      "IDcode": "VOTAN-049",
-      "title": "『渚とみつき』無限射精な天使と射精管理な悪魔の双子 ＃無限射精な白い天使＃限界超えても射精＃射精しても射精しても＃金玉からっぽ＃もっと出すまで許してくれない＃優しき悪魔「いっぱい好きなだけ、死んじゃいそうになるまで何度でも何度でも気持ちよく射精… 渚みつき",
+      "id": 11120,
+      "IDcode": "SEVEN-007",
+      "title": "既婚者コンパで知り合ったエロすぎる婚外の話 波多野結衣",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2023-08-04",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "渚光希"
+        "波多野结衣"
       ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-049"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-007"
     },
     {
-      "id": 89120,
-      "IDcode": "VOTAN-054",
-      "title": "【調教HowTo無垢っこ】近所の清楚な無垢っこと初めての緊縛SMごっこしてたら発情しちゃって従順マゾペットになるまで滅茶苦茶SEX調教した ＃日向ひかげ＃繊細な天才＃POV特化＃赤縄＃ゴーグルなしでもVR気分【POV】",
+      "id": 7643,
+      "IDcode": "SEVEN-014",
+      "title": "東京ヤレンダー3 新大久保さんぽ 大槻ひびき",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2023-07-07",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
-        "日向ひかげ"
+        "大槻响"
       ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-054"
-    },
-    {
-      "id": 89095,
-      "IDcode": "VOTAN-051",
-      "title": "『IKUNA＃4.0 』シンセクシー界GAMANKO最狂対決！アダルトジーニアス級最強王座決定戦！「美と性技と変態の三面阿修羅天 SEXの天才」弥生みづきvs「超チートエロ舌吸精弁財天 天才の天才」沙月恵奈 いつもイキ潮まくるAVスター競演＜イキガマン狂い＞…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2023-07-07",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-      "actress": [
-        "沙月惠奈",
-        "弥生美月"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-051"
-    },
-    {
-      "id": 89074,
-      "IDcode": "VOTAN-048",
-      "title": "【極顔即ハメ】結果なんでもSEXで解決しちゃう娘となし崩しに即ハメ貞操観念完全無視で滅茶苦茶即チン敗けSEXした＃渚みつき＃POV特化＃解決ガール＃ゴーグルなしでもVR気分【POV】",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2023-07-07",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-      "actress": [
-        "渚光希"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-048"
-    },
-    {
-      "id": 89081,
-      "IDcode": "VOTAN-047",
-      "title": "『IKUNA＃3.0 』デビュー3年以内新時代GAMANKO最恐対決！新時代級女王決定戦！「非現実な極限ロ●完全体 天使の慈母心堕天使の魔性」横宮七海vs「究極潮吹きプリンセス 白き彗星白鯨級放水ガール」上坂めい いつもイキ潮まくるAVスター競演＜イキガマン狂い＞絶頂決戦！…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2023-06-16",
-      "cover_url": "https://fmtu.sl2025p.com/upload/vod/20231213-1/3895c3d3fbfe0adc322bcf786b2834f2.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-      "actress": [],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-047"
-    },
-    {
-      "id": 89070,
-      "IDcode": "VOTAN-037",
-      "title": "『IKUNA＃2.0 』身長140cmGAMANKO最幼対決！ 合法JIPOミニマム級女王決定戦！「奇跡のリアル妖精 神の贈り物」工藤ららvs「魂の人生2回目感 無想転生小悪魔ガール」由良かな 絶頂決戦！いつもイキ潮まくるAVスター競演＜イキガマン狂い＞イキガマンの果てに手にする絶頂は…",
-      "year": "",
-      "country": "",
-      "genre": "",
-      "type": "有码",
-      "publish_date": "2023-06-02",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-      "actress": [
-        "工藤拉拉"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=VOTAN-037"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=SEVEN-014"
     }
   ]
 };

@@ -1,23 +1,39 @@
 // 最強屬性_company_data.js
 window.companyData = {
   "company": "最強屬性",
-  "works_count": 5,
+  "works_count": 23,
   "dramas": [
     {
-      "id": 86837,
-      "IDcode": "CPDE-042",
-      "title": "最強属性42 宮沢ちはる",
+      "id": 18264,
+      "IDcode": "CPDE-062",
+      "title": "最強屬性62 水瀨明里",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2020-07-31",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
-      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "type": "",
+      "publish_date": "2023-10-19",
+      "cover_url": "https://picture.yoshiclub.xyz/20231020/119402f8-0944-4c54-832f-d51bb82095bd.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20231020/119402f8-0944-4c54-832f-d51bb82095bd.jpg",
       "actress": [
-        "宫泽千春"
+        "皆瀨明里"
       ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-042"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-062"
+    },
+    {
+      "id": 18612,
+      "IDcode": "CPDE-061",
+      "title": "最強属性 61",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "2023-09-21",
+      "cover_url": "https://picture.yoshiclub.xyz/20230922/d499e8fb-02ad-44f8-adf1-8210c8d558b4.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230922/d499e8fb-02ad-44f8-adf1-8210c8d558b4.jpg",
+      "actress": [
+        "藤田梢"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-061"
     },
     {
       "id": 86964,
@@ -26,9 +42,9 @@ window.companyData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
+      "type": "",
       "publish_date": "2020-05-29",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "cover_url": "https://imgsiwa.com:5278/upload/vod/20210727-1/82cd81960d8c3c92906689a8427f6f3c.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "内海みう"
@@ -36,34 +52,228 @@ window.companyData = {
       "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-041"
     },
     {
-      "id": 86865,
-      "IDcode": "CPDE-039",
-      "title": "最強属性39 美甘りか",
+      "id": 592900,
+      "IDcode": "CPDE-026",
+      "title": "最强属性26 神宫寺ナオ new",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2020-03-27",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://pic31.anzise.com/pic/20220706/3697aa8167b87b2086c857de69bd291f/1.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-039"
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-026"
     },
     {
-      "id": 83074,
-      "IDcode": "CPDE-038",
-      "title": "最強属性38 あおいれな",
+      "id": 592729,
+      "IDcode": "CPDE-048",
+      "title": "最强属性48 桜井千春",
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2020-01-31",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/01b4aa2bb0d8411b38b29eb9e8ac1d50.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
-      "actress": [
-        "葵玲奈"
-      ],
-      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-038"
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-048"
+    },
+    {
+      "id": 589610,
+      "IDcode": "CPDE-030",
+      "title": "最强属性 30 Marina Yuzuki - 优月真里奈",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/30/38549_cover_2025-06-30_213955.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-030"
+    },
+    {
+      "id": 589530,
+      "IDcode": "CPDE-033",
+      "title": "最强属性33 有露露露 - 有栖缕缕",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/05/81539_cover_2025-07-05_000634.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-033"
+    },
+    {
+      "id": 584847,
+      "IDcode": "CPDE-051",
+      "title": "最强属性 51 横宫七海 横宫七海",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/214fd58fa178d27e17665a6ff6880025.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-051"
+    },
+    {
+      "id": 566547,
+      "IDcode": "CPDE-057",
+      "title": "最强属性57 花狩まい",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a46b0faad3946dad98cd9fd5a4b848dd.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-057"
+    },
+    {
+      "id": 548716,
+      "IDcode": "CPDE-059",
+      "title": "最强属性59",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230721/oCvVYuyL/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-059"
+    },
+    {
+      "id": 548441,
+      "IDcode": "CPDE-060",
+      "title": "最强属性60",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20230818/7Gm7yecH/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-060"
+    },
+    {
+      "id": 545334,
+      "IDcode": "CPDE-064",
+      "title": "最强属性64",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://tuaskbgnekr.com/20240615/WgC9q30p/1.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-064"
+    },
+    {
+      "id": 535950,
+      "IDcode": "CPDE-999",
+      "title": "最强属性特别篇莲実クレア舞园ひな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-999"
+    },
+    {
+      "id": 523685,
+      "IDcode": "CPDE-031",
+      "title": "最强属性31 一条みお",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/addf19c48a871b16cc5a859c3103e2e2.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-031"
+    },
+    {
+      "id": 521719,
+      "IDcode": "CPDE-025",
+      "title": "最强属性25 美谷朱里 v",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://yunvgong.com/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-025"
+    },
+    {
+      "id": 469412,
+      "IDcode": "CPDE-037",
+      "title": "最強属性37 桐山結羽",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6784090a89def9b1b8f340ea/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-037"
+    },
+    {
+      "id": 444960,
+      "IDcode": "CPDE-068",
+      "title": "最強属性68",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250708-1/7756eed5a3d829bb7443073676a41ed9.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-068"
+    },
+    {
+      "id": 411402,
+      "IDcode": "CPDE-997",
+      "title": "最強属性特別編 コスプレ女子会で桐山結羽レズ解禁＆4P 舞園雛 桐山結羽 永井美雛",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://voddadaizi.com:52866/videos/202501/06/677c4ba22a47ebb1a8683b55/cover.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-997"
+    },
+    {
+      "id": 402263,
+      "IDcode": "CPDE-067",
+      "title": "最強属性67",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250825-1/e31577a17401aa9d45d684797e44cde7.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-067"
     },
     {
       "id": 86891,
@@ -72,15 +282,61 @@ window.companyData = {
       "year": "",
       "country": "",
       "genre": "",
-      "type": "有码",
-      "publish_date": "2019-12-20",
-      "cover_url": "https://upload.xchina.io/default/cover.jpg",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/942daf22903e925d62e96e8247b1b682.jpg",
       "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
       "actress": [
         "川越ゆい",
         "小西真理繪"
       ],
       "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-998"
+    },
+    {
+      "id": 86865,
+      "IDcode": "CPDE-039",
+      "title": "最強属性39 美甘りか",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ef29cf536060699d58482c1f21e5d755.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-039"
+    },
+    {
+      "id": 86837,
+      "IDcode": "CPDE-042",
+      "title": "最強属性42 宮沢ちはる",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/12b8ea24dd9172a25ec43c543ffebce4.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "宫泽千春"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-042"
+    },
+    {
+      "id": 83074,
+      "IDcode": "CPDE-038",
+      "title": "最強属性38 あおいれな",
+      "year": "",
+      "country": "",
+      "genre": "",
+      "type": "",
+      "publish_date": "",
+      "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/d3d2dc9c1aa1183bb9e1a77079dd1f13.jpg",
+      "background_img": "https://picture.yoshiclub.xyz/20230930/20230930013717874874.jpg",
+      "actress": [
+        "葵玲奈"
+      ],
+      "title_play_url": "https://yunvgong.com/JAV//player_template.html?series=CPDE-038"
     }
   ]
 };
