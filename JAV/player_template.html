@@ -347,11 +347,19 @@ function loadSeriesData(seriesName) {
 function initPlayer() {
     bottomTitle.textContent = seriesInfo.title || "剧名";
     idcodeEl.textContent = seriesInfo.IDcode || "";
-    companyEl.textContent = seriesInfo.company || "";
     descriptionEl.textContent = seriesInfo.description || "";
     publishEl.textContent = seriesInfo.publish_date || "";
     categoryEl.textContent = seriesInfo.type || "";
 
+    /* ========== 只显示第一个 company ========== */
+    if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
+        const c = seriesInfo.companys[0];
+        companyEl.innerHTML = `<a href="${c.company_url}" target="_blank" style="color:#4da3ff; text-decoration:none;">${c.company}</a>`;
+    } else {
+        companyEl.textContent = seriesInfo.company || "";
+    }
+
+    /* ========== 女优头像 ========= */
     actressGrid.innerHTML = "";
     if(Array.isArray(seriesInfo.actresses)){
         seriesInfo.actresses.forEach(a=>{
@@ -362,6 +370,7 @@ function initPlayer() {
         });
     }
 
+    /* ========== 播放列表 ========= */
     playlist.innerHTML="";
     Object.entries(episodes).forEach(([name,url])=>{
         const btn=document.createElement('button');
