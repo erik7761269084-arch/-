@@ -351,13 +351,16 @@ function initPlayer() {
     publishEl.textContent = seriesInfo.publish_date || "";
     categoryEl.textContent = seriesInfo.type || "";
 
-    /* ========== 只显示第一个 company ========== */
-    if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
-        const c = seriesInfo.companys[0];
-        companyEl.innerHTML = `<a href="${c.company_url}" target="_blank" style="color:#4da3ff; text-decoration:none;">${c.company}</a>`;
-    } else {
-        companyEl.textContent = seriesInfo.company || "";
-    }
+	/* ========== 只显示第一个 company + works_count ========== */
+	if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
+		const c = seriesInfo.companys[0];
+		const countText = c.works_count ? `（${c.works_count}部）` : "";
+		companyEl.innerHTML = `<a href="${c.company_url}" target="_blank" style="color:#4da3ff; text-decoration:none;">
+			${c.company}${countText}
+		</a>`;
+	} else {
+		companyEl.textContent = seriesInfo.company || "";
+	}
 
     /* ========== 女优头像 ========= */
     actressGrid.innerHTML = "";
