@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://lsbbf5.com/20230925/WODFKFSd/index.m3u8"
+    "主线路": "https://lsbbf2.com/20230925/WODFKFSd/index.m3u8",
+    "线路2": "https://lsbbf5.com/20230925/WODFKFSd/index.m3u8"
   },
   "seriesInfo": {
     "id": 482614,
@@ -11,7 +12,8 @@
     "companys": [
       {
         "company": "FC2",
-        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2"
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
       }
     ],
     "genres": [
