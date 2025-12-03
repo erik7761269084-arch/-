@@ -21,7 +21,6 @@ body {
   overflow-x: hidden;
 }
 
-/* ✅ 背景图层 */
 body::before {
   content: "";
   position: fixed;
@@ -34,7 +33,6 @@ body::before {
   z-index: -1;
 }
 
-/* ✅ header 占位高度 */
 #header-placeholder {
   position: fixed;
   top: 0;
@@ -103,7 +101,6 @@ body > .container {
     background-color: #555;
 }
 
-/* ✅ 右侧信息卡片 */
 .right-panel {
   width: 320px;
   display: flex;
@@ -115,7 +112,6 @@ body > .container {
   padding: 0 !important;
 }
 
-/* ✅ 女优头像卡 */
 .actress-grid {
     display: flex;
     flex-wrap: wrap;
@@ -151,7 +147,6 @@ body > .container {
     box-sizing: border-box;
 }
 
-/* ✅ 视频下方信息栏 */
 .down-panel {
   width: 97%;
   background: none !important;
@@ -161,7 +156,6 @@ body > .container {
   margin-top: 15px;
 }
 
-/* category 样式 */
 #category {
   background-color: red;
   color: white;
@@ -170,7 +164,6 @@ body > .container {
   border-radius: 4px;
 }
 
-/* 番号黄色字体 */
 #idcode {
   color: #ffcc00;
   font-weight: bold;
@@ -195,7 +188,6 @@ body > .container {
     color: #fff;
 }
 
-/* ✅ details 框隐藏背景/边框 */
 .details {
   background: none !important;
   box-shadow: none !important;
@@ -222,7 +214,6 @@ body > .container {
 
 <body>
 
-<!-- ✅ 顶部 header 插入区 -->
 <div id="header-placeholder"></div>
 
 <div class="container">
@@ -232,7 +223,6 @@ body > .container {
             <div id="overlay"></div>
         </div>
 
-        <!-- ✅ 视频下方信息栏 -->
         <div class="down-panel">
             <div class="playlist-container" style="display:flex; align-items:center; gap:10px; flex-wrap:wrap;">
                 <div class="playlist" id="playlist"></div>
@@ -251,8 +241,6 @@ body > .container {
   </a>
 </h2>
 
-
-
         </div>
     </div>
 
@@ -268,13 +256,10 @@ body > .container {
 </div>
 
 <script>
-/* ========== 加载顶部 header.html + header.js ========== */
 fetch('header.html')
   .then(res => res.text())
   .then(html => {
     document.getElementById('header-placeholder').innerHTML = html;
-
-    // ✅ 动态加载 header.js
     const script = document.createElement('script');
     script.src = 'header.js';
     script.onload = () => {
@@ -285,11 +270,9 @@ fetch('header.html')
   })
   .catch(err => console.error('加载 header 失败:', err));
   
-/* ========== 加载底部 footer.html ========== */ 
 fetch('https://yunvgong.com/footer.html')
   .then(r => r.text())
   .then(html => {
-    // 动态创建底部容器并插入页面
     let footer = document.getElementById('footer-placeholder');
     if (!footer) {
       footer = document.createElement('div');
@@ -301,7 +284,6 @@ fetch('https://yunvgong.com/footer.html')
   .catch(e => console.warn('无法加载 footer.html:', e));
 </script>
 
-<!-- ✅ 播放逻辑 -->
 <script>
 const video = document.getElementById('video');
 const playlist = document.getElementById('playlist');
@@ -351,18 +333,55 @@ function initPlayer() {
     publishEl.textContent = seriesInfo.publish_date || "";
     categoryEl.textContent = seriesInfo.type || "";
 
-	/* ========== 只显示第一个 company + works_count ========== */
+	/* ========== 出品厂商（淡紫色）+ 数量（绿色） 完整可用版本 ========== */
 	if (Array.isArray(seriesInfo.companys) && seriesInfo.companys.length > 0) {
+
 		const c = seriesInfo.companys[0];
-		const countText = c.works_count ? `（${c.works_count}部）` : "";
-		companyEl.innerHTML = `<a href="${c.company_url}" target="_blank" style="color:#4da3ff; text-decoration:none;">
-			${c.company}${countText}
-		</a>`;
+
+		// 公司名样式（淡紫色）
+		const companyBox = `
+			<span style="
+				background:#B57EDC;
+				color:white;
+				padding:4px 10px;
+				border-radius:6px;
+				font-weight:bold;
+				display:inline-block;
+			">
+				${c.company}
+			</span>
+		`;
+
+		// 数量样式（绿色）
+		const countBox = (c.works_count !== undefined && c.works_count !== null)
+			? `
+				<span style="
+					background:#28a745;
+					color:white;
+					padding:3px 8px;
+					border-radius:4px;
+					margin-left:8px;
+					font-size:13px;
+					display:inline-block;
+				">
+					${c.works_count}
+				</span>
+			`
+			: "";
+
+		// 拼接到页面
+		companyEl.innerHTML = `
+			<a href="${c.company_url}"
+			   target="_blank"
+			   style="text-decoration:none;">
+				${companyBox}
+			</a>
+			${countBox}
+		`;
 	} else {
 		companyEl.textContent = seriesInfo.company || "";
 	}
 
-    /* ========== 女优头像 ========= */
     actressGrid.innerHTML = "";
     if(Array.isArray(seriesInfo.actresses)){
         seriesInfo.actresses.forEach(a=>{
@@ -373,7 +392,6 @@ function initPlayer() {
         });
     }
 
-    /* ========== 播放列表 ========= */
     playlist.innerHTML="";
     Object.entries(episodes).forEach(([name,url])=>{
         const btn=document.createElement('button');
