@@ -1,17 +1,24 @@
 {
   "episodes": {
-    "主线路": "https://krevonix.com/20250915/4tOvnZkO/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/08/18/348c9998/index.m3u8",
+    "线路2": "https://krevonix.com/20250915/4tOvnZkO/index.m3u8"
   },
   "seriesInfo": {
     "id": 573083,
     "IDcode": "FC2-PPV-4210457",
     "title": "★1月21日まで半额★",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-08-18",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20240915-1/c020cd4d9fa37f706c46f1f7d95632af.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4210457",
     "actresses": []

@@ -1,17 +1,24 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250326/aWkwVsfo/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/03/31/c6d97ef6/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250326/aWkwVsfo/index.m3u8"
   },
   "seriesInfo": {
     "id": 573613,
     "IDcode": "FC2-PPV-4657299",
     "title": "仕事休みのシ",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-05-19",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250326-1/338c3944e2b8492dfbc2d3bc0b02b7a5.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4657299",
     "actresses": []

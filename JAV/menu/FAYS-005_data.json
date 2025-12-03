@@ -7,8 +7,14 @@
     "IDcode": "FAYS-005",
     "title": "僕だけの推しコス撮影会 RIMA",
     "publish_date": "",
-    "type": null,
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "genres": [
       "二次元",
       "游戲COSPLAY",
@@ -56,7 +62,7 @@
       "騎乗位"
     ],
     "description": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/d91e3107/vod.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FAYS-005",
     "actresses": []

@@ -8,17 +8,27 @@
     "title": "Saeko2 桃源郷トロピカル/松下紗栄子",
     "publish_date": "2020-03-19",
     "type": "有码",
-    "company": "GRATZ",
-    "genres": [],
+    "companys": [
+      {
+        "company": "MUGEN",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_MUGEN",
+        "works_count": 1787
+      }
+    ],
+    "genres": [
+      "偶像",
+      "介绍影片",
+      "全裸写真"
+    ],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=REBD-450",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=REBD-450",
     "actresses": [
       {
         "name": "松下纱栄子",
         "img_url": "https://upload.xchina.io/default/model.jpg",
-        "profile_url": "https://erik7761269084-arch.github.io/-/JAV/JAV_actressDatas.html?series=3026&name=%E6%9D%BE%E4%B8%8B%E7%BA%B1%E6%A0%84%E5%AD%90"
+        "profile_url": "https://yunvgong.com/JAV/actressDatas.html?series=3026&name=%E6%9D%BE%E4%B8%8B%E7%BA%B1%E6%A0%84%E5%AD%90"
       }
     ]
   }

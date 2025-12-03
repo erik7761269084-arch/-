@@ -1,19 +1,26 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250116/20MHowAD/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/16/a4cce72b/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250116/20MHowAD/index.m3u8"
   },
   "seriesInfo": {
     "id": 573531,
     "IDcode": "FC2-PPV-4604485",
     "title": "素人ナンパ、道端で声",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-05-19",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "genres": [
       "素人"
     ],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250116-1/d3269a2a397ac2b8aa29c0a2e6b27226.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4604485",
     "actresses": []

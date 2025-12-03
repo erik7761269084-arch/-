@@ -1,6 +1,7 @@
 {
   "episodes": {
-    "主线路": "https://v2024.bbffsl.com/20241219/jVaNWj7W/index.m3u8"
+    "主线路": "https://v2024.bbffsl.com/20241219/jVaNWj7W/index.m3u8",
+    "线路2": "https://lsbbf5.com/20241125/c96jRdsR/index.m3u8"
   },
   "seriesInfo": {
     "id": 75749,
@@ -8,12 +9,22 @@
     "title": "人妻Resort もえ30歳、結婚5年目、子供無し",
     "publish_date": "2020-01-19",
     "type": "有码",
-    "company": "妄想族",
-    "genres": [],
+    "companys": [
+      {
+        "company": "妄想族",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_妄想族",
+        "works_count": 4538
+      }
+    ],
+    "genres": [
+      "人妻",
+      "纪录片",
+      "已婚妇女"
+    ],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=GBSA-058",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GBSA-058",
     "actresses": []
   }
 }

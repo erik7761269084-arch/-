@@ -1,19 +1,26 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250917/WAKmajDq/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/26/c10fceb1/index.m3u8",
+    "线路2": "https://thm3u8.com/20250917/WAKmajDq/index.m3u8"
   },
   "seriesInfo": {
     "id": 527203,
     "IDcode": "FC2-PPV-4760426",
     "title": "妊娠确定、みずきちゃん21歳",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-09-26",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "genres": [
       "嫩妹"
     ],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250916-1/7cea63e384bb172cb2127b4036358ca0.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4760426",
     "actresses": []

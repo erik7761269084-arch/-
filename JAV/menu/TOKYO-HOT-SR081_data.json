@@ -8,12 +8,18 @@
     "title": "新卒采用记录 No",
     "publish_date": "",
     "type": "无码",
-    "company": "TMA",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "genres": [
       "无码"
     ],
     "description": "",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20210701-1/e6aa582ccf394f1a6194f271487ddb1d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=TOKYO-HOT-SR081",
     "actresses": []

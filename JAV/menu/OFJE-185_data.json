@@ -7,11 +7,17 @@
     "IDcode": "OFJE-185",
     "title": "纯净版",
     "publish_date": "",
-    "type": null,
-    "company": "S1",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "S1",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_S1",
+        "works_count": 2800
+      }
+    ],
     "genres": [],
     "description": "",
-    "cover_url": "https://da.da15525716.com/upload/vod/2019-10-31/15724941336.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=OFJE-185",
     "actresses": []

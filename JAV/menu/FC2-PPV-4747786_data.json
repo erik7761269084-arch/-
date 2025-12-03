@@ -1,17 +1,24 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.com/20250827/HbaTZ7Qu/index.m3u8"
+    "主线路": "https://t33.cdn2020.com/video/m3u8/2025/09/01/24d14075/index.m3u8",
+    "线路2": "https://thm3u8.com/20250827/HbaTZ7Qu/index.m3u8"
   },
   "seriesInfo": {
     "id": 527499,
     "IDcode": "FC2-PPV-4747786",
     "title": "完结编・最高可爱い！",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-09-01",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250826-1/f01e43223e9f48956c428931e13e29ee.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4747786",
     "actresses": []

@@ -8,11 +8,17 @@
     "IDcode": "HOTENTERTAINMENT-PART",
     "title": "2",
     "publish_date": "",
-    "type": null,
-    "company": "TMA",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "TMA",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_TMA",
+        "works_count": 5163
+      }
+    ],
     "genres": [],
     "description": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230322-1/e69cd5d6c8a8856d35823223d7752b1b.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HOTENTERTAINMENT-PART",
     "actresses": []

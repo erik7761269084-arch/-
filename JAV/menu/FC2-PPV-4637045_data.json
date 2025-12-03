@@ -1,17 +1,24 @@
 {
   "episodes": {
-    "主线路": "https://thm3u8.vip/20250301/RSj8mzgx/index.m3u8"
+    "主线路": "https://t30.cdn2020.com/video/m3u8/2025/05/18/09b4debe/index.m3u8",
+    "线路2": "https://thm3u8.vip/20250301/RSj8mzgx/index.m3u8"
   },
   "seriesInfo": {
     "id": 573577,
     "IDcode": "FC2-PPV-4637045",
     "title": "合コンで出会った北",
-    "publish_date": "",
-    "type": null,
-    "company": "FC2",
+    "publish_date": "2025-05-20",
+    "type": "有码",
+    "companys": [
+      {
+        "company": "FC2",
+        "company_url": "https://yunvgong.com/JAV/new_company_menu/company_FC2",
+        "works_count": 21440
+      }
+    ],
     "genres": [],
     "description": "",
-    "cover_url": "https://img.imgimg998.com:1999/upload/vod/20250303-1/8d1def087f27266cc94cd51304c45c73.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FC2-PPV-4637045",
     "actresses": []

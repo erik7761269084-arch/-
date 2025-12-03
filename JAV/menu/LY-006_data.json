@@ -8,12 +8,15 @@
     "title": "東京CUTIES",
     "publish_date": "2010-12-27",
     "type": "有码",
-    "company": null,
-    "genres": [],
+    "companys": [],
+    "genres": [
+      "纪录片",
+      "女生"
+    ],
     "description": "",
-    "cover_url": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "background_img": "",
-    "title_play_url": "https://erik7761269084-arch.github.io/-/JAV/player_template.html?series=LY-006",
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LY-006",
     "actresses": []
   }
 }
