@@ -61,7 +61,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/16/55bcc4dc/vod.jpg",
@@ -122,7 +122,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/ead5fe7e/vod.jpg",
@@ -132,6 +132,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-002"
   },
   {
+    "id": 177535,
+    "IDcode": "JERA-003",
+    "title": "金曜の夜、何度も中出しをした想い出を残したくて…病みカワ系セフレちゃん日泉舞華と朝から晩まで精飲と中出しをした週末2日目の記録",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "夕焼けジェラシー",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-003"
+  },
+  {
     "id": 179036,
     "IDcode": "JERA-004",
     "title": "悩み相談くらいの関係だった同じ部署の子持ちシングルマザー渋谷なつに朝イチから誘われて…寂しさを埋めるようにラブホ不倫で何度も中出しと精飲をした",
@@ -139,12 +154,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/03/a97bb33b/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-004"
+  },
+  {
+    "id": 179047,
+    "IDcode": "JERA-005",
+    "title": "アフター5精飲セフレちゃん 丸の内で働く仕事帰りの美人OL有馬みずきと夜から朝にかけて1泊2日8射精で出勤前まで何度も中出しとゴックンをした",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "夕焼けジェラシー",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-005"
   },
   {
     "id": 2174,
@@ -197,7 +227,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/12/194484d91f75986acbb1226a8227d241.jpg",
@@ -214,7 +244,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/b00b15bc/vod.jpg",
@@ -229,7 +259,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/11/05/35cafca40b6d8a87501cca2bdd1421c7.jpg",
@@ -244,11 +274,26 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "夕焼けジェラシー",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/26/ffcbf4bf/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-019"
+  },
+  {
+    "id": 173803,
+    "IDcode": "JERA-026",
+    "title": "バック大好き！！美尻セフレちゃん逢沢みゆとラブホをはしごして丸1日巣ごもり尻揉み中出しデート",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "夕焼けジェラシー",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JERA-026"
   }
 ];

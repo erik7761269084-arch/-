@@ -1,5 +1,20 @@
 window.PAGE_DATA = [
   {
+    "id": 210031,
+    "IDcode": "KSBJ-022",
+    "title": "裸露的妻子-二宮和香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-022"
+  },
+  {
     "id": 591457,
     "IDcode": "KSBJ-027",
     "title": "[] はだかの奥様 羽月希",
@@ -9,7 +24,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/10-29/12/kugftzak1ww1255kugftzak1ww183705.jpg",
@@ -24,12 +39,51 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/afFeWRH1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-050"
+  },
+  {
+    "id": 534214,
+    "IDcode": "KSBJ-051",
+    "title": "はだかの奥様葵百合香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-051"
+  },
+  {
+    "id": 107205,
+    "IDcode": "KSBJ-052",
+    "title": "美乳美尻全裸人妻-卯水咲流",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "荡妇",
+      "已婚妇女",
+      "恋物癖",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "卯水咲流"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-052"
   },
   {
     "id": 595177,
@@ -39,7 +93,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/SLK2VTQm.jpg",
@@ -60,7 +114,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/34fbed90375a9fe25d272d4ddc8bb64b.jpg",
@@ -68,6 +122,23 @@ window.PAGE_DATA = [
       "野々宫みさと"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-057"
+  },
+  {
+    "id": 590280,
+    "IDcode": "KSBJ-058",
+    "title": "[]落入陷阱被寝取的妻子 井川希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-058"
   },
   {
     "id": 78176,
@@ -84,7 +155,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b295f9565d7a23c3041baa75ea940361.jpg",
@@ -92,6 +163,54 @@ window.PAGE_DATA = [
       "柏木舞子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-059"
+  },
+  {
+    "id": 77884,
+    "IDcode": "KSBJ-060",
+    "title": "爆乳すぎる新しいお義母さん時田こずえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中文字幕",
+      "中出",
+      "成熟的女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "时田こずえ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-060"
+  },
+  {
+    "id": 77652,
+    "IDcode": "KSBJ-061",
+    "title": "マンションの住人に狙われた潮吹きマゾ妻加瀬ななほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "苗条",
+      "已婚妇女",
+      "多P",
+      "中文字幕",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "加濑七穗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-061"
   },
   {
     "id": 76611,
@@ -110,7 +229,7 @@ window.PAGE_DATA = [
       "巨乳",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241125-1/aaa62bb90c5b92a2ec79caec8038982a.jpg",
@@ -133,7 +252,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/67cf43b2447def229e14295971a069f2.jpg",
@@ -157,7 +276,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c6cf8dbbc7d3f286a7b192f3fc2cb53b.jpg",
@@ -181,7 +300,7 @@ window.PAGE_DATA = [
       "中出",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0a9060e603f5b2daf0383d17ffa426ad.jpg",
@@ -204,7 +323,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b12e0dc604bb10655af6444db6edb6bb.jpg",
@@ -227,7 +346,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e8afac965ce6241fc9595896826973d4.jpg",
@@ -235,6 +354,29 @@ window.PAGE_DATA = [
       "牧村彩香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-067"
+  },
+  {
+    "id": 81776,
+    "IDcode": "KSBJ-068",
+    "title": "マンションの住人に狙われた長身美脚マゾ妻 宮沢優里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "成熟的女人",
+      "口交",
+      "高"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "2020-01-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宫沢优里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-068"
   },
   {
     "id": 83622,
@@ -250,7 +392,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2020-01-19",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221229-1/1b6375fda805ce2e4c44fc28bb76dd2f.jpg",
@@ -280,7 +422,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241120-1/bdfff1d271698e146b30fff1e749fe1a.jpg",
@@ -288,6 +430,40 @@ window.PAGE_DATA = [
       "鹰宫ゆい"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-070"
+  },
+  {
+    "id": 592435,
+    "IDcode": "KSBJ-071",
+    "title": "CN 隔壁搬来的年轻单亲妈妈对中年的我说出“想要被抱住”&hellip;！？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-071"
+  },
+  {
+    "id": 166014,
+    "IDcode": "KSBJ-072",
+    "title": "息子の嫁はデカ尻川原かなえ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-072"
   },
   {
     "id": 75079,
@@ -303,7 +479,7 @@ window.PAGE_DATA = [
       "恋物癖",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2020-03-19",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/ccca6031f4d1533d0535fb29cdfcbbc1.jpg",
@@ -318,6 +494,57 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-073"
   },
   {
+    "id": 166015,
+    "IDcode": "KSBJ-074",
+    "title": "夫がEDに…欲求不満の解消は夫の弟で…吉澤ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-074"
+  },
+  {
+    "id": 166016,
+    "IDcode": "KSBJ-075",
+    "title": "夫の借金の為に肉体返済を迫られた美尻妻かなで自由",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-075"
+  },
+  {
+    "id": 166017,
+    "IDcode": "KSBJ-076",
+    "title": "エスカレートする義理の息子の嫌がらせ遥あやね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-076"
+  },
+  {
     "id": 407555,
     "IDcode": "KSBJ-080",
     "title": "试着撩老公的同事c",
@@ -325,12 +552,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1450d42e5009f58f17b7980c91d6385b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-080"
+  },
+  {
+    "id": 593662,
+    "IDcode": "KSBJ-082",
+    "title": "家庭内不伦～小叔与我的奸系～ 片濑仁美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-082"
+  },
+  {
+    "id": 593661,
+    "IDcode": "KSBJ-083",
+    "title": "迷上小叔的巨根 神雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-083"
   },
   {
     "id": 209317,
@@ -340,7 +597,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6c394c60b0f1d4af5e728e457776254e.jpg",
@@ -355,12 +612,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/22/59575_cover_2025-06-22_150230.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-086"
+  },
+  {
+    "id": 209611,
+    "IDcode": "KSBJ-087",
+    "title": "再会…君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-087"
   },
   {
     "id": 559902,
@@ -372,12 +644,57 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/df0b97944f3cce6f5fef8a6ecbfabc62.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-088"
+  },
+  {
+    "id": 209818,
+    "IDcode": "KSBJ-090",
+    "title": "息子の嫁の誘惑 AIKA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-090"
+  },
+  {
+    "id": 210528,
+    "IDcode": "KSBJ-093",
+    "title": "窈窕淑女君子好逑-武藤あやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-093"
+  },
+  {
+    "id": 210749,
+    "IDcode": "KSBJ-102",
+    "title": "自宅不倫 如月夏希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-102"
   },
   {
     "id": 520997,
@@ -387,7 +704,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://xing.sex8sex833.com/20250929/BsyiLFpJ/1.jpg",
@@ -408,7 +725,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230208-1/ef779c28121606a262455c214236449a.jpg",
@@ -419,6 +736,53 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-112"
   },
   {
+    "id": 539204,
+    "IDcode": "KSBJ-114",
+    "title": "息子の嫁を妄想NTR 八乃翼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-114"
+  },
+  {
+    "id": 97019,
+    "IDcode": "KSBJ-118",
+    "title": "哥哥的妻子 田中寧寧",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-118"
+  },
+  {
+    "id": 102638,
+    "IDcode": "KSBJ-119",
+    "title": "發現美乳媳婦外遇被引誘保密狂插內射 夏希栗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-119"
+  },
+  {
     "id": 225563,
     "IDcode": "KSBJ-120",
     "title": "儿媳的诱惑-钟梨星奈",
@@ -426,7 +790,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/b0e0e1a524ac19948c75bd10892f2eb0.jpg",
@@ -449,7 +813,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/2a70949cdf790a95b0e4157163d4ae0c.jpg",
@@ -457,6 +821,81 @@ window.PAGE_DATA = [
       "中野七绪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-123"
+  },
+  {
+    "id": 225581,
+    "IDcode": "KSBJ-124",
+    "title": "重逢-樱美雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-124"
+  },
+  {
+    "id": 212741,
+    "IDcode": "KSBJ-135",
+    "title": "允许自己被中出-大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-135"
+  },
+  {
+    "id": 592214,
+    "IDcode": "KSBJ-137",
+    "title": "我被性欲旺盛的弟妹诱惑…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-137"
+  },
+  {
+    "id": 212158,
+    "IDcode": "KSBJ-140",
+    "title": "性欲旺盛-純岡美乃理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-140"
+  },
+  {
+    "id": 203568,
+    "IDcode": "KSBJ-142",
+    "title": "淫乱女-桐山結羽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-142"
   },
   {
     "id": 79172,
@@ -472,7 +911,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/987a819e6eba0dcd96adf24b9969cb55.jpg",
@@ -480,6 +919,21 @@ window.PAGE_DATA = [
       "篠原ちとせ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-143"
+  },
+  {
+    "id": 212307,
+    "IDcode": "KSBJ-144",
+    "title": "再会-東條なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-144"
   },
   {
     "id": 79383,
@@ -495,7 +949,7 @@ window.PAGE_DATA = [
       "中出",
       "高"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2021-08-19",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/0yCQk2sh.jpg",
@@ -516,7 +970,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2021-08-19",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/fqE2X0g9.jpg",
@@ -539,7 +993,7 @@ window.PAGE_DATA = [
       "中出",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2021-08-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ae8c2d1e03ea6f0ad5f8a5d260307b7e.jpg",
@@ -565,7 +1019,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/d319141c4fcd6b7e9c6b91fb300faea7.jpg",
@@ -588,7 +1042,7 @@ window.PAGE_DATA = [
       "婆婆",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2021-09-21",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/aa506845d0d70e7c11db98ffa97f0a9c.jpg",
@@ -606,7 +1060,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://pic.douimg.cc/upload/vod/20250812-1/4e0e1f16cc64649a2a2eec70a8606e9b.jpg",
@@ -627,7 +1081,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2021-11-16",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/05bafe2cea40177e4ffbd9551dee651e.jpg",
@@ -644,12 +1098,94 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://pic20.anzise.com/pic/20220412/3e20f4cf6598a30cf56c9b4a99f555e7/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-171"
+  },
+  {
+    "id": 85158,
+    "IDcode": "KSBJ-173",
+    "title": "被我的公公强奸了-水谷あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "自慰",
+      "乱伦",
+      "中出",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水谷あおい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-173"
+  },
+  {
+    "id": 215643,
+    "IDcode": "KSBJ-175",
+    "title": "ksbj-175 自宅不倫-北川真由香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-175"
+  },
+  {
+    "id": 85148,
+    "IDcode": "KSBJ-177",
+    "title": "被他性欲旺盛的兄弟妻子所诱惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "自慰",
+      "乳房",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-177"
+  },
+  {
+    "id": 85131,
+    "IDcode": "KSBJ-178",
+    "title": "被丈夫的手下强奸一个星期",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "自慰",
+      "魔鬼系",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "田中寧寧"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-178"
   },
   {
     "id": 85138,
@@ -666,7 +1202,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/05/68920b93c92318f97d854337/cover.jpg",
@@ -689,7 +1225,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c6f7698bc99dfdde5fd94/cover.jpg",
@@ -706,12 +1242,100 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/01/688c723a98bc99dfdde60a78/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-183"
+  },
+  {
+    "id": 81032,
+    "IDcode": "KSBJ-184",
+    "title": "新婚的侄女勾引叔叔-小梅えな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "自慰",
+      "乱伦",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小梅惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-184"
+  },
+  {
+    "id": 85188,
+    "IDcode": "KSBJ-186",
+    "title": "勾引儿子的妻子-香椎佳穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "白天出轨",
+      "无毛",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-186"
+  },
+  {
+    "id": 85196,
+    "IDcode": "KSBJ-187",
+    "title": "在没有丈夫监视的情况下进行家庭通奸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "出轨",
+      "乳房",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-187"
+  },
+  {
+    "id": 217205,
+    "IDcode": "KSBJ-189",
+    "title": "ksbj-189 儿子妻子的幻想-如月美嘉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-189"
   },
   {
     "id": 566010,
@@ -721,12 +1345,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/dSVz8Qnv.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-191"
+  },
+  {
+    "id": 217648,
+    "IDcode": "KSBJ-193",
+    "title": "ksbj-193 丈夫的梦想",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-193"
   },
   {
     "id": 566009,
@@ -736,12 +1375,60 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/Tlbm02Un.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-194"
+  },
+  {
+    "id": 85221,
+    "IDcode": "KSBJ-196",
+    "title": "留在家里的儿子-織田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "婆婆",
+      "成熟的女人",
+      "口交",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "織田真子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-196"
+  },
+  {
+    "id": 85222,
+    "IDcode": "KSBJ-198",
+    "title": "肮脏的妻子-水上由紀恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "出轨",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水上由纪恵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-198"
   },
   {
     "id": 85212,
@@ -758,7 +1445,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/9137f12a093e1be4c06b0e189b90a415.jpg",
@@ -781,7 +1468,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250329-1/dc85ff5c2532595bb276800858f5f91a.jpg",
@@ -804,7 +1491,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250402-1/74835036a5f9d96068544c2177556bb0.jpg",
@@ -819,7 +1506,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://pic34.anzise.com/pic/20220720/d7cf2ea6c286ecfec8d760bc99e9edc6/1.jpg",
@@ -834,7 +1521,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/07425889e4005b56003f51c44614fadd.jpg",
@@ -856,7 +1543,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/d8e5f5863e3a81114ee33288e4bb2935.jpg",
@@ -873,7 +1560,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250728/L1OdMh4z/1.jpg",
@@ -888,7 +1575,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1ba5540d2622c7e3a3730bd69b900847.jpg",
@@ -910,7 +1597,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250402-1/f40f766280bfb4120e1374691e5c289c.jpg",
@@ -929,7 +1616,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250728/EioAa01Q/1.jpg",
@@ -951,7 +1638,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/32b8a2d3658a6595469fc219753f62f0.jpg",
@@ -975,12 +1662,34 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/e08fb7bc4b65a79fd309c7b77cbc2296.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-213"
+  },
+  {
+    "id": 85189,
+    "IDcode": "KSBJ-214",
+    "title": "再会…。 青田悠華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出轨",
+      "自慰",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "2022-09-06",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-214"
   },
   {
     "id": 85203,
@@ -996,7 +1705,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240301-1/4e6f226a7201dfd9a14e2b4a2346f197.jpg",
@@ -1015,12 +1724,61 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250728/lkkQ8t25/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-216"
+  },
+  {
+    "id": 69391,
+    "IDcode": "KSBJ-217",
+    "title": "我哥哥的妻子-東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "荡妇",
+      "已婚妇女",
+      "自慰",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "东凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-217"
+  },
+  {
+    "id": 69133,
+    "IDcode": "KSBJ-218",
+    "title": "男人的肮脏的妻子-二宮和香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "自慰",
+      "无毛",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "二宮和香",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-218"
   },
   {
     "id": 69140,
@@ -1037,7 +1795,7 @@ window.PAGE_DATA = [
       "单体作品",
       "放尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/9d77c536797d7039121bbc8d10ee7a3b.jpg",
@@ -1061,7 +1819,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250414-1/72d3fd773303e4e18e3e952093258d69.jpg",
@@ -1085,7 +1843,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "2022-11-12",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250326-1/73c1e6b3fe3ce92338dc6d4cddddc43e.jpg",
@@ -1093,6 +1851,46 @@ window.PAGE_DATA = [
       "インフィニティ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-224"
+  },
+  {
+    "id": 67854,
+    "IDcode": "KSBJ-226",
+    "title": "哥哥的妻子-夏川あゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "自慰",
+      "无毛",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏川步美",
+      "岩下たろう"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-226"
+  },
+  {
+    "id": 167195,
+    "IDcode": "KSBJ-227",
+    "title": "我发情了-松河智奈美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KSB企畫",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-227"
   },
   {
     "id": 69119,
@@ -1110,7 +1908,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250322-1/b11cc420409f65aafdd6a2dfaf05e8f8.jpg",
@@ -1129,7 +1927,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230106/S0BqR54c/1.jpg",
@@ -1151,7 +1949,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250329-1/49ec623059be27475d4b3bc94045429f.jpg",
@@ -1166,792 +1964,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KSB企畫",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230121/YyIXlwjz/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-232"
-  },
-  {
-    "id": 534922,
-    "IDcode": "KSBJ-235",
-    "title": "むっちむち豊満ボディ！爆乳×熟女×中出し20人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231120/ksbj235pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-235"
-  },
-  {
-    "id": 69081,
-    "IDcode": "KSBJ-237",
-    "title": "見境なく男を喰い漁るセックス依存妻 佐久間泉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "胖女人",
-      "中文字幕",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230928/ksbj237pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-237"
-  },
-  {
-    "id": 535027,
-    "IDcode": "KSBJ-238",
-    "title": "性欲旺盛な弟の嫁に诱惑されて…。総集编",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231228/ksbj238pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-238"
-  },
-  {
-    "id": 535178,
-    "IDcode": "KSBJ-240",
-    "title": "熟女だから中出しOK！？12人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20240225/ksbj240pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-240"
-  },
-  {
-    "id": 549711,
-    "IDcode": "KSBJ-242",
-    "title": "夫の留守中に义理の息子を喰らう淫乱义母",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231006/ksbj242pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-242"
-  },
-  {
-    "id": 564397,
-    "IDcode": "KSBJ-246",
-    "title": "美熟女がランジェリー姿で闷絶オナニー13人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/fCCDeS5b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-246"
-  },
-  {
-    "id": 564364,
-    "IDcode": "KSBJ-247",
-    "title": "パパ活诈欺を缲り返す悪い女にお仕置き寸止め调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230524/57e8n61J/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-247"
-  },
-  {
-    "id": 564360,
-    "IDcode": "KSBJ-248",
-    "title": "熟女だから中出しOK！？12人VOL.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230524/XuWmiLvu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-248"
-  },
-  {
-    "id": 548700,
-    "IDcode": "KSBJ-250",
-    "title": "色っぽい嫁BEST8人VOL.03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/yQGo58Gt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-250"
-  },
-  {
-    "id": 92015,
-    "IDcode": "KSBJ-251",
-    "title": "熟れた肉体で誘惑してくる底なしの性欲をもつ痴女すぎる叔母さん 美原咲子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨大屁股",
-      "中文字幕",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20240130/ksbj251pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-251"
-  },
-  {
-    "id": 548699,
-    "IDcode": "KSBJ-252",
-    "title": "夫のNTR愿望のために夫の前で他人棒を受け入れる献身美人妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/84Ekezrm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-252"
-  },
-  {
-    "id": 548708,
-    "IDcode": "KSBJ-253",
-    "title": "义父の肉便器として饲われる嫁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/WEFNmiv9/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-253"
-  },
-  {
-    "id": 548698,
-    "IDcode": "KSBJ-254",
-    "title": "デカ尻熟女16人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/Nn0cKzeE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-254"
-  },
-  {
-    "id": 548697,
-    "IDcode": "KSBJ-256",
-    "title": "ショートカットの美人若妻に浓厚中出し12人VOL.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230722/SiZym3lG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-256"
-  },
-  {
-    "id": 563859,
-    "IDcode": "KSBJ-257",
-    "title": "浮気をされた腹いせに家政夫で欲求不満を晴らす淫乱妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/oeALzYTP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-257"
-  },
-  {
-    "id": 563851,
-    "IDcode": "KSBJ-258",
-    "title": "ショートカットの熟女は中出しOK！？12人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230731/tqLwb2yq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-258"
-  },
-  {
-    "id": 92013,
-    "IDcode": "KSBJ-259",
-    "title": "三十岁逐渐高涨的性欲-AYUMI",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "巨大屁股",
-      "业余",
-      "无毛",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836e520a0b87615b2d5bb54/cover.jpg",
-    "actress": [
-      "岩下たろう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-259"
-  },
-  {
-    "id": 563589,
-    "IDcode": "KSBJ-260",
-    "title": "デカ尻熟女15人VOL.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230825/MTQ24GY8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-260"
-  },
-  {
-    "id": 548261,
-    "IDcode": "KSBJ-261",
-    "title": "舐めたくて仕方がないの…。月に一度访れる冲动！舐め好き淫乱発情奥さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/Wq4TQXwH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-261"
-  },
-  {
-    "id": 563500,
-    "IDcode": "KSBJ-262",
-    "title": "酔っぱらって无防备な姿で爆睡中の奥さんと二人っきりの状况に！イタズラだけのつもりが理性が吹っ飞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230906/A0WN6CCy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-262"
-  },
-  {
-    "id": 18665,
-    "IDcode": "KSBJ-263",
-    "title": "被义兄强奸-黑川蓳",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "打手槍",
-      "無毛",
-      "脅迫做愛",
-      "出軌",
-      "苗條"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/6f5ffc678a272bb74c3d8cd3197b644c.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-263"
-  },
-  {
-    "id": 548143,
-    "IDcode": "KSBJ-264",
-    "title": "泥●NTR野球拳！？旦那が横で寝ていてもお构いなし！胜っても负けても中出し本番！？",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230917/6AnJyCF1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-264"
-  },
-  {
-    "id": 92014,
-    "IDcode": "KSBJ-265",
-    "title": "愛上小叔的巨根-百永紗里奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "巨大阴茎",
-      "已婚妇女",
-      "戏剧",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/439efd239a21f6a8f2a0a81cf1185edf.jpg",
-    "actress": [
-      "黑川纱里奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-265"
-  },
-  {
-    "id": 563249,
-    "IDcode": "KSBJ-266",
-    "title": "娘婿の朝勃ちチ○ポに欲情する未亡人义母",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231001/lZJES6fq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-266"
-  },
-  {
-    "id": 563065,
-    "IDcode": "KSBJ-267",
-    "title": "夫の部下を挑発するド淫乱奥さん！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231015/74F624qK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-267"
-  },
-  {
-    "id": 563059,
-    "IDcode": "KSBJ-268",
-    "title": "义弟に胁されて…。夫の弟は元恋人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231015/pq43yPKW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-268"
-  },
-  {
-    "id": 563636,
-    "IDcode": "KSBJ-269",
-    "title": "息子の受験合格の为に肉体を捧げたお受験ママ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/72bebvca/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-269"
-  },
-  {
-    "id": 563767,
-    "IDcode": "KSBJ-270",
-    "title": "やっぱり熟女が一番エロい！！22人VOL.05",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231105/o0N3tlAE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-270"
-  },
-  {
-    "id": 594422,
-    "IDcode": "KSBJ-271",
-    "title": "危険日の密会 义弟の精子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231130/TWFJbwum/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-271"
-  },
-  {
-    "id": 547309,
-    "IDcode": "KSBJ-272",
-    "title": "もしも邻の奥さんが、仆のチ○ポを狙ってきたら…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231130/VJSu0Krm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-272"
-  },
-  {
-    "id": 90911,
-    "IDcode": "KSBJ-274",
-    "title": "パパ活詐欺を繰り返す悪い女にお仕置き寸止め調教 橘メアリー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "捆绑",
-      "玩具",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240301-1/f4fa4baa88a1cabde4b7dfeb4c497772.jpg",
-    "actress": [
-      "橘瑪麗",
-      "岩下たろう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-274"
-  },
-  {
-    "id": 562697,
-    "IDcode": "KSBJ-275",
-    "title": "义弟に寝取られた兄の嫁は背徳性交に溺れる！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231204/Vw3g6rSP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-275"
-  },
-  {
-    "id": 562611,
-    "IDcode": "KSBJ-277",
-    "title": "美熟女のエロテク超絶フェラチオ16人VOL.03",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231218/IgDGdCkF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-277"
-  },
-  {
-    "id": 16932,
-    "IDcode": "KSBJ-280",
-    "title": "把老公带来的继子处男身夺走的巨乳义母",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "亂倫",
-      "繼母",
-      "勾引・誘惑",
-      "中出",
-      "巨乳",
-      "口交",
-      "劇情"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251110-1/47657cd035730524a0c59ee1753a449b.jpg",
-    "actress": [
-      "塚田詩織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-280"
-  },
-  {
-    "id": 546994,
-    "IDcode": "KSBJ-281",
-    "title": "クチュクチュ音を立て、ビクビクとイキまくる美熟女のオナニー17连発！！VOL.02",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240101/WrUOWZfd/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-281"
-  },
-  {
-    "id": 92024,
-    "IDcode": "KSBJ-282",
-    "title": "被性欲旺盛的弟媳诱惑-大川月乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "乱伦",
-      "乳房",
-      "中出",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251006-1/56832a1d71bbe3480c195b667a71241a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-282"
-  },
-  {
-    "id": 92025,
-    "IDcode": "KSBJ-283",
-    "title": "不伦觉醒的M性癖-上户真理",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "出轨",
-      "自慰",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251019-1/9048edf1540ddf20d649b85f050b058f.jpg",
-    "actress": [
-      "上戶真理"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-283"
-  },
-  {
-    "id": 92027,
-    "IDcode": "KSBJ-285",
-    "title": "一位欲求不满的妻子-富岡ありさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "巨大屁股",
-      "自慰",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250928-1/92003160f7903af1cc07c6c05e75be70.jpg",
-    "actress": [
-      "富岡亞里沙"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-285"
-  },
-  {
-    "id": 561971,
-    "IDcode": "KSBJ-287",
-    "title": "夫の部下と…。若いイチモツに狂う熟女たち",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240205/BrDlPECv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-287"
-  },
-  {
-    "id": 471219,
-    "IDcode": "KSBJ-288",
-    "title": "マゾ調教を求めてやってくる性処理専門肉感パートタイマー 彩乃由香里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a3f2cac813dc779d961c1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-288"
-  },
-  {
-    "id": 92023,
-    "IDcode": "KSBJ-289",
-    "title": "为了丈夫的债务被迫用肉体偿还-井上綾子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a42f1ac813dc779d961ef/cover.jpg",
-    "actress": [
-      "井上綾子",
-      "テッペイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-289"
-  },
-  {
-    "id": 546349,
-    "IDcode": "KSBJ-290",
-    "title": "突き抜ける快感にイキ狂う！杭打ちピストン骑乘位43人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240219/W82MHs7o/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-290"
-  },
-  {
-    "id": 15656,
-    "IDcode": "KSBJ-292",
-    "title": "作为父亲活跃的儿子的妻子兼岳父本田桃桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗條",
-      "亂倫",
-      "美腳",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "兒媳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美臀",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "手指插入",
-      "乱伦",
-      "乳交",
-      "無毛",
-      "黑絲",
-      "女上位"
-    ],
-    "type": "",
-    "company": "KSB企畫",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401094254685685.jpg",
-    "actress": [
-      "本田桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KSBJ-292"
   }
 ];

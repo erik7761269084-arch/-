@@ -1,5 +1,56 @@
 window.PAGE_DATA = [
   {
+    "id": 541025,
+    "IDcode": "315ETQR-004",
+    "title": "お兄ちゃんのマッサージで感じちゃってイっちゃう妹月本爱第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-004"
+  },
+  {
+    "id": 541024,
+    "IDcode": "315ETQR-008",
+    "title": "お兄ちゃんにオナニーを见られてそのままSEXしちゃう妹波木はるか第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-008"
+  },
+  {
+    "id": 578790,
+    "IDcode": "315ETQR-033",
+    "title": "生中出しOKセーラー服美少女リフレ坂咲みほ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-033"
+  },
+  {
     "id": 539336,
     "IDcode": "315ETQR-034",
     "title": "お兄ちゃんにオナニー见られてSEXしちゃう",
@@ -9,7 +60,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221013/2Dz0YKGR/1.jpg",
@@ -26,12 +77,354 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221013/dRhV3FfH/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-035"
+  },
+  {
+    "id": 98156,
+    "IDcode": "315ETQR-043",
+    "title": "からかい上手の教え子とエッチしよ まなかかな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "业余",
+      "美少女电影",
+      "中出",
+      "制服",
+      "素人作品",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-06-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "まなかかな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-043"
+  },
+  {
+    "id": 578789,
+    "IDcode": "315ETQR-047",
+    "title": "10万円贳って马乘り逆レイプされる仆迹美しゅり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-047"
+  },
+  {
+    "id": 102812,
+    "IDcode": "315ETQR-058",
+    "title": "ベロチュウイチャラブ制服リフレ 南なつき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "素人",
+      "礼仪小姐",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-09-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "南なつき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-058"
+  },
+  {
+    "id": 98457,
+    "IDcode": "315ETQR-061",
+    "title": "ベロチュウイチャラブ制服リフレ 岬澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "素人",
+      "礼仪小姐",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-10-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "岬澪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-061"
+  },
+  {
+    "id": 98255,
+    "IDcode": "315ETQR-062",
+    "title": "ベロチュウイチャラブ制服リフレ 一条みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "礼仪小姐",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-11-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "一条美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-062"
+  },
+  {
+    "id": 102950,
+    "IDcode": "315ETQR-063",
+    "title": "恥じらいお漏らし制服イメクラ 明海こう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影",
+      "口交",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-11-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小泉真理"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-063"
+  },
+  {
+    "id": 103011,
+    "IDcode": "315ETQR-065",
+    "title": "生中出しOKセーラー服美少女リフレ 枢木あおい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "素人",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影",
+      "口交",
+      "过膝袜"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-11-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "枢木葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-065"
+  },
+  {
+    "id": 98253,
+    "IDcode": "315ETQR-066",
+    "title": "ベロチュウイチャラブ制服リフレ 八尋麻衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "素人",
+      "礼仪小姐",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-12-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "八寻麻衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-066"
+  },
+  {
+    "id": 98526,
+    "IDcode": "315ETQR-069",
+    "title": "生中出しOKセーラー服美少女リフレ 阿由葉あみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "素人",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影",
+      "口交",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2018-12-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "阿由葉あみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-069"
+  },
+  {
+    "id": 98454,
+    "IDcode": "315ETQR-074",
+    "title": "制服美少女を独り占めフルコース！春埼めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "素人",
+      "美少女电影",
+      "中出",
+      "素人作品",
+      "口交",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2019-01-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "春埼芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-074"
+  },
+  {
+    "id": 578402,
+    "IDcode": "315ETQR-080",
+    "title": "制服美少女を独り占めフルコース！有栖るる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-080"
+  },
+  {
+    "id": 98409,
+    "IDcode": "315ETQR-083",
+    "title": "制服美少女を独り占めフルコース！宮沢ちはる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "美少女电影",
+      "中出",
+      "素人作品",
+      "制服",
+      "口交",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2019-04-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宫泽千春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-083"
+  },
+  {
+    "id": 102913,
+    "IDcode": "315ETQR-105",
+    "title": "生中出しOKセーラー服美少女リフレ 石原理央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "素人",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影",
+      "水手服",
+      "口交",
+      "过膝袜",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2019-10-24",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "石原理央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-105"
+  },
+  {
+    "id": 98251,
+    "IDcode": "315ETQR-108",
+    "title": "生中出しOKセーラー服美少女リフレ 野々原なずな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "素人",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影",
+      "水手服",
+      "口交",
+      "过膝袜",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2019-11-29",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "野野原薺"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-108"
   },
   {
     "id": 76254,
@@ -49,7 +442,7 @@ window.PAGE_DATA = [
       "素人作品",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/bd5370a8918187596fea48a95769c4d7.jpg",
@@ -74,7 +467,7 @@ window.PAGE_DATA = [
       "素人作品",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/549cded1744df8f5f9b360a261658f54.jpg",
@@ -102,7 +495,7 @@ window.PAGE_DATA = [
       "过膝袜",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/2012637dead1efce6fdfc7ef0f1c33b1.jpg",
@@ -127,7 +520,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/2f0cea1003e0276834068941cf2e84f9.jpg",
@@ -152,7 +545,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/197332dffdbebe62dda80ad656e49342.jpg",
@@ -177,7 +570,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/73026330f99e5d23c8626966cc890434.jpg",
@@ -185,6 +578,34 @@ window.PAGE_DATA = [
       "御坂莉亚"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-118"
+  },
+  {
+    "id": 98213,
+    "IDcode": "315ETQR-119",
+    "title": "生中出しOKセーラー服美少女リフレ 深田みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "素人",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影",
+      "水手服",
+      "口交",
+      "过膝袜",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2020-01-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小森美久露"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-119"
   },
   {
     "id": 83610,
@@ -203,7 +624,7 @@ window.PAGE_DATA = [
       "过膝袜",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "2020-01-31",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221228-1/d927f24ae73cf979aa14d0100d89d38c.jpg",
@@ -211,6 +632,72 @@ window.PAGE_DATA = [
       "夏川海"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-120"
+  },
+  {
+    "id": 83607,
+    "IDcode": "315ETQR-121",
+    "title": "ず～っと舌出しアヘ顔絶頂！！新田みれい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "美少女电影",
+      "中出",
+      "素人作品",
+      "企画",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2020-01-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "新田みれい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-121"
+  },
+  {
+    "id": 83605,
+    "IDcode": "315ETQR-123",
+    "title": "可愛い発情妹と排卵日子作り生活 悠月リアナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "自慰",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "妹妹",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "2020-03-10",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "悠月リアナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-123"
+  },
+  {
+    "id": 578796,
+    "IDcode": "315ETQR-124",
+    "title": "生中出しOKセーラー服美少女リフレ 神坂ひなの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-124"
   },
   {
     "id": 76219,
@@ -228,7 +715,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/5b6ce8dca6ca1f85d8f549c5b4c7792a.jpg",
@@ -253,7 +740,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dd62c8dc7aaaed82fd944ebb7e700309.jpg",
@@ -278,7 +765,7 @@ window.PAGE_DATA = [
       "素人作品",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/00653c6d1a669d040beec9c213d1bb5a.jpg",
@@ -303,7 +790,7 @@ window.PAGE_DATA = [
       "妹妹",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c99088ac319bbb0b4833c0df79af651b.jpg",
@@ -311,6 +798,40 @@ window.PAGE_DATA = [
       "岬梓沙"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-128"
+  },
+  {
+    "id": 578795,
+    "IDcode": "315ETQR-132",
+    "title": "生中出しOKセーラー服美少女リフレ 柊るい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-132"
+  },
+  {
+    "id": 589980,
+    "IDcode": "315ETQR-133",
+    "title": "有别扭性癖的两人的变态攻防战 渚光希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-133"
   },
   {
     "id": 547832,
@@ -322,7 +843,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200821-1/691e60dc235e72e9616334fc860fa14f.jpg",
@@ -339,7 +860,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200822-1/18d4734a74e9d3e0f65eaa718735e9b0.jpg",
@@ -356,7 +877,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/cb409028c9ec0d28a5c8289cb985d025.jpg",
@@ -373,7 +894,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/b7ca22487c7712363b109f979bd4de50.jpg",
@@ -390,7 +911,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240221-1/4f360d9d304a6892d69d547426beaa54.jpg",
@@ -407,7 +928,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240219-1/4047f9254b5cecc1cf387737ff31fc07.jpg",
@@ -425,12 +946,46 @@ window.PAGE_DATA = [
       "素人",
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/24/cdcc75cc2f5b7d539a1110d6c78b468a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-162"
+  },
+  {
+    "id": 567208,
+    "IDcode": "315ETQR-176",
+    "title": "【妄想主観】セーラー服を着た美少女となまなかだし性交。Hikaru 03 皆月ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-176"
+  },
+  {
+    "id": 567211,
+    "IDcode": "315ETQR-206",
+    "title": "【妄想主観】アヘ颜Wピースでイキ狂う キメセクにハマった女学生 広瀬なるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-206"
   },
   {
     "id": 88012,
@@ -448,7 +1003,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/93721d39ecbdf9216b58b1cb1eb9e794.jpg",
@@ -473,7 +1028,7 @@ window.PAGE_DATA = [
       "素人作品",
       "姐姐"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/56db328f182b81ba2414880bb395f180.jpg",
@@ -490,7 +1045,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/93fe261c9a200b8af4b6a1f0a775b219.jpg",
@@ -507,7 +1062,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/005a747701b0b4cc49b4713a916434e3.jpg",
@@ -524,7 +1079,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/5dc587c0b54f14d3c6efc065abec91c9.jpg",
@@ -541,7 +1096,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/81736d46a0517657ba84b58e9d2b02bc.jpg",
@@ -558,7 +1113,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/a6c16ed978745a3ab4a339fbe65cd232.jpg",
@@ -575,7 +1130,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/91a5d18f81d1112ebf01f9ce03b29d0f.jpg",
@@ -592,7 +1147,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/e83d5b4c389d6d9527a481d8d02f28b2.jpg",
@@ -617,7 +1172,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/8740a2111fe8516c113bab4284bd417e.jpg",
@@ -642,7 +1197,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/971aa002cc54454b182eeb36920f614e.jpg",
@@ -661,7 +1216,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00395pl.jpg",
@@ -678,7 +1233,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00396pl.jpg",
@@ -695,7 +1250,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00397pl.jpg",
@@ -712,12 +1267,46 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230409/etqr00398pl.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-398"
+  },
+  {
+    "id": 578991,
+    "IDcode": "315ETQR-399",
+    "title": "【妄想主観】犯●れたがる受付嬢 MEI",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-399"
+  },
+  {
+    "id": 579070,
+    "IDcode": "315ETQR-400",
+    "title": "【妄想主観】犯●れたがる受付嬢 MIKAKO",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-400"
   },
   {
     "id": 579018,
@@ -729,12 +1318,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00401pl.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-401"
+  },
+  {
+    "id": 579017,
+    "IDcode": "315ETQR-402",
+    "title": "【妄想主観】犯●れたがる受付嬢 HINA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Eromanga",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-402"
   },
   {
     "id": 579031,
@@ -747,7 +1353,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00403pl.jpg",
@@ -765,7 +1371,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00404pl.jpg",
@@ -783,7 +1389,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00405pl.jpg",
@@ -801,7 +1407,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230407/etqr00406pl.jpg",
@@ -818,7 +1424,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/P6Fllapo/1.jpg",
@@ -835,7 +1441,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/CMNqlvKk/1.jpg",
@@ -852,7 +1458,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/SbwBOWn4/1.jpg",
@@ -869,7 +1475,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230221/o21phtYm/1.jpg",
@@ -887,7 +1493,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/k39Nh6xY/1.jpg",
@@ -905,7 +1511,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/6qhN5UP9/1.jpg",
@@ -923,7 +1529,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230220/OfkDoXyE/1.jpg",
@@ -940,7 +1546,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/nXiYLDfy.jpg",
@@ -957,7 +1563,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00469pl.jpg!320x216.jpg",
@@ -974,7 +1580,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00470pl.jpg!320x216.jpg",
@@ -991,7 +1597,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00475pl.jpg!320x216.jpg",
@@ -1008,7 +1614,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230921/etqr00477pl.jpg!320x216.jpg",
@@ -1025,7 +1631,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/f69TfTZ8/1.jpg",
@@ -1042,7 +1648,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/SnwkYk6Z/1.jpg",
@@ -1059,7 +1665,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/yHVkUWgb/1.jpg",
@@ -1076,7 +1682,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/VcjO581t/1.jpg",
@@ -1093,7 +1699,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/SBYqoedB/1.jpg",
@@ -1110,7 +1716,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/0fTxGhGH/1.jpg",
@@ -1127,7 +1733,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/JbzdNhCH/1.jpg",
@@ -1144,7 +1750,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/pV0zc9io/1.jpg",
@@ -1161,7 +1767,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250516-1/993e5fcaccec08110b20a296d4a59ca6.jpg",
@@ -1178,7 +1784,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00509pl.jpg!320x216.jpg",
@@ -1195,7 +1801,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240202/etqr00510pl.jpg!320x216.jpg",
@@ -1212,7 +1818,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed33f352c12b4e68492f4b/cover.jpg",
@@ -1229,7 +1835,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed32fc52c12b4e68492f48/cover.jpg",
@@ -1246,7 +1852,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/14/68ed337852c12b4e68492f4a/cover.jpg",
@@ -1263,7 +1869,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8dec87f3b7c92907398d4/cover.jpg",
@@ -1280,7 +1886,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68a8de627f3b7c92907398b7/cover.jpg",
@@ -1297,7 +1903,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa4c655f03a092cf6fb7ea/cover.jpg",
@@ -1314,7 +1920,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250919-1/ccb651acd6b97ca18e13498dbb1c51b9.jpg",
@@ -1331,7 +1937,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e777f98bc99dfdd032fe1/cover.jpg",
@@ -1348,28 +1954,11 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Eromanga",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e78c998bc99dfdd033050/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-563"
-  },
-  {
-    "id": 463588,
-    "IDcode": "315ETQR-564",
-    "title": "色情到让人觉得很蠢…无套中出 穿着制服的淫荡女OO下流性交 甜蛮玩特化 NANA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "Eromanga",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e787c98bc99dfdd03302b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=315ETQR-564"
   }
 ];

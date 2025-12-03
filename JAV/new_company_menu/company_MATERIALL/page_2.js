@@ -1,5 +1,221 @@
 window.PAGE_DATA = [
   {
+    "id": 16505,
+    "IDcode": "MTALL-102",
+    "title": "超越阴蒂的乳头高潮-橘メアリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "巨尻",
+      "美少女",
+      "女上位",
+      "內衣",
+      "胸控・戀乳癖",
+      "乳交",
+      "美乳",
+      "中出",
+      "口交",
+      "後入",
+      "性感",
+      "少女",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240303-1/b1a1c324948ff4c4464ce4e7eb4ba874.jpg",
+    "actress": [
+      "橘瑪麗"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-102"
+  },
+  {
+    "id": 16283,
+    "IDcode": "MTALL-103",
+    "title": "据说只要成为正式演员-五日市芽依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "多P",
+      "苗條",
+      "凌辱",
+      "美少女",
+      "美腳",
+      "JK校服",
+      "胸控・戀乳癖",
+      "美乳",
+      "制服",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "潮吹",
+      "淫亂",
+      "中出",
+      "少女",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "美少女電影",
+      "手指插入",
+      "乳交",
+      "學校"
+    ],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240404-1/0b8a3742ec2f11ef950086917571c78b.jpg",
+    "actress": [
+      "五日市芽依",
+      "イセドン内村",
+      "ニック",
+      "七尾神"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-103"
+  },
+  {
+    "id": 16288,
+    "IDcode": "MTALL-104",
+    "title": "對性漠不關心的花樣滑冰運動員知花しおん在特級強化教練的無情按摩下變得沉迷於快感。5天的乳頭直立訓練。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "苗條",
+      "放尿",
+      "凌辱",
+      "美少女",
+      "緊身衣",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "健身房",
+      "口交",
+      "性感",
+      "潮吹",
+      "中出",
+      "少女",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "按摩・物理治療・美容",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "2024-02-22",
+    "cover_url": "https://picture.yoshiclub.xyz/20240215/c4ec5e73-9a72-4f03-950a-294a5395b238.jpg",
+    "actress": [
+      "知花しおん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-104"
+  },
+  {
+    "id": 546053,
+    "IDcode": "MTALL-105",
+    "title": "【撮影】Gcup乳首开発ポルチオ超え乳首アクメ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240316/zHg6JpsL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-105"
+  },
+  {
+    "id": 546049,
+    "IDcode": "MTALL-106",
+    "title": "“今日はどっちにする？”不特定多数の男を连れ込み定期的におつまみセックスする刚毛ビッチ母娘丼アパート",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240316/MGHAuarE/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-106"
+  },
+  {
+    "id": 105048,
+    "IDcode": "MTALL-108",
+    "title": "可以上垒的健全沙龙店女郎-稻荷步",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "礼仪小姐",
+      "口交",
+      "手淫",
+      "淫语",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20240521-1/bc94adaed103e0a82b43edff457e13dd.jpg",
+    "actress": [
+      "稻荷步"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-108"
+  },
+  {
+    "id": 546048,
+    "IDcode": "MTALL-109",
+    "title": "シェアハウスでソープ勤めがバレて…大嫌いな风俗嬢軽视の男たちに自室で强制ナマ中出しされた泡姫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240316/h4JjJMCi/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-109"
+  },
+  {
+    "id": 15652,
+    "IDcode": "MTALL-110",
+    "title": "Magic Mirror x Materialall 慶典獨家！街角連續捕捉素人巨乳100cm J罩杯！大量噴出而渾身溼透的反轉南浸中出SP！鬆本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "美乳",
+      "中出",
+      "蕩婦",
+      "巨乳",
+      "企畫",
+      "公共場所",
+      "女優"
+    ],
+    "type": "有码",
+    "company": "MATERIALL",
+    "publish_date": "2024-04-11",
+    "cover_url": "https://picture.yoshiclub.xyz/20240403/20240403231935723723.jpg",
+    "actress": [
+      "松本菜奈実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MTALL-110"
+  },
+  {
     "id": 561059,
     "IDcode": "MTALL-111",
     "title": "【脳イキしてみる？】小悪魔淫语で脳と金玉がトロける最高のオナサポASMR",
@@ -7,7 +223,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240424/SjviCmi0/1.jpg",
@@ -24,7 +240,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240424/8hylKOEq/1.jpg",
@@ -39,7 +255,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240424/rPDlYFw4/1.jpg",
@@ -54,7 +270,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240424/ZroMpNTx/1.jpg",
@@ -98,7 +314,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/ba0f40def867582c95f13fce8a0f43de.jpg",
@@ -152,7 +368,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/3aca22c61999af99159529be97ae8bd1.jpg",
@@ -189,7 +405,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/12ff49c00088233154b1f1ffc8ebfa46.jpg",
@@ -230,7 +446,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/70eb7c62b9880e3e69446a75cf90eaf9.jpg",
@@ -264,7 +480,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/d968aa7bc0b60bcc475a76636a21a607.jpg",
@@ -304,7 +520,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "乳交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/f9e8361c5a13190ca6a753eee0c9f04a.jpg",
@@ -343,7 +559,7 @@ window.PAGE_DATA = [
       "乳交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/6918caa2594a8de3a708f134b8ecbabb.jpg",
@@ -393,7 +609,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/6edc9b4d2dd2875de6c345c81e5daa2d.jpg",
@@ -430,7 +646,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/725437780cc5f8bbafefc7dfc6940f90.jpg",
@@ -454,7 +670,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/3e62542f5e5a6d1da367a15dad88b330.jpg",
@@ -506,7 +722,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/acbf47a78eb851722233cb5732a1ff19.jpg",
@@ -529,7 +745,7 @@ window.PAGE_DATA = [
       "淫语",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/ff2f83005f0ae727c9c7a0cd84b27530.jpg",
@@ -552,7 +768,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/59c894e8133d10f4df08b9c4a5383ec4.jpg",
@@ -602,7 +818,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/96d5f6f21c3c55c8cc2e88b0d8f91382.jpg",
@@ -645,7 +861,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/bf28fc45f4c7c7168d6f89e480dbfc53.jpg",
@@ -690,7 +906,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/080978f2b4fe9027a1c76a1407f91a17.jpg",
@@ -745,7 +961,7 @@ window.PAGE_DATA = [
       "女奴",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/67895c725d57b64bfd9bcea9/cover.jpg",
@@ -778,7 +994,7 @@ window.PAGE_DATA = [
       "顏射",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/f74d3e82d11da9d28e8191c2fc8cad50.jpg",
@@ -814,7 +1030,7 @@ window.PAGE_DATA = [
       "口交",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/99a12caea690dd56af9f8bb660c65f13.jpg",
@@ -854,7 +1070,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/d13a56d0d0b278c4264ab2aae80fad74.jpg",
@@ -871,7 +1087,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/d571d60724a7621aff7a610e262ddef3.jpg",
@@ -906,7 +1122,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/6fe4edd828aaa3bee61062b2d672fc78.jpg",
@@ -962,7 +1178,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6788fb115d57b64bfd6e579f/cover.jpg",
@@ -1000,7 +1216,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/6e0f0695fc8b1f1a4bb36af33fcaaf1b.jpg",
@@ -1051,7 +1267,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250801-1/f7914d9a19e6419b2acf7bce929b3a5b.jpg",
@@ -1101,7 +1317,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6787e827478d611da7751fc6/cover.jpg",
@@ -1169,7 +1385,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250213/6d6a98e7-332b-4392-9055-51fc591248b8.jpg",
@@ -1219,7 +1435,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241114/7a687cbf-9c75-48a3-b182-3501ad434c6d.jpg",
@@ -1258,7 +1474,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/03/afce9d0b/vod.jpg",
@@ -1306,7 +1522,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b903bbcf22ae3e04db566e/cover.jpg",
@@ -1353,7 +1569,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa24a031eb0592de602334/cover.jpg",
@@ -1408,7 +1624,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67878f0a8daf6b1db43c2cff/cover.jpg",
@@ -1460,7 +1676,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-1/7acbe92fc941ddc133b0bb0579a2e1b5.jpg",
@@ -1509,7 +1725,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250414/20250414130539733733_thumbnail.webp",
@@ -1557,7 +1773,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "宅男・宅女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250515/20250515003821771771_thumbnail.webp",
@@ -1608,7 +1824,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250618/20250618204133672672_thumbnail.webp",
@@ -1654,7 +1870,7 @@ window.PAGE_DATA = [
       "丁字裤",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250703-1/d896d03bf14bd180734d7e9f80f8465a.jpg",
@@ -1697,7 +1913,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250801-1/9d852a6937c393e3a8e55fe45a2744d8.jpg",
@@ -1757,7 +1973,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-1/05e46a401cdee793fb53add08bf884c4.jpg",
@@ -1812,7 +2028,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/22/67b8d8decf22ae3e04db530b/cover.jpg",
@@ -1847,7 +2063,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/bfcbe83ea93928a289a4f21003b28da4.jpg",
@@ -1880,7 +2096,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/312fbda1a1359029f9c6a8c689752973.jpg",
@@ -1917,7 +2133,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241009-1/a3b2e602e4a5d022fef93ae9a264d6d4.jpg",
@@ -1958,7 +2174,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/b696fd30b832bd6ff8441ed31438ede8.jpg",
@@ -2003,7 +2219,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "2024-11-21",
     "cover_url": "https://picture.yoshiclub.xyz/20241114/a955a4b4-35ff-410e-9926-a9af441a1f47.jpg",
@@ -2074,7 +2290,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MATERIALL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250116/e3b6aef5-d627-4070-af38-35c44e8e5e5e.jpg",

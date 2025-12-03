@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250220/V4h6RRxt/1.jpg",
@@ -25,12 +25,29 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191019-1/c1fa50a687e3fb9d75ce310ae9afe9cd.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-001"
+  },
+  {
+    "id": 576334,
+    "IDcode": "390JAC-003",
+    "title": "フリーター りなちぃー 20歳 ギャルしべ长者1人目",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-003"
   },
   {
     "id": 521852,
@@ -42,7 +59,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200215-1/1d33518cd9d862ff52dadb7e07514aca.jpg",
@@ -59,7 +76,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230704/1609917046-pb_e_390jac-013.jpg!320x216.jpg",
@@ -76,7 +93,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/08/c66059b2/vod.jpg",
@@ -93,12 +110,30 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200216-1/bf09b2c587ac715f3cc12d3d160563bc.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-018"
+  },
+  {
+    "id": 209167,
+    "IDcode": "390JAC-019",
+    "title": "絶世のH爆乳美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-019"
   },
   {
     "id": 521828,
@@ -110,7 +145,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200216-1/0a111cab48fbabde6d55bc1f41033967.jpg",
@@ -128,7 +163,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230707/1616566577-pb_e_390jac-022.jpg!320x216.jpg",
@@ -145,7 +180,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20220926/kg0aOzDJ/1.jpg",
@@ -162,7 +197,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/08/23/92bf7b21523a28a1451361942b886e0b.jpg",
@@ -180,7 +215,7 @@ window.PAGE_DATA = [
       "素人",
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200731-1/49132007e8db6080d49695c417e5a697.jpg",
@@ -197,7 +232,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/23/88f4270b/vod.jpg",
@@ -215,7 +250,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "2022-12-06",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221226-1/def23fca025f25d386dc47e7efafd3a2.jpg",
@@ -232,12 +267,30 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221223-1/11c347d5162e9bed142f806485b2a8ba.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-028"
+  },
+  {
+    "id": 83463,
+    "IDcode": "390JAC-029",
+    "title": "【巨乳バレエ×中出し3連発】天下御免の潮吹きプリマ馳せ参じる！おりゃおりゃおりゃおりゃ ブッシァャー♪もう一つ潮吹きブッシァャー♪起きて半畳 寝て一畳 潮を吹いても二合半♪おりゃおりゃおりゃおりゃ ドカン♪中出しおまけにドカン♪次回「天下分け目の潮戦～だがそれがいい～」【スポえろジャーニー7人目ねねちゃん】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "2023-04-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-029"
   },
   {
     "id": 407457,
@@ -249,7 +302,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8734cd4cfd879d3df3170e834b68ad67.jpg",
@@ -266,7 +319,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69094b18e264e6282dff4a69/poster2.jpg",
@@ -283,7 +336,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/33ca1ab2501ae39a98a514d0d45ed5d6.jpg",
@@ -300,7 +353,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230814/JgeN8eRt/1.jpg",
@@ -317,7 +370,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241107/lGlK7vpT/1.jpg",
@@ -334,7 +387,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/18/a8f53ded1719d9b5bdfd1e0de82df770.jpg",
@@ -351,7 +404,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/15/d7d1c48bd0057a431f76605a20773d38.jpg",
@@ -368,7 +421,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/a76e8614/vod.jpg",
@@ -385,7 +438,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/21/90f6f99ce35e6f6ce56193da98eea6ff.jpg",
@@ -402,7 +455,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/24/6066fec5699746e2cafa01d4e4eca85c.jpg",
@@ -420,7 +473,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/20/f843eb14e2c3ca299fd6e6d3c90d4533.jpg",
@@ -437,7 +490,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230627/1616913498-pb_e_390jac-083.jpg!320x216.jpg",
@@ -454,7 +507,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/acc44288edb10149a0ab472efe5a9d2f.jpg",
@@ -471,7 +524,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/d31d4dbea1bb10b1e24136db8ceafe54.jpg",
@@ -488,12 +541,30 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/c5cc6b5f5c4a33f7f6e3d638d3dff84b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-098"
+  },
+  {
+    "id": 519838,
+    "IDcode": "390JAC-105",
+    "title": "【神体=巨乳+极致翘臀+压倒美颜=梨子！ ！！ ！！ 4 连续阴道射精] 变得狂野和 GAL！ ！！ ！！如果您需要gal",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-105"
   },
   {
     "id": 79797,
@@ -505,7 +576,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "2023-02-05",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/bccef01e4318b46581fe73a86f0acc79.jpg",
@@ -522,7 +593,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/1741d6dad2da093bcca0a02d5c13af82.jpg",
@@ -539,7 +610,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/27be62502d5a176b305a3f097d34a584.jpg",
@@ -556,7 +627,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/828f0338c098d5178c1b4588f1c45588.jpg",
@@ -573,7 +644,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/75d0987191c5d001ae1bdece17ed6aa6.jpg",
@@ -591,12 +662,49 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/6150905a27b31d9fe7ec6c07bbdf25a9.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-130"
+  },
+  {
+    "id": 78731,
+    "IDcode": "390JAC-136",
+    "title": "390JAC-136",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "2022-12-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-136"
+  },
+  {
+    "id": 78734,
+    "IDcode": "390JAC-140",
+    "title": "【禁断！NTR人妻中出し！】夫に見せつけるベク自ら応募してきた欲求不満セレブ妻！超肉体派巨根男優との3P+中出しを見せられて鬱勃起した旦那も緊急参戦！【妄想ちゃん。28人目 ありささん】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "2022-11-30",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-140"
   },
   {
     "id": 347865,
@@ -608,7 +716,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230721-1/f3b587afc1d9422e402af04b1864431c.jpg",
@@ -625,12 +733,31 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221201/2dRpJpGc/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-146"
+  },
+  {
+    "id": 532575,
+    "IDcode": "390JAC-149",
+    "title": "[] 【セックスレス人妻】【キスハメ大好き】1年もSEXしてないという訳あり人妻とご対面！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-149"
   },
   {
     "id": 576625,
@@ -643,7 +770,7 @@ window.PAGE_DATA = [
       "素人",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221219/nghmsrc6/1.jpg",
@@ -661,7 +788,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230709/pb_e_390jac-155.jpg!320x216.jpg",
@@ -678,7 +805,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230927/pb_e_390jac-157.jpg!320x216.jpg",
@@ -695,7 +822,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230927/pb_e_390jac-158.jpg!320x216.jpg",
@@ -732,12 +859,30 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240228/pb_e_390jac-161.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-161"
+  },
+  {
+    "id": 533237,
+    "IDcode": "390JAC-168",
+    "title": "【高身长172cmショート× Gカップ クール系と思いきや…豹変アクメGAL】最上级のルックス！美巨乳イキ过ぎ美形ギャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-168"
   },
   {
     "id": 542321,
@@ -749,7 +894,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/K47VQjFO/1.jpg",
@@ -766,7 +911,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/kOWVLWA6/1.jpg",
@@ -783,7 +928,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/qEbjLr92/1.jpg",
@@ -801,7 +946,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/fTMbmHhP/1.jpg",
@@ -819,7 +964,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/jS2ZRCP8/1.jpg",
@@ -837,7 +982,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241112/bRsu5Fak/1.jpg",
@@ -855,7 +1000,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/ee9ab2bff98de413f146fbee2a830cba.jpg",
@@ -873,7 +1018,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/988b083a686d43e2848e584dc6b7b12f.jpg",
@@ -890,7 +1035,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241113/b56l2PNJ/1.jpg",
@@ -907,7 +1052,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241113/IgbaE7Db/1.jpg",
@@ -924,7 +1069,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241113/UhaKqvhR/1.jpg",
@@ -941,7 +1086,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241113/wZfAFlhe/1.jpg",
@@ -959,7 +1104,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241113/3AzFyXVR/1.jpg",
@@ -976,7 +1121,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/6c695OD1/1.jpg",
@@ -993,7 +1138,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/iJWkXk3m/1.jpg",
@@ -1012,7 +1157,7 @@ window.PAGE_DATA = [
       "乱交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/TPdH0hik/1.jpg",
@@ -1029,7 +1174,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/642b3648ca8c4b28c35fe78374901680.jpg",
@@ -1047,7 +1192,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/ofskUbsA/1.jpg",
@@ -1065,12 +1210,31 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241114/jybeWCJm/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-193"
+  },
+  {
+    "id": 101611,
+    "IDcode": "390JAC-194",
+    "title": "【元グラドルの人妻】【爆乳Iカップ】【中出し懇願】元グラドルの爆乳妻は旦那",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-194"
   },
   {
     "id": 66865,
@@ -1082,7 +1246,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250502-1/494963463afb5542c95fb23d98ff46b4.jpg",
@@ -1099,7 +1263,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241115/T3emw5YB/1.jpg",
@@ -1117,12 +1281,29 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250718-1/5b633eafb62ee79e5f23f66d167845bd.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=390JAC-221"
+  },
+  {
+    "id": 519870,
+    "IDcode": "90JAC-115",
+    "title": "整洁美丽人妻的密集性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=90JAC-115"
   },
   {
     "id": 519751,
@@ -1132,12 +1313,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/caa13762a01ca11e99a9e6c14705f6f7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=90JAC-122"
+  },
+  {
+    "id": 533533,
+    "IDcode": "JAC-001",
+    "title": "_A ギャルしべ长者【中出しギャル×数珠つなぎ】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-001"
+  },
+  {
+    "id": 578426,
+    "IDcode": "JAC-003",
+    "title": "A初撮り中出しお嬢様【美少女×制服×初めての调教】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-003"
   },
   {
     "id": 516693,
@@ -1147,7 +1358,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/27/68fe7700dd88d14f065653ba/poster2.jpg",
@@ -1174,7 +1385,7 @@ window.PAGE_DATA = [
       "巨乳",
       "企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/c5087dfe9a1397382ed4ee5606ba00dc.jpg",
@@ -1199,7 +1410,7 @@ window.PAGE_DATA = [
       "企画",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/6e192228c42eb4e73bb6c15439ba6a44.jpg",
@@ -1225,7 +1436,7 @@ window.PAGE_DATA = [
       "颜射",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/87eb92679bc469b1f5f32fcdba4a3c6f.jpg",
@@ -1253,7 +1464,7 @@ window.PAGE_DATA = [
       "运动",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/52e47023082853200027ab1207beeb3f.jpg",
@@ -1278,7 +1489,7 @@ window.PAGE_DATA = [
       "企画",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/23bd6a93439400a75d23b709f462e6c2.jpg",
@@ -1304,7 +1515,7 @@ window.PAGE_DATA = [
       "颜射",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/8663c2437c5979e82a522195aa8df9a5.jpg",
@@ -1321,7 +1532,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-8/dc75b2e69214771b1f6ebd22b6c28a60.jpg",
@@ -1336,7 +1547,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230101/s0qpSvvi/1.jpg",
@@ -1353,7 +1564,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230101/2057edbh/1.jpg",
@@ -1368,7 +1579,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://pic47.anzise.com/pic/20230211/e0f556880d28e1b17da18efafc9a156a/1.jpg",
@@ -1383,7 +1594,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/11/ce1c02b08560438bfce17204980e8fa9.jpg",
@@ -1400,7 +1611,7 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/27/707e148dc7fd85c596061bc77216546e.jpg",
@@ -1417,7 +1628,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/5f332255906e2d5fc5578b6c9ffca5fe.jpg",
@@ -1432,12 +1643,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://pic59.anzise.com/pic/20230728/00b0d4762e6f432e5769fdfb8609e102/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-169"
+  },
+  {
+    "id": 531382,
+    "IDcode": "JAC-175",
+    "title": "【反差婊子】正经公务员阿拉办公室秘密拍摄 巨乳肥臀敏感乳首疯狂震颤实录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Jackson Stars",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JAC-175"
   },
   {
     "id": 593041,
@@ -1447,7 +1675,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/upload/vod/20250509-1/2a71fa3f722b491fbc897bb618f76cb7.jpg",
@@ -1464,7 +1692,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231223/ikOt5i9f/1.jpg",
@@ -1479,7 +1707,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240423/QXfpCh2P/1.jpg",
@@ -1494,7 +1722,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240510/JjzkF1V6/1.jpg",
@@ -1509,7 +1737,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Jackson Stars",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240718/zXJqqGJG/1.jpg",

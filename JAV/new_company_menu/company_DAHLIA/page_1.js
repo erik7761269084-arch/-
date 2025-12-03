@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/17789_cover_2025-09-30_125606.jpg",
@@ -22,7 +22,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/62767_cover_2025-09-30_193239.jpg",
@@ -37,7 +37,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/93655_cover_2025-10-01_003005.jpg",
@@ -54,12 +54,29 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/46291_cover_2025-10-01_003005.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888DLDSS-A311"
+  },
+  {
+    "id": 594126,
+    "IDcode": "DLDSS-001",
+    "title": "被邻居美人妻看穿是处男持续用打桩骑乘位抽插榨乾精的3日间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-001"
   },
   {
     "id": 569593,
@@ -69,7 +86,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/6fgm1aYA.jpg",
@@ -89,7 +106,7 @@ window.PAGE_DATA = [
       "巨乳",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/aea70775c0dfd4f0b06304996d111a21.jpg",
@@ -106,7 +123,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/20/21335_cover_2025-09-20_082514.jpg",
@@ -128,7 +145,7 @@ window.PAGE_DATA = [
       "讲师",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/4abc128b990492680006cd8264bbb766.jpg",
@@ -146,12 +163,89 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/20/53638_cover_2025-09-20_082514.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-008"
+  },
+  {
+    "id": 594066,
+    "IDcode": "DLDSS-010",
+    "title": "做家事10分钟之间 不让老公发现像野兽般自后方侵犯！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-010"
+  },
+  {
+    "id": 213672,
+    "IDcode": "DLDSS-011",
+    "title": "美人保険外交員-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-011"
+  },
+  {
+    "id": 212313,
+    "IDcode": "DLDSS-012",
+    "title": "直到你的身体被掏空-七海ティナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-012"
+  },
+  {
+    "id": 212286,
+    "IDcode": "DLDSS-013",
+    "title": "人妻女社長-東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-013"
+  },
+  {
+    "id": 212200,
+    "IDcode": "DLDSS-014",
+    "title": "元薬剤師-我妻里帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-014"
   },
   {
     "id": 79293,
@@ -166,7 +260,7 @@ window.PAGE_DATA = [
       "接吻",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/83a57ed87605ba05421d3d89138ee5d1.jpg",
@@ -183,7 +277,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/d51b11d04f4de85c2032b08880ebcd09.jpg",
@@ -203,7 +297,7 @@ window.PAGE_DATA = [
       "口交",
       "吞精"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/sBThue23.jpg",
@@ -222,12 +316,34 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/97ec4712f649749cf9f8cae77d118170.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-019"
+  },
+  {
+    "id": 84258,
+    "IDcode": "DLDSS-020",
+    "title": "超高級旅館-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口交",
+      "老板娘，女主人",
+      "和服，丧服",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-020"
   },
   {
     "id": 79714,
@@ -241,7 +357,7 @@ window.PAGE_DATA = [
       "口交",
       "M男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/1569a70c841bf87a740e1994c7121699.jpg",
@@ -249,6 +365,45 @@ window.PAGE_DATA = [
       "东凛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-021"
+  },
+  {
+    "id": 213059,
+    "IDcode": "DLDSS-022",
+    "title": "女上司-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-022"
+  },
+  {
+    "id": 79686,
+    "IDcode": "DLDSS-023",
+    "title": "老板的大胸妻子-我妻里帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "内衣",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蓝井优太",
+      "我妻里帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-023"
   },
   {
     "id": 79674,
@@ -267,7 +422,7 @@ window.PAGE_DATA = [
       "无码破解",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2021-08-26",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/cfe85cc366526b39f61a668384feda8c.jpg",
@@ -275,6 +430,28 @@ window.PAGE_DATA = [
       "七海蒂娜"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-024"
+  },
+  {
+    "id": 79836,
+    "IDcode": "DLDSS-025",
+    "title": "淫乱美人-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "姐姐",
+      "巨乳",
+      "荡妇",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-025"
   },
   {
     "id": 79473,
@@ -289,7 +466,7 @@ window.PAGE_DATA = [
       "口交",
       "戏剧"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2021-09-23",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221013-1/cd8e2b7bb8d34bc760a8a6893212efb9.jpg",
@@ -297,6 +474,28 @@ window.PAGE_DATA = [
       "东凛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-026"
+  },
+  {
+    "id": 79835,
+    "IDcode": "DLDSS-027",
+    "title": "結婚報告-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "中出",
+      "白天出轨",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-027"
   },
   {
     "id": 79403,
@@ -312,7 +511,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/bacbabf6bcec7bebe195e0715e3cae65.jpg",
@@ -336,7 +535,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/KFu83E4M.jpg",
@@ -359,7 +558,7 @@ window.PAGE_DATA = [
       "淫语",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/8a0d57e7a444d5c3f70135815029440d.jpg",
@@ -369,6 +568,43 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-030"
   },
   {
+    "id": 214441,
+    "IDcode": "DLDSS-031",
+    "title": "喜欢100%射精的女孩-東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-031"
+  },
+  {
+    "id": 106795,
+    "IDcode": "DLDSS-032",
+    "title": "每天晚上我的公公都要射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "羞耻",
+      "中出",
+      "深喉",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-032"
+  },
+  {
     "id": 566506,
     "IDcode": "DLDSS-034",
     "title": "主人の望みなら…変态夫といいなり妻のNTS温泉旅行 七海ティナ",
@@ -376,7 +612,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/75b21292523323927b44e134ea8cc62f.jpg",
@@ -396,7 +632,7 @@ window.PAGE_DATA = [
       "巨乳",
       "M男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/eeb9ee5a6c2ac45cd49b759eed6d25a2.jpg",
@@ -418,7 +654,7 @@ window.PAGE_DATA = [
       "深喉",
       "戏剧"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/05/68417e8341a147ed1a5f4d61/cover.jpg",
@@ -435,12 +671,94 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230517-1/c6965295ea58c033d6e6dbc106e26a73.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-039"
+  },
+  {
+    "id": 84251,
+    "IDcode": "DLDSS-040",
+    "title": "美人痴女-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫语",
+      "乳交",
+      "巨乳",
+      "荡妇"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-040"
+  },
+  {
+    "id": 215563,
+    "IDcode": "DLDSS-041",
+    "title": "dldss-041 可恶的夜晚-東凛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-041"
+  },
+  {
+    "id": 80332,
+    "IDcode": "DLDSS-042",
+    "title": "直到你挤出了100轮精液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "纪录片",
+      "中出",
+      "滥交",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "友田彩也香",
+      "平井シンジ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-042"
+  },
+  {
+    "id": 80333,
+    "IDcode": "DLDSS-044",
+    "title": "発射無制限-七海ティナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "主观视角",
+      "乳液",
+      "单体作品",
+      "无码破解"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "七海蒂娜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-044"
   },
   {
     "id": 79922,
@@ -456,7 +774,7 @@ window.PAGE_DATA = [
       "新娘，年轻妻子",
       "首次亮相"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2021-10-21",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/b41eddbedc6d0d39972c8680564150e3.jpg",
@@ -464,6 +782,25 @@ window.PAGE_DATA = [
       "鲛岛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-045"
+  },
+  {
+    "id": 84294,
+    "IDcode": "DLDSS-047",
+    "title": "性欲最高潮-穂高結花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "口交",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-047"
   },
   {
     "id": 84257,
@@ -478,7 +815,7 @@ window.PAGE_DATA = [
       "深喉",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-01-27",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/76e57f9e031111c7b77abac4846a717b.jpg",
@@ -488,6 +825,27 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-048"
   },
   {
+    "id": 106717,
+    "IDcode": "DLDSS-049",
+    "title": "训练他哥哥的女朋友-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳房",
+      "女生",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-049"
+  },
+  {
     "id": 443264,
     "IDcode": "DLDSS-050",
     "title": "チクシャ潮っ！乳首責めだけで男潮吹かすニップル逆レ×プ 七海蒂娜",
@@ -495,7 +853,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/353b934607376edc51dd8decf8b495c4.jpg",
@@ -512,12 +870,37 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/84a7bf4e87488926741c55204a3898fc.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-051"
+  },
+  {
+    "id": 80613,
+    "IDcode": "DLDSS-052",
+    "title": "美人秘書-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乳交",
+      "白天出轨",
+      "无码破解",
+      "秘书",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀",
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-052"
   },
   {
     "id": 80770,
@@ -532,7 +915,7 @@ window.PAGE_DATA = [
       "手淫",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889757bc92318f97d1d68e5/cover.jpg",
@@ -540,6 +923,26 @@ window.PAGE_DATA = [
       "友田彩也香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-053"
+  },
+  {
+    "id": 80573,
+    "IDcode": "DLDSS-055",
+    "title": "没有女友30年-穗高结花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "童年朋友",
+      "单体作品",
+      "处男",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-055"
   },
   {
     "id": 84246,
@@ -556,7 +959,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-03-24",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/ZIzQiT1y.jpg",
@@ -579,7 +982,7 @@ window.PAGE_DATA = [
       "女教师",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-03-10",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/167e7bf20884417538f3b2ac80336cae.jpg",
@@ -602,7 +1005,7 @@ window.PAGE_DATA = [
       "恋爱",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-03-24",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/0NE4Ljlt.jpg",
@@ -610,6 +1013,30 @@ window.PAGE_DATA = [
       "蓝井优太"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-059"
+  },
+  {
+    "id": 84249,
+    "IDcode": "DLDSS-063",
+    "title": "毎日上司-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "深喉",
+      "戏剧",
+      "OL",
+      "乳交",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-063"
   },
   {
     "id": 566504,
@@ -621,12 +1048,33 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/EpGb4AqS.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-064"
+  },
+  {
+    "id": 62822,
+    "IDcode": "DLDSS-066",
+    "title": "梦想中的女老板-穂高結花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "深喉",
+      "已婚妇女",
+      "戏剧",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-066"
   },
   {
     "id": 80591,
@@ -643,7 +1091,7 @@ window.PAGE_DATA = [
       "首次亮相",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-02-23",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/0545428f5f1c05d6f6c9dd99924fe978.jpg",
@@ -658,7 +1106,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/VQfF8hqR.jpg",
@@ -678,7 +1126,7 @@ window.PAGE_DATA = [
       "乳液",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-04-21",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/FHDBoKV3.jpg",
@@ -699,7 +1147,7 @@ window.PAGE_DATA = [
       "淫语",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-05-26",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/9914d91f8a4a504dcea463b37daf4d2f.jpg",
@@ -723,7 +1171,7 @@ window.PAGE_DATA = [
       "服务生",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-05-12",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/Qf4O387j.jpg",
@@ -747,7 +1195,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-05-26",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d2f2d3729ad06761845c2a3f06af1767.jpg",
@@ -769,7 +1217,7 @@ window.PAGE_DATA = [
       "单体作品",
       "子宫颈"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-05-12",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/358894d982f52e3ae66abb7e2ec24016.jpg",
@@ -784,7 +1232,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/vdBfDQnz.jpg",
@@ -799,12 +1247,81 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/NWX3n9ew.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-076"
+  },
+  {
+    "id": 84265,
+    "IDcode": "DLDSS-077",
+    "title": "技术惊人的淫荡女人-杏奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "口交",
+      "手淫",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-077"
+  },
+  {
+    "id": 84250,
+    "IDcode": "DLDSS-078",
+    "title": "家事代行-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨乳",
+      "女上位",
+      "单体作品",
+      "裸体围裙"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-078"
+  },
+  {
+    "id": 84264,
+    "IDcode": "DLDSS-079",
+    "title": "和父亲不应该发生的交流-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "单体作品",
+      "戏剧",
+      "乱伦",
+      "白天出轨",
+      "中出",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "友田彩也香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-079"
   },
   {
     "id": 84281,
@@ -821,7 +1338,7 @@ window.PAGE_DATA = [
       "单体作品",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-06-23",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/48cf794d3547830ce8f26f41949f8b53.jpg",
@@ -843,7 +1360,7 @@ window.PAGE_DATA = [
       "姐姐",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-06-09",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/939981dd25a41cc04754daecdd882d64.jpg",
@@ -866,7 +1383,7 @@ window.PAGE_DATA = [
       "纪录片",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/1715465dd215b584db7645abef139afb.jpg",
@@ -890,7 +1407,7 @@ window.PAGE_DATA = [
       "多P",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/ede6dc5ea76caa71b28a6459bccca979.jpg",
@@ -917,12 +1434,37 @@ window.PAGE_DATA = [
       "单体作品",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-06-23",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/1e4d92b713e8d8598c8814d0d0bfb5df.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-085"
+  },
+  {
+    "id": 84365,
+    "IDcode": "DLDSS-086",
+    "title": "淫荡的护士-美乃すずめ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "单体作品",
+      "淫语",
+      "护士",
+      "巨乳",
+      "女上位",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美乃雀",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-086"
   },
   {
     "id": 530216,
@@ -932,7 +1474,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/xN1KkMrq.jpg",
@@ -954,7 +1496,7 @@ window.PAGE_DATA = [
       "单体作品",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250317-1/56db1c24ec6984bffcd5ec9f2bbd208f.jpg",
@@ -974,7 +1516,7 @@ window.PAGE_DATA = [
       "人妻",
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/hbtXrjwV.jpg",
@@ -994,7 +1536,7 @@ window.PAGE_DATA = [
       "单体作品",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-07-21",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/sSaj1e3V.jpg",
@@ -1011,12 +1553,50 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/XTvG1hVn.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-092"
+  },
+  {
+    "id": 225477,
+    "IDcode": "DLDSS-093",
+    "title": "隐瞒老公淫荡疯狂-月见伊织",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-093"
+  },
+  {
+    "id": 84348,
+    "IDcode": "DLDSS-094",
+    "title": "都合のイイ人妻のタダマン。旦那に嘘をつきお泊まりする欲求不満ビッチと夜通しセックス。月見伊織 パンティと写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "多P",
+      "巨乳",
+      "口交",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "2022-06-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-094"
   },
   {
     "id": 84322,
@@ -1033,7 +1613,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-07-21",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/26Bf1uXN.jpg",
@@ -1055,7 +1635,7 @@ window.PAGE_DATA = [
       "女上位",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-07-21",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/f2f52e560574463000a5d43907bf6ead.jpg",
@@ -1072,7 +1652,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/uZf42lOy.jpg",
@@ -1094,7 +1674,7 @@ window.PAGE_DATA = [
       "高",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-07-21",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/LvrFm9j0.jpg",
@@ -1118,7 +1698,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/6605098ac749e0a92044535385e711a2.jpg",
@@ -1126,6 +1706,21 @@ window.PAGE_DATA = [
       "美乃雀"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-100"
+  },
+  {
+    "id": 224270,
+    "IDcode": "DLDSS-101",
+    "title": "住宿清洁服务-友田彩也香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-101"
   },
   {
     "id": 84353,
@@ -1140,7 +1735,7 @@ window.PAGE_DATA = [
       "单体作品",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-08-25",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/09201c8d78d99f72b160d5c38d2fccf6.jpg",
@@ -1163,7 +1758,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-08-25",
     "cover_url": "https://ll.lasha250923.top/20241228/yfHGdu85/1.jpg",
@@ -1185,7 +1780,7 @@ window.PAGE_DATA = [
       "接吻",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-08-25",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/270053773fed595809bdd642d1ed458f.jpg",
@@ -1207,7 +1802,7 @@ window.PAGE_DATA = [
       "颜射",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-08-25",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/9072792e7849ddfb1958e070c1f241f3.jpg",
@@ -1229,7 +1824,7 @@ window.PAGE_DATA = [
       "单体作品",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-08-25",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/15b169700fe8fa78330fc8dcbcdbe005.jpg",
@@ -1253,7 +1848,7 @@ window.PAGE_DATA = [
       "乳房",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/4e2d96227baf178d2f19b2032b5b45a4.jpg",
@@ -1261,6 +1856,28 @@ window.PAGE_DATA = [
       "蓝井优太"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-108"
+  },
+  {
+    "id": 84373,
+    "IDcode": "DLDSS-109",
+    "title": "整体師-本田もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "苗条",
+      "潮吹",
+      "已婚妇女",
+      "白天出轨",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DAHLIA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-109"
   },
   {
     "id": 66697,
@@ -1277,7 +1894,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a0e269ec8e472ec20fcf28095ebdf387.jpg",
@@ -1301,7 +1918,7 @@ window.PAGE_DATA = [
       "药物",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa27a89def9b1b80e4b38/cover.jpg",
@@ -1323,7 +1940,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-09-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250424-1/7c9b40decc5b2485593dcc5805f7c5c7.jpg",
@@ -1347,7 +1964,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-09-08",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/081db45f93151cd55971a3cb0405c8e5.jpg",
@@ -1372,7 +1989,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250123-1/63dded90fa08e5aa3651f75b12036683.jpg",
@@ -1395,7 +2012,7 @@ window.PAGE_DATA = [
       "单体作品",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "2022-09-22",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/86ff934b89b8d3e1d4689da632ce1169.jpg",
@@ -1417,673 +2034,11 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DAHLIA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/682ae8ef40fe9d934ae75e74d892ffb9.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-118"
-  },
-  {
-    "id": 73233,
-    "IDcode": "DLDSS-120",
-    "title": "見た目は上品、中身はド淫乱 異常なる性欲で痴女る騎乗位 徳永しおり パンティと写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "骑乗位",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/918aefd1dc60823518848dbbb8703b10.jpg",
-    "actress": [
-      "徳永しおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-120"
-  },
-  {
-    "id": 73744,
-    "IDcode": "DLDSS-121",
-    "title": "我勾引当地的男人-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乳交",
-      "按摩棒",
-      "巨乳",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/d4946b2a8a6a1645c01e667d49f30ae4.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-121"
-  },
-  {
-    "id": 67221,
-    "IDcode": "DLDSS-122",
-    "title": "洗脳催淫-友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "巨大阴茎",
-      "白天出轨",
-      "接吻"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250503-1/b93acc774c6fe8f0d9ebb0314aee4320.jpg",
-    "actress": [
-      "友田彩也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-122"
-  },
-  {
-    "id": 72714,
-    "IDcode": "DLDSS-123",
-    "title": "无限次拍摄-穂高結花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳液",
-      "礼仪小姐",
-      "乳房",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/918a8f437be4436ccd3336d23a4e89dd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-123"
-  },
-  {
-    "id": 84380,
-    "IDcode": "DLDSS-124",
-    "title": "老公在身邊被陌生男人們持續搞上 橘京花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "深喉",
-      "已婚妇女",
-      "多P",
-      "单体作品",
-      "女优按摩棒"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "2022-09-28",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/79fe4bdd99dc32c6a1f3d4064d5f6fb9.jpg",
-    "actress": [
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-124"
-  },
-  {
-    "id": 67283,
-    "IDcode": "DLDSS-128",
-    "title": "旅行按摩师的淫秽待遇-徳永しおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
-      "乳液",
-      "白天出轨",
-      "口交",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/46b98dc166534e2ad5d0b76a52d7aa1b.jpg",
-    "actress": [
-      "徳永しおり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-128"
-  },
-  {
-    "id": 66767,
-    "IDcode": "DLDSS-129",
-    "title": "我的姐姐非常爱我-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "自慰",
-      "乱伦",
-      "口交",
-      "巨乳",
-      "颜射"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/9fba08d0ce4bd76149fb1fe625c46e62.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-129"
-  },
-  {
-    "id": 103454,
-    "IDcode": "DLDSS-130",
-    "title": "きっと妻はいつもの時間に…絶倫間男たちに呼び出され生中出し3Pされた一部始終を私に報告してくれる最高の鬱勃起妻です 友田彩也香 パンティと写真付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大阴茎",
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "2023-01-26",
-    "cover_url": "https://tuaskbgnekr.com/20221230/PFDwXRrS/1.jpg",
-    "actress": [
-      "友田彩也香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-130"
-  },
-  {
-    "id": 556330,
-    "IDcode": "DLDSS-132",
-    "title": "与上司的第1次“通奸之旅”到现在为止，我只需要被拥抱到现在，但是在19个小时的白天，黑夜和早晨，我继续与他做爱，就像在温泉旅馆Kyoka Tachibana的攻击一样 - 橘京花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/11058572eadc9969586b2b97ed8e1848.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-132"
-  },
-  {
-    "id": 87432,
-    "IDcode": "DLDSS-137",
-    "title": "新人 溢れる色気は隠さない 芦名ほのか 26歳 AV DEBUT 生写真5枚付き",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "首次亮相",
-      "纪录片",
-      "姐姐",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "2022-09-22",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/1KUaTgMx.jpg",
-    "actress": [
-      "蘆名穗花",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-137"
-  },
-  {
-    "id": 66960,
-    "IDcode": "DLDSS-139",
-    "title": "淫荡而亲密的性爱-芦名ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "接吻",
-      "单体作品",
-      "女上位",
-      "口交"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/dcbc75f40c907c9d4b909bc9888c1675.jpg",
-    "actress": [
-      "蘆名穗花",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-139"
-  },
-  {
-    "id": 73050,
-    "IDcode": "DLDSS-141",
-    "title": "誘惑公公1日10發 短時間讓人馬上抽插中出的絶倫肉食人妻 水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "屁股",
-      "荡妇",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/5boavsAH.jpg",
-    "actress": [
-      "由爱可奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-141"
-  },
-  {
-    "id": 566497,
-    "IDcode": "DLDSS-142",
-    "title": "本番NGなのに感じ过ぎて自ら挿入して中出しOKまでしちゃう 奇迹の早漏イクイク敏感风俗嬢 水川润",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1ed8b93a5802695e09c6d15d58cd3bc0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-142"
-  },
-  {
-    "id": 66688,
-    "IDcode": "DLDSS-143",
-    "title": "全程的性服务-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "礼仪小姐",
-      "巨乳",
-      "角色扮演者",
-      "女上位",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/1faa8383afe8de8ec89e7b47a27339b0.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-143"
-  },
-  {
-    "id": 556293,
-    "IDcode": "DLDSS-145",
-    "title": "混浴温泉NTR 结婚前让闺蜜怀孕……穗高由香 - 穗高结花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ba3d6f8152083ff49e645f56d9591fca.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-145"
-  },
-  {
-    "id": 556284,
-    "IDcode": "DLDSS-146",
-    "title": "我们两个人在一个封闭的房间里，汗流浃背的身体，混杂的性欲……我想和橘杏花忘记一切，早中晚疯狂。立花镜香 - 橘京花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/d48e8731b427c8c09354b419bdee2657.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-146"
-  },
-  {
-    "id": 88532,
-    "IDcode": "DLDSS-149",
-    "title": "当他的妻子外出两天时-芦名ほのか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "OL",
-      "出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/6829a36a5d899f63610ef5e7/cover.jpg",
-    "actress": [
-      "蘆名穗花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-149"
-  },
-  {
-    "id": 67573,
-    "IDcode": "DLDSS-150",
-    "title": "她被母亲的男友攻击-水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "深喉",
-      "乱伦",
-      "白天出轨",
-      "放尿",
-      "单体作品",
-      "女优按摩棒"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/e92e0dc2a52761f8a0fab077d264f5de.jpg",
-    "actress": [
-      "由爱可奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-150"
-  },
-  {
-    "id": 73117,
-    "IDcode": "DLDSS-151",
-    "title": "大学就读的年轻女士-花宮えま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "乳液",
-      "首次亮相",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/0d4996017edbfc77ef486bd8cf860396.jpg",
-    "actress": [
-      "花宮えま"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-151"
-  },
-  {
-    "id": 556279,
-    "IDcode": "DLDSS-152",
-    "title": "受欢迎的Soapland女士想要禁欲一个月并裸露她的本能最好的中出禁令FUCK Ema Hanamiya - 花宫えま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/251335584885e0e102afe05e2d812d84.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-152"
-  },
-  {
-    "id": 156533,
-    "IDcode": "DLDSS-153",
-    "title": "她不在的時候我去了一家妓院遇到了她最好的朋友繪宮花宮-宮えま",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241004-1/6433c4de900830850860ef59e8046d01.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-153"
-  },
-  {
-    "id": 67042,
-    "IDcode": "DLDSS-155",
-    "title": "当他的妻子回家参加追悼会时",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "玩具",
-      "已婚妇女",
-      "羞耻",
-      "多P",
-      "自慰",
-      "白天出轨",
-      "无码破解",
-      "中出",
-      "口交",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa29289def9b1b80e4b79/cover.jpg",
-    "actress": [
-      "友田彩也香",
-      "Qべぇ",
-      "まい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-155"
-  },
-  {
-    "id": 66698,
-    "IDcode": "DLDSS-156",
-    "title": "突如其来的大雨-穂高結花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "平胸",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b0bfa43d6972716298646/cover.jpg",
-    "actress": [
-      "穗高结花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-156"
-  },
-  {
-    "id": 556347,
-    "IDcode": "DLDSS-160",
-    "title": "Jun's Sex Cosmetics Jun经历了“外高潮（阴蒂）”、“中高潮（G点）”、“内高潮（portio）”，成为最美的已婚女人。水川润",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/77d7d4ba707c151537527042e69ed7ef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-160"
-  },
-  {
-    "id": 66722,
-    "IDcode": "DLDSS-162",
-    "title": "天然人妻-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "巨大屁股",
-      "白天出轨",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c5f2d43d6972716364e4e/cover.jpg",
-    "actress": [
-      "美乃雀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-162"
-  },
-  {
-    "id": 224859,
-    "IDcode": "DLDSS-163",
-    "title": "十年来未见面的女孩表妹-友田彩也香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683f527b0b69f1d8165573ea/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-163"
-  },
-  {
-    "id": 69529,
-    "IDcode": "DLDSS-164",
-    "title": "就让我看看你的阴部深处-穂高結花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "凌辱",
-      "白天出轨",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250317-1/8b017e3dc55ae76c9a7fb7f0f12cdaf8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-164"
-  },
-  {
-    "id": 88542,
-    "IDcode": "DLDSS-165",
-    "title": "粗暴和强硬的性关系-橘京花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "按摩棒",
-      "口交",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/0569de2fab330fad6ca54232429f7662.jpg",
-    "actress": [
-      "橘京花",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-165"
-  },
-  {
-    "id": 88608,
-    "IDcode": "DLDSS-168",
-    "title": "人妻令嬢-水川潤",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "多P",
-      "白天出轨",
-      "单体作品",
-      "放尿"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/29/686031a243d69727165e6871/cover.jpg",
-    "actress": [
-      "由爱可奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-168"
-  },
-  {
-    "id": 456332,
-    "IDcode": "DLDSS-169",
-    "title": "夫に内緒で働く本番無しマットヘルスで大嫌いな男に見つかりタダマンセックスを強要されまくった。 花宮惠麻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa29689def9b1b80e4b82/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-169"
-  },
-  {
-    "id": 67560,
-    "IDcode": "DLDSS-173",
-    "title": "老板的最佳情妇-美乃すずめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "白天出轨",
-      "秘书",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DAHLIA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/2669cd19c71975d3ee94ae5f39a3bfc6.jpg",
-    "actress": [
-      "美乃雀",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DLDSS-173"
   }
 ];

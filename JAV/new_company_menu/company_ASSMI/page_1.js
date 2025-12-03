@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250705-1/fc90015bb30b18a31af9a547316f74f1.jpg",
@@ -67,7 +67,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ASSMI",
     "publish_date": "2025-05-22",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014231927927_thumbnail.webp",
@@ -134,7 +134,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000344384384_thumbnail.webp",
@@ -193,7 +193,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/11/689953dd55337d7f7bcfacd9/cover.jpg",
@@ -244,11 +244,26 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ASSMI",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821020937896896_69392_thumbnail.webp",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASEX-005"
+  },
+  {
+    "id": 174814,
+    "IDcode": "ASEX-006",
+    "title": "ドキドキ露出！ALLホンモノ精子！温泉旅行で初めての野外真正アナル中出し3本番 東雲あずさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ASSMI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ASEX-006"
   }
 ];

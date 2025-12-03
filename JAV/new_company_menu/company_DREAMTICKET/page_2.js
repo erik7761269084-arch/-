@@ -1,5 +1,102 @@
 window.PAGE_DATA = [
   {
+    "id": 518599,
+    "IDcode": "JUFD-447",
+    "title": "我的寵物是爆乳不動產女郎～敏感乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1cf32ce5a404e9be68b90/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-447"
+  },
+  {
+    "id": 523221,
+    "IDcode": "JUFD-457",
+    "title": "波多野结衣- パイパン全裸奴隶 夫の部下に剃毛调教された巨乳妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://sex8sex8sex8.com/20250512/BHH82Cxj/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-457"
+  },
+  {
+    "id": 569095,
+    "IDcode": "JUFD-458",
+    "title": "美艳人妻老板娘椎名由奈被强制撕开高叉泳衣 羞耻高潮中颤抖的肉体侍奉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://le.lefhao20250923.top/upload/vod/20250413-1/e5468aedf291a02dfe359a5382034ba2.jpg",
+    "actress": [
+      "椎名由奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-458"
+  },
+  {
+    "id": 78366,
+    "IDcode": "JUFD-467",
+    "title": "我的宠物是隔壁的巨乳人妻-林由奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "单体作品",
+      "数位马赛克",
+      "多P",
+      "调教",
+      "乳交",
+      "无码破解",
+      "巨乳",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ebfbd852c12b4e6845fb14/cover.jpg",
+    "actress": [
+      "林由奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-467"
+  },
+  {
+    "id": 210043,
+    "IDcode": "JUFD-475",
+    "title": "妻子的姐姐是荡妇-水野朝陽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/19/8bb733da4ead933d7be725124ed62000.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-475"
+  },
+  {
     "id": 469712,
     "IDcode": "JUFD-476",
     "title": "變態人妻家政婦屁眼公廁 篠田步美",
@@ -9,7 +106,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2f039dbf24d4ed3203035/cover.jpg",
@@ -24,7 +121,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/5baa0fa3a1f6837ea6c165df84acf5a0.jpg",
@@ -39,7 +136,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/16/4897fbf4ca41966d7ad34eb23ae13b54.jpg",
@@ -54,7 +151,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/30/31ee571eadde42f68ce6ecd7cc85fb79.jpg",
@@ -78,7 +175,7 @@ window.PAGE_DATA = [
       "紧缚",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241124-1/4c9465f1180ea56e0abc10e2facfaa98.jpg",
@@ -96,7 +193,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/02/6af4e02cce3de76ee6dba8b227251a2c.jpg",
@@ -113,7 +210,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/02/22f6a878e751ffd8e4cf8cc74a558060.jpg",
@@ -131,7 +228,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231019/jufd494pl.jpg!320x216.jpg",
@@ -148,7 +245,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250512/kzjcxhqy/1.jpg",
@@ -165,7 +262,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231013/jufd507pl.jpg!320x216.jpg",
@@ -182,7 +279,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/04/2c770080/vod.jpg",
@@ -200,7 +297,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231013/jufd517pl.jpg!320x216.jpg",
@@ -215,7 +312,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/13/888b4b176f011ad9e2db467779af0680.jpg",
@@ -233,7 +330,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231012/jufd526pl.jpg!320x216.jpg",
@@ -250,7 +347,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68db06c3d6fbef4e90d2741e/cover.jpg",
@@ -265,7 +362,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/24/b15c25cfdb5b374ffdded05f825ee818.jpg",
@@ -282,7 +379,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/2e3b2fb602a43b2d092790eac99e7aed.jpg",
@@ -297,7 +394,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/17/5cd1e2f011810904e53a16a943df2917.jpg",
@@ -314,7 +411,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231010/jufd539pl.jpg!320x216.jpg",
@@ -329,7 +426,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/17/6dabe5dc36650a5bddab435768cede35.jpg",
@@ -344,7 +441,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250320-1/19303deb4c294a5b24c99c49f6589e7d.jpg",
@@ -359,7 +456,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/01/7426b3c066cc4d2fb4847aa12d35e731.jpg",
@@ -374,7 +471,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5ca80ce5a404e9bb3162b/cover.jpg",
@@ -397,7 +494,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "2016-01-01",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jufd553/jufd553pl.jpg",
@@ -417,7 +514,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/01/d736ea26969d4ae496f747a4dc79bbb6.jpg",
@@ -438,7 +535,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/07/17/5961f4833df7ee5e2b3d801c2a3fac69.jpg",
@@ -453,7 +550,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/09/25/1eb486a6aeb977b79a4a19bfd8ddb16a.jpg",
@@ -477,7 +574,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240924-1/ec72b90c71f2c84331462248f77382a6.jpg",
@@ -494,7 +591,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/17/89a1ff032e6cbfb63a958232180e1866.jpg",
@@ -509,7 +606,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/19/461dd4444acaff59b7307c3682ab200b.jpg",
@@ -524,7 +621,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68d0173aeb67774efbac4630/cover.jpg",
@@ -539,7 +636,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250512/IWvzoNdN/1.jpg",
@@ -554,7 +651,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/23/88f4e579d169b7310713a275709ef1bc.jpg",
@@ -571,7 +668,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c8f751d6fbef4e90ade05c/cover.jpg",
@@ -586,7 +683,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/c5614c2347670bc736bbb905ced9bed5.jpg",
@@ -601,7 +698,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/07/19/08205dd4c99c034a93274eee1ba05cbc.jpg",
@@ -616,7 +713,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/0760900c25807e69c7c90593cee86670.jpg",
@@ -631,7 +728,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/23/7592f424c352b013da5e6badcb629e97.jpg",
@@ -646,7 +743,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250512/bmtu7mKX/1.jpg",
@@ -661,7 +758,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/23/4446c2ebb7ff5809b6e6d306e295d958.jpg",
@@ -676,7 +773,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221013/LRrr9xAZ/1.jpg",
@@ -691,7 +788,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/27/4e2de529dd1459e3969d0c8278701780.jpg",
@@ -706,7 +803,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/07/21/fd33d9f728e27cfd2901c26667912a8b.jpg",
@@ -721,7 +818,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/12/cf7136efccdc79d0bd540c659560931d.jpg",
@@ -736,7 +833,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/27/49972038ba15371dbc836ec2bcafba91.jpg",
@@ -759,7 +856,7 @@ window.PAGE_DATA = [
       "恋乳癖",
       "各种职业"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/25/13160739909b58b6179a420809dc1b0c.jpg",
@@ -776,7 +873,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221013/LPKl8ATF/1.jpg",
@@ -791,12 +888,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/07/23/fa8c568260cf66b9176033ecb1e06bdb.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-647"
+  },
+  {
+    "id": 192222,
+    "IDcode": "JUFD-652",
+    "title": "超级痴女姐妹逆3P俱乐部无限制的内射服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-652"
   },
   {
     "id": 539312,
@@ -806,7 +918,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221013/HUJkWS2t/1.jpg",
@@ -823,7 +935,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230601-1/c6a2dfe8af8f1d17e82d993b69dd3494.jpg",
@@ -855,7 +967,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/25/983edf701ad64d14abe6425043ff59ef.jpg",
@@ -870,7 +982,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/2023/03/qeznqnylhk1.jpg",
@@ -885,7 +997,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/125812ddc0fa1110400656a7c7af8d0e.jpg",
@@ -900,7 +1012,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/24/7623f948ff2029695912934fa576e121.jpg",
@@ -915,7 +1027,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230305/jufd00689pl.jpg",
@@ -930,7 +1042,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/25/266c58dffb84bffa8ee0763f15458fb4.jpg",
@@ -945,7 +1057,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/d64085a91e9d85b93a48f4275283e761.jpg",
@@ -968,7 +1080,7 @@ window.PAGE_DATA = [
       "恋乳癖",
       "各种职业"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/27/a193c2c570b504d0f888647f30a93285.jpg",
@@ -986,7 +1098,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/25/e25206e910c49b6d68574d598ea2747b.jpg",
@@ -1003,12 +1115,35 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/11/10/c5a9a003f9880e4e6e5fb8d33d5b1163.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-704"
+  },
+  {
+    "id": 70739,
+    "IDcode": "JUFD-707",
+    "title": "巨根の虜-江藤ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "数位马赛克",
+      "乳交",
+      "巨乳",
+      "主观视角"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "江藤ゆい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-707"
   },
   {
     "id": 71051,
@@ -1025,7 +1160,7 @@ window.PAGE_DATA = [
       "淫语",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1a5573731eb74dccf95a9660fe4a15cd.jpg",
@@ -1035,6 +1170,80 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-710"
   },
   {
+    "id": 71140,
+    "IDcode": "JUFD-711",
+    "title": "老公经常出差-光井ひかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "数位马赛克",
+      "已婚妇女",
+      "中出",
+      "骑乗位",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森林原人",
+      "鲛岛",
+      "光井ひかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-711"
+  },
+  {
+    "id": 70957,
+    "IDcode": "JUFD-712",
+    "title": "真性中出40連発120分-塚田詩織",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "中出",
+      "巨乳",
+      "淫语",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "塚田詩織"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-712"
+  },
+  {
+    "id": 100233,
+    "IDcode": "JUFD-714",
+    "title": "超絶テクで射精無制限！淫らな痴女が絡みつく中出し逆3Pクラブ 紗々原ゆり 通野未帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "屁股",
+      "荡妇",
+      "数位马赛克",
+      "多P",
+      "中出",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "2017-03-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "通野未帆",
+      "纱々原ゆり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-714"
+  },
+  {
     "id": 536271,
     "IDcode": "JUFD-715",
     "title": "接吻乳首责めレズビアン～义姊の卑猥なレズキスニップル调教～ 本田岬 立花瑠莉",
@@ -1042,7 +1251,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230608/jufd715pl.jpg!320x216.jpg",
@@ -1067,7 +1276,7 @@ window.PAGE_DATA = [
       "猥亵穿着",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/4b1d75df00e9b8f50d7a571d71628298.jpg",
@@ -1085,7 +1294,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/28/f174bc5a6ca96cc7b649b03f8a8bd9b6.jpg",
@@ -1107,7 +1316,7 @@ window.PAGE_DATA = [
       "巨乳",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240601-1/365923578e0e07f0b5de0df76c18d6b3.jpg",
@@ -1131,7 +1340,7 @@ window.PAGE_DATA = [
       "淫语",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/08/04/f67c83c7dffafd2b8735654453a3655d.jpg",
@@ -1148,7 +1357,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/4044e47c0d4f47813bdea42851142e0e.jpg",
@@ -1163,7 +1372,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/01/4dd124927cc94eef766ecb585517b78b.jpg",
@@ -1187,7 +1396,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240502-1/ea9aabea9c8b9a198cc3c03b397a15af.jpg",
@@ -1207,12 +1416,80 @@ window.PAGE_DATA = [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-8/5735723eae16d72b6fd414863f174907.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-739"
+  },
+  {
+    "id": 166707,
+    "IDcode": "JUFD-742",
+    "title": "女教師高超淫技連續強制搾乾你一之瀨美樹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-742"
+  },
+  {
+    "id": 166708,
+    "IDcode": "JUFD-743",
+    "title": "ちとせちゃんと一緒に快感トレーニング！ 由來ちとせ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-743"
+  },
+  {
+    "id": 166709,
+    "IDcode": "JUFD-744",
+    "title": "僕の巨根に欲情した川の字で寝ている母娘に挟まれ毎晩発射させられてます…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-744"
+  },
+  {
+    "id": 166710,
+    "IDcode": "JUFD-756",
+    "title": "惡男竟睡走我女友若菜奈央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-756"
   },
   {
     "id": 217426,
@@ -1222,7 +1499,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "2017-06-25",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/692063e651cfbc5c7c18e3571461d21d.jpg",
@@ -1242,7 +1519,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://fm.lbtup2025.com/upload/vod/2022/08-02/12/hd3zz15hroa1236hd3zz15hroa2012023.jpg",
@@ -1259,12 +1536,29 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/97487_cover_2025-09-10_182735.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-765"
+  },
+  {
+    "id": 539315,
+    "IDcode": "JUFD-767",
+    "title": "确実に童贞を悩杀する欲求不満な人妻の日常",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-767"
   },
   {
     "id": 544392,
@@ -1274,7 +1568,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://pic48.anzise.com/pic/20230222/ddb58cc8744984757df9fdf58877df7e/1.jpg",
@@ -1291,12 +1585,27 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/2ffbd4f41a5d066b4abe6c65eec82228.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-771"
+  },
+  {
+    "id": 586578,
+    "IDcode": "JUFD-775",
+    "title": "吞精解禁！大量吞精24发！真枪实弹干炮会 小向美奈子 小向美奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-775"
   },
   {
     "id": 70902,
@@ -1312,7 +1621,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20230218/jufd00780pl.jpg",
@@ -1330,12 +1639,27 @@ window.PAGE_DATA = [
       "中文字幕",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20230218/jufd00782pl.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-782"
+  },
+  {
+    "id": 539303,
+    "IDcode": "JUFD-786",
+    "title": "淫语で诱う寸止め焦らし痴女～仆を生杀しにし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DREAMTICKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-786"
   },
   {
     "id": 174623,
@@ -1347,7 +1671,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/11/01/2737247c23e471ab34b62b54265198c8.jpg",
@@ -1364,7 +1688,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/d4963ca5aae9db34f2f4cd46e0df273a.jpg",
@@ -1379,7 +1703,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/01/09/e1432f58f20e919b2ee654818e202fe4.jpg",
@@ -1394,7 +1718,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250309-1/99d919fe2b5b7992f9632d5409bfb55d.jpg",
@@ -1409,307 +1733,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DREAMTICKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/05/a8c1c1c89aaadae499df6aeb8661ce2c.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-821"
-  },
-  {
-    "id": 213828,
-    "IDcode": "JUFD-823",
-    "title": "射精無制限-佐倉ねね 白石りん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/10/c3c3af5edc7fd59af2f47629e274d277.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-823"
-  },
-  {
-    "id": 107727,
-    "IDcode": "JUFD-824",
-    "title": "耻辱的无套後庭调教-加奈自由",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "肛交",
-      "中出",
-      "二穴同时挿入",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/5ad8dbd2a82a163694827168017b18aa.jpg",
-    "actress": [
-      "奏自由"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-824"
-  },
-  {
-    "id": 107726,
-    "IDcode": "JUFD-825",
-    "title": "热门美体店-水川枫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "巨乳",
-      "淫语",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/e34ff5cc2129ee9bf43268d2a763f2f1.jpg",
-    "actress": [
-      "水川かえで"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-825"
-  },
-  {
-    "id": 225730,
-    "IDcode": "JUFD-827",
-    "title": "想怀孕的淫乱巨臀妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/442de376ef6074ef770ac6a4d222bea5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-827"
-  },
-  {
-    "id": 213913,
-    "IDcode": "JUFD-830",
-    "title": "密着検証-中村知恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2021/10/13/eccfdbd8a47545a4322163e09662f1dc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-830"
-  },
-  {
-    "id": 107725,
-    "IDcode": "JUFD-834",
-    "title": "激烈射精的回春旅馆-长谷川舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "屁股",
-      "乳液",
-      "老板娘，女主人",
-      "手淫",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/13d4bbe0b32f402e83076829c4d72d4d.jpg",
-    "actress": [
-      "长谷川舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-834"
-  },
-  {
-    "id": 536341,
-    "IDcode": "JUFD-836",
-    "title": "爆乳レズビアン バリタチ快楽调教 ～新人グラドルをフェムネコにさせる先辈グラドル～ 涩谷果歩 后藤里香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230704/jufd836pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-836"
-  },
-  {
-    "id": 211022,
-    "IDcode": "JUFD-839",
-    "title": "职场女性-君島みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2020/11/25/8661dcd30bf2308915e0f4ac0bf3dcb6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-839"
-  },
-  {
-    "id": 173517,
-    "IDcode": "JUFD-843",
-    "title": "妻子的巨乳妹妹太喜欢我不管在家里哪个地方都会来诱惑我中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/11/07/3326c6eea33d20788cbc65beea575d66.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-843"
-  },
-  {
-    "id": 536340,
-    "IDcode": "JUFD-847",
-    "title": "接吻乳首责めレズビアン～人妻の卑猥なレズキスニップル调教～ 君岛みお 桐嶋りの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230704/jufd847pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-847"
-  },
-  {
-    "id": 213949,
-    "IDcode": "JUFD-851",
-    "title": "乳房的极致-羽海野まお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68ea8bac2c5ed64ee9e61fc1/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-851"
-  },
-  {
-    "id": 587780,
-    "IDcode": "JUFD-852",
-    "title": "一起来锻炼快感吧！ 手冢有纪 手冢有纪",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20251001-1/1676e92faab914d2ea1de025ac356d81.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-852"
-  },
-  {
-    "id": 534475,
-    "IDcode": "JUFD-855",
-    "title": "卑猥なカラダのハーフ美少女 浜崎まりあAVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230416/jufd00855pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-855"
-  },
-  {
-    "id": 534474,
-    "IDcode": "JUFD-857",
-    "title": "パイパン剥き出し爆乳水着 椿织さとみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230416/jufd00857pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-857"
-  },
-  {
-    "id": 534487,
-    "IDcode": "JUFD-858",
-    "title": "人妻紧缚奴隶 长谷川舞 ～亲类に轮奸される麻縄调教～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230423/jufd00858pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-858"
-  },
-  {
-    "id": 470012,
-    "IDcode": "JUFD-859",
-    "title": "濃厚熱吻玩翻奶頭蕾絲邊 佐倉寧寧 波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd0fcb0069396376783c32/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-859"
-  },
-  {
-    "id": 534499,
-    "IDcode": "JUFD-860",
-    "title": "ぬるテカおっぱいでご奉仕してくれるむっちり绮丽な爆乳メイド 中村知恵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DREAMTICKET",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2023/04/v51ayye0sm5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFD-860"
   }
 ];

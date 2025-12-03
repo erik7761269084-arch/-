@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230512/blk026pl.jpg!320x216.jpg",
@@ -24,7 +24,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/f694622907fb3e6448740acfb82a0f9c.jpg",
@@ -39,7 +39,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230514/blk033pl.jpg!320x216.jpg",
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240508-1/4db6fc68b42b2620068d069ef7efd517.jpg",
@@ -71,7 +71,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/311f0e6300e13849eb9425ca8b9bd309.jpg",
@@ -104,7 +104,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250328/2rNAf6w9/1.jpg",
@@ -121,7 +121,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230620-1/3216b058fd51d2cda6c554d4ee2e9063.jpg",
@@ -139,7 +139,7 @@ window.PAGE_DATA = [
       "痴汉",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/03/67c59d7bcf22ae3e0418df36/cover.jpg",
@@ -156,7 +156,7 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1966cf22ae3e0427d29b/cover.jpg",
@@ -171,7 +171,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1967cf22ae3e0427d29c/cover.jpg",
@@ -188,7 +188,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1952cf22ae3e0427d299/cover.jpg",
@@ -203,12 +203,70 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc1952cf22ae3e0427d29a/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-198"
+  },
+  {
+    "id": 75504,
+    "IDcode": "BLK-208",
+    "title": "F罩杯大胸黝黑gal女高中生-爱实丽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "无码破解",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蓝井优太",
+      "鲛岛",
+      "爱実れい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-208"
+  },
+  {
+    "id": 575488,
+    "IDcode": "BLK-224",
+    "title": "日焼け黒ギャル専属デビュー全身敏感ビッ第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-224"
+  },
+  {
+    "id": 567080,
+    "IDcode": "BLK-227",
+    "title": "kira★kiraBLACKGAL美巨乳黒ギャルERIKAの危険日中出第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-227"
   },
   {
     "id": 535298,
@@ -218,7 +276,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240420/blk241pl.jpg!320x216.jpg",
@@ -233,7 +291,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240521/blk245pl.jpg!320x216.jpg",
@@ -248,12 +306,82 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240531/blk247pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-247"
+  },
+  {
+    "id": 100190,
+    "IDcode": "BLK-250",
+    "title": "ギャルコスプレイヤーユニット 中出しOK地下ライブ☆ AIKA 彩城ゆりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "角色扮演",
+      "艺人",
+      "中出",
+      "滥交",
+      "女生"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "2015-10-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "AIKA",
+      "大岛丈",
+      "小仓由纪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-250"
+  },
+  {
+    "id": 535417,
+    "IDcode": "BLK-253",
+    "title": "ギャルの弱☆点、子宫の入りぐちぃ 有村リア",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-253"
+  },
+  {
+    "id": 225092,
+    "IDcode": "BLK-257",
+    "title": "谜样的辣妹-MISA",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-257"
+  },
+  {
+    "id": 225090,
+    "IDcode": "BLK-260",
+    "title": "拼命性爱的辣妹-滨崎真绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-260"
   },
   {
     "id": 534642,
@@ -263,12 +391,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230721/blk262pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-262"
+  },
+  {
+    "id": 534683,
+    "IDcode": "BLK-264",
+    "title": "ギャルと结婚して子供を作ろう 北条ルルカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-264"
   },
   {
     "id": 534699,
@@ -278,7 +421,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230822/blk266pl.jpg!320x216.jpg",
@@ -293,7 +436,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230926/blk272pl.jpg!320x216.jpg",
@@ -308,7 +451,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/08/06/d681efd3836f09382f544a1f7a474932.jpg",
@@ -323,12 +466,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231001/blk274pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-274"
+  },
+  {
+    "id": 210518,
+    "IDcode": "BLK-275",
+    "title": "第一艳星-上原亜衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-275"
   },
   {
     "id": 534794,
@@ -340,12 +498,27 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231007/blk276pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-276"
+  },
+  {
+    "id": 549560,
+    "IDcode": "BLK-279",
+    "title": "弟を焦らして中出しさせるのが日课のうちの姊 松嶋葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-279"
   },
   {
     "id": 534877,
@@ -355,7 +528,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231103/blk281pl.jpg!320x216.jpg",
@@ -372,7 +545,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/04/10/a6c605ef889fa49139dc72c8528f100f.jpg",
@@ -387,7 +560,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231123/blk287pl.jpg!320x216.jpg",
@@ -402,7 +575,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231201/blk290pl.jpg!320x216.jpg",
@@ -417,12 +590,50 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230622-1/16602602be619e1bf8699d9a6bb9538d.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-298"
+  },
+  {
+    "id": 212379,
+    "IDcode": "BLK-299",
+    "title": "感謝祭2016-椎名そら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-299"
+  },
+  {
+    "id": 82250,
+    "IDcode": "BLK-302",
+    "title": "嫉妒兄控的萝莉辣妹-跡美しゅり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "妹妹",
+      "女生",
+      "主观视角",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "迹美珠里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-302"
   },
   {
     "id": 517735,
@@ -432,7 +643,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9bbb431a2714f1c698154/poster2.jpg",
@@ -453,7 +664,7 @@ window.PAGE_DATA = [
       "主观视角",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d7a97f14d136371d2f24b02819f0e455.jpg",
@@ -470,7 +681,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a60229744c3757ff001fb631fa0a7b84.jpg",
@@ -485,7 +696,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/ed78779c20ef1f35566da73a73b25231.jpg",
@@ -502,12 +713,42 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/a64f1bab0925b014e48bbd57c2ad2679.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-310"
+  },
+  {
+    "id": 535156,
+    "IDcode": "BLK-312",
+    "title": "突然出来た义理のお姊ちゃんは中出し大好き超絶伦ヤリマンギャル 美竹すず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-312"
+  },
+  {
+    "id": 567202,
+    "IDcode": "BLK-313",
+    "title": "駅5000●でヤレる！课金OK中出し痴汉椎名そら第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-313"
   },
   {
     "id": 74956,
@@ -523,7 +764,7 @@ window.PAGE_DATA = [
       "女生",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/18b7b679211cb0b8882c883c49e60597.jpg",
@@ -543,7 +784,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/7f984c900233ac0b835fe7e233fe70e2.jpg",
@@ -558,7 +799,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240504-1/ca1504bbd6001c82c13944dce1ac05d4.jpg",
@@ -573,12 +814,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/219b11ff7dd401c1612335fb553ab48e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-317"
+  },
+  {
+    "id": 74292,
+    "IDcode": "BLK-318",
+    "title": "被闺蜜出卖随意中出的女高中生-椎名そら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "强奸",
+      "中出",
+      "滥交",
+      "女生",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椎名空"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-318"
   },
   {
     "id": 556974,
@@ -588,7 +852,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a545f9ca17b4c3b45cb2cc582926d1d7.jpg",
@@ -603,7 +867,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231004/blk322pl.jpg!320x216.jpg",
@@ -618,7 +882,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240322/blk324pl.jpg!320x216.jpg",
@@ -633,7 +897,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/07/02/56360c65dfca7231d009682ec3e97bbb.jpg",
@@ -650,7 +914,7 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/45acf3fed4b80afeaba201b1d9a24cca.jpg",
@@ -665,7 +929,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/f6c18e2fb762043b97a6348f45aeb6a9.jpg",
@@ -680,7 +944,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/abb8c6cfc59e00233a486874cca25107.jpg",
@@ -697,12 +961,27 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/9d75f3f28801c1fb9ae9e596266dfb74.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-331"
+  },
+  {
+    "id": 194978,
+    "IDcode": "BLK-332",
+    "title": "恶魔级痴女若菜奈央帮处男粉丝破处不断内射到最后分不清是福利还是折磨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-332"
   },
   {
     "id": 557001,
@@ -715,7 +994,7 @@ window.PAGE_DATA = [
       "乱伦",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/50c37d5ca434e08e7253f8c8e65f086a.jpg",
@@ -730,7 +1009,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/f650d08369ec832aa55081e8baf3721a.jpg",
@@ -745,12 +1024,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/0354da138ab99d4eab5a20fa2d9347a5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-336"
+  },
+  {
+    "id": 212248,
+    "IDcode": "BLK-337",
+    "title": "生意気女子校生-愛瀬美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-337"
   },
   {
     "id": 556724,
@@ -760,7 +1054,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250928-1/8243ca860a67ce8f1ac9d2bff7f3bc0e.jpg",
@@ -775,7 +1069,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/8a387f8bccffbdd20a063311522afb0c.jpg",
@@ -790,7 +1084,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/f4d792dbd8773ccd497edb80b3ee1a6c.jpg",
@@ -808,12 +1102,27 @@ window.PAGE_DATA = [
       "乱伦",
       "出道作"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/7fb4169fd708f01464cc9834461fb5fc.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-344"
+  },
+  {
+    "id": 210279,
+    "IDcode": "BLK-345",
+    "title": "騎乗位誘惑 若菜奈央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-345"
   },
   {
     "id": 556983,
@@ -823,7 +1132,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/cf26943cb57f118d4514f98d5abeb275.jpg",
@@ -838,7 +1147,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/b7420003960a47027a05183f55c4324f.jpg",
@@ -853,12 +1162,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/129274ea448cb6c52c75350ec5611b52.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-348"
+  },
+  {
+    "id": 544466,
+    "IDcode": "BLK-352",
+    "title": "某日突然与妹妹的男友换做爱 河南（下）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-352"
   },
   {
     "id": 591957,
@@ -868,12 +1194,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/51a8b20d2a402e92c96f9498e6575488.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-355"
+  },
+  {
+    "id": 73335,
+    "IDcode": "BLK-356",
+    "title": "丈夫一出门妻子就找人来插自己",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出轨",
+      "白天出轨",
+      "无毛",
+      "巨乳",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-356"
   },
   {
     "id": 71612,
@@ -890,7 +1239,7 @@ window.PAGE_DATA = [
       "女生",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/2f38ba1a756de18e224d47eb381165b9.jpg",
@@ -900,6 +1249,29 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-359"
   },
   {
+    "id": 82260,
+    "IDcode": "BLK-361",
+    "title": "变态的黑丝巨乳女老师-君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "女教师",
+      "中出",
+      "巨乳",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-361"
+  },
+  {
     "id": 579274,
     "IDcode": "BLK-362",
     "title": "日替わり制服小悪魔ギャル挑発しまくりパンチラ里风俗 冴木エリカ",
@@ -907,12 +1279,51 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231009/blk362pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-362"
+  },
+  {
+    "id": 218327,
+    "IDcode": "BLK-363",
+    "title": "怒目而视的姐姐-河南実里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-363"
+  },
+  {
+    "id": 82216,
+    "IDcode": "BLK-371",
+    "title": "把从小一起长大的水川菫变成我专属的小太妹女仆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女佣",
+      "中出",
+      "女生",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-371"
   },
   {
     "id": 591884,
@@ -922,12 +1333,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/7KDuiIte.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-373"
+  },
+  {
+    "id": 194141,
+    "IDcode": "BLK-378",
+    "title": "搭讪混血巴西大屁股比基尼辣妹来干个爽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-378"
   },
   {
     "id": 71638,
@@ -943,7 +1369,7 @@ window.PAGE_DATA = [
       "晒黑",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1a4e04224cbf6f89a7c0d74b86e095bc.jpg",
@@ -965,7 +1391,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678370a42a47ebb1a89488ed/cover.jpg",
@@ -988,12 +1414,35 @@ window.PAGE_DATA = [
       "巨乳",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/68c6bffc91426b985ebb0f3b81810cad.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-391"
+  },
+  {
+    "id": 99509,
+    "IDcode": "BLK-392",
+    "title": "家出中の嫌がる巨乳ギャルのデカ乳首を執拗にねっちょり責め妊娠セックスしまくった48時間の記録ビデオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "中出",
+      "制服",
+      "巨乳",
+      "女生"
+    ],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "2018-12-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "星宮虹乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-392"
   },
   {
     "id": 578383,
@@ -1003,7 +1452,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200724/blk393pl.jpg",
@@ -1026,7 +1475,7 @@ window.PAGE_DATA = [
       "泳装",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/1988c7283bf8a19e0c187f9c7f349744.jpg",
@@ -1035,6 +1484,51 @@ window.PAGE_DATA = [
       "Qべぇ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-395"
+  },
+  {
+    "id": 534074,
+    "IDcode": "BLK-396",
+    "title": "乳首激弱ヤンキー！超敏感乳首スイッチを弄りっぱでブチ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-396"
+  },
+  {
+    "id": 534072,
+    "IDcode": "BLK-397",
+    "title": "小さいカラダで态度はデカイ！超生意気140cmミニギャルが20セ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-397"
+  },
+  {
+    "id": 578382,
+    "IDcode": "BLK-398",
+    "title": "【ヤレるトモダチ绍介して！】セフレのマブダチの‘神ヤリマン’超可爱いのに简単にハメれてお口",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "KIRAKIRA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-398"
   },
   {
     "id": 82224,
@@ -1051,7 +1545,7 @@ window.PAGE_DATA = [
       "轮奸",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67804789c179ffb1db6d75d5/cover.jpg",
@@ -1070,7 +1564,7 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/02/25359_cover_2025-07-02_020815.jpg",
@@ -1085,7 +1579,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/3a2cad36b5cb400d87cc28e5e652ddfa.jpg",
@@ -1108,7 +1602,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/090b4ec9b60ae091eea189bc10dde1f6.jpg",
@@ -1133,7 +1627,7 @@ window.PAGE_DATA = [
       "女生",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fc611f00a12816d19ccbc2b93c38feef.jpg",
@@ -1156,7 +1650,7 @@ window.PAGE_DATA = [
       "女生",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "2019-06-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/5a2e5c7a1c604b9b8e6013d4f5f235f5.jpg",
@@ -1179,7 +1673,7 @@ window.PAGE_DATA = [
       "恋物癖",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4e28d3394aeeace0890b68473ba6d98a.jpg",
@@ -1201,7 +1695,7 @@ window.PAGE_DATA = [
       "女生",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "2019-06-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/e6dd5280558d4db2249b576589a3b465.jpg",
@@ -1209,651 +1703,25 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-406"
   },
   {
-    "id": 75138,
-    "IDcode": "BLK-408",
-    "title": "田舎の日焼け家出ギャルを自宅に連れ帰りSEX強要！ナマイキな敏感乳首をイジると感度崩壊！ガクガク失禁マ●コに生パコ中出し！",
+    "id": 74651,
+    "IDcode": "BLK-407",
+    "title": "クソ生意気下着売り制服娘を監禁生姦キメパコ中出し 渚みつき",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "晒黑",
+      "监禁",
       "中出",
       "女生",
-      "巨乳"
+      "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "KIRAKIRA",
     "publish_date": "2019-06-19",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/1aae96aa69fe336c6f3695b9b19a8c53.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-408"
-  },
-  {
-    "id": 75144,
-    "IDcode": "BLK-409",
-    "title": "生意気だけど鬼カワ制服",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "校服",
-      "调教",
-      "中出",
-      "素人作品",
-      "精选，综合",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad78e55337d7f7be49533/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-409"
-  },
-  {
-    "id": 71152,
-    "IDcode": "BLK-411",
-    "title": "デカ尻ヤンキー！ケツ穴広げられブチギレ状態で子宮追撃バック鬼ピストンまさかの超乙女モード堕ちでAV出演！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "骑乗位",
-      "素人作品",
-      "精选，综合",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c898c37ea9283297abdcf12bb02d1482.jpg",
-    "actress": [
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-411"
-  },
-  {
-    "id": 75133,
-    "IDcode": "BLK-412",
-    "title": "【ヤレるトモダチ紹介して！】 セフレのマブダチは‘普段は塩対応、SEXは神対応’埼玉代表ヤリマン騎乗位中出しが鬼ヤバイ！制服黒ギャルあおいちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "素人作品",
-      "精选，综合",
-      "晒黑",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "2019-07-19",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/a8de776f9e2f827b69b3cc91925dc0b4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-412"
-  },
-  {
-    "id": 75136,
-    "IDcode": "BLK-413",
-    "title": "騎乗位エロ杉デリヘルギャルと朝までパコってそのまま海デート！さらにラブホで騎乗位中出し記録 甘夏りいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "礼仪小姐",
-      "素人作品",
-      "巨乳",
-      "女上位",
-      "精选，综合",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "2019-07-19",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d1ccb7014963c554477a16cf53d212f4.jpg",
-    "actress": [
-      "甘夏りいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-413"
-  },
-  {
-    "id": 75132,
-    "IDcode": "BLK-414",
-    "title": "文系制服ギャル放課後円光日記。生姦LOVE娘ともちゃん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "校服",
-      "无毛",
-      "中出",
-      "女生",
-      "接吻"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "2019-08-19",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/3714284a6ed66a17b311c07787029045.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-414"
-  },
-  {
-    "id": 75131,
-    "IDcode": "BLK-415",
-    "title": "＃孕ませオヤジ募集 渚みつき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "素人作品",
-      "精选，综合",
-      "滥交",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "2019-08-19",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/4188ce4311d08ce44947f1b4e48c7400.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
       "渚光希"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-415"
-  },
-  {
-    "id": 75146,
-    "IDcode": "BLK-417",
-    "title": "彼女が目を離した一瞬の隙-深田えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "素人作品",
-      "巨乳",
-      "口交",
-      "精选，综合",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8b80710776c9339d1feca49e83afdd0d.jpg",
-    "actress": [
-      "深田詠美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-417"
-  },
-  {
-    "id": 71194,
-    "IDcode": "BLK-418",
-    "title": "彼氏に売られた生意気ギャル！オヤジ専用睨まれ中出し肉便器 咲々原リン",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "中出",
-      "素人作品",
-      "巨乳",
-      "精选，综合",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0b8b0550714a638476127e7578733b8a.jpg",
-    "actress": [
-      "咲々原リン",
-      "大岛丈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-418"
-  },
-  {
-    "id": 97942,
-    "IDcode": "BLK-420",
-    "title": "吉原で指名率No.1の超人気ソープ嬢！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中文字幕",
-      "首次亮相",
-      "中出",
-      "巨乳",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/blk420/blk420pl.jpg",
-    "actress": [
-      "イセドン内村",
-      "佐佐木艾丽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-420"
-  },
-  {
-    "id": 71195,
-    "IDcode": "BLK-421",
-    "title": "幼なじみの生意気ギャルと保健室の",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "处男",
-      "中文字幕",
-      "口交",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/675183424413d69b0d5a3810a697580e.jpg",
-    "actress": [
-      "渚光希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-421"
-  },
-  {
-    "id": 72296,
-    "IDcode": "BLK-422",
-    "title": "【AIKAの素人ギャル発掘ナンパプロジェクト】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "中文字幕",
-      "猎艳",
-      "中出",
-      "滥交",
-      "泳装",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3ef74de0686af754abea5eaa3b9fc851.jpg",
-    "actress": [
-      "AIKA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-422"
-  },
-  {
-    "id": 165978,
-    "IDcode": "BLK-423",
-    "title": "大嫌いなオヤジ相手なのにすんごい腰フリ！町田で見つけたオ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67873dd25d57b64bfdd99584/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-423"
-  },
-  {
-    "id": 82227,
-    "IDcode": "BLK-424",
-    "title": "做援交的小恶魔学生妹深田咏美喜欢到班里女同学家玩的时候趁机给她们的老爸发自己的名片",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "礼仪小姐",
-      "女同",
-      "素人作品",
-      "口交",
-      "淫语",
-      "女生",
-      "精选，综合"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/678744465d57b64bfdda2c96/cover.jpg",
-    "actress": [
-      "深田詠美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-424"
-  },
-  {
-    "id": 410467,
-    "IDcode": "BLK-426",
-    "title": "クソ生意気な円光たけのこ剥ぎ娘を馬乗りレ×プ 渚光希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f87aa89def9b1b8cf3140/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-426"
-  },
-  {
-    "id": 86911,
-    "IDcode": "BLK-428",
-    "title": "キミ何回デキルノ？超絶倫性欲の南米ハーフギャルに出逢って何発もヌカれエロ過ぎたのでAV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "口交",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1254a45de6e4e6eb4679573d8a0ace16.jpg",
-    "actress": [
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-428"
-  },
-  {
-    "id": 75757,
-    "IDcode": "BLK-429",
-    "title": "コリアン留学生ギャル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "口交",
-      "巨乳",
-      "女生",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/eb1ce68d48fe0ee73392efd8f843a747.jpg",
-    "actress": [
-      "深田詠美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-429"
-  },
-  {
-    "id": 75230,
-    "IDcode": "BLK-430",
-    "title": "不能告诉家人的秘密女高中生渚美月每天都瞒着父母和比他们还大的大叔做爱内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "美少女电影",
-      "口交",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/1f24c2b3b5181ac9dff307d965a08380.jpg",
-    "actress": [
-      "渚光希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-430"
-  },
-  {
-    "id": 72297,
-    "IDcode": "BLK-431",
-    "title": "地方で発掘！円光オヤジ相手にグラインド騎乗位で勝手にイキまくる超敏感原石ギャルAV出演！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "业余",
-      "口交",
-      "女上位",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f56c9775840620168512249856fef364.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-431"
-  },
-  {
-    "id": 97993,
-    "IDcode": "BLK-432",
-    "title": "ヌキなしアジアンエステで見つけた！SKBキワキワ鬼責めFBK確定手コキの天才！東南アジアギャルAV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "偷窥",
-      "手淫",
-      "晒黑",
-      "美容院"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/06a5d2103ffbdd86d7e953ab8d1b28cc.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-432"
-  },
-  {
-    "id": 169210,
-    "IDcode": "BLK-433",
-    "title": "ギャル好き親父ナンパ師が人生で一番射精しまくった、超敏感Hcup日焼け乳首ギャルを海でGET",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/df658f69e900634e7ffa29ee1c8506ce.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-433"
-  },
-  {
-    "id": 75229,
-    "IDcode": "BLK-434",
-    "title": "招之即来的情人永井玛丽亚一直做到早上的内射不伦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "中出",
-      "口交",
-      "巨乳",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/497809be14ce4970ca75236558166c01.jpg",
-    "actress": [
-      "永井瑪麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-434"
-  },
-  {
-    "id": 72263,
-    "IDcode": "BLK-435",
-    "title": "第一时间拍摄下强奸心仪的不良少女深田咏美的全过程一边抽插一边被用脏话辱骂 深田詠美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "深喉",
-      "制服"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d3067c7860724fbec57fffae40ead5b4.jpg",
-    "actress": [
-      "深田詠美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-435"
-  },
-  {
-    "id": 79002,
-    "IDcode": "BLK-437",
-    "title": "和网上被称为第一神臀的辣妹援交女内射做爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大屁股",
-      "巨乳",
-      "口交",
-      "晒黑",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9af0301ec411f8a3c863a70929750a95.jpg",
-    "actress": [
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-437"
-  },
-  {
-    "id": 75762,
-    "IDcode": "BLK-438",
-    "title": "高傲賣內褲制服妹監禁生姦抽插中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女生",
-      "中出",
-      "深喉",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/f0537776586cd3e7c807b61463d0ab93.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-438"
-  },
-  {
-    "id": 75763,
-    "IDcode": "BLK-441",
-    "title": "被他哥哥下春药内射上瘾的学生-渚みつき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "潮吹",
-      "中出",
-      "制服",
-      "素人作品",
-      "精选，综合",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "2020-01-19",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241125-1/83882eb0b49fd80ede93d8992915e35f.jpg",
-    "actress": [
-      "渚光希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-441"
-  },
-  {
-    "id": 83525,
-    "IDcode": "BLK-442",
-    "title": "エグい程下品な女 錦糸町裏通りで見つけたイカれた肉弾ムチムチビッチと一日中ラブホに籠って生ハメ中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "巨大屁股",
-      "中出",
-      "口交",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "2020-01-19",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221227-1/d580ebc30c9fc45d9b08b42730c3b7f3.jpg",
-    "actress": [
-      "结白まさき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-442"
-  },
-  {
-    "id": 82256,
-    "IDcode": "BLK-447",
-    "title": "用肉棒教训可爱继女-永瀬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女生",
-      "中出",
-      "屁股",
-      "深喉"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e1eca2a47ebb1a871d61a/cover.jpg",
-    "actress": [
-      "永瀬ゆい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-447"
-  },
-  {
-    "id": 88289,
-    "IDcode": "BLK-450",
-    "title": "親戚のエロギャル2人が泊まりに来た夜に川の字で挟まれ両隣りから乳首をイジリ痴女られまくった…。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "荡妇",
-      "中出",
-      "口交",
-      "女生"
-    ],
-    "type": "",
-    "company": "KIRAKIRA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/42101f51068b7e28ae09af1bb80a4118.jpg",
-    "actress": [
-      "渚光希",
-      "久远れいら"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-450"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BLK-407"
   }
 ];

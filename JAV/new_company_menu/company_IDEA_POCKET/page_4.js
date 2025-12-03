@@ -1,5 +1,249 @@
 window.PAGE_DATA = [
   {
+    "id": 19099,
+    "IDcode": "IPX-343",
+    "title": "欺骗岬奈奈美拍摄痴女然后突然男优雄起狂插内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "猥褻穿著",
+      "中出",
+      "美少女電影",
+      "亂交 • 群P"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/f9d47d074740daebfd953c8db4a42297.jpg",
+    "actress": [
+      "岬奈奈美",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-343"
+  },
+  {
+    "id": 19101,
+    "IDcode": "IPX-344",
+    "title": "强势的女上司-明里つむぎ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫語",
+      "辦公室",
+      "OL",
+      "中出",
+      "短裙・迷你裙",
+      "女上司"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/4fc9af7614cac05b576cf002635e6c06.jpg",
+    "actress": [
+      "明里紬",
+      "明里䌷"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-344"
+  },
+  {
+    "id": 19107,
+    "IDcode": "IPX-345",
+    "title": "瞒着父母偷偷报名的纯白处女大小姐羽鸟在摄影棚怀着愧疚之情破处AV出道",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女電影",
+      "出道作",
+      "出道作品",
+      "處女",
+      "大小姐",
+      "苗條"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717234146675675.jpg",
+    "actress": [
+      "美月羽鳥"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-345"
+  },
+  {
+    "id": 19104,
+    "IDcode": "IPX-346",
+    "title": "神人妻AV首秀!兩個孩子的母親...居然那麽漂亮! 特別的人妻氣質",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "人妻",
+      "多P",
+      "乱伦",
+      "出道作品",
+      "苗條"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "2019-07-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717234421727727.jpg",
+    "actress": [
+      "彩月希",
+      "鲛岛",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-346"
+  },
+  {
+    "id": 19103,
+    "IDcode": "IPX-347",
+    "title": "新人AV出道！ ！第一印象135 漂亮姊姊在社團很活躍！為‘那位’前舞者成員獨家決定！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作品",
+      "姐姐・妹妹",
+      "巨乳",
+      "出道作"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717234731377377.jpg",
+    "actress": [
+      "夏希栗",
+      "森林原人",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-347"
+  },
+  {
+    "id": 19100,
+    "IDcode": "IPX-348",
+    "title": "漂亮可愛大姊快感絶頂4本番 超大量潮吹240分特別編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "美少女電影",
+      "淫亂",
+      "4小時以上作品",
+      "姐姐・妹妹",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "2019-08-13",
+    "cover_url": "https://picture.yoshiclub.xyz/20230717/20230717235004684684.jpg",
+    "actress": [
+      "知花凛",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-348"
+  },
+  {
+    "id": 19102,
+    "IDcode": "IPX-349",
+    "title": "大原向葵超绝顶254回性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "美少女電影",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/07b21f0094fa88746f54dfe7f0b256d5.jpg",
+    "actress": [
+      "大原向葵",
+      "鲛岛",
+      "小田切ジュン"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-349"
+  },
+  {
+    "id": 19108,
+    "IDcode": "IPX-350",
+    "title": "美女维纳斯三女神的联袂出演献上年度盛宴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "淫亂",
+      "4小時以上作品",
+      "巨乳",
+      "無碼破解"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "2024-11-22",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7216e1fbe12e16a144ccc89955b2f58c.jpg",
+    "actress": [
+      "天海翼",
+      "羽笑美晴",
+      "秋山祥子",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-350"
+  },
+  {
+    "id": 19089,
+    "IDcode": "IPX-351",
+    "title": "美少女-優月心菜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "打手槍",
+      "偶像",
+      "美少女電影",
+      "接吻"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bc6d93ed39b57c09ea6a8/cover.jpg",
+    "actress": [
+      "優月心菜",
+      "优月心菜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-351"
+  },
+  {
+    "id": 19093,
+    "IDcode": "IPX-352",
+    "title": "中年好きな文学美少女に身動きできない状態でじっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女電影",
+      "眼鏡",
+      "勾引・誘惑",
+      "中文字幕",
+      "文藝女",
+      "蕩婦",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://picture.yoshiclub.xyz/20230720/202307200043192222.jpg",
+    "actress": [
+      "楓花戀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-352"
+  },
+  {
     "id": 19090,
     "IDcode": "IPX-353",
     "title": "禁欲一個月後與女友朋友瘋狂做愛 櫻空桃 合計8回密著性交",
@@ -11,7 +255,7 @@ window.PAGE_DATA = [
       "女友閨蜜",
       "美少女電影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2019-08-13",
     "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720005321559559.jpg",
@@ -36,7 +280,7 @@ window.PAGE_DATA = [
       "巨乳",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bc8253ed39b57c09eb61d/cover.jpg",
@@ -58,7 +302,7 @@ window.PAGE_DATA = [
       "制服",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/46b22e1fa995e21163524c1f28b2f80d.jpg",
@@ -83,7 +327,7 @@ window.PAGE_DATA = [
       "中出",
       "純愛・戀愛"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2019-08-13",
     "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720010137651651.jpg",
@@ -107,7 +351,7 @@ window.PAGE_DATA = [
       "中文字幕",
       "按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bca603ed39b57c09ed17f/cover.jpg",
@@ -132,9 +376,9 @@ window.PAGE_DATA = [
       "出差",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
-    "publish_date": "",
+    "publish_date": "2024-07-17",
     "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720011207705705.jpg",
     "actress": [
       "相澤南"
@@ -156,7 +400,7 @@ window.PAGE_DATA = [
       "苗條",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230720/20230720011707973973.jpg",
@@ -180,7 +424,7 @@ window.PAGE_DATA = [
       "中出",
       "放尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6784edf989def9b1b8f34342/cover.jpg",
@@ -203,7 +447,7 @@ window.PAGE_DATA = [
       "女上位",
       "出道作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721215533235235.jpg",
@@ -231,7 +475,7 @@ window.PAGE_DATA = [
       "靴子",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230721/202307212156118181.jpg",
@@ -257,7 +501,7 @@ window.PAGE_DATA = [
       "女上位",
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/01/25/245d5f2bf7cc7b29bf8717769ec842a3.jpg",
@@ -282,7 +526,7 @@ window.PAGE_DATA = [
       "風俗夜場",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782829689def9b1b8e47a15/cover.jpg",
@@ -304,7 +548,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721221854319319.jpg",
@@ -328,7 +572,7 @@ window.PAGE_DATA = [
       "偷窥",
       "戏剧"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782836189def9b1b8e47a20/cover.jpg",
@@ -353,7 +597,7 @@ window.PAGE_DATA = [
       "口交",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/799b4f2491a1eb3f22fb2b2fb57df4c8.jpg",
@@ -378,7 +622,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/6782828289def9b1b8e47a14/cover.jpg",
@@ -401,7 +645,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6782804489def9b1b8e479ff/cover.jpg",
@@ -425,7 +669,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230721/20230721224510838838.jpg",
@@ -447,7 +691,7 @@ window.PAGE_DATA = [
       "應召・援交",
       "飯店小姐・援交妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6782817389def9b1b8e47a0f/cover.jpg",
@@ -470,7 +714,7 @@ window.PAGE_DATA = [
       "高跟鞋",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0126bd9e577fdb2fce94c05a56b53f50.jpg",
@@ -493,7 +737,7 @@ window.PAGE_DATA = [
       "出差",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6782815789def9b1b8e47a0d/cover.jpg",
@@ -515,7 +759,7 @@ window.PAGE_DATA = [
       "中出",
       "女教師"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67873a955d57b64bfdd98a97/cover.jpg",
@@ -540,7 +784,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/007980bb20fbfc8b4e21f8eab19a0c0f.jpg",
@@ -564,7 +808,7 @@ window.PAGE_DATA = [
       "出道作品",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6f233506199e02e3e2482a548881fd5d.jpg",
@@ -587,7 +831,7 @@ window.PAGE_DATA = [
       "巨乳",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230723/20230723211043533533.jpg",
@@ -610,7 +854,7 @@ window.PAGE_DATA = [
       "素人作品",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/0a36e445cbb73ec92e43ff0d785745f5.jpg",
@@ -633,7 +877,7 @@ window.PAGE_DATA = [
       "素人作品",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6640134f5201355622762261d468b208.jpg",
@@ -658,7 +902,7 @@ window.PAGE_DATA = [
       "口交",
       "放尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230724/20230724043053466466.jpg",
@@ -683,7 +927,7 @@ window.PAGE_DATA = [
       "口交",
       "顏射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230727/20230727022035856856.jpg",
@@ -709,7 +953,7 @@ window.PAGE_DATA = [
       "無碼破解",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230727/20230727022101571571.jpg",
@@ -739,7 +983,7 @@ window.PAGE_DATA = [
       "偷窺",
       "無碼破解"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677d738c2a47ebb1a870c51c/cover.jpg",
@@ -763,7 +1007,7 @@ window.PAGE_DATA = [
       "口交",
       "紀錄片"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230727/20230727023026732732.jpg",
@@ -771,6 +1015,21 @@ window.PAGE_DATA = [
       "西宮夢"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-386"
+  },
+  {
+    "id": 591521,
+    "IDcode": "IPX-3861",
+    "title": "[中国语字幕]ヶ月间禁欲し彼女のいない数日间に彼女の亲友と気が狂う",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "IDEA POCKET",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-3861"
   },
   {
     "id": 19062,
@@ -787,7 +1046,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6889015bb706f3387c42a2e381af523d.jpg",
@@ -816,7 +1075,7 @@ window.PAGE_DATA = [
       "亂交 • 群P",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230727/20230727023943432432.jpg",
@@ -849,7 +1108,7 @@ window.PAGE_DATA = [
       "無碼破解",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230727/20230727025144280280.jpg",
@@ -874,7 +1133,7 @@ window.PAGE_DATA = [
       "口交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230727/202307270253019292.jpg",
@@ -901,7 +1160,7 @@ window.PAGE_DATA = [
       "口交",
       "業餘"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729210153392392.jpg",
@@ -925,7 +1184,7 @@ window.PAGE_DATA = [
       "亂交 • 群P",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678754fc5d57b64bfde1eed9/cover.jpg",
@@ -950,7 +1209,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "靴子"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fc442afcafd1669164f23d438603df69.jpg",
@@ -973,7 +1232,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "蕩婦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729211020241241.jpg",
@@ -997,7 +1256,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "女上司"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7766cdbc1a05aee93f63dd3ac479b3e1.jpg",
@@ -1021,7 +1280,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230729/20230729212450774774.jpg",
@@ -1045,7 +1304,7 @@ window.PAGE_DATA = [
       "乱伦",
       "姐姐・妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/050337138e1f97b7031d24fa54be8ddc.jpg",
@@ -1069,7 +1328,7 @@ window.PAGE_DATA = [
       "出軌",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/652d6609e5aa52743eada009148620ff.jpg",
@@ -1095,7 +1354,7 @@ window.PAGE_DATA = [
       "巨乳",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787541b5d57b64bfde0b2e0/cover.jpg",
@@ -1120,7 +1379,7 @@ window.PAGE_DATA = [
       "高跟鞋",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/48a83df29ad5f738218aa37192d84be1.jpg",
@@ -1145,7 +1404,7 @@ window.PAGE_DATA = [
       "蒙面・面罩",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/fa27caafbda6e552b61133c1977dbd36.jpg",
@@ -1167,7 +1426,7 @@ window.PAGE_DATA = [
       "接吻",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1e0e82d1e2b3b2a4534387c37adcfd61.jpg",
@@ -1190,7 +1449,7 @@ window.PAGE_DATA = [
       "自拍性愛",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6b71c636f7a0a3005297cd2193113a7d.jpg",
@@ -1214,7 +1473,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/47bec6631fa02c9b3ea3bc90c604dd61.jpg",
@@ -1237,7 +1496,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "亂交 • 群P"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0147bdf00c59c783337c16d9cb1d4818.jpg",
@@ -1261,7 +1520,7 @@ window.PAGE_DATA = [
       "自拍性愛",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2019-11-13",
     "cover_url": "https://picture.yoshiclub.xyz/20230802/20230802073924850850.jpg",
@@ -1285,7 +1544,7 @@ window.PAGE_DATA = [
       "巨乳",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d5387ed2b663babd417f0d848714fcbf.jpg",
@@ -1308,7 +1567,7 @@ window.PAGE_DATA = [
       "出道作品",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ba602a3051117c1adfcb5de914879d43.jpg",
@@ -1332,7 +1591,7 @@ window.PAGE_DATA = [
       "中出",
       "姐姐・妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230802/20230802074849796796.jpg",
@@ -1354,7 +1613,7 @@ window.PAGE_DATA = [
       "口交",
       "自拍性愛"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3b9c8b235b3a68fbb51e4d854eaec1b7.jpg",
@@ -1378,7 +1637,7 @@ window.PAGE_DATA = [
       "口交",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ffbb44c841877e97074c714e58e090d2.jpg",
@@ -1401,7 +1660,7 @@ window.PAGE_DATA = [
       "中出",
       "姐姐・妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/732b982f6d54073a1ace8081850faadc.jpg",
@@ -1426,7 +1685,7 @@ window.PAGE_DATA = [
       "少女",
       "模特兒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7a5ec2f281676a336777874728f3b665.jpg",
@@ -1451,7 +1710,7 @@ window.PAGE_DATA = [
       "劇情",
       "小姨子"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://picture.yoshiclub.xyz/20230804/20230804023234335335.jpg",
@@ -1480,7 +1739,7 @@ window.PAGE_DATA = [
       "巨乳",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/eba67780b5bd283288885a310e30ac53.jpg",
@@ -1506,7 +1765,7 @@ window.PAGE_DATA = [
       "出差",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ce16c0484bf596074263ab3bf8477fed.jpg",
@@ -1531,7 +1790,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "姐姐・妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d476bd726a8422961bc761779664e3df.jpg",
@@ -1555,7 +1814,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "性感"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230804/20230804024820374374.jpg",
@@ -1578,7 +1837,7 @@ window.PAGE_DATA = [
       "中出",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7d07cc52190aa943743b1486f59350fb.jpg",
@@ -1602,7 +1861,7 @@ window.PAGE_DATA = [
       "風俗夜場",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ee52cdb979dae46fb3579da68ecb3ba6.jpg",
@@ -1625,7 +1884,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "顏射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/61b91ab2e3a62f4b3f604523ee4a4aa0.jpg",
@@ -1649,7 +1908,7 @@ window.PAGE_DATA = [
       "出道作品",
       "黑絲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805211500529529.jpg",
@@ -1673,7 +1932,7 @@ window.PAGE_DATA = [
       "口交",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/e5df2d08dcb8b8b67e3f4833a83769b5.jpg",
@@ -1702,7 +1961,7 @@ window.PAGE_DATA = [
       "學校",
       "顏射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/08b3ab53a1065a87e8220cb2982be13a.jpg",
@@ -1725,7 +1984,7 @@ window.PAGE_DATA = [
       "中出",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c9caeffc56f2d645bcdd169e385ca00e.jpg",
@@ -1746,7 +2005,7 @@ window.PAGE_DATA = [
       "戀物癖",
       "女學生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/def0d0782d3f630df64dd7b4cb20bac2.jpg",
@@ -1772,7 +2031,7 @@ window.PAGE_DATA = [
       "過膝襪・小腿襪",
       "蕩婦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230805/20230805213219420420.jpg",
@@ -1796,7 +2055,7 @@ window.PAGE_DATA = [
       "乳交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/1129235eb3abc460ee7e2282c40aac43.jpg",
@@ -1819,7 +2078,7 @@ window.PAGE_DATA = [
       "巨乳",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4ec39c1a9a873395de26c9e39a7d9899.jpg",
@@ -1845,7 +2104,7 @@ window.PAGE_DATA = [
       "性感",
       "無碼破解"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/913a32bf54aee4463ba8e58002fc18df.jpg",
@@ -1872,7 +2131,7 @@ window.PAGE_DATA = [
       "口交",
       "女上司"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/197fe41c3d2f7515d74ad21cd7548950.jpg",
@@ -1893,7 +2152,7 @@ window.PAGE_DATA = [
       "中出",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230807/20230807204017673673.jpg",
@@ -1916,7 +2175,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f5b30c179ffb1db5fde1e/cover.jpg",
@@ -1942,7 +2201,7 @@ window.PAGE_DATA = [
       "巨乳",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ff1eb4bbf78ec20929eb286876e871e2.jpg",
@@ -1965,7 +2224,7 @@ window.PAGE_DATA = [
       "拘束・拷問",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230808/20230808062345382382.jpg",
@@ -1990,7 +2249,7 @@ window.PAGE_DATA = [
       "口交",
       "女上司"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230808/20230808063735918918.jpg",
@@ -2014,7 +2273,7 @@ window.PAGE_DATA = [
       "出差",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230808/20230808063933607607.jpg",
@@ -2038,7 +2297,7 @@ window.PAGE_DATA = [
       "中出",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230808/20230808064239783783.jpg",
@@ -2065,7 +2324,7 @@ window.PAGE_DATA = [
       "亂交 • 群P",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811000944271271.jpg",
@@ -2089,7 +2348,7 @@ window.PAGE_DATA = [
       "中出",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811000922723723.jpg",
@@ -2111,7 +2370,7 @@ window.PAGE_DATA = [
       "中出",
       "拘束・拷問"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811001104775775.jpg",
@@ -2137,7 +2396,7 @@ window.PAGE_DATA = [
       "巨乳",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677df4ef2a47ebb1a871930d/cover.jpg",
@@ -2162,7 +2421,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "IDEA POCKET",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811001655950950.jpg",
@@ -2170,272 +2429,5 @@ window.PAGE_DATA = [
       "希島愛理"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-445"
-  },
-  {
-    "id": 19008,
-    "IDcode": "IPX-446",
-    "title": "早泄体质-根尾あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "美少女電影",
-      "淫亂",
-      "中出",
-      "美臀"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811001804573573.jpg",
-    "actress": [
-      "根尾朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-446"
-  },
-  {
-    "id": 19006,
-    "IDcode": "IPX-447",
-    "title": "完美巨乳换衣色情偶像-穂高ひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偶像",
-      "乳交",
-      "出道作品",
-      "巨乳",
-      "苗條"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811002216637637.jpg",
-    "actress": [
-      "穂高ひな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-447"
-  },
-  {
-    "id": 19005,
-    "IDcode": "IPX-448",
-    "title": "想讓人寵愛的元氣女 綺麗的F罩杯美巨乳少女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女電影",
-      "出道作品",
-      "美乳",
-      "巨乳",
-      "少女"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "2020-03-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811002337380380.jpg",
-    "actress": [
-      "梓光莉",
-      "森林原人",
-      "しみけん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-448"
-  },
-  {
-    "id": 19004,
-    "IDcode": "IPX-449",
-    "title": "新人泡泡浴娘-加美杏奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女電影",
-      "泡泡浴店",
-      "風俗娘",
-      "口交",
-      "抹油"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230811/20230811002637517517.jpg",
-    "actress": [
-      "加美杏奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-449"
-  },
-  {
-    "id": 19003,
-    "IDcode": "IPX-450",
-    "title": "和暗恋的男生说话都害羞的美少女-広瀬なるみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "女學生",
-      "JK校服",
-      "制服",
-      "蕩婦",
-      "學校"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241128-1/927404960992963c826b67f4ef8ab1ad.jpg",
-    "actress": [
-      "廣瀨成美",
-      "森林原人",
-      "イセドン内村",
-      "玉木玲",
-      "向理来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-450"
-  },
-  {
-    "id": 19589,
-    "IDcode": "IPX-451",
-    "title": "純粹的精神和肉體的完全破壞被侵犯過度崩壞的女教師 楓可憐",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "凌辱",
-      "女教師",
-      "多P",
-      "眼鏡"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230406/afcea3f8-8d3d-4cae-af3c-238f55a09eb9.jpg",
-    "actress": [
-      "楓花戀"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-451"
-  },
-  {
-    "id": 19002,
-    "IDcode": "IPX-452",
-    "title": "巨乳细腰女优-桜空もも",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女電影",
-      "處男",
-      "巨乳",
-      "紀錄片",
-      "苗條"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230812/202308122144422727.jpg",
-    "actress": [
-      "桜空桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-452"
-  },
-  {
-    "id": 19001,
-    "IDcode": "IPX-453",
-    "title": "不穿胸罩的巨乳家庭教师-桃乃木かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女電影",
-      "主觀視角",
-      "乳交",
-      "家庭教師",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230812/20230812215232982982.jpg",
-    "actress": [
-      "桃乃木香奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-453"
-  },
-  {
-    "id": 18994,
-    "IDcode": "IPX-454",
-    "title": "遭到冲击性的内射轮奸-大槻ひびき 天海つばさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "輪姦",
-      "凌辱",
-      "強姦",
-      "中出",
-      "姐姐・妹妹",
-      "亂交 • 群P",
-      "劇情"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231009-2/6b1f15207ebf14006f72c8f375b40414.jpg",
-    "actress": [
-      "大槻响",
-      "天海翼"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-454"
-  },
-  {
-    "id": 19000,
-    "IDcode": "IPX-455",
-    "title": "想看垃圾般讓人看內褲 ～一面輕蔑一面讓人射精的夢般5場景",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女僕制服",
-      "美少女電影",
-      "女學生",
-      "JK校服",
-      "制服",
-      "短裙・迷你裙",
-      "學校",
-      "苗條"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "2020-04-11",
-    "cover_url": "https://picture.yoshiclub.xyz/20230812/20230812220637159159.jpg",
-    "actress": [
-      "西宮夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-455"
-  },
-  {
-    "id": 18999,
-    "IDcode": "IPX-456",
-    "title": "超美肉棒鉴定师-岬ななみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "眼鏡",
-      "美乳",
-      "蕩婦",
-      "口交",
-      "顏射"
-    ],
-    "type": "",
-    "company": "IDEA POCKET",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20230812/20230812221614431431.jpg",
-    "actress": [
-      "岬奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IPX-456"
   }
 ];

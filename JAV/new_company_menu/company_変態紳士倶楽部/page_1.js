@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231012/club021pl.jpg!320x216.jpg",
@@ -22,7 +22,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/2023/05/wpxfsy1ufzw.jpg",
@@ -37,7 +37,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/07/16feed5602f3ef6a554476e21eec7a9b.jpg",
@@ -52,7 +52,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230507/club087pl.jpg!320x216.jpg",
@@ -67,7 +67,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230522/club090pl.jpg!320x216.jpg",
@@ -84,7 +84,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/24/68fb5224bf45974ea64060a8/poster2.jpg",
@@ -99,7 +99,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230525/club106pl.jpg!320x216.jpg",
@@ -114,7 +114,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230505/club115pl.jpg!320x216.jpg",
@@ -132,7 +132,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230601/club128pl.jpg!320x216.jpg",
@@ -147,7 +147,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230604/club142pl.jpg!320x216.jpg",
@@ -168,7 +168,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "投稿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "2015-01-01",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/club145/club145pl.jpg",
@@ -186,7 +186,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230611/club163pl.jpg!320x216.jpg",
@@ -201,7 +201,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230616/club176pl.jpg!320x216.jpg",
@@ -216,7 +216,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2f0b9dbf24d4ed3203620/cover.jpg",
@@ -231,7 +231,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/07/68e3d98edd88d14f0625b695/cover.jpg",
@@ -246,7 +246,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230616/club183pl.jpg!320x216.jpg",
@@ -261,7 +261,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2f1bcdbf24d4ed3203cbf/cover.jpg",
@@ -276,7 +276,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230627/club191pl.jpg!320x216.jpg",
@@ -291,7 +291,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dec543631cc64eb59333b8/cover.jpg",
@@ -309,7 +309,7 @@ window.PAGE_DATA = [
       "乱交",
       "女同"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68dec529631cc64eb5933299/cover.jpg",
@@ -324,7 +324,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230630/club207pl.jpg!320x216.jpg",
@@ -341,7 +341,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230630/club208pl.jpg!320x216.jpg",
@@ -356,7 +356,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230629/club213pl.jpg!320x216.jpg",
@@ -371,7 +371,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/29/68d959dfce5a404e9bbaf669/cover.jpg",
@@ -389,7 +389,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230702/club222pl.jpg!320x216.jpg",
@@ -410,7 +410,7 @@ window.PAGE_DATA = [
       "偷窥",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/0483f550af4d733630e0a8c8ac8a7da8.jpg",
@@ -427,7 +427,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d31b87ce5a404e9bad3028/cover.jpg",
@@ -442,7 +442,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230702/club235pl.jpg!320x216.jpg",
@@ -460,7 +460,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230706/club242pl.jpg!320x216.jpg",
@@ -475,7 +475,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230706/club244pl.jpg!320x216.jpg",
@@ -490,7 +490,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230707/club264pl.jpg!320x216.jpg",
@@ -505,7 +505,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230512/club273pl.jpg!320x216.jpg",
@@ -520,7 +520,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230711/club280pl.jpg!320x216.jpg",
@@ -537,12 +537,27 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230711/club286pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-286"
+  },
+  {
+    "id": 539283,
+    "IDcode": "CLUB-287",
+    "title": "结婚前の花嫁にウェディング写真を撮るからと",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-287"
   },
   {
     "id": 579156,
@@ -552,7 +567,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230803/club289pl.jpg!320x216.jpg",
@@ -567,12 +582,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230711/club293pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-293"
+  },
+  {
+    "id": 567203,
+    "IDcode": "CLUB-299",
+    "title": "美术部の夏季合宿でデッサン中にパンチラを盗撮していたら、女子部员にバレてしまい全裸モデルにさせられた件。第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-299"
   },
   {
     "id": 534750,
@@ -584,12 +614,27 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230925/club300pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-300"
+  },
+  {
+    "id": 575984,
+    "IDcode": "CLUB-302",
+    "title": "【日本女优】応塾大学病院の女医が通う指圧医疗マッサージ施术院72016-06-30真琴りょう水他原さな波他多野结衣3位女他优他(1)-123",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-302"
   },
   {
     "id": 534833,
@@ -599,7 +644,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231011/club306pl.jpg!320x216.jpg",
@@ -616,7 +661,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231015/club307pl.jpg!320x216.jpg",
@@ -633,7 +678,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20210525-1/447a197e9e336a5bc806025f197ae0b4.jpg",
@@ -650,7 +695,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231121/club316pl.jpg!320x216.jpg",
@@ -665,7 +710,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230716/club317pl.jpg!320x216.jpg",
@@ -682,7 +727,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231129/club319pl.jpg!320x216.jpg",
@@ -699,12 +744,29 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231207/club321pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-321"
+  },
+  {
+    "id": 549610,
+    "IDcode": "CLUB-325",
+    "title": "姐弟限定 一般男女参加型モニタリング お姊ちゃんに童贞を打ち明けセックスの练习と称して素股を恳愿したら弟の勃起チ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-325"
   },
   {
     "id": 536372,
@@ -714,7 +776,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230716/club327pl.jpg!320x216.jpg",
@@ -731,7 +793,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231227/club330pl.jpg!320x216.jpg",
@@ -746,7 +808,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230718/club333pl.jpg!320x216.jpg",
@@ -761,7 +823,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240114/club335pl.jpg!320x216.jpg",
@@ -776,7 +838,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240126/club338pl.jpg!320x216.jpg",
@@ -793,7 +855,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240210/club343pl.jpg!320x216.jpg",
@@ -808,7 +870,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230719/club358pl.jpg!320x216.jpg",
@@ -825,7 +887,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240420/club362pl.jpg!320x216.jpg",
@@ -840,12 +902,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241002/thvOM3bM/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-363"
+  },
+  {
+    "id": 535321,
+    "IDcode": "CLUB-364",
+    "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に连れ込んでめちゃくちゃセックスした件。其の七",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-364"
   },
   {
     "id": 536386,
@@ -855,7 +934,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230727/club366pl.jpg!320x216.jpg",
@@ -870,7 +949,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/09db02f6333e478ca36e602d0e9eab7e.jpg",
@@ -885,7 +964,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241116/CgX0OcaD/1.jpg",
@@ -900,7 +979,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240611/club370pl.jpg!320x216.jpg",
@@ -915,12 +994,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241116/uEDKUNA7/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-372"
+  },
+  {
+    "id": 535416,
+    "IDcode": "CLUB-373",
+    "title": "仏耻义理（ぶっちぎり）盗撮 ヤンキーなのに可爱い女子2人を部屋に连れ込み22回もイカセて中出しまで出来た理由（ワケ）。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-373"
   },
   {
     "id": 536402,
@@ -930,7 +1024,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230810/club374pl.jpg!320x216.jpg",
@@ -945,12 +1039,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241116/tCZ1FcTp/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-380"
+  },
+  {
+    "id": 526429,
+    "IDcode": "CLUB-381",
+    "title": "相席居酒屋でナンパした仲良し2人组をお持ち帰り。コソコソHしていると邻の部屋に",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-381"
   },
   {
     "id": 71671,
@@ -968,7 +1077,7 @@ window.PAGE_DATA = [
       "中出",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/dfdf9a6d98e8f80de2f1b0cb6a269a84.jpg",
@@ -977,6 +1086,39 @@ window.PAGE_DATA = [
       "若菜奈央"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-389"
+  },
+  {
+    "id": 591374,
+    "IDcode": "CLUB-392",
+    "title": "[] 完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に连れ込んでめちゃくちゃセックスした件。其の11",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-392"
+  },
+  {
+    "id": 540879,
+    "IDcode": "CLUB-394",
+    "title": "高学历のお嬢様大学生の家庭教师に素股だけお第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-394"
   },
   {
     "id": 549774,
@@ -988,12 +1130,60 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231019/club399pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-399"
+  },
+  {
+    "id": 216422,
+    "IDcode": "CLUB-406",
+    "title": "妻子在工作中被她的老板和同事灌醉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-406"
+  },
+  {
+    "id": 166586,
+    "IDcode": "CLUB-407",
+    "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に連れ込んでめちゃくちゃセックスした件。其の13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-407"
+  },
+  {
+    "id": 216485,
+    "IDcode": "CLUB-447",
+    "title": "妻子公司的欢送会",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-447"
   },
   {
     "id": 71672,
@@ -1010,7 +1200,7 @@ window.PAGE_DATA = [
       "中出",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/d52d0b086904f7091d60e279837c034a.jpg",
@@ -1029,7 +1219,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/02/13/d1876841df91aa2ab211988934759762.jpg",
@@ -1050,7 +1240,7 @@ window.PAGE_DATA = [
       "偷窥",
       "羞耻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/87f9085027aac498bd8c3f0c3ce1b933.jpg",
@@ -1060,6 +1250,21 @@ window.PAGE_DATA = [
       "纱东みお"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-478"
+  },
+  {
+    "id": 212964,
+    "IDcode": "CLUB-483",
+    "title": "在一个婚礼派对上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-483"
   },
   {
     "id": 71796,
@@ -1075,7 +1280,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7baa7b39186cab10cf73d7cf024b3c1a.jpg",
@@ -1098,7 +1303,7 @@ window.PAGE_DATA = [
       "纪录片",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/0388700642c85c8ef460bb27b8148f84.jpg",
@@ -1124,7 +1329,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/67cc1cac7ebc7bd0c044d2310203a6ac.jpg",
@@ -1145,7 +1350,7 @@ window.PAGE_DATA = [
       "女教师",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "2018-10-01",
     "cover_url": "https://tuaskbgnekr.com/20250729/tctZvY4E/1.jpg",
@@ -1165,7 +1370,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/6404a929e64bb3cec7ec530884e5856b.jpg",
@@ -1187,7 +1392,7 @@ window.PAGE_DATA = [
       "偷窥",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/7e188edf88c54244b3919c673860d0c9.jpg",
@@ -1196,6 +1401,21 @@ window.PAGE_DATA = [
       "君岛美绪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-502"
+  },
+  {
+    "id": 526428,
+    "IDcode": "CLUB-503",
+    "title": "相席居酒屋でナンパした仲良し2人组をお持ち帰り。コソコソHしていると邻の",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-503"
   },
   {
     "id": 71795,
@@ -1211,7 +1431,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c2db611d6a7c0303c4ea6115de6a5343.jpg",
@@ -1219,6 +1439,38 @@ window.PAGE_DATA = [
       "有坂深雪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-505"
+  },
+  {
+    "id": 555692,
+    "IDcode": "CLUB-506",
+    "title": "AVを大音量で観ていたら邻家の美人妻がクレームを言いにきたのでフル勃起したデカチンを见せつけると欲情していたので 留守番してる旦那に奥さんの絶顶ボイスを闻かせてあげた件",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-506"
+  },
+  {
+    "id": 213110,
+    "IDcode": "CLUB-509",
+    "title": "健康的按摩店提供性服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-509"
   },
   {
     "id": 595664,
@@ -1230,7 +1482,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4d4c89b10859ce835c095a674544d695.jpg",
@@ -1251,7 +1503,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9bacab3a3f18d01f68f4114fd88787c5.jpg",
@@ -1259,6 +1511,53 @@ window.PAGE_DATA = [
       "椎叶みくる"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-511"
+  },
+  {
+    "id": 213129,
+    "IDcode": "CLUB-512",
+    "title": "一个女孩从派对上被带回家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-512"
+  },
+  {
+    "id": 102917,
+    "IDcode": "CLUB-513",
+    "title": "初めての極太ディルドで体ビクビク足腰ガクガク敏感おま○こトロトロ即イキ羞恥オナニー 制服女子編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "玩具",
+      "羞耻",
+      "自慰",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "2018-11-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "铃木里美",
+      "川菜美铃",
+      "咲々原リン",
+      "本多成実",
+      "真白湖子",
+      "桐岛莉乃",
+      "爱乃零",
+      "心音にこ",
+      "斎藤ミオリ",
+      "竹内纱里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-513"
   },
   {
     "id": 595578,
@@ -1270,7 +1569,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/038ec619c37142f59f098092672aaac6.jpg",
@@ -1285,7 +1584,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/578ad72d5d369d43c6139fdad4dee9dd.jpg",
@@ -1302,12 +1601,27 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/80e3ab89a1be34179fea80089c0f181c.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-518"
+  },
+  {
+    "id": 213317,
+    "IDcode": "CLUB-519",
+    "title": "我的妻子被她的老板和同事灌醉",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "変態紳士倶楽部",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-519"
   },
   {
     "id": 595528,
@@ -1319,7 +1633,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8fc6b6cd95fd1bcabeef350430d57f53.jpg",
@@ -1327,456 +1641,48 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-525"
   },
   {
-    "id": 595451,
-    "IDcode": "CLUB-533",
-    "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に连れ込んでめちゃくちゃセックスした件。其の30",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/I1BSgwGO.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-533"
-  },
-  {
-    "id": 595449,
-    "IDcode": "CLUB-534",
-    "title": "我が家の饮み会に招待した友人夫妇を酔わせ自慢のサウナ付き风吕を勧め寝取り作戦开始。",
+    "id": 595529,
+    "IDcode": "CLUB-527",
+    "title": "制服女子ばかりを狙う悪徳医师の乳首こねくり健康诊断2",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/2TBgzhkO.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-534"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-527"
   },
   {
-    "id": 71745,
-    "IDcode": "CLUB-537",
-    "title": "隐藏色女制服美少女在SNS搭讪！玩了色色的国王游戏之后举手内射乱交趴",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "校服",
-      "偷窥",
-      "中出",
-      "乱交",
-      "滥交"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/13390985ca888cb9699a12c3c949cb65.jpg",
-    "actress": [
-      "大浦真奈美",
-      "日向澪",
-      "仓木诗织",
-      "梦咲ひなみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-537"
-  },
-  {
-    "id": 468028,
-    "IDcode": "CLUB-540",
-    "title": "對準巨乳泳裝辣妹下手 海之家搭訕按摩店 15",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef5fd4e7d663df4b3fa49/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-540"
-  },
-  {
-    "id": 595365,
-    "IDcode": "CLUB-541",
-    "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に连れ込んでめちゃくちゃセックスした件。其の31",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ff914c78e6d16a4c1f86e3802e87f2e0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-541"
-  },
-  {
-    "id": 71746,
-    "IDcode": "CLUB-542",
-    "title": "AVを大音量で観ていたら隣家の美人妻がクレームを言いにきたのでフル勃起したデカチンを見せつけると欲情していたので 留守番してる旦那に奥さんの絶頂ボイスを聞かせてあげた件2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "人妻",
-      "巨大阴茎",
-      "偷窥",
-      "已婚妇女",
-      "素人作品",
-      "精选，综合",
-      "连裤袜"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/82ba8163a8ea9ae379dc2a68a1355c45.jpg",
-    "actress": [
-      "蓮実クレア",
-      "水谷心音",
-      "若槻みづな",
-      "桐岛莉乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-542"
-  },
-  {
-    "id": 595309,
-    "IDcode": "CLUB-549",
-    "title": "文京区にある女教师が通う整体セラピー治疗院22",
+    "id": 213098,
+    "IDcode": "CLUB-528",
+    "title": "住在隔壁的已婚妇女",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
     "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0daa40372c6d019841d35f372eb787bd.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-549"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-528"
   },
   {
-    "id": 72088,
-    "IDcode": "CLUB-550",
-    "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に連れ込んでめちゃくちゃセックスした件。其の32",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "人妻",
-      "偷窥",
-      "已婚妇女",
-      "出轨",
-      "连裤袜"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/6f2d77294fdf4591ff1c2b675860f8d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-550"
-  },
-  {
-    "id": 566558,
-    "IDcode": "CLUB-551",
-    "title": "中出し愿望のある推定Gカップ以上の女子大生に40発も子种を注ぎ込んだ孕ませ乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱交"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/f14063df7528f4f77d0429217d02d563.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-551"
-  },
-  {
-    "id": 71798,
-    "IDcode": "CLUB-552",
-    "title": "对烂醉的权力骚扰女上司狂抽猛插内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "偷窥",
-      "多P",
-      "OL",
-      "烂醉如泥的",
-      "中出"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f00cb9e0f5aeffa72525427796448f5d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-552"
-  },
-  {
-    "id": 72087,
-    "IDcode": "CLUB-555",
-    "title": "完全盗撮 同じアパートに住む美人妻2人と仲良くなって部屋に連れ込んでめちゃくちゃセックスした件。其の33",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "人妻",
-      "淫乱，真实",
-      "偷窥",
-      "已婚妇女",
-      "中出"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/9b446048229229fa05689c91ab9a1898.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-555"
-  },
-  {
-    "id": 468817,
-    "IDcode": "CLUB-556",
-    "title": "AVを大音量で観ていたら隣家の美人妻がクレームを言いにきたのでフル勃起したデカチンを見せつけると欲情していたので 留守番してる旦那に奥さんの絶頂ボイスを聞かせてあげた件3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/09/678034e3c179ffb1db6965aa/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-556"
-  },
-  {
-    "id": 103010,
-    "IDcode": "CLUB-557",
-    "title": "制服女子ばかりを狙う悪徳医師の乳首こねくり健康診断4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "苗条",
-      "校服",
-      "偷窥",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "2019-05-01",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/club557/club557pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-557"
-  },
-  {
-    "id": 523686,
-    "IDcode": "CLUB-558",
-    "title": "Fカップ美人女教师 中出ししまくった仆の元カノのプライベートSEXを胜手に発売。",
+    "id": 98767,
+    "IDcode": "CLUB-529",
+    "title": "カップ美人キャビンアテンダント Hが大好きな僕の元カノをリ",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/a0a2760e194b04a482168e950e8f7dbd.jpg",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-558"
-  },
-  {
-    "id": 71747,
-    "IDcode": "CLUB-561",
-    "title": "女教师爱去的推拿治疗所 23",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "偷窥",
-      "女教师",
-      "乳房",
-      "连裤袜"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/408618e43bee9ff096cdac0236691a72.jpg",
-    "actress": [
-      "铃木里美",
-      "星空萌愛",
-      "杉咲しずか",
-      "雪乃凛央"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-561"
-  },
-  {
-    "id": 523700,
-    "IDcode": "CLUB-563",
-    "title": "一人カラオケ个室オナニー盗撮黒パンスト半脱ぎで指ズボオナニーして白浊の本気汁を垂れ流して即イキするOLを隠し撮り",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190601-1/8a81db67ee5e6f2e9a2322f91b7f8706.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-563"
-  },
-  {
-    "id": 98206,
-    "IDcode": "CLUB-564",
-    "title": "住在同一公寓的两位美女妻子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "苗条",
-      "偷窥",
-      "已婚妇女",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/club564/club564pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-564"
-  },
-  {
-    "id": 468932,
-    "IDcode": "CLUB-565",
-    "title": "美腳キャビンアテンダントだけを狙う大手航空會社専門 追撃ピストンマッサージ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/67814ed589def9b1b8dbcc1a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-565"
-  },
-  {
-    "id": 98523,
-    "IDcode": "CLUB-567",
-    "title": "同じマンションの制服女子を連れ去り固定バイブの電池が切れるまでイっても止めない身動き不可能の拘束放置アクメで完堕ちさせた件。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "校服",
-      "偷窥",
-      "4小时以上作品",
-      "拘束",
-      "按摩棒"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "2019-07-01",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/club567/club567pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-567"
-  },
-  {
-    "id": 74731,
-    "IDcode": "CLUB-568",
-    "title": "ヤレる人妻回春マッサージ25 中出し交渉盗撮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "人妻",
-      "偷窥",
-      "已婚妇女",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "2019-08-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250102-1/85713d096be1ebab869d87176b66ceab.jpg",
-    "actress": [
-      "爱华みれい",
-      "真城杏",
-      "和泉つかさ",
-      "一ノ瀬菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-568"
-  },
-  {
-    "id": 75382,
-    "IDcode": "CLUB-571",
-    "title": "犯された女教師を助けるフリして追姦中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "监禁",
-      "深喉",
-      "偷窥",
-      "女教师",
-      "中出"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6784eca189def9b1b8f3433c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-571"
-  },
-  {
-    "id": 74512,
-    "IDcode": "CLUB-572",
-    "title": "凄テク嬢を隠し撮り。乳首をコリッコリに責められスローオイル手コキで焦らされ極限まで高められた後に睾丸がカラッカラになるまで連続射精させられたボクの一部始終2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "荡妇",
-      "偷窥",
-      "4小时以上作品",
-      "乳交",
-      "手淫"
-    ],
-    "type": "",
-    "company": "変態紳士倶楽部",
-    "publish_date": "2019-08-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/765207be44f7c244629455058f7171c7.jpg",
-    "actress": [
-      "渚光希",
-      "豊中爱丽丝",
-      "爱华みれい",
-      "神咲诗织",
-      "真城杏",
-      "七瀬もな",
-      "星咲せいら",
-      "やしきれな",
-      "桜アン",
-      "南凉",
-      "茜麻衣子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-572"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CLUB-529"
   }
 ];

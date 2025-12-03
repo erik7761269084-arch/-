@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/b08c7caeceb89ad9d4a20e8cdb3fc52a.jpg",
@@ -26,7 +26,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/0509763e57add0963de74486a0b70bc8.jpg",
@@ -46,29 +46,12 @@ window.PAGE_DATA = [
       "巨乳",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-4/44fc07e589b661f77b414f83a29c79ee.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-003"
-  },
-  {
-    "id": 551342,
-    "IDcode": "LULU-003-",
-    "title": "これは残业中の爆乳パツパツスーツ女上司に毎日ぶっかけセクハラした1周间の记录映像です。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20230316-1/3f2c07f392e12d7c9dddf03f14a965db.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-003-"
   },
   {
     "id": 75427,
@@ -84,7 +67,7 @@ window.PAGE_DATA = [
       "业余",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2020-01-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241225-1/41032c034c1d2f77af6e0eeed485d718.jpg",
@@ -102,7 +85,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/07/19/cadf7629a0867cab9a6f62eb16ea6511.jpg",
@@ -124,7 +107,7 @@ window.PAGE_DATA = [
       "业余",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241120-1/94e7f3caacb8c574d40a640ba2e1b1f7.jpg",
@@ -149,7 +132,7 @@ window.PAGE_DATA = [
       "接吻",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241120-1/da6de523793422ae825809e0fdd1bb85.jpg",
@@ -172,7 +155,7 @@ window.PAGE_DATA = [
       "已婚妇女",
       "业余"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/da765cd9a17d7b33805215003d756163.jpg",
@@ -195,7 +178,7 @@ window.PAGE_DATA = [
       "制服",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2020-03-01",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/53f7dd4ef8ade8ec18e2e37c50c57346.jpg",
@@ -219,7 +202,7 @@ window.PAGE_DATA = [
       "巨乳",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2020-03-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221223-1/792c0c25b5fe48c65ba5039a6d7f52ab.jpg",
@@ -227,6 +210,23 @@ window.PAGE_DATA = [
       "三船かれん"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-011"
+  },
+  {
+    "id": 451741,
+    "IDcode": "LULU-012",
+    "title": "年下の青年に膣圧が高まる恥辱ポーズを強●され突然のデカチン即ハメで即イキした脚抱え妻の子宮に何度も中出し(乱伦)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-012"
   },
   {
     "id": 81813,
@@ -242,7 +242,7 @@ window.PAGE_DATA = [
       "肌肉",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2020-04-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221102-1/64f93d626d780d0b4439ecb9eeae707f.jpg",
@@ -266,7 +266,7 @@ window.PAGE_DATA = [
       "拘束",
       "业余"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2020-04-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221102-1/62df4195589ff3320d2044d1e0a91768.jpg",
@@ -287,7 +287,7 @@ window.PAGE_DATA = [
       "业余",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2020-04-01",
     "cover_url": "https://tuaskbgnekr.com/20221126/OCbzppDw/1.jpg",
@@ -305,7 +305,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://pic25.anzise.com/pic/20220513/0babe92a0889e5fbc42528535b9d8d37/1.jpg",
@@ -320,7 +320,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f35b6cd6fbef4e90fe69b5/cover.jpg",
@@ -337,7 +337,7 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241027/lj7h7kif/1.jpg",
@@ -352,12 +352,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20201001-1/e4906f888a2b0404c9dd6ba3cc1ab75c.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-023"
+  },
+  {
+    "id": 210637,
+    "IDcode": "LULU-038",
+    "title": "巨乳挟射-辻井ほのか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-038"
   },
   {
     "id": 516150,
@@ -367,12 +384,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e2268431a2714f1c432120/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-042"
+  },
+  {
+    "id": 100651,
+    "IDcode": "LULU-045",
+    "title": "岳母要求做我的内衣模特-藤森里穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "内衣",
+      "乱伦",
+      "白天出轨",
+      "无码破解",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "藤森里穂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-045"
   },
   {
     "id": 93063,
@@ -387,7 +429,7 @@ window.PAGE_DATA = [
       "乱伦",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/f5b04b6ee1a1724973fc6d82e8de56c7.jpg",
@@ -406,7 +448,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://xing.sex8sex833.com/20250930/wBkWpT9B/1.jpg",
@@ -423,7 +465,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://pic30.anzise.com/pic/20220616/10c03ca8923d3f263b85979551ec5ab3/1.jpg",
@@ -443,7 +485,7 @@ window.PAGE_DATA = [
       "巨乳",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241006-1/b3da59cbf156305f693436007af303fc.jpg",
@@ -466,7 +508,7 @@ window.PAGE_DATA = [
       "巨乳",
       "母亲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-05-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/15a60613642b569ff00bf60def40d1a5.jpg",
@@ -488,7 +530,7 @@ window.PAGE_DATA = [
       "接吻",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-05-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/3fa9855105ae802086d103dcc5923bfd.jpg",
@@ -510,7 +552,7 @@ window.PAGE_DATA = [
       "巨乳",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-05-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/46e8fa84315e0bc30a56881830e273fa.jpg",
@@ -533,7 +575,7 @@ window.PAGE_DATA = [
       "中出",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-05-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/c1e60157dcc15b7c6cd61444087dd731.jpg",
@@ -556,7 +598,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-05-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-1/f75d232db67fa73eb488e414fa75a311.jpg",
@@ -566,6 +608,23 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-070"
   },
   {
+    "id": 567187,
+    "IDcode": "LULU-072",
+    "title": "田舎から上京した彼女の巨乳妹の无防备なノーブラおっぱいに我慢できず第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-072"
+  },
+  {
     "id": 516189,
     "IDcode": "LULU-079",
     "title": "妻子無法做到的深喉嚨3D口交將新",
@@ -573,7 +632,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68dae517d6fbef4e90d1daa6/cover.jpg",
@@ -590,7 +649,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://pic30.anzise.com/pic/20220616/46b0cd09f081ff0d9bc84220c01db135/1.jpg",
@@ -605,12 +664,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://pic37.anzise.com/pic/20221107/0d2272fbfd634341c8ebc67ecad5ea77/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-086"
+  },
+  {
+    "id": 106520,
+    "IDcode": "LULU-092",
+    "title": "碰瓷NTR-濑名光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "已婚妇女",
+      "淫妻",
+      "白天出轨",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "瀨名光"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-092"
   },
   {
     "id": 79823,
@@ -625,7 +709,7 @@ window.PAGE_DATA = [
       "屁股",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-10-05",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/61f39c5615ca8a43f0932374eb3b60ca.jpg",
@@ -646,7 +730,7 @@ window.PAGE_DATA = [
       "巨乳",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-10-05",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/07d59092170e1d2f8676e82846dfcc46.jpg",
@@ -668,7 +752,7 @@ window.PAGE_DATA = [
       "屁股",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-10-05",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/67fa4126a4272d1dc59f73dd824f02fb.jpg",
@@ -687,7 +771,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221205/sRg7Dudc/1.jpg",
@@ -702,7 +786,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250731/OJOi0ok2/1.jpg",
@@ -719,7 +803,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230601-1/d06d8120919245f692f2122e2d80e3e0.jpg",
@@ -739,7 +823,7 @@ window.PAGE_DATA = [
       "巨乳",
       "角色扮演者"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-12-07",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/62f1782b1e0fd33e5ff4b2773cca20cb.jpg",
@@ -756,7 +840,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241105-1/788a775ba85bddd3b0a74f41d5de569f.jpg",
@@ -776,7 +860,7 @@ window.PAGE_DATA = [
       "巨乳",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2021-12-07",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/d53014e5e839581022966516e77faa20.jpg",
@@ -800,7 +884,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/a0532143c9ed926597eb11875848eda1.jpg",
@@ -809,6 +893,26 @@ window.PAGE_DATA = [
       "新村晶"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-119"
+  },
+  {
+    "id": 80623,
+    "IDcode": "LULU-121",
+    "title": "受験のためHもオナニーもしないと約束した100日間の禁欲生活後に性欲爆発イキっぱなし彼女と体液グチョグチョSEXで朝日が昇るまで13発射精した。 葉風ゆりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "巨大阴茎",
+      "中出",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2022-02-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-121"
   },
   {
     "id": 80626,
@@ -823,7 +927,7 @@ window.PAGE_DATA = [
       "童年朋友",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-02-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/3483b86c1e482092004a3d411c24cdfc.jpg",
@@ -845,7 +949,7 @@ window.PAGE_DATA = [
       "姐姐",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-02-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/476207f1032a8a32e30e9c031aefb4d8.jpg",
@@ -868,12 +972,35 @@ window.PAGE_DATA = [
       "美少女电影",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-03-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/fbdb4c6143325c16954ec85fe27f7628.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-125"
+  },
+  {
+    "id": 80283,
+    "IDcode": "LULU-127",
+    "title": "透けパンデカ尻妻の無自覚挑発に乗せられデカチン即ハメでイキ果てるまで鬼ピストンしまくって何回も中出しした。 木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "屁股",
+      "已婚妇女",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2022-03-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "木下日葵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-127"
   },
   {
     "id": 81057,
@@ -890,7 +1017,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-03-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/e1dd691b0092ea513bfd42f90c9f7529.jpg",
@@ -912,7 +1039,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-03-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c1c01a09e3b197a11020b7650facb715.jpg",
@@ -930,7 +1057,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/df476148bb133df72ed9084380fd2187.jpg",
@@ -947,7 +1074,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a9acafdc6d5d515353f946dc87d9af39.jpg",
@@ -962,7 +1089,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/PkyF5upK.jpg",
@@ -979,7 +1106,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/EHQZlVm1.jpg",
@@ -1000,7 +1127,7 @@ window.PAGE_DATA = [
       "巨大屁股",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-05-03",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/qw89mgi3.jpg",
@@ -1023,7 +1150,7 @@ window.PAGE_DATA = [
       "各种职业",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-05-03",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/LW0mpdPf.jpg",
@@ -1046,7 +1173,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-05-03",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/d0cd3c2e64c677880e4cf1a1410be19f.jpg",
@@ -1069,7 +1196,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-05-03",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/e3c0a8e2d0b0267a3b422e42a4770fca.jpg",
@@ -1092,7 +1219,7 @@ window.PAGE_DATA = [
       "战斗行动",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-05-03",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/e6cfd07eba624510d1cf173e116dc86a.jpg",
@@ -1115,7 +1242,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-05-03",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/C53ml8yK.jpg",
@@ -1130,7 +1257,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://pic49.anzise.com/pic/20230321/a6f862211c985fa1fd1111a46580419d/1.jpg",
@@ -1145,7 +1272,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/636d2bec81515dc3439c710170e06ab4.jpg",
@@ -1160,7 +1287,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bae1a79d3777825f290df22eac916d6f.jpg",
@@ -1175,7 +1302,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ca6fff27f37f6ff65bb9051cc64dc0d0.jpg",
@@ -1190,7 +1317,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250507/cXRdy8cp/1.jpg",
@@ -1205,7 +1332,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/3370842343605bf629715c1fda7d6d8d.jpg",
@@ -1222,7 +1349,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/00c689a35a367b77208e009043420f1b.jpg",
@@ -1237,7 +1364,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0f1f4ba7379053b6eaeb065d4a8e7050.jpg",
@@ -1252,7 +1379,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6ba3491810a919b3e827b58fd7831677.jpg",
@@ -1267,7 +1394,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5cc93b4a4d12d04cdde13af3493695c.jpg",
@@ -1282,7 +1409,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/155f3c0974a5a43020717085c3b2fcbf.jpg",
@@ -1299,7 +1426,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250801/4JNFcZUB/1.jpg",
@@ -1314,7 +1441,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/462b54c580a5ddab102bb3db7032f96f.jpg",
@@ -1335,7 +1462,7 @@ window.PAGE_DATA = [
       "巨乳",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-09-06",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/lulu163/lulu163pl.jpg",
@@ -1353,7 +1480,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/dc9e324a10146578cc4f763a49b29c02.jpg",
@@ -1370,7 +1497,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/27c7452ef8cbdc5ffaddf88ba5e23a16.jpg",
@@ -1387,7 +1514,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5155bda77c6b31ae4ee70cef4a6e6af.jpg",
@@ -1402,7 +1529,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5528957996f1bb42247510eb5b0822a6.jpg",
@@ -1423,7 +1550,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2022-10-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230121-1/d5b872afa36c99b0e2d251739a7f1183.jpg",
@@ -1440,7 +1567,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/97cbb9780649fc048d8b0a1cc4d3126d.jpg",
@@ -1455,7 +1582,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/378784fd860e06c2010169a6aa3417c4.jpg",
@@ -1470,7 +1597,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241123-1/d7560f8ee8e4e9512a72c00ee9404a53.jpg",
@@ -1487,7 +1614,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/71dab909a793cc53a3315120ad172c0e.jpg",
@@ -1504,7 +1631,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2024-11-22",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240903-1/ac236b5596493528353d80604b9f288e.jpg",
@@ -1522,7 +1649,7 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230611/lulu184pl.jpg!320x216.jpg",
@@ -1537,7 +1664,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230124/JGWnEgvQ/1.jpg",
@@ -1552,7 +1679,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230125/sD7bqx0Y/1.jpg",
@@ -1567,7 +1694,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230125/feNDMJcU/1.jpg",
@@ -1585,7 +1712,7 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230620/lulu188pl.jpg!320x216.jpg",
@@ -1600,7 +1727,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230125/L1pa9TdJ/1.jpg",
@@ -1617,12 +1744,45 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230909/lulu190pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-190"
+  },
+  {
+    "id": 532910,
+    "IDcode": "LULU-192",
+    "title": "[] 性欲旺盛ビンビン甥っ子の突撃即ハメSEXをいなしてスローな射精コントロールでじっくり盛りち○ぽを弄ぶ元ヤリマン巨乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高清画质",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-192"
+  },
+  {
+    "id": 222738,
+    "IDcode": "LULU-194",
+    "title": "当我在公司的酒会上-森日向子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-194"
   },
   {
     "id": 533097,
@@ -1634,7 +1794,7 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu196pl.jpg!320x216.jpg",
@@ -1652,7 +1812,7 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu197pl.jpg!320x216.jpg",
@@ -1669,7 +1829,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/10/38723_cover_2025-09-10_044055.jpg",
@@ -1687,7 +1847,7 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240229/lulu201pl.jpg!320x216.jpg",
@@ -1704,141 +1864,11 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://pic56.anzise.com/pic/20230605/fb0ccf59f79bbfd7b37b1c84167a4c89/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-202"
-  },
-  {
-    "id": 572388,
-    "IDcode": "LULU-203",
-    "title": "仓多まお饮み会で酔い溃れたアラサー女上司のデカ尻に我慢できず即ハメしたら8年ぶりのSEXだったらしく即イキ连続潮射ガッチリ尻振りホールドで new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230605/ad2a2617ad069e4a9bd2f3635a2e8238/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-203"
-  },
-  {
-    "id": 572375,
-    "IDcode": "LULU-206",
-    "title": "田原凛花“大人になっても皮かぶったままだから、しっかり洗ってあげるね”世话好きな子なし巨乳叔母にお风吕场で耻ずかしすぎる包茎ち○ぽを优しく new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://pic56.anzise.com/pic/20230605/148e5c7fabfd3cc42a4304ef18437f27/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-206"
-  },
-  {
-    "id": 549160,
-    "IDcode": "LULU-208",
-    "title": "バイト先の黒デカ尻ギャルママに必死の童贞恳愿デカチン交渉で笔おろししてもらったら子育てと仕事で",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/pCQuvf6S/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-208"
-  },
-  {
-    "id": 564401,
-    "IDcode": "LULU-209",
-    "title": "自宅に预けられた隠れヤリマン巨乳侄っ子J系のおっぱいに勃起したらデカチンがバレてパイズリフェラ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/n489CHUa/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-209"
-  },
-  {
-    "id": 549159,
-    "IDcode": "LULU-210",
-    "title": "残业中、2人きりの社内で人妻女上司のペロペロ诱惑に乘ったら何度射精しても浓厚接吻で勃起させられ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/pDA2LVnT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-210"
-  },
-  {
-    "id": 549158,
-    "IDcode": "LULU-211",
-    "title": "ムチムチ天然巨乳叔母の无自覚おっぱい挑発に我慢できずヤング甥っ子ち○ぽで甘えたら乳テクで何度も",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/mTApCX6P/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-211"
-  },
-  {
-    "id": 516876,
-    "IDcode": "LULU-212",
-    "title": "被學年最漂亮的坂道系白皙巨臀OO",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690fa924165f1917e3c1c679/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-212"
-  },
-  {
-    "id": 564400,
-    "IDcode": "LULU-213",
-    "title": "オフパコ枕営业撮影会で过激水着姿の巨乳むっちり地下グラドルに媚薬を仕込んでファンには见せられな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "LUNATICS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230518/v4ogGrm8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-213"
   }
 ];

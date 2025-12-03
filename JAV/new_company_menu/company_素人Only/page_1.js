@@ -63,7 +63,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231005/ENM2iRLB/1.jpg",
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250402/LX1ZbuUH/1.jpg",
@@ -97,12 +97,30 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/tcdBgIct/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=168EK-031"
+  },
+  {
+    "id": 520475,
+    "IDcode": "761GESY-001",
+    "title": "清楚系美巨乳CAうみ【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-001"
   },
   {
     "id": 540127,
@@ -115,7 +133,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251011/f4ylm7nY/1.jpg",
@@ -134,7 +152,7 @@ window.PAGE_DATA = [
       "乱交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251011/UKtP2sKa/1.jpg",
@@ -151,12 +169,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251011/rOEm5wZ9/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-004"
+  },
+  {
+    "id": 520493,
+    "IDcode": "761GESY-005",
+    "title": "隠れヤリマンお嬢ゆうき【意识混浊】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=761GESY-005"
   },
   {
     "id": 540128,
@@ -169,7 +204,7 @@ window.PAGE_DATA = [
       "素人",
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251011/6sojRYEy/1.jpg",
@@ -186,7 +221,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/6db379d00eac044d6b6b5f483956f1f1.jpg",
@@ -203,7 +238,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251012/Y2lGqVOb/1.jpg",
@@ -221,7 +256,7 @@ window.PAGE_DATA = [
       "素人",
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/1c50faada6b00f34df14be26a08e7282.jpg",
@@ -238,7 +273,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231006/pb_e_761gesy-010.jpg!320x216.jpg",
@@ -256,7 +291,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251012/Gl6bUB1t/1.jpg",
@@ -273,7 +308,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251012/RH9Tl3mR/1.jpg",
@@ -288,7 +323,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240218/YMgDfywp/1.jpg",
@@ -303,12 +338,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c5f3543d6972716364e4f/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-312"
+  },
+  {
+    "id": 532385,
+    "IDcode": "BNSPS-312-C",
+    "title": "筱田步美激演人妻出轨！上司夜袭部下娇妻第5弹 办公室淫语连连 湿身衬衫下的肉体碰撞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-312-C"
   },
   {
     "id": 589347,
@@ -318,12 +370,90 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/09/95697_cover_2025-09-09_170626.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-328"
+  },
+  {
+    "id": 215155,
+    "IDcode": "BNSPS-356",
+    "title": "敬你我的爱人-神波多一花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-356"
+  },
+  {
+    "id": 215683,
+    "IDcode": "BNSPS-366",
+    "title": "老板拥戴的下属的妻子-大場ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-366"
+  },
+  {
+    "id": 215664,
+    "IDcode": "BNSPS-368",
+    "title": "会社社長-上野菜穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-368"
+  },
+  {
+    "id": 217291,
+    "IDcode": "BNSPS-398",
+    "title": "爱妻-西条沙羅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-398"
+  },
+  {
+    "id": 551273,
+    "IDcode": "BNSPS-430",
+    "title": "丽しの巨乳不伦妻藤宫樱花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BNSPS-430"
   },
   {
     "id": 155499,
@@ -333,7 +463,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/17/685058223ed39b57c0814246/cover.jpg",
@@ -348,7 +478,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/20/68f6314d631cc64eb5bc98c3/poster2.jpg",
@@ -363,7 +493,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9c03131a2714f1c6995c1/poster2.jpg",
@@ -378,12 +508,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/15/68ef16bcbf45974ea627bb04/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSY-012"
+  },
+  {
+    "id": 567647,
+    "IDcode": "BSY-020",
+    "title": "ミニスカでいかにもスケベそうなケバい淑女とのねっとりした性交 吉野艶子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BSY-020"
   },
   {
     "id": 534080,
@@ -393,7 +538,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/0bbfc29dce3c7cb1c869e2ade18cb655.jpg",
@@ -408,7 +553,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/6888607fc92318f97d01fd46/cover.jpg",
@@ -423,7 +568,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896f1cc92318f97d1d1f21/cover.jpg",
@@ -438,7 +583,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cedf934e7d663df4e2a7cb/cover.jpg",
@@ -453,7 +598,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896f2ac92318f97d1d1f22/cover.jpg",
@@ -468,7 +613,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc192acf22ae3e0427d296/cover.jpg",
@@ -483,7 +628,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f621298bc99dfdd14066f/cover.jpg",
@@ -498,7 +643,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689dc6bb1cc1e208692000d2/cover.jpg",
@@ -513,7 +658,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/10/67cee0d34e7d663df4e2a7e9/cover.jpg",
@@ -528,7 +673,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/02/688ce10598bc99dfddee70e8/cover.jpg",
@@ -543,7 +688,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/24/68aa35c49550e292a785c86d/cover.jpg",
@@ -560,7 +705,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20230508/P6PjTnEC/1.jpg?t=1683531449",
@@ -577,7 +722,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231031/R1e4E3HN/1.jpg",
@@ -594,7 +739,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/lsb7keZu/1.jpg",
@@ -611,7 +756,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240206/Z2a9LJX7/1.jpg",
@@ -626,7 +771,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/67774cd8703a2fea209713018845c3b5.jpg",
@@ -643,7 +788,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250128/5GWAS15E/1.jpg",
@@ -668,7 +813,7 @@ window.PAGE_DATA = [
       "企畫",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "2025-02-06",
     "cover_url": "https://picture.yoshiclub.xyz/20250204/04e8f34a-ecde-4961-83ea-10bc4fbec14a.jpg",
@@ -691,7 +836,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250714-1/9d50b00e682a9e83775125a585f65781.jpg",
@@ -730,7 +875,7 @@ window.PAGE_DATA = [
       "魔鬼系",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68baaa13ce3e366423ce0a91/cover.jpg",
@@ -752,7 +897,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/20/687c2e9943d6972716950326/cover.jpg",
@@ -769,7 +914,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250728/4qQrXtRi/1.jpg",
@@ -784,7 +929,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240906-1/01a52800a6cd82a54c2d32c18fd0b4e7.jpg",
@@ -806,7 +951,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b7c2bdfa8840d6697d953b84a783ab27.jpg",
@@ -828,7 +973,7 @@ window.PAGE_DATA = [
       "中出",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/965f0c884138639a814e126e06d333a6.jpg",
@@ -843,7 +988,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sha.lashayu.com/upload/vod/20250513-1/a0e2e929b069f4f7062c8637fed4ad23.jpg",
@@ -858,7 +1003,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231015/pb_e_gesy-016.jpg!320x216.jpg",
@@ -873,7 +1018,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231024/LZA4BKCu/1.jpg",
@@ -888,7 +1033,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241119-1/c508f73fff586972fdcb90232f281151.jpg",
@@ -903,12 +1048,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/06/68e2e077dbf24d4ed31ff18e/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GSY-035"
+  },
+  {
+    "id": 178209,
+    "IDcode": "HR-002",
+    "title": "和金发巨乳肥臀嫩穴大洋马野营拍摄无套内射主观性爱影片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-002"
   },
   {
     "id": 549888,
@@ -918,7 +1080,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230213/0bGFWOnc/1.jpg",
@@ -933,12 +1095,58 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250326/7ERC2zLy/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-009"
+  },
+  {
+    "id": 69440,
+    "IDcode": "HR-010",
+    "title": "HR-010 旅館女将は爆尻西欧人 泡々ぬるぬるお風呂のおもてなし ソフィア・杏・ハサウェイ（23歳） アイルランドとフランスのハーフ 元ルブ○ンの美脚モデル 元クレイジー○ースのダンサーでデカ尻シェイクな腰の動きで超絶！究極騎乗位",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大屁股",
+      "中出",
+      "女上位",
+      "单体作品",
+      "浴衣"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ソフィア・杏・ハサウェイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-010"
+  },
+  {
+    "id": 62151,
+    "IDcode": "HR-011",
+    "title": "北欧が生んだ2700万人に一人の天使 メロディー・雛・マークス（24歳）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "深喉",
+      "乳液",
+      "中出",
+      "白人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "メロディー・雏・マークス"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HR-011"
   },
   {
     "id": 538873,
@@ -950,7 +1158,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241020/iwi2elwd/1.jpg",
@@ -965,12 +1173,213 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241123/FPtb0EIZ/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=HTPS-011"
+  },
+  {
+    "id": 61401,
+    "IDcode": "IKHR-013",
+    "title": "裏垢女子 歯科衛生士 りゆち 25歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "吞精",
+      "自慰",
+      "业余",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-013"
+  },
+  {
+    "id": 61406,
+    "IDcode": "IKHR-014",
+    "title": "裏垢女子 銀行内定JD まるみちゃん21歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "4K",
+      "吞精",
+      "自慰",
+      "嫩妹",
+      "业余",
+      "素人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-014"
+  },
+  {
+    "id": 61421,
+    "IDcode": "IKHR-015",
+    "title": "裏垢女子 女子寮JD ゆり 20歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "4K",
+      "吞精",
+      "自慰",
+      "业余",
+      "素人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-015"
+  },
+  {
+    "id": 59994,
+    "IDcode": "IKHR-016",
+    "title": "裏垢女子 JD めいたん 皐月ゆら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "4K",
+      "吞精",
+      "自慰",
+      "业余",
+      "素人作品",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "皐月ゆら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-016"
+  },
+  {
+    "id": 59843,
+    "IDcode": "IKHR-017",
+    "title": "裏垢女子 女子寮 ラクロス部 ゆきの20歳 朝比ゆの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-017"
+  },
+  {
+    "id": 60093,
+    "IDcode": "IKHR-018",
+    "title": "裏垢女子 OL みやん24歳 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "吞精",
+      "OL",
+      "自慰",
+      "业余",
+      "素人作品",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐佐波绫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-018"
+  },
+  {
+    "id": 59722,
+    "IDcode": "IKHR-019",
+    "title": "裏垢女子 ゆぅ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "吞精",
+      "OL",
+      "自慰",
+      "业余",
+      "素人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-019"
+  },
+  {
+    "id": 59773,
+    "IDcode": "IKHR-020",
+    "title": "裏垢女子 なっつん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "吞精",
+      "自慰",
+      "业余",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-020"
+  },
+  {
+    "id": 59771,
+    "IDcode": "IKHR-021",
+    "title": "裏垢女子 こよみちゃん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "吞精",
+      "自慰",
+      "业余",
+      "素人作品",
+      "巨乳",
+      "美容院"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IKHR-021"
   },
   {
     "id": 523204,
@@ -982,12 +1391,27 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250510/UDLvafPX/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ISY-026"
+  },
+  {
+    "id": 541106,
+    "IDcode": "KMHR-003",
+    "title": "番号 桐山结羽 欲求不满的欲望少女首次4P哈巴狗式活塞高潮（下）",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-003"
   },
   {
     "id": 197757,
@@ -997,7 +1421,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/05/21/dda01fc2a838fa33e53906de14a68c7e.jpg",
@@ -1018,7 +1442,7 @@ window.PAGE_DATA = [
       "首次亮相",
       "企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/62bfe147d353a85d74b46716362cd4fb.jpg",
@@ -1041,7 +1465,7 @@ window.PAGE_DATA = [
       "女生",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/649743dbf5d44277560ebeea2bb957ac.jpg",
@@ -1061,7 +1485,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20220506-1/4e995f61f25957756ea46707a65ae7e7.jpg",
@@ -1078,7 +1502,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b579ee2cbbe464027fbd13/cover.jpg",
@@ -1093,7 +1517,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/c1c151463ebd80ae2f4438e7e414f907.jpg",
@@ -1108,7 +1532,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230302/1kmhr00046pl.jpg",
@@ -1123,7 +1547,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230302/1kmhr00048pl.jpg",
@@ -1138,7 +1562,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/2dcdde73af8e56000e8ade66413ee1d7.jpg",
@@ -1159,7 +1583,7 @@ window.PAGE_DATA = [
       "素人",
       "感谢祭"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/93ac5e57d1317fb21cf3aa2844f0a57a.jpg",
@@ -1167,6 +1591,21 @@ window.PAGE_DATA = [
       "春埼芽衣"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-051"
+  },
+  {
+    "id": 590049,
+    "IDcode": "KMHR-053",
+    "title": "[中国语字幕] ほろ酔いナイトクルージング IN TOKYO 体の芯からトロトロにとろける本能むきだし浓密SEX 水树璃子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-053"
   },
   {
     "id": 78182,
@@ -1181,7 +1620,7 @@ window.PAGE_DATA = [
       "数位马赛克",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f9fd2368c0b068f7f4029c6d9f5b892e.jpg",
@@ -1198,12 +1637,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190522-1/83de82e01720b81388832d3322258377.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-059"
+  },
+  {
+    "id": 78183,
+    "IDcode": "KMHR-060",
+    "title": "小泉日向密室做爱汁液狂泄",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "巨乳",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "素人Only",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小泉日向"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-060"
   },
   {
     "id": 468063,
@@ -1215,7 +1675,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/26/67bef7654e7d663df4b3fa6d/cover.jpg",
@@ -1234,7 +1694,7 @@ window.PAGE_DATA = [
       "女大学生",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/67f08b445b1e339f59ae38837e42d43f.jpg",
@@ -1252,7 +1712,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/004a5729d85ba67a4a748f7e8069211f.jpg",
@@ -1272,7 +1732,7 @@ window.PAGE_DATA = [
       "主观视角",
       "高"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/5206537ce6d9b35cf2f92ce915280d52.jpg",
@@ -1291,7 +1751,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/9320c33209567e4c2a09804f20c3cd38.jpg",
@@ -1312,7 +1772,7 @@ window.PAGE_DATA = [
       "巨乳",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人Only",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/6e8ddf29cd13dc4c894dfe2b421d43f5.jpg",
@@ -1323,434 +1783,5 @@ window.PAGE_DATA = [
       "森本つぐみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-072"
-  },
-  {
-    "id": 74415,
-    "IDcode": "KMHR-073",
-    "title": "望月あられ 童貞のフリしたルームメイト4名がハードピストン連続中出しエビ反り痙攣爆イキ大絶頂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大阴茎",
-      "姐姐",
-      "中出",
-      "素人作品",
-      "处男"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/220b7ea94a2f79f8c5a961515314b00b.jpg",
-    "actress": [
-      "望月憧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-073"
-  },
-  {
-    "id": 74354,
-    "IDcode": "KMHR-074",
-    "title": "献身的な先生の卵がほんわか笑顔で全身ベロベロ舐めしゃぶるご奉仕SEX 古賀まつな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "恋物癖",
-      "女教师",
-      "素人作品",
-      "巨乳",
-      "接吻"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/f8686235fd0ba0e954724ccfd6b84715.jpg",
-    "actress": [
-      "鲛岛",
-      "古贺まつな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-074"
-  },
-  {
-    "id": 73859,
-    "IDcode": "KMHR-077",
-    "title": "先生になる前に人生初の中出し！追撃＋逆追撃で貪欲にイカせ合う！イッても抜かずの連続中出し計12発！ 古賀まつな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "中出",
-      "滥交"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/362644e08b8f49a3e349bfce32a5c6b5.jpg",
-    "actress": [
-      "鲛岛",
-      "イセドン内村",
-      "古贺まつな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-077"
-  },
-  {
-    "id": 165839,
-    "IDcode": "KMHR-079",
-    "title": "四葉さなが指舐め顔舐め乳首舐め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678290c9c179ffb1db75fdb5/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-079"
-  },
-  {
-    "id": 78177,
-    "IDcode": "KMHR-081",
-    "title": "家庭教師-望月あられ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乳房",
-      "女大学生",
-      "家教"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1731d045f0c3010d8438f910a5eeebf7.jpg",
-    "actress": [
-      "望月憧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-081"
-  },
-  {
-    "id": 165988,
-    "IDcode": "KMHR-083",
-    "title": "いつもは奉仕しているほうだけど、",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/14/67853d9a8a48711d81b838e0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-083"
-  },
-  {
-    "id": 76696,
-    "IDcode": "KMHR-085",
-    "title": "超人气风俗孃教您如何玩风俗 绫音诗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "礼仪小姐",
-      "教学",
-      "素人作品",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/69c884e23b2699fbb43e96b8289e59ca.jpg",
-    "actress": [
-      "ゆうき",
-      "绫音うた"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-085"
-  },
-  {
-    "id": 76613,
-    "IDcode": "KMHR-086",
-    "title": "ご奉仕するのが好きすぎてお店に内緒でこっそり本番してくれるおっパブ嬢",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "礼仪小姐",
-      "业余",
-      "乳房",
-      "素人作品",
-      "巨乳",
-      "主观视角"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/16b3aa6a9e62fc181831dec512c8045b.jpg",
-    "actress": [
-      "四葉さな",
-      "四叶さな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=KMHR-086"
-  },
-  {
-    "id": 576249,
-    "IDcode": "MEK-008",
-    "title": "[] 职女。 File 08",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "无码"
-    ],
-    "type": "无码",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230926/118mek008pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MEK-008"
-  },
-  {
-    "id": 516568,
-    "IDcode": "MXSPS-094",
-    "title": "紺野美奈子精選 第四季 4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/18/68f32873dd88d14f063f4c5c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-094"
-  },
-  {
-    "id": 518522,
-    "IDcode": "MXSPS-350",
-    "title": "椎名由奈 the BEST",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd08f6944bbe4ef05b197e/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-350"
-  },
-  {
-    "id": 469747,
-    "IDcode": "MXSPS-388",
-    "title": "綾瀬成美 好尻場景嚴選 4小時",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dca489ce5a404e9bc2dc0f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-388"
-  },
-  {
-    "id": 88152,
-    "IDcode": "MXSPS-507",
-    "title": "緊急発売！！高井ルナコレクション ～初公開！撮り下ろしコーナー収録～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
-      "4小时以上作品",
-      "美少女",
-      "乳交",
-      "女生"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/a3b0c0ea643764b00984c3f46ed02ef5.jpg",
-    "actress": [
-      "高井露娜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-507"
-  },
-  {
-    "id": 76691,
-    "IDcode": "MXSPS-601",
-    "title": "吉沢明歩クロニクル Vol.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小时以上作品"
-    ],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8b93bc979027e4fe2be1b804ecd93edd.jpg",
-    "actress": [
-      "吉沢明歩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-601"
-  },
-  {
-    "id": 523572,
-    "IDcode": "MXSPS-606",
-    "title": "吉沢明歩クロニクル Vol.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/14909ccc3b6212ac5bec1f23ee7afc59.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-606"
-  },
-  {
-    "id": 523756,
-    "IDcode": "MXSPS-613B",
-    "title": "[第2集]由爱可奈 デビュー8周年アニバーサリー 4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190919-1/5d741276db38558e8329afaadbe78693.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-613B"
-  },
-  {
-    "id": 81827,
-    "IDcode": "MXSPS-629",
-    "title": "吉沢明歩 クロニクルVol.9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "2019-12-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221103-1/2a613f2735c240487fffb61f74957a3b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-629"
-  },
-  {
-    "id": 83700,
-    "IDcode": "MXSPS-633",
-    "title": "吉沢明歩 クロニクルVol.10",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "2020-01-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/df166a9929f5ef7db247d87338b4a646.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-633"
-  },
-  {
-    "id": 83701,
-    "IDcode": "MXSPS-637",
-    "title": "吉沢明歩 クロニクルVol.11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "2020-02-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/7698a918bce681c1eeaa95aa22e7d382.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-637"
-  },
-  {
-    "id": 81839,
-    "IDcode": "MXSPS-638",
-    "title": "由愛可奈 クロニクルVol.6",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "2020-02-16",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221103-1/6771a36d103d51b284432dbd19439b09.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-638"
-  },
-  {
-    "id": 83690,
-    "IDcode": "MXSPS-643",
-    "title": "月乃ルナと今すぐヤリたい！ 4時間スペシャルVol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "2020-03-16",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/02195aef05294bf3c93119eb4a138c7d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-643"
-  },
-  {
-    "id": 530538,
-    "IDcode": "MXSPS-646",
-    "title": "P1 [第1集]由爱可奈 クロニクルVol.8",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20201014-1/983afbdc55695018b99c7cc2a049c1b0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-646"
-  },
-  {
-    "id": 530540,
-    "IDcode": "MXSPS-649",
-    "title": "由爱可奈 クロニクルVol.9",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20201015-1/957fda250ae2e3ec5bebaced97da2b5c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-649"
-  },
-  {
-    "id": 539392,
-    "IDcode": "MXSPS-650",
-    "title": "拘他束他された美女たち5人4时间2020-05-16黒宫えいみ咲野の花波他多野结衣由爱可奈吉沢明歩5位女他优他-087",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "素人Only",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230308/h_068mxsps00650pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MXSPS-650"
   }
 ];

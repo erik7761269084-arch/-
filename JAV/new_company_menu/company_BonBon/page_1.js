@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230206/Frcv9Qs4/1.jpg",
@@ -26,7 +26,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230415/1bkynb00014pl.jpg!320x216.jpg",
@@ -44,7 +44,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230415/1bkynb00015pl.jpg!320x216.jpg",
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230926/pb_e_715bkynb-018.jpg!320x216.jpg",
@@ -78,7 +78,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240531/BKYNB019.jpg!320x216.jpg",
@@ -95,7 +95,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240119/BKYNB020.jpg!320x216.jpg",
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20250724/PjYrt899/1.jpg?t=1753408578",
@@ -129,7 +129,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230605/aWcRr9IR/1.jpg",
@@ -146,7 +146,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230605/ALJgbNnS/1.jpg",
@@ -163,12 +163,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/ZqOzlnPi/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=715BKYNB-024"
+  },
+  {
+    "id": 531409,
+    "IDcode": "715BKYNB-026",
+    "title": "絶顶中に音速ピストンで逝きじゃくる失神突き中出し性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "BonBon",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=715BKYNB-026"
   },
   {
     "id": 575296,
@@ -180,7 +197,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20250724/RqjMwzEq/1.jpg?t=1753408547",
@@ -197,7 +214,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20250724/VS2GXuh7/1.jpg?t=1753408629",
@@ -214,7 +231,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20250724/AtC5tGpc/1.jpg?t=1753408571",
@@ -232,7 +249,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20250724/u2SJz4Gh/1.jpg?t=1753408643",
@@ -249,7 +266,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20250724/svMYCv7Q/1.jpg?t=1753408650",
@@ -267,7 +284,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250725/pEUlQCzg/1.jpg",
@@ -284,7 +301,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250725/C3I3fkK2/1.jpg",
@@ -301,7 +318,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250725/HlPbykGw/1.jpg",
@@ -318,7 +335,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250725/JIir5mbY/1.jpg",
@@ -335,7 +352,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250725/wgK9pRts/1.jpg",
@@ -353,7 +370,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250725/SQYK30Ms/1.jpg",
@@ -374,7 +391,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2022-10-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250124-1/8d369658b48d1577ea6e05852f24a3b6.jpg",
@@ -384,6 +401,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-007"
   },
   {
+    "id": 592787,
+    "IDcode": "BKYNB-011",
+    "title": "フェラで感じて潮吹いちゃう敏感淫口ピンサロ嬢 上坂めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "BonBon",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-011"
+  },
+  {
     "id": 547121,
     "IDcode": "BKYNB-016",
     "title": "骑乘位の天才痴女超ギャル杭打ち骑乘位中出し性交",
@@ -391,7 +423,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231221/gngVMITS/1.jpg",
@@ -406,7 +438,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240107/I5M4lfkc/1.jpg",
@@ -421,12 +453,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230902/rNym2gxG/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-022"
+  },
+  {
+    "id": 564249,
+    "IDcode": "BKYNB-024",
+    "title": "絶顶中に音速ピストンで逝きじゃくる失神突き中出し性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "BonBon",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-024"
   },
   {
     "id": 564250,
@@ -436,7 +483,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/OsP3cbSR/1.jpg",
@@ -451,7 +498,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/MzU9JzK3/1.jpg",
@@ -477,7 +524,7 @@ window.PAGE_DATA = [
       "巨乳",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2023-10-06",
     "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010002403221221.jpg",
@@ -503,7 +550,7 @@ window.PAGE_DATA = [
       "素人作品",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2023-10-20",
     "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022083120921921.jpg",
@@ -513,6 +560,30 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-035"
   },
   {
+    "id": 105661,
+    "IDcode": "BKYNB-037",
+    "title": "绝顶中以音速活塞逝去的昏迷突中交-樱茉日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "BonBon",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "堀北実来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-037"
+  },
+  {
     "id": 546510,
     "IDcode": "BKYNB-040",
     "title": "骑乘位中もずっとベロキス＆ヨダレ流し込み接吻窒息中出しFUCK",
@@ -520,7 +591,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240206/SHqwsjFp/1.jpg",
@@ -551,7 +622,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-02-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216043023911911.jpg",
@@ -586,7 +657,7 @@ window.PAGE_DATA = [
       "口交",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-02-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202023225199199.jpg",
@@ -619,7 +690,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-02-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240216/20240216043303691691.jpg",
@@ -654,7 +725,7 @@ window.PAGE_DATA = [
       "巨乳",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-03-10",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/9e76e833-64e0-43f2-9458-3194f8dc6eb1.jpg",
@@ -677,7 +748,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/0ce56098c17def79865a2bef4e76177f.jpg",
@@ -709,7 +780,7 @@ window.PAGE_DATA = [
       "巨乳",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-03-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240301/743aafce-8d87-4ca4-9518-e0fbeced0b08.jpg",
@@ -717,6 +788,29 @@ window.PAGE_DATA = [
       "吉根柚莉爱"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-047"
+  },
+  {
+    "id": 104909,
+    "IDcode": "BKYNB-048",
+    "title": "沉默乳头剥削开发-水原美园",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "巨乳",
+      "恋乳癖",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "BonBon",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BKYNB-048"
   },
   {
     "id": 15625,
@@ -758,7 +852,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240405/c9c24c04-e461-4dcc-94cc-3e7738ed27b3.jpg",
@@ -775,7 +869,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240407/QDk9cjoH/1.jpg",
@@ -823,7 +917,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/bdbc091177499f6a674b4132a5ec14a6.jpg",
@@ -856,7 +950,7 @@ window.PAGE_DATA = [
       "重口味",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-05-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421082346346346.jpg",
@@ -896,7 +990,7 @@ window.PAGE_DATA = [
       "上門推銷",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-05-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421082440162162.jpg",
@@ -932,7 +1026,7 @@ window.PAGE_DATA = [
       "姐姐・妹妹",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-05-17",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421051812250250.jpg",
@@ -949,7 +1043,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240506/KCsOChmv/1.jpg",
@@ -981,7 +1075,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035002253253.jpg",
@@ -1014,7 +1108,7 @@ window.PAGE_DATA = [
       "劇情",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d6fdf5944bbe4ef015cc35/cover.jpg",
@@ -1046,7 +1140,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "BonBon",
     "publish_date": "2024-08-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240707/20240707034851102102.jpg",

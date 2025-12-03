@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/greLZi5R/1.jpg",
@@ -22,7 +22,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231218/faBevXQ5/1.jpg",
@@ -37,7 +37,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240617/2LeEJCFK/1.jpg",
@@ -52,7 +52,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250119/USLRDGRR/1.jpg",
@@ -106,7 +106,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2025-06-14",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250617/20250617115017494494_thumbnail.webp",
@@ -124,6 +124,23 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ADD-060"
   },
   {
+    "id": 102176,
+    "IDcode": "BBTU-004",
+    "title": "乳交媽媽 巨乳媽媽盡情榨取精液 中野七緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-004"
+  },
+  {
     "id": 86780,
     "IDcode": "BBTU-014",
     "title": "慢速性爱-有岡みう",
@@ -137,7 +154,7 @@ window.PAGE_DATA = [
       "巨乳",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/7c43386f8fe5aedbbfcf247c468afee3.jpg",
@@ -159,7 +176,7 @@ window.PAGE_DATA = [
       "巨乳",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2021-08-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/ca1d80eccd50806760c8f8c3aca859e6.jpg",
@@ -167,6 +184,43 @@ window.PAGE_DATA = [
       "凪沙雪乃"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-018"
+  },
+  {
+    "id": 216078,
+    "IDcode": "BBTU-028",
+    "title": "大胸训练班-大原あむ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-028"
+  },
+  {
+    "id": 60312,
+    "IDcode": "BBTU-032",
+    "title": "美丽的大胸-北野未奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "乳液",
+      "乳交",
+      "巨乳",
+      "手淫",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-032"
   },
   {
     "id": 537321,
@@ -195,7 +249,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/MXcQlGh1.jpg",
@@ -210,7 +264,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/2rZNoz9s.jpg",
@@ -227,7 +281,7 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240118/bbtu037pl.jpg!320x216.jpg",
@@ -242,7 +296,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/50f9b31ee3eb9ab6fd279c112aea8565.jpg",
@@ -259,7 +313,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/15405b7e53c1269a8cb3d14b9fda3ee0.jpg",
@@ -276,7 +330,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250425/wq6KqQyU/1.jpg",
@@ -291,7 +345,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/ulkyi5ed.jpg",
@@ -313,7 +367,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2022-08-16",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/5BQSCFju.jpg",
@@ -330,7 +384,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250821-1/16d9d392fb8564c23669762b9384e7ca.jpg",
@@ -347,7 +401,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250425/wfCxxNYp/1.jpg",
@@ -364,7 +418,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d4ec8b598b42421dd888b5d728964b12.jpg",
@@ -379,7 +433,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b21cdd2f4cbbd5256eb1c6c18ffa79d5.jpg",
@@ -396,7 +450,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b242f432b30c11b89d31157556a9e314.jpg",
@@ -419,7 +473,7 @@ window.PAGE_DATA = [
       "泳装",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/653a2994cf4fa23fbe816173d9451830.jpg",
@@ -445,7 +499,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241114-1/97ce144a972e151c75017735865bf52b.png",
@@ -453,6 +507,31 @@ window.PAGE_DATA = [
       "田中寧寧"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-050"
+  },
+  {
+    "id": 66841,
+    "IDcode": "BBTU-051",
+    "title": "美巨乳-有岡みう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
+      "乳交",
+      "巨乳",
+      "恋乳癖",
+      "淫语",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椎叶みくる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-051"
   },
   {
     "id": 67753,
@@ -470,7 +549,7 @@ window.PAGE_DATA = [
       "单体作品",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/7ddd6c3f2b8b59fa180725e67e643f96.jpg",
@@ -495,7 +574,7 @@ window.PAGE_DATA = [
       "恋乳癖",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d818d43d6972716f10bb0/cover.jpg",
@@ -503,6 +582,29 @@ window.PAGE_DATA = [
       "推川悠里"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-053"
+  },
+  {
+    "id": 67901,
+    "IDcode": "BBTU-054",
+    "title": "大胸脯上出现了精液-希咲アリス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "乳液",
+      "乳交",
+      "拘束",
+      "巨乳",
+      "恋乳癖",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-054"
   },
   {
     "id": 533099,
@@ -515,7 +617,7 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240301/bbtu056pl.jpg!320x216.jpg",
@@ -532,7 +634,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/p4LkFaXC/1.jpg",
@@ -547,7 +649,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230620/Wbzbaxba/1.jpg",
@@ -562,7 +664,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/MLjytgji/1.jpg",
@@ -579,7 +681,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/TVweXzpt/1.jpg",
@@ -596,7 +698,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230813/5RC33Tmy/1.jpg",
@@ -613,7 +715,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230813/iPraSx0i/1.jpg",
@@ -628,7 +730,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/DeMkVZdJ/1.jpg",
@@ -645,7 +747,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/Wip5q7NT/1.jpg",
@@ -662,7 +764,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231015/T8PiOX6f/1.jpg",
@@ -679,7 +781,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231015/dJv5CsKb/1.jpg",
@@ -694,7 +796,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa842ac813dc779d963bb/cover.jpg",
@@ -711,7 +813,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa6e6ac813dc779d963ae/cover.jpg",
@@ -728,7 +830,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231218/YclQLwxC/1.jpg",
@@ -745,7 +847,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231218/AXbC9Nor/1.jpg",
@@ -760,7 +862,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240115/Q6NRwj9x/1.jpg",
@@ -775,7 +877,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5916ac813dc779d962ad/cover.jpg",
@@ -790,7 +892,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240219/VhQOP8d9/1.jpg",
@@ -807,7 +909,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240319/DtyiekCw/1.jpg",
@@ -822,7 +924,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240416/kb0KjwH7/1.jpg",
@@ -854,7 +956,7 @@ window.PAGE_DATA = [
       "辣妹/GAL系",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-05-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240519/46cb74f8-f865-4208-b5db-7d26a26104ef.jpg",
@@ -891,7 +993,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-05-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240519/91ee0309-2fe6-466d-85b7-22e31ee670d4.jpg",
@@ -929,7 +1031,7 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240617/8bed0d57-4b96-4761-a8b9-d25167707a20.jpg",
@@ -977,7 +1079,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240617/20240617030117902902.jpg",
@@ -1016,7 +1118,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240714/9075fa5b-f38a-4af9-81bc-387bc462bb3f.jpg",
@@ -1063,7 +1165,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-07-17",
     "cover_url": "https://picture.yoshiclub.xyz/20240714/cdcd9714-2001-4e5e-80cf-e2c5995d4e1a.jpg",
@@ -1109,7 +1211,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240818/87d4be65-3895-4022-a44a-71299a55db9b.jpg",
@@ -1128,7 +1230,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240819/SJKP6nuD/1.jpg",
@@ -1188,7 +1290,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240916/041b62e0-d3d2-4aad-9121-f0a43573eba0.jpg",
@@ -1231,7 +1333,7 @@ window.PAGE_DATA = [
       "乳交",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240917/8d2b2868-3382-4fad-b705-0848010f1dbf.jpg",
@@ -1248,7 +1350,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/f6011eb575f66b4102d95df23d373e50.jpg",
@@ -1303,7 +1405,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/4688af443fdc610a8d7d2f56ecce1a23.jpg",
@@ -1322,7 +1424,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678882735d57b64bfd2c0a7d/cover.jpg",
@@ -1339,7 +1441,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789287a5d57b64bfd161e8a/cover.jpg",
@@ -1401,7 +1503,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241215/6c40203b-ef29-4988-bdae-ff23b648d6ba.jpg",
@@ -1450,7 +1552,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241216/2b21decf-1588-4942-a0de-c2f75bc7e2b2.jpg",
@@ -1458,6 +1560,79 @@ window.PAGE_DATA = [
       "浜辺栞帆"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-094"
+  },
+  {
+    "id": 187155,
+    "IDcode": "BBTU-095",
+    "title": "縛乳スレイブ 田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-095"
+  },
+  {
+    "id": 74182,
+    "IDcode": "BBTU-096",
+    "title": "爆乳 肉弾FUCK 西村ニーナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "胖女人",
+      "乳液",
+      "乳交",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "西村ニーナ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-096"
+  },
+  {
+    "id": 189368,
+    "IDcode": "BBTU-097",
+    "title": "巨乳アクメ 剛毛スイマーをヤる！ 浜辺栞帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-097"
+  },
+  {
+    "id": 189291,
+    "IDcode": "BBTU-098",
+    "title": "爆乳 肉弾FUCK 南畑颯花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BBTU-098"
   },
   {
     "id": 7489,
@@ -1491,7 +1666,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250316/8115ce5c-1c20-4663-9789-ef863c69dd5f.jpg",
@@ -1508,7 +1683,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1fe8fe4a73d4f159b4451/cover.jpg",
@@ -1531,7 +1706,7 @@ window.PAGE_DATA = [
       "单体作品",
       "紧身衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250521-1/3b0fa5155f932ecdec129a8355d5f724.jpg",
@@ -1583,7 +1758,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae2e7f682e2e9281a548e9/cover.jpg",
@@ -1639,7 +1814,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250712/20250712024309505505_59469_thumbnail.webp",
@@ -1716,7 +1891,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2025-08-15",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250816/20250816032239619619_38559_thumbnail.webp",
@@ -1786,7 +1961,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250914/20250914045816969969_59156_thumbnail.webp",
@@ -1805,7 +1980,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/27/cddb3952fb7d9192cb43a39969700984.jpg",
@@ -1820,7 +1995,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fe0a17dd88d14f0655c644/poster2.jpg",
@@ -1837,7 +2012,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250310-1/80a11c862be170e6d8161fe8e20b76b2.jpg",
@@ -1854,7 +2029,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/28/68ffe6b67de28f4edeabf9db/poster2.jpg",
@@ -1869,7 +2044,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903d047d6fbef4e901a78a2/poster2.jpg",
@@ -1884,12 +2059,67 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd04b5944bbe4ef05b0c42/poster2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-096"
+  },
+  {
+    "id": 166373,
+    "IDcode": "DDK-153",
+    "title": "叔父さん、ソープしようよ！女子校生出張ソープとやらを頼んでみたら、JKの姪っ子が来た！ 柚月すず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-153"
+  },
+  {
+    "id": 102844,
+    "IDcode": "DDK-172",
+    "title": "裏回覧板のまわし方202号室の",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "已婚妇女",
+      "乳交",
+      "中文字幕",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐仓宁宁"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-172"
+  },
+  {
+    "id": 221702,
+    "IDcode": "DDK-174",
+    "title": "我被约束和驯服了-神宮寺ナオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-174"
   },
   {
     "id": 566512,
@@ -1899,12 +2129,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cd827eee4d3b1fa705d71e07e47b8526.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-182"
+  },
+  {
+    "id": 534091,
+    "IDcode": "DDK-188",
+    "title": "淫乱性癖を持て余すドスケベ女にムチャクチャ犯される松永さな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-188"
   },
   {
     "id": 589497,
@@ -1914,12 +2159,59 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/41702_cover_2025-07-06_033021.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-191"
+  },
+  {
+    "id": 74887,
+    "IDcode": "DDK-192",
+    "title": "こんな可愛らしい娘さんと密室でねぶ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "深喉",
+      "羞耻",
+      "内衣",
+      "中文字幕",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "向井藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-192"
+  },
+  {
+    "id": 98164,
+    "IDcode": "DDK-193",
+    "title": "下品なキスで犯してあげるね！中年男を殺す唾液まみれのベロチューセックス優木しの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "荡妇",
+      "中文字幕",
+      "口交",
+      "接吻",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "优木しの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-193"
   },
   {
     "id": 77909,
@@ -1935,7 +2227,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4d76e6d310165ad99111fdd373827184.jpg",
@@ -1952,7 +2244,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2024-07-17",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/d2762e8cbdee3fa0e32e38f5d9dd2eb7.jpg",
@@ -1972,7 +2264,7 @@ window.PAGE_DATA = [
       "荡妇",
       "礼仪小姐"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2021-08-19",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/hrfe1kHL.jpg",
@@ -1989,7 +2281,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20deacf22ae3e04a81e31/cover.jpg",
@@ -2012,7 +2304,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "2022-08-16",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230725-1/00a7ff09becf030b13d67463bc74328a.jpg",
@@ -2036,7 +2328,7 @@ window.PAGE_DATA = [
       "药物",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-8/68896b4d9f110145eb26b5c2b01696a6.jpg",
@@ -2046,6 +2338,56 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-213"
   },
   {
+    "id": 67129,
+    "IDcode": "DDK-215",
+    "title": "让我克制强行射精-月野かすみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
+      "乱伦",
+      "拘束",
+      "制服",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "月野香澄"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-215"
+  },
+  {
+    "id": 88538,
+    "IDcode": "DDK-219",
+    "title": "我侄女的奶子太大-小梅えな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "4K",
+      "乱伦",
+      "乳交",
+      "巨乳",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "DOGMA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小梅惠奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-219"
+  },
+  {
     "id": 572350,
     "IDcode": "DDK-220",
     "title": "恵沙也香家政妇はおしゃぶり魔女 ベロが性感帯のジュポフェラ中毒女",
@@ -2053,358 +2395,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DOGMA",
     "publish_date": "",
     "cover_url": "https://pic57.anzise.com/pic/20230611/256da017d33986818dcc3767849181e4/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-220"
-  },
-  {
-    "id": 168199,
-    "IDcode": "DDK-221",
-    "title": "发情期之旅-仓本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231224/ddk221pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-221"
-  },
-  {
-    "id": 516898,
-    "IDcode": "DDK-222",
-    "title": "與父親在一起 與爸爸搞找乾爹～造人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/06/690c74306b81af1f8539ce86/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-222"
-  },
-  {
-    "id": 564011,
-    "IDcode": "DDK-223",
-    "title": "縄·少女妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230716/JovnpcyF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-223"
-  },
-  {
-    "id": 564009,
-    "IDcode": "DDK-224",
-    "title": "クズ男宅に家庭访问！ドM洗脳してくれる変态ケースワーカーさん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230716/2Co8yY0K/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-224"
-  },
-  {
-    "id": 101305,
-    "IDcode": "DDK-225",
-    "title": "被东北赶来的学生-青井莉奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "多P",
-      "美少女电影",
-      "中出",
-      "手淫",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/04/683f51fc0b69f1d816556079/cover.jpg",
-    "actress": [
-      "青井莉奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-225"
-  },
-  {
-    "id": 547697,
-    "IDcode": "DDK-226",
-    "title": "ウチのクラスのマジメな美少女便器さん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231015/2nQkkvVm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-226"
-  },
-  {
-    "id": 562788,
-    "IDcode": "DDK-227",
-    "title": "処刑中毒女",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231126/Vr4OWjop/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-227"
-  },
-  {
-    "id": 547131,
-    "IDcode": "DDK-228",
-    "title": "関西弁ポルノ小说家のチ〇ポなぶりハラスメント",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231218/9UzUyO17/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-228"
-  },
-  {
-    "id": 546822,
-    "IDcode": "DDK-229",
-    "title": "人格崩壊オナホール加工 IN监禁病栋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240115/pETmSlE7/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-229"
-  },
-  {
-    "id": 546024,
-    "IDcode": "DDK-230",
-    "title": "缚肉ホルスタイン 超乳ボンレスファッカーズ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240319/GvUtUmt4/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-230"
-  },
-  {
-    "id": 545770,
-    "IDcode": "DDK-231",
-    "title": "野外·不法投弃少女に连続中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240416/Jid2hGMy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-231"
-  },
-  {
-    "id": 545315,
-    "IDcode": "DDK-232",
-    "title": "新任女教师 纯情肉便器",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240617/zkm2QYfE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-232"
-  },
-  {
-    "id": 11959,
-    "IDcode": "DDK-233",
-    "title": "淫蟲之家 - 上癮的女孩 ~ 雫月心桜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "小隻馬",
-      "殘忍畫面",
-      "叛逆少女",
-      "插入異物",
-      "性虐癖",
-      "苗條",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "癡女",
-      "美腳",
-      "按摩棒",
-      "口交",
-      "跳蛋",
-      "暗黑系",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "淫亂",
-      "中出",
-      "後入",
-      "SM",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "自慰",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "2024-09-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20240915/a5f44ae1-e9ed-4105-924b-2d1dd0216c27.jpg",
-    "actress": [
-      "雫月心桜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-233"
-  },
-  {
-    "id": 9850,
-    "IDcode": "DDK-234",
-    "title": "欲望の森 まいごの全裸少女を森で見つけて性欲が抑えられない 由良かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "女學生",
-      "艷遇",
-      "小隻馬",
-      "M男・M女",
-      "口爆",
-      "野外露天",
-      "辣妹/GAL系",
-      "痴漢",
-      "凌辱",
-      "美少女",
-      "緊縛",
-      "強姦",
-      "美腳",
-      "羞恥",
-      "變態",
-      "口交",
-      "露出",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "中出",
-      "後入",
-      "少女",
-      "SM",
-      "劇情",
-      "顏射",
-      "奇異的",
-      "抹油",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "魔鬼系",
-      "舔腳",
-      "野戰",
-      "蘿莉",
-      "蘿莉控",
-      "拳擊交",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e73de98bc99dfdd032e5a/cover.jpg",
-    "actress": [
-      "由良佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDK-234"
-  },
-  {
-    "id": 595697,
-    "IDcode": "DDOB-030",
-    "title": "AIイラマ学习机能搭载 人型オナホール 君岛式壱号 君岛みお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/bW8SBvqL.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-030"
-  },
-  {
-    "id": 522972,
-    "IDcode": "DDOB-036",
-    "title": "波多野结衣- お手コキママちゃん 妖艶な神の手コキで快楽射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250410/bHpsIMiz/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-036"
-  },
-  {
-    "id": 595612,
-    "IDcode": "DDOB-040",
-    "title": "こねくりママちゃん こねくりお手コキとお下品なフェラチオ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOGMA",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/cvjpg/sCflX9My.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DDOB-040"
   }
 ];

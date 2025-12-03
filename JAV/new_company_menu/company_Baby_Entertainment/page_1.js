@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/20552_cover_2025-10-01_032918.jpg",
@@ -24,7 +24,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/46189_cover_2025-10-01_031017.jpg",
@@ -45,7 +45,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/adb5b4a17c4938ca9888b2132e34e25a.jpg",
@@ -70,7 +70,7 @@ window.PAGE_DATA = [
       "学校作品",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/ffe173a3a79c3977e772c6a1ea56f0a9.jpg",
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2023/09/18/3a5f47c277cb867aed54ec854c89872b.jpg",
@@ -106,7 +106,7 @@ window.PAGE_DATA = [
       "单体作品",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/82cf07b93d793e67673e232150497c79.jpg",
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
       "颜射",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/8c2df3419be79cd283f3a7f2918a7d36.jpg",
@@ -144,7 +144,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230708/zErBiGTp/1.jpg",
@@ -166,7 +166,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/f376a7b57d4e4b13bc7ba409bc8275cd.jpg",
@@ -174,6 +174,21 @@ window.PAGE_DATA = [
       "凉森玲梦"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-007"
+  },
+  {
+    "id": 564025,
+    "IDcode": "ABF-008",
+    "title": "美少女と、贷し切り温泉と、浓密性交と。 23 铃の家りん【MGSだけのおまけ映像付き+10分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Baby Entertainment",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-008"
   },
   {
     "id": 106865,
@@ -191,7 +206,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2023/09/23/e430ebdd60777ccacdfa86b0fb4daaef.jpg",
@@ -208,7 +223,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230721/ZOoRLJXX/1.jpg",
@@ -223,7 +238,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/59e0da63a6f8964bdcb27baebf387ee1.jpg",
@@ -238,7 +253,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241124/yiqs55GV/1.jpg",
@@ -258,7 +273,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/9b1b5ebe30145e2e726a4c8d3ff66057.jpg",
@@ -273,7 +288,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/845bdb3c59d6d052b886f7b3e2f429e2.jpg",
@@ -288,12 +303,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/d541f294267d6c48e8a69815e660f1fb.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-015"
+  },
+  {
+    "id": 548556,
+    "IDcode": "ABF-016",
+    "title": "唇が溶けるほどのベロキス性交 一宫希帆【MGSだけのおまけ映像付き+10分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Baby Entertainment",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-016"
   },
   {
     "id": 158050,
@@ -303,7 +333,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250505-1/860cfe5835aca166efbe6eab7b22d230.jpg",
@@ -320,12 +350,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230811/LJfaM1qK/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-018"
+  },
+  {
+    "id": 548438,
+    "IDcode": "ABF-019",
+    "title": "唇が溶けるほどのベロキス性交 河合あすな【MGSだけのおまけ映像付き+10分】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Baby Entertainment",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-019"
   },
   {
     "id": 16541,
@@ -358,7 +403,7 @@ window.PAGE_DATA = [
       "手指插入",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/6789f414f9a2e9b1d4af3b8f/cover.jpg",
@@ -394,7 +439,7 @@ window.PAGE_DATA = [
       "口交",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/aab5c60631c6de682b0b8552a3430ab5.jpg",
@@ -431,7 +476,7 @@ window.PAGE_DATA = [
       "無毛",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-08-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129090614405405.jpg",
@@ -460,7 +505,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/c0bb88081e7f894b1680e107b6a99aed.jpg",
@@ -482,7 +527,7 @@ window.PAGE_DATA = [
       "COSPLAY服飾",
       "風俗娘"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-08-31",
     "cover_url": "https://picture.yoshiclub.xyz/20230901/f4023584-5f78-4256-889f-ab85acb29b9c.jpg",
@@ -503,7 +548,7 @@ window.PAGE_DATA = [
       "苗條",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240109-1/e6cfcebde9933678e670075513047d65.jpg",
@@ -535,7 +580,7 @@ window.PAGE_DATA = [
       "接吻",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-09-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240129/20240129090940754754.jpg",
@@ -557,7 +602,7 @@ window.PAGE_DATA = [
       "上門福利",
       "奇異的"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2023/11/15/9f0ab168e842fd79abaf4e8d9a0b0a5d.jpg",
@@ -586,7 +631,7 @@ window.PAGE_DATA = [
       "其他職業",
       "性感"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230915/20230915004242646646.jpg",
@@ -608,7 +653,7 @@ window.PAGE_DATA = [
       "苗條",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240528-1/1c3183950fb9be5352d959ee7de9a680.jpg",
@@ -631,7 +676,7 @@ window.PAGE_DATA = [
       "苗條",
       "貧乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/ec2bbac4aa764259be6128b578900913.jpg",
@@ -656,7 +701,7 @@ window.PAGE_DATA = [
       "苗條",
       "業餘"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-09-28",
     "cover_url": "https://picture.yoshiclub.xyz/20230928/edd174ea-07b8-4baf-897c-6d821957f917.jpg",
@@ -684,7 +729,7 @@ window.PAGE_DATA = [
       "苗條",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/215afb2ac4d3c795d0cf8f7c1bda4a19.jpg",
@@ -708,7 +753,7 @@ window.PAGE_DATA = [
       "劇情",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-10-05",
     "cover_url": "https://picture.yoshiclub.xyz/20231006/e028ae43-d85b-4b30-bc8b-c2d2dca4e856.jpg",
@@ -742,7 +787,7 @@ window.PAGE_DATA = [
       "女同事",
       "酒醉"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2023/11/12/92e776a2a7d24aaaf944d4445c65a1fd.jpg",
@@ -772,7 +817,7 @@ window.PAGE_DATA = [
       "亂交 • 群P",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-10-12",
     "cover_url": "https://picture.yoshiclub.xyz/20231013/fc1d05a1-5d05-41fb-ae55-7343ec4f7f65.jpg",
@@ -799,7 +844,7 @@ window.PAGE_DATA = [
       "偷窺",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-11-07",
     "cover_url": "https://picture.yoshiclub.xyz/20231020/d5757ccc-5904-46ed-978e-14c553a797b9.jpg",
@@ -825,7 +870,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-1/ab8a6efb741f2fbc903ff498d6235255.jpg",
@@ -861,7 +906,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240113-1/6261fcbc3191d6b835271c30b973e58d.jpg",
@@ -886,7 +931,7 @@ window.PAGE_DATA = [
       "性感",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-11-03",
     "cover_url": "https://picture.yoshiclub.xyz/20231026/20231026232615356356.jpg",
@@ -915,7 +960,7 @@ window.PAGE_DATA = [
       "性感",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-11-03",
     "cover_url": "https://picture.yoshiclub.xyz/20231026/20231026232920140140.jpg",
@@ -941,7 +986,7 @@ window.PAGE_DATA = [
       "劇情",
       "教學"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-11-02",
     "cover_url": "https://picture.yoshiclub.xyz/20231103/f29c2285-3aca-42e9-9989-4ed13c7668ab.jpg",
@@ -968,7 +1013,7 @@ window.PAGE_DATA = [
       "偷窺",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/67893d1b89def9b1b8096226/cover.jpg",
@@ -1007,7 +1052,7 @@ window.PAGE_DATA = [
       "黑絲",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240203-1/8d1122d0f374d4c0a23072475c3496e4.jpg",
@@ -1039,7 +1084,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-11-16",
     "cover_url": "https://picture.yoshiclub.xyz/20231110/20231110011117615615.jpg",
@@ -1068,7 +1113,7 @@ window.PAGE_DATA = [
       "巨乳",
       "美臀"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-11-24",
     "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116083523110110.jpg",
@@ -1103,7 +1148,7 @@ window.PAGE_DATA = [
       "接吻",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-11-24",
     "cover_url": "https://picture.yoshiclub.xyz/20231116/20231116082353176176.jpg",
@@ -1134,7 +1179,7 @@ window.PAGE_DATA = [
       "女同事",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240529-1/a432927e15dcc2bb0674317ff03c879b.jpg",
@@ -1163,7 +1208,7 @@ window.PAGE_DATA = [
       "劇情",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-12-01",
     "cover_url": "https://picture.yoshiclub.xyz/20231123/20231123233104782782.jpg",
@@ -1201,7 +1246,7 @@ window.PAGE_DATA = [
       "大小姐",
       "監獄"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6b778f1cbfc7a9c7dc4a/cover.jpg",
@@ -1242,7 +1287,7 @@ window.PAGE_DATA = [
       "手指插入",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a6bd38f1cbfc7a9c7dc4e/cover.jpg",
@@ -1267,7 +1312,7 @@ window.PAGE_DATA = [
       "劇情",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/01/19/3506017ad585e79765f85a97fe2e4ffe.jpg",
@@ -1298,7 +1343,7 @@ window.PAGE_DATA = [
       "女同事",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4629ac813dc779d96211/cover.jpg",
@@ -1330,7 +1375,7 @@ window.PAGE_DATA = [
       "SM",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-12-14",
     "cover_url": "https://picture.yoshiclub.xyz/20231214/9ca590bc-e07e-4dbb-b72e-42c44c75ba6d.jpg",
@@ -1363,7 +1408,7 @@ window.PAGE_DATA = [
       "學校",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-12-14",
     "cover_url": "https://picture.yoshiclub.xyz/20231214/b0ece80a-2091-444b-8c0c-dc17041c5de4.jpg",
@@ -1395,7 +1440,7 @@ window.PAGE_DATA = [
       "劇情",
       "顏射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/82ff975ba0ba7298f26e267dd3912c0e.jpg",
@@ -1423,7 +1468,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "顏射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/99e24a92689a740cbdc0232227ece1fe.jpg",
@@ -1459,7 +1504,7 @@ window.PAGE_DATA = [
       "接吻",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/01/19/8915fb61c1fdd73e8b4f22b6b8cf055c.jpg",
@@ -1491,7 +1536,7 @@ window.PAGE_DATA = [
       "劇情",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2023-12-28",
     "cover_url": "https://picture.yoshiclub.xyz/20231228/afe4addf-d692-4d60-a348-d5eff0365c11.jpg",
@@ -1527,7 +1572,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/01/19/1f70536073438ec3dbebcb0699de0bbe.jpg",
@@ -1558,7 +1603,7 @@ window.PAGE_DATA = [
       "劇情",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a65988f1cbfc7a9c7dc22/cover.jpg",
@@ -1596,7 +1641,7 @@ window.PAGE_DATA = [
       "身體意識",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240219-1/be9993c7873b81123c3d604839bd5dc2.jpg",
@@ -1628,7 +1673,7 @@ window.PAGE_DATA = [
       "顏射",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-01-11",
     "cover_url": "https://picture.yoshiclub.xyz/20240104/2024010407153788.jpg",
@@ -1666,7 +1711,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240203-1/481809fe05ee24ba3c30078ccbc68185.jpg",
@@ -1700,7 +1745,7 @@ window.PAGE_DATA = [
       "美臀",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-01-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111101651147147.jpg",
@@ -1717,7 +1762,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a576eac813dc779d9629e/cover.jpg",
@@ -1741,7 +1786,7 @@ window.PAGE_DATA = [
       "劇情",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-01-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240118/20240118035626122122.jpg",
@@ -1769,7 +1814,7 @@ window.PAGE_DATA = [
       "劇情",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240219-1/2f1f7237402ba450e00a53dd2d96ccad.jpg",
@@ -1795,7 +1840,7 @@ window.PAGE_DATA = [
       "厠所",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/02/17/44690bdf04b3265b8e53c14415863c0a.jpg",
@@ -1830,7 +1875,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-02-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240126/20240125225829297297.jpg",
@@ -1865,7 +1910,7 @@ window.PAGE_DATA = [
       "苗條",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240219-1/6af0bc7f47185f8750db0de52549e29a.jpg",
@@ -1898,7 +1943,7 @@ window.PAGE_DATA = [
       "少女",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240303-1/3c8b56cddfca8cd6e27973206fbb4c32.jpg",
@@ -1934,7 +1979,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240219-1/714bdba31b4942a00a7832c1b7c5edbb.jpg",
@@ -1969,7 +2014,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240303-1/a7b1b4e8ad247f1a9e6177dcfc392d90.jpg",
@@ -2013,7 +2058,7 @@ window.PAGE_DATA = [
       "劇情",
       "身體換業務"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-02-15",
     "cover_url": "https://picture.yoshiclub.xyz/20240208/20240208091347682682.jpg",
@@ -2045,7 +2090,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-02-15",
     "cover_url": "https://picture.yoshiclub.xyz/20240208/20240208091429672672.jpg",
@@ -2080,7 +2125,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240327-1/e86aafb8fd704268fd21b2ee8e48fcbb.jpg",
@@ -2118,7 +2163,7 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240303-1/b5acd8b49bd38c9b7f7989edb5783974.jpg",
@@ -2164,7 +2209,7 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-02-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240215/20240215044920621621.jpg",
@@ -2206,7 +2251,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240313-1/ea99a0d4c3f703ad95e9d789381c7dcb.jpg",
@@ -2253,7 +2298,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6787ca49f9a2e9b1d4a52fc7/cover.jpg",
@@ -2300,7 +2345,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a3e13ac813dc779d961b9/cover.jpg",
@@ -2345,7 +2390,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-03-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240229/20240229054757211211.jpg",
@@ -2393,7 +2438,7 @@ window.PAGE_DATA = [
       "女上位",
       "身體換業務"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240415-1/a497af1721bd8f76aca42c7dcfa39051.jpg",
@@ -2417,7 +2462,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/04/19/30bb9265ec4260f4653c6897e50a01dd.jpg",
@@ -2436,7 +2481,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240424-1/01fb1ef4153c2c15708ff02f60fbbdef.jpg",
@@ -2451,7 +2496,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/16/67b0a5794e7d663df47df5d6/cover.jpg",
@@ -2472,7 +2517,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a30c2ac813dc779d96127/cover.jpg",
@@ -2491,7 +2536,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/SPMuvFdO/1.jpg",
@@ -2528,7 +2573,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240421-1/c683637a0f094b1ef460bcf091573c34.jpg",
@@ -2572,7 +2617,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240512-1/c0d2aa978a734621bed84d3e42e28ad9.jpg",
@@ -2614,7 +2659,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/05/19/228ecfd89ff3fc37078dd5bbf6101412.jpg",
@@ -2657,7 +2702,7 @@ window.PAGE_DATA = [
       "黑絲",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-04-11",
     "cover_url": "https://picture.yoshiclub.xyz/20240404/20240404052823734734.jpg",
@@ -2698,7 +2743,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-04-11",
     "cover_url": "https://picture.yoshiclub.xyz/20240404/20240404051432482482.jpg",
@@ -2743,7 +2788,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/05/19/8f413607104ef590f2d1f400f67161b8.jpg",
@@ -2790,7 +2835,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240528-1/dc9ff617fbacdef73612e2f7be53a608.jpg",
@@ -2835,7 +2880,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-04-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240411/20240411092452128128.jpg",
@@ -2886,7 +2931,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "2024-04-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240418/20240418033749710710.jpg",
@@ -2938,7 +2983,7 @@ window.PAGE_DATA = [
       "劇情",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Baby Entertainment",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/05/30/3bdefb5ed7733a45c3653058005b3a98.jpg",
@@ -2947,154 +2992,5 @@ window.PAGE_DATA = [
       "八挂うみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-099"
-  },
-  {
-    "id": 15155,
-    "IDcode": "ABF-100",
-    "title": "汗流浹背的體育系學生 SEX 4 制作！act 32 ~ 七嶋舞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "運動服裝",
-      "泳裝",
-      "3P・4P",
-      "更衣室",
-      "艷遇",
-      "女學生",
-      "多P",
-      "純粹的慾望",
-      "苗條",
-      "流汗",
-      "美少女",
-      "美腳",
-      "癡女",
-      "色白",
-      "美乳",
-      "泳池",
-      "亂交 • 群P",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "中出",
-      "後入",
-      "美腿",
-      "抹油",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "運動女孩",
-      "劇情",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "Baby Entertainment",
-    "publish_date": "2024-05-02",
-    "cover_url": "https://picture.yoshiclub.xyz/20240425/20240425041845679679.jpg",
-    "actress": [
-      "七嶋舞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-100"
-  },
-  {
-    "id": 15156,
-    "IDcode": "ABF-101",
-    "title": "沉默性愛-流川夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "美少女",
-      "美腳",
-      "癡女",
-      "眼鏡",
-      "色白",
-      "自宅",
-      "美乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "文藝女",
-      "中出",
-      "顏射",
-      "不倫",
-      "絕頂高潮",
-      "美少女電影",
-      "自慰",
-      "偷竊",
-      "劇情"
-    ],
-    "type": "",
-    "company": "Baby Entertainment",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240601-1/3d81a9868ef850517ccab9cd1e492c34.jpg",
-    "actress": [
-      "流川夕"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-101"
-  },
-  {
-    "id": 15153,
-    "IDcode": "ABF-102",
-    "title": "一宮希帆生中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "多P",
-      "苗條",
-      "辦公室",
-      "美少女",
-      "肉絲",
-      "美腳",
-      "色白",
-      "美乳",
-      "制服",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "形象俱樂部",
-      "兩男一女",
-      "高顏值",
-      "明星臉",
-      "淫亂",
-      "蠻橫嬌羞",
-      "COSPLAY服飾",
-      "猥褻穿著",
-      "中出",
-      "蕩婦",
-      "企畫",
-      "美腿",
-      "抹油",
-      "紀念作",
-      "絕頂高潮",
-      "女優",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "高跟鞋",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "Baby Entertainment",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240609-1/3ae0bd2beb5d7e103c7b453b9434c2a2.jpg",
-    "actress": [
-      "一宮希帆",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ABF-102"
   }
 ];

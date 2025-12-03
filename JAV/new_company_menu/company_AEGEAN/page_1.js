@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20641db8c77d79bb695b7/cover.jpg",
@@ -26,7 +26,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250908/DYtZ07X3/1.jpg",
@@ -47,7 +47,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/1c73cf089d3b826a6e52ab255b0be1c9.jpg",
@@ -62,7 +62,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230603/rDxCWPNW/1.jpg",
@@ -77,7 +77,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230623/DFNqy7CU/1.jpg",
@@ -92,7 +92,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230623/7WCZ6CYI/1.jpg",
@@ -107,7 +107,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230721/2sW9jgy1/1.jpg",
@@ -122,7 +122,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230721/jVNlIOu6/1.jpg",
@@ -139,7 +139,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/678942d389def9b1b809624d/cover.jpg",
@@ -154,7 +154,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/16/6789408e89def9b1b809623b/cover.jpg",
@@ -182,7 +182,7 @@ window.PAGE_DATA = [
       "SM",
       "暗黑系"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2023-09-21",
     "cover_url": "https://picture.yoshiclub.xyz/20230922/cfbca047-8631-4d4c-bb84-9c0111ca7100.jpg",
@@ -199,7 +199,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230921/xLVD3IJz/1.jpg",
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231026/JKrsHQoP/1.jpg",
@@ -247,7 +247,7 @@ window.PAGE_DATA = [
       "女奴",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2023-11-23",
     "cover_url": "https://picture.yoshiclub.xyz/20231123/cc34ecf0-284f-4370-885b-0e4e5f6362ca.jpg",
@@ -287,7 +287,7 @@ window.PAGE_DATA = [
       "調教",
       "監獄"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2023-11-23",
     "cover_url": "https://picture.yoshiclub.xyz/20231124/fa35d775-2db7-4a69-ab87-9915e7485242.jpg",
@@ -315,7 +315,7 @@ window.PAGE_DATA = [
       "重口味",
       "暗黑系"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2023-12-21",
     "cover_url": "https://picture.yoshiclub.xyz/20231221/e713780b-26fc-4b37-ac4c-b967dcb72a18.jpg",
@@ -332,7 +332,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/1P6Dq8Ur/1.jpg",
@@ -358,7 +358,7 @@ window.PAGE_DATA = [
       "巨乳",
       "露出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68acc88ce2544b92b9a97187/cover.jpg",
@@ -404,7 +404,7 @@ window.PAGE_DATA = [
       "女上位",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2024-02-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240222/63b29b0a-0bf7-4d08-b3d2-72158c54969f.jpg",
@@ -423,7 +423,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af3843d7791f92730e0fc9/cover.jpg",
@@ -444,7 +444,7 @@ window.PAGE_DATA = [
       "素人作品",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240524-1/8959fdf098e9a759522768664bc58d67.jpg",
@@ -461,12 +461,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240323/KfsXA3at/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-027"
+  },
+  {
+    "id": 545649,
+    "IDcode": "AEGE-028",
+    "title": "喉奥破壊イラマチオ 强制呕吐まみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "AEGEAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-028"
+  },
+  {
+    "id": 535117,
+    "IDcode": "AEGE-029",
+    "title": "巨乳紧缚覚醒 椿あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "AEGEAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-029"
   },
   {
     "id": 14521,
@@ -489,7 +521,7 @@ window.PAGE_DATA = [
       "劇情",
       "少女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522233244524524.jpg",
@@ -508,7 +540,7 @@ window.PAGE_DATA = [
     "genres": [
       "女同"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688f4de698bc99dfdd126f11/cover.jpg",
@@ -523,7 +555,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/ZBxcU6eZ/1.jpg",
@@ -538,7 +570,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/orlPZUTi/1.jpg",
@@ -553,7 +585,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d859acd6fbef4e90cd5f85/cover.jpg",
@@ -570,7 +602,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d218e0e4a73d4f159bc6b6/cover.jpg",
@@ -616,7 +648,7 @@ window.PAGE_DATA = [
       "白眼失神",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2024-08-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240822/d6238854-d8a0-4b40-973e-e18188ac70ef.jpg",
@@ -670,7 +702,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "2024-08-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240822/5ce095b2-c725-4fa6-861f-66daee59cb6e.jpg",
@@ -689,7 +721,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/24/5ab3c256/vod.jpg",
@@ -715,7 +747,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/abbca2652d779adec073b072748e6c6f.jpg",
@@ -743,7 +775,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251024-1/3275c74691a5cd100c5029c17b67d07d.jpg",
@@ -760,7 +792,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/19/96724b0fdc87bda22a6b4a9071b0bcc8.jpg",
@@ -819,7 +851,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/8a33f630/vod.jpg",
@@ -885,7 +917,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-2/816335e6bad2177450bca8ee5f74b97d.jpg",
@@ -914,7 +946,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250306-1/75b09852c43f0e73d1de43dd62f48ec9.jpg",
@@ -975,7 +1007,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250806-1/f171f31bf31764a2b5b793ea1590c521.jpg",
@@ -1037,7 +1069,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/6d7b2105ed0a84bc2a610fdaaf1a044e.jpg",
@@ -1045,6 +1077,26 @@ window.PAGE_DATA = [
       "伊織雛乃"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-046"
+  },
+  {
+    "id": 70124,
+    "IDcode": "AEGE-047",
+    "title": "HowTo首絞め あなたは安全な首絞めしてますか？誰も教えてくれなかった『愛ある首絞め』 清美れの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "教学",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "AEGEAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "清美れの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AEGE-047"
   },
   {
     "id": 6577,
@@ -1081,7 +1133,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250427/20250427003038364364_thumbnail.webp",
@@ -1145,7 +1197,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/06/01/7fb0b437be99b8180a655bb21089d734.jpg",
@@ -1169,7 +1221,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/06/02/cd397785/vod.jpg",
@@ -1242,7 +1294,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250626/20250626000400388388_thumbnail.webp",
@@ -1266,7 +1318,7 @@ window.PAGE_DATA = [
       "拘束",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250713/NA6gkJbd/1.jpg",
@@ -1317,7 +1369,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899754455337d7f7bd1fb63/cover.jpg",
@@ -1334,7 +1386,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "AEGEAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/28/ec534453359c5f92bb7fda4c8765cab3.jpg",

@@ -1,5 +1,52 @@
 window.PAGE_DATA = [
   {
+    "id": 217490,
+    "IDcode": "ALDN-001",
+    "title": "代理出産の母-高園ゆり子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-001"
+  },
+  {
+    "id": 217671,
+    "IDcode": "ALDN-002",
+    "title": "与她女儿的丈夫进行交合-佐倉由美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-002"
+  },
+  {
+    "id": 217590,
+    "IDcode": "ALDN-003",
+    "title": "童貞中出-真矢あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-003"
+  },
+  {
     "id": 594667,
     "IDcode": "ALDN-004",
     "title": "那时候的炮友是朋友的母亲",
@@ -9,12 +56,42 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6b90bae8be151324071f4b61a54996f3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-004"
+  },
+  {
+    "id": 217677,
+    "IDcode": "ALDN-005",
+    "title": "在丈夫不知情的情况下-加藤ツバキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-005"
+  },
+  {
+    "id": 217678,
+    "IDcode": "ALDN-006",
+    "title": "我想再去看看那个前妻-弘中優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-006"
   },
   {
     "id": 217832,
@@ -24,12 +101,125 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/b3522fa8300ff1c47f290dd030a5defc.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-007"
+  },
+  {
+    "id": 217670,
+    "IDcode": "ALDN-008",
+    "title": "岳母比我妻子好得多-春菜はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-008"
+  },
+  {
+    "id": 217588,
+    "IDcode": "ALDN-009",
+    "title": "继母也想受孕-池谷佳純",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-009"
+  },
+  {
+    "id": 217669,
+    "IDcode": "ALDN-010",
+    "title": "母亲和孩子一起旅行 -奈良崎みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-010"
+  },
+  {
+    "id": 217831,
+    "IDcode": "ALDN-011",
+    "title": "母姦中出-西園寺美緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-011"
+  },
+  {
+    "id": 217830,
+    "IDcode": "ALDN-012",
+    "title": "岳母被性欲旺盛的女婿融化了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-012"
+  },
+  {
+    "id": 217887,
+    "IDcode": "ALDN-013",
+    "title": "母亲的新生活-翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-013"
+  },
+  {
+    "id": 217886,
+    "IDcode": "ALDN-014",
+    "title": "不良夫妇的净保险计划-鈴木真夕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-014"
   },
   {
     "id": 217885,
@@ -39,7 +229,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/304d30beca1cf4974399112dc1f39ccc.jpg",
@@ -56,12 +246,174 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/27f18c6537e19e68411b534315095c74.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-016"
+  },
+  {
+    "id": 217883,
+    "IDcode": "ALDN-017",
+    "title": "那次邀请我和她一起去-中山穂香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-017"
+  },
+  {
+    "id": 218064,
+    "IDcode": "ALDN-018",
+    "title": "和下属的母亲-設楽アリサ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-018"
+  },
+  {
+    "id": 218013,
+    "IDcode": "ALDN-019",
+    "title": "她是我的儿媳妇-成宮いろは",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-019"
+  },
+  {
+    "id": 218063,
+    "IDcode": "ALDN-020",
+    "title": "岳母比我妻子好得多-奈良崎みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-020"
+  },
+  {
+    "id": 218061,
+    "IDcode": "ALDN-021",
+    "title": "她的公公要求控制怀孕-小林真梨香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-021"
+  },
+  {
+    "id": 218060,
+    "IDcode": "ALDN-022",
+    "title": "友人の母親-加藤あやの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-022"
+  },
+  {
+    "id": 218062,
+    "IDcode": "ALDN-023",
+    "title": "婆婆也想受孕-高園ゆり子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-023"
+  },
+  {
+    "id": 218333,
+    "IDcode": "ALDN-024",
+    "title": "从我睡在我婆婆身边的那天起",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-024"
+  },
+  {
+    "id": 218330,
+    "IDcode": "ALDN-025",
+    "title": "第一次被儿子插入-豊永映美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-025"
+  },
+  {
+    "id": 594641,
+    "IDcode": "ALDN-026",
+    "title": "附近的清秀人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-026"
   },
   {
     "id": 594639,
@@ -71,7 +423,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7042ffc300864e849df2c2f65fbff653.jpg",
@@ -86,7 +438,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/65b2dc4835d7bfffbc727e2263a68903.jpg",
@@ -101,7 +453,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f719537acde0cea39d2973567724658a.jpg",
@@ -123,7 +475,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686fb68d43d6972716065991/cover.jpg",
@@ -142,12 +494,36 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/01/68631e103ed39b57c041daf6/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-031"
+  },
+  {
+    "id": 86995,
+    "IDcode": "ALDN-032",
+    "title": "代理出産の母-小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小早川怜子",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-032"
   },
   {
     "id": 594624,
@@ -159,7 +535,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/y2NtvcbU.jpg",
@@ -176,7 +552,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c5860f71d14c77cc12b950fcf8752811.jpg",
@@ -197,7 +573,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/a2e49945a1f594a65d3b4a9da38e0496.jpg",
@@ -216,7 +592,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/qVTPtezv.jpg",
@@ -233,7 +609,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/q40mAGR5.jpg",
@@ -250,12 +626,35 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/fefa585635a327a2aa26788fa812ad69.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-038"
+  },
+  {
+    "id": 66777,
+    "IDcode": "ALDN-039",
+    "title": "她是我的儿媳妇-鈴木真夕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "乱伦",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鈴木真夕"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-039"
   },
   {
     "id": 67242,
@@ -272,7 +671,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "母亲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/85b6b28afe50db407027ced8abf49f08.jpg",
@@ -296,7 +695,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250430-1/9b18fd6a61511b8f952eaa524c7c19d6.jpg",
@@ -321,7 +720,7 @@ window.PAGE_DATA = [
       "单体作品",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/1a19fead13853f2897098baac7b2b2fb.jpg",
@@ -344,7 +743,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b07a443d6972716290dca/cover.jpg",
@@ -367,7 +766,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686fb7bd43d697271606680a/cover.jpg",
@@ -392,12 +791,29 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/2680b9ed5b0d5c20cac32eb74f1be4f7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-046"
+  },
+  {
+    "id": 223964,
+    "IDcode": "ALDN-048",
+    "title": "与她女儿的丈夫进行交合-田所百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-048"
   },
   {
     "id": 66709,
@@ -415,7 +831,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a1fbe5eb10d59425e290572024e45cc0.jpg",
@@ -439,7 +855,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/2e66a658cad5b29b1cba380e7b77808b.jpg",
@@ -464,7 +880,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/254f70d4ad921f438a698af1ed076a1b.jpg",
@@ -485,7 +901,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b1f4d43d6972716d1ef2c/cover.jpg",
@@ -511,7 +927,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/a1b3b25f059ebaa2a2ef41c2ca25049f.jpg",
@@ -534,7 +950,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/29/6860313f43d69727165e684b/cover.jpg",
@@ -557,7 +973,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686fb56543d697271606059c/cover.jpg",
@@ -579,7 +995,7 @@ window.PAGE_DATA = [
       "单体作品",
       "戏剧"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250428-1/a4a845f5f2053317663dc82943338d2d.jpg",
@@ -602,7 +1018,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/30/68619f723ed39b57c0307f01/cover.jpg",
@@ -624,7 +1040,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "母亲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/3acd3adfd357cbead19608b780295fc7.jpg",
@@ -648,7 +1064,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "2022-09-14",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/wl6UtCFs.jpg",
@@ -671,7 +1087,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "2022-09-14",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/rjS36Hbp.jpg",
@@ -695,7 +1111,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/74c592b4dfb27cb745d42e933fa7809c.jpg",
@@ -720,7 +1136,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "2022-09-14",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/efQt7K0z.jpg",
@@ -744,7 +1160,7 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "2022-09-14",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c1b7e2f19e25a708e9ca4e7cce51636f.jpg",
@@ -754,6 +1170,52 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-064"
   },
   {
+    "id": 67417,
+    "IDcode": "ALDN-065",
+    "title": "邻居帅哥-優木なお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "优木なお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-065"
+  },
+  {
+    "id": 90598,
+    "IDcode": "ALDN-067",
+    "title": "她是我的儿媳妇-森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "乱伦",
+      "单体作品",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-067"
+  },
+  {
     "id": 566835,
     "IDcode": "ALDN-068",
     "title": "あなた、私みたいなおばさん兴奋させて…どうするのよ… 京野美沙",
@@ -761,12 +1223,76 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/232738e4eead753c0344699861be2020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-068"
+  },
+  {
+    "id": 62357,
+    "IDcode": "ALDN-069",
+    "title": "母亲私通-よしい美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "しみけん",
+      "伊沢凉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-069"
+  },
+  {
+    "id": 67044,
+    "IDcode": "ALDN-071",
+    "title": "童貞中出-姫川礼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "姫川礼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-071"
+  },
+  {
+    "id": 219651,
+    "IDcode": "ALDN-072",
+    "title": "岳母比我妻子好得多-高園ゆり子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-072"
   },
   {
     "id": 566834,
@@ -776,7 +1302,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ba8d6e5fac05783b3908bf154c5b4d4e.jpg",
@@ -797,7 +1323,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b1dd043d6972716d1b84b/cover.jpg",
@@ -820,7 +1346,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b1f1943d6972716d1e9c9/cover.jpg",
@@ -844,7 +1370,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/01/68631a513ed39b57c041b616/cover.jpg",
@@ -866,7 +1392,7 @@ window.PAGE_DATA = [
       "单体作品",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/5f6154fa15911b3a83e0f444cec4eb71.jpg",
@@ -890,12 +1416,58 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/6cc3b89ea402d59e152519764e58174e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-078"
+  },
+  {
+    "id": 106716,
+    "IDcode": "ALDN-079",
+    "title": "她是我的儿媳妇-通野未帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "乱伦",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "通野未帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-079"
+  },
+  {
+    "id": 106522,
+    "IDcode": "ALDN-080",
+    "title": "你婆婆那次邀请我-竹内梨恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "婆婆",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "竹内梨恵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-080"
   },
   {
     "id": 67290,
@@ -911,7 +1483,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/050cbe96260d8acbad19649f714b48cd.jpg",
@@ -919,6 +1491,47 @@ window.PAGE_DATA = [
       "真琴"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-081"
+  },
+  {
+    "id": 220170,
+    "IDcode": "ALDN-082",
+    "title": "母亲和新生命-奈良崎みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-082"
+  },
+  {
+    "id": 66745,
+    "IDcode": "ALDN-083",
+    "title": "性処理妻-よしい美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "出轨",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "しみけん",
+      "伊沢凉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-083"
   },
   {
     "id": 566833,
@@ -930,7 +1543,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d7c423723a3f93a82cc618d90a019df5.jpg",
@@ -951,7 +1564,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250425-1/5efe82bce09149965208f32ab0835544.jpg",
@@ -975,7 +1588,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/26/685c43753ed39b57c0f24134/cover.jpg",
@@ -983,6 +1596,28 @@ window.PAGE_DATA = [
       "乃木遥"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-086"
+  },
+  {
+    "id": 67178,
+    "IDcode": "ALDN-087",
+    "title": "女社長の性欲-川上ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-087"
   },
   {
     "id": 90676,
@@ -999,7 +1634,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250417-1/8e3721bda8aac9e869f9f916cf6c11e7.jpg",
@@ -1021,7 +1656,7 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/c61d1fd594137baa5c121761fa723076.jpg",
@@ -1045,7 +1680,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250423-1/23f4814703bde1b2b404541d62586565.jpg",
@@ -1068,7 +1703,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686f9d5343d697271603e1f8/cover.jpg",
@@ -1076,6 +1711,98 @@ window.PAGE_DATA = [
       "伊织凉子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-091"
+  },
+  {
+    "id": 90677,
+    "IDcode": "ALDN-092",
+    "title": "你是个婊子-よしい美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "戏剧"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "しみけん",
+      "伊沢凉子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-092"
+  },
+  {
+    "id": 67645,
+    "IDcode": "ALDN-093",
+    "title": "母姦中出-京野美沙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-093"
+  },
+  {
+    "id": 67404,
+    "IDcode": "ALDN-094",
+    "title": "被性活跃的女婿变成大熔炉的岳母",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "婆婆",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "三云ゆり子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-094"
+  },
+  {
+    "id": 107317,
+    "IDcode": "ALDN-095",
+    "title": "比起妻子义母的感觉要好得多",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "婆婆",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "左慈半造"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-095"
   },
   {
     "id": 541600,
@@ -1087,12 +1814,35 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230718/aldn096pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-096"
+  },
+  {
+    "id": 66687,
+    "IDcode": "ALDN-097",
+    "title": "幸运的老家伙-鈴木真夕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鈴木真夕"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-097"
   },
   {
     "id": 66764,
@@ -1109,7 +1859,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b1bcc43d6972716d1a923/cover.jpg",
@@ -1132,7 +1882,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686fb77743d69727160667bc/cover.jpg",
@@ -1155,7 +1905,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/176f1c0905ad75842a0cd4be90c4edee.jpg",
@@ -1176,7 +1926,7 @@ window.PAGE_DATA = [
       "单体作品",
       "戏剧"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/8248e13b13bd17e9a79527d75ff8fca3.jpg",
@@ -1184,6 +1934,21 @@ window.PAGE_DATA = [
       "伊织凉子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-101"
+  },
+  {
+    "id": 221629,
+    "IDcode": "ALDN-102",
+    "title": "童貞中出-豊永映美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "TAKARA",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-102"
   },
   {
     "id": 66821,
@@ -1200,7 +1965,7 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/de2c8fae9a47d01365c35f3d6fed1aaf.jpg",
@@ -1221,7 +1986,7 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/144ef1bf921e874c1f628ed3f8adc306.jpg",
@@ -1243,881 +2008,11 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "TAKARA",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/30/68619cdf3ed39b57c0307dd2/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-105"
-  },
-  {
-    "id": 66766,
-    "IDcode": "ALDN-107",
-    "title": "已婚女人在同一公寓里-森沢かな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250504-1/815652497e34c8017b10ab95f1be495c.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-107"
-  },
-  {
-    "id": 66615,
-    "IDcode": "ALDN-108",
-    "title": "岳母比我妻子好得-伊東沙蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682817485d899f636101a9c9/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-108"
-  },
-  {
-    "id": 67421,
-    "IDcode": "ALDN-109",
-    "title": "再婚相手-中山穂香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "出轨",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/30/6861a1da3ed39b57c030bf48/cover.jpg",
-    "actress": [
-      "左慈半造",
-      "中山穂香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-109"
-  },
-  {
-    "id": 67050,
-    "IDcode": "ALDN-110",
-    "title": "母姦中出-伊織涼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/55a89b5cd12843fbf1a99b04770d8cfa.jpg",
-    "actress": [
-      "伊织凉子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-110"
-  },
-  {
-    "id": 67054,
-    "IDcode": "ALDN-111",
-    "title": "全裸義母-美原すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250501-1/13893508e1d272befa006caf431a8a9d.jpg",
-    "actress": [
-      "美原すみれ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-111"
-  },
-  {
-    "id": 66860,
-    "IDcode": "ALDN-112",
-    "title": "前妻们-成宮いろは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b1ad243d6972716d1a8d3/cover.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-112"
-  },
-  {
-    "id": 67259,
-    "IDcode": "ALDN-113",
-    "title": "我敬佩的前辈们-鈴木真夕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/687066c83ed39b57c0d078e4/cover.jpg",
-    "actress": [
-      "鈴木真夕",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-113"
-  },
-  {
-    "id": 67113,
-    "IDcode": "ALDN-115",
-    "title": "友人の母親-小松杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "戏剧",
-      "已婚妇女",
-      "乱伦",
-      "无码破解",
-      "中出",
-      "母亲"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/7c2ec842b89ff8635eba3521928536e6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-115"
-  },
-  {
-    "id": 67040,
-    "IDcode": "ALDN-117",
-    "title": "即使是继母也想受孕-本真ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b205943d6972716d22b8b/cover.jpg",
-    "actress": [
-      "本真友里",
-      "まーち"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-117"
-  },
-  {
-    "id": 67863,
-    "IDcode": "ALDN-118",
-    "title": "诱惑保险人的姑妈-翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "成熟的女人",
-      "单体作品",
-      "戏剧"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/687062ac3ed39b57c0d035d7/cover.jpg",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-118"
-  },
-  {
-    "id": 90691,
-    "IDcode": "ALDN-120",
-    "title": "幸运的老家伙-新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250416-1/d0f2fc42028ab7cf3fdd4d811f277233.jpg",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-120"
-  },
-  {
-    "id": 167499,
-    "IDcode": "ALDN-121",
-    "title": "岳母比我妻子好得多-大島未華子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686f9e3443d697271603e2e8/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-121"
-  },
-  {
-    "id": 541668,
-    "IDcode": "ALDN-123",
-    "title": "[] 娘の旦那とダクあせ交尾 柏木舞子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230909/aldn123pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-123"
-  },
-  {
-    "id": 66919,
-    "IDcode": "ALDN-125",
-    "title": "幸运的老家伙-塚田詩織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250425-1/8a403bf6c55ca1b0482e544784f9326a.jpg",
-    "actress": [
-      "塚田詩織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-125"
-  },
-  {
-    "id": 67592,
-    "IDcode": "ALDN-128",
-    "title": "单身母亲是最好的-秋元美織",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "出轨",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d65dc3ed39b57c0af62e7/cover.jpg",
-    "actress": [
-      "秋元美織"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-128"
-  },
-  {
-    "id": 67271,
-    "IDcode": "ALDN-129",
-    "title": "全裸義母-奈良崎みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/14b4d15fc2f2843bc3a58656b5c8c7bf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-129"
-  },
-  {
-    "id": 67226,
-    "IDcode": "ALDN-130",
-    "title": "老太太感到兴奋-高園ゆり子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "出轨",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250422-1/f6f0560424e1121c2b839a12447c94f0.jpg",
-    "actress": [
-      "三云ゆり子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-130"
-  },
-  {
-    "id": 67164,
-    "IDcode": "ALDN-131",
-    "title": "即使是继母也想受孕-宝田もなみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/68355908d6dba345750f8eb3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-131"
-  },
-  {
-    "id": 66723,
-    "IDcode": "ALDN-133",
-    "title": "岳母比我妻子好得多-通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/6828189f5d899f636101aa56/cover.jpg",
-    "actress": [
-      "通野未帆",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-133"
-  },
-  {
-    "id": 541683,
-    "IDcode": "ALDN-134",
-    "title": "[] 娘の旦那とダクあせ交尾 京野美沙",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230919/aldn134pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-134"
-  },
-  {
-    "id": 67146,
-    "IDcode": "ALDN-135",
-    "title": "友人母親-加山なつこ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "出轨",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/7c2a2d2f13a83732abd0a59e9ea369b2.jpg",
-    "actress": [
-      "加山なつ子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-135"
-  },
-  {
-    "id": 66961,
-    "IDcode": "ALDN-136",
-    "title": "这只是为了你-伊東沙蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "无码破解",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/30ba6c6d5eea80f1f6a55b5a6f7f7baf.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-136"
-  },
-  {
-    "id": 67562,
-    "IDcode": "ALDN-137",
-    "title": "控制怀孕-成宮いろは",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250420-1/cca74ab64a353c00107693171c1de021.jpg",
-    "actress": [
-      "成宫いろは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-137"
-  },
-  {
-    "id": 90711,
-    "IDcode": "ALDN-145",
-    "title": "贪食人妻-高园百合子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/682818875d899f636101aa55/cover.jpg",
-    "actress": [
-      "三云ゆり子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-145"
-  },
-  {
-    "id": 541726,
-    "IDcode": "ALDN-148",
-    "title": "[] 娘の旦那とダクあせ交尾 よしい美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231008/aldn148pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-148"
-  },
-  {
-    "id": 90749,
-    "IDcode": "ALDN-149",
-    "title": "欲求不满的我-新村明里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "舔阴",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683d8bd00b69f1d81649357b/cover.jpg",
-    "actress": [
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-149"
-  },
-  {
-    "id": 90750,
-    "IDcode": "ALDN-151",
-    "title": "やっぱりシングルマザーが最高にいいや… 田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "出轨",
-      "中文字幕",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231114/aldn151pl.jpg!320x216.jpg",
-    "actress": [
-      "田所百合",
-      "左慈半造"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-151"
-  },
-  {
-    "id": 90747,
-    "IDcode": "ALDN-153",
-    "title": "幸运大叔-末广纯",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/683304ea35d00134fb893f44/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-153"
-  },
-  {
-    "id": 90744,
-    "IDcode": "ALDN-156",
-    "title": "我想生下女婿的小孩-翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/17/6828191c5d899f636101aa7f/cover.jpg",
-    "actress": [
-      "翔田千里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-156"
-  },
-  {
-    "id": 549343,
-    "IDcode": "ALDN-158",
-    "title": "今から妻を献上します… 初めて浮気をして帰ってきます…",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230424/Xjp0SzFh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-158"
-  },
-  {
-    "id": 156204,
-    "IDcode": "ALDN-160",
-    "title": "丈母娘也想要懷孕-小松杏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241006-1/a4b1ce40ab58a21523b21676c6876be2.jpg",
-    "actress": [
-      "小松杏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-160"
-  },
-  {
-    "id": 516871,
-    "IDcode": "ALDN-164",
-    "title": "代理孕母 岡江凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/10/6910f8dd6b81af1f8543ba3b/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-164"
-  },
-  {
-    "id": 90776,
-    "IDcode": "ALDN-166",
-    "title": "怀抱元嫁-纱纱原百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/76348b2e8cc4db5d41a5f1c466017f1a.jpg",
-    "actress": [
-      "左慈半造",
-      "纱々原ゆり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-166"
-  },
-  {
-    "id": 168452,
-    "IDcode": "ALDN-171",
-    "title": "义母的感觉要好得多-桃井静香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240830/NNV17TqA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-171"
-  },
-  {
-    "id": 168453,
-    "IDcode": "ALDN-172",
-    "title": "揉捏老婆母亲的乳房-翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/4ae829ba03b2a1a52103f6ed285b35e5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-172"
-  },
-  {
-    "id": 91641,
-    "IDcode": "ALDN-173",
-    "title": "叔母的诱惑-中山穗香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "成熟的女人",
-      "单体作品",
-      "戏剧"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240831/5rIwUZaW/1.jpg",
-    "actress": [
-      "中山穂香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-173"
-  },
-  {
-    "id": 168455,
-    "IDcode": "ALDN-174",
-    "title": "女社长的性欲-加藤椿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/fecf6ca62bac174e3bdf2b1251125b5d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-174"
-  },
-  {
-    "id": 168439,
-    "IDcode": "ALDN-175",
-    "title": "从今开始将妻子献上-花抚彩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/8879177ba137e8907c783fbe7448fe68.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-175"
-  },
-  {
-    "id": 66079,
-    "IDcode": "ALDN-177",
-    "title": "性処理妻-田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/9ec2c3ababcfe30bf1774ec64c226eba.jpg",
-    "actress": [
-      "田所百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-177"
-  },
-  {
-    "id": 168576,
-    "IDcode": "ALDN-178",
-    "title": "从睡在义母旁边的那天起",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240831/PNxRfa6N/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-178"
-  },
-  {
-    "id": 91642,
-    "IDcode": "ALDN-179",
-    "title": "娘の旦那とダクあせ交尾 姫川礼子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "婆婆",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "TAKARA",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240522-1/87837d4a716112bf10606a0b172b04cc.jpg",
-    "actress": [
-      "姫川礼子",
-      "みっちー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ALDN-179"
   }
 ];

@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/69f60e4299d9c12ab870afafffa756f7.jpg",
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b79af36ac118189d02bdc8d8cd2e4052.jpg",
@@ -42,7 +42,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230216/wO0wPexC/1.jpg",
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241016/WM9XliOz/1.jpg",
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241016/4TfdNe1w/1.jpg",
@@ -93,7 +93,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241016/UjYFlwyi/1.jpg",
@@ -110,7 +110,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241017/lx49YS7M/1.jpg",
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241017/1hvSNzZu/1.jpg",
@@ -144,7 +144,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241017/TI7tYFsr/1.jpg",
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241017/U6ij20J0/1.jpg",
@@ -178,12 +178,228 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895efb355337d7f7ba80833/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=354VOV-122"
+  },
+  {
+    "id": 534352,
+    "IDcode": "VOV-014",
+    "title": "素人ナンパ中出しスティンガー16Fカップ美巨乳パイパン妻26歳会社员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-014"
+  },
+  {
+    "id": 73102,
+    "IDcode": "VOV-023",
+    "title": "過呼吸寸前！足腰ガクブルで絶叫イキしまくる激ピス中出し1発！→美オッパイ揺れっぱなしの何度イッても絶対やめない追撃ピストン大量発射1発！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "猎艳",
+      "业余",
+      "纪录片",
+      "中出",
+      "素人作品",
+      "巨乳",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "御坂莉亚"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-023"
+  },
+  {
+    "id": 523737,
+    "IDcode": "VOV-024",
+    "title": "敬语で淫语连発！Fカップ×极クビレ新人OLの中出し全裸SEX1回＋ランジェリー颜射SEX1回→美乳ぷるるん絶顶SEX2连発！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-024"
+  },
+  {
+    "id": 567253,
+    "IDcode": "VOV-043",
+    "title": "终电逃した女子を即ナンお持ち帰りvol第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-043"
+  },
+  {
+    "id": 567580,
+    "IDcode": "VOV-045",
+    "title": "终电逃した女子を即ナンお持ち帰りvol第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-045"
+  },
+  {
+    "id": 533945,
+    "IDcode": "VOV-048",
+    "title": "【神】柔乳 ほろ酔い刚毛ギャルナンパ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-048"
+  },
+  {
+    "id": 533944,
+    "IDcode": "VOV-055",
+    "title": "絶対的エロ 神カワ美人 限定スペシャル おふぱこ素人3名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-055"
+  },
+  {
+    "id": 83871,
+    "IDcode": "VOV-056",
+    "title": "エロコス神カワ素人のちゅぱちゅぱ吸い付く乳首舐めと見つめられながらローションぬるぬる手コキ 5名133分",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乳液",
+      "猎艳",
+      "业余",
+      "成熟的女人",
+      "素人作品",
+      "手淫",
+      "巨乳",
+      "女生"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "2020-02-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "咲々原リン",
+      "东条苍",
+      "今井夏帆",
+      "御坂莉亚",
+      "久远れいら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-056"
+  },
+  {
+    "id": 82135,
+    "IDcode": "VOV-059",
+    "title": "援交美少女。首絞めとイラマで真正マゾ開花 あおい 19歳 フリーター 2 向井藍",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "潮吹",
+      "苗条",
+      "嫩妹",
+      "美少女电影",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "2020-04-02",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "向井藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-059"
+  },
+  {
+    "id": 82143,
+    "IDcode": "VOV-060",
+    "title": "援交美少女。初めての大人の玩具で変態アヘ顔 そら 19歳 大学生 2 渡辺そら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "潮吹",
+      "苗条",
+      "嫩妹",
+      "美少女电影",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "2020-04-02",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "渡辺そら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-060"
+  },
+  {
+    "id": 579084,
+    "IDcode": "VOV-088",
+    "title": "最强ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.23“お姊さんよりエッチな友达绍介してもらえますか”",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-088"
   },
   {
     "id": 534797,
@@ -195,7 +411,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231008/h_1350vov00099pl.jpg!320x216.jpg",
@@ -212,7 +428,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240116/h_1350vov00101pl.jpg!320x216.jpg",
@@ -234,7 +450,7 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "2023-06-23",
     "cover_url": "https://tuaskbgnekr.com/20240907/xJGcpLj7/1.jpg",
@@ -257,7 +473,7 @@ window.PAGE_DATA = [
       "滥交",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "2023-07-28",
     "cover_url": "https://tuaskbgnekr.com/20240907/sNhzzQkS/1.jpg",
@@ -280,7 +496,7 @@ window.PAGE_DATA = [
       "滥交",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "2023-08-25",
     "cover_url": "https://tuaskbgnekr.com/20240907/07h8oPfk/1.jpg",
@@ -297,7 +513,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240907/9GLVcv4v/1.jpg",
@@ -314,7 +530,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240907/8uBUmixX/1.jpg",
@@ -331,7 +547,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240907/4B4y2F0n/1.jpg",
@@ -348,7 +564,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241017/LOMRL0ym/1.jpg",
@@ -365,7 +581,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68cdbf20958ac04f27f8dbb2/cover.jpg",
@@ -382,12 +598,29 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241214/azBR0FjW/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-135"
+  },
+  {
+    "id": 95251,
+    "IDcode": "VOV-137",
+    "title": "最強ビッチ大集合！数珠つなぎ乱交SEXパーティーvol.72「お姉さんよりエッチな友達紹介してもらえますか」",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "木曜日！全員集合！！",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VOV-137"
   },
   {
     "id": 462968,
@@ -399,7 +632,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68bab36dce3e366423ce2acd/cover.jpg",
@@ -416,7 +649,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250303/ufRXAtoE/1.jpg",
@@ -433,7 +666,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7ac8579f1ac4ec45a67aa/cover.jpg",
@@ -488,7 +721,7 @@ window.PAGE_DATA = [
       "乱交",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "木曜日！全員集合！！",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b958032ee23a639b178cae/cover.jpg",

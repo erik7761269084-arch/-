@@ -1,5 +1,461 @@
 window.PAGE_DATA = [
   {
+    "id": 545219,
+    "IDcode": "LULU-309",
+    "title": "オフパコ枕営业しているあざと可爱い巨乳コスプレイヤーに鬼焦らし舐めじゃくりフェラで射精コントロ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/BK0lUaLG/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-309"
+  },
+  {
+    "id": 517109,
+    "IDcode": "LULU-310",
+    "title": "加班中在2人獨處的公司裡被穿著緊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202510/31/6903ecfbdd88d14f0660dd95/poster2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-310"
+  },
+  {
+    "id": 545214,
+    "IDcode": "LULU-311",
+    "title": "引きこもり访问支援で来たデカ尻ボランティア奥さんの无自覚ピタパン挑発に我慢できず即ハメデカチン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240702/jEBdEDpm/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-311"
+  },
+  {
+    "id": 13660,
+    "IDcode": "LULU-312",
+    "title": "叔叔出差了，無法抗拒絕倫性俗的叔母無意識地挑釁她那大屁股，立刻把塞進她的大屁股裏，讓她一遍又一遍地高潮 ~ 三嶽祐奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "苗條",
+      "辣妹/GAL系",
+      "牛仔褲",
+      "羞恥",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "熟女",
+      "潮吹",
+      "人妻",
+      "NTR",
+      "深喉",
+      "淫亂",
+      "內衣",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "抹油",
+      "舔陰",
+      "手指插入",
+      "膚黑",
+      "乳交",
+      "嬸嬸",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2024-07-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240628/0f7fbd0f-00b5-4a2f-aa2b-008835c16d90.jpg",
+    "actress": [
+      "三岳祐奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-312"
+  },
+  {
+    "id": 454093,
+    "IDcode": "LULU-313",
+    "title": "我的姪女是女校長大的大屁股大小姐,快要變成不良少年了,我就用舔舔叔叔的方式讓她明白,讓她敏感又痛苦。 奈月裡約",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d2ff86ce5a404e9bac8b3b/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-313"
+  },
+  {
+    "id": 13664,
+    "IDcode": "LULU-314",
+    "title": "天馬唯，大屁股吞精情婦，在家吞下老板的大雞巴，多次深喉，讓她沉迷於",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "口爆",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "口交",
+      "巨乳",
+      "性感",
+      "潮吹",
+      "深喉",
+      "淫亂",
+      "內衣",
+      "小三・情人",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "顏射",
+      "絕頂高潮",
+      "舔陰",
+      "手指插入",
+      "自慰",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2024-07-02",
+    "cover_url": "https://picture.yoshiclub.xyz/20240628/29f16ca3-21f3-402c-8946-e94715b86d3e.jpg",
+    "actress": [
+      "天馬唯"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-314"
+  },
+  {
+    "id": 12864,
+    "IDcode": "LULU-315",
+    "title": "無法抗拒欲求不滿的阿姨，大屁股蕩婦，無意識地挑釁我，一遍又一遍地射在她的屁股裏 ~ 新村朱裏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "形象俱樂部",
+      "不倫",
+      "慾求不滿",
+      "女上位",
+      "內衣",
+      "勾引・誘惑",
+      "嬸嬸",
+      "美乳",
+      "中出",
+      "蕩婦",
+      "口交",
+      "美臀",
+      "性感",
+      "丁字裤",
+      "騎乗位",
+      "劇情",
+      "絕頂高潮"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2024-08-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240808/c4612746-e381-4741-8125-64304b63de41.jpg",
+    "actress": [
+      "新村朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-315"
+  },
+  {
+    "id": 545089,
+    "IDcode": "LULU-316",
+    "title": "彼女の妹の部活女子巨乳J系を媚薬オイル乳首ハラスメントで敏感早漏体质に仕立てあげ何度も乳首イキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240804/IR09SxNS/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-316"
+  },
+  {
+    "id": 12880,
+    "IDcode": "LULU-317",
+    "title": "加班的時候忍不住對着美腿老板打飛機，然後被她發現了！操到痙攣的中出職場SEX！ ~ 都月楓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "苗條",
+      "辦公室",
+      "加班",
+      "美腳",
+      "OL",
+      "勾引・誘惑",
+      "制服",
+      "口交",
+      "女上司",
+      "性感",
+      "形象俱樂部",
+      "中出",
+      "蕩婦",
+      "美腿",
+      "劇情",
+      "脚控・戀足癖",
+      "美少女電影",
+      "自慰",
+      "高跟鞋",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2024-08-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240807/7d1e1c41-2f93-455a-9e74-80e646ce8434.jpg",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-317"
+  },
+  {
+    "id": 12867,
+    "IDcode": "LULU-318",
+    "title": "無法抗拒色白巨乳懷孕叔母的挑逗！所以侄子立馬掏出大雞巴操了她 ~ 千鶴えま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "羞恥",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "形象俱樂部",
+      "人妻",
+      "NTR",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "不倫",
+      "絕頂高潮",
+      "美少女電影",
+      "嬸嬸",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2024-08-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240807/e28a7d1a-7ddd-4a51-9926-ca82176fa1cf.jpg",
+    "actress": [
+      "千鶴えま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-318"
+  },
+  {
+    "id": 12868,
+    "IDcode": "LULU-319",
+    "title": "傳說我的巨乳嫂子是原來關東No.1的風俗娘 和她從早到晚無限射精令人窒息的無制限做愛 ~ 月島さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫂嫂",
+      "美少女",
+      "胸控・戀乳癖",
+      "自宅",
+      "美乳",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "NTR",
+      "風俗娘",
+      "淫亂",
+      "出軌",
+      "中出",
+      "蕩婦",
+      "後入",
+      "劇情",
+      "抹油",
+      "絕頂高潮",
+      "美少女電影",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2024-08-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240807/fa00533e-2ffa-435d-be3a-2058695ae1d2.jpg",
+    "actress": [
+      "月島さくら"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-319"
+  },
+  {
+    "id": 12869,
+    "IDcode": "LULU-320",
+    "title": "170cm高的模特叔母的美腳誰能抗拒？所以我立即就操了她，並且全部中出在她體內 ~ 透美かなた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗條",
+      "美腳",
+      "口交",
+      "形象俱樂部",
+      "潮吹",
+      "人妻",
+      "短髮",
+      "中出",
+      "後入",
+      "美腿",
+      "美臀",
+      "劇情",
+      "不倫",
+      "絕頂高潮",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "高妹",
+      "舔腳",
+      "嬸嬸",
+      "黑絲",
+      "足交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "2024-08-06",
+    "cover_url": "https://picture.yoshiclub.xyz/20240807/015f62bd-74ad-48af-8049-42379fcc9c9c.jpg",
+    "actress": [
+      "透美かなた"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-320"
+  },
+  {
+    "id": 545086,
+    "IDcode": "LULU-321",
+    "title": "保育士巨乳叔母の母性溢れるデカパイにバブみを感じて甘えんぼ即ハメしたら何度も授乳手コキでオギャ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240804/5KqXEQIJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-321"
+  },
+  {
+    "id": 545087,
+    "IDcode": "LULU-322",
+    "title": "心优しいバイト先のデカ尻人妻にアナル即ハメしたら失神するほどケツ穴イキにドハマりしたので何度も",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240804/iYV0JW3q/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-322"
+  },
+  {
+    "id": 545085,
+    "IDcode": "LULU-323",
+    "title": "残业中、経理の隠れヤリマン巨乳女子社员の无自覚おっぱい挑発に我慢できず勃起デカチン擦りつけセク",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240804/ZxEtymH1/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-323"
+  },
+  {
+    "id": 545088,
+    "IDcode": "LULU-324",
+    "title": "妊活のため嫁にオナ禁を强いられ暴れ精子で金玉パンパンの爆発寸前状态で理性を失い长身巨乳义母に立",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240804/fSz6yxxM/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-324"
+  },
+  {
+    "id": 454125,
+    "IDcode": "LULU-325",
+    "title": "木葉稻月,一個胖乎乎的胖媽媽,被她虛弱的尼特兒子要求照顧他的性慾,被OO在她充當自慰器的豐滿陰戶中亂倫內射24/7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d0812052c12b4e6810047e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-325"
+  },
+  {
     "id": 539060,
     "IDcode": "LULU-326",
     "title": "新村あかり- 性欲旺盛ビンビン甥っ子の早漏暴発寸前ち○ぽをスローな射精コントロールでじっくり弄ぶ小悪魔ビッチ巨乳叔母",
@@ -9,7 +465,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250509/4t3oC6Pt/1.jpg",
@@ -42,7 +498,7 @@ window.PAGE_DATA = [
       "劇情",
       "宅男・宅女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2024-09-04",
     "cover_url": "https://picture.yoshiclub.xyz/20240904/d153fd1c-8161-4079-aa48-7f0378fbf34a.jpg",
@@ -75,7 +531,7 @@ window.PAGE_DATA = [
       "劇情",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2024-09-04",
     "cover_url": "https://picture.yoshiclub.xyz/20240904/ad19a796-aa07-435a-9ae0-af93821c7733.jpg",
@@ -92,7 +548,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241004/3v0WwNH1/1.jpg",
@@ -109,7 +565,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241004/9Y7Q48kX/1.jpg",
@@ -124,7 +580,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241004/6kHcvRM2/1.jpg",
@@ -174,7 +630,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240927/36cc602a-585c-4874-afbe-29ff3092d9d1.jpg",
@@ -222,7 +678,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/656f75ac686d2a054caa3ddee444ee7c.jpg",
@@ -263,7 +719,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240928/b9aaecfd-0691-4979-b4db-6d404eed3766.jpg",
@@ -280,7 +736,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/a2e4733cab4efbef80b46a096a4b2132.jpg",
@@ -311,7 +767,7 @@ window.PAGE_DATA = [
       "重口味",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/3e2f7b786192a2211c0bd38f53674998.jpg",
@@ -396,7 +852,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240927/7cb38d7b-2bcc-48f2-928f-9af4ddd087cc.jpg",
@@ -444,7 +900,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241103/3027b33a-cd6e-47bb-914c-9c217904dbee.jpg",
@@ -489,7 +945,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241102/8a4c1d5f-fa48-452f-900e-9850a4928391.jpg",
@@ -530,7 +986,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba98b95fdaf263a2640e6c/cover.jpg",
@@ -576,7 +1032,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241103/ce5bec5d-62e3-48d2-b000-bdaeface0d0e.jpg",
@@ -586,6 +1042,23 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-342"
   },
   {
+    "id": 176493,
+    "IDcode": "LULU-343",
+    "title": "彼女ができた僕に嫉妬した巨乳ギャル幼馴染に射精直後の敏感ち○ぽをこねくり吸引お掃除フェラされ略奪ごっくんで骨抜きになった。 有村のぞみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-343"
+  },
+  {
     "id": 176549,
     "IDcode": "LULU-344",
     "title": "素行不良でウチに預けられたナマイキなデカ尻姪っ子J系にアナル見せ挑発で近親勃起した弱みを握られ 安堂はるの",
@@ -593,7 +1066,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba99bd5fdaf263a26412a2/cover.jpg",
@@ -608,7 +1081,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251001-1/15ee8e429137b977bed11a19c73359e3.jpg",
@@ -623,7 +1096,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/a7c05762c22899e972ad7118a5e208f4.jpg",
@@ -640,7 +1113,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250929-1/503338622e84b9f734fc1b6d8c0dd8c2.jpg",
@@ -657,7 +1130,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251001-1/b395c44423f6385876f4259339429b76.jpg",
@@ -672,7 +1145,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/a5cd0f6a0a48e7ae5c072d83f3ff697b.jpg",
@@ -689,7 +1162,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251002-1/dda595109f13cbcaa81c4bb9524a1a04.jpg",
@@ -744,7 +1217,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250104/7108f634-9e5d-4149-bd36-8e27552c4793.jpg",
@@ -799,7 +1272,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250104/820b0e1c-bd36-4eba-a16f-0fef2b9091f8.jpg",
@@ -822,7 +1295,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250911-1/c1c0abe3e2575757dfe5c6bc5c0e9fbc.jpg",
@@ -830,6 +1303,29 @@ window.PAGE_DATA = [
       "タイ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-353"
+  },
+  {
+    "id": 75116,
+    "IDcode": "LULU-354",
+    "title": "熱血デカ尻体育教師の無自覚スケベ指導 都月るいさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大屁股",
+      "女教师",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "都月楓"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-354"
   },
   {
     "id": 9395,
@@ -864,7 +1360,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "2025-01-07",
     "cover_url": "https://picture.yoshiclub.xyz/20250102/20250102083641731731.jpg",
@@ -872,6 +1368,58 @@ window.PAGE_DATA = [
       "姫野らん"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-355"
+  },
+  {
+    "id": 73146,
+    "IDcode": "LULU-356",
+    "title": "敏感チクシャ体質に悩む僕を見かねた巨乳ギャル幼馴染が暴発してもいじり続ける乳首責めホールドで早漏ザコち○ぽを鍛えてくれた 春陽モカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "童年朋友",
+      "中出",
+      "素人作品",
+      "巨乳",
+      "精选，综合",
+      "女生",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "春陽萌花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-356"
+  },
+  {
+    "id": 73147,
+    "IDcode": "LULU-357",
+    "title": "残業中、2人きりの社内で会社一美人な新卒デカ尻後輩の無防備パンチラに我慢できずパンティ擦りつけぶっかけ射精！ 優梨まいな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "内衣",
+      "OL",
+      "巨大屁股",
+      "中出",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "优梨まいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-357"
   },
   {
     "id": 8623,
@@ -909,7 +1457,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250130/20250130083543818818.jpg",
@@ -917,6 +1465,58 @@ window.PAGE_DATA = [
       "椿莉香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-358"
+  },
+  {
+    "id": 73215,
+    "IDcode": "LULU-359",
+    "title": "妻では味わえない極上アナルセックスで呼び出せば肛門中出しさせてくれる都合の良い最高の色白デカ尻愛人 なつみ柑奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "出轨",
+      "巨大屁股",
+      "肛交",
+      "中出",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏巳百合香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-359"
+  },
+  {
+    "id": 73140,
+    "IDcode": "LULU-360",
+    "title": "夫との子作りSEX直後に絶倫義父の膣奥グリグリ巨根ピストンで排卵日子宮に孕ませ精子を直撃中出しされる寝取られ妊活巨乳妻 羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "出轨",
+      "中出",
+      "素人作品",
+      "巨乳",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "羽月乃蒼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-360"
   },
   {
     "id": 8624,
@@ -948,7 +1548,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/23/68aa273631eb0592de602a7b/cover.jpg",
@@ -956,6 +1556,30 @@ window.PAGE_DATA = [
       "末広純"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-361"
+  },
+  {
+    "id": 71900,
+    "IDcode": "LULU-362",
+    "title": "残業中、2人きりの社内で仕事に厳しい人妻ピタパン女上司に無自覚デカ尻挑発され反逆即ハメしたら隠れドM気質が発覚したのでSM拘束調教して従順ペット化するまで中出し躾けした。 波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "巨大屁股",
+      "白天出轨",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-362"
   },
   {
     "id": 190122,
@@ -967,12 +1591,36 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a714b78cce1a927afedaa9/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-363"
+  },
+  {
+    "id": 71915,
+    "IDcode": "LULU-364",
+    "title": "素行不良でウチに預けられた地雷系デカ尻姪っ子がト●横界隈で立ちんぼしたがるのでアヘ顔潮射反省イキするまでデカチン中出し説教ピストンした。 皆月ひかる",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "巨大阴茎",
+      "中出",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "皆月光",
+      "ひょこり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-364"
   },
   {
     "id": 7790,
@@ -1014,7 +1662,7 @@ window.PAGE_DATA = [
       "丁字裤",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250303/70a0d1f9-3445-40fc-9f7c-b5bf3bfb3de4.jpg",
@@ -1022,6 +1670,75 @@ window.PAGE_DATA = [
       "櫻千奈美"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-365"
+  },
+  {
+    "id": 71978,
+    "IDcode": "LULU-366",
+    "title": "息子の童貞友達にセックスの練習を頼まれ肛門で何度もアナル中出し特訓させてあげる元ヤリマンのデカ尻ギャルママ 雨宮凜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "肛交",
+      "女生",
+      "单体作品",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ティカル",
+      "雨宫凛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-366"
+  },
+  {
+    "id": 70002,
+    "IDcode": "LULU-367",
+    "title": "彼女の巨乳妹の無防備パンチラ誘惑に我慢できず本物精子ぶっかけパンティを穿かせてザーメン素股！ マン汁と精液でグチョグチョになった発情J系ま○こにヌルッと挿入してたっぷり連続腟内射精した。 天月あず",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "妹妹",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "天月梓",
+      "ティカル"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-367"
+  },
+  {
+    "id": 69895,
+    "IDcode": "LULU-368",
+    "title": "ママさんバレーの学生コーチを自宅に連れ込み若硬ち○ぽを即尺ねっとりフェラで何度もおしゃぶりごっくんする欲求不満なデカ尻豊満人妻 瀬田一花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "巨大屁股",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-368"
   },
   {
     "id": 70000,
@@ -1037,12 +1754,126 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897e4d255337d7f7bbc97f5/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-369"
+  },
+  {
+    "id": 69919,
+    "IDcode": "LULU-370",
+    "title": "地味だったクラスメイトと同窓会で再会したら僕の為に大切にとっておいたアナルを解禁するほどドスケベデカ尻美人妻になっていたので朝まで生肛門中出しセックスしまくった。 星奈茉奈花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "白天出轨",
+      "肛交",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "星奈茉奈花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-370"
+  },
+  {
+    "id": 69694,
+    "IDcode": "LULU-371",
+    "title": "残業中、2人きりの社内で下着モデルを強いられ苦手な中年上司のねっとり乳首ハラスメントに堪えられず恥辱の乳首イキさせられる新卒色白美乳部下 静河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "OL",
+      "乳房",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ひょこり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-371"
+  },
+  {
+    "id": 69999,
+    "IDcode": "LULU-372",
+    "title": "デカ尻J系教え子に顔面尻ドンされ罵倒淫語でマゾ勃起してしまった教師ち○ぽを金玉からっぽになるまで射精させられた。 柏木こなつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "巨大屁股",
+      "中出",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-372"
+  },
+  {
+    "id": 67490,
+    "IDcode": "LULU-373",
+    "title": "大人しく押しに弱いデカ尻叔母さんの無自覚挑発に我慢できず若硬性欲ち○ぽで即ハメ中出しピストンしたら白目ベロ出しアヘ顔！ヨダレ垂れっぱなし！ガクガク痙攣！するほど乱れ潮射イキしまくっていた。 水川潤",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "中出",
+      "单体作品",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大志",
+      "由爱可奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-373"
+  },
+  {
+    "id": 67463,
+    "IDcode": "LULU-374",
+    "title": "野球部の色白デカ尻J系マネージャーのリハビリ性処理素股で早漏暴発してしまった精子を献身ま○こに塗りたくり…そのままヌルッと生挿入！！ザーメンまみれのチ○ポに発情して止まらない全力腰振りで何度も膣射中出ししまくった。 静河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白天出轨",
+      "乳房",
+      "中出",
+      "美少女电影",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大志"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-374"
   },
   {
     "id": 60163,
@@ -1058,7 +1889,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822cfd89ed5b270bc9212a5/cover.jpg",
@@ -1081,7 +1912,7 @@ window.PAGE_DATA = [
       "女主播",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822d0229ed5b270bc9212a6/cover.jpg",
@@ -1089,6 +1920,55 @@ window.PAGE_DATA = [
       "愛葉陽葵"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-376"
+  },
+  {
+    "id": 67450,
+    "IDcode": "LULU-377",
+    "title": "欲求不満を隠せないバイト先の色白巨乳人妻にカノジョとはできないイラマ性交をお願いしたらえずき汁ダラダラで涙目痙攣潮射するほど喉奥イキにドハマりしたので何度もごっくん不倫しまくった。 清巳れの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "深喉",
+      "已婚妇女",
+      "白天出轨",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "清巳麗乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-377"
+  },
+  {
+    "id": 67324,
+    "IDcode": "LULU-378",
+    "title": "デカ尻の陰キャオタク友達同士でエロ漫画から学んだ知識を試し合ってたら同人誌みたいな舐めしゃぶりアナル理想交尾に発展し肛門中出しした。 千石もなか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "眼镜",
+      "巨大屁股",
+      "肛交",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "千石もなか",
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-378"
   },
   {
     "id": 5653,
@@ -1134,7 +2014,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173136620620_thumbnail.webp",
@@ -1193,7 +2073,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529171639636636_thumbnail.webp",
@@ -1210,7 +2090,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/bfc96efa9f8d301302c155fc8bffb5b1.jpg",
@@ -1266,7 +2146,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173458195195_thumbnail.webp",
@@ -1275,6 +2155,29 @@ window.PAGE_DATA = [
       "大志"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-382"
+  },
+  {
+    "id": 63115,
+    "IDcode": "LULU-383",
+    "title": "我不能忍受大乳房女孩的不自觉的透明胸罩的挑衅-佐山由依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大屁股",
+      "立即口交",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐山由依"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-383"
   },
   {
     "id": 4870,
@@ -1308,7 +2211,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b3ffa98bc99dfddd613ef/cover.jpg",
@@ -1318,6 +2221,75 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-384"
   },
   {
+    "id": 62515,
+    "IDcode": "LULU-385",
+    "title": "オフパコ枕営業しているあざと可愛い地下アイドルを媚薬オイル乳首ハラスメントで敏感早漏体質に仕立て上げ白目アへ顔を晒すまで何度も乳首イキさせまくってキメセク中出しした。 倉木しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "偶像",
+      "中出",
+      "美少女电影",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "レンジャー鏑木",
+      "仓木诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-385"
+  },
+  {
+    "id": 62438,
+    "IDcode": "LULU-386",
+    "title": "絶倫性欲を隠すはんなりデカ尻叔母の無自覚熟ケツ挑発に我慢できずヤリちん見せつけオナニーしたら 照れながらも興味津々だったので即ハメ子宮ガン突き中出しSEXして獣絶叫イキさせまくった！ 三池小春",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "白天出轨",
+      "单体作品",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "三池小春"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-386"
+  },
+  {
+    "id": 62492,
+    "IDcode": "LULU-387",
+    "title": "善良到过分的敏感巨乳妻子被邻居垃圾屋巨根渣男紧紧拥抱-小坂ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "白天出轨",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小坂ひまり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-387"
+  },
+  {
     "id": 194671,
     "IDcode": "LULU-388",
     "title": "部活女子姪っ子の器械体操尻に我慢できず叔父デカチンでケツ穴生ハメ開発したら潮射イキするほど軟体アナルセックスにドハマりしたので肛門中出ししまくった。 坂本りお",
@@ -1325,7 +2297,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/16/689ffcde9550e292a7766b12/cover.jpg",
@@ -1381,7 +2353,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "小姨子"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731085252308308_20691_thumbnail.webp",
@@ -1438,7 +2410,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101254803803_83554_thumbnail.webp",
@@ -1494,7 +2466,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731094757785785_28717_thumbnail.webp",
@@ -1555,7 +2527,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731084715968968_46087_thumbnail.webp",
@@ -1564,6 +2536,53 @@ window.PAGE_DATA = [
       "レンジャー鏑木"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-392"
+  },
+  {
+    "id": 61295,
+    "IDcode": "LULU-393",
+    "title": "させる小悪魔デカ尻不動産レディ 宇流木さらら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "巨大屁股",
+      "白天出轨",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宇流木沙羅"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-393"
+  },
+  {
+    "id": 61026,
+    "IDcode": "LULU-394",
+    "title": "デカ尻人妻エステティシャンにデカチンに目をつけられ神焦らし尾崎えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "荡妇",
+      "已婚妇女",
+      "中出",
+      "单体作品",
+      "美容院"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "タイ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-394"
   },
   {
     "id": 61024,
@@ -1579,7 +2598,7 @@ window.PAGE_DATA = [
       "泳装",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b58c202cbbe464028021fc/cover.jpg",
@@ -1588,6 +2607,136 @@ window.PAGE_DATA = [
       "タイ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-395"
+  },
+  {
+    "id": 61023,
+    "IDcode": "LULU-396",
+    "title": "勝手に居座り始めた入り浸りデカ尻風俗嬢の無防備ケツ挑発に我慢できず絶倫独身生ハメデカちんピストンで本気潮射 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "巨大屁股",
+      "礼仪小姐",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "レンジャー鏑木",
+      "佐佐波绫"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-396"
+  },
+  {
+    "id": 61022,
+    "IDcode": "LULU-397",
+    "title": "自宅に遊びに来た姉の友達のデカ尻チア部J系のムレムレパンスト挑発に乗せられむっちり脚テクで何度もいいなりぶっかけ射精させられた。 宇流木さらら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高中女生",
+      "巨大屁股",
+      "中出",
+      "单体作品",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宇流木沙羅"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-397"
+  },
+  {
+    "id": 61021,
+    "IDcode": "LULU-398",
+    "title": "社畜訪問営業のいいなり崖っぷち巨乳セールスレディに契約をチラつかせ乳首こねくり回しイキさせて弄び中出し乳オナホに仕立て上げた。 武田怜香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "OL",
+      "中出",
+      "恋乳癖",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "柳可憐"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-398"
+  },
+  {
+    "id": 3123,
+    "IDcode": "LULU-399",
+    "title": "お嬢様女子校育ちの無垢な色白デカ尻姪っ子J系に肛門ヒクヒク見せつけ誘惑を教え込み恥じらいアナルをイかせまくってケツ穴巨根ピストンした。 北山憂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女學生",
+      "小隻馬",
+      "M男・M女",
+      "口爆",
+      "苗條",
+      "鬼畜片",
+      "臀控",
+      "阪道系",
+      "凌辱",
+      "4K",
+      "美少女",
+      "美腳",
+      "即時插入",
+      "JK校服",
+      "羞恥",
+      "色白",
+      "美乳",
+      "清楚系",
+      "口交",
+      "暗黑系",
+      "形象俱樂部",
+      "單體作品",
+      "高顏值",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "少女",
+      "美臀",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "高妹",
+      "肛交",
+      "調教",
+      "白眼失神",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "北山憂",
+      "レンジャー鏑木"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-399"
   },
   {
     "id": 2195,
@@ -1643,7 +2792,7 @@ window.PAGE_DATA = [
       "丁字裤",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e17ade79f1ac4ec48ee302/cover.jpg",
@@ -1652,6 +2801,23 @@ window.PAGE_DATA = [
       "タイ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-400"
+  },
+  {
+    "id": 177795,
+    "IDcode": "LULU-401",
+    "title": "巨乳の陰キャオタク友達の無防備パンチラ食い込みハミまんにチンピクしてしまいエロ漫画で学んだマン肉舐めしゃぶり交尾を実践したらお互いに性欲猿化し 夕美しおん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-401"
   },
   {
     "id": 2169,
@@ -1710,7 +2876,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "小姨子"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e17c1f79f1ac4ec48ee308/cover.jpg",
@@ -1718,6 +2884,64 @@ window.PAGE_DATA = [
       "雪代一鳳"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-402"
+  },
+  {
+    "id": 2194,
+    "IDcode": "LULU-403",
+    "title": "無自覚おっぱい挑発で若者ち○ぽを恥じらい勃起させてしまいやむを得ずデカパイ密着テクで抜いてくれる色白アカスリ天然巨乳おばさん 辻井ほのか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "口爆",
+      "三十路",
+      "苗條",
+      "阪道系",
+      "4K",
+      "美腳",
+      "色白",
+      "胸控・戀乳癖",
+      "美乳",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "單體作品",
+      "寫真女郎",
+      "高顏值",
+      "超爆乳",
+      "按摩女郎",
+      "寫真偶像",
+      "中出",
+      "美人",
+      "美腿",
+      "後入",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "抹油",
+      "舔陰",
+      "脚控・戀足癖",
+      "泡泡浴店",
+      "手指插入",
+      "高妹",
+      "無毛",
+      "乳交",
+      "按摩・物理治療・美容",
+      "御姐系",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "辻井穗乃果"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-403"
   },
   {
     "id": 2163,
@@ -1770,7 +2994,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "LUNATICS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e17bd579f1ac4ec48ee306/cover.jpg",
@@ -1778,5 +3002,67 @@ window.PAGE_DATA = [
       "海野いくら"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-404"
+  },
+  {
+    "id": 173836,
+    "IDcode": "LULU-405",
+    "title": "実家暮らしのアラサー無職デカ尻ニート姉のだらしない無防備ケツ挑発に社会人弟ち○ぽがイライラしてし 天馬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-405"
+  },
+  {
+    "id": 173865,
+    "IDcode": "LULU-406",
+    "title": "彼女の妹のスレンダーJ系の過激水着姿に無自覚誘惑され我慢できずフル勃起ち○ぽをハイレグ越し素股で…ヌルッと生挿入！ 那津乃ちなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-406"
+  },
+  {
+    "id": 173845,
+    "IDcode": "LULU-407",
+    "title": "風呂上がりの濡れ髪美人妻にあざとくデカ尻挑発されガテン系ギンギン汗臭勃起が抑えられず昼下がりに何度も濃厚中出し不倫SEXした。 新村あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-407"
+  },
+  {
+    "id": 173986,
+    "IDcode": "LULU-408",
+    "title": "素行不良でウチに預けられた生意気ざかりで塩対応の美尻メスガキ姪っ子J系を大人ち○ぽ説教ピストンで失神寸前までイカせ続けガクブル痙攣ま 藍瀬ミナ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "LUNATICS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LULU-408"
   }
 ];

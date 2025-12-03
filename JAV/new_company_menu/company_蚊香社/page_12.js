@@ -1,8 +1,8 @@
 window.PAGE_DATA = [
   {
-    "id": 552906,
-    "IDcode": "259LUXU-1531",
-    "title": "豪华电视1503 这是一个漂亮的外观！从头尖到脚尖，造型堪比模特美感！身着妖艳气息，迎接丰富口交和大鸡巴刺激的上位女性！融化在潮汐、溢出和石油中的丰富性！ ！！",
+    "id": 551495,
+    "IDcode": "259LUXU-1324",
+    "title": "苍井遥30歳家庭教师",
     "year": "",
     "country": "",
     "genre": "",
@@ -11,37 +11,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250811-1/25e79732c39db0f93fbd531e2d96d99d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1531"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1324"
   },
   {
-    "id": 552921,
-    "IDcode": "259LUXU-1533",
-    "title": "豪华电视1542 AV上出现美女厨娘，无缘无故错过人皮！与安静的印象相反，性的好奇心很强！丰满的H罩杯和丰满的蜜桃臀粗犷揉搓，久违的浓烈活塞让我一次又一次的角质！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "高端素人",
-      "巨乳",
-      "素人企画"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250811-1/acd44f4c5c60cc19ef82b8b0ac4b426e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1533"
-  },
-  {
-    "id": 552909,
-    "IDcode": "259LUXU-1534",
-    "title": "Luxury TV 1547 美颜导师现身AV，寻求最高境界的快感！不要错过丰富的口交和女牛仔，他们一边品尝大鸡巴，一边用密集的吻喝醉并飘荡着迷人的信息素！",
+    "id": 196957,
+    "IDcode": "259LUXU-1326",
+    "title": "和吊带黑丝情趣透明内衣极品长腿模特身材美女永山夏美的完美性爱",
     "year": "",
     "country": "",
     "genre": "",
@@ -50,387 +30,19 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250811-1/17a5d5773fca9a54798badc53d07a956.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1534"
-  },
-  {
-    "id": 552908,
-    "IDcode": "259LUXU-1538",
-    "title": "Luxury TV 1507 AV上出现造型迷人、长相像模特的美女！美丽的手势令人着迷......整个身体感觉就像一个活塞，将涂油的身体向上推，被扰乱！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250811-1/fd363224479a0a255efb692f4a816e2b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1538"
-  },
-  {
-    "id": 552468,
-    "IDcode": "259LUXU-1539",
-    "title": "豪华电视1550“想跟演员学技术……” 太好奇的秘书AV首次现身！对性专业人士的丰富爱抚露出欣喜若狂的表情，一边摇晃她纤细美丽的身体，一边重复射精！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/cc51e0a1b19e1cce3d7dc51e2f54328d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1539"
-  },
-  {
-    "id": 519923,
-    "IDcode": "259LUXU-1540",
-    "title": "正统美女成员出现在Av上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "2022-03-04",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9690ed0ba1e8ddab02be02251e0f6309.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1540"
-  },
-  {
-    "id": 552936,
-    "IDcode": "259LUXU-1541",
-    "title": "豪华电视1512“不满足于和男朋友发生性关系，和专业......”他脸上带著小恶魔般的表情，开心地品尝著男人的身体，又被一种不同的刺激所扰乱！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/0688e3b6a72784a73b7a475a9ff2b1ed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1541"
-  },
-  {
-    "id": 81016,
-    "IDcode": "259LUXU-1542",
-    "title": "ラグジュTV 1529 ダイナマイトボディのエステティシャンが年上男性を求めAV出演！豊満な乳房を激しく揺らし、愛液を溢れさせながら、悩ましい喘ぎを漏らし連続中イキ！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "素人企画",
-      "素人",
-      "姐姐",
-      "业余",
-      "巨乳",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "2022-03-02",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/df7f9e410c66663e35ac479ee8522a18.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1542"
-  },
-  {
-    "id": 519990,
-    "IDcode": "259LUXU-1543",
-    "title": "前凹版模特事业的美丽女人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "2022-01-28",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ad7d55cf49e2aa052969d735e57000ac.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1543"
-  },
-  {
-    "id": 552471,
-    "IDcode": "259LUXU-1545",
-    "title": "Luxury TV 1534 AV上出现风格出众的现役模特。美腿一晃，潮水喷射到凶猛的指法！如果您在不雅地湿透的秘密部分接受大鸡巴，您将沉浸在欣喜若狂的表情和喘息中！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/73b23505a454fcb9daddcbdafdd6a182.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1545"
-  },
-  {
-    "id": 552477,
-    "IDcode": "259LUXU-1547",
-    "title": "豪华电视1520《我要被搞砸了……》 肉食美女OL寻求硬性交豪华现身！有酒有病，用小嘴抱大鸡巴，摇动美丽的大奶，用硬性做爱喝醉！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a98aa6dab08ee75894471b3e8125e9fe.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1547"
-  },
-  {
-    "id": 552955,
-    "IDcode": "259LUXU-1548",
-    "title": "豪华电视1528“好想被责备……”私下性爱，S位美女秘书现身AV，完成私欲！您可以通过通常无法品尝到的演员性爱技巧让您陶醉！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/8aa108d44d220fb129244813748e1945.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1548"
-  },
-  {
-    "id": 552948,
-    "IDcode": "259LUXU-1549",
-    "title": "豪华TV 1533 腿高的纤细美人AV出镜说“我要上床……”！被责备的秘密部分变得沮丧和敏感，在吹潮的同时沉浸在快乐中！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/e88ae6f6d08412f8ea8e112535ae6768.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1549"
-  },
-  {
-    "id": 552474,
-    "IDcode": "259LUXU-1550",
-    "title": "豪华电视第1524集 自由奔放的美女现身，寻找AV男星的姬宝，满足新的刺激！敏感的美人纤细的身体，在发出甜美的声音的同时，乖乖地对快感和喘息做出反应！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/1ec115b09fc1eed68a2589f81523365e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1550"
-  },
-  {
-    "id": 552954,
-    "IDcode": "259LUXU-1552",
-    "title": "豪华电视1546《我要你多舔屁股……》舔阴打屁股都是爱上AV的好色美女！每次我以超强的灵敏度将活塞推入身体时，我都会尖叫起来，感到困惑并高兴地喝醉了！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/90b60630996a96c95be5395e653f595f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1552"
-  },
-  {
-    "id": 520039,
-    "IDcode": "259LUXU-1553",
-    "title": "三个赛夫勒的苗条美女出现在Av",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/5dc1f30375a54e0830a8c4146073839c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1553"
-  },
-  {
-    "id": 520071,
-    "IDcode": "259LUXU-1554",
-    "title": "G罩杯纤细姐姐的甜美模样",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人企画",
-      "素人",
-      "乱伦",
-      "巨乳",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "2022-02-21",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/14c2f44911dfe7232000902bf592feb1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1554"
-  },
-  {
-    "id": 519885,
-    "IDcode": "259LUXU-1555",
-    "title": "美人妻出现在Av上满足丈夫不满足的欲望",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "2022-03-18",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/ead7596d0d48ffcc39fbbf6ad04efc35.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1555"
-  },
-  {
-    "id": 552937,
-    "IDcode": "259LUXU-1557",
-    "title": "豪华电视1559《问支持我的总裁……》 立志成为企业家的美女AV出镜！一边用演员的技术表现出狂喜的表情，一边沉浸在快感中的密集性交！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/421a4a0d254bc7a5b2e5c937a63cb77c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1557"
-  },
-  {
-    "id": 520056,
-    "IDcode": "259LUXU-1559",
-    "title": "肉食美容师的迷人身材",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "2022-02-23",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/14df39c655b2fa890c544bb4c96bc2c0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1559"
-  },
-  {
-    "id": 552938,
-    "IDcode": "259LUXU-1561",
-    "title": "豪华电视1567《未满30岁……》 拥有健康运动身材的私人教练，30岁前踏入梦寐以求的AV行业！在男人的活塞上摇晃白皙丰满的身体时重复暨！ ！！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/496ad019c0de5b88432c1ada3915d0eb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1561"
-  },
-  {
-    "id": 520042,
-    "IDcode": "259LUXU-1564",
-    "title": "优美修长风格的钢琴老师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "2022-02-25",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/a5018d3e254e67e7c4a856f21e1b2d1f.jpg",
+    "publish_date": "2020-10-07",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/a0e4dfbbf4b7ac007c7c332fb0381577.jpg",
     "actress": [
-      "琴石ゆめる"
+      "イセドン内村"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1564"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1326"
   },
   {
-    "id": 552939,
-    "IDcode": "259LUXU-1565",
-    "title": "豪华电视1537“我不满足于和男朋友发生性关系......” AV外观消除了担心的美容师的欲望！一位经验丰富的美女在一个女人的顶部姿势中摇晃她的臀部，并被快感所困扰！ ！！",
+    "id": 196818,
+    "IDcode": "259LUXU-1328",
+    "title": "和好久没做过爱的超极品美尻美女在酒店约炮啪啪",
     "year": "",
     "country": "",
     "genre": "",
@@ -439,114 +51,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/86ae3b628721e8381163db08c71db4aa.jpg",
+    "publish_date": "2020-10-05",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/68bf988890ee6e7147c685458875d681.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1565"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1328"
   },
   {
-    "id": 552562,
-    "IDcode": "259LUXU-1567",
-    "title": "豪华电视第1554话 全身溢出色情气息的美熟女被贪婪指责！用复杂的技术浇灌男人！以黏黏的口交和迷人的腰身在上位姿势的女人被打扰的样子是必看的！ ！！ - 真木今日子 AV女优",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250826-1/4d6cd0e39f75e90e343e106fb9a8bbf3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1567"
-  },
-  {
-    "id": 552941,
-    "IDcode": "259LUXU-1568",
-    "title": "Luxury TV 1560 前任播音员，造型可爱，造型时尚！男人温柔的爱抚和责备逐渐释放了紧张，可恶地长出的阴毛被爱汁浸湿，大公鸡的活塞上喘著粗气！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/f7d0c1bcc80522fd75d67cbcc8ef0b69.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1568"
-  },
-  {
-    "id": 552478,
-    "IDcode": "259LUXU-1570",
-    "title": "Luxury TV 1572 具有超凡敏感度的古典芭蕾教练现已登陆 Luxury！在男人身上优雅地摇动臀部，照亮你的身体，令人心醉神迷！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/5e76dce3f5d9eac72f06a5c29ac8ef6c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1570"
-  },
-  {
-    "id": 552479,
-    "IDcode": "259LUXU-1571",
-    "title": "Luxury TV 1562 AV 上，为了保持现在的容貌，有着绝妙的性感和成年女性外貌的美人出现！敏感的秘密部分会因爱抚而湿透，并淹没在接近活塞的乐趣中！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/a3f641d214b034dea8353039f201b178.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1571"
-  },
-  {
-    "id": 552952,
-    "IDcode": "259LUXU-1572",
-    "title": "豪华电视1555《我要提升自己作为女人的魅力……》婚后第3年巨乳人妻首次现身！一个有着整洁脸庞和丰满胸围的美丽女人被另一根棍子打扰的不道德性行为！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人企画",
-      "素人",
-      "巨乳",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/c6b31df4ffd8f909dcc93200ffac7190.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1572"
-  },
-  {
-    "id": 552953,
-    "IDcode": "259LUXU-1573",
-    "title": "豪华电视1545 昔日凹版偶像巨乳美女释放镜头前留下的性欲！在男人身上摇晃臀部，同时摇动美丽的乳房并发出令人讨厌的声音，并沉醉于丰富的性爱中！",
+    "id": 196994,
+    "IDcode": "259LUXU-1331",
+    "title": "社长的37岁气质爆乳美熟女情人被干到使劲摇曳的大奶子",
     "year": "",
     "country": "",
     "genre": "",
@@ -556,17 +71,20 @@ window.PAGE_DATA = [
       "巨乳",
       "素人企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/837a874843ff0d74b975caaa29b6da4d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1573"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "織田真子",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1331"
   },
   {
-    "id": 575184,
-    "IDcode": "259LUXU-1577",
-    "title": "ラグジュTV 1574 感度抜群なアパレル経営者が非日常の刺激を求めてAV出演！浓厚な",
+    "id": 520135,
+    "IDcode": "259LUXU-1332",
+    "title": "立花结衣25歳高尔夫教练",
     "year": "",
     "country": "",
     "genre": "",
@@ -575,37 +93,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250807/rbrpAmg2/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1577"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1332"
   },
   {
-    "id": 552940,
-    "IDcode": "259LUXU-1578",
-    "title": "豪华电视1568“我想成为主角......” 消除每周手淫三次所积累的欲望的老牌日本糖果店的女儿首次出现！如果你将鸡巴插入一直不耐烦的秘密部分，你会以欣喜若狂的表情重复提升！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乱伦",
-      "高端素人",
-      "素人企画"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/9c53134526201a0a80f300a6f105ff59.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1578"
-  },
-  {
-    "id": 552561,
-    "IDcode": "259LUXU-1579",
-    "title": "豪华电视1557 迷人甜美的纤细美人，让男人着迷，像情人一样调情！白皙的肌肤被浓浓的爱抚染成红色，强烈的活塞吹起潮水，多次高潮！",
+    "id": 211038,
+    "IDcode": "259LUXU-1333",
+    "title": "容姿女神-牧田希美",
     "year": "",
     "country": "",
     "genre": "",
@@ -614,801 +112,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250826-1/c83bff37539ed39f8f4ba31fed6700a3.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1579"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1333"
   },
   {
-    "id": 552480,
-    "IDcode": "259LUXU-1581",
-    "title": "豪华电视1551《我已经快3年没吃过了……》 开朗超群的Arasa美女担心和男友没有性关系，申请AV！按住男人喜欢的穴位的尘埃美女，沉浸在丰富的性爱中，释放积攒的欲望！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/4d3400ff77bfb7dc12241dfea6f8ed22.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1581"
-  },
-  {
-    "id": 552951,
-    "IDcode": "259LUXU-1583",
-    "title": "豪华电视1579“我很期待从现在开始我可以做的性爱......” Muchimuchi魅力人妻护士出现在AV中寻求强烈刺激！已经到了女人身高的身材，竟然贪求刺激！对全身奔跑、喘息的快感敏感！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/813b7b873824de646ead695a97763b2e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1583"
-  },
-  {
-    "id": 575186,
-    "IDcode": "259LUXU-1584",
-    "title": "ラグジュTV 1573 厳しい父に躾けられた箱入り娘のお嬢様が、反动でまさかのAV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250807/t5SKRTDn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1584"
-  },
-  {
-    "id": 575185,
-    "IDcode": "259LUXU-1585",
-    "title": "ラグジュTV 1585 ‘女性は出る侧になるべきなんじゃないかなぁ…’大人の女性として",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250807/26lshxkp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1585"
-  },
-  {
-    "id": 552481,
-    "IDcode": "259LUXU-1586",
-    "title": "性欲强的美女对平时的性活动不满意时的豪华电视1556 AV出镜！她积极地摇著臀部，用欣喜若狂的表情吞噬了一只大鸡巴，感到不安！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/e89d400b1db2dfdb6414317b22008224.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1586"
-  },
-  {
-    "id": 575155,
-    "IDcode": "259LUXU-1587",
-    "title": "ラグジュTV 1605 ‘彼氏とのセックスでは物足りなくて…’清楚なルックス、スレンダ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/yjj7Nr4G/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1587"
-  },
-  {
-    "id": 575154,
-    "IDcode": "259LUXU-1589",
-    "title": "ラグジュTV 1602 大量の潮吹きを缲り返しながら絶顶へと至る美女が登场！长い舌を络",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/jSlOxJAU/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1589"
-  },
-  {
-    "id": 552482,
-    "IDcode": "259LUXU-1590",
-    "title": "豪华电视1578 AV中失意出现，气质堪比模特的漂亮白领！猛烈地摇晃丰满的美乳，一边从阴部溢出讨厌的声音和爱汁，一边在上位的女人身上品尝长时间的鸡巴！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/bafc1e917d373577874922c626539399.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1590"
-  },
-  {
-    "id": 575153,
-    "IDcode": "259LUXU-1591",
-    "title": "ラグジュTV 1612 性的好奇心が抑えきれない美人バレエ讲师が登场！感度が増した欲求",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/BetyMlFe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1591"
-  },
-  {
-    "id": 552950,
-    "IDcode": "259LUXU-1592",
-    "title": "Luxury TV 1564 笑着说“我对淘气的东西感兴趣，自己申请了”的美丽牙科保健员出现了！在性方面早熟，她对快乐很敏感！ ！！在各种位置与Bikunbikun反应并感到困惑！ ！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/7b1af4c780d30d5c73ec357d53469324.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1592"
-  },
-  {
-    "id": 575156,
-    "IDcode": "259LUXU-1593",
-    "title": "ラグジュTV 1607 爱らしいルックスに魔性なスタイルを持つ美女が登场！男を骨抜きに",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/ciqboaiq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1593"
-  },
-  {
-    "id": 575157,
-    "IDcode": "259LUXU-1595",
-    "title": "ラグジュTV 1613 魔性的なグラマラスなボディが目を惹くギャルが密室の中で贪りあう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/5G0A5diN/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1595"
-  },
-  {
-    "id": 575158,
-    "IDcode": "259LUXU-1596",
-    "title": "ラグジュTV 1576 ‘年上のAV男优さんとのエッチに兴味があって…’不动产会社で动",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/ak8SdEJw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1596"
-  },
-  {
-    "id": 552944,
-    "IDcode": "259LUXU-1598",
-    "title": "Luxury TV 1569 现在可以在 Luxury TV 上看到一个美丽的被宠坏了的自然色情之美！当敏感的身体用手搅动秘密部分时，它紧紧地收紧并溢出喜悦汁液，但接受公鸡并受到干扰！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/b6b6671f6cf251743678e943acabc16c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1598"
-  },
-  {
-    "id": 575160,
-    "IDcode": "259LUXU-1600",
-    "title": "ラグジュTV 1621 ‘男优さんとのセックスに兴味があって…’Gカップの美人エステテ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/4QC5smnB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1600"
-  },
-  {
-    "id": 575161,
-    "IDcode": "259LUXU-1601",
-    "title": "ラグジュTV 1615 彼氏とのセックスでは満足出来ず浓厚なセックスを求めてAV出演！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/cU9MHJZY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1601"
-  },
-  {
-    "id": 552946,
-    "IDcode": "259LUXU-1603",
-    "title": "豪华电视1580“想要私下做不出来的性生活……” 新婚已婚女人被老公推荐上AV！无法抑制三十年代火热的性欲的美人妻，与男演员展开大汗淋漓的性爱！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/a57c8f667a8159d77c42232a097ae3f7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1603"
-  },
-  {
-    "id": 575159,
-    "IDcode": "259LUXU-1604",
-    "title": "ラグジュTV 1600 ‘初体験は通りすがりの…’冲撃的な初体験を告白するグラマラスボ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250808/aQ0NQ8WI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1604"
-  },
-  {
-    "id": 575168,
-    "IDcode": "259LUXU-1606",
-    "title": "ラグジュTV 1619 色々な事がシたいと好奇心旺盛な美女がAV出演！丁宁な爱抚に体を",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/qRjOKUPO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1606"
-  },
-  {
-    "id": 575169,
-    "IDcode": "259LUXU-1607",
-    "title": "ラグジュTV 1633 しっとりとした落ち着いた雰囲気と対象的に刺激的なムチムチグラマ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/XuU2SEk8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1607"
-  },
-  {
-    "id": 575171,
-    "IDcode": "259LUXU-1608",
-    "title": "ラグジュTV 1591 ‘こう见えて激しいセックスが好きなんです…’谁もが目を惹くGカ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/RWAZ39VF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1608"
-  },
-  {
-    "id": 575170,
-    "IDcode": "259LUXU-1609",
-    "title": "ラグジュTV 1637 ‘ねっとりしたセックスが好きなんです…’色気を振りまくムッチリ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/7EUq4MRO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1609"
-  },
-  {
-    "id": 575173,
-    "IDcode": "259LUXU-1610",
-    "title": "ラグジュTV 1626 “激しいセックスがしたくて…”大人可爱いフルート奏者がAV出演",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/hKqoaopP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1610"
-  },
-  {
-    "id": 575174,
-    "IDcode": "259LUXU-1612",
-    "title": "ラグジュTV 1639 ムッチリとしたグラマラスボディが目を惹くエステティシャンが登场",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/CBBeV16f/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1612"
-  },
-  {
-    "id": 575175,
-    "IDcode": "259LUXU-1613",
-    "title": "ラグジュTV 1589 ‘自分を表现したくて応募しました…’透き通るような色白美肌のG",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/IL8ubPWS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1613"
-  },
-  {
-    "id": 552416,
-    "IDcode": "259LUXU-1614",
-    "title": "豪华电视1581 经验丰富又可爱的牙医把蒙眼M男变成恶魔！用淫荡的手指，出众的舌头和口交，以及令人讨厌的腰部的顶级姿势的女人挤压所有能量！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250903-1/77e95d45cbd56f52fe0f292bec615ad6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1614"
-  },
-  {
-    "id": 575172,
-    "IDcode": "259LUXU-1615",
-    "title": "ラグジュTV 1627 某SNSのイ●スタグラマーがAV出演！男を虏にするグラマラスボ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250809/JNLcNbxl/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1615"
-  },
-  {
-    "id": 575147,
-    "IDcode": "259LUXU-1617",
-    "title": "ラグジュTV 1642 交际人数0！？でも経験人数50人以上！？アイドル级の神フェイス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/4hkdWefB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1617"
-  },
-  {
-    "id": 575145,
-    "IDcode": "259LUXU-1618",
-    "title": "ラグジュTV 1630 ‘新しい経験をしてみたいんです…’ムチムチ！グラマースタイルの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/gJMPiH4C/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1618"
-  },
-  {
-    "id": 552957,
-    "IDcode": "259LUXU-1619",
-    "title": "豪华电视1583 天才兽医来了！失意女友与男友的性爱风格格格不入，表现出挫败感……久违的刺激让我着迷，身体一抖，一头雾水！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/1effe43d4ef67fc5d65cf5d24b693c97.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1619"
-  },
-  {
-    "id": 575146,
-    "IDcode": "259LUXU-1621",
-    "title": "ラグジュTV 1597 美人アナウンサーがラグジュTVに登场！浓厚な爱抚と激しいピスト",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/worfxf51/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1621"
-  },
-  {
-    "id": 575148,
-    "IDcode": "259LUXU-1622",
-    "title": "ラグジュTV 1590 美人エステティシャンが非日常の刺激に惹かれAV出演！滑らかな肌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/cCZpG5FB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1622"
-  },
-  {
-    "id": 575152,
-    "IDcode": "259LUXU-1623",
-    "title": "ラグジュTV 1638 日本とブラジルのハーフ美女が“M気を刺激されるような普段出来な",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/mIApddZF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1623"
-  },
-  {
-    "id": 575151,
-    "IDcode": "259LUXU-1624",
-    "title": "ラグジュTV 1586 年顷の生徒を魅了する大人カワイイ家庭教师が、普段できないセック",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/JYNUceg1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1624"
-  },
-  {
-    "id": 532615,
-    "IDcode": "259LUXU-1625",
-    "title": "[] ラグジュTV 1643 ぽってりとした唇に肉欲そそるムッチリボディ！クリトリスを爱抚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230506/pb_e_259luxu-1625.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1625"
-  },
-  {
-    "id": 575149,
-    "IDcode": "259LUXU-1626",
-    "title": "ラグジュTV 1631 Hカップの巨乳を揺らしイき乱れるおっとり系美人妻…。久し振りに",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人企画",
-      "素人",
-      "巨乳",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/xZWAzbaJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1626"
-  },
-  {
-    "id": 575150,
-    "IDcode": "259LUXU-1627",
-    "title": "ラグジュTV 1587 ハメ撮り愿望がある美人看护师がラグジュに登场！セクシーな衣装で",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250810/JA4jnaES/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1627"
-  },
-  {
-    "id": 575137,
-    "IDcode": "259LUXU-1628",
-    "title": "ラグジュTV 1594 美容クリニックの受付として动くスレンダー美女がラグジュに出演！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/UBUK7rWD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1628"
-  },
-  {
-    "id": 575136,
-    "IDcode": "259LUXU-1629",
-    "title": "ラグジュTV 1588 “こんなに大きいの初めて…”久し振りのセックスに胸を高鸣らせる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/qBZrNNmB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1629"
-  },
-  {
-    "id": 575138,
-    "IDcode": "259LUXU-1630",
-    "title": "ラグジュTV 1592 色白美人な书道家がAV初出演！！しばらくご无沙汰で敏感になった",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/3hFuY5IR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1630"
-  },
-  {
-    "id": 575140,
-    "IDcode": "259LUXU-1631",
-    "title": "ラグジュTV 1632 ムッチリグラマラスボディを持つ美人ネイリストが登场！ピストンさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/y8FLLh5X/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1631"
-  },
-  {
-    "id": 575144,
-    "IDcode": "259LUXU-1632",
-    "title": "ラグジュTV 1635 谁もが钉付けになるIカップ巨乳を持つ塾讲师が登场！清楚なお姊さ",
+    "id": 196977,
+    "IDcode": "259LUXU-1334",
+    "title": "魅惑巨乳美女再度登场穿着情趣内衣高跟鞋被巨根爆操",
     "year": "",
     "country": "",
     "genre": "",
@@ -1418,17 +132,17 @@ window.PAGE_DATA = [
       "巨乳",
       "素人企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/fPL7WAw2/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1632"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1334"
   },
   {
-    "id": 575141,
-    "IDcode": "259LUXU-1633",
-    "title": "ラグジュTV 1603 女盛りを迎えたムチムチボディの美女が欲求不満を解消する为にAV",
+    "id": 479868,
+    "IDcode": "259LUXU-1335",
+    "title": "Laguju TV 1318 我想在婚前来一次冒险… 由于对与男友的性 志木茜 -C",
     "year": "",
     "country": "",
     "genre": "",
@@ -1437,17 +151,20 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/uMqOdp1S/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1633"
+    "publish_date": "2020-10-26",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/749061caea859bac9f2a59f609330dd1.jpg",
+    "actress": [
+      "奥井楓",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1335"
   },
   {
-    "id": 575139,
-    "IDcode": "259LUXU-1634",
-    "title": "ラグジュTV 1599 美人ランジェリーショップ店员がAV初出演！むっちりなグラマラス",
+    "id": 196852,
+    "IDcode": "259LUXU-1336",
+    "title": "性冷淡太太应征奢华TV深吻电晕痉挛叼着别人的棍子淫汁溢出",
     "year": "",
     "country": "",
     "genre": "",
@@ -1456,17 +173,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/16z9RNPp/1.jpg",
+    "publish_date": "2020-12-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1634"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1336"
   },
   {
-    "id": 575143,
-    "IDcode": "259LUXU-1636",
-    "title": "ラグジュTV 1610 ‘AVに兴味があって…’173cmの高身长スレンダー美女がラグ",
+    "id": 479870,
+    "IDcode": "259LUXU-1337",
+    "title": "Laguju TV 1319 在这部成人影片中，一位集聪明才智和迷人身材 朝阳惠麻 -C",
     "year": "",
     "country": "",
     "genre": "",
@@ -1475,17 +192,19 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/e8ZoXINc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1636"
+    "publish_date": "2020-10-28",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/90524542cdc84bb5ddbd81a2b35c72a7.jpg",
+    "actress": [
+      "朝阳えま"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1337"
   },
   {
-    "id": 532593,
-    "IDcode": "259LUXU-1637",
-    "title": "ラグジュTV 1645 ‘お客様ともセックスしちゃってます…’色白で！",
+    "id": 551499,
+    "IDcode": "259LUXU-1338",
+    "title": "翠29歳地方播音员",
     "year": "",
     "country": "",
     "genre": "",
@@ -1494,17 +213,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230415/pb_e_259luxu-1637.jpg!320x216.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1637"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1338"
   },
   {
-    "id": 575142,
-    "IDcode": "259LUXU-1638",
-    "title": "ラグジュTV 1595 ‘ちょっといじめられるのが好き…’ドMな色白スレンダー美女が初",
+    "id": 553001,
+    "IDcode": "259LUXU-1339",
+    "title": "豪华电视1330 勾引病人的小恶魔护士回来了！被未满足的欲望所支配的身体变成了一种敏感的体质，只要被男人轻轻抚摸就会有感觉。全开本能地摆动臀部，吞噬男人的温暖！",
     "year": "",
     "country": "",
     "genre": "",
@@ -1513,17 +232,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250811/fCCLFbZt/1.jpg",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250807-1/7855496a0aa47479aa127785e2810352.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1638"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1339"
   },
   {
-    "id": 552962,
-    "IDcode": "259LUXU-1639",
-    "title": "豪华电视1598 AV中出现M气质美女释放性欲！兴奋地用猛烈的活塞晃动美丽的臀部！最后欣然接受了男人的愿望！",
+    "id": 551509,
+    "IDcode": "259LUXU-1340",
+    "title": "瀬尾希美26歳婚礼策划师",
     "year": "",
     "country": "",
     "genre": "",
@@ -1532,17 +251,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/a8eec3ac98591ecc5810ad5ad71ad99d.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1639"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1340"
   },
   {
-    "id": 575111,
-    "IDcode": "259LUXU-1640",
-    "title": "ラグジュTV 1617 感度抜群の美人スタイリスト！电マでクリを刺激されただけで床を濡",
+    "id": 520129,
+    "IDcode": "259LUXU-1342",
+    "title": "野々村架纯26歳礼仪讲师",
     "year": "",
     "country": "",
     "genre": "",
@@ -1551,17 +270,20 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/ZpvRq88P/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1640"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森林原人",
+      "三花しずく"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1342"
   },
   {
-    "id": 575110,
-    "IDcode": "259LUXU-1641",
-    "title": "ラグジュTV 1629 グラマラスボディが魅力の美人美容师がラグジュTVに出演！优しい",
+    "id": 520298,
+    "IDcode": "259LUXU-1344",
+    "title": "【有码】 七绪37歳美容顾问",
     "year": "",
     "country": "",
     "genre": "",
@@ -1570,17 +292,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/afK0Upie/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1641"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1344"
   },
   {
-    "id": 575112,
-    "IDcode": "259LUXU-1643",
-    "title": "ラグジュTV 1593 ‘耻ずかしいのが気持ちいい…’27歳スレンダーモデルが登场！人",
+    "id": 196967,
+    "IDcode": "259LUXU-1345",
+    "title": "极品美女穿着性感高跟内衣被大肉棒干得敏感小穴直喷水",
     "year": "",
     "country": "",
     "genre": "",
@@ -1589,17 +311,42 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/0Ik5V2Dw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1643"
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "イセドン内村",
+      "志恩まこ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1345"
   },
   {
-    "id": 575115,
-    "IDcode": "259LUXU-1644",
-    "title": "ラグジュTV 1596 ‘普通に付き合うのがつまらない…相手のモノを夺うのが好き’危険",
+    "id": 196992,
+    "IDcode": "259LUXU-1346",
+    "title": "气质高雅的短发人妻穿着肉丝张开双腿恳求巨根宠幸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "弘崎ゆみな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1346"
+  },
+  {
+    "id": 196958,
+    "IDcode": "259LUXU-1347",
+    "title": "在银座专柜卖化妆品的短发美女穿着高跟被爆操",
     "year": "",
     "country": "",
     "genre": "",
@@ -1608,17 +355,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/eJnQDFyw/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1644"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1347"
   },
   {
-    "id": 575113,
-    "IDcode": "259LUXU-1645",
-    "title": "ラグジュTV 1614 表现の幅を広げたいと美人官能小说家がAV出演！感度抜群な乳首を",
+    "id": 196938,
+    "IDcode": "259LUXU-1348",
+    "title": "抱着黑丝高跟美容院美女的美尻疯狂输出",
     "year": "",
     "country": "",
     "genre": "",
@@ -1627,17 +374,257 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/DmtcF93c/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1645"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1348"
   },
   {
-    "id": 575114,
-    "IDcode": "259LUXU-1646",
-    "title": "ラグジュTV 1618 ‘彼氏とはご无沙汰で…’スレンダーな巨乳モデルが登场！硬く耸り",
+    "id": 519699,
+    "IDcode": "259LUXU-1351",
+    "title": "【有码】、桜井ゆの、25歳的舞者",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1351"
+  },
+  {
+    "id": 196834,
+    "IDcode": "259LUXU-1353",
+    "title": "美丽的美甲师为了满足欲求不满来到仙境TV的拍摄用别人肉棒和AV男优的性技丰乳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大岛丈",
+      "咲乃にいな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1353"
+  },
+  {
+    "id": 196862,
+    "IDcode": "259LUXU-1354",
+    "title": "想要感受未曾体会的快感",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1354"
+  },
+  {
+    "id": 519698,
+    "IDcode": "259LUXU-1355",
+    "title": "【有码】、柏木菜乃叶28歳社长秘书",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1355"
+  },
+  {
+    "id": 519697,
+    "IDcode": "259LUXU-1356",
+    "title": "【有码】、冈山亜美28歳家庭科教员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2020-12-30",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森林原人",
+      "松田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1356"
+  },
+  {
+    "id": 196863,
+    "IDcode": "259LUXU-1357",
+    "title": "嘴旁绝妙美人痣性感秘书初登场离开满足不了她的一般男性决心找回女人真正的快感和喜悦只要看到的肉棒全都抢夺的乱交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "乱交",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "松冈京香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1357"
+  },
+  {
+    "id": 196711,
+    "IDcode": "259LUXU-1358",
+    "title": "无性爱烦恼中的苗条妻子登场",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1358"
+  },
+  {
+    "id": 196744,
+    "IDcode": "259LUXU-1360",
+    "title": "苗条美脚歯科医師緊張面容初登場",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2021-01-04",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森林原人",
+      "东希美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1360"
+  },
+  {
+    "id": 196794,
+    "IDcode": "259LUXU-1361",
+    "title": "一瞬间世俗男人钉住的魅惑",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1361"
+  },
+  {
+    "id": 196734,
+    "IDcode": "259LUXU-1362",
+    "title": "结婚前为了能做一次留存在回忆里的性爱决定来出演AV的美丽舞者",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1362"
+  },
+  {
+    "id": 519695,
+    "IDcode": "259LUXU-1363",
+    "title": "【有码】、菜月あやめ28歳保健师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1363"
+  },
+  {
+    "id": 519694,
+    "IDcode": "259LUXU-1364",
+    "title": "【有码】、川田歩26歳百货店受付嬢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1364"
+  },
+  {
+    "id": 196684,
+    "IDcode": "259LUXU-1366",
+    "title": "美人杂志模特AV应募苗条身体和美巨乳展现",
     "year": "",
     "country": "",
     "genre": "",
@@ -1647,113 +634,39 @@ window.PAGE_DATA = [
       "巨乳",
       "素人企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/yDUxy3bM/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1646"
-  },
-  {
-    "id": 575116,
-    "IDcode": "259LUXU-1647",
-    "title": "ラグジュTV 1640 魅惑的な唇と大人の女性としての色気が溢れ出す歯科卫生士が登场！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
+    "publish_date": "2021-01-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "矢乃花音"
     ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/tYsKFB7G/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1647"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1366"
   },
   {
-    "id": 575117,
-    "IDcode": "259LUXU-1648",
-    "title": "ラグジュTV 1616 ‘男优さんとセックスがしたくて…’高身长スレンダーボディのモデ",
+    "id": 519692,
+    "IDcode": "259LUXU-1367",
+    "title": "【有码】、八ツ桥恵美35歳服装品牌的经营",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
       "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/h7duiYLs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1648"
-  },
-  {
-    "id": 575118,
-    "IDcode": "259LUXU-1649",
-    "title": "ラグジュTV 1625 ‘セックスを见られたくて…’もっちり白肌の受付嬢が初登场！！见",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250812/2jYDFmDP/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1649"
-  },
-  {
-    "id": 575135,
-    "IDcode": "259LUXU-1650",
-    "title": "ラグジュTV 1634 大人の色気を漂わせるムッチリボディの美容部员が登场！浓厚な责め",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250813/EwGcv6Jn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1650"
-  },
-  {
-    "id": 532567,
-    "IDcode": "259LUXU-1651",
-    "title": "[] ラグジュTV 1641 妖艶な雰囲気が魅力的な美人経営者がラグジュに登场！美意识が行き届いた体を责めれば次第に秘部",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
+      "少妇",
       "高端素人",
-      "无码"
+      "素人企画"
     ],
-    "type": "无码",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2023/03/dfmyhzoikke.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1651"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1367"
   },
   {
-    "id": 575122,
-    "IDcode": "259LUXU-1652",
-    "title": "ラグジュTV 1601 普段では味わえないAVならではのセックスを体験したい！クールな",
+    "id": 196721,
+    "IDcode": "259LUXU-1368",
+    "title": "美人按摩経営者登場美意識传达到位妖艳的身姿忙碌的每天之中偶尔変貌为欲求不満的身体",
     "year": "",
     "country": "",
     "genre": "",
@@ -1762,17 +675,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250813/OQxKW2SN/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1652"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1368"
   },
   {
-    "id": 575123,
-    "IDcode": "259LUXU-1653",
-    "title": "ラグジュTV 1620 AV撮影现场に丽しき美人探侦が突撃调查！？淫らな爱液を滴らせ、",
+    "id": 196688,
+    "IDcode": "259LUXU-1369",
+    "title": "美丽钢琴师再降临与一般人男性做爱已经无法满足",
     "year": "",
     "country": "",
     "genre": "",
@@ -1781,17 +694,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250813/q58gug5J/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1653"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1369"
   },
   {
-    "id": 575134,
-    "IDcode": "259LUXU-1655",
-    "title": "ラグジュTV 1611 ‘しばらくご无沙汰で闷々としているんです…’Fカップの愈し系看",
+    "id": 519691,
+    "IDcode": "259LUXU-1370",
+    "title": "【有码】、松井恵玲奈28歳会社経営",
     "year": "",
     "country": "",
     "genre": "",
@@ -1800,17 +713,43 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250813/uVZWvp1e/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1655"
+    "publish_date": "2021-01-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "露梨あやせ",
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1370"
   },
   {
-    "id": 575121,
-    "IDcode": "259LUXU-1656",
-    "title": "ラグジュTV 1609 セフレに会えない时はひっそりとオナニーを嗜む清楚なお姊さんが登",
+    "id": 228567,
+    "IDcode": "259LUXU-1371",
+    "title": "美巨乳魅力美人歌手登场因爱抚变得湿滑腔内巨根插入后用爽爽的表情接受",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小田切ジュン",
+      "花宫あむ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1371"
+  },
+  {
+    "id": 519690,
+    "IDcode": "259LUXU-1372",
+    "title": "【有码】、菊池桜26歳模特",
     "year": "",
     "country": "",
     "genre": "",
@@ -1819,17 +758,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250813/b8xauVbo/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1656"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1372"
   },
   {
-    "id": 552966,
-    "IDcode": "259LUXU-1657",
-    "title": "豪华电视1623 三十名补习班老师寻求非凡刺激，用大鸡巴感受丰富性爱！只是被触摸就兴奋的女人的身体，像欣赏一样进行口交，具有良好的敏感性！我为从未有过的快乐而喘息！",
+    "id": 551498,
+    "IDcode": "259LUXU-1374",
+    "title": "27歳舞者",
     "year": "",
     "country": "",
     "genre": "",
@@ -1838,17 +777,37 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250810-1/0fc2d872ce2e9203b4af21307d3d2b97.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1657"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1374"
   },
   {
-    "id": 575119,
-    "IDcode": "259LUXU-1658",
-    "title": "ラグジュTV 1628 普段では体験できないセックスを求め美人エステティシャンがAV出",
+    "id": 519815,
+    "IDcode": "259LUXU-1375",
+    "title": "【有码】巨乳柊纱栄子AV初出演",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/33c0902dea42b5209cf23e9a1848a25b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1375"
+  },
+  {
+    "id": 196689,
+    "IDcode": "259LUXU-1376",
+    "title": "和炮友断了联络没有发泄性欲的地方",
     "year": "",
     "country": "",
     "genre": "",
@@ -1857,17 +816,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250813/bSMRdyXJ/1.jpg",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/11/01/ffec816f/vod.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1658"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1376"
   },
   {
-    "id": 575120,
-    "IDcode": "259LUXU-1659",
-    "title": "ラグジュTV 1647 潮吹きが止まらない！清楚な色白スレンダー美女が初登场！敏感ボデ",
+    "id": 519687,
+    "IDcode": "259LUXU-1377",
+    "title": "【有码】、远藤美咲28歳银行员",
     "year": "",
     "country": "",
     "genre": "",
@@ -1876,17 +835,19 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250813/YSB5YWui/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1659"
+    "publish_date": "2021-02-05",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "丹羽すみれ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1377"
   },
   {
-    "id": 576171,
-    "IDcode": "259LUXU-1660",
-    "title": "ラグジュTV 1649 ランジェリーショップ経営者が知人に赖まれまさかのAV出演！巨根",
+    "id": 551500,
+    "IDcode": "259LUXU-1378",
+    "title": "桥本美音25歳钢琴家",
     "year": "",
     "country": "",
     "genre": "",
@@ -1895,17 +856,17 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230223/Yu4SczCI/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1660"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1378"
   },
   {
-    "id": 575102,
-    "IDcode": "259LUXU-1661",
-    "title": "ラグジュTV 1646 昼间は清楚な美人教员、夜は妖艶なテクニックで男を骨抜き！浓厚な",
+    "id": 519686,
+    "IDcode": "259LUXU-1379",
+    "title": "【有码】、永山夏美26歳服装设计师",
     "year": "",
     "country": "",
     "genre": "",
@@ -1914,11 +875,1088 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250814/OWOaYCT1/1.jpg",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1661"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1379"
+  },
+  {
+    "id": 519684,
+    "IDcode": "259LUXU-1381",
+    "title": "【有码】、百合奈29歳美容诊所院长",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1381"
+  },
+  {
+    "id": 519682,
+    "IDcode": "259LUXU-1386",
+    "title": "【有码】、下野遥27歳テレビ局勤务(天气预报员)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1386"
+  },
+  {
+    "id": 551494,
+    "IDcode": "259LUXU-1392",
+    "title": "三浦友加里33歳ヨガ讲师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1392"
+  },
+  {
+    "id": 591514,
+    "IDcode": "259LUXU-1395",
+    "title": "【】爱美27歳原写真偶像",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "中文字幕",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/5f4dc3f7548188c4bad908446e6e46e3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1395"
+  },
+  {
+    "id": 552969,
+    "IDcode": "259LUXU-1396",
+    "title": "Luxury TV 1424 风格出众的嘻哈舞者AV现身！一张素雅的脸庞和凶猛的腰肢！跨在男人身上，用赤裸的自然挤压他的臀部的汗流浃背！ ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250808-1/0d7e60b0948d74e8e620738744f6606b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1396"
+  },
+  {
+    "id": 551502,
+    "IDcode": "259LUXU-1398",
+    "title": "吉永光26歳美容系博主",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1398"
+  },
+  {
+    "id": 551505,
+    "IDcode": "259LUXU-1399",
+    "title": "长谷川26歳圆球女郎",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1399"
+  },
+  {
+    "id": 551489,
+    "IDcode": "259LUXU-1401",
+    "title": "26歳看护师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1401"
+  },
+  {
+    "id": 538547,
+    "IDcode": "259LUXU-1402",
+    "title": "ラグジュTV 1388 才色兼备な女医が非日常を求めてAV出演！日々の物足りなさを埋めるため男に",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240523/1617776908-pb_e_259luxu-1402.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1402"
+  },
+  {
+    "id": 551497,
+    "IDcode": "259LUXU-1403",
+    "title": "高城玲香28歳社长秘书",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1403"
+  },
+  {
+    "id": 552596,
+    "IDcode": "259LUXU-1404",
+    "title": "豪华电视1414 前学生为赛夫勒的淫荡美女老师的紧急AV出场！露出令男生着迷的美艳肉体，彻底享受被追捧的鸡巴刺激的热血活动指导开始了！ ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/dff4f8ee8a22e57b141d91d3759d0429.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1404"
+  },
+  {
+    "id": 552598,
+    "IDcode": "259LUXU-1405",
+    "title": "豪华电视 1389 外观时尚酷炫，其实有一个叫de M的绝妙差距！美腿美臀美胸美腿让人羡慕的美颜风格，撩动男人心的甜蜜反响一针见血！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/742f0fcaa9657bcf3e9af3e9bedf26d6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1405"
+  },
+  {
+    "id": 552843,
+    "IDcode": "259LUXU-1407",
+    "title": "Luxury TV 1409 以最好的身材和丰富的技术让男人着迷的管理顾问出现了！把大公鸡归咎于丰满美艳的作风，会漏出讨厌又烦人的喘气声，活过很多次！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/4b1725ffb77cee13e605cd4a6f98d253.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1407"
+  },
+  {
+    "id": 552570,
+    "IDcode": "259LUXU-1411",
+    "title": "Luxury TV 1390 身高超过170cm的G-cup魅力造型AV首次登场！ !!使30多岁的大人性感的成熟淫荡的身体对男人的活塞反应灵敏，一边摇晃讨厌的大山雀一边不安！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/eaf5c4aad989d2a9f6d486e4fee474fa.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1411"
+  },
+  {
+    "id": 551508,
+    "IDcode": "259LUXU-1413",
+    "title": "泉玲香29歳发型师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1413"
+  },
+  {
+    "id": 552841,
+    "IDcode": "259LUXU-1415",
+    "title": "豪华电视1396 AV亮相释放美女瑜伽教练积累的性欲！瑜伽培养出的灵活髋关节和大胆张开的双腿堪称杰作！每次被活塞震动的肉屁股是必看的！ !!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/85b1d0584bb43f4ab729c95fd7ae1a30.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1415"
+  },
+  {
+    "id": 551503,
+    "IDcode": "259LUXU-1416",
+    "title": "日向结衣24歳大学院生兼模特",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1416"
+  },
+  {
+    "id": 519957,
+    "IDcode": "259LUXU-1417",
+    "title": "Luxury TV 1404 一位经验丰富的美容师~不仅吸引男性~还吸引女性~寻求与日常生活不同的性！如果M-ki被一个粘稠的词责备刺激~一个讨厌的乳头会一直勃起！流口水和陶醉的外观是必看的！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1417"
+  },
+  {
+    "id": 591100,
+    "IDcode": "259LUXU-1419",
+    "title": "【】、美玖26歳美容师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "中文字幕",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/2de8d1924260ec12427b379f9e06d216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1419"
+  },
+  {
+    "id": 552580,
+    "IDcode": "259LUXU-1421",
+    "title": "Luxury TV 1411 可爱性感的婚礼策划人登场！抚摸那透明如丝的身体，它会晃动你的身体，做出敏感的反应，与兴奋成比例溢出的爱汁。用大公鸡活塞跳跃的美丽乳房和乳晕的必看景点！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/00aaaffe799e4c0cc2158a2a6c0775f8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1421"
+  },
+  {
+    "id": 519977,
+    "IDcode": "259LUXU-1422",
+    "title": "豪华电视1398 美巨乳护士AV露面~寻求激情性爱！一心一意淫荡妖娆...喷出高潮太快了！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2021-04-30",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森林原人",
+      "绿川みやび"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1422"
+  },
+  {
+    "id": 552564,
+    "IDcode": "259LUXU-1423",
+    "title": "奢侈TV 1418 笑容满面的保育员登场！当她因异常尴尬的外表而受到责备时，她染上脸颊感到尴尬，但她逐渐变得开放以猛烈的活塞，并在泄漏回荡在整个房间的喘气声中被打扰！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/b7503701b8ebe14bf1bcf75f2fc74b8a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1423"
+  },
+  {
+    "id": 555577,
+    "IDcode": "259LUXU-1424",
+    "title": "ハリ艶溢れる美巨乳を跃らせながらイキまくる！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/6f3a4daa99b625d02638310c2d38a974.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1424"
+  },
+  {
+    "id": 552566,
+    "IDcode": "259LUXU-1425",
+    "title": "奢侈TV 1416 昔日偶像苗条美女首次亮相AV，填补孤独，满足被人看到的欲望！紧张的表情膨胀，她用演员的技巧扭动著美丽的乳房......！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/0168df3dc2e8a3bceddf70b2c48f0f55.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1425"
+  },
+  {
+    "id": 519679,
+    "IDcode": "259LUXU-1426",
+    "title": "【有码】、姫野春菜26歳社长令嬢兼社长秘书",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1426"
+  },
+  {
+    "id": 520013,
+    "IDcode": "259LUXU-1427",
+    "title": "豪华电视剧1426《我的身体好痛……》 3年无性生活~欲望累积~身体是忍耐的极限！暴露敏感大奶大屁股的角质老婆~接受其他棍棒~沉浸在快感中！ ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2021-07-05",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1427"
+  },
+  {
+    "id": 591099,
+    "IDcode": "259LUXU-1428",
+    "title": "【】、宫下穂乃28歳社长秘书",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "中文字幕",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/6b4165cdfcdeff70496d53b6223a256f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1428"
+  },
+  {
+    "id": 552576,
+    "IDcode": "259LUXU-1431",
+    "title": "豪华电视 1427 前种族女王的苗条妻子出现在 AV 中寻找刺激！淫秽的性交，从涂满油的淫秽身体和精液发出角质的声音！ !!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/64392728b65ec29356f4110dee2d5ce6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1431"
+  },
+  {
+    "id": 552846,
+    "IDcode": "259LUXU-1433",
+    "title": "豪华TV 1412“想被演员抱抱……” 美丽芭蕾舞教练期待已久的AV登场！在摇晃过于敏感的纤细身体的同时多次达到高潮，并以欣喜若狂的表情陶醉于即将到来的快感......！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/8622f7700e5e8eb213453d738731cd9a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1433"
+  },
+  {
+    "id": 552567,
+    "IDcode": "259LUXU-1435",
+    "title": "豪华电视1429【寻找最高境界的刺激……】人人都会恋爱！前CA的美丽妻子出现在AV上！在镜头前露出高挑纤细的身材和不雅的本性！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250824-1/11f4634e871fa8bd34c6c1d07cbadb04.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1435"
+  },
+  {
+    "id": 552838,
+    "IDcode": "259LUXU-1436",
+    "title": "豪华电视1430《我要丰富的性爱……》 工作了10多年没有男朋友的美女总裁首次现身！ !!快要忘记的男人的温暖和刺激……摇动迷人的纤细美体，大胆被性骚扰！ !!",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/c750d5840bcf0f307b864691ec35ad64.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1436"
+  },
+  {
+    "id": 552835,
+    "IDcode": "259LUXU-1437",
+    "title": "Luxury TV 1420 令全世界男人着迷的棕色身材的职业舞者又回到了Luxury TV！忘不了上次的快感，洒满溢的情色，摇晃着涂著乳液的美丽身体，用本能扰乱它！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/8dcfa1ec2e7366d6ec1b431cc692698f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1437"
+  },
+  {
+    "id": 552970,
+    "IDcode": "259LUXU-1438",
+    "title": "豪华电视1422任何男人都会爱上你！高挑美颜现役研究生模特再次现身！千万不要错过太美的站姿，享受让人神魂颠倒的小恶魔术和狂野快感！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/b2a30a4d45422c92a61c630aabbf0c8c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1438"
+  },
+  {
+    "id": 552973,
+    "IDcode": "259LUXU-1439",
+    "title": "Luxury TV 1421 不满足与赛夫勒的性爱，一边被拍一边着迷的服装店老板出现了！让人眼前一亮的沉重感的巨乳沐浴在油中并散发出令人不快的光泽，并跳到大公鸡的活塞上，这是杰作！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "高端素人",
+      "巨乳",
+      "素人企画"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/97507c8be20588fdee846f8c9f2b2019.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1439"
+  },
+  {
+    "id": 552837,
+    "IDcode": "259LUXU-1440",
+    "title": "豪华TV 1423 想和男演员做爱…怀著好奇心决定出演AV的治愈系护士，在镜头前收起本能，大胆暴露，心烦意乱！ ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/fb342eb6aa6f6e4f8b81a2683fb2f028.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1440"
+  },
+  {
+    "id": 552840,
+    "IDcode": "259LUXU-1441",
+    "title": "豪华电视1428【裂舌】的温柔总裁秘书来了！深吻，乳头舔，用迷人的舌头口交一分为二！用丰富而粘稠的舌头浇灌世人！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/c19c6dc0dc1becac8747f3c09784a140.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1441"
+  },
+  {
+    "id": 212685,
+    "IDcode": "259LUXU-1443",
+    "title": "美丽的机舱服务员",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1443"
+  },
+  {
+    "id": 520041,
+    "IDcode": "259LUXU-1444",
+    "title": "豪华电视 1425 不露面工作太可惜了！似乎将一位美丽的小说家在 AV 中经历的性爱变成了作品的故事！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "沙织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1444"
+  },
+  {
+    "id": 214217,
+    "IDcode": "259LUXU-1446",
+    "title": "已婚妇女在她丈夫有外遇后",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1446"
+  },
+  {
+    "id": 214121,
+    "IDcode": "259LUXU-1447",
+    "title": "她因巨大的阴茎带来的快感",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1447"
+  },
+  {
+    "id": 214129,
+    "IDcode": "259LUXU-1448",
+    "title": "身体对刺激很敏感",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1448"
+  },
+  {
+    "id": 214665,
+    "IDcode": "259LUXU-1449",
+    "title": "她有很多一夜情的经验",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1449"
+  },
+  {
+    "id": 214229,
+    "IDcode": "259LUXU-1451",
+    "title": "美人女医肛門科",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1451"
+  },
+  {
+    "id": 212579,
+    "IDcode": "259LUXU-1452",
+    "title": "温柔的女人-泉玲香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1452"
+  },
+  {
+    "id": 213128,
+    "IDcode": "259LUXU-1453",
+    "title": "一脸陶醉地接受着鸡巴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1453"
+  },
+  {
+    "id": 214661,
+    "IDcode": "259LUXU-1454",
+    "title": "拥有成人性魅力的钢琴家",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1454"
+  },
+  {
+    "id": 213124,
+    "IDcode": "259LUXU-1455",
+    "title": "美容部員少女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1455"
+  },
+  {
+    "id": 519968,
+    "IDcode": "259LUXU-1459",
+    "title": "Luxury TV 1443 某公司的公关美女~决定以兴趣出演AV~却在镜头前一败涂地！当你逐渐进入气氛时~就好像你爱你面前的大公鸡一样！不要错过她逐渐变得大胆的妖娆腰身！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1459"
+  },
+  {
+    "id": 249825,
+    "IDcode": "259LUXU-1460",
+    "title": "阴部发出湿润的声音",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1460"
+  },
+  {
+    "id": 552573,
+    "IDcode": "259LUXU-1463",
+    "title": "豪华电视1446 纤细超然美护士首次现身！既能接受又能责备的角质美女！ ！！用词责备和令人敬畏的技术女王游戏将演员带到高潮！ ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250825-1/671275114a5d507e43de83f78c9de391.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1463"
+  },
+  {
+    "id": 552971,
+    "IDcode": "259LUXU-1464",
+    "title": "豪华电视第1453期 失恋的失意人妻从不申请AV！一个美丽的不道德妻子，以演员惊人的技术和非凡的刺激重复痛苦的高潮，作为欲望“我想在激烈的性爱中感到舒适......”！ ！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250809-1/3270c2fa43aab90ecb183db37f7ab94d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1464"
+  },
+  {
+    "id": 213473,
+    "IDcode": "259LUXU-1465",
+    "title": "美人牙医",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1465"
+  },
+  {
+    "id": 519972,
+    "IDcode": "259LUXU-1466",
+    "title": "Luxury TV 1458 AV 上出现了沉稳大气的苗条美人。开拍时~我用迷人的脸舔著演员的乳头~用自己的蜂蜜罐弄湿~感觉很好~很不安！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1466"
+  },
+  {
+    "id": 214228,
+    "IDcode": "259LUXU-1467",
+    "title": "大胸脯的芳香疗法师",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1467"
+  },
+  {
+    "id": 520037,
+    "IDcode": "259LUXU-1468",
+    "title": "Luxury TV 1444 AV中第2次出现全身散发色情信息素的美丽舞者。比以前更具有成人性感和性敏感的身体~当你将皮肤放在男人身上时立即发光......以迷人和迷人的表情接受公鸡~多次摇晃臀部和精液！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "2021-08-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1468"
+  },
+  {
+    "id": 213208,
+    "IDcode": "259LUXU-1469",
+    "title": "美腿的现役赛车女郎",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2021/09/04/9127994a6175e09299882de0becab3a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-1469"
   }
 ];

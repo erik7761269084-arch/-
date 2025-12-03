@@ -1,5 +1,35 @@
 window.PAGE_DATA = [
   {
+    "id": 153901,
+    "IDcode": "548-NIMO-01",
+    "title": "多次尝到性高潮的性爱Nimo",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=548-NIMO-01"
+  },
+  {
+    "id": 153902,
+    "IDcode": "548-NIMO-04",
+    "title": "转子手淫与浮动臀部Nimo",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=548-NIMO-04"
+  },
+  {
     "id": 522819,
     "IDcode": "AGEMIX-285",
     "title": "波多野结衣- 絶対に咥えてはいけない舌技フェラ",
@@ -7,7 +37,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/dhhjSDOb/1.jpg",
@@ -22,7 +52,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/63LPg8cV/1.jpg",
@@ -37,7 +67,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/2o97SMSG/1.jpg",
@@ -52,7 +82,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/Qs0rTWJ6/1.jpg",
@@ -67,7 +97,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250312/HHinDXxK/1.jpg",
@@ -82,7 +112,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250313/zDU5mFHR/1.jpg",
@@ -97,7 +127,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250313/oWzO8Qcv/1.jpg",
@@ -112,7 +142,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241108/WDfZnT7M/1.jpg",
@@ -127,7 +157,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241108/QGcamo1H/1.jpg",
@@ -142,7 +172,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241109/efPlHsSn/1.jpg",
@@ -159,7 +189,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241109/OTb3W3y9/1.jpg",
@@ -174,7 +204,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250612/ItZCLuwq/1.jpg",
@@ -189,7 +219,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250612/V3pfCV37/1.jpg",
@@ -204,7 +234,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250612/zMUDZab6/1.jpg",
@@ -219,7 +249,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/c284ea57029c8e5ef35400b31978bdf3.jpg",
@@ -234,12 +264,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/51d5e57d338a2d40b0ebc13b5081047b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AGEMIX-426"
+  },
+  {
+    "id": 541072,
+    "IDcode": "IMO-008",
+    "title": "デリヘル呼んだら妹が来た！结果、お店に内绪で中出し本番セ第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-008"
   },
   {
     "id": 87523,
@@ -257,7 +302,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "2022-09-05",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1220f76b2252719c00f5d1b8bce6e15d.jpg",
@@ -275,7 +320,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/0280e006144b1882693420fc02fc0e47.jpg",
@@ -290,7 +335,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230706/12imo017pl.jpg!320x216.jpg",
@@ -305,7 +350,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230717/12imo018pl.jpg!320x216.jpg",
@@ -320,7 +365,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://pic53.anzise.com/pic/20230511/0c941eae8f716aa22f46845cf7420bf1/1.jpg",
@@ -335,7 +380,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230907/9tPHMJwK/1.jpg",
@@ -350,7 +395,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231207/DE5lXP30/1.jpg",
@@ -367,7 +412,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc12c1c6d1004ed41deb2f/cover.jpg",
@@ -382,7 +427,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240503/q0ziJyDk/1.jpg",
@@ -397,7 +442,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240709/EjIJijcI/1.jpg",
@@ -414,7 +459,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf01d2958ac04f27fb6b4a/cover.jpg",
@@ -431,7 +476,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/17/68ca7acf944bbe4ef0fc7957/cover.jpg",
@@ -468,7 +513,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc23b42ee23a639b1c582c/cover.jpg",
@@ -487,7 +532,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc10cfc6d1004ed41dd7b2/cover.jpg",
@@ -535,7 +580,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/04/68b960fece3e366423cc2d78/cover.jpg",
@@ -565,7 +610,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "放尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68886574c92318f97d024cb3/cover.jpg",
@@ -604,7 +649,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b5ce298bc99dfddd8ab46/cover.jpg",
@@ -687,7 +732,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250804/20250804101540982982_83648_thumbnail.webp",
@@ -710,6 +755,63 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-033"
   },
   {
+    "id": 2277,
+    "IDcode": "IMO-034",
+    "title": "デリヘル呼んだら妹が来た！結果、お店に内緒で中出し本番セックスする事になる 13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "二次元",
+      "飯店",
+      "苗條",
+      "亂倫",
+      "美少女",
+      "美腳",
+      "癡女",
+      "姐弟・兄妹",
+      "飯店小姐・援交妹",
+      "大奶头",
+      "美乳",
+      "清楚系",
+      "口交",
+      "形象俱樂部",
+      "高顏值",
+      "貧乳",
+      "淫亂",
+      "極品美人",
+      "風俗娘",
+      "中出",
+      "姐姐・妹妹",
+      "美人",
+      "美腿",
+      "後入",
+      "少女",
+      "劇情",
+      "應召・援交",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "拜金女",
+      "無毛",
+      "蘿莉",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "北岡果林",
+      "希咲那奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=IMO-034"
+  },
+  {
     "id": 409557,
     "IDcode": "KIMO-001",
     "title": "老頭子、宅男與肥豬 天川瑠瑠",
@@ -717,7 +819,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcff91ce5a404e9bc48d40/cover.jpg",
@@ -732,7 +834,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcffbace5a404e9bc48d7f/cover.jpg",
@@ -749,12 +851,29 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/04/69091d90e264e6282dfe69b6/poster2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-048"
+  },
+  {
+    "id": 206588,
+    "IDcode": "LOL-089",
+    "title": "爱上老师的幼齿美少女早乙女由依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-089"
   },
   {
     "id": 541843,
@@ -775,6 +894,40 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-091"
   },
   {
+    "id": 578451,
+    "IDcode": "LOL-167",
+    "title": "ロリ専科犯されたらヤリ返すパイパンMっ娘中出し女子●生",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-167"
+  },
+  {
+    "id": 578450,
+    "IDcode": "LOL-168",
+    "title": "ロリ専科いいなり制服美少女ゆい富田优衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-168"
+  },
+  {
     "id": 98904,
     "IDcode": "LOL-171",
     "title": "ロリ専科 清楚美少女～上京してきた姪っ子が見ない間に大人っぽくなっていた～ひとりっ子 あい 星奈あい",
@@ -791,7 +944,7 @@ window.PAGE_DATA = [
       "萝莉塔",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "2018-10-01",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/12lol171/12lol171pl.jpg",
@@ -810,12 +963,29 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231014-1/cfcd0c2bffc17edfae52ea9f26f0bc2f.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-173"
+  },
+  {
+    "id": 541065,
+    "IDcode": "LOL-176",
+    "title": "ロ●専科人懐っこく素直でエッチなお漏らしパイパン义娘と中出し近第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-176"
   },
   {
     "id": 99457,
@@ -835,7 +1005,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "2019-02-01",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/12lol177/12lol177pl.jpg",
@@ -843,6 +1013,32 @@ window.PAGE_DATA = [
       "天馬唯"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-177"
+  },
+  {
+    "id": 98871,
+    "IDcode": "LOL-178",
+    "title": "ロ●専科 娘のワレメ～性欲を我慢できずに射精を続ける父親～しおり 倉木しおり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "校服",
+      "乱伦",
+      "嫩妹",
+      "乳房",
+      "中出",
+      "美少女电影",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "2019-02-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "仓木诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-178"
   },
   {
     "id": 523603,
@@ -854,12 +1050,39 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/d4ef7d8ea1c31bec515f4f3a3a763e3b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-179"
+  },
+  {
+    "id": 103102,
+    "IDcode": "LOL-180",
+    "title": "ロ●専科娘のワレメ～性欲を我慢できずに射精を続ける父親～あいりさとう愛理",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "学校泳装",
+      "自慰",
+      "乱伦",
+      "嫩妹",
+      "中出",
+      "制服",
+      "素人作品",
+      "美少女电影"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "2019-04-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "安部藍"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-180"
   },
   {
     "id": 460460,
@@ -872,12 +1095,43 @@ window.PAGE_DATA = [
       "乱伦",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241130-1/aecbec137cf003fc58f95257a32922b8.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-188"
+  },
+  {
+    "id": 99059,
+    "IDcode": "LOL-189",
+    "title": "ロ●専科 純粋で、無口な、笑顔のかわいい美少女 4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "平胸",
+      "4小时以上作品",
+      "嫩妹",
+      "无毛",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "口交",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "2020-01-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "天馬唯",
+      "愛名光莉",
+      "星奈爱",
+      "仓木诗织"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-189"
   },
   {
     "id": 539942,
@@ -889,7 +1143,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240407/12lol200pl.jpg!320x216.jpg",
@@ -906,7 +1160,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240325/12lol201pl.jpg!320x216.jpg",
@@ -923,7 +1177,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/be486f60450c598216e9a4ae9b470131.jpg",
@@ -940,12 +1194,36 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3c30df34aafda88ddbfda31765047f75.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-211"
+  },
+  {
+    "id": 85206,
+    "IDcode": "LOL-213",
+    "title": "【FANZA限定】ロ●専科 幼性発見！念願のちびっ子パイパンロ●ータ捕獲！かなちゃん143cm 由良かな パンティと生写真付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "校服",
+      "嫩妹",
+      "无毛",
+      "美少女电影",
+      "中出",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "2022-10-05",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-213"
   },
   {
     "id": 549330,
@@ -957,7 +1235,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230706/12lol214pl.jpg!320x216.jpg",
@@ -975,7 +1253,7 @@ window.PAGE_DATA = [
       "乱伦",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/03/6907a73ee264e6282dfccb3a/poster2.jpg",
@@ -992,7 +1270,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/11/69128a9872c0032a43fe75cf/poster2.jpg",
@@ -1009,7 +1287,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/e1hA43sA/1.jpg",
@@ -1026,7 +1304,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906748c71eb543bb0dfa3c3/poster2.jpg",
@@ -1044,7 +1322,7 @@ window.PAGE_DATA = [
       "嫩妹",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240307/xQoHcjp9/1.jpg",
@@ -1092,7 +1370,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e16fde79f1ac4ec48eadb8/cover.jpg",
@@ -1123,7 +1401,7 @@ window.PAGE_DATA = [
       "企畫",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68def8f1ce5a404e9bc70136/cover.jpg",
@@ -1142,7 +1420,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/22/68d05bd0eb67774efbacd4fd/cover.jpg",
@@ -1159,7 +1437,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241004/tCtBhxVw/1.jpg",
@@ -1176,7 +1454,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/667ec2cd06e16be3f9a3e44bbfdacab1.jpg",
@@ -1193,7 +1471,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/d985eecdcfef367e814b5fc779306cbb.jpg",
@@ -1234,7 +1512,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241105/b20e13ef-47f3-482b-aabb-7c3f8e645792.jpg",
@@ -1253,7 +1531,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/31/68b439675fdaf263a25cc894/cover.jpg",
@@ -1270,7 +1548,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/25/68d433b8dbf24d4ed301185b/cover.jpg",
@@ -1313,7 +1591,7 @@ window.PAGE_DATA = [
       "女上位",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787cc5a5d57b64bfd0f75a6/cover.jpg",
@@ -1359,7 +1637,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c91f5d57b64bfd0eea33/cover.jpg",
@@ -1367,6 +1645,31 @@ window.PAGE_DATA = [
       "皆瀨明里"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-240"
+  },
+  {
+    "id": 73038,
+    "IDcode": "LOL-241",
+    "title": "このあと…わたし、門限までセックスした…●学生もも 白石もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "嫩妹",
+      "美少女电影",
+      "中出",
+      "口交",
+      "水手服",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "白石桃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-241"
   },
   {
     "id": 71416,
@@ -1385,7 +1688,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/21/68a718a98cce1a927afee820/cover.jpg",
@@ -1406,7 +1709,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250719-1/ffdb8b16d87429d600867542b90d5ea4.jpg",
@@ -1423,12 +1726,61 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250622-1/505245669a0857ef667071441d921bfb.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-244"
+  },
+  {
+    "id": 173540,
+    "IDcode": "LOL-245",
+    "title": "パイパンの女の子って満月になると「おま●こ」が勝手に濡れるんだってさぁ！？すっぴんカワイ子ちゃんたちのお家に行ってイチャハメ中出し 石原青 花守夏歩 天羽りりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-245"
+  },
+  {
+    "id": 173530,
+    "IDcode": "LOL-246",
+    "title": "あ～神様！これは幻なのか！？それとも現実なのか…妖精のように現れた女の子が可愛くて名前も聞かずに初めて中に出してしまった… 由良かな 望月つぼみ 雅子りな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "嫩妹"
+    ],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LOL-246"
+  },
+  {
+    "id": 549226,
+    "IDcode": "MIX-032",
+    "title": "高瀬りなSPECIALBEST4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIX-032"
   },
   {
     "id": 579631,
@@ -1438,7 +1790,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240411/KLrsSu7e/1.jpg",
@@ -1453,7 +1805,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/03/68defa2879f1ac4ec48a070c/cover.jpg",
@@ -1481,7 +1833,7 @@ window.PAGE_DATA = [
       "单体作品",
       "放尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4b71b5f03a092cf66f428/cover.jpg",
@@ -1496,7 +1848,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20250627-1/19ae913b701a97970b9844ac961decca.jpg",
@@ -1511,12 +1863,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230523-1/df012ea14d470df47b6594c2c1196c91.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-007"
+  },
+  {
+    "id": 567641,
+    "IDcode": "MMIX-008",
+    "title": "夫の知らぬまに オナニーじゃ我慢できず他人チ○ポ挿入 7人4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-008"
   },
   {
     "id": 524290,
@@ -1526,7 +1893,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/f107d9fb70861336095b7371e0f5ebee.jpg",
@@ -1547,7 +1914,7 @@ window.PAGE_DATA = [
       "口交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/d0b6290e9c18468f438a51c3702431bd.jpg",
@@ -1563,6 +1930,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-012"
   },
   {
+    "id": 578867,
+    "IDcode": "MMIX-016",
+    "title": "息子の学费を稼ぐ为にパート先で抵抗できず犯された母 6人4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLAYz",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMIX-016"
+  },
+  {
     "id": 531890,
     "IDcode": "MMIX-018",
     "title": "じゅぽじゅぽキッチンフェラ 口内発 射 吸って榨って 泡立ちザーメンまみれ お口マ○コベチョベチョ",
@@ -1570,7 +1952,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/61c29e52d7a16fd83433323d90b0e602.jpg",
@@ -1585,7 +1967,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/08-05/06/jxffvt0fvl00603jxffvt0fvl03911720.jpg",
@@ -1600,7 +1982,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240602-1/7daacf8d85545d9d50e73e8dc94c5aa2.jpg",
@@ -1615,7 +1997,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240330-1/4df61b9f50448d6d7df86496d7f95512.jpg",
@@ -1633,7 +2015,7 @@ window.PAGE_DATA = [
       "乱伦",
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://la.lashayu.com/upload/vod/20220503-1/3c14af01770ae401869e7d6857638fc6.jpg",
@@ -1648,7 +2030,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240603-1/7ba3320b2b0d6d02b2010ed9040714f4.jpg",
@@ -1663,7 +2045,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240304-1/b72f701e710b4dde0457d0b9b6a4309f.jpg",
@@ -1678,403 +2060,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLAYz",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/16/68c8fd77d6fbef4e90adf1b8/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-143"
-  },
-  {
-    "id": 81949,
-    "IDcode": "SCR-237",
-    "title": "完全個室サロン投稿映像 3～リピート率100％の噂のボディクリニック確信犯的SEXヤレるかどうかはあなた次第～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "苗条",
-      "荡妇",
-      "偷窥",
-      "中出",
-      "手淫",
-      "口交",
-      "投稿",
-      "美容院"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2020-04-01",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200615-1/f5a2008e8fc51fb513972b756fd07a2b.jpg",
-    "actress": [
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-237"
-  },
-  {
-    "id": 544453,
-    "IDcode": "SCR-271",
-    "title": "浴场で欲情し、胜手に混浴する男たち鬼畜风吕レ●プ映像4时间 new",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://pic38.anzise.com/pic/20221117/dbea0fbdd171b6e4d5938ffb2a06003a/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-271"
-  },
-  {
-    "id": 89564,
-    "IDcode": "SCR-297",
-    "title": "少●たちを無差別に狙う 鬼畜中出しレ●プ犯行映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "深喉",
-      "平胸",
-      "魔鬼系",
-      "无毛",
-      "纪录片",
-      "中出",
-      "美少女电影",
-      "投稿",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2022-08-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e38865a974ccb3c84fe80c764de78156.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-297"
-  },
-  {
-    "id": 89566,
-    "IDcode": "SCR-299",
-    "title": "お漏らし・放尿・フェチ映像集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "潮吹",
-      "高中女生",
-      "中出",
-      "美少女电影",
-      "放尿"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2022-09-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/fcabd1d2f7adf59c959225bb6e91cd3f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-299"
-  },
-  {
-    "id": 89904,
-    "IDcode": "SCR-300",
-    "title": "忍び寄る脅威●学生パイパン中出し映像記録～下校中密室痴●輪●・監●受精浴室行為・呼び出し猥褻・野外悪戯拉致性交～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "校服",
-      "深喉",
-      "平胸",
-      "魔鬼系",
-      "无毛",
-      "纪录片",
-      "中出",
-      "美少女电影",
-      "投稿",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2022-09-05",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20240110-1/d3bfd0c13719328ca81f9135ed4fb502.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-300"
-  },
-  {
-    "id": 565523,
-    "IDcode": "SCR-302",
-    "title": "留守番键っ子恫喝押込みレ●プ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5cf9777ea0c0e8649fee17873512619a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-302"
-  },
-  {
-    "id": 549401,
-    "IDcode": "SCR-304",
-    "title": "欲望に囚われた父亲に犯●れる一人娘猥亵近亲相奸映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230717/12scr304pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-304"
-  },
-  {
-    "id": 89927,
-    "IDcode": "SCR-316",
-    "title": "女子●生押し込み中出しレ●プ犯罪映像4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "校服",
-      "深喉",
-      "4小时以上作品",
-      "魔鬼系",
-      "无毛",
-      "中出",
-      "纪录片",
-      "美少女电影",
-      "投稿",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2023-06-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/32064beb52da9635f2a517717bcff30b.jpg",
-    "actress": [
-      "蘭々"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-316"
-  },
-  {
-    "id": 89924,
-    "IDcode": "SCR-317",
-    "title": "女子●生連れ込み強●猥褻中出し犯罪映像4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "深喉",
-      "4小时以上作品",
-      "魔鬼系",
-      "中出",
-      "制服",
-      "纪录片",
-      "美少女电影",
-      "投稿",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2023-07-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/768baa987593f94a9ebb123e31c2603f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-317"
-  },
-  {
-    "id": 89911,
-    "IDcode": "SCR-318",
-    "title": "鬼畜父による愛娘近親相姦わいせつ映像4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "平胸",
-      "4小时以上作品",
-      "魔鬼系",
-      "乱伦",
-      "无毛",
-      "中出",
-      "制服",
-      "美少女电影",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2023-07-05",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690ef16c6b81af1f853f2601/poster2.jpg",
-    "actress": [
-      "沙月惠奈",
-      "工藤拉拉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-318"
-  },
-  {
-    "id": 89702,
-    "IDcode": "SCR-325",
-    "title": "静かにしないと廊下に居るお母さんにバレちゃうよ。女子●生猥褻淫交4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "校服",
-      "4小时以上作品",
-      "魔鬼系",
-      "中出",
-      "美少女电影",
-      "水手服",
-      "投稿",
-      "女生",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2023-12-05",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912623ec2496a27fd06e4b3/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-325"
-  },
-  {
-    "id": 546959,
-    "IDcode": "SCR-327",
-    "title": "手口は业者などを装い家宅侵入し犯行に及ぶ鬼畜レ●プ中出し犯罪映像集4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240104/75JczOMs/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-327"
-  },
-  {
-    "id": 561552,
-    "IDcode": "SCR-328",
-    "title": "ロ●ータ美少女 悪戏猥亵 强制中出し映像4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240315/UZ9fkY9y/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-328"
-  },
-  {
-    "id": 561091,
-    "IDcode": "SCR-329",
-    "title": "室内はもちろん、寝てても、风吕でも、野外でも中出しされ続ける…田舎少●强制わいせつ映像4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240419/Dg92lbcG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-329"
-  },
-  {
-    "id": 579646,
-    "IDcode": "SCR-330",
-    "title": "バレたら出禁J●リフレ嬢无许可中出し盗撮映像",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240503/Ts4BorEJ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-330"
-  },
-  {
-    "id": 94200,
-    "IDcode": "SCR-331",
-    "title": "女子●学生監●悲惨映像4時間～薄暗い部屋で記憶が無くなるまで中出しされた日～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "校服",
-      "深喉",
-      "平胸",
-      "4小时以上作品",
-      "魔鬼系",
-      "无毛",
-      "中出",
-      "美少女电影",
-      "水手服",
-      "投稿",
-      "女生",
-      "放尿"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2024-06-05",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241021-1/b8bd699e17eda19f5524b6b66bd1a39e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-331"
-  },
-  {
-    "id": 94194,
-    "IDcode": "SCR-332",
-    "title": "絶対抵抗しそうにない身長140cm台の小さくてか弱いロ●―タ美少女だけを狙った強●わいせつ中出しレ●プ犯罪映像4時間",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "深喉",
-      "平胸",
-      "4小时以上作品",
-      "魔鬼系",
-      "无毛",
-      "中出",
-      "美少女电影",
-      "投稿",
-      "女生"
-    ],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "2024-07-05",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241022-1/67fb4f2610301841379aa04b57d8113d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-332"
-  },
-  {
-    "id": 544600,
-    "IDcode": "SCR-333",
-    "title": "美少女お漏らし·圣水マニア映像集",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "GLAYz",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241013/L0PGCwC8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SCR-333"
   }
 ];

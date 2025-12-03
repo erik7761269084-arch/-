@@ -9,12 +9,29 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/f7e2ffaeac865a8246baf4da6b1b77bd.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-069"
+  },
+  {
+    "id": 98263,
+    "IDcode": "CHERD-070",
+    "title": "「初めてがおばさんと生じゃいやかしら？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-070"
   },
   {
     "id": 169231,
@@ -26,12 +43,29 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/52d7077d94443b71ccc1492d3cc69935.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-071"
+  },
+  {
+    "id": 567260,
+    "IDcode": "CHERD-072",
+    "title": "初めて童贞くんが人妻熟女と最高の笔下ろし性交宫沢优里第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-072"
   },
   {
     "id": 594705,
@@ -43,12 +77,44 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9545df6fce9c7c68dba59ea11a41b17b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-082"
+  },
+  {
+    "id": 218059,
+    "IDcode": "CHERD-084",
+    "title": "cherd-084 和姨妈在一起-大石紗季",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-084"
+  },
+  {
+    "id": 218286,
+    "IDcode": "CHERD-085",
+    "title": "人妻熟女-篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-085"
   },
   {
     "id": 87362,
@@ -66,7 +132,7 @@ window.PAGE_DATA = [
       "单体作品",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2022-09-01",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/b18xeFMh.jpg",
@@ -76,6 +142,64 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-086"
   },
   {
+    "id": 222522,
+    "IDcode": "CHERD-087",
+    "title": "和你的姨妈在一起-磐井玲子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-087"
+  },
+  {
+    "id": 225204,
+    "IDcode": "CHERD-088",
+    "title": "处男和人妻熟女的破处性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-088"
+  },
+  {
+    "id": 106335,
+    "IDcode": "CHERD-089",
+    "title": "处男和人妻熟女-夏八木彩月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "4K",
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏八木彩月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-089"
+  },
+  {
     "id": 547363,
     "IDcode": "CHERD-090",
     "title": "“初めてがおばさんと生じゃいやかしら？”",
@@ -83,12 +207,60 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231124/kcFuXszY/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-090"
+  },
+  {
+    "id": 106258,
+    "IDcode": "CHERD-091",
+    "title": "第一次就是和阿姨无套-河波怜美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "河波れみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-091"
+  },
+  {
+    "id": 105843,
+    "IDcode": "CHERD-092",
+    "title": "第一次做就是和阿姨无套-相河沙季",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "相河沙季"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-092"
   },
   {
     "id": 104986,
@@ -105,7 +277,7 @@ window.PAGE_DATA = [
       "单体作品",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240521-1/b3c571bfb18911995d5e08127a11c7fc.jpg",
@@ -122,7 +294,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/B5u9kDfQ/1.jpg",
@@ -145,7 +317,7 @@ window.PAGE_DATA = [
       "单体作品",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2024-04-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240530/20240530003130408408.jpg",
@@ -155,6 +327,103 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-095"
   },
   {
+    "id": 96675,
+    "IDcode": "CHERD-096",
+    "title": "第一次就是和阿姨的生插入",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "田所百合"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-096"
+  },
+  {
+    "id": 95123,
+    "IDcode": "CHERD-097",
+    "title": "第一次和阿姨同居可以吗-浜边香奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "浜辺香奈子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-097"
+  },
+  {
+    "id": 75615,
+    "IDcode": "CHERD-098",
+    "title": "第一次就是生插阿姨吗-花柳里葎子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "花柳里葎子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-098"
+  },
+  {
+    "id": 75336,
+    "IDcode": "CHERD-099",
+    "title": "处男和人妻熟女的最上级破处性交-樱井美由纪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桜井美由紀"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=CHERD-099"
+  },
+  {
     "id": 459536,
     "IDcode": "EUUD-030",
     "title": "主动访问观众的家想不想和水野优香做呢～与憧憬的熟女的梦幻内射性う爱～",
@@ -162,7 +431,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250213-1/c339b89eb61b60faafb22937936950fc.jpg",
@@ -177,7 +446,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/ec3f98b184c55937e8f5621a3aa69faa.jpg",
@@ -192,12 +461,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250426-1/23480efaf2df14293d3f289afe0f920e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-034"
+  },
+  {
+    "id": 217980,
+    "IDcode": "EUUD-036",
+    "title": "梦幻般的性爱-姫川礼子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-036"
   },
   {
     "id": 566408,
@@ -207,12 +491,82 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3cf3e0ec42fbf1ef38fb333dab09efd1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-037"
+  },
+  {
+    "id": 106533,
+    "IDcode": "EUUD-039",
+    "title": "那边的小哥哥要和熟女做做看吗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "猎艳",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-039"
+  },
+  {
+    "id": 106531,
+    "IDcode": "EUUD-040",
+    "title": "妖艳人妻-松冈三奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "4K",
+      "已婚妇女",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "松岡三奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-040"
+  },
+  {
+    "id": 106532,
+    "IDcode": "EUUD-041",
+    "title": "甜美微笑榨精中出SEX-白木优子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "感谢祭",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "白木優子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-041"
   },
   {
     "id": 18535,
@@ -226,7 +580,7 @@ window.PAGE_DATA = [
       "人妻",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230928/73ec7ea4-0de6-447c-bf74-17fb5a9feb1a.jpg",
@@ -234,6 +588,28 @@ window.PAGE_DATA = [
       "白木優子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-042"
+  },
+  {
+    "id": 106544,
+    "IDcode": "EUUD-043",
+    "title": "这位小哥想要跟熟女打炮吗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-043"
   },
   {
     "id": 91245,
@@ -249,7 +625,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240418-1/9274d033294a0c5e742136fa721e6d4d.jpg",
@@ -273,7 +649,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240418-1/6d004bb4c2ca968c5253a5d665a3cde7.jpg",
@@ -290,7 +666,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240106/4XTEHBzq/1.jpg",
@@ -307,7 +683,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240224/MHAw8kLj/1.jpg",
@@ -324,12 +700,59 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240224/ix5BQd8W/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-048"
+  },
+  {
+    "id": 101468,
+    "IDcode": "EUUD-049",
+    "title": "外遇成瘾的妻子-織本せりの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "織本せりの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-049"
+  },
+  {
+    "id": 104888,
+    "IDcode": "EUUD-050",
+    "title": "沉溺出轨的妻子-浜边香奈子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "浜辺香奈子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-050"
   },
   {
     "id": 545490,
@@ -341,12 +764,72 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240518/dF3TEjS0/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-051"
+  },
+  {
+    "id": 205181,
+    "IDcode": "EUUD-052",
+    "title": "作弊成瘾的妻子-藤咲紫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-052"
+  },
+  {
+    "id": 96666,
+    "IDcode": "EUUD-053",
+    "title": "浮気中毒的妻子的體內射精性兼職工作",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "加藤妃乃"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-053"
+  },
+  {
+    "id": 96611,
+    "IDcode": "EUUD-054",
+    "title": "迷人的已婚妇女-工藤りおな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "工藤りおな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-054"
   },
   {
     "id": 13033,
@@ -376,7 +859,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2024-08-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240801/fdf6d12c-620c-417e-8783-244e811f7742.jpg",
@@ -386,6 +869,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-055"
   },
   {
+    "id": 95165,
+    "IDcode": "EUUD-056",
+    "title": "作弊成瘾的妻子-赤濑直子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-056"
+  },
+  {
     "id": 401727,
     "IDcode": "EUUD-057",
     "title": "敏感的成熟身体抽搐性高潮！呢大规模尿失禁 相河沙季",
@@ -393,7 +891,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251009-1/f36f8aa55d19db1fa60d9e08afa8dacf.jpg",
@@ -415,7 +913,7 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241226/67609280-8ee7-4a0a-8f27-fca75792190a.jpg",
@@ -432,12 +930,60 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250310-1/e59bf1e6d9804fbac2c48d9f293f1141.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-059"
+  },
+  {
+    "id": 67079,
+    "IDcode": "EUUD-060",
+    "title": "人妻24小時不倫中出約會-三枝木玲實",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "纪录片",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "三枝木玲実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-060"
+  },
+  {
+    "id": 67084,
+    "IDcode": "EUUD-061",
+    "title": "三代垂乳熟女與巨乳後宮中出性愛",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "成熟的女人",
+      "滥交",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "夏川步美",
+      "相河沙季",
+      "しみけん"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-061"
   },
   {
     "id": 6805,
@@ -482,7 +1028,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d2047ee4a73d4f159b6066/cover.jpg",
@@ -521,7 +1067,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/2025042402421433_thumbnail.webp",
@@ -529,6 +1075,23 @@ window.PAGE_DATA = [
       "真田まゆみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-063"
+  },
+  {
+    "id": 449838,
+    "IDcode": "EUUD-064",
+    "title": "【三枝木玲実初レズ解禁】川上ゆうがディープに手ほどきする五十路美人妻初レズ快楽沼堕ちドキュメント",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-064"
   },
   {
     "id": 63963,
@@ -545,7 +1108,7 @@ window.PAGE_DATA = [
       "单体作品",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/07/14/0aef62c4/vod.jpg",
@@ -568,7 +1131,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/07/14/9be4bc95/vod.jpg",
@@ -590,7 +1153,7 @@ window.PAGE_DATA = [
       "单体作品",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1aed7735bb663f762e5ba/cover.jpg",
@@ -630,7 +1193,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2025-06-12",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250611/20250611225638870870_thumbnail.webp",
@@ -696,7 +1259,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250716/20250716214148455455_61709_thumbnail.webp",
@@ -754,7 +1317,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68891c3898bc99dfddbf1c78/cover.jpg",
@@ -762,6 +1325,21 @@ window.PAGE_DATA = [
       "川上優"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-071"
+  },
+  {
+    "id": 60914,
+    "IDcode": "EUUD-072",
+    "title": "実録検証！はたしてAV撮影中に恋愛感情は芽生えるのか！？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-072"
   },
   {
     "id": 2472,
@@ -809,7 +1387,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2025-09-24",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250924/20250924212729981981_59244_thumbnail.webp",
@@ -826,12 +1404,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/14/4fc55401/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-075"
+  },
+  {
+    "id": 174768,
+    "IDcode": "EUUD-076",
+    "title": "敏感熟ボディ痙攣絶頂！！大量失禁＆放尿＆イキ潮＆ハメ潮オルガズム超セックス 沢口紫乃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=EUUD-076"
+  },
+  {
+    "id": 567642,
+    "IDcode": "FERA-100",
+    "title": "母に媚薬を饮ませたら… クラスの友达から手に入れた噂の薬をすっかり艶っ気がなくなった母さんに饮ませてみたらその気になって仆に袭いかかってきた 牧村彩香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-100"
   },
   {
     "id": 76894,
@@ -847,7 +1455,7 @@ window.PAGE_DATA = [
       "中出",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241122-1/a07d1410043b60b24dc9d2335df2432f.jpg",
@@ -866,7 +1474,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-9/ada7abf32b671facbf0e432815a0ce61.jpg",
@@ -888,7 +1496,7 @@ window.PAGE_DATA = [
       "素人作品",
       "母亲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2019-06-06",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221116-1/020c3d192341a57b2c831ed69551bfb4.jpg",
@@ -907,7 +1515,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191114-1/7494fd57194f8313592e3a3416a75834.jpg",
@@ -922,12 +1530,71 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/4995efde61a03067e856e272e5384d51.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-112"
+  },
+  {
+    "id": 164642,
+    "IDcode": "FERA-113",
+    "title": "母に媚薬を飲ませたら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-113"
+  },
+  {
+    "id": 76180,
+    "IDcode": "FERA-114",
+    "title": "母に媚薬を飲ませたら…クラスの友達から手に",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中文字幕",
+      "中出",
+      "成熟的女人",
+      "素人作品",
+      "母亲"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水野優香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-114"
+  },
+  {
+    "id": 164640,
+    "IDcode": "FERA-116",
+    "title": "「あなた…許して」私、夫がお風呂に入っている15分の間、いつも息子に抱かれています里崎愛佳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-116"
   },
   {
     "id": 547838,
@@ -939,12 +1606,29 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200822-1/51ef42981ec13d33fb25f74ae2918388.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-118"
+  },
+  {
+    "id": 559862,
+    "IDcode": "FERA-119",
+    "title": "与我的母亲几乎乱伦让我插入到尖端AikaSatozaki-里崎爱佳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-119"
   },
   {
     "id": 209534,
@@ -954,7 +1638,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/07/07/9af9dfcf820be8a8fbc3174f61b4337c.jpg",
@@ -974,7 +1658,7 @@ window.PAGE_DATA = [
       "乱伦",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2021-08-26",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/3j7AGCrn.jpg",
@@ -996,7 +1680,7 @@ window.PAGE_DATA = [
       "4K",
       "已婚妇女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "2021-09-30",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230109-1/1849d1b3f3e57d84338da7af5721f127.jpg",
@@ -1015,12 +1699,34 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2022/01/02/a7abd78cbdb4e3d1a4a24fad9f0c601d.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-131"
+  },
+  {
+    "id": 84402,
+    "IDcode": "FERA-134",
+    "title": "儿子不断地射精-三ツ瀬祐美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-134"
   },
   {
     "id": 594688,
@@ -1032,12 +1738,36 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/AeBRYGMK.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-137"
+  },
+  {
+    "id": 103452,
+    "IDcode": "FERA-138",
+    "title": "母亲在被插入阴道深处后硬了起来",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小早川怜子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-138"
   },
   {
     "id": 594673,
@@ -1049,12 +1779,114 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/BMKtrvn0.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-139"
+  },
+  {
+    "id": 84387,
+    "IDcode": "FERA-140",
+    "title": "儿子不断射精-杉岡恵美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-140"
+  },
+  {
+    "id": 84407,
+    "IDcode": "FERA-141",
+    "title": "成人的性魅力-大石紗季",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-141"
+  },
+  {
+    "id": 84408,
+    "IDcode": "FERA-142",
+    "title": "挤压式性交-三ツ瀬祐美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-142"
+  },
+  {
+    "id": 218105,
+    "IDcode": "FERA-143",
+    "title": "汗水浸渍性交-赤井美希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-143"
+  },
+  {
+    "id": 84409,
+    "IDcode": "FERA-144",
+    "title": "内衣被儿子的朋友看到-野村みゆ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宫藤レイコ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-144"
   },
   {
     "id": 66937,
@@ -1072,12 +1904,27 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/10/686f9d5643d697271603e1f9/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-146"
+  },
+  {
+    "id": 219922,
+    "IDcode": "FERA-147",
+    "title": "她可以只做爱一次-谷さくら",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-147"
   },
   {
     "id": 594627,
@@ -1089,12 +1936,33 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/ylWH4C2e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-148"
+  },
+  {
+    "id": 106645,
+    "IDcode": "FERA-149",
+    "title": "汗水浸渍性交-堀美也子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-149"
   },
   {
     "id": 531449,
@@ -1104,7 +1972,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250601/JLJ4ywdd/1.jpg",
@@ -1126,7 +1994,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/2414a67740a5fae45390a6f2dee0b73e.jpg",
@@ -1134,6 +2002,28 @@ window.PAGE_DATA = [
       "檜山百合香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-151"
+  },
+  {
+    "id": 102323,
+    "IDcode": "FERA-152",
+    "title": "美丽的母亲-三ツ瀬祐美子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "已婚妇女",
+      "乱伦",
+      "中出",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-152"
   },
   {
     "id": 91232,
@@ -1150,7 +2040,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250402/Zd4QaUNn/1.jpg",
@@ -1172,7 +2062,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/06/686a25fc43d6972716c485df/cover.jpg",
@@ -1189,7 +2079,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/50ab4c039b63c8b445c68d27455374f9.jpg",
@@ -1206,12 +2096,29 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf0b80958ac04f27fb8f72/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-156"
+  },
+  {
+    "id": 221908,
+    "IDcode": "FERA-157",
+    "title": "我就会在她母亲体内射精-大石紗季",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "熟女人妻最強廠",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-157"
   },
   {
     "id": 541579,
@@ -1224,7 +2131,7 @@ window.PAGE_DATA = [
       "乱伦",
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230629/h_086fera158pl.jpg!320x216.jpg",
@@ -1241,966 +2148,11 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女人妻最強廠",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230702/h_086fera159pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-159"
-  },
-  {
-    "id": 541566,
-    "IDcode": "FERA-160",
-    "title": "[] 美しい母と感汁ベロキス爆汗孕ませ性交 川畑千代子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230704/h_086fera160pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-160"
-  },
-  {
-    "id": 541588,
-    "IDcode": "FERA-162",
-    "title": "[] 生意気で大嫌いな息子に犯●れ続けて屈辱支配された母亲 川上ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "高清画质"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230714/h_086fera162pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-162"
-  },
-  {
-    "id": 167316,
-    "IDcode": "FERA-166",
-    "title": "家庭訪問-川畑千代子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230709/h_086fera166pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-166"
-  },
-  {
-    "id": 541666,
-    "IDcode": "FERA-168",
-    "title": "[] 生意気で大嫌いな息子に犯●れ続けて屈辱支配された母亲 大石纱季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "高清画质"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230909/h_086fera168pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-168"
-  },
-  {
-    "id": 541725,
-    "IDcode": "FERA-170",
-    "title": "[] 美しい母と感汁ベロキス爆汗孕ませ性交 田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高清画质"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231008/h_086fera170pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-170"
-  },
-  {
-    "id": 516848,
-    "IDcode": "FERA-172",
-    "title": "被高傲討厭繼子持續OO屈辱支配的",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/12/691401ed312f492881571dd0/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-172"
-  },
-  {
-    "id": 168396,
-    "IDcode": "FERA-173",
-    "title": "喜欢像妈妈这样的大婶吗-小早川怜子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b10d143d69727162a56b3/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-173"
-  },
-  {
-    "id": 91229,
-    "IDcode": "FERA-174",
-    "title": "用熟女美色攻陷狂妄少年-白木优子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "4K",
-      "已婚妇女",
-      "恋物癖",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240418-1/40f3f339435728aee91c8f5c034feac1.jpg",
-    "actress": [
-      "白木優子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-174"
-  },
-  {
-    "id": 107138,
-    "IDcode": "FERA-175",
-    "title": "对来家访的班主任发情的母亲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/01/68633a9143d697271683e98b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-175"
-  },
-  {
-    "id": 107137,
-    "IDcode": "FERA-176",
-    "title": "成为我SEX练习台的母亲-永夜爱华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/683585d0d6dba345751168db/cover.jpg",
-    "actress": [
-      "永野愛華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-176"
-  },
-  {
-    "id": 91239,
-    "IDcode": "FERA-178",
-    "title": "喜欢像妈妈这个年纪的阿姨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230831/TCtBBQos/1.jpg",
-    "actress": [
-      "折原ゆかり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-178"
-  },
-  {
-    "id": 208096,
-    "IDcode": "FERA-179",
-    "title": "少年堕入成年人的色气-翔田千里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836b26fa0b87615b2d3816a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-179"
-  },
-  {
-    "id": 106529,
-    "IDcode": "FERA-182",
-    "title": "成为性爱练习台的人母-立冈杏菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b0f2143d69727162a0023/cover.jpg",
-    "actress": [
-      "立岡杏菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-182"
-  },
-  {
-    "id": 91241,
-    "IDcode": "FERA-183",
-    "title": "成人的性感而傾倒-夏八木彩月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "恋物癖",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240418-1/aa7ab2a90f9805e74debd582294e2f30.jpg",
-    "actress": [
-      "夏八木彩月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-183"
-  },
-  {
-    "id": 14915,
-    "IDcode": "FERA-185",
-    "title": "你喜欢像妈妈这样的阿姨吗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "打手槍",
-      "巨尻",
-      "母親",
-      "苗條",
-      "亂倫",
-      "美腳",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "深喉",
-      "母子",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "後入",
-      "企畫",
-      "美臀",
-      "顏射",
-      "絕頂高潮",
-      "舔陰",
-      "手指插入",
-      "自慰",
-      "乱伦",
-      "乳交",
-      "無毛",
-      "69",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240509/20240509014835736736.jpg",
-    "actress": [
-      "菅日菜子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-185"
-  },
-  {
-    "id": 104260,
-    "IDcode": "FERA-186",
-    "title": "被当成性爱练习台的人母-浜辺香奈子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b0ee443d69727162a0000/cover.jpg",
-    "actress": [
-      "浜辺香奈子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-186"
-  },
-  {
-    "id": 96737,
-    "IDcode": "FERA-187",
-    "title": "成為性愛練習台的母親-相河沙季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/30/68daee73d6fbef4e90d2028b/cover.jpg",
-    "actress": [
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-187"
-  },
-  {
-    "id": 454144,
-    "IDcode": "FERA-188",
-    "title": "「你喜歡像你媽媽那樣的阿姨嗎？相川咲發現媽媽在看成熟女人的 AV 後,就中了她的精液。」",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce1e6279f1ac4ec46515b0/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-188"
-  },
-  {
-    "id": 95777,
-    "IDcode": "FERA-189",
-    "title": "被侮辱挿入的母親-相河沙季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7e92579f1ac4ec45aeee7/cover.jpg",
-    "actress": [
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-189"
-  },
-  {
-    "id": 95432,
-    "IDcode": "FERA-191",
-    "title": "セックスの練習台になってくれた母 母親とのセックスが良すぎるせいで彼女と別れた僕は夢中で何度も中出ししまくった 寺島志保",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/06/68bc24b05f13d063bcd29678/cover.jpg",
-    "actress": [
-      "寺島志保"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-191"
-  },
-  {
-    "id": 72615,
-    "IDcode": "FERA-192",
-    "title": "儿子偷偷插入假装睡著开始充满爱激烈性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68ab76c35f03a092cf71f3b9/cover.jpg",
-    "actress": [
-      "平冈里枝子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-192"
-  },
-  {
-    "id": 68451,
-    "IDcode": "FERA-193",
-    "title": "成為練習台的母親-堀口小百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a035762cca7792b25baca6/cover.jpg",
-    "actress": [
-      "堀口小百合"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-193"
-  },
-  {
-    "id": 70109,
-    "IDcode": "FERA-194",
-    "title": "在約會APP上意外的雙重預約-吹石れな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "中出",
-      "成熟的女人",
-      "已婚妇女"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/15/68c7ad4e79f1ac4ec45a67ac/cover.jpg",
-    "actress": [
-      "吹石玲奈",
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-194"
-  },
-  {
-    "id": 69588,
-    "IDcode": "FERA-195",
-    "title": "FERA-195 セックスの練習台になってくれた母 母親とのセックスが良すぎるせいで彼女と別れた僕は夢中で何度も中出ししまくった 久保田早苗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/10/6897e7e96ccb447f8c5ec338/cover.jpg",
-    "actress": [
-      "久保田早苗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-195"
-  },
-  {
-    "id": 195992,
-    "IDcode": "FERA-196",
-    "title": "夏の終わりの深夜0時自慰行為の後に無防備な姿で眠る母親に息子がこっそり挿入する寝たふりから始まる愛情たっぷり激イキ性交 田所百合",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e6b3b98bc99dfdd032b2b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-196"
-  },
-  {
-    "id": 63851,
-    "IDcode": "FERA-197",
-    "title": "成為性愛練習台的媽媽-若菜玲香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/06/68932939c92318f97d880dc5/cover.jpg",
-    "actress": [
-      "若菜れいか"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-197"
-  },
-  {
-    "id": 62530,
-    "IDcode": "FERA-200",
-    "title": "當了性愛練習台的母親-真田真弓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "已婚妇女",
-      "乱伦",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688b3f8d98bc99dfddd613ed/cover.jpg",
-    "actress": [
-      "ロダン富士",
-      "真田まゆみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-200"
-  },
-  {
-    "id": 156654,
-    "IDcode": "FERA-28",
-    "title": "淋しんぼ母さん過剰な愛情欲情セックス",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/a7347efbd802ab179eb9f57b6e305671.jpg",
-    "actress": [
-      "都盛星空"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-28"
-  },
-  {
-    "id": 590216,
-    "IDcode": "FERA-91",
-    "title": "[]慢速抽插爽翻妈 谷原希美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20220512-1/b92de147d76e8210b916a9b4281fb993.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FERA-91"
-  },
-  {
-    "id": 71474,
-    "IDcode": "FUGA-037",
-    "title": "夫婦ゲンカで家出してきた隣の奥さん～背徳感のある壁一枚向こう側の浮気セックス～ 三浦恵理子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "戏剧",
-      "白天出轨",
-      "中出",
-      "成熟的女人"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/54c0f4a247dce9030d654db59800fb72.jpg",
-    "actress": [
-      "三浦恵理子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-037"
-  },
-  {
-    "id": 531749,
-    "IDcode": "FUGA-043",
-    "title": "母さんの友人と忘れじの浓密性交 成宫咲子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240228-1/87acf8a1055b9508e5ccb3359a396be5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-043"
-  },
-  {
-    "id": 220531,
-    "IDcode": "FUGA-050",
-    "title": "三天三夜与无礼的妻子干柴烈火-赤井美希",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b0a2743d69727162985b6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-050"
-  },
-  {
-    "id": 594613,
-    "IDcode": "FUGA-052",
-    "title": "妻子的好友～揉、埋、插不停爽爽肉体的发情天菜性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/157796feb57321c18b2d1122d92a9662.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-052"
-  },
-  {
-    "id": 97113,
-    "IDcode": "FUGA-054",
-    "title": "妻の親友～気持ち良い恵体を揉んで埋もれてハメまくった欲情ドストライク性交～ 織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4K",
-      "白天出轨",
-      "中出",
-      "成熟的女人",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "2022-09-01",
-    "cover_url": "https://tuaskbgnekr.com/20230202/OWXrYr9G/1.jpg",
-    "actress": [
-      "織田真子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-054"
-  },
-  {
-    "id": 566344,
-    "IDcode": "FUGA-055",
-    "title": "家庭内炎上した近所の奥さん～浮気がバレて家を追い出された不埒妻との精子尽きるまで寝かせてくれない三日三晩骨抜きセックス～ 折原ゆかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d293b22d610f921e92ed63ce33e422c6.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-055"
-  },
-  {
-    "id": 6637,
-    "IDcode": "FUGA-060",
-    "title": "隔壁的女士来借我的鸡巴-相河沙季",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "鄰居",
-      "流汗",
-      "4K",
-      "肉絲",
-      "勾引・誘惑",
-      "自宅",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "人妻",
-      "美人妻",
-      "淫亂",
-      "內衣",
-      "中出",
-      "蕩婦",
-      "美人",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "乳交",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250424/20250424061151243243_thumbnail.webp",
-    "actress": [
-      "相河沙季"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-060"
-  },
-  {
-    "id": 5954,
-    "IDcode": "FUGA-061",
-    "title": "有困难的时候邻居互相推挤-佐久間楓",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "巨尻",
-      "口爆",
-      "慾求不滿",
-      "豐滿",
-      "鄰居",
-      "4K",
-      "肉絲",
-      "美腳",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "單體作品",
-      "NTR",
-      "野性",
-      "淫亂",
-      "出軌",
-      "四十路",
-      "中出",
-      "蕩婦",
-      "美人",
-      "後入",
-      "劇情",
-      "不倫",
-      "舔陰",
-      "手指插入",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250522/20250522014403957957_thumbnail.webp",
-    "actress": [
-      "佐久間楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-061"
-  },
-  {
-    "id": 175188,
-    "IDcode": "FUGA-062",
-    "title": "～困ったときのご近所突きあい～となりに住むおばさんがボクのチ●ポを借りにくる 三枝木玲実",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/10/29/32079df5c67e8c7f9213a7fd11391c56.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-062"
-  },
-  {
-    "id": 523659,
-    "IDcode": "FUGA-31",
-    "title": "夫妇ゲンカで家出してきた邻の奥さん～背徳感のある壁一枚向こう侧の浮気セックス～ 海藤みずほ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20190520-1/e800fc8ae0ab82c80e4cb1aeea1db24c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-31"
-  },
-  {
-    "id": 461972,
-    "IDcode": "FUGA-38",
-    "title": "同窓会で久しぶりに元彼と再会した私は、夫が出張でいないこの3日間…彼に中出しされて何度もイキました。水野優香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/fef311adb0bcd80eb6ab88bb43449535.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-38"
-  },
-  {
-    "id": 70125,
-    "IDcode": "FUGA-53",
-    "title": "家庭内炎上した近所の奥さん～浮気がバレて家を追い出された不埒妻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250413/81QJAIQV/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-53"
-  },
-  {
-    "id": 70126,
-    "IDcode": "FUGA-54",
-    "title": "引人注目的性交-織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250413/MfDxdiGT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-54"
-  },
-  {
-    "id": 450797,
-    "IDcode": "FUGA-56",
-    "title": "妻子的朋友 赤城穂波 FUGA-056-C",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250413/Zc7bAWbK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-56"
-  },
-  {
-    "id": 166968,
-    "IDcode": "FUGA-57",
-    "title": "家庭内炎上した近所の奥さん～浮気がバレて家を追い出された不埒妻との精子尽きるまで寝",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20230517/h_086fuga57pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FUGA-57"
-  },
-  {
-    "id": 167317,
-    "IDcode": "GOUL-001",
-    "title": "神妻降臨",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "熟女人妻最強廠",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-5/3361a2328d2cf6457eff4b2615e24d0f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GOUL-001"
   }
 ];

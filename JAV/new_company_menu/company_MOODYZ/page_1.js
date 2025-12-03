@@ -10,7 +10,7 @@ window.PAGE_DATA = [
       "出道作",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/99512_cover_2025-10-01_022813.jpg",
@@ -25,7 +25,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240404-1/41f63f66ab85709d929c71d98ce9d11f.jpg",
@@ -43,7 +43,7 @@ window.PAGE_DATA = [
       "乱伦",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/09/67801c56c179ffb1db6215d6/cover.jpg",
@@ -65,7 +65,7 @@ window.PAGE_DATA = [
       "女教师",
       "轮奸"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240404-1/ff8467a9430caf1933b78a3ea55e023a.jpg",
@@ -89,7 +89,7 @@ window.PAGE_DATA = [
       "口交",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240413-1/c478ed545d34ecf607d0569a2377878f.jpg",
@@ -113,7 +113,7 @@ window.PAGE_DATA = [
       "巨乳",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c4bb5adcd32f6652213db13d27cbeae7.jpg",
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
       "巨大屁股",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/02/545fc25fc8ae923c5c31ce9b62781fe1.jpg",
@@ -155,7 +155,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/8dbdb412331c1866d22b5e5d3d3ed650.jpg",
@@ -170,7 +170,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67801ab2c179ffb1db61a38c/cover.jpg",
@@ -191,7 +191,7 @@ window.PAGE_DATA = [
       "礼仪小姐",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/14a97ea51ac190d52226693ad830d892.jpg",
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
       "女上位",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7c475d86a40676eb489bce063e843280.jpg",
@@ -234,7 +234,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ab049c7d0b5b33ce32fccbced1ba6755.jpg",
@@ -249,7 +249,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6b3eb1044521499e1d41dac116837082.jpg",
@@ -264,7 +264,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/bae1eb0fa362b8ef3867c0b7d4fea349.jpg",
@@ -279,7 +279,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/29/115e4325464c1ad08d801b521c6eb193.jpg",
@@ -300,7 +300,7 @@ window.PAGE_DATA = [
       "口交",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ddaf2ae0a3bd1b763cb19bd6545cf72f.jpg",
@@ -324,7 +324,7 @@ window.PAGE_DATA = [
       "女生",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1306e15c08d63a9901e49/cover.jpg",
@@ -343,7 +343,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-8/510cdd0a35b8e5c2b2aa3c22eded65d5.jpg",
@@ -365,7 +365,7 @@ window.PAGE_DATA = [
       "口交",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20241002-1/963a5e2335f2def6942ae7d33163e065.jpg",
@@ -384,7 +384,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/582fb6f68fedbdf31174ffaf6e615188.jpg",
@@ -399,7 +399,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/67864c9530833b4bf5993995/cover.jpg",
@@ -414,7 +414,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/TSex4076.jpg",
@@ -435,7 +435,7 @@ window.PAGE_DATA = [
       "口交",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/93025e0da9f7cf70ad735b81d0bf978c.jpg",
@@ -452,12 +452,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240413-1/e861a12992cb00e7cad1426cc0cc6323.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-025"
+  },
+  {
+    "id": 595374,
+    "IDcode": "MIAA-026",
+    "title": "裸よりも、耻ずかしすぎるハミ出し水着で水着コンテストに出场させられ视奸レ×プ 黒崎みか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MOODYZ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-026"
+  },
+  {
+    "id": 206955,
+    "IDcode": "MIAA-027",
+    "title": "高级技师君岛美绪完全勃起的沙龙按摩",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MOODYZ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-027"
   },
   {
     "id": 78097,
@@ -472,7 +502,7 @@ window.PAGE_DATA = [
       "魔鬼系",
       "监禁"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20241002-1/5dbe74d83b92a4392b6640346682922b.jpg",
@@ -480,6 +510,29 @@ window.PAGE_DATA = [
       "黑川堇"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-028"
+  },
+  {
+    "id": 78099,
+    "IDcode": "MIAA-029",
+    "title": "变态老爸强奸青春期的女儿有坂深雪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "乱伦",
+      "放尿",
+      "美少女电影",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MOODYZ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "有坂深雪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-029"
   },
   {
     "id": 78104,
@@ -494,7 +547,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/c1097648e32665fa5e250030fa767b25.jpg",
@@ -511,7 +564,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/11/68ea43041572686be784de5f/cover.jpg",
@@ -533,7 +586,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/490a7f15099a64385b14e67670f31c9b.jpg",
@@ -557,7 +610,7 @@ window.PAGE_DATA = [
       "荡妇",
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240406-1/4f9c78c38eb1854f248822a5647a7819.jpg",
@@ -580,7 +633,7 @@ window.PAGE_DATA = [
       "口交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c46cbe29832dd29a3dd4993d6214bd24.jpg",
@@ -598,7 +651,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/cdfc9ff8efa87ec5066c7086a1e9365a.jpg",
@@ -613,7 +666,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2019/07/26/QQ2019072613375725169.jpg",
@@ -628,7 +681,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f92d031eb0592de4fdbdc/cover.jpg",
@@ -643,7 +696,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/04/a26a0a0352253debf9fff8ff64bae25b.jpg",
@@ -666,7 +719,7 @@ window.PAGE_DATA = [
       "学校作品",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677d5aa489def9b1b8bec2b4/cover.jpg",
@@ -685,7 +738,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210727-1/4c4664bf046406d38ba3cdd2e79e1572.jpg",
@@ -706,7 +759,7 @@ window.PAGE_DATA = [
       "巨乳",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f46a127aa4d9623b3f198028c9a7a59d.jpg",
@@ -730,7 +783,7 @@ window.PAGE_DATA = [
       "乱交",
       "轮奸"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2024/04/16/fd6d3d762a365e0b0d5f7622d67e44d4.jpg",
@@ -754,7 +807,7 @@ window.PAGE_DATA = [
       "巨乳",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/96aadf6df9ab2a25ce66bf8804440437.jpg",
@@ -772,7 +825,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/30/50710_cover_2025-06-30_150051.jpg",
@@ -787,7 +840,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/12/23/9e26de03b9dd59a00d17e78bea72f8b6.jpg",
@@ -802,7 +855,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/a7d0b12e24958fa8cc756bcc70e918f7.jpg",
@@ -823,7 +876,7 @@ window.PAGE_DATA = [
       "淫语",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240424-1/557e1569a78fd92eb5efb199c83a85fc.jpg",
@@ -833,6 +886,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-049"
   },
   {
+    "id": 565909,
+    "IDcode": "MIAA-051",
+    "title": "断头台中出肉便器～彻底轮奸弹动不得的美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MOODYZ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-051"
+  },
+  {
     "id": 206639,
     "IDcode": "MIAA-052",
     "title": "筱田优挑逗乳头骑乘位连续中出回春性交",
@@ -840,7 +908,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240424-1/b0dd83619704c11f171ee245e619e8d1.jpg",
@@ -861,7 +929,7 @@ window.PAGE_DATA = [
       "巨乳",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240505-1/afb063c62db9894543b8e258ca814f7f.jpg",
@@ -879,7 +947,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240424-1/c4e8ff984ace418bac9b5166bf74aadb.jpg",
@@ -899,7 +967,7 @@ window.PAGE_DATA = [
       "巨乳",
       "戏剧"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67802cb4f9a2e9b1d474d27e/cover.jpg",
@@ -923,7 +991,7 @@ window.PAGE_DATA = [
       "轮奸",
       "二穴同时挿入"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f5a69f9a2e9b1d46bfe46/cover.jpg",
@@ -946,7 +1014,7 @@ window.PAGE_DATA = [
       "乱伦",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c388774d7cd69c56069c2c1e25f7e108.jpg",
@@ -970,7 +1038,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a987b930a56eec4cf847ea3d38f288f7.jpg",
@@ -994,7 +1062,7 @@ window.PAGE_DATA = [
       "学校作品",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5b6343b419b87e9f93f9b60b9f229010.jpg",
@@ -1019,7 +1087,7 @@ window.PAGE_DATA = [
       "滥交",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/4b47b2e5786f6368e0c90b851ad260e7.jpg",
@@ -1042,7 +1110,7 @@ window.PAGE_DATA = [
       "巨乳",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/05a0a9d52626feb6ebc720b8906bd243.jpg",
@@ -1059,12 +1127,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/16ed266f757a101e8c604d75f4e1f0e3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-062"
+  },
+  {
+    "id": 534248,
+    "IDcode": "MIAA-063",
+    "title": "超高级中出し専门ソープ 松本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MOODYZ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-063"
   },
   {
     "id": 78184,
@@ -1079,7 +1162,7 @@ window.PAGE_DATA = [
       "滥交",
       "白天出轨"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/926283301460005b529c63b2955acc7e.jpg",
@@ -1097,7 +1180,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250819/BjxPpGnP/1.jpg",
@@ -1119,7 +1202,7 @@ window.PAGE_DATA = [
       "乳房",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/a312c98d069511ff7b452e3b47805796.jpg",
@@ -1142,7 +1225,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20241002-1/177a77fb3983a3c26f81cad61d016716.jpg",
@@ -1159,7 +1242,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/2021/05/ghoqjp5bg2p.jpg",
@@ -1180,7 +1263,7 @@ window.PAGE_DATA = [
       "女生",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "2019-05-13",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/84f0b75eaea517e69d2000d4062c3b71.jpg",
@@ -1197,7 +1280,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4784f74830b1c4d6d87e9aff566e9e2f.jpg",
@@ -1214,7 +1297,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cacb54e1aa3591a97b35bb5a3c807dca.jpg",
@@ -1235,7 +1318,7 @@ window.PAGE_DATA = [
       "巨乳",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6786751c30833b4bf5c1f90f/cover.jpg",
@@ -1258,7 +1341,7 @@ window.PAGE_DATA = [
       "女上位",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/65002dfef888571975ae1c2cf7efe146.jpg",
@@ -1281,7 +1364,7 @@ window.PAGE_DATA = [
       "口交",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241127-1/3a7c1a1463500b1f39d1d0362967b4ff.jpg",
@@ -1304,7 +1387,7 @@ window.PAGE_DATA = [
       "巨乳",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8cdfd3967c04e69af6d0062748c475e7.jpg",
@@ -1327,7 +1410,7 @@ window.PAGE_DATA = [
       "巨乳",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/734777b10072a5a1b18e4a635c66f190.jpg",
@@ -1350,7 +1433,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5c6a774f6bdfb9c566d3911fc17f4a76.jpg",
@@ -1373,7 +1456,7 @@ window.PAGE_DATA = [
       "拘束",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6ce8447095a4e824ee50470f6de7f63f.jpg",
@@ -1396,7 +1479,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "戏剧"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0cc0f3f1a29a0e977bb36851f00f3c30.jpg",
@@ -1419,7 +1502,7 @@ window.PAGE_DATA = [
       "乳房",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/abc1148ef63c268be7b257c747bcd3ae.jpg",
@@ -1442,7 +1525,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女教师"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "2024-11-22",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bb1d77c4e8d92084a87774195debe5e0.jpg",
@@ -1459,7 +1542,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/eMGqXagV.jpg",
@@ -1474,7 +1557,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899428e55337d7f7bcfa2b4/cover.jpg",
@@ -1495,7 +1578,7 @@ window.PAGE_DATA = [
       "巨大屁股",
       "姐姐"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240819-1/1447f9c50459ac936f23aac968c57ae0.jpg",
@@ -1519,7 +1602,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67804466c179ffb1db6d7581/cover.jpg",
@@ -1537,7 +1620,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20241117-1/68ff8ecc16bfba99756f3a7585ddd3f1.jpg",
@@ -1554,7 +1637,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250804/W900oksE/1.jpg",
@@ -1569,7 +1652,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/MoDEYIqw.jpg",
@@ -1590,7 +1673,7 @@ window.PAGE_DATA = [
       "淫语",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/36874295d6ce9e320eedad8dd0513119.jpg",
@@ -1607,7 +1690,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/3f2bfd9999fd2f6f18c4712ed12821f4.jpg",
@@ -1629,7 +1712,7 @@ window.PAGE_DATA = [
       "中出",
       "二穴同时挿入"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/320011b12e44c1e5af0182fa53bd448d.jpg",
@@ -1653,7 +1736,7 @@ window.PAGE_DATA = [
       "巨乳",
       "礼仪小姐"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0f4c8eb35ceaa5ed49fa821ac64edb1f.jpg",
@@ -1676,7 +1759,7 @@ window.PAGE_DATA = [
       "轮奸",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/afee0a903127cbc24a7348fca348a32e.jpg",
@@ -1700,7 +1783,7 @@ window.PAGE_DATA = [
       "轮奸",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/f596a62c79a262976ef9bedbf3d2560b.jpg",
@@ -1723,7 +1806,7 @@ window.PAGE_DATA = [
       "巨乳",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/880b478c0ce122f3fe74531ecff8a9b8.jpg",
@@ -1747,7 +1830,7 @@ window.PAGE_DATA = [
       "巨乳",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/da0c0672757e779afaaf10e4a657d16e.jpg",
@@ -1770,7 +1853,7 @@ window.PAGE_DATA = [
       "学校作品",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/92a534ee75c8a0763505d1c360e659dd.jpg",
@@ -1793,7 +1876,7 @@ window.PAGE_DATA = [
       "滥交",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/0244677cd8c8454a75938483086bd15c.jpg",
@@ -1816,7 +1899,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "子宫颈"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/1a4dc0404928f099b9f95c87c4746fc6.jpg",
@@ -1841,7 +1924,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6905b62a042ec11e67b72e665993aaef.jpg",
@@ -1864,7 +1947,7 @@ window.PAGE_DATA = [
       "多P",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/e953b849f51b9d1c0897ca9370922284.jpg",
@@ -1888,7 +1971,7 @@ window.PAGE_DATA = [
       "手淫",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d232edb086f050fc40fe548c9eb7df39.jpg",
@@ -1912,7 +1995,7 @@ window.PAGE_DATA = [
       "拘束",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/d5759e5f03f8127b0252a1fcd12e0e89.jpg",
@@ -1934,7 +2017,7 @@ window.PAGE_DATA = [
       "女生",
       "荡妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MOODYZ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/2d4907c5994469498a124acc977ca43f.jpg",
@@ -1943,117 +2026,5 @@ window.PAGE_DATA = [
       "桐岛莉乃"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-104"
-  },
-  {
-    "id": 74064,
-    "IDcode": "MIAA-105",
-    "title": "对成绩下滑的我巨尻骑乘位补习-篠田ゆう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨大屁股",
-      "女教师",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/ec7ac188afa47789b3b6255a1ccf63e5.jpg",
-    "actress": [
-      "蓝井优太",
-      "篠田优"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-105"
-  },
-  {
-    "id": 74214,
-    "IDcode": "MIAA-106",
-    "title": "練習をする事にした 永瀬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "处男",
-      "蛮横娇羞",
-      "童年朋友",
-      "中出",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/0400358bf58a4da9751d21fd16e9bbd3.jpg",
-    "actress": [
-      "永瀬ゆい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-106"
-  },
-  {
-    "id": 74005,
-    "IDcode": "MIAA-107",
-    "title": "懵懂无知的处女妹妹-有村のぞみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "无毛",
-      "美少女电影",
-      "中出",
-      "妹妹",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/e7154920d7d532151fa66c1486ead924.jpg",
-    "actress": [
-      "有村希",
-      "小田切ジュン"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-107"
-  },
-  {
-    "id": 74218,
-    "IDcode": "MIAA-108",
-    "title": "彼女の留守中に連れ込んだ超敏感な制服美少女と7日間ハメまくった僕。 渚みつき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "调教",
-      "制服",
-      "美少女电影",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231025-34/0ffd3355c96477d03cc5cb140d1cb217.jpg",
-    "actress": [
-      "渚光希"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-108"
-  },
-  {
-    "id": 592574,
-    "IDcode": "MIAA-110",
-    "title": "亲吻和舔她儿子的女朋友，睡眠计划 Kokoa Aisu - 爱须心亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "MOODYZ",
-    "publish_date": "",
-    "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/09/89242_cover_2025-06-09_141517.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MIAA-110"
   }
 ];

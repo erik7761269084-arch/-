@@ -1,5 +1,135 @@
 window.PAGE_DATA = [
   {
+    "id": 84205,
+    "IDcode": "DASS-001",
+    "title": "人妻との不倫性交-水川スミレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "出轨",
+      "巨乳",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-001"
+  },
+  {
+    "id": 84204,
+    "IDcode": "DASS-002",
+    "title": "临时按摩师-美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "苗条",
+      "乳液",
+      "白天出轨",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美谷朱里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-002"
+  },
+  {
+    "id": 84198,
+    "IDcode": "DASS-003",
+    "title": "邻居和我的妻子-黒川すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "白天出轨",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-003"
+  },
+  {
+    "id": 84225,
+    "IDcode": "DASS-004",
+    "title": "催淫洗脳-結城りの 美波もも",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "多P",
+      "两女一男",
+      "巨乳",
+      "各种职业"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-004"
+  },
+  {
+    "id": 84226,
+    "IDcode": "DASS-005",
+    "title": "最高級美女-今井夏帆 篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "荡妇",
+      "两女一男",
+      "口交",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠田优",
+      "今井夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-005"
+  },
+  {
+    "id": 218056,
+    "IDcode": "DASS-006",
+    "title": "dass-006 清純美少女-東條なつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-006"
+  },
+  {
     "id": 84214,
     "IDcode": "DASS-007",
     "title": "抗うことが出来ない巨根の快楽。終わらぬ子宮絶頂。膣凹NTR 逢見リカ",
@@ -15,7 +145,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-05-24",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/e50207670366c69c64f6c2f486374a06.jpg",
@@ -37,12 +167,37 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-05-24",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/d3d3eea309707da560a903a2495e7762.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-008"
+  },
+  {
+    "id": 84176,
+    "IDcode": "DASS-009",
+    "title": "被我爸爸戴上了绿帽子-黒川すみれ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "白天出轨",
+      "淫妻",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-009"
   },
   {
     "id": 566522,
@@ -52,7 +207,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/dcb24dab644198bf7797ce4c068f915d.jpg",
@@ -73,7 +228,7 @@ window.PAGE_DATA = [
       "女同性恋",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/54e6af500793ba06bcad5370429477e4.jpg",
@@ -94,7 +249,7 @@ window.PAGE_DATA = [
     "genres": [
       "女同"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cc3b4f9a2e9b1d45c6846/cover.jpg",
@@ -109,12 +264,58 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/bdbb73fb9483efd7d8470e3ef2884b24.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-013"
+  },
+  {
+    "id": 84199,
+    "IDcode": "DASS-014",
+    "title": "端庄的妻子-水川スミレ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "白天出轨",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "水川蓳"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-014"
+  },
+  {
+    "id": 84171,
+    "IDcode": "DASS-015",
+    "title": "父母不在时-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乱伦",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-015"
   },
   {
     "id": 84243,
@@ -129,7 +330,7 @@ window.PAGE_DATA = [
       "巨乳",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-06-14",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4cecadaa4a7578d5f150c21707002f04.jpg",
@@ -152,7 +353,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-06-14",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/d412592334d02180569e75f21c93d03c.jpg",
@@ -175,7 +376,7 @@ window.PAGE_DATA = [
       "淫语",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-06-14",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/75113bdc6408fcccff439c2ba2e648eb.jpg",
@@ -198,7 +399,7 @@ window.PAGE_DATA = [
       "肛交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-06-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230106-1/131856f27dd5ad9d5f7503b65b279e0a.jpg",
@@ -217,7 +418,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/856d4b2e3b207991144f3040496ca714.jpg",
@@ -239,7 +440,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-06-28",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/157c5cce7bf64e43ad38f9e34fadfc8b.jpg",
@@ -248,6 +449,29 @@ window.PAGE_DATA = [
       "タイ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-021"
+  },
+  {
+    "id": 84253,
+    "IDcode": "DASS-022",
+    "title": "按摩师对我的秘密部位进行了大量的触摸",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "按摩",
+      "苗条",
+      "白天出轨",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-022"
   },
   {
     "id": 84283,
@@ -285,7 +509,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/7ad27bd5c6acaf52196bed1b60380749.jpg",
@@ -308,7 +532,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-06-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/7ec3944acbd3c25cd90e1fd8278827db.jpg",
@@ -330,7 +554,7 @@ window.PAGE_DATA = [
       "深喉",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-07-12",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/038ea492a031bb8b56cb58071eb7e640.jpg",
@@ -354,7 +578,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/23b6468876f99a24ed3ded1ab9f12769.jpg",
@@ -376,7 +600,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/20f17079b33a48d41e53c57b93475b05.jpg",
@@ -399,7 +623,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250424-1/e414fe1e831095be9da674e356a7e721.jpg",
@@ -416,7 +640,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cd36ade79d6ac51e3723300017926873.jpg",
@@ -437,7 +661,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/8e2bada6b293b928243bea16729f1af0.jpg",
@@ -460,7 +684,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-07-26",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/d2eae38fd892353fa760af09f219d433.jpg",
@@ -483,7 +707,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-07-26",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/27b607bc059b248c4eda3005bd0915d6.jpg",
@@ -507,7 +731,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/fc5a1645031a4b4cecc298c822561a35.jpg",
@@ -528,7 +752,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e89575631cc64eb5a451d5/cover.jpg",
@@ -551,7 +775,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/ecd9c5a130d7a3ebd62724deba62558c.jpg",
@@ -559,6 +783,28 @@ window.PAGE_DATA = [
       "辻井穗乃果"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-037"
+  },
+  {
+    "id": 84255,
+    "IDcode": "DASS-038",
+    "title": "幼い頃、一緒にお風呂に入っていた叔母さんと再び入浴…嬉し恥ずかし甥っ子バスタイム。 君島みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳",
+      "中出",
+      "乱伦",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "2022-07-26",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "君岛美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-038"
   },
   {
     "id": 84307,
@@ -573,7 +819,7 @@ window.PAGE_DATA = [
       "荡妇",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-08-09",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230107-1/1a6b019fde8f4cec5fd7c8161f3e2dc5.jpg",
@@ -620,7 +866,7 @@ window.PAGE_DATA = [
       "凌辱",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20240924-1/ed136c7a8b1d3e87f1084c09e958386a.jpg",
@@ -644,7 +890,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-08-09",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230715-1/15f73f2118a92fc110c9e39ed4304dee.jpg",
@@ -667,7 +913,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/9306a3c9ace96d51e0a0c55f9a00a224.jpg",
@@ -690,7 +936,7 @@ window.PAGE_DATA = [
       "肛交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-08-09",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230725-1/cb1df88c1e9db50a5531f1c754e4ffb2.jpg",
@@ -714,7 +960,7 @@ window.PAGE_DATA = [
       "女同性恋",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cfb36feb67774efbabb507/cover.jpg",
@@ -738,7 +984,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/e7c918f908a86bd7d6b1051e51062aaf.jpg",
@@ -760,7 +1006,7 @@ window.PAGE_DATA = [
       "凌辱",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-08-23",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230715-1/8eac04773d269c91503c81c3bf17b087.jpg",
@@ -784,7 +1030,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/ffc4e1d6ea5b52e7d5c51b38ab34dd71.jpg",
@@ -805,7 +1051,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-08-23",
     "cover_url": "https://tuaskbgnekr.com/20251009/KhTuEnbY/1.jpg",
@@ -826,7 +1072,7 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-08-23",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/coUMeqvl.jpg",
@@ -848,7 +1094,7 @@ window.PAGE_DATA = [
       "肛交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-08-23",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/lHFxP17o.jpg",
@@ -873,7 +1119,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/d952fc7c03129e69c79898a2c0bacff0.jpg",
@@ -897,7 +1143,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://fqjpg4.top/upload/vod/20240919-1/4473c3fe7c40da48bbc98952e0e96dba.jpg",
@@ -923,7 +1169,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/7a55fc1055b8f5296abfbdb892cf5fb3.jpg",
@@ -931,6 +1177,30 @@ window.PAGE_DATA = [
       "天馬唯"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-054"
+  },
+  {
+    "id": 68042,
+    "IDcode": "DASS-055",
+    "title": "苗条的妹妹被她的大屁股支配着",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "屁股",
+      "巨大屁股",
+      "乱伦",
+      "单体作品",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "黑川堇",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-055"
   },
   {
     "id": 84263,
@@ -947,7 +1217,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250421-1/aec3b510f1bb6a47976345cfd1c4b5bd.jpg",
@@ -994,7 +1264,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/7fc270d0c3c6082bfba9b4947f6b2afb.jpg",
@@ -1014,7 +1284,7 @@ window.PAGE_DATA = [
       "中出",
       "母亲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a9d839b77cdf6ba9e9030b355b687979.jpg",
@@ -1039,7 +1309,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/e7ab7dd6f6f0eb0d0c4cd217a76009d2.jpg",
@@ -1084,7 +1354,7 @@ window.PAGE_DATA = [
       "肛交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-09-27",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2698492b76921fc4fdf99a1752887cab.jpg",
@@ -1108,7 +1378,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/1f183b8300295ec51612c550aecc0b10.jpg",
@@ -1129,7 +1399,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231012-1/60210d6a80eff841fe24f19d6aa8bd97.jpg",
@@ -1149,12 +1419,36 @@ window.PAGE_DATA = [
     "genres": [
       "女同"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8670bb79847b5dc699a0f7b984d3a955.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-065"
+  },
+  {
+    "id": 67284,
+    "IDcode": "DASS-066",
+    "title": "可爱的童年朋友-綾瀬こころ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白天出轨",
+      "中出",
+      "制服",
+      "巨乳",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-066"
   },
   {
     "id": 556398,
@@ -1164,7 +1458,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/15f46049f562af73b67e6e4684001b2f.jpg",
@@ -1179,7 +1473,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/08cc7bbe9cd36e66ae384f34ee371643.jpg",
@@ -1202,7 +1496,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/0fbee7192a33ace168bdadafcafe0751.jpg",
@@ -1226,7 +1520,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/27/685d9f263ed39b57c003f9c4/cover.jpg",
@@ -1249,7 +1543,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250422-1/0ee4bc96624b3a52c1fd4bb634d1b78c.jpg",
@@ -1272,7 +1566,7 @@ window.PAGE_DATA = [
       "女生",
       "荡妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-10-11",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7a8ee3b2c062f3fdbd5a8a223ac479e8.jpg",
@@ -1292,7 +1586,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/10ee01829eb577682b3f2aa8be30425f.jpg",
@@ -1313,7 +1607,7 @@ window.PAGE_DATA = [
       "药物",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-10-11",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230127-1/ef3fd0f3e32ad993db314907a953562e.jpg",
@@ -1335,7 +1629,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-10-11",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c28e3b3ba74f50035a9dffbb4deede03.jpg",
@@ -1356,7 +1650,7 @@ window.PAGE_DATA = [
       "第一人称摄影",
       "女同性恋"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cca372a47ebb1a8683e52/cover.jpg",
@@ -1381,7 +1675,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/3c5b37f48998ea37c1eaef64fdcc2ce5.jpg",
@@ -1406,7 +1700,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "2022-10-25",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/6b59f1b3e38d02f5b29ec3516dc4310a.jpg",
@@ -1430,7 +1724,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b1ad343d6972716d1a8d4/cover.jpg",
@@ -1453,7 +1747,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/1b465bcb785afef2b07d35bb13949c63.jpg",
@@ -1476,7 +1770,7 @@ window.PAGE_DATA = [
       "中出",
       "美少女电影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20caacf22ae3e04a81d52/cover.jpg",
@@ -1484,6 +1778,27 @@ window.PAGE_DATA = [
       "希咲那奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-081"
+  },
+  {
+    "id": 91153,
+    "IDcode": "DASS-082",
+    "title": "在你耳边低语-流川莉央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "M男",
+      "乳交",
+      "肛交",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-082"
   },
   {
     "id": 66820,
@@ -1500,7 +1815,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/28/6836b21ca0b87615b2d38147/cover.jpg",
@@ -1508,6 +1823,21 @@ window.PAGE_DATA = [
       "大槻响"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-083"
+  },
+  {
+    "id": 223295,
+    "IDcode": "DASS-084",
+    "title": "回春痴女沙龙-美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-084"
   },
   {
     "id": 67781,
@@ -1524,7 +1854,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/30/6861a10b3ed39b57c030b0be/cover.jpg",
@@ -1543,7 +1873,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/09c745791225fcc92c0eb3cf26bd2c40.jpg",
@@ -1564,7 +1894,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/27/68358655d6dba34575117b3c/cover.jpg",
@@ -1581,7 +1911,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/70f47e08f55124e48bc5def011453720.jpg",
@@ -1601,7 +1931,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "药物"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250317-1/a14b0510ccc0c09d133bccc0a32c6177.jpg",
@@ -1609,6 +1939,98 @@ window.PAGE_DATA = [
       "木下日葵"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-089"
+  },
+  {
+    "id": 107053,
+    "IDcode": "DASS-090",
+    "title": "黑人寄宿家庭NTR-弥生みづき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "巨大阴茎",
+      "淫妻",
+      "白天出轨",
+      "黑人演员",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "彌生美月",
+      "弥生美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-090"
+  },
+  {
+    "id": 66701,
+    "IDcode": "DASS-091",
+    "title": "我的儿子是个性爱怪物-姫咲はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "乱伦",
+      "中出",
+      "美少女电影",
+      "巨乳",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "姫咲華",
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-091"
+  },
+  {
+    "id": 221544,
+    "IDcode": "DASS-092",
+    "title": "没有保护的情况下在她体内射精-美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-092"
+  },
+  {
+    "id": 88537,
+    "IDcode": "DASS-093",
+    "title": "華奢巨乳-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "白天出轨",
+      "中出",
+      "美少女电影",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "沙月芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-093"
   },
   {
     "id": 88533,
@@ -1625,7 +2047,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/9190e50142cbce745822a44f321d9f3b.jpg",
@@ -1640,12 +2062,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f467149fb5dabdea75f10df8f3a148a1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-095"
+  },
+  {
+    "id": 69158,
+    "IDcode": "DASS-096",
+    "title": "被她讨厌的前男友浇上了春药-尾崎えりか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白天出轨",
+      "中出",
+      "美少女电影",
+      "口交",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "DASDAS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-096"
   },
   {
     "id": 88534,
@@ -1663,7 +2107,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d7f1e43d6972716f0ee53/cover.jpg",
@@ -1681,7 +2125,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230108/tT7kteAu/1.jpg",
@@ -1702,7 +2146,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d82b943d6972716f1168a/cover.jpg",
@@ -1723,7 +2167,7 @@ window.PAGE_DATA = [
       "肛交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/4653d398f3710c9ce2ce5dba41db0885.jpg",
@@ -1747,7 +2191,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DASDAS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250423-1/cce461ece5c6cf9658a4f51d37c7a7a2.jpg",
@@ -1755,414 +2199,5 @@ window.PAGE_DATA = [
       "木下日葵"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-101"
-  },
-  {
-    "id": 88577,
-    "IDcode": "DASS-102",
-    "title": "新的继父是一个变态-斎藤あみり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "偶像",
-      "无码破解",
-      "美少女电影",
-      "中出",
-      "角色扮演者",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/68299beaae3235deaa26a41f/cover.jpg",
-    "actress": [
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-102"
-  },
-  {
-    "id": 67302,
-    "IDcode": "DASS-103",
-    "title": "渴望爱情的已婚教师-黒川すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "出轨",
-      "女教师",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d84c33ed39b57c0b1dfd5/cover.jpg",
-    "actress": [
-      "黑川堇",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-103"
-  },
-  {
-    "id": 66845,
-    "IDcode": "DASS-106",
-    "title": "向软嫩巨乳年轻继母死命撒娇地返婴不停射精的我小花暖",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中文字幕",
-      "婆婆",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/27/68355c18d6dba345750fa437/cover.jpg",
-    "actress": [
-      "小花暖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-106"
-  },
-  {
-    "id": 410836,
-    "IDcode": "DASS-107",
-    "title": "與遠距離戀愛中女友睽違許久見面愛合的三日間。 美谷朱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cd07d2a47ebb1a8683eba/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-107"
-  },
-  {
-    "id": 88587,
-    "IDcode": "DASS-108",
-    "title": "催眠附身-さつき芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "多P",
-      "白天出轨",
-      "中出",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b212743d6972716d24a09/cover.jpg",
-    "actress": [
-      "沙月芽衣",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-108"
-  },
-  {
-    "id": 88588,
-    "IDcode": "DASS-109",
-    "title": "美丽的健康老师-黒川すみれ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白天出轨",
-      "无码破解",
-      "女教师",
-      "中出",
-      "单体作品",
-      "连裤袜"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/02/683d8d280b69f1d816493604/cover.jpg",
-    "actress": [
-      "黑川堇"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-109"
-  },
-  {
-    "id": 88581,
-    "IDcode": "DASS-110",
-    "title": "报复性强奸-斎藤あみり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "多P",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa45489def9b1b80e4fbb/cover.jpg",
-    "actress": [
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-110"
-  },
-  {
-    "id": 88593,
-    "IDcode": "DASS-115",
-    "title": "她的母亲已经失去了理性-武藤あやか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "单体作品",
-      "乱伦",
-      "无码破解",
-      "中出",
-      "成熟的女人",
-      "母亲"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/683305e435d00134fb896384/cover.jpg",
-    "actress": [
-      "武藤彩香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-115"
-  },
-  {
-    "id": 88594,
-    "IDcode": "DASS-117",
-    "title": "和辣妹聊好了双穴的价格-望月彩香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肛交",
-      "单体作品",
-      "滥交",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/04/68400dd341a147ed1a55b666/cover.jpg",
-    "actress": [
-      "望月綾香",
-      "ニック",
-      "日森一",
-      "みっちー"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-117"
-  },
-  {
-    "id": 66942,
-    "IDcode": "DASS-119",
-    "title": "尴尬的侄子洗澡时间-夏川あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "乳交",
-      "中出",
-      "成熟的女人",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686b1cf043d6972716d1a9bb/cover.jpg",
-    "actress": [
-      "夏川步美",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-119"
-  },
-  {
-    "id": 564572,
-    "IDcode": "DASS-120",
-    "title": "天然美少女ニューハーフ Debut",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230409/KAG3LvAe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-120"
-  },
-  {
-    "id": 564647,
-    "IDcode": "DASS-121",
-    "title": "ニューハーフは女性より100倍気持ちいいって本当ですか？ 男の体は、NHが一番知っている。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230302/ipHqxnUy/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-121"
-  },
-  {
-    "id": 410911,
-    "IDcode": "DASS-122",
-    "title": "直到我的感情傳達到您眼前 木下日葵 齋藤亞美里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677cd40689def9b1b8bebde4/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-122"
-  },
-  {
-    "id": 88539,
-    "IDcode": "DASS-124",
-    "title": "双亲不在的两天-东条夏",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戏剧",
-      "乱伦",
-      "中出",
-      "妹妹",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/18/68299d66ae3235deaa26ef17/cover.jpg",
-    "actress": [
-      "東條夏"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-124"
-  },
-  {
-    "id": 67424,
-    "IDcode": "DASS-125",
-    "title": "本気禁断性交編-三尾めぐ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "流汗",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686d63f53ed39b57c0af6190/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-125"
-  },
-  {
-    "id": 564497,
-    "IDcode": "DASS-126",
-    "title": "メスイキ开発NHクリニック。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230428/53tdFpfi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-126"
-  },
-  {
-    "id": 88546,
-    "IDcode": "DASS-127",
-    "title": "和母亲的造人SEX-森泽佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "单体作品",
-      "乱伦",
-      "无码破解",
-      "中出",
-      "母亲"
-    ],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202505/25/683305ff35d00134fb896385/cover.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-127"
-  },
-  {
-    "id": 536887,
-    "IDcode": "DASS-128",
-    "title": "小花暖- 潜入捜查官 媚薬快楽堕ちに抵抗する気高き女 小花のん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20251010/HzrgH0Wr/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-128"
-  },
-  {
-    "id": 536401,
-    "IDcode": "DASS-133",
-    "title": "はじめてのNHレズセックス 人生初の笔下ろし、解禁。 柏木かなみ 波多野结衣 大槻ひびき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230429/JQRUn4wH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-133"
-  },
-  {
-    "id": 549301,
-    "IDcode": "DASS-135",
-    "title": "お前、けつあな确定な。ドM雌豚OLは今日もアナルを掘られるために遅刻する。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DASDAS",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230428/UWmAMufE/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DASS-135"
   }
 ];

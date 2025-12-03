@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/29/42270_cover_2025-09-29_185238.jpg",
@@ -24,7 +24,7 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/02/64749_cover_2025-10-02_064402.jpg",
@@ -39,7 +39,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/28/68d84c74d6fbef4e90cd20ed/cover.jpg",
@@ -54,7 +54,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d758d8958ac04f270efdbd/cover.jpg",
@@ -71,12 +71,36 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/27/68d75a04958ac04f270f0368/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-006"
+  },
+  {
+    "id": 72924,
+    "IDcode": "RKI-053",
+    "title": "这世界上最大屌的男人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "其他恋物癖",
+      "滥交",
+      "手淫"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "早川瀬里奈",
+      "星優乃",
+      "新井爱丽",
+      "鸟越乃亜"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-053"
   },
   {
     "id": 536726,
@@ -86,7 +110,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250224-1/38a1ba40797b4db4d2c63b9e871e7216.jpg",
@@ -101,12 +125,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-9/3d84a4fd2715a5f2c3ed236df47dbdc5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-061"
+  },
+  {
+    "id": 519800,
+    "IDcode": "RKI-076",
+    "title": "【有码】素颜のままで麻仓优",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-076"
   },
   {
     "id": 516465,
@@ -116,7 +155,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/29/6901157be4a73d4f15f4fb41/poster2.jpg",
@@ -131,7 +170,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231118/rki088pl.jpg!320x216.jpg",
@@ -146,7 +185,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231118/rki096pl.jpg!320x216.jpg",
@@ -161,7 +200,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231108/rki106pl.jpg!320x216.jpg",
@@ -181,7 +220,7 @@ window.PAGE_DATA = [
       "乳交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2011-02-19",
     "cover_url": "https://picture.yoshiclub.xyz/20230329/20230329020025745745.jpg",
@@ -200,7 +239,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231212/rki121pl.jpg!320x216.jpg",
@@ -220,7 +259,7 @@ window.PAGE_DATA = [
       "乳交",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250411-1/9806854e2af51212c742765267ad0189.jpg",
@@ -229,6 +268,21 @@ window.PAGE_DATA = [
       "北川瞳"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-129"
+  },
+  {
+    "id": 592876,
+    "IDcode": "RKI-134",
+    "title": "世界一ザーメンを大量に発射する男のぶっかけSEX 风间ゆみ 菅野しずか new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-134"
   },
   {
     "id": 535043,
@@ -240,7 +294,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240102/rki149pl.jpg!320x216.jpg",
@@ -255,7 +309,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240114/rki155pl.jpg!320x216.jpg",
@@ -264,18 +318,18 @@ window.PAGE_DATA = [
   },
   {
     "id": 530103,
-    "IDcode": "RKI-161-",
+    "IDcode": "RKI-161",
     "title": "rki00161 いやらし～いバキューム女の终わらない男潮喷き 晶エリー",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240529-1/a81eeb01dafc5e9945b8f0a359043067.jpg",
     "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-161-"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-161"
   },
   {
     "id": 535113,
@@ -285,7 +339,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240128/rki165pl.jpg!320x216.jpg",
@@ -300,12 +354,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240308/rki197pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-197"
+  },
+  {
+    "id": 104904,
+    "IDcode": "RKI-225",
+    "title": "被侵犯的温泉野外露出妻小川阿佐美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "户外",
+      "和服，丧服",
+      "无码破解",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小川阿佐美",
+      "栗原良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-225"
   },
   {
     "id": 536384,
@@ -315,7 +392,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230727/rki264pl.jpg!320x216.jpg",
@@ -330,7 +407,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240606/rki266pl.jpg!320x216.jpg",
@@ -345,7 +422,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240115/rki290pl.jpg!320x216.jpg",
@@ -365,7 +442,7 @@ window.PAGE_DATA = [
       "乳交",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/540f6c7d815e90b1729dc188a3b1f1f9.jpg",
@@ -382,7 +459,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230812/rki385pl.jpg!320x216.jpg",
@@ -397,7 +474,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230812/rki396pl.jpg!320x216.jpg",
@@ -416,7 +493,7 @@ window.PAGE_DATA = [
       "双性人",
       "女同性恋"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2015-12-19",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/rki408/rki408pl.jpg",
@@ -436,7 +513,7 @@ window.PAGE_DATA = [
       "双性人",
       "女教师"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2016-01-19",
     "cover_url": "http://15.155250922.com/upload/vod/20230816/rki410pl.jpg!320x216.jpg",
@@ -454,7 +531,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250620/4mPDnzl1/1.jpg",
@@ -469,7 +546,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230816/rki412pl.jpg!320x216.jpg",
@@ -490,7 +567,7 @@ window.PAGE_DATA = [
       "颜射",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/10eb4c8f440b462798914d75e6ae45ac.jpg",
@@ -507,12 +584,45 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230819/rki425pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-425"
+  },
+  {
+    "id": 104723,
+    "IDcode": "RKI-451",
+    "title": "对着蒂亚的脸上射出一斤精液",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-451"
+  },
+  {
+    "id": 539308,
+    "IDcode": "RKI-453",
+    "title": "世界で一番中出し精子を子宫で受け止める女の子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-453"
   },
   {
     "id": 526754,
@@ -522,7 +632,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230323/rki00454pl.jpg",
@@ -542,7 +652,7 @@ window.PAGE_DATA = [
       "女上位",
       "美少女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/731e79f25405ec50bf77d1f1d094f973.jpg",
@@ -559,12 +669,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230323/rki00474pl.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-474"
+  },
+  {
+    "id": 210744,
+    "IDcode": "RKI-480",
+    "title": "世界一早漏男-篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-480"
   },
   {
     "id": 77309,
@@ -581,7 +706,7 @@ window.PAGE_DATA = [
       "肛交",
       "SM"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/15792a0ac8d304b86afc073b2e921a3f.jpg",
@@ -594,6 +719,36 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-481"
   },
   {
+    "id": 536039,
+    "IDcode": "RKI-482",
+    "title": "私、一ノ瀬梓は痴女になります。性格が良すぎるMっ娘な一ノ瀬梓がAV监督",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-482"
+  },
+  {
+    "id": 526513,
+    "IDcode": "RKI-483",
+    "title": "発射寸前！ イクッ！イクゥゥ！ビクッビクンってイッてる时に激しくピストン再开。“ダメダメまだイッてるからぁ”とかいう抵抗を无视してつきまくった结果… 富田优衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-483"
+  },
+  {
     "id": 470115,
     "IDcode": "RKI-485",
     "title": "來絕倫大叔家幹到整天連續高潮&amp;絕頂中出！ 夢咲日南",
@@ -601,7 +756,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af65c6d7791f92730e92fd/cover.jpg",
@@ -616,7 +771,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/3eab60a01306d1a1272c1fd6db69aab4.jpg",
@@ -631,7 +786,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d58ff58d3c43c2b336ffa9bf990d413f.jpg",
@@ -652,7 +807,7 @@ window.PAGE_DATA = [
       "第一人称摄影",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2019-04-19",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/azT73gbE.jpg",
@@ -671,7 +826,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4ca065f03a092cf67480c/cover.jpg",
@@ -688,7 +843,7 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250905-1/f1dad0526c3fc8f53086f08a80f94ade.jpg",
@@ -703,7 +858,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/840e3cb7c953b17e7a948a6a2d4322b4.jpg",
@@ -724,7 +879,7 @@ window.PAGE_DATA = [
       "中出",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/7c1e9df8f58dbbf3b387cb12ccee397c.jpg",
@@ -748,7 +903,7 @@ window.PAGE_DATA = [
       "明星脸",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/63301d2a62542a2c7bab5746e1261ee5.jpg",
@@ -770,7 +925,7 @@ window.PAGE_DATA = [
       "巨乳",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2019-07-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250113-1/8663952f43028ec5ca97105ed721ea0b.jpg",
@@ -794,7 +949,7 @@ window.PAGE_DATA = [
       "巨乳",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/afe5990bc2d00b0c7093d187eef0f047.jpg",
@@ -815,7 +970,7 @@ window.PAGE_DATA = [
       "中出",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/4de90b37f89a5f9034d94fc91cad7205.jpg",
@@ -836,12 +991,27 @@ window.PAGE_DATA = [
       "颜射",
       "明星脸"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2019-08-19",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/45d1d279b0840fc0c32aacfba030d6ce.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-500"
+  },
+  {
+    "id": 165374,
+    "IDcode": "RKI-501",
+    "title": "萝莉少女-冬愛ことね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-501"
   },
   {
     "id": 516613,
@@ -851,12 +1021,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/11/6912747fc2496a27fd075775/poster2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-502"
+  },
+  {
+    "id": 526252,
+    "IDcode": "RKI-503",
+    "title": "世界で一番浓いザーメンを大量ごっくん 八寻麻衣 あべみかこ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-503"
   },
   {
     "id": 77359,
@@ -870,7 +1055,7 @@ window.PAGE_DATA = [
       "中出",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b18466404d72fd0f2d4592b32ad2c889.jpg",
@@ -878,6 +1063,50 @@ window.PAGE_DATA = [
       "美谷朱里"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-504"
+  },
+  {
+    "id": 81921,
+    "IDcode": "RKI-505",
+    "title": "スレンダーボディの超絶美少女がいろんなシチュエーションでエッチッチ 宇佐木あいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "汽车性爱",
+      "和服，丧服",
+      "美少女电影",
+      "明星脸"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "2020-02-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "宇佐木あいか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-505"
+  },
+  {
+    "id": 83813,
+    "IDcode": "RKI-506",
+    "title": "新・世界一早漏男×今井夏帆の金玉がスッカラカンになるまで発射し続ける連続ぶっかけ＆大量中出しSEX",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "巨乳",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "2020-02-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "今井夏帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-506"
   },
   {
     "id": 77641,
@@ -891,7 +1120,7 @@ window.PAGE_DATA = [
       "巨大屁股",
       "荡妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3c3dea66a5b717c9f655385ac2a29c28.jpg",
@@ -901,6 +1130,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-508"
   },
   {
+    "id": 209486,
+    "IDcode": "RKI-509",
+    "title": "先生と相部屋-久留木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-509"
+  },
+  {
     "id": 210399,
     "IDcode": "RKI-603",
     "title": "痙攣絶叫失神-深田えいみ",
@@ -908,7 +1152,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8e0ac94d447a5973430f20540a786a19.jpg",
@@ -929,7 +1173,7 @@ window.PAGE_DATA = [
       "拘束",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/6b3d6cd3fa2a7d1996f84169c977f9b1.jpg",
@@ -939,6 +1183,36 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-604"
   },
   {
+    "id": 593064,
+    "IDcode": "RKI-605",
+    "title": "禁欲して感度爆上がりしきった体を一気にドSキメセク性欲开放してスーパーオーガズムSEX 深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-605"
+  },
+  {
+    "id": 594848,
+    "IDcode": "RKI-607",
+    "title": "新、世界第1大量发射精液的男人的喷精性交",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-607"
+  },
+  {
     "id": 556652,
     "IDcode": "RKI-611",
     "title": "这个女人，性欲怪物模型图。最色情美业馀 AV 挖掘 Noai",
@@ -946,7 +1220,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20251010-1/cace7ad44caae51762f0631f76f73deb.jpg",
@@ -966,7 +1240,7 @@ window.PAGE_DATA = [
       "乳房",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9a02da1c3dc38ea67e60950e84f1acc2.jpg",
@@ -974,6 +1248,51 @@ window.PAGE_DATA = [
       "深田詠美"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-612"
+  },
+  {
+    "id": 212990,
+    "IDcode": "RKI-613",
+    "title": "新的世界-さつき芽衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-613"
+  },
+  {
+    "id": 213478,
+    "IDcode": "RKI-614",
+    "title": "超级色情",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-614"
+  },
+  {
+    "id": 213622,
+    "IDcode": "RKI-615",
+    "title": "新人風俗嬢-白桃はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-615"
   },
   {
     "id": 79439,
@@ -989,7 +1308,7 @@ window.PAGE_DATA = [
       "口交",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2021-08-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/62555a13249cff6040937c682f7ecad8.jpg",
@@ -1010,7 +1329,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/f01c0e813ecbc70a7c0619f4009d27c6.jpg",
@@ -1033,7 +1352,7 @@ window.PAGE_DATA = [
       "女生",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "2021-12-14",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/f3ff30b705ee90f7653ade8a367ae819.jpg",
@@ -1041,6 +1360,21 @@ window.PAGE_DATA = [
       "沙月惠奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-620"
+  },
+  {
+    "id": 215632,
+    "IDcode": "RKI-621",
+    "title": "rki-621 新的世界-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROOKIE",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-621"
   },
   {
     "id": 80252,
@@ -1055,7 +1389,7 @@ window.PAGE_DATA = [
       "中出",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/996be1c4fe79abbe866cbeed56530d87.jpg",
@@ -1078,7 +1412,7 @@ window.PAGE_DATA = [
       "颜射",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/bc797558ddf279a06371f79991c01684.jpg",
@@ -1099,7 +1433,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8e085f32baa57b4c6b34ef82fdc8f9f3.jpg",
@@ -1120,7 +1454,7 @@ window.PAGE_DATA = [
       "淫语",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/dc25407d0dff519da1988191665a7ced.jpg",
@@ -1144,7 +1478,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/51a95b5f9b7751355af79600be14cb98.jpg",
@@ -1165,7 +1499,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c83d251d4a0136125959504958f47f70.jpg",
@@ -1182,7 +1516,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/be75ce4e719206d2337500019d732454.jpg",
@@ -1204,7 +1538,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c925c3507a0f02528bd961038b152199.jpg",
@@ -1226,7 +1560,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ecd9bbc98eb3418d081b1a4ed0a6729c.jpg",
@@ -1249,7 +1583,7 @@ window.PAGE_DATA = [
       "中出",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b0dae286931a72ab0fbcb4827e83bf89.jpg",
@@ -1266,7 +1600,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20241126-1/ea02ac69ccad43ea518b50ff953e8f96.jpg",
@@ -1287,7 +1621,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/02/67c35c15cf22ae3e040e7e54/cover.jpg",
@@ -1297,21 +1631,6 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-633"
   },
   {
-    "id": 579683,
-    "IDcode": "RKI-633-",
-    "title": "クズ男にすべてを捧げる変态おしゃぶりペット女【肉便器编】 天川そら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230512/Zg0OjDbH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-633-"
-  },
-  {
     "id": 168210,
     "IDcode": "RKI-634",
     "title": "大量发射的超颜射SEX-本田桃子",
@@ -1319,7 +1638,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20231211/rki634pl.jpg!320x216.jpg",
@@ -1341,7 +1660,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/3f458a273011202778e449c019710d24.jpg",
@@ -1358,7 +1677,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/e2aa9561cb03ecf4b65eed063b0a380a.jpg",
@@ -1380,7 +1699,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/3b5f1ac56ae87a91548ce642b30db6fb.jpg",
@@ -1403,7 +1722,7 @@ window.PAGE_DATA = [
       "羞耻",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/b17760c6529dc3ac07260eee45453e3a.jpg",
@@ -1425,7 +1744,7 @@ window.PAGE_DATA = [
       "淫语",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/6bafe0f8a8c792ef6eeee59e4c7608a4.jpg",
@@ -1449,7 +1768,7 @@ window.PAGE_DATA = [
       "淫语",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/54158ccecd3c3236bb018fbbe64688aa.jpg",
@@ -1471,7 +1790,7 @@ window.PAGE_DATA = [
       "巨乳",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/857ba2e493c043bd7108b447330c182d.jpg",
@@ -1492,7 +1811,7 @@ window.PAGE_DATA = [
       "颜射",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/c2aee005abee5ea6fe1220ba895cad7d.jpg",
@@ -1515,543 +1834,11 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROOKIE",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/7fcf480b1ab59d8ca6318dfaa400b458.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-643"
-  },
-  {
-    "id": 17304,
-    "IDcode": "RKI-644",
-    "title": "多格扎擊敗調查員直到驕傲的精英調查員陷入屈辱的多格扎失敗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "多P",
-      "凌辱",
-      "女搜查官",
-      "緊縛",
-      "美腳",
-      "羞恥",
-      "女上位",
-      "美乳",
-      "制服",
-      "過膝襪・小腿襪",
-      "口交",
-      "潮吹",
-      "中出",
-      "輪姦",
-      "舔陰",
-      "脅迫做愛",
-      "黑絲",
-      "監獄",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/c534ed2bc00eb950c59298750af5495c.jpg",
-    "actress": [
-      "乃木絢愛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-644"
-  },
-  {
-    "id": 18393,
-    "IDcode": "RKI-645",
-    "title": "推薦給M型男士！ 痴女成人娛樂公寓，最好的痴女為您服務",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "角色扮演",
-      "癡女",
-      "M男・M女",
-      "飯店小姐・援交妹",
-      "中出",
-      "蕩婦",
-      "巨乳",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/7cc843347f4acace7b0b964e40113eb7.jpg",
-    "actress": [
-      "弓乃凜夢",
-      "蓝井优太"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-645"
-  },
-  {
-    "id": 17301,
-    "IDcode": "RKI-646",
-    "title": "好色的妻子望月綾香，喜歡捆綁，喜歡口交等等，性慾實在太強，丈夫無法應付 只能做绿帽丈夫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "人妻",
-      "NTR",
-      "在丈夫面前被操",
-      "多P",
-      "美腳",
-      "淫亂",
-      "慾求不滿",
-      "淫妻",
-      "出軌",
-      "美乳",
-      "中出",
-      "巨乳",
-      "口交",
-      "美臀"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231211/38e156ee-2370-419e-b662-932c4fce9210.jpg",
-    "actress": [
-      "望月綾香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-646"
-  },
-  {
-    "id": 90278,
-    "IDcode": "RKI-647",
-    "title": "この恋に気づいて 性欲強めな巨乳の後輩と生姦中出しやり放題 弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "中出",
-      "巨乳",
-      "手淫",
-      "原作改编",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/b2c95c18bd5a192e37000ff8e7c74bbe.jpg",
-    "actress": [
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-647"
-  },
-  {
-    "id": 90306,
-    "IDcode": "RKI-648",
-    "title": "オジサン嫌いなイマドキ女子2人組がオジサンとオフパコでキモがり逆ハメ撮り実況 こっそりゴムを外され、まさかの生チ〇ポで激イキ絶頂→気持ちよすぎてオジサンに完全敗北。マジ逝きまくりで理解らせられW完堕ち。 由良かな 雅子りな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "中出",
-      "淫乱，真实",
-      "多P"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/d704a34337602fc04792156bd2d828e8.jpg",
-    "actress": [
-      "雅子裡菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-648"
-  },
-  {
-    "id": 18138,
-    "IDcode": "RKI-649",
-    "title": "媚药浸渍后的轮奸-都月流衣纱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "輪姦",
-      "凌辱",
-      "辦公室",
-      "多P",
-      "OL",
-      "強姦",
-      "羞恥",
-      "媚藥・迷藥",
-      "女上司",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
-      "報復",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231028/51c46e89-1ae5-468c-9ac3-d6bd31ebdbb4.jpg",
-    "actress": [
-      "都月楓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-649"
-  },
-  {
-    "id": 90303,
-    "IDcode": "RKI-650",
-    "title": "パパ活で稼いでるだけのくせに弱者男性を完全に見下している人気インフルエンサー女 クソ生意気でムカついたので腹いせに●して人生滅茶苦茶にしてやります。 斎藤あみり 椿りか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "美少女电影",
-      "偷窥"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/8811be2cbf5a08d877a45e7aff1c2c73.jpg",
-    "actress": [
-      "椿莉香",
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-650"
-  },
-  {
-    "id": 17858,
-    "IDcode": "RKI-651",
-    "title": "変態女優來了!",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "多P",
-      "猥褻穿著",
-      "女同性戀",
-      "黑絲",
-      "中出",
-      "兩男兩女",
-      "亂交 • 群P",
-      "口交",
-      "性感"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/2e9fc44135c1ebfba43c87f70a11c177.jpg",
-    "actress": [
-      "望月綾香",
-      "前乃菜菜",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-651"
-  },
-  {
-    "id": 546895,
-    "IDcode": "RKI-652",
-    "title": "美女と野獣 ～ギャルとキモオタ～ 性欲つよつよ 阴キャで冴えないキモオタ男子の极太チ○ポの虏にな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240111/X1XTR1Zk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-652"
-  },
-  {
-    "id": 16821,
-    "IDcode": "RKI-654",
-    "title": "通過生殖器匹配應用遇到了一個與我身體相配的女人。我一點也不喜歡她的外表和性格，但我終於找到了我命中注定",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "約炮",
-      "叛逆少女",
-      "猥褻穿著",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
-      "劇情",
-      "奇異的"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "2024-01-09",
-    "cover_url": "https://picture.yoshiclub.xyz/20240111/20240111023546720720.jpg",
-    "actress": [
-      "有岡みう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-654"
-  },
-  {
-    "id": 16829,
-    "IDcode": "RKI-655",
-    "title": "脫掉衣服後，素顏神體的少女，居然是個超級受虐狂！雖然看上去是個文靜利落的女孩，但她卻是個愛色的變態。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "癡女",
-      "慾求不滿",
-      "調教",
-      "巨乳",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a4f36ac813dc779d9626d/cover.jpg",
-    "actress": [
-      "九井珠奈緒"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-655"
-  },
-  {
-    "id": 17302,
-    "IDcode": "RKI-656",
-    "title": "乙愛麗絲接受大量的精液射入肛門和臉部，然後感觉射出精子灌腸的男人是超級SEX。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "戀物癖",
-      "美乳",
-      "按摩棒",
-      "中出",
-      "口交",
-      "插入異物",
-      "苗條",
-      "顏射"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240118-1/3295a671dc656f6f77f3522204fde708.jpg",
-    "actress": [
-      "乙愛麗絲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-656"
-  },
-  {
-    "id": 16289,
-    "IDcode": "RKI-657",
-    "title": "與世界上射精量最多的男人進行新的超級顏射性愛 ~ 森澤佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "飯店",
-      "苗條",
-      "凌辱",
-      "美腳",
-      "羞恥",
-      "美乳",
-      "按摩棒",
-      "巨乳",
-      "性感",
-      "熟女",
-      "潮吹",
-      "人妻",
-      "中出",
-      "顏射",
-      "舔陰",
-      "手指插入",
-      "女上位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b14d2915c08d63a9908a55/cover.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-657"
-  },
-  {
-    "id": 471175,
-    "IDcode": "RKI-658",
-    "title": "緊縛解禁 性癖マゾの天性のドM。性感帯は喉。さらに敏感体質 犯●れる天才 都月琉衣紗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a2da0ac813dc779d960f6/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-658"
-  },
-  {
-    "id": 16830,
-    "IDcode": "RKI-659",
-    "title": "继母天使-美园和花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "亂倫",
-      "繼母",
-      "慾求不滿",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/10/68e8d4a979f1ac4ec49c4c5a/cover.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-659"
-  },
-  {
-    "id": 16303,
-    "IDcode": "RKI-660",
-    "title": "這就是催眠和洗腦。沾滿唾液的吻",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "多P",
-      "口爆",
-      "唾液敷面",
-      "苗條",
-      "放尿",
-      "凌辱",
-      "美少女",
-      "羞恥",
-      "美乳",
-      "口交",
-      "亂交 • 群P",
-      "性感",
-      "巨乳",
-      "潮吹",
-      "中出",
-      "後入",
-      "少女",
-      "舔陰",
-      "乳交",
-      "女上位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "2024-02-13",
-    "cover_url": "https://picture.yoshiclub.xyz/20240214/20240214031449477477.jpg",
-    "actress": [
-      "響乃詩"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-660"
-  },
-  {
-    "id": 409293,
-    "IDcode": "RKI-661",
-    "title": "地元のハメ友。“同级生の看护师K” 今日の体调を膣内で诊断してくれるシゴデキ巨乳ナースと个室で生ハメ生中出し！ 沙月芽衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/16/67b0a5f54e7d663df47df5d7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-661"
-  },
-  {
-    "id": 15517,
-    "IDcode": "RKI-662",
-    "title": "專門租借的NTR人妻-中城葵",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "女友・妻子",
-      "巨尻",
-      "多P",
-      "苗條",
-      "肉絲",
-      "美腳",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "內衣",
-      "淫妻",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "劇情",
-      "顏射",
-      "絕頂高潮",
-      "美臀",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240406/20240406071719897897.jpg",
-    "actress": [
-      "中城葵",
-      "輝大"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-662"
-  },
-  {
-    "id": 105532,
-    "IDcode": "RKI-663",
-    "title": "下课后感觉会在公园玩的可爱小妹子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "瘦小身型",
-      "学校泳装",
-      "业余",
-      "口交",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "ROOKIE",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a0f0e24e7d663df451694f/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RKI-663"
   }
 ];

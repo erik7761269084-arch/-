@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230723-1/54630d3c91499e294e3481eed91b0e14.jpg",
@@ -22,12 +22,138 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240306-1/8d7684283f216985ffd3cc37270a8f26.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-003"
+  },
+  {
+    "id": 208843,
+    "IDcode": "NDRA-004",
+    "title": "妈妈不要这样子-宮部涼花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-004"
+  },
+  {
+    "id": 208893,
+    "IDcode": "NDRA-005",
+    "title": "新居の入居日-杏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-005"
+  },
+  {
+    "id": 533666,
+    "IDcode": "NDRA-008",
+    "title": "Noと言えない介护士妻が老人达の后生じゃオネダリに根",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-008"
+  },
+  {
+    "id": 533665,
+    "IDcode": "NDRA-009",
+    "title": "特売チラシの下着モデルをやらされた妻 チャラいカメラ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-009"
+  },
+  {
+    "id": 533664,
+    "IDcode": "NDRA-010",
+    "title": "ヨガ教室软体ねとられ爆乳主妇 ウチのカミサンすんごい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-010"
+  },
+  {
+    "id": 533663,
+    "IDcode": "NDRA-011",
+    "title": "ウチの妻が息子の友达のデカチンにメロメロにされました",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-011"
+  },
+  {
+    "id": 533662,
+    "IDcode": "NDRA-012",
+    "title": "スーパー主観ねとられドラマ 嫁さんが仆の弟とハメてい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-012"
+  },
+  {
+    "id": 533661,
+    "IDcode": "NDRA-013",
+    "title": "大后悔NTR 偶然たまたま妻の裸を他人に见られてしまっ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-013"
   },
   {
     "id": 594556,
@@ -39,12 +165,57 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240306-1/6a23049fbb16ccfc1839dac58589f020.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-016"
+  },
+  {
+    "id": 533660,
+    "IDcode": "NDRA-017",
+    "title": "まっ诚に遗憾ながら月末だけ妻が风俗で动くことになりま",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-017"
+  },
+  {
+    "id": 533659,
+    "IDcode": "NDRA-018",
+    "title": "関东某市で小さなマッサージ店を夫妇で営んでいるのですが",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-018"
+  },
+  {
+    "id": 533658,
+    "IDcode": "NDRA-019",
+    "title": "超洁癖性だった筈のウチの妻が腐臭漂う近所の浮浪者様にい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-019"
   },
   {
     "id": 594554,
@@ -54,12 +225,80 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240306-1/44e02220dbf877e0cbe0ca55322e92e8.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-021"
+  },
+  {
+    "id": 216928,
+    "IDcode": "NDRA-024",
+    "title": "ndra-024 主持人的妻子-中山香苗",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-024"
+  },
+  {
+    "id": 533657,
+    "IDcode": "NDRA-028",
+    "title": "邻人の情妇になってしまった妻3 贯かれた菊门 中里美穂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-028"
+  },
+  {
+    "id": 191544,
+    "IDcode": "NDRA-030",
+    "title": "我最宝贝的老婆居然在我不知道的情况下被隔壁的屌丝死肥仔给内射了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-030"
+  },
+  {
+    "id": 105615,
+    "IDcode": "NDRA-032",
+    "title": "我最爱的老婆-北川エリカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "白天出轨",
+      "成熟的女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "北川爱莉香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-032"
   },
   {
     "id": 79679,
@@ -75,7 +314,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/fe91852798128218219d0fb660e8a179.jpg",
@@ -93,7 +332,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230723-1/9e2459a10a3beccca02506903bc19db7.jpg",
@@ -108,7 +347,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250601/RaBlsWbY/1.jpg",
@@ -125,12 +364,42 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240306-1/03ef36f314cc7518f5fb317120122a53.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-043"
+  },
+  {
+    "id": 567631,
+    "IDcode": "NDRA-044",
+    "title": "お义母さん、嫁の代わりに产んでください…恳愿の代理受精宫本纱央里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-044"
+  },
+  {
+    "id": 529554,
+    "IDcode": "NDRA-046",
+    "title": "邻人の情妇になってしまった妻揉みしだかれし乳房",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-046"
   },
   {
     "id": 77088,
@@ -146,7 +415,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fa572010b91a9ed7dd76ff4a7df8cdb1.jpg",
@@ -163,12 +432,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/d5940f4eeb5b2328a09e14517d083e5a.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-048"
+  },
+  {
+    "id": 207570,
+    "IDcode": "NDRA-049",
+    "title": "夫妻旅行被侵犯堕落内射的妻子-美谷朱里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-049"
   },
   {
     "id": 594535,
@@ -178,7 +462,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240304-1/9de2ff071c592c2baa5afffa96fadbf7.jpg",
@@ -193,12 +477,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e6de61237ead5d31aafcf19a1ebdcac5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-051"
+  },
+  {
+    "id": 534328,
+    "IDcode": "NDRA-052",
+    "title": "邻人の情妇になってしまった妻12揉みまくられし乳房中村知恵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-052"
   },
   {
     "id": 77086,
@@ -214,7 +513,7 @@ window.PAGE_DATA = [
       "巨大屁股",
       "白天出轨"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/528d51baee5733ed03026c027b74aded.jpg",
@@ -237,7 +536,7 @@ window.PAGE_DATA = [
       "超乳",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "2019-06-07",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/44bc019d152dec7f3afe9a3c99f09b3e.jpg",
@@ -254,12 +553,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/09/40317_cover_2025-06-09_233404.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-056"
+  },
+  {
+    "id": 234672,
+    "IDcode": "NDRA-058",
+    "title": "我丰满的老婆春菜花变成了隔壁邻居的情妇天天玩内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-058"
+  },
+  {
+    "id": 595037,
+    "IDcode": "NDRA-059",
+    "title": "在夫妻旅行住宿的旅馆的宴会场 妻子被下流的团体客人强迫陪酒…",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-059"
   },
   {
     "id": 77085,
@@ -275,7 +606,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241129-1/fc1a1ebf10ce4978319ad1d0349bee2f.jpg",
@@ -283,6 +614,23 @@ window.PAGE_DATA = [
       "黑川纱里奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-060"
+  },
+  {
+    "id": 165207,
+    "IDcode": "NDRA-062",
+    "title": "隣人の情婦になってしまった妻19",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-062"
   },
   {
     "id": 76606,
@@ -299,7 +647,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9a66db69c631ac006c2101fc2e00c46.jpg",
@@ -307,6 +655,52 @@ window.PAGE_DATA = [
       "永瀬ゆい"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-063"
+  },
+  {
+    "id": 76454,
+    "IDcode": "NDRA-064",
+    "title": "彼女に内緒で彼女の母ともヤってます… 翔田千里",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "巨大屁股",
+      "白天出轨",
+      "中文字幕",
+      "成熟的女人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "翔田千里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-064"
+  },
+  {
+    "id": 76495,
+    "IDcode": "NDRA-065",
+    "title": "眼睁睁的看着我的老婆泽村玲子成为邻居的情妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "高",
+      "成熟的女人",
+      "白天出轨",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "高坂ますみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-065"
   },
   {
     "id": 76546,
@@ -321,7 +715,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241122-1/57725758f47252f59f22a1c745e3c6c3.jpg",
@@ -329,6 +723,100 @@ window.PAGE_DATA = [
       "小早川怜子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-066"
+  },
+  {
+    "id": 172084,
+    "IDcode": "NDRA-067",
+    "title": "被我发现出轨的妻子-深田えい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-067"
+  },
+  {
+    "id": 83760,
+    "IDcode": "NDRA-068",
+    "title": "隣人の情婦になってしまった妻23 うつくしすぎた裸体 三原ほのか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨大阴茎",
+      "成熟的女人",
+      "白天出轨",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "2020-03-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "三原穗香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-068"
+  },
+  {
+    "id": 225768,
+    "IDcode": "NDRA-069",
+    "title": "眼睁睁看着最爱的妻子-今井夏帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-069"
+  },
+  {
+    "id": 81886,
+    "IDcode": "NDRA-070",
+    "title": "瞒着女友和她风韵犹存的母亲平岡里枝子搞上了",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "乱伦",
+      "白天出轨",
+      "乳房",
+      "成熟的女人",
+      "高"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "蓝井优太",
+      "平冈里枝子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-070"
+  },
+  {
+    "id": 210151,
+    "IDcode": "NDRA-071",
+    "title": "隣人情婦-佐知子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-071"
   },
   {
     "id": 107303,
@@ -343,7 +831,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "超乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/ndra075/ndra075pl.jpg",
@@ -353,6 +841,85 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-075"
   },
   {
+    "id": 209681,
+    "IDcode": "NDRA-076",
+    "title": "内緒で彼女の母-瞳リョウ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-076"
+  },
+  {
+    "id": 210057,
+    "IDcode": "NDRA-077",
+    "title": "隣人の情婦-美咲かんな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-077"
+  },
+  {
+    "id": 210033,
+    "IDcode": "NDRA-078",
+    "title": "我在偷偷跟妈妈做爱-神ユキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-078"
+  },
+  {
+    "id": 178423,
+    "IDcode": "NDRA-079",
+    "title": "在女朋友家做客时被她的美熟女妈妈森下美緒勾引发生了违反伦理的内射行为",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-079"
+  },
+  {
+    "id": 178433,
+    "IDcode": "NDRA-080",
+    "title": "温柔贤惠的妻子通野未帆向我讲述如何被隔壁混混男人内射调教成为情妇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-080"
+  },
+  {
     "id": 559813,
     "IDcode": "NDRA-081",
     "title": "成为邻居情妇的妻子30向井爱-向井蓝",
@@ -360,7 +927,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/966e74399d2581425c7137add045932f.jpg",
@@ -375,7 +942,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/24/21779_cover_2025-06-24_195924.jpg",
@@ -390,12 +957,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250119-1/a274a488a8d103bd33d6fcc0ff37c2df.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-084"
+  },
+  {
+    "id": 593816,
+    "IDcode": "NDRA-086",
+    "title": "变成了邻居情妇的妻子 33 君岛美绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-086"
   },
   {
     "id": 559549,
@@ -408,7 +990,7 @@ window.PAGE_DATA = [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/19/96463_cover_2025-09-19_185307.jpg",
@@ -423,7 +1005,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://pic31.anzise.com/pic/20220606/33341d5c2998d4a939a11ac52acd5ea3/1.jpg",
@@ -440,12 +1022,70 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/b0552778cae1c2fda0daaeea3efb25b3.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-091"
+  },
+  {
+    "id": 214611,
+    "IDcode": "NDRA-092",
+    "title": "和她的母亲做爱-成宮いろは",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-092"
+  },
+  {
+    "id": 80382,
+    "IDcode": "NDRA-093",
+    "title": "瞒着她和她母亲做爱-鈴木真夕",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "荡妇",
+      "已婚妇女",
+      "乱伦",
+      "白天出轨",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鈴木真夕"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-093"
+  },
+  {
+    "id": 203574,
+    "IDcode": "NDRA-094",
+    "title": "和她的母亲做爱-森沢かな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-094"
   },
   {
     "id": 85731,
@@ -463,7 +1103,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/c22694c5cc592b7dbcebd97782990499.jpg",
@@ -471,6 +1111,23 @@ window.PAGE_DATA = [
       "长瀬麻美"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-095"
+  },
+  {
+    "id": 217576,
+    "IDcode": "NDRA-096",
+    "title": "ndra-096 瞒着她和她妈妈上床-真木今日子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-096"
   },
   {
     "id": 85727,
@@ -487,7 +1144,7 @@ window.PAGE_DATA = [
       "超乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "2022-05-11",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/745b6d2eb95e2f7eac4ddbd3ebe53146.jpg",
@@ -512,7 +1169,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230128-1/92cac4363903ea997c30af7c33aad77b.jpg",
@@ -520,6 +1177,23 @@ window.PAGE_DATA = [
       "浜崎真绪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-098"
+  },
+  {
+    "id": 224994,
+    "IDcode": "NDRA-099",
+    "title": "瞒着女友和女友的母亲做-橘艾米丽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-099"
   },
   {
     "id": 90702,
@@ -537,7 +1211,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240204-1/ab26d7457f2d1ba0be267ab1663c8279.jpg",
@@ -546,6 +1220,30 @@ window.PAGE_DATA = [
       "タイ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-100"
+  },
+  {
+    "id": 105365,
+    "IDcode": "NDRA-101",
+    "title": "瞒着女友和女友的母亲做了-通野未帆",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "乱伦",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "通野未帆"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-101"
   },
   {
     "id": 167085,
@@ -557,7 +1255,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230524/ndra102pl.jpg!320x216.jpg",
@@ -579,7 +1277,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240204-1/d832cb5dca4b5ebacbc6a9d54a65aae6.jpg",
@@ -602,7 +1300,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240204-1/13dcb1efaba0e89e3e6b3f82fd54ffb7.jpg",
@@ -626,7 +1324,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240204-1/d623b17c2382a43e76f4a0b127e3e446.jpg",
@@ -650,7 +1348,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240204-1/31ea30105c3e2c1ea1b1f9eb62a82249.jpg",
@@ -673,7 +1371,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240204-1/c0127170a4b988ca585330d219ebd5c1.jpg",
@@ -696,7 +1394,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240204-1/40012f2638d293944e5e75601aa14e80.jpg",
@@ -714,7 +1412,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240110/B03FATox/1.jpg",
@@ -729,7 +1427,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240214/YE3oOWZN/1.jpg",
@@ -744,7 +1442,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240313/C7jT34bq/1.jpg",
@@ -773,7 +1471,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "岳母"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240511/2153cffc-f5cd-4e3a-9abc-9da91f3e3e27.jpg",
@@ -797,7 +1495,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241012-1/555db8f2b6bcf820f9490e8843c4acd1.jpg",
@@ -821,7 +1519,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "高"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/ed7fc7eac9f99bad0c1f8041d0240ad3.jpg",
@@ -861,7 +1559,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "岳母"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/ad011a50e9183623805dd300c634488a.jpg",
@@ -901,7 +1599,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "岳母"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241205/20241205091657102102.jpg",
@@ -954,7 +1652,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "岳母"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250207/20250207065240882882.jpg",
@@ -1012,7 +1710,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "岳母"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250405/f98d9198-d0dd-49ea-b4a0-a5a4c788346e.jpg",
@@ -1020,6 +1718,30 @@ window.PAGE_DATA = [
       "橘日向"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-119"
+  },
+  {
+    "id": 66525,
+    "IDcode": "NDRA-120",
+    "title": "彼女に内緒で彼女の母ともヤってます… 吉澤友貴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "已婚妇女",
+      "出轨",
+      "白天出轨",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "JET映像",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "吉泽友贵"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NDRA-120"
   },
   {
     "id": 3732,
@@ -1071,7 +1793,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "岳母"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JET映像",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013322545545_73493_thumbnail.webp",

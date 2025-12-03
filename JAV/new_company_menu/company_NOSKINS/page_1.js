@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230415/1noskn00022pl.jpg!320x216.jpg",
@@ -45,7 +45,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231117/1noskn00023pl.jpg!320x216.jpg",
@@ -62,12 +62,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230206/TEIqPkEo/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-024"
+  },
+  {
+    "id": 520708,
+    "IDcode": "702NOSKN-026",
+    "title": "恋人にしかさせない生中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "NOSKINS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-026"
   },
   {
     "id": 533082,
@@ -79,7 +96,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240215/1noskn00028pl.jpg!320x216.jpg",
@@ -96,7 +113,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/1jDaF78g/1.jpg",
@@ -113,7 +130,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/vgcfRIDx/1.jpg",
@@ -130,7 +147,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/ncMXc2O3/1.jpg",
@@ -147,7 +164,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230605/M1wphcV2/1.jpg",
@@ -164,7 +181,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/EohZEgta/1.jpg",
@@ -181,12 +198,46 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/Vss9nwse/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-040"
+  },
+  {
+    "id": 347888,
+    "IDcode": "702NOSKN-042",
+    "title": "ガチ中出し5P大轮奸！20歳女子大生は彼氏がいるのに14発中出し＆ぶっ壊れ鬼イキ 素人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "NOSKINS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-042"
+  },
+  {
+    "id": 530706,
+    "IDcode": "702NOSKN-044",
+    "title": "超无敌えんこうせい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "NOSKINS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=702NOSKN-044"
   },
   {
     "id": 575360,
@@ -198,7 +249,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/7JO4qovM/1.jpg",
@@ -215,7 +266,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/NmOmbjBy/1.jpg",
@@ -232,7 +283,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/TgBJ7t0Q/1.jpg",
@@ -249,7 +300,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/ocGbYlyH/1.jpg",
@@ -266,7 +317,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/yiiqxA6o/1.jpg",
@@ -283,7 +334,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250715/rcZPglEG/1.jpg",
@@ -301,7 +352,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/POq6wouF/1.jpg",
@@ -318,7 +369,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/cK1KSdNm/1.jpg",
@@ -335,7 +386,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/mjsrKFwF/1.jpg",
@@ -352,7 +403,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/AzLzZinJ/1.jpg",
@@ -369,7 +420,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/U38qd5S9/1.jpg",
@@ -386,7 +437,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/Tskdzhih/1.jpg",
@@ -404,7 +455,7 @@ window.PAGE_DATA = [
       "素人",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/dIfMwx8P/1.jpg",
@@ -421,7 +472,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250716/R4xJmljD/1.jpg",
@@ -438,7 +489,7 @@ window.PAGE_DATA = [
     "genres": [
       "出道作"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/29e7490d0982618d0d3594f5213925c8.jpg",
@@ -475,7 +526,7 @@ window.PAGE_DATA = [
       "脚控・戀足癖",
       "美少女電影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/1432ba3bd19707c995048d758c061a0f.jpg",
@@ -514,7 +565,7 @@ window.PAGE_DATA = [
       "清純",
       "美少女電影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250507-1/fabb10c8c4dbaa954bf93b3e58a262f7.jpg",
@@ -556,7 +607,7 @@ window.PAGE_DATA = [
       "黑絲",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250214/KcMQK2A0/1.jpg",
@@ -597,7 +648,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-08-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240816/2fca7a87-b3a0-4a08-86f0-4c7fd44c85a1.jpg",
@@ -641,7 +692,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/11/07/75f37808dddfffd91f16cb8dc4cc3075.jpg",
@@ -682,7 +733,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-11-01",
     "cover_url": "https://picture.yoshiclub.xyz/20241031/20241031072320188188.jpg",
@@ -719,7 +770,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/13/dbba46bc/vod.jpg",
@@ -757,7 +808,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/10/d15e41ba/vod.jpg",
@@ -805,7 +856,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2025-01-17",
     "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222114602322322.jpg",
@@ -853,7 +904,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2025-01-17",
     "cover_url": "https://picture.yoshiclub.xyz/20241222/20241222114722600600.jpg",
@@ -876,7 +927,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250703-2/2942b055b247dd0024dd97b242043ae2.jpg",
@@ -884,6 +935,30 @@ window.PAGE_DATA = [
       "浅倉まいな"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-022"
+  },
+  {
+    "id": 67467,
+    "IDcode": "AIAV-023",
+    "title": "恥。～異端として弄ばれた性なる僧侶～ イアン・エヴァ【3.1次元】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "羞耻",
+      "无毛",
+      "中出",
+      "素人作品",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "NOSKINS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "イアン・エヴァ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-023"
   },
   {
     "id": 6560,
@@ -937,12 +1012,58 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/06/08/752af828199b7c8686faa4b7a4695a0e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-024"
+  },
+  {
+    "id": 6387,
+    "IDcode": "AIAV-025",
+    "title": "道で拾ったケモ耳従順ペットは発情期",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "艷遇",
+      "小隻馬",
+      "二次元",
+      "貓耳裝飾",
+      "苗條",
+      "AI女優",
+      "美少女",
+      "美腳",
+      "癡女",
+      "自宅",
+      "口交",
+      "形象俱樂部",
+      "比基尼",
+      "高顏值",
+      "明星臉",
+      "極品美人",
+      "蠻橫嬌羞",
+      "特效",
+      "中出",
+      "後入",
+      "企畫",
+      "少女",
+      "劇情",
+      "絕頂高潮",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影",
+      "女鬼・女妖",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "NOSKINS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-025"
   },
   {
     "id": 5435,
@@ -997,7 +1118,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250609/20250609214720435435_thumbnail.webp",
@@ -1050,7 +1171,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250707/20250707204449259259_86026_thumbnail.webp",
@@ -1108,12 +1229,36 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250722/20250722225601171171_20254_thumbnail.webp",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-030"
+  },
+  {
+    "id": 60223,
+    "IDcode": "AIAV-031",
+    "title": "彼女の代わりに何でも叶えてくれる従順巨乳メイド佐東さな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4K",
+      "女佣",
+      "美少女电影",
+      "素人作品",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "NOSKINS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐東さな"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-031"
   },
   {
     "id": 3467,
@@ -1161,12 +1306,57 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/24/67eea4b2/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-032"
+  },
+  {
+    "id": 2913,
+    "IDcode": "AIAV-033",
+    "title": "史上初・完全AI美少女爆誕！ 美処女コスプレイヤーAV Debut 杏仁めい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "白絲",
+      "小隻馬",
+      "二次元",
+      "游戲COSPLAY",
+      "苗條",
+      "女僕制服",
+      "美少女",
+      "肉絲",
+      "美腳",
+      "美乳",
+      "口交",
+      "形象俱樂部",
+      "高顏值",
+      "明星臉",
+      "COSPLAY服飾",
+      "特效",
+      "美人",
+      "企畫",
+      "美腿",
+      "少女",
+      "後入",
+      "奇異的",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "黑絲",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "NOSKINS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=AIAV-033"
   },
   {
     "id": 2557,
@@ -1225,7 +1415,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/24/aaf72ad18c4fd878dfd2cd0c3033a0d7.jpg",
@@ -1283,7 +1473,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/fcb72469/vod.jpg",
@@ -1298,7 +1488,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/27/de0a11b7/vod.jpg",
@@ -1320,7 +1510,7 @@ window.PAGE_DATA = [
       "素人作品",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/d64a12c2fc38b914c5e3299fbe4d089a.jpg",
@@ -1344,7 +1534,7 @@ window.PAGE_DATA = [
       "素人作品",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/b78c8703fd7277e2507ba87d14048f7e.jpg",
@@ -1368,7 +1558,7 @@ window.PAGE_DATA = [
       "主观视角",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/f865e02328c3b834e641f535b3346b25.jpg",
@@ -1392,7 +1582,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/917173a716f7ba0f888cb4168786a9cc.jpg",
@@ -1416,7 +1606,7 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/c8c3a5d022eff5e9e20deb18f337388f.jpg",
@@ -1438,7 +1628,7 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/d30529e182278002b75254dc9b631ebd.jpg",
@@ -1455,7 +1645,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240111/Gy97VEhi/1.jpg",
@@ -1470,7 +1660,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://pic61.anzise.com/pic/20230828/00a1b59e243519bc63da15b1effe76b2/1.jpg",
@@ -1492,7 +1682,7 @@ window.PAGE_DATA = [
       "素人作品",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/c12142527b4a0902a78d3aedb09a69fd.jpg",
@@ -1516,7 +1706,7 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/86b24228793821745605346ad2d643d0.jpg",
@@ -1540,7 +1730,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/17fcc1ca8e9ba84117c4f2cf2624bb90.jpg",
@@ -1557,7 +1747,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240222/lviDQ4K9/1.jpg",
@@ -1572,7 +1762,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240207/Zz8FOuij/1.jpg",
@@ -1595,7 +1785,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/ba533c84c8eb34b35f546dbf5292f4a8.jpg",
@@ -1610,7 +1800,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240307/Dsu4qtJY/1.jpg",
@@ -1633,7 +1823,7 @@ window.PAGE_DATA = [
       "紀錄片",
       "業餘"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231010/20231010002257806806.jpg",
@@ -1662,7 +1852,7 @@ window.PAGE_DATA = [
       "後入",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/3a31bdd4a93fc388b212e8eb7a4c07dc.jpg",
@@ -1689,7 +1879,7 @@ window.PAGE_DATA = [
       "素人作品",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240127-1/c0f991c6232127f146c5e34be5cbb0b0.jpg",
@@ -1708,7 +1898,7 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240111/kB0JbDMO/1.jpg",
@@ -1726,7 +1916,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240124/iH3VwLIv/1.jpg",
@@ -1741,7 +1931,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240111/dZqafYkp/1.jpg",
@@ -1756,7 +1946,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240111/trzW0kaC/1.jpg",
@@ -1771,7 +1961,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240124/k1seSst5/1.jpg",
@@ -1804,7 +1994,7 @@ window.PAGE_DATA = [
       "SM",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-02-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202022301258258.jpg",
@@ -1821,7 +2011,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240222/IwuDeHwu/1.jpg",
@@ -1854,7 +2044,7 @@ window.PAGE_DATA = [
       "巨乳",
       "苗條"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-02-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240202/20240202022443399399.jpg",
@@ -1873,7 +2063,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240221/N6cCsqwY/1.jpg",
@@ -1888,7 +2078,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240221/2Fdi98st/1.jpg",
@@ -1905,7 +2095,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240321/MHL5r7p2/1.jpg",
@@ -1920,7 +2110,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240321/qj1Ei8Dk/1.jpg",
@@ -1935,7 +2125,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240307/AWfvse8e/1.jpg",
@@ -1950,7 +2140,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240321/CHPMvhgS/1.jpg",
@@ -1994,7 +2184,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240405/b0dac0d0-78ae-4c16-9357-b11e12be8cf5.jpg",
@@ -2043,7 +2233,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240419/3a5d5dd9-a30e-4bba-8a17-8c18a62d95f6.jpg",
@@ -2095,7 +2285,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240405/6f99a6c1-9182-426d-a0d0-6bec520c264c.jpg",
@@ -2150,7 +2340,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240419/cb941668-6a9b-4a13-9dc3-f01dddbf2b49.jpg",
@@ -2170,7 +2360,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240424/N33W3v9i/1.jpg",
@@ -2200,7 +2390,7 @@ window.PAGE_DATA = [
       "劇情",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505021342537537.jpg",
@@ -2219,7 +2409,7 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240424/eoSyfR7l/1.jpg",
@@ -2236,7 +2426,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240424/vWccT7Rm/1.jpg",
@@ -2272,7 +2462,7 @@ window.PAGE_DATA = [
       "金髮",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-05-17",
     "cover_url": "https://picture.yoshiclub.xyz/20240421/20240421083510750750.jpg",
@@ -2310,7 +2500,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610041159202202.jpg",
@@ -2342,7 +2532,7 @@ window.PAGE_DATA = [
       "性感",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222559389389.jpg",
@@ -2379,7 +2569,7 @@ window.PAGE_DATA = [
       "劇情",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240505/20240505021535301301.jpg",
@@ -2416,7 +2606,7 @@ window.PAGE_DATA = [
       "劇情",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-06-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240519/20240519222708571571.jpg",
@@ -2456,7 +2646,7 @@ window.PAGE_DATA = [
       "乱交",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-07-19",
     "cover_url": "https://picture.yoshiclub.xyz/20240624/20240624023457936936.jpg",
@@ -2484,7 +2674,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240610/20240610035041806806.jpg",
@@ -2507,7 +2697,7 @@ window.PAGE_DATA = [
       "素人作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "NOSKINS",
     "publish_date": "2024-08-02",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241014-1/116d42d7d52354efc8a3e00e6fb280ae.jpg",
@@ -2516,83 +2706,5 @@ window.PAGE_DATA = [
       "月美りょう"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-097"
-  },
-  {
-    "id": 93567,
-    "IDcode": "NOSKN-098",
-    "title": "潮吹きすんごい！天真爛漫にセルフポルチオイキするFカップ美女に完生中出し@ノースキンズ！【NSドキュメント】 天月あず",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "姐姐",
-      "纪录片",
-      "中出",
-      "素人作品",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "NOSKINS",
-    "publish_date": "2024-08-16",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241013-1/679a9668ab250f816d08a0ed96e959cc.jpg",
-    "actress": [
-      "天月梓"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-098"
-  },
-  {
-    "id": 412442,
-    "IDcode": "NOSKN-099",
-    "title": "ノーブラNS温泉旅行白石なぎさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "NOSKINS",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250823-1/58642b669b78ea298368a7e5402b4232.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NOSKN-099"
-  },
-  {
-    "id": 11122,
-    "IDcode": "VAIAV-001",
-    "title": "【3.1次元】AI神BODY腹肌x超絕美貌 MUTEKI瑜伽教練@LISA AV登場",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "二次元",
-      "AI女優",
-      "美少女",
-      "美腳",
-      "美乳",
-      "健身房",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "明星臉",
-      "特效",
-      "健身教練",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "美臀",
-      "抹油",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "NOSKINS",
-    "publish_date": "2024-11-15",
-    "cover_url": "https://picture.yoshiclub.xyz/20241020/20241020221733917917.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=VAIAV-001"
   }
 ];

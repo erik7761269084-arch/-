@@ -7,12 +7,47 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/39726_cover_2025-10-01_091217.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888ROYD-A170"
+  },
+  {
+    "id": 556542,
+    "IDcode": "ROYD-001",
+    "title": "美巨乳家庭教师 媚薬NTR 永井玛丽亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-001"
+  },
+  {
+    "id": 556577,
+    "IDcode": "ROYD-002",
+    "title": "亚里曼的妈妈朋友也是鱿鱼，抽搐得厉害！我是一个性欲怪物，我的儿子......深田英美 - 深田咏美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-002"
   },
   {
     "id": 556506,
@@ -24,7 +59,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20201114-1/237d2b7462c060b94c6e68abecfa507b.jpg",
@@ -39,7 +74,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20201114-1/92aafb12c7eecfc73ea35356e8f83f62.jpg",
@@ -54,7 +89,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20201115-1/b2c8a29757641433a197bda341d47a8a.jpg",
@@ -71,7 +106,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/85cb23b7a6d0ee4d3f86133d5d0035c4.jpg",
@@ -86,7 +121,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://pic29.anzise.com/pic/20220530/68d35547d1365e609e4758947a7f09a9/1.jpg",
@@ -106,7 +141,7 @@ window.PAGE_DATA = [
       "OL",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/c82acbe20b0b8e3e81f8615756ecfb2d.jpg",
@@ -114,6 +149,55 @@ window.PAGE_DATA = [
       "篠田优"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-009"
+  },
+  {
+    "id": 153451,
+    "IDcode": "ROYD-017",
+    "title": "無防備すぎる巨乳妹-逢見リカ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "逢見梨花"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-017"
+  },
+  {
+    "id": 210140,
+    "IDcode": "ROYD-020",
+    "title": "両親旅行的5天-新川愛七",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-020"
+  },
+  {
+    "id": 210400,
+    "IDcode": "ROYD-021",
+    "title": "办公室里唯一的男人-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-021"
   },
   {
     "id": 550051,
@@ -125,12 +209,89 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231223/1600320597-royd023pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-023"
+  },
+  {
+    "id": 210401,
+    "IDcode": "ROYD-024",
+    "title": "喜欢情色书籍的优等生-久留木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-024"
+  },
+  {
+    "id": 176238,
+    "IDcode": "ROYD-028",
+    "title": "在父母的催促下和哥哥备孕的美女嫂子居然大晚上跑到我房间要我帮忙",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-028"
+  },
+  {
+    "id": 211059,
+    "IDcode": "ROYD-029",
+    "title": "男人的合租屋里-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-029"
+  },
+  {
+    "id": 211060,
+    "IDcode": "ROYD-030",
+    "title": "絶世美女-木下ひまり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-030"
+  },
+  {
+    "id": 211061,
+    "IDcode": "ROYD-031",
+    "title": "神尻妹 松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-031"
   },
   {
     "id": 559755,
@@ -140,12 +301,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/818d4bb6f7bad0217b2a957a0e35d4f5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-034"
+  },
+  {
+    "id": 103976,
+    "IDcode": "ROYD-043",
+    "title": "超絶可愛居酒屋的看板妹子馬上幹OK！月乃櫻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-043"
   },
   {
     "id": 88485,
@@ -160,7 +336,7 @@ window.PAGE_DATA = [
       "巨乳",
       "白天出轨"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/1ad0f73109dbbf088664f4ff8b3a411c.jpg",
@@ -182,7 +358,7 @@ window.PAGE_DATA = [
       "巨乳",
       "白天出轨"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/5294a1eef51a3998f7d4898937c85ee5.jpg",
@@ -202,7 +378,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女教师"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/83173f4ecb7f61fea47b69684ed953c3.jpg",
@@ -222,7 +398,7 @@ window.PAGE_DATA = [
       "中出",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/9dd26cde964fdf79c953723e0b6b6d46.jpg",
@@ -239,12 +415,57 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8da9bfa020f5238c7ac077accfec5a2b.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-057"
+  },
+  {
+    "id": 213377,
+    "IDcode": "ROYD-061",
+    "title": "性欲増強剤-緑川みやび",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-061"
+  },
+  {
+    "id": 212631,
+    "IDcode": "ROYD-062",
+    "title": "家庭教師-愛花あゆみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-062"
+  },
+  {
+    "id": 212624,
+    "IDcode": "ROYD-063",
+    "title": "義兄家庭-百瀬あすか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-063"
   },
   {
     "id": 79381,
@@ -258,7 +479,7 @@ window.PAGE_DATA = [
       "中出",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221022-1/1394afc4b3e8948810e5cbcae19681fb.jpg",
@@ -279,7 +500,7 @@ window.PAGE_DATA = [
       "校服",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221017-1/1d7491eb9ea87d1879d8008f56a6cdf9.jpg",
@@ -301,7 +522,7 @@ window.PAGE_DATA = [
       "妹妹",
       "童年朋友"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "2021-08-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/bb8d7f46babc7bb09d9c0923001ed8d4.jpg",
@@ -325,7 +546,7 @@ window.PAGE_DATA = [
       "口交",
       "企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "2021-09-28",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d20517e4a73d4f159b6067/cover.jpg",
@@ -333,6 +554,29 @@ window.PAGE_DATA = [
       "堀内美香"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-067"
+  },
+  {
+    "id": 79540,
+    "IDcode": "ROYD-068",
+    "title": "想像以上に大人になった幼馴染のエロ過ぎるおっぱいにフル勃起！互いの両親が不在で、年下の幼馴染が我が家にお泊りにやってきた。 葉風ゆりあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "童年朋友",
+      "中出",
+      "女上位",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "2021-09-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-068"
   },
   {
     "id": 86111,
@@ -347,7 +591,7 @@ window.PAGE_DATA = [
       "中出",
       "平胸"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/107a818362daef589f7a3fc3a833f4ce.jpg",
@@ -368,7 +612,7 @@ window.PAGE_DATA = [
       "OL",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b08127e32d596a62f2fbe7394cf84fbd.jpg",
@@ -392,7 +636,7 @@ window.PAGE_DATA = [
       "两女一男",
       "母亲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b46e67cff9a44ff22b1ad926c711795e.jpg",
@@ -415,7 +659,7 @@ window.PAGE_DATA = [
       "乳房",
       "美少女电影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/e53e1f00918ee84e3ae3dcf79276ea26.jpg",
@@ -438,7 +682,7 @@ window.PAGE_DATA = [
       "巨乳",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/0dd4c7b5416844346f7a06808a480bad.jpg",
@@ -461,7 +705,7 @@ window.PAGE_DATA = [
       "女上位",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/5cd4dbb5b02228af9d2931aee24290ad.jpg",
@@ -485,7 +729,7 @@ window.PAGE_DATA = [
       "妹妹",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8f1041936d72b89cac4d7c16f79ae968.jpg",
@@ -508,7 +752,7 @@ window.PAGE_DATA = [
       "巨乳",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/aaee217a6478dfa269bf435f2c2d9ad6.jpg",
@@ -532,7 +776,7 @@ window.PAGE_DATA = [
       "女上位",
       "女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/01ddd8c576aefe76c5dcacb929c7ca5d.jpg",
@@ -552,7 +796,7 @@ window.PAGE_DATA = [
       "口交",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/990bfbca5d90b2a950173e64d39d8b8f.jpg",
@@ -575,7 +819,7 @@ window.PAGE_DATA = [
       "口交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2fd686881ecb090fe9d855cb56aa8527.jpg",
@@ -598,7 +842,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ceb37825ea333a7b40b745a1e27dc763.jpg",
@@ -620,7 +864,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/80172db2d347cd90a9acbd00f1d4d3bf.jpg",
@@ -643,7 +887,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/9323f5a0a7737bc470844e7d3ed80769.jpg",
@@ -666,7 +910,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "2022-03-22",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c2539e39bf47117df2197c4851bad565.jpg",
@@ -690,7 +934,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/19550eb3608d90ae6f2deb65b03ed34a.jpg",
@@ -712,7 +956,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c0c99cf983eef23d3b4e75f09200ac17.jpg",
@@ -732,7 +976,7 @@ window.PAGE_DATA = [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4e408143bd480618dfa989d7680c5d51.jpg",
@@ -747,7 +991,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/287b688d3cbceb415b0e9ea819e0c6a6.jpg",
@@ -762,7 +1006,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2863b6da8102352d8790f8009f29fbc6.jpg",
@@ -781,7 +1025,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/192434af5d9e2d8eb15ee20c126c5bb9.jpg",
@@ -806,7 +1050,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/233b60439c39b1c4c013a1d190b28946.jpg",
@@ -831,7 +1075,7 @@ window.PAGE_DATA = [
       "单体作品",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/19d58a0bea127d7014eaab0688d8d2bc.jpg",
@@ -855,7 +1099,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/0699b683e7a23d1003efd2120a830652.jpg",
@@ -877,7 +1121,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c7690b5e43ee2028fe339a87d1b08ace.jpg",
@@ -902,7 +1146,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c418dbaabb47fc77db91444215dd8077.jpg",
@@ -925,7 +1169,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c844ea11f79613f66f41c367c5a14145.jpg",
@@ -946,7 +1190,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b32cdfc3a52b6e9f892a6927dd11fd29.jpg",
@@ -969,7 +1213,7 @@ window.PAGE_DATA = [
       "巨大屁股",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/907a8f4112e8d24154f96f86ad4c9217.jpg",
@@ -991,7 +1235,7 @@ window.PAGE_DATA = [
       "巨乳",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/a34a894feb179b20bdcf8cecc1748047.jpg",
@@ -1015,7 +1259,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/cd961af7ccdae534c9bd2e4f77d469fc.jpg",
@@ -1030,7 +1274,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/8b0d55a109c74968c9f6be6837a39dc7.jpg",
@@ -1051,7 +1295,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/52d536b071154093ce773bbf93e130f0.jpg",
@@ -1076,7 +1320,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ac2db23e7eeaa33568492fe307ca9fbf.jpg",
@@ -1097,7 +1341,7 @@ window.PAGE_DATA = [
       "颜射",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ffdbfe7f3d48c4929c4ae95ffdc673a5.jpg",
@@ -1120,7 +1364,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/9eda4d35232ec73cc3fc756e54201057.jpg",
@@ -1142,7 +1386,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/48b0f837fcc89fb0afa3c508d1ee7770.jpg",
@@ -1166,7 +1410,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/1f1fc45943503423e532ff3e1ee97912.jpg",
@@ -1190,7 +1434,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250331-1/9c8132f186fea0f325702bcf48cd6a6c.jpg",
@@ -1200,6 +1444,29 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-109"
   },
   {
+    "id": 106745,
+    "IDcode": "ROYD-110",
+    "title": "把我变成了性爱的宠物-小花のん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "M男",
+      "巨乳",
+      "单体作品",
+      "处男"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ハカー"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-110"
+  },
+  {
     "id": 565541,
     "IDcode": "ROYD-111",
     "title": "サービス満点！！胜手に中出し！！学校中退したら天职に出会った！！行列の出来るほぼJ系风俗嬢 皆瀬あかり",
@@ -1207,7 +1474,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4e7997c060a7dbe7c1fae9a8ca9d425c.jpg",
@@ -1228,7 +1495,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250327-1/38a2414268daa930f860476d0d8d8584.jpg",
@@ -1245,12 +1512,37 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/iJwDBYQE.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-113"
+  },
+  {
+    "id": 106924,
+    "IDcode": "ROYD-115",
+    "title": "哥哥和嫂子在拼命扼制自己的声音时达到了高潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "人妻",
+      "已婚妇女",
+      "中出",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "黑川堇",
+      "タツ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-115"
   },
   {
     "id": 167304,
@@ -1260,12 +1552,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230714/royd116pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-116"
+  },
+  {
+    "id": 68291,
+    "IDcode": "ROYD-117",
+    "title": "捏住我妹妹光秃秃的丰满大奶子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "乱伦",
+      "口交",
+      "巨乳",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "绫濑心"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-117"
   },
   {
     "id": 69384,
@@ -1281,7 +1597,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250325-1/76cd5679e80a852dffe72cdea094d1c3.jpg",
@@ -1298,7 +1614,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230309/R2zUYCHa/1.jpg",
@@ -1315,7 +1631,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230419/zA6O0VRh/1.jpg",
@@ -1332,12 +1648,131 @@ window.PAGE_DATA = [
     "genres": [
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230419/kzbRHV4X/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-121"
+  },
+  {
+    "id": 104364,
+    "IDcode": "ROYD-123",
+    "title": "家庭教師-三尾めぐ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "寡妇",
+      "中出",
+      "口交",
+      "手淫",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-123"
+  },
+  {
+    "id": 100604,
+    "IDcode": "ROYD-124",
+    "title": "义妹的美尻好大-圆井萌华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "屁股",
+      "美少女电影",
+      "中出",
+      "妹妹",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "円井萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-124"
+  },
+  {
+    "id": 100595,
+    "IDcode": "ROYD-125",
+    "title": "美尻女教师-黑川堇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "苗条",
+      "女教师",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "黑川堇"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-125"
+  },
+  {
+    "id": 100681,
+    "IDcode": "ROYD-126",
+    "title": "搬來隔壁的苗條美女 看起來開朗卻有點寂寞…跟前人妻 中出性愛到忘了自我 森澤佳奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "人妻",
+      "已婚妇女",
+      "新娘，年轻妻子",
+      "中出",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "森澤佳奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-126"
+  },
+  {
+    "id": 89709,
+    "IDcode": "ROYD-127",
+    "title": "女高中生NTR-圆井萌华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "NTR",
+      "白天出轨",
+      "淫妻",
+      "中出",
+      "美少女电影",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "円井萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-127"
   },
   {
     "id": 89708,
@@ -1354,7 +1789,7 @@ window.PAGE_DATA = [
       "各种职业",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-05-23",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240107-1/7e57d49c513f61e222ce4e1d692bff7d.jpg",
@@ -1379,7 +1814,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-05-23",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240107-1/e3b06e7563aa931c71fe3c0ea5a86cd8.jpg",
@@ -1398,7 +1833,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20240202/royd130pl.jpg!320x216.jpg",
@@ -1420,7 +1855,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-06-27",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230818-1/d6c05a069d45c769afc8a9e58939dbd9.jpg",
@@ -1438,7 +1873,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20240310/royd132pl.jpg!320x216.jpg",
@@ -1455,12 +1890,35 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20240310/royd133pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-133"
+  },
+  {
+    "id": 87890,
+    "IDcode": "ROYD-134",
+    "title": "被还是处的学生痴女责弄-仓本堇",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "女上位",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ニック"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-134"
   },
   {
     "id": 562902,
@@ -1470,12 +1928,83 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231109/0L0diGok/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-135"
+  },
+  {
+    "id": 89740,
+    "IDcode": "ROYD-136",
+    "title": "明明是辣妹却超内向的义妹",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "中出",
+      "美少女电影",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-136"
+  },
+  {
+    "id": 89739,
+    "IDcode": "ROYD-137",
+    "title": "在房间里有只穿内衣的辣妹-百永纱里奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "中出",
+      "口交",
+      "巨乳",
+      "女生",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "黑川纱里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-137"
+  },
+  {
+    "id": 89712,
+    "IDcode": "ROYD-138",
+    "title": "被弟弟的巨根顶到子宫-藤子美绪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "巨大阴茎",
+      "中出",
+      "口交",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ROYAL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "藤子未央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-138"
   },
   {
     "id": 89814,
@@ -1490,790 +2019,11 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ROYAL",
     "publish_date": "2023-09-26",
     "cover_url": "https://tuaskbgnekr.com/20231109/sxgJkw6B/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-139"
-  },
-  {
-    "id": 89815,
-    "IDcode": "ROYD-140",
-    "title": "精子だけは譲れない。巨乳好きの弟が喜ぶ日替わり姉妹丼中出しSEX",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "乳交",
-      "姐姐",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2023-09-26",
-    "cover_url": "https://tuaskbgnekr.com/20231109/uGXZE8IJ/1.jpg",
-    "actress": [
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-140"
-  },
-  {
-    "id": 89816,
-    "IDcode": "ROYD-142",
-    "title": "家政妇的无自觉诱惑-斋藤艾米丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳房",
-      "中出",
-      "口交",
-      "手淫",
-      "各种职业",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/05/6841a65641a147ed1a6298a7/cover.jpg",
-    "actress": [
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-142"
-  },
-  {
-    "id": 18180,
-    "IDcode": "ROYD-143",
-    "title": "輸給貧乳同學的敏感貧乳摩擦誘惑持續無套做愛 伊織雛乃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "貧乳",
-      "JK校服",
-      "中出",
-      "學校"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231024/2023102400011944.jpg",
-    "actress": [
-      "伊織雛乃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-143"
-  },
-  {
-    "id": 18177,
-    "IDcode": "ROYD-145",
-    "title": "如果你是AV製作公司的經理，你自然有權力安排誰來做肉便器，強行指派肉便器 讓人排隊壓榨倉本堇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "辦公室",
-      "多P",
-      "羞恥",
-      "脅迫做愛",
-      "中出",
-      "亂交 • 群P",
-      "企畫",
-      "口交",
-      "苗條",
-      "女優"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2023-10-24",
-    "cover_url": "https://picture.yoshiclub.xyz/20231024/20231024000554276276.jpg",
-    "actress": [
-      "倉本菫"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-145"
-  },
-  {
-    "id": 18178,
-    "IDcode": "ROYD-146",
-    "title": "和嫂子明明只是接吻而已-五日市芽依",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "NTR",
-      "出軌",
-      "中出",
-      "巨乳",
-      "嫂嫂",
-      "接吻"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231024/20231024000916470470.jpg",
-    "actress": [
-      "五日市芽依",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-146"
-  },
-  {
-    "id": 18208,
-    "IDcode": "ROYD-147",
-    "title": "爆乳若妻男士美容院-櫻茉日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "按摩・美容店",
-      "乳交",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "中出",
-      "巨乳",
-      "口交"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231022/20231022041808987987.jpg",
-    "actress": [
-      "堀北実来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-147"
-  },
-  {
-    "id": 17629,
-    "IDcode": "ROYD-148",
-    "title": "是太放蕩了！ 用大屁股誘惑家庭老師的女學生",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "打手槍",
-      "女學生",
-      "艷遇",
-      "手指插入",
-      "癡女",
-      "JK校服",
-      "勾引・誘惑",
-      "中出",
-      "家庭教師",
-      "口交",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/65ea7c23-3bf7-4758-bca8-5e3683760872.jpg",
-    "actress": [
-      "和久井美兎"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-148"
-  },
-  {
-    "id": 17630,
-    "IDcode": "ROYD-149",
-    "title": "像是一場夢一樣，早上醒來身邊竟然有個漂亮的巨乳女孩",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "打手槍",
-      "女學生",
-      "艷遇",
-      "美少女",
-      "JK校服",
-      "叛逆少女",
-      "中出",
-      "巨乳",
-      "口交",
-      "性感",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/576c6c4b-f2aa-476d-9320-205f76a9d448.jpg",
-    "actress": [
-      "佐藤しお",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-149"
-  },
-  {
-    "id": 89781,
-    "IDcode": "ROYD-150",
-    "title": "無垢スレンダーな僕の彼女は男友達に染められ、いいなり肉便器になっていた。 柊ゆうき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "多P",
-      "中出",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787fc0ef9a2e9b1d4a531c7/cover.jpg",
-    "actress": [
-      "柊有希",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-150"
-  },
-  {
-    "id": 17089,
-    "IDcode": "ROYD-151",
-    "title": "我同事是個奶子很大、表情悶悶不樂的女孩叫星野夏樹，她想成爲我的炮友",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "約炮",
-      "JK校服",
-      "美乳",
-      "制服",
-      "過膝襪・小腿襪",
-      "後入",
-      "巨乳",
-      "女上位",
-      "騎乗位",
-      "美臀",
-      "女同事"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2023-12-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20231225/7c127ef1-01b2-46fb-82fb-71209c0e93ae.jpg",
-    "actress": [
-      "星乃夏月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-151"
-  },
-  {
-    "id": 18140,
-    "IDcode": "ROYD-153",
-    "title": "做家事的间隙填补彼此的欲望-美咲加奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨尻",
-      "手指插入",
-      "新娘",
-      "出軌",
-      "美乳",
-      "中出",
-      "口交",
-      "劇情",
-      "美臀"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231028/62b92169-fc13-4165-b30f-929ad68995bb.jpg",
-    "actress": [
-      "美咲佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-153"
-  },
-  {
-    "id": 17085,
-    "IDcode": "ROYD-154",
-    "title": "微笑着想要肉棒的甘痴女上司-都月るいさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "乳交",
-      "女上司",
-      "中出",
-      "制服",
-      "蕩婦",
-      "口交",
-      "美乳",
-      "女上位",
-      "後入",
-      "巨乳",
-      "騎乗位",
-      "黑絲"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231225/b8f856ec-b1d9-4cf8-8eb6-d252ed38c061.jpg",
-    "actress": [
-      "都月楓",
-      "ひょこり",
-      "安倍亜沙美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-154"
-  },
-  {
-    "id": 16639,
-    "IDcode": "ROYD-155",
-    "title": "看到过于色情的巨乳完全勃起-弓乃立梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "鄰居",
-      "美少女",
-      "青梅竹馬",
-      "乳交",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "中出",
-      "口交",
-      "後入",
-      "女上位",
-      "巨乳",
-      "苗條"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240122/20240122080110212212.jpg",
-    "actress": [
-      "弓乃凜夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-155"
-  },
-  {
-    "id": 17083,
-    "IDcode": "ROYD-156",
-    "title": "无内巨乳大姐姐-橘玛丽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "鄰居",
-      "乱伦",
-      "乳交",
-      "美乳",
-      "中出",
-      "口交",
-      "後入",
-      "女上位",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20231225/4ae46228-a315-4c6a-b019-6bda10225160.jpg",
-    "actress": [
-      "橘瑪麗",
-      "安倍亜沙美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-156"
-  },
-  {
-    "id": 17628,
-    "IDcode": "ROYD-157",
-    "title": "男孩氣十足的女孩，穿著超乎想像的成人內衣，身材豐滿",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "接吻",
-      "形象俱樂部",
-      "打手槍",
-      "女學生",
-      "女友・妻子",
-      "美少女",
-      "手指插入",
-      "純粹的慾望",
-      "女上位",
-      "中出",
-      "巨乳",
-      "大小姐",
-      "性感",
-      "口交",
-      "劇情",
-      "學姐・學妹",
-      "絕頂高潮"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2023-11-28",
-    "cover_url": "https://picture.yoshiclub.xyz/20231126/b6c14113-d1a9-4ce0-92c0-5646e9eb27ca.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-157"
-  },
-  {
-    "id": 16641,
-    "IDcode": "ROYD-158",
-    "title": "被鬼般活塞抽插深喉-有栖舞衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "凌辱",
-      "深喉",
-      "美少女",
-      "手指插入",
-      "M男・M女",
-      "拘束・拷問",
-      "內衣",
-      "乳交",
-      "調教",
-      "美乳",
-      "中出",
-      "飯店",
-      "口交",
-      "巨乳",
-      "性虐癖",
-      "SM",
-      "苗條"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a3f33ac813dc779d961c2/cover.jpg",
-    "actress": [
-      "有栖舞衣",
-      "ニック"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-158"
-  },
-  {
-    "id": 16635,
-    "IDcode": "ROYD-159",
-    "title": "纖細巨乳姐姐-森日向子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "OL",
-      "M男・M女",
-      "乱伦",
-      "乳交",
-      "黑絲",
-      "中出",
-      "美乳",
-      "口交",
-      "巨乳",
-      "女上位",
-      "苗條"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a46ecac813dc779d96223/cover.jpg",
-    "actress": [
-      "森日向子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-159"
-  },
-  {
-    "id": 16079,
-    "IDcode": "ROYD-160",
-    "title": "醉酒的纖細美腿姐姐誤會我是她仰慕的學長，我的雞巴插進了她的體內，讓她大聲淫叫",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "乱伦",
-      "酒後亂性",
-      "黑絲",
-      "姐姐・妹妹",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2024-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054342456456.jpg",
-    "actress": [
-      "前田美波"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-160"
-  },
-  {
-    "id": 16077,
-    "IDcode": "ROYD-161",
-    "title": "出差时与霸道女上司共处一室-森泽佳奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "凌辱",
-      "和服・浴衣・喪服",
-      "同住一屋・相部屋",
-      "緊縛",
-      "OL",
-      "迷姦",
-      "女上司",
-      "飯店",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a311aac813dc779d96129/cover.jpg",
-    "actress": [
-      "森澤佳奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-161"
-  },
-  {
-    "id": 16075,
-    "IDcode": "ROYD-163",
-    "title": "豐滿的辦公室OL在無情的乳房折磨美容院被喂媚藥後反復高潮",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "美少女電影",
-      "按摩・美容店",
-      "媚藥・迷藥",
-      "按摩・物理治療・美容",
-      "蕩婦",
-      "巨乳",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2024-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054608960960.jpg",
-    "actress": [
-      "弓乃凜夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-163"
-  },
-  {
-    "id": 16076,
-    "IDcode": "ROYD-164",
-    "title": "我姐姐是挨操包！ ？手淫讓我感覺我被迫控制自己，以及我射出精液和體內射精的生活。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "美少女電影",
-      "美少女",
-      "JK校服",
-      "乱伦",
-      "自宅",
-      "姐姐・妹妹",
-      "劇情",
-      "不倫"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2024-02-27",
-    "cover_url": "https://picture.yoshiclub.xyz/20240225/20240225054535717717.jpg",
-    "actress": [
-      "日向ひかげ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-164"
-  },
-  {
-    "id": 15882,
-    "IDcode": "ROYD-165",
-    "title": "超胸、翹臀、豐腴身材女人的甜言蜜語，以及你從未體驗過的超強技巧，讓你的大腦和雞巴瞬間死去的按摩院",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩・美容店",
-      "風俗娘",
-      "乳交",
-      "按摩・物理治療・美容",
-      "按摩女郎",
-      "美乳",
-      "黑絲",
-      "蕩婦",
-      "口交",
-      "後入",
-      "性感",
-      "巨乳",
-      "騎乗位",
-      "劇情",
-      "抹油"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2024-03-26",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324041427428428.jpg",
-    "actress": [
-      "永井瑪麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-165"
-  },
-  {
-    "id": 15885,
-    "IDcode": "ROYD-166",
-    "title": "在这里插入怎么样-并木爱奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "美少女電影",
-      "美少女",
-      "癡女",
-      "姐弟・兄妹",
-      "慾求不滿",
-      "眼鏡",
-      "自宅",
-      "中出",
-      "巨乳",
-      "口交",
-      "劇情"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324041745645645.jpg",
-    "actress": [
-      "並木愛奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-166"
-  },
-  {
-    "id": 15887,
-    "IDcode": "ROYD-168",
-    "title": "明明一直以来都是姐弟关系-椿利华",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "淫亂",
-      "姐弟・兄妹",
-      "乱伦",
-      "69",
-      "黑絲",
-      "中出",
-      "蕩婦",
-      "後入",
-      "巨乳",
-      "劇情",
-      "姐姐・妹妹",
-      "口交",
-      "騎乗位",
-      "絕頂高潮"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/05/68e15994dd88d14f0620220c/cover.jpg",
-    "actress": [
-      "椿莉香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-168"
-  },
-  {
-    "id": 105967,
-    "IDcode": "ROYD-169",
-    "title": "在超可爱巨乳妹妹的长裙内-爱宝玲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "中出",
-      "巨乳",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/13/68ec1bea52c12b4e6846a4ee/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-169"
-  },
-  {
-    "id": 15881,
-    "IDcode": "ROYD-170",
-    "title": "早上起床后穿着浴衣的后辈女职员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "舔陰",
-      "美少女電影",
-      "和服・浴衣・喪服",
-      "艷遇",
-      "OL",
-      "女上位",
-      "出差",
-      "蕩婦",
-      "飯店",
-      "性感",
-      "騎乗位",
-      "劇情",
-      "女同事"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240324/20240324041606183183.jpg",
-    "actress": [
-      "二葉惠麻",
-      "二叶エマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-170"
-  },
-  {
-    "id": 15322,
-    "IDcode": "ROYD-171",
-    "title": "被離家出走的欲求不滿大嫂挑逗撒嬌",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "嫂嫂",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "口交",
-      "巨乳",
-      "性感",
-      "人妻",
-      "NTR",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "舔陰",
-      "乱伦",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "ROYAL",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240419/20240419043444988988.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ROYD-171"
   }
 ];

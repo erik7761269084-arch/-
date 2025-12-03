@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240119/8qmQruKZ/1.jpg",
@@ -24,12 +24,30 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/19/68a4aa64d7791f9273fda4df/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-010"
+  },
+  {
+    "id": 545643,
+    "IDcode": "DJN-011",
+    "title": "【爆乳×美脚×爆尻】美少女コスプレイヤー豪华6P大乱交スペシャル",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱交",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MONSTERS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-011"
   },
   {
     "id": 545434,
@@ -41,7 +59,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240601/D21ACDp4/1.jpg",
@@ -56,7 +74,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240629/JCMehe5I/1.jpg",
@@ -87,7 +105,7 @@ window.PAGE_DATA = [
       "辣妹/GAL系",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "2024-08-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240801/779bf24c-b5b2-45b2-a437-6dd1bfc8a2a3.jpg",
@@ -106,7 +124,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240925/X48T9ygI/1.jpg",
@@ -150,7 +168,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f378724e7d663df49382d4/cover.jpg",
@@ -211,7 +229,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/2b30b3db9538129192e916d2ee5e10b2.jpg",
@@ -231,7 +249,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/22/dc64bc22/vod.jpg",
@@ -283,7 +301,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "2024-12-26",
     "cover_url": "https://picture.yoshiclub.xyz/20241226/2d115cc2-a155-4f0f-9446-f9e20a5cdf20.jpg",
@@ -293,6 +311,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-019"
   },
   {
+    "id": 187407,
+    "IDcode": "DJN-020",
+    "title": "見参！ラスベガスどすけべ御前試合 水着剣豪中出し七色勝負！【第二巻】 羽生アリサ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MONSTERS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-020"
+  },
+  {
     "id": 457226,
     "IDcode": "DJN-021",
     "title": "オフパコ常連ド淫乱メスガキ美少女レイヤー達の絶頂アクメキメ込む人気Vtuber併せ2.5次元セッ",
@@ -300,7 +333,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250826-1/2480a47e1a2d3e98089da934ef457997.jpg",
@@ -317,7 +350,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250709-1/399fdf8d495827ca63db7edd8bb25022.jpg",
@@ -332,12 +365,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250616-1/31ff275077a6faafbab6dad7a46c82ff.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-023"
+  },
+  {
+    "id": 63404,
+    "IDcode": "DJN-024",
+    "title": "ビジュ良すぎ！性欲つよっつよ！どすけべ腰振りチ〇ポおねだり！【撮影会で絶大な人気を誇るコスプレイヤー美少女】連続生中出し子作り孕ませ種付け妊娠オープンワールドファック 一条みお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "乳房",
+      "美少女电影",
+      "中出",
+      "角色扮演者",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "MONSTERS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "一条美绪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-024"
   },
   {
     "id": 4115,
@@ -390,7 +447,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250724/20250724041943345345_52862_thumbnail.webp",
@@ -453,7 +510,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250821/20250821025110718718_24019_thumbnail.webp",
@@ -461,6 +518,86 @@ window.PAGE_DATA = [
       "羽生ありさ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-026"
+  },
+  {
+    "id": 2395,
+    "IDcode": "DJN-027",
+    "title": "恥もかき捨てた体長140cm台ちっぱい美少女達のハメ狂う4Pオフパコ乱交 W大量潮吹き相互ビチャイキ中出しぶっかけ絶頂！！ 皆月ひかる 冬愛ことね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "3P・4P",
+      "小隻馬",
+      "二次元",
+      "游戲COSPLAY",
+      "口爆",
+      "網襪",
+      "苗條",
+      "女僕制服",
+      "美少女",
+      "美腳",
+      "癡女",
+      "羞恥",
+      "大奶头",
+      "過膝襪・小腿襪",
+      "按摩棒",
+      "清楚系",
+      "亂交 • 群P",
+      "口交",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "兩男一女",
+      "高顏值",
+      "貧乳",
+      "淫亂",
+      "極品美人",
+      "蠻橫嬌羞",
+      "COSPLAY服飾",
+      "中出",
+      "美人",
+      "企畫",
+      "後入",
+      "少女",
+      "顏射",
+      "絕頂高潮",
+      "角色扮演",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "無毛",
+      "蘿莉",
+      "蘿莉控",
+      "女上位",
+      "乱交",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "MONSTERS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "皆月光",
+      "冬愛琴音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-027"
+  },
+  {
+    "id": 174472,
+    "IDcode": "DJN-028",
+    "title": "酔えば酔うほどエロくなる！淫乱酒乱どすけべクソ雑魚メスガキレイヤー真性生中出しファック",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MONSTERS",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DJN-028"
   },
   {
     "id": 515869,
@@ -472,7 +609,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/05/690ac7931fcdee36fa7593eb/poster2.jpg",
@@ -523,7 +660,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MONSTERS",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b1adbf735bb663f762e598/cover.jpg",

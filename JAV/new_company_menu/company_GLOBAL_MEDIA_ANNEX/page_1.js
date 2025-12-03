@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240812/XVgaUkcW/1.jpg",
@@ -26,7 +26,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2024-09-10",
     "cover_url": "https://tuaskbgnekr.com/20240921/HYUVOOI4/1.jpg",
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241018/q4SqBYym/1.jpg",
@@ -89,7 +89,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/04/9c48d409900ff5028c96397615b8c755.jpg",
@@ -106,7 +106,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/12/65f23b8b8783947943fe0da82d845283.jpg",
@@ -125,7 +125,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250119/n6UQq5RU/1.jpg",
@@ -142,7 +142,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250305/zTqQHrjm/1.jpg",
@@ -161,7 +161,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250503/vVoiAHOV/1.jpg",
@@ -178,7 +178,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250503/RTPsyiSZ/1.jpg",
@@ -195,7 +195,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/KnPQibCY/1.jpg",
@@ -214,7 +214,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/hntYGWkK/1.jpg",
@@ -234,7 +234,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250711/QdVfGQI2/1.jpg",
@@ -254,7 +254,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251001/pnksIYwY/1.jpg",
@@ -273,12 +273,29 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20251001/0ntDJyny/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=261GARA-014"
+  },
+  {
+    "id": 176755,
+    "IDcode": "261GARA-015",
+    "title": "絶叫凌●レ●プ 強●される人妻 脅され言いなりとなった性奴●美人妻 取引の生贄に差し出され犯●れる凌●姦 小那海あや",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=261GARA-015"
   },
   {
     "id": 524485,
@@ -288,7 +305,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/91838_cover_2025-09-30_154249.jpg",
@@ -303,7 +320,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250609/BHwQWPF6/1.jpg",
@@ -325,7 +342,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2022-12-13",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/gajk006/gajk006pl.jpg",
@@ -342,7 +359,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230521/WiIG1aj1/1.jpg",
@@ -357,7 +374,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230630/nXO4VUdL/1.jpg",
@@ -372,7 +389,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230711/WLVKUQiA/1.jpg",
@@ -387,7 +404,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240813/L6oQkAAQ/1.jpg",
@@ -402,7 +419,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240928/8ysk6zRi/1.jpg",
@@ -417,7 +434,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/0938062752ebc30b9ff3747cdcc90f0d.jpg",
@@ -478,7 +495,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251026-1/f7bd427b7e0240f3f0a80f1f2c790287.jpg",
@@ -495,7 +512,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251011-1/cc19ebd3f3acbeafbbf79bd44a2b2d32.jpg",
@@ -561,7 +578,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/26/27d7b902/vod.jpg",
@@ -578,7 +595,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250829-1/ca0b19ca347a1820244ac8aa61349f95.jpg",
@@ -593,7 +610,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/9ada38499bf7d35a634ef434edbe9d47.jpg",
@@ -608,7 +625,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250717-1/40010ccfac7d7853c2a5a64a1bc68865.jpg",
@@ -677,7 +694,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2025-05-10",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250521/20250521083254833833_thumbnail.webp",
@@ -749,7 +766,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014236305305_thumbnail.webp",
@@ -823,7 +840,7 @@ window.PAGE_DATA = [
       "劇情",
       "瘙癢"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2025-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250705/20250705035128411411_thumbnail.webp",
@@ -897,7 +914,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013342440440_83797_thumbnail.webp",
@@ -974,7 +991,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906213014798798_92482_thumbnail.webp",
@@ -982,6 +999,21 @@ window.PAGE_DATA = [
       "逢月日葵"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAJK-027"
+  },
+  {
+    "id": 176772,
+    "IDcode": "GAJK-028",
+    "title": "蔵の中で緊縛調教される女子校生 祖父の手籠めにされ刻み込まれていく縄快楽。死んだ母の言葉の本当の意味は… 有馬みずき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GAJK-028"
   },
   {
     "id": 75750,
@@ -996,7 +1028,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "SM"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2019-12-19",
     "cover_url": "https://1.15250719pic.com/upload/vod/20241225-1/55de741b5c7a3723a0a0194b2f13b683.jpg",
@@ -1018,7 +1050,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "SM"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2019-12-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241220-1/35fc8581525b9a3ce45601d8f5a4abce.jpg",
@@ -1028,6 +1060,51 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-002"
   },
   {
+    "id": 99890,
+    "IDcode": "GMA-004",
+    "title": "緊縛調教妻 老人会の生贄 弄ばれた母乳未亡人 羽月希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "凌辱",
+      "成熟的女人",
+      "SM"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2020-02-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "羽月希",
+      "栗原良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-004"
+  },
+  {
+    "id": 75674,
+    "IDcode": "GMA-005",
+    "title": "緊縛調教妻 夫には絶対に言えない叔父に犯●れる日々。借金まみれの生活を繋ぐ麻縄快楽調教 小野さち子 【初緊縛解禁記念作品】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "凌辱",
+      "成熟的女人",
+      "SM"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小野さち子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-005"
+  },
+  {
     "id": 525703,
     "IDcode": "GMA-008",
     "title": "紧缚调教娘 絶望の中で感じた快感と生きる意味 人间の身份を舍て隶属することを选んだ纯心无垢な肉奴● かなで自由",
@@ -1035,7 +1112,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://pic24.anzise.com/pic/20220424/7b29fbe7c46154d52e490ccd8d482b41/1.jpg",
@@ -1050,7 +1127,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240229-1/b589948c94f8c628daeb5924b18ce24c.jpg",
@@ -1067,7 +1144,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250601/Xq1g0t3h/1.jpg",
@@ -1082,7 +1159,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/24/67bb59facf22ae3e04f0f549/cover.jpg",
@@ -1103,7 +1180,7 @@ window.PAGE_DATA = [
       "SM",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250419-1/dab5b06ea959656571f20cdb23aa0be3.jpg",
@@ -1126,7 +1203,7 @@ window.PAGE_DATA = [
       "SM",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2022-03-08",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230110-1/d32f9d17157c552dbf25e10be97e09e7.jpg",
@@ -1143,7 +1220,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250929-1/b480345c8fcb39a41bc19e36011b87ca.jpg",
@@ -1165,7 +1242,7 @@ window.PAGE_DATA = [
       "SM",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230720-1/698a7efe380cd57e50fd85cc3bd12d50.jpg",
@@ -1188,7 +1265,7 @@ window.PAGE_DATA = [
       "SM",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2022-09-13",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/8VScwsLp.jpg",
@@ -1206,12 +1283,82 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221214/j6zXwqC5/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-038"
+  },
+  {
+    "id": 67425,
+    "IDcode": "GMA-039",
+    "title": "捆绑训练的妻子-玉木くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "凌辱",
+      "4K",
+      "成熟的女人",
+      "SM",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大島愛里亞",
+      "栗原良"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-039"
+  },
+  {
+    "id": 574614,
+    "IDcode": "GMA-04",
+    "title": "紧缚调教妻老人会の生贽弄ばれた母乳未亡人羽月希第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-04"
+  },
+  {
+    "id": 223152,
+    "IDcode": "GMA-041",
+    "title": "緊縛調教妻-武藤あやか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-041"
+  },
+  {
+    "id": 223560,
+    "IDcode": "GMA-042",
+    "title": "背负负债的妻子-明里友香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-042"
   },
   {
     "id": 549142,
@@ -1223,7 +1370,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230521/ihnexqzs/1.jpg",
@@ -1238,7 +1385,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230702/5Ihi5rO3/1.jpg",
@@ -1253,7 +1400,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230711/ypd5V7gY/1.jpg",
@@ -1270,7 +1417,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/bmtgpWVW/1.jpg",
@@ -1285,7 +1432,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230808/zHgggQyF/1.jpg",
@@ -1300,7 +1447,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/29/68377611a0b87615b2db46cf/cover.jpg",
@@ -1323,7 +1470,7 @@ window.PAGE_DATA = [
       "調教",
       "打屁股"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/29/68373ea0d6dba34575226843/cover.jpg",
@@ -1333,6 +1480,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-049"
   },
   {
+    "id": 574663,
+    "IDcode": "GMA-05",
+    "title": "紧缚调教妻夫には絶対に言えない叔父に犯●れる日々第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-05"
+  },
+  {
     "id": 547772,
     "IDcode": "GMA-050",
     "title": "紧缚调教妻 义両亲の死と相続を主张する义叔父。同居を押し切られ始まった隶属の日々…",
@@ -1340,7 +1502,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231009/IBbrdWyw/1.jpg",
@@ -1355,12 +1517,46 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231009/zkrPJkjS/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-051"
+  },
+  {
+    "id": 547424,
+    "IDcode": "GMA-052",
+    "title": "紧缚调教妻 裕福な家に嫁いだ后も縄快楽を忘れられないマゾ人妻。内绪で动く派遣SMで偶然知った邻人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-052"
+  },
+  {
+    "id": 547423,
+    "IDcode": "GMA-053",
+    "title": "紧缚调教妻 借金が嵩んで大金に目が眩んだ平凡な人妻。出会い系で知り合った男に堕とされる縄调教旅行",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-053"
   },
   {
     "id": 547185,
@@ -1370,7 +1566,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231213/NnDTL6ca/1.jpg",
@@ -1385,7 +1581,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231213/nHjUIIPO/1.jpg",
@@ -1400,7 +1596,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240108/qtcXNPvg/1.jpg",
@@ -1415,7 +1611,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240108/72cy72QE/1.jpg",
@@ -1430,12 +1626,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240212/5VfU0V2p/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-058"
+  },
+  {
+    "id": 104554,
+    "IDcode": "GMA-059",
+    "title": "緊縛調教妻-大槻ひびき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "凌辱",
+      "成熟的女人",
+      "SM",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "大槻响"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-059"
   },
   {
     "id": 561602,
@@ -1445,7 +1664,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240311/1BKqPP7a/1.jpg",
@@ -1460,7 +1679,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240311/tlqocO9c/1.jpg",
@@ -1475,12 +1694,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240409/SnV0NzW1/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-062"
+  },
+  {
+    "id": 105535,
+    "IDcode": "GMA-063",
+    "title": "房地产业者的年轻妻子-波多野結衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "凌辱",
+      "成熟的女人",
+      "SM",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "波多野结衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-063"
   },
   {
     "id": 14748,
@@ -1523,7 +1765,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240513/bec607d4-3c82-4b96-843b-2995d499ca28.jpg",
@@ -1576,7 +1818,7 @@ window.PAGE_DATA = [
       "調教",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2024-05-14",
     "cover_url": "https://picture.yoshiclub.xyz/20240513/eeaaa961-993f-46f1-b373-6631bdeef6f4.jpg",
@@ -1593,7 +1835,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/TXcg39oL/1.jpg",
@@ -1608,7 +1850,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240610/zpL233Ia/1.jpg",
@@ -1623,7 +1865,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240708/9uC5dGzw/1.jpg",
@@ -1640,7 +1882,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240708/T0wDjFjj/1.jpg",
@@ -1657,7 +1899,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240813/1GYBUQzb/1.jpg",
@@ -1674,12 +1916,27 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240928/Xv9WInpS/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-071"
+  },
+  {
+    "id": 175521,
+    "IDcode": "GMA-072",
+    "title": "緊縛調教妻 旦那の為に常務に抱かれた従順な幼妻は、夫に内緒で何度も縛られ犯●れマゾ開花する… 前乃菜々",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-072"
   },
   {
     "id": 10687,
@@ -1736,7 +1993,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20241111/9ea829e1-a9e0-4e46-acbc-3308c4a56b5f.jpg",
@@ -1744,6 +2001,31 @@ window.PAGE_DATA = [
       "乃木絢愛"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-073"
+  },
+  {
+    "id": 77194,
+    "IDcode": "GMA-074",
+    "title": "緊縛調教妻 グローバルメディアアネックス5周年記念特別作品 奴●市場の人妻たち 異常な世界で喘ぎ悶える忘れられない強烈な快楽 川上ゆう・小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "捆绑",
+      "人妻",
+      "凌辱",
+      "已婚妇女",
+      "成熟的女人",
+      "SM"
+    ],
+    "type": "有码",
+    "company": "GLOBAL MEDIA ANNEX",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小早川怜子",
+      "川上優"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GMA-074"
   },
   {
     "id": 9119,
@@ -1809,7 +2091,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "2025-01-14",
     "cover_url": "https://picture.yoshiclub.xyz/20250115/57534fd4-c753-46fa-a233-2566ce57668a.jpg",
@@ -1874,7 +2156,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250212/6c2a3f82-6184-48b1-a64f-16475258d1dc.jpg",
@@ -1894,7 +2176,7 @@ window.PAGE_DATA = [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/d2b8c3abd0c095da38f7295216be4b85.jpg",
@@ -1970,7 +2252,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250409/b600b9f8-af9f-439f-95c5-e2cc89b6d6f2.jpg",
@@ -2047,7 +2329,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250510/20250510052007499499_thumbnail.webp",
@@ -2126,7 +2408,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607013554326326_thumbnail.webp",
@@ -2197,7 +2479,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706095006501501_55352_thumbnail.webp",
@@ -2265,7 +2547,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809011602839839_88665_thumbnail.webp",
@@ -2339,7 +2621,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "GLOBAL MEDIA ANNEX",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250906/20250906213008692692_63646_thumbnail.webp",

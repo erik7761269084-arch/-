@@ -1,5 +1,238 @@
 window.PAGE_DATA = [
   {
+    "id": 97534,
+    "IDcode": "MVSD-427",
+    "title": "淫乱乳首だこと 松本いちか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "中出",
+      "美少女电影",
+      "口交",
+      "女上位"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/0c2d49c3b4053256b8cce42100392ec9.jpg",
+    "actress": [
+      "松本一香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-427"
+  },
+  {
+    "id": 77414,
+    "IDcode": "MVSD-428",
+    "title": "美少女妄想脳内-久留木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "中出",
+      "美少女电影",
+      "口交",
+      "美容院"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e3fe86c862c77f012368a4066c5f9da3.jpg",
+    "actress": [
+      "久留木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-428"
+  },
+  {
+    "id": 225638,
+    "IDcode": "MVSD-429",
+    "title": "菊花小穴全部-春咲りょう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/facfa4a375854d7ce96c7e03440063c0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-429"
+  },
+  {
+    "id": 97217,
+    "IDcode": "MVSD-430",
+    "title": "羅莉女×敏感A罩杯×蕾絲邊噴射 冬愛琴音 渚光希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-430"
+  },
+  {
+    "id": 209418,
+    "IDcode": "MVSD-431",
+    "title": "鬼畜DQNごっくん中出し-舞原聖",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://tutu1.space/images/2020/06/26/QQ20200626233210bd337.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-431"
+  },
+  {
+    "id": 209928,
+    "IDcode": "MVSD-432",
+    "title": "性処理肉便器-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/12/5ae0436f7527055da449d2a0a678e17c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-432"
+  },
+  {
+    "id": 209854,
+    "IDcode": "MVSD-433",
+    "title": "変態乳首-晶エリー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/08/07/ee538faac6b5cb0db9aa373d1d3873c2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-433"
+  },
+  {
+    "id": 535002,
+    "IDcode": "MVSD-434",
+    "title": "风俗トゥナイト AV女优今井夏帆が噂のガチ风俗にガチ潜入！素人さん相手に生ハメ中出し体験リポート！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231221/1595005940-mvsd434pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-434"
+  },
+  {
+    "id": 210267,
+    "IDcode": "MVSD-435",
+    "title": "不停做爱的女孩-吉良りん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/18/0999e45eaac1133e6beb800be5593437.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-435"
+  },
+  {
+    "id": 529295,
+    "IDcode": "MVSD-436",
+    "title": "我的女友追寻梦想从乡下来到东京 却不知不觉为公司的帅气花花公子的肉棒完全堕落。 远距离NTR 椿莉香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-436"
+  },
+  {
+    "id": 210396,
+    "IDcode": "MVSD-437",
+    "title": "最強肉便器大天使妹-田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2020/09/28/ade4d6576e2e840b3c9d9b5f04b97a0c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-437"
+  },
+  {
+    "id": 62531,
+    "IDcode": "MVSD-440",
+    "title": "洋溢下流氣氛誘惑內向學生的淫亂女教師吞食肉棒溫泉旅行！ 葉優莉亞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "正太控",
+      "中出",
+      "巨乳",
+      "单体作品",
+      "浴衣"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/33b65c269e21d5cd77d1ad46c05705e4.jpg",
+    "actress": [
+      "叶ユリア"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-440"
+  },
+  {
+    "id": 69620,
+    "IDcode": "MVSD-444",
+    "title": "肉棒バリカタ精液濃いめ脂マシマシ 絶倫おやじの汁だくこってり種付けピストン 永澤ゆきの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "多P",
+      "美少女电影",
+      "中出",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ac0fffa62b1bf3579cda1223cc9f40f0.jpg",
+    "actress": [
+      "岩下たろう",
+      "永泽ゆきの"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-444"
+  },
+  {
     "id": 87647,
     "IDcode": "MVSD-445",
     "title": "合宿先の温泉旅館で豹変した教え子に焦らされ焦らされ痴女られて迎える最高に深い射精 あおいれな",
@@ -13,7 +246,7 @@ window.PAGE_DATA = [
       "手淫",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/320d42e0e9b3c821e47b146f45a42f81.jpg",
@@ -36,7 +269,7 @@ window.PAGE_DATA = [
       "手淫",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/84b1fb95a4d57d96a17ef8381990d3b4.jpg",
@@ -53,7 +286,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/07cda14f28581449e8458c5b10306d6c.jpg",
@@ -68,7 +301,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240128/1608172616-mvsd448pl.jpg!320x216.jpg",
@@ -83,7 +316,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240204/1608172706-mvsd449pl.jpg!320x216.jpg",
@@ -98,7 +331,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2024-07-17",
     "cover_url": "https://tutu1.space/images/2021/03/06/0e41a4cbbc5289df760d6169efcc1ee6.jpg",
@@ -113,7 +346,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2024-07-17",
     "cover_url": "https://tutu1.space/images/2021/03/06/52f2f02f8e290014cdbae9cfcb87ab1b.jpg",
@@ -130,12 +363,27 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2024-07-17",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/04/67efbd454e7d663df47d3c72/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-453"
+  },
+  {
+    "id": 104062,
+    "IDcode": "MVSD-454",
+    "title": "無套抽插泡泡浴墮落的女大學生被討厭到死的講師強迫肉體奉仕中出的我。 久留木玲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-454"
   },
   {
     "id": 213263,
@@ -145,12 +393,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2024-07-17",
     "cover_url": "https://tutu1.space/images/2021/09/07/9d7c2b86a3da8d58c436c8cbb35c5cd2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-455"
+  },
+  {
+    "id": 535203,
+    "IDcode": "MVSD-456",
+    "title": "邻の爆乳オタク美少女に性癖を特定され胁され痴女られ続けたワタシ。 初爱ねんね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-456"
   },
   {
     "id": 594850,
@@ -162,12 +427,76 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "无码",
     "company": "MVG GROUP",
-    "publish_date": "",
+    "publish_date": "2024-07-17",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3c97f8eb7b3699a22f1415545d66cc53.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-458"
+  },
+  {
+    "id": 592413,
+    "IDcode": "MVSD-461",
+    "title": "沉溺于打工处年轻老二的敏感母乳妈妈的末路",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-461"
+  },
+  {
+    "id": 524389,
+    "IDcode": "MVSD-462",
+    "title": "転校生はおしゃぶりアイドル 风纪の乱れは性器の乱れ！现役アイドルが自慢のフェラチオで学园世直し 白桃はな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-462"
+  },
+  {
+    "id": 559545,
+    "IDcode": "MVSD-465",
+    "title": "只要叫她就会马上来口交的舔舐bitch七濑爱丽丝",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-465"
+  },
+  {
+    "id": 594162,
+    "IDcode": "MVSD-468",
+    "title": "女友姐姐是情色写真偶像诱惑我勃起偷插内射 朝日奈花恋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-468"
   },
   {
     "id": 550762,
@@ -177,7 +506,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240120/m6NIvZ3r/1.jpg",
@@ -198,7 +527,7 @@ window.PAGE_DATA = [
       "淫语",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/7cd10498681a3dd47e4e90c5004355d2.jpg",
@@ -206,6 +535,21 @@ window.PAGE_DATA = [
       "宫崎リン"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-472"
+  },
+  {
+    "id": 555545,
+    "IDcode": "MVSD-473",
+    "title": "院内淫交 溜まった患者に有料マ○コ贷し出し吐精サービス",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-473"
   },
   {
     "id": 79419,
@@ -221,7 +565,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/23/8fdde79dd39a58eccd665a22c3530979.jpg",
@@ -246,7 +590,7 @@ window.PAGE_DATA = [
       "单体作品",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/08/23/bcdeb2423d7605cfc65b184eb8e3e70d.jpg",
@@ -269,7 +613,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-08-19",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221015-1/9713947ea0a2aab68579fa72623ea797.jpg",
@@ -284,7 +628,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/e6ba25ed19a1f28ee8fb75b7838f3f15.jpg",
@@ -306,7 +650,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "二穴同时挿入"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-09-21",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/1e923939fb0161378254078a18aa4e23.jpg",
@@ -330,7 +674,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-09-21",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/d186f7f05a9813b0a09485fa152deb48.jpg",
@@ -339,6 +683,29 @@ window.PAGE_DATA = [
       "有沢実纱"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-480"
+  },
+  {
+    "id": 79310,
+    "IDcode": "MVSD-481",
+    "title": "マザコンおやじに来る日も来る日も乳首をもてあそばれ開発され乳首イキを覚えてしまったワタシ。 花狩まい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "放尿",
+      "中出",
+      "美少女电影",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MVG GROUP",
+    "publish_date": "2021-09-21",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "田渊正浩"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-481"
   },
   {
     "id": 80040,
@@ -355,7 +722,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/2b4ab8605ff760ea4558f8b61380b4cb.jpg",
@@ -370,7 +737,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/bb026357d9d9237760347539d531fff1.jpg",
@@ -391,7 +758,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-11-16",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/c46ae9b5a1ce2b89d400b73bb933b6f7.jpg",
@@ -416,7 +783,7 @@ window.PAGE_DATA = [
       "中出",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-11-16",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/8d3b9e080e0112a1e9d47883775446cc.jpg",
@@ -440,7 +807,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-11-16",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/5064557189cff4e41fb6e70f56f9d3fa.jpg",
@@ -461,7 +828,7 @@ window.PAGE_DATA = [
       "女上位",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-11-16",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/4120000e5c27004f94faf071c250a203.jpg",
@@ -485,7 +852,7 @@ window.PAGE_DATA = [
       "女教师",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2021-12-21",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230303-1/d01f87135e3a9836f550810e5876243a.jpg",
@@ -500,7 +867,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/26/b35a6fe012e6cdd93b13008c9ab9b0a0.jpg",
@@ -521,7 +888,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/27/150a11aac867251d4f965420a4fbef76.jpg",
@@ -539,7 +906,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230319-1/8c4330b12199ef9f934d8ba46a5ed271.jpg",
@@ -561,7 +928,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/cd57a2e25ea3f4f90ba10a1ee5310d30.jpg",
@@ -576,7 +943,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/6a6b15915a24ee9161e07f5d2ee20827.jpg",
@@ -599,7 +966,7 @@ window.PAGE_DATA = [
       "手淫",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/fe9f5cee20a10c584e105ccfee15f38f.jpg",
@@ -623,7 +990,7 @@ window.PAGE_DATA = [
       "单体作品",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/14ac4c8c1b8215a42df84437d0ad99ed.jpg",
@@ -646,7 +1013,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/98a9e027d9f3a5e482bcc43331b6dd8b.jpg",
@@ -670,7 +1037,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-03-15",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e8c0662d387de91fef6e6ca1999d3e71.jpg",
@@ -695,7 +1062,7 @@ window.PAGE_DATA = [
       "两女一男",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/a309af5dd54a1c6ae9aab9cb7cf7bc98.jpg",
@@ -720,7 +1087,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/d7b910d6a6373a53a70e51816b62906b.jpg",
@@ -744,7 +1111,7 @@ window.PAGE_DATA = [
       "女上位",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250406-1/3cd3c51af3c80fc440d4c810cfd9b00c.jpg",
@@ -769,7 +1136,7 @@ window.PAGE_DATA = [
       "中出",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-04-19",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/MTVfd54W.jpg",
@@ -793,7 +1160,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/f61ea58db6a5dfd6eb385dcada3f73f3.jpg",
@@ -817,7 +1184,7 @@ window.PAGE_DATA = [
       "手淫",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/3a41ef79214a743520c8e0112848c963.jpg",
@@ -841,7 +1208,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/cf21919a8dc14ba118ec7f060d998a7f.jpg",
@@ -863,7 +1230,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/e27314146649f98a4e47b5047c83b566.jpg",
@@ -887,7 +1254,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/accc2427765abfe26331a19cee147da8.jpg",
@@ -909,7 +1276,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-05-18",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/FnfIceTL.jpg",
@@ -932,7 +1299,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-06-21",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/91ad2f9b505da092ca137f02eb1d6edd.jpg",
@@ -957,7 +1324,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-06-21",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230127-1/3bde0aefd13af25f38471bbd63a562dd.jpg",
@@ -980,7 +1347,7 @@ window.PAGE_DATA = [
       "单体作品",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-8/2523203a08884a712d824960e7bc0fbf.jpg",
@@ -1005,7 +1372,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/22/687f03a93ed39b57c0749222/cover.jpg",
@@ -1026,7 +1393,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/34662ff02e2eb5b0ba9af52983cab1ac.jpg",
@@ -1050,7 +1417,7 @@ window.PAGE_DATA = [
       "手淫",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/a999e8a021cb0f24a299cd5c05bb4d94.jpg",
@@ -1073,7 +1440,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/c32bf6e944b96917b0c35c573694d1c0.jpg",
@@ -1096,7 +1463,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/86955655a08c0a0df891ea56c8962f6e.jpg",
@@ -1119,7 +1486,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-08-16",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/3bf566be46cd49e370c2f94485321dfe.jpg",
@@ -1141,7 +1508,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-08-16",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230303-1/11128e9b4deef21b941fc52c2c5925d8.jpg",
@@ -1162,7 +1529,7 @@ window.PAGE_DATA = [
       "中出",
       "美少女电影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20240925-1/b13eaafe6f644f837b3120b93142643a.jpg",
@@ -1187,7 +1554,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250409-1/930b482a905b3f66874410bc2fa22bb7.jpg",
@@ -1212,7 +1579,7 @@ window.PAGE_DATA = [
       "单体作品",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/18/6879a7cd43d697271675c77f/cover.jpg",
@@ -1234,7 +1601,7 @@ window.PAGE_DATA = [
       "中出",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "2022-10-19",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230329-1/1b294edd98071e8645c59a63ba8436b8.jpg",
@@ -1256,7 +1623,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/9591d954089ccd3038b7bba646f4fc98.jpg",
@@ -1282,7 +1649,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/717ee2b60f6581217647dac8fed088e7.jpg",
@@ -1300,7 +1667,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/36053941eda05986bd412a7639fb9f1a.jpg",
@@ -1323,7 +1690,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-6/0efbe60465a8e9b75d2d36e4e9bb4ca1.jpg",
@@ -1342,7 +1709,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221226/PH7kCKyD/1.jpg",
@@ -1364,7 +1731,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-4/c8888b0bf2ea015add205a6fcd031702.jpg",
@@ -1388,7 +1755,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/09/686e7e043ed39b57c0bba681/cover.jpg",
@@ -1403,7 +1770,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/233f9dc255d1faebea036648a7c85c8c.jpg",
@@ -1425,7 +1792,7 @@ window.PAGE_DATA = [
       "手淫",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-5/6d3f8bbdca91b7801f2da67ab912549a.jpg",
@@ -1442,7 +1809,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230831/Q5R4p5c0/1.jpg",
@@ -1464,7 +1831,7 @@ window.PAGE_DATA = [
       "口交",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://cktu02.sbs/images/2023/03/06/ed21c6b903f383ba1c811a615f266525.jpg",
@@ -1489,7 +1856,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-4/ad97326a92544d24b748fdd57bdfff5b.jpg",
@@ -1515,7 +1882,7 @@ window.PAGE_DATA = [
       "中出",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-4/cfd11bfca323351ad57025248a9532ab.jpg",
@@ -1541,7 +1908,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/8a79ed4893c5dee4fcf3978895b28eff.jpg",
@@ -1565,7 +1932,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/8e37af1256f608d24203ec9b6427c0d7.jpg",
@@ -1590,7 +1957,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/ef6a2db51b6819fb82ac66525a4309a5.jpg",
@@ -1611,7 +1978,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/dc7be48135969c61866483fbc939abbc.jpg",
@@ -1628,7 +1995,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/2d2fa7d6eb878830dbaa10c9667b35e1.jpg",
@@ -1645,7 +2012,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/20/682c443dae3235deaa3fd001/cover.jpg",
@@ -1660,7 +2027,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/2027f79c4e424e8795d4fb29233dc698.jpg",
@@ -1675,497 +2042,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MVG GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/33c4148ac23f269ea85a4e2c0e3652d5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-550"
-  },
-  {
-    "id": 90731,
-    "IDcode": "MVSD-551",
-    "title": "人妻自宅沙龙-根尾明里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "人妻",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250610-1/e53f01d348ef85f2b879faa6c6da986c.jpg",
-    "actress": [
-      "根尾朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-551"
-  },
-  {
-    "id": 140185,
-    "IDcode": "MVSD-552",
-    "title": "脫完發現是大鮑魚！被雞雞玩弄到變成母豬! 青梅竹馬女扮男裝瘋狂高潮 敏感又色色！ 姬野蘭",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/dd86eed51beb5030ade5bebe4ae8003b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-552"
-  },
-  {
-    "id": 563369,
-    "IDcode": "MVSD-553",
-    "title": "たった1人の大好きな姊は10日后、ひくほど壊れてました。 俺の身代わりのつもりがドM过ぎてドS",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/fMdSkJu8/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-553"
-  },
-  {
-    "id": 18295,
-    "IDcode": "MVSD-554",
-    "title": "她回来之前要再做一次吗-根尾朱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "美少女電影",
-      "艷遇",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "口交",
-      "劇情",
-      "女友閨蜜"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/c489f68d9b339dd05b6e296beed9cbae.jpg",
-    "actress": [
-      "根尾朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-554"
-  },
-  {
-    "id": 171505,
-    "IDcode": "MVSD-555",
-    "title": "乳頭無感的傢伙！全都給我關進牢去！變態乳頭警察的刺激奶頭檢查 圓井萌華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-2/4b48182c56ff921816ea0d610ea0fb71.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-555"
-  },
-  {
-    "id": 456219,
-    "IDcode": "MVSD-556",
-    "title": "ゲス極道に脅され監禁され犯●れ続け性処理肉便器に堕ちた新米キャビンアテンダント 和久井美兔",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4d4189def9b1b80d7a92/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-556"
-  },
-  {
-    "id": 107282,
-    "IDcode": "MVSD-557",
-    "title": "清纯系肉便器-菜月光",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "中出",
-      "美少女电影",
-      "女上位",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/ace80245c2e68b83e347decd87a4b52c.jpg",
-    "actress": [
-      "菜月光",
-      "イセドン内村",
-      "輝大"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-557"
-  },
-  {
-    "id": 107281,
-    "IDcode": "MVSD-559",
-    "title": "喜欢喝尿的变态姐姐-朝仓心奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "饮尿",
-      "吞精",
-      "乱伦",
-      "姐姐",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/e75b67744bf4f51d007284b2faf03cdd.jpg",
-    "actress": [
-      "大村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-559"
-  },
-  {
-    "id": 106579,
-    "IDcode": "MVSD-560",
-    "title": "原本打算酗酒轮奸的糟糕上司们",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "胖女人",
-      "乳交",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/c0e4039a696fc08db46c8b3a8eceef95.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-560"
-  },
-  {
-    "id": 90732,
-    "IDcode": "MVSD-561",
-    "title": "人妻自宅サロン 底辺クズ隣人の汚らわしいデカマラに堕ちた若妻エステティシャン 通野未帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "按摩",
-      "人妻",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "单体作品",
-      "美容院"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240208-1/598d0bf0bf954529fdf1e6d90b0696c6.jpg",
-    "actress": [
-      "通野未帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-561"
-  },
-  {
-    "id": 563366,
-    "IDcode": "MVSD-562",
-    "title": "お姊さん！ボクの全部舐めて下さい！ うねるヘビ舌！糸引く生ツバ！清楚系甘サドお姊さんが臭いチ〇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230921/7m8j6FzB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-562"
-  },
-  {
-    "id": 100880,
-    "IDcode": "MVSD-563",
-    "title": "女儿闺蜜来家里住-根尾朱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "单体作品",
-      "荡妇",
-      "乱伦",
-      "白天出轨",
-      "中出",
-      "美少女电影",
-      "主观视角"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/8f75ca60e307abe9a7a763e0ea1fb556.jpg",
-    "actress": [
-      "根尾朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-563"
-  },
-  {
-    "id": 18137,
-    "IDcode": "MVSD-564",
-    "title": "冰箱裡有一些咖哩可以當晚餐，所以拿點咖哩吃吧…然後媽媽就會跟我們做愛了。",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "人妻",
-      "亂倫",
-      "母子",
-      "母親",
-      "淫亂",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "2023-10-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20231028/3ec426fc-e467-4453-98fb-64331851def1.jpg",
-    "actress": [
-      "玉城夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-564"
-  },
-  {
-    "id": 18294,
-    "IDcode": "MVSD-565",
-    "title": "心愛的姐姐替我受過，十天裡被黑幫者反覆強暴輪姦，像母狗一樣調教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "插入異物",
-      "凌辱",
-      "緊縛",
-      "強姦",
-      "羞恥",
-      "黑幫",
-      "監禁",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "潮吹",
-      "淫亂",
-      "出軌",
-      "中出",
-      "姐姐・妹妹",
-      "SM",
-      "絕頂高潮",
-      "乱伦",
-      "調教",
-      "劇情",
-      "女奴"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "2023-10-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20231017/20231017021248144144.jpg",
-    "actress": [
-      "望月綾香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-565"
-  },
-  {
-    "id": 17730,
-    "IDcode": "MVSD-567",
-    "title": "不可思议的同居生活-弓乃立梦",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女學生",
-      "叛逆少女",
-      "胸控・戀乳癖",
-      "中出",
-      "蕩婦",
-      "巨乳",
-      "口交",
-      "劇情"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-1/acd57427870297a8d9f151c8afd3cc18.jpg",
-    "actress": [
-      "弓乃凜夢"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-567"
-  },
-  {
-    "id": 106285,
-    "IDcode": "MVSD-568",
-    "title": "极度母控-星乃夏月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "中出",
-      "美少女电影",
-      "巨乳",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240102-1/60857f13bb193c1cf9c24d0d154ca719.jpg",
-    "actress": [
-      "星乃夏月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-568"
-  },
-  {
-    "id": 547669,
-    "IDcode": "MVSD-569",
-    "title": "窒息するまで犯して下さい… 水责め！尿责め！酸欠拷问で覚醒する日阴のマゾ事务员のいびつな変态愿望",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231017/F9NnUdLk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-569"
-  },
-  {
-    "id": 17731,
-    "IDcode": "MVSD-570",
-    "title": "顯然我妻子過去受過訓練。老婆不知道的過去…人人羨慕的心愛老婆，是施虐大屌鄰居中出受虐狂寵物",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "打屁股",
-      "凌辱",
-      "鄰居",
-      "緊縛",
-      "強姦",
-      "拘束・拷問",
-      "羞恥",
-      "按摩棒",
-      "口交",
-      "性感",
-      "暗黑系",
-      "潮吹",
-      "人妻",
-      "淫亂",
-      "猥褻穿著",
-      "出軌",
-      "中出",
-      "SM",
-      "抹油",
-      "調教",
-      "劇情"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa5d7ac813dc779d963a6/cover.jpg",
-    "actress": [
-      "根尾朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-570"
-  },
-  {
-    "id": 90733,
-    "IDcode": "MVSD-571",
-    "title": "人妻自宅沙龙-佐野由真",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "人妻",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250610-1/b9d0bd3afecdfbe2124462424d7b1505.jpg",
-    "actress": [
-      "佐野由真"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-571"
-  },
-  {
-    "id": 562809,
-    "IDcode": "MVSD-572",
-    "title": "御托はいいからそろそろ饮ませてよ。 パンパンの金玉に溜まりまくったこってりザーメンを爱おしそう",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231120/DEbrGiFZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-572"
-  },
-  {
-    "id": 101160,
-    "IDcode": "MVSD-573",
-    "title": "真夏的M强化特训-若月萌爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "学校泳装",
-      "中出",
-      "美少女电影",
-      "SM",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "MVG GROUP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a5f1b8f1cbfc7a9c7dbd3/cover.jpg",
-    "actress": [
-      "若月もあ",
-      "鲛岛",
-      "イセドン内村"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MVSD-573"
   }
 ];

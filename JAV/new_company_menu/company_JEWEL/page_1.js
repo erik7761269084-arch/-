@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230727/isKu9wWy/1.jpg",
@@ -37,7 +37,7 @@ window.PAGE_DATA = [
       "企畫",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JEWEL",
     "publish_date": "2025-02-23",
     "cover_url": "https://picture.yoshiclub.xyz/20250223/eede9073-cb62-434e-841f-55751297092c.jpg",
@@ -74,7 +74,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250811-1/7cc83ecf4e677a247aa81b0cd4ba4d7d.jpg",
@@ -139,7 +139,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250629/20250629012656638638_thumbnail.webp",
@@ -183,7 +183,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "JEWEL",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250519/20250519091348534534_thumbnail.webp",
@@ -192,5 +192,31 @@ window.PAGE_DATA = [
       "梶原聡子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WCX-011"
+  },
+  {
+    "id": 59884,
+    "IDcode": "WCX-012",
+    "title": "インラン潮吹きマゾ巨乳 梶原聡子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "潮吹",
+      "已婚妇女",
+      "吞精",
+      "巨大屁股",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "JEWEL",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "梶原聡子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=WCX-012"
   }
 ];

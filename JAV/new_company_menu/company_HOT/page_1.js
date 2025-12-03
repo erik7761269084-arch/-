@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250916-1/503f5e838c1a265fa06da80c5e7d12a0.jpg",
@@ -24,7 +24,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240531/59ghz010pl.jpg!320x216.jpg",
@@ -39,7 +39,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230630/mSbKIFn0/1.jpg",
@@ -54,7 +54,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230816/6s9M6Nf4/1.jpg",
@@ -69,7 +69,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230912/ggWiDox2/1.jpg",
@@ -86,7 +86,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231010/Ze3kyRX1/1.jpg",
@@ -108,7 +108,7 @@ window.PAGE_DATA = [
       "巨乳",
       "母亲"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240410-1/b12bd72e59ffaf5c7608703330575d7b.jpg",
@@ -123,7 +123,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240710/SnGUNovt/1.jpg",
@@ -138,7 +138,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240710/eprkBNhT/1.jpg",
@@ -155,7 +155,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/vdCrcWiz/1.jpg",
@@ -170,7 +170,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/xThT8o9M/1.jpg",
@@ -185,7 +185,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240616/qRpJUML8/1.jpg",
@@ -200,7 +200,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240928/nGI2YQrT/1.jpg",
@@ -215,7 +215,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/06ff6eb520167475e4ba70bbe8ebd682.jpg",
@@ -230,7 +230,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/c7d6920a94eaa318313db699538c720a.jpg",
@@ -247,7 +247,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://fan.lefhao20250923.top/20251005/RwnK9Rbb/1.jpg",
@@ -264,7 +264,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250131/xzrw5MZi/1.jpg",
@@ -296,7 +296,7 @@ window.PAGE_DATA = [
       "企畫",
       "顏射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "2025-02-14",
     "cover_url": "https://picture.yoshiclub.xyz/20250212/a583f952-c3b4-4fae-9365-5730ce53a4e8.jpg",
@@ -313,7 +313,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d64ef0dd88d14f0609fef8/cover.jpg",
@@ -330,7 +330,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250712-1/cb68aa34238734d05bced3441c7fbe20.jpg",
@@ -347,7 +347,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250618-1/bd95ea93f1100db79f23f6996d309155.jpg",
@@ -392,7 +392,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68adf509682e2e9281a546e3/cover.jpg",
@@ -454,7 +454,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "2025-07-10",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250709/20250709222456466466_19251_thumbnail.webp",
@@ -524,7 +524,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250811/20250811001050466466_81403_thumbnail.webp",
@@ -584,11 +584,28 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "HOT",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/14/68c6bb8b79f1ac4ec4597fcf/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHZ-039"
+  },
+  {
+    "id": 176747,
+    "IDcode": "GHZ-040",
+    "title": "厳選！極上美人妻ナンパ 夫に内緒の●褻SEX BEST SELECTION Vol.13",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "HOT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=GHZ-040"
   }
 ];

@@ -14,7 +14,7 @@ window.PAGE_DATA = [
       "巨乳",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/72f2f69f0b5c1f995d7dab9e2fd4d50a.jpg",
@@ -34,7 +34,7 @@ window.PAGE_DATA = [
       "巨乳",
       "猎艳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7ed762322527569b8294aea70c9413c2.jpg",
@@ -60,7 +60,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/178af7e6a3f8c844ead417f1acb46b70.jpg",
@@ -84,7 +84,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "2022-02-15",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/f7bec802532a3b12ec6eb5d4f2979c58.jpg",
@@ -107,12 +107,36 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/431d438848250d1d29ecee4cf35b32d6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-005"
+  },
+  {
+    "id": 80813,
+    "IDcode": "PPPE-006",
+    "title": "天然Jcup巨乳-桃瀬くるみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "乳交",
+      "中出",
+      "美少女电影",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鲛岛"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-006"
   },
   {
     "id": 80810,
@@ -127,7 +151,7 @@ window.PAGE_DATA = [
       "巨乳",
       "荡妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/e20e6a9bfe9e33c0675425a007cc684f.jpg",
@@ -152,7 +176,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2aeb8392efa507189cdb0670d5b9f890.jpg",
@@ -176,7 +200,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/06daff9b7e9862c2a5657e785b0dbf3d.jpg",
@@ -197,7 +221,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/05298ffd1327882d758f7f95091348a0.jpg",
@@ -220,7 +244,7 @@ window.PAGE_DATA = [
       "单体作品",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b43c16e39c9df12d4cfa8919f9f95722.jpg",
@@ -238,7 +262,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250323-1/f509db7c56b779654e964f09072519ab.jpg",
@@ -261,7 +285,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/1cbcc0e947498a5b18a35c0851775ba1.jpg",
@@ -283,7 +307,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/1b156654f07f779b68433525dfcbebf9.jpg",
@@ -305,7 +329,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "2022-03-15",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/6885d630998396ce96a8915102d386e9.jpg",
@@ -330,7 +354,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/5058d1a17bca5c4cb865c6eeb05967c1.jpg",
@@ -355,7 +379,7 @@ window.PAGE_DATA = [
       "兔女郎",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "2022-03-15",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ddba65012a8eaa0ca659a1301bfec57f.jpg",
@@ -380,7 +404,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/93e001f7d381d0d273a8a039dbcec8d3.jpg",
@@ -389,6 +413,28 @@ window.PAGE_DATA = [
       "小田切ジュン"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-018"
+  },
+  {
+    "id": 81205,
+    "IDcode": "PPPE-019",
+    "title": "妻子回家一周后-早見依桜",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "乳交",
+      "中出",
+      "巨乳",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-019"
   },
   {
     "id": 81216,
@@ -405,7 +451,7 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "2022-03-15",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/1244dad229828be8939ce765cab43ab2.jpg",
@@ -432,7 +478,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/3e6ef5d2cc6c96581390c643f6024858.jpg",
@@ -454,7 +500,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7bbed380faeed42c25bbaeb489bf4f93.jpg",
@@ -478,7 +524,7 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/f00d82c11cd8c8fbf0cb727c2571ca04.jpg",
@@ -504,7 +550,7 @@ window.PAGE_DATA = [
       "兔女郎",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6e4d8c4422e218a5bb83c940bacac744.jpg",
@@ -526,7 +572,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/35b7268acd225ca4c49f9729dc6e1e7a.jpg",
@@ -550,7 +596,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/af67f541c187376f8d59b1cc37d492f9.jpg",
@@ -574,7 +620,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/2cd757f5aa056efb213dec7bf180f2ac.jpg",
@@ -582,6 +628,21 @@ window.PAGE_DATA = [
       "沙月芽衣"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-027"
+  },
+  {
+    "id": 556435,
+    "IDcode": "PPPE-028",
+    "title": "Megachi Po的影响！黑禁世界他妈的无与伦比的大鸡巴动力活塞中出超级大爆炸暨！ ！！初恋 - 初爱宁宁",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-028"
   },
   {
     "id": 85819,
@@ -599,7 +660,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d94e74aee5cf70dab46e65d7d59e1594.jpg",
@@ -623,7 +684,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/bb76d06a737af9f1c281ac049fa27967.jpg",
@@ -646,7 +707,7 @@ window.PAGE_DATA = [
       "滥交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/659d1b7cc4dc703f0cae1afcdad0a662.jpg",
@@ -670,7 +731,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/01eecea55365607c720662bd19425109.jpg",
@@ -691,7 +752,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b6c6bf492b2721aa252b782c1e82db26.jpg",
@@ -716,12 +777,27 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "2022-05-17",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241007-1/b2b05f90ac88ea71de1cfa19a49f2c14.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-034"
+  },
+  {
+    "id": 218004,
+    "IDcode": "PPPE-035",
+    "title": "丰满的乳房-中条りの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-035"
   },
   {
     "id": 85834,
@@ -737,7 +813,7 @@ window.PAGE_DATA = [
       "单体作品",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4f6d32a676e1de06fb6befbd506ab01c.jpg",
@@ -760,7 +836,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/99c108742694a6eb134565be1e98e349.jpg",
@@ -785,7 +861,7 @@ window.PAGE_DATA = [
       "淫语",
       "主观视角"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/db2c4629177e010fc1b769c92bc90677.jpg",
@@ -811,7 +887,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/186ea61c56302cfbd6067f62ce8e02e0.jpg",
@@ -837,7 +913,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b3e82cfca0ebc3a68b7261102d3467db.jpg",
@@ -859,7 +935,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4dee44d1a8ef4b5145fc35b86035c37e.jpg",
@@ -876,7 +952,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/20241204/hKZQVHi3/1.jpg",
@@ -899,7 +975,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/327aac7ac19cb9594866eb0dce136bbe.jpg",
@@ -918,7 +994,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7c9cc1c1f61222f050429bccbd6d3b4e.jpg",
@@ -941,7 +1017,7 @@ window.PAGE_DATA = [
       "靴子",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/a09e731d5edf5a7d8d57540daa6fc7df.jpg",
@@ -965,7 +1041,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/af64d872dde0411f6f2ae2c27fe43bd1.jpg",
@@ -986,7 +1062,7 @@ window.PAGE_DATA = [
       "两女一男",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7f42e7a1cab4652405b2636508ca6754.jpg",
@@ -1009,7 +1085,7 @@ window.PAGE_DATA = [
       "接吻",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/1ee89d05fedcee7b91fcfc4c81a05eab.jpg",
@@ -1031,7 +1107,7 @@ window.PAGE_DATA = [
       "巨乳",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/cd426ffefd96ebe8fb18cfdfa7a14cc1.jpg",
@@ -1056,7 +1132,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/7580468f5b2fe93c517f7cf833174df7.jpg",
@@ -1082,7 +1158,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/c7e0a4069a6e08053566d5c6e82d8e8c.jpg",
@@ -1107,7 +1183,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/9435bd4b12875a09fa56e910a9a81803.jpg",
@@ -1131,7 +1207,7 @@ window.PAGE_DATA = [
       "单体作品",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/68d6273eb1e011c82117264557a7d6e8.jpg",
@@ -1155,7 +1231,7 @@ window.PAGE_DATA = [
       "妹妹",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/b3bdc9db7bb64071e5838027a9902cf1.jpg",
@@ -1177,7 +1253,7 @@ window.PAGE_DATA = [
       "两女一男",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/24ec952250e3d69ce8e9619ab7cc3d98.jpg",
@@ -1201,7 +1277,7 @@ window.PAGE_DATA = [
       "两女一男",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/83242f1982f52871b9e78b870c9460b5.jpg",
@@ -1226,7 +1302,7 @@ window.PAGE_DATA = [
       "两女一男",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c32193fd208f88d0ebce526d865d9940.jpg",
@@ -1250,7 +1326,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241007-1/ff4e401f2cbeaaddb0ca5d094da0ef54.jpg",
@@ -1274,7 +1350,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/b7d3feb2256c62c7e006e6993eee293d.jpg",
@@ -1297,7 +1373,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241007-1/b826528625921ef900ce7cee2bbd56cc.jpg",
@@ -1323,7 +1399,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/88a1b97ec35658f5106e374e5a8fa98b.jpg",
@@ -1348,7 +1424,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/cf6c2e2b2807ad43454f75e8b1749116.jpg",
@@ -1369,7 +1445,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ad8e56f7d0eb0e62e963e81330a785fe.jpg",
@@ -1395,7 +1471,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/4580f19605597e48cc084afa533fb8d4.jpg",
@@ -1420,7 +1496,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/dd1390e79beed7a318a5037be0cd7a59.jpg",
@@ -1441,7 +1517,7 @@ window.PAGE_DATA = [
       "巨乳",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/aee7b04c1ab47326a951da46564dd97f.jpg",
@@ -1463,7 +1539,7 @@ window.PAGE_DATA = [
       "巨乳",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/737f9ceba656980a1e5a966b7d186fed.jpg",
@@ -1488,7 +1564,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/82a8caa7baba414c33ba9c45b8345fb2.jpg",
@@ -1510,7 +1586,7 @@ window.PAGE_DATA = [
       "口交",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/f79705f2af80bd13013fb443a7af6e53.jpg",
@@ -1530,7 +1606,7 @@ window.PAGE_DATA = [
       "荡妇",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/ad0477427b5847b9d42f1568f18f5d05.jpg",
@@ -1553,7 +1629,7 @@ window.PAGE_DATA = [
       "巨乳",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/14d1c542de44278eab4d83b17a1fcf46.jpg",
@@ -1577,7 +1653,7 @@ window.PAGE_DATA = [
       "兔女郎",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/5434ac81acbd8979e6962d44e6c2707f.jpg",
@@ -1602,7 +1678,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/c9472cf5aa4cc466645d065f71653d75.jpg",
@@ -1622,7 +1698,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/6f1783e9801d2cce97fa4a96ca8e1aab.jpg",
@@ -1644,7 +1720,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/971b6c36106765dc71d1cd3673ea243d.jpg",
@@ -1669,7 +1745,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d9d31a86da832a53ea2ed66ffded9f70.jpg",
@@ -1689,7 +1765,7 @@ window.PAGE_DATA = [
       "巨乳",
       "放尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230910-1/d3467a8def2d8ba6a020025fc9558b38.jpg",
@@ -1710,7 +1786,7 @@ window.PAGE_DATA = [
       "巨乳",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/a1d623b753e3be4aa7436732278f5720.jpg",
@@ -1735,7 +1811,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/1ca68bef700554ca90747e5e8b6570bb.jpg",
@@ -1743,6 +1819,28 @@ window.PAGE_DATA = [
       "藤井蘭々"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-079"
+  },
+  {
+    "id": 69392,
+    "IDcode": "PPPE-080",
+    "title": "女老板淫荡地调戏-楪カレン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳交",
+      "白天出轨",
+      "无码破解",
+      "中出",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-080"
   },
   {
     "id": 85966,
@@ -1759,7 +1857,7 @@ window.PAGE_DATA = [
       "单体作品",
       "美容院"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "2022-10-18",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230131-1/8e2e58354c76c91024f6ada2778d7c76.jpg",
@@ -1783,7 +1881,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/977ffc15f1e0a44cc4073fda2eb06eb0.jpg",
@@ -1807,7 +1905,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250421-1/5685c22aba9ce47141e3092f22931803.jpg",
@@ -1830,7 +1928,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/ac9269f89aed361da44e8125ad2d94b8.jpg",
@@ -1855,7 +1953,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230416/pppe00085pl.jpg",
@@ -1880,7 +1978,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/20/687c05bf43d697271691c5de/cover.jpg",
@@ -1904,7 +2002,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230416/pppe00087pl.jpg",
@@ -1926,7 +2024,7 @@ window.PAGE_DATA = [
       "两女一男",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20230416/pppe00088pl.jpg",
@@ -1948,7 +2046,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230602/pppe089pl.jpg!320x216.jpg",
@@ -1970,7 +2068,7 @@ window.PAGE_DATA = [
       "女上位",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230602/pppe090pl.jpg!320x216.jpg",
@@ -1989,7 +2087,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230602/pppe091pl.jpg!320x216.jpg",
@@ -2011,7 +2109,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250415-1/12dae389e6487243632441f7f210fc76.jpg",
@@ -2021,6 +2119,25 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-092"
   },
   {
+    "id": 531087,
+    "IDcode": "PPPE-093",
+    "title": "巨乳娇喘诊所敏感带开发 美乳小花暖蜜桃乳尖调教实录",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小花暖"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-093"
+  },
+  {
     "id": 167239,
     "IDcode": "PPPE-094",
     "title": "不停的喷水高潮-九十九メイ",
@@ -2028,12 +2145,110 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20230704/pppe094pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-094"
+  },
+  {
+    "id": 534572,
+    "IDcode": "PPPE-095",
+    "title": "终电逃して泊りにきた巨乳先辈たちが金曜夜から月曜朝まで精子残量0确定の追撃无限囲い撃ち！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-095"
+  },
+  {
+    "id": 222960,
+    "IDcode": "PPPE-096",
+    "title": "乳房发育诊所-田中ねね",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-096"
+  },
+  {
+    "id": 222496,
+    "IDcode": "PPPE-097",
+    "title": "大胸女友被DQN用催情剂操干-楪カレン",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-097"
+  },
+  {
+    "id": 66931,
+    "IDcode": "PPPE-098",
+    "title": "后宫美容院-小花のん 百永さりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "多P",
+      "无码破解",
+      "姐姐",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "小花暖",
+      "黑川纱里奈",
+      "百永紗里奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-098"
+  },
+  {
+    "id": 68669,
+    "IDcode": "PPPE-099",
+    "title": "淫荡的妹妹-櫻茉日",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "乱伦",
+      "白天出轨",
+      "乳交",
+      "姐姐",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "OPPAI",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "堀北実来"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-099"
   },
   {
     "id": 171108,
@@ -2045,7 +2260,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "OPPAI",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678aa5ae89def9b1b80e5313/cover.jpg",
@@ -2053,192 +2268,5 @@ window.PAGE_DATA = [
       "彌生美月"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-100"
-  },
-  {
-    "id": 167833,
-    "IDcode": "PPPE-103",
-    "title": "巨乳AV-百合園みおり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231026/ygAxOFXn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-103"
-  },
-  {
-    "id": 579210,
-    "IDcode": "PPPE-105",
-    "title": "通学电车で视奸集団が3年分の性欲をぶつける乳揉み痴●中出しレ×プ 绫瀬こころ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230329/MJiR3XiX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-105"
-  },
-  {
-    "id": 167835,
-    "IDcode": "PPPE-106",
-    "title": "男人的美容院-聖璃とあ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231027/clMFR6qj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-106"
-  },
-  {
-    "id": 535164,
-    "IDcode": "PPPE-108",
-    "title": "亲の再婚でできた姊2人と子供部屋が相部屋に！ W痴女姊妹に挟まれて毎日杭打ち中出しされたボク…。 新井リマ 横宫七海",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230329/EJQGQSgp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-108"
-  },
-  {
-    "id": 535159,
-    "IDcode": "PPPE-109",
-    "title": "女上司2人と社宅で宅饮み。ホロ酔いでラフな部屋着にノーブラ巨乳サンドウィッチで命令されながら朝まで服従中出し",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20230329/x51QymAK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-109"
-  },
-  {
-    "id": 168077,
-    "IDcode": "PPPE-113",
-    "title": "公务员小姐中出解禁-红叶心爱",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20231117/pppe113pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-113"
-  },
-  {
-    "id": 168061,
-    "IDcode": "PPPE-116",
-    "title": "開發乳腺性診所 彌生美月",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20231116/pppe116pl.jpg!320x216.jpg",
-    "actress": [
-      "彌生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-116"
-  },
-  {
-    "id": 168169,
-    "IDcode": "PPPE-117",
-    "title": "巨乳肉便器情人-美澄诗音",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231220/pppe117pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-117"
-  },
-  {
-    "id": 168170,
-    "IDcode": "PPPE-119",
-    "title": "和男友吵架的HCUP小姐姐-楪花恋",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231220/pppe119pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-119"
-  },
-  {
-    "id": 168171,
-    "IDcode": "PPPE-120",
-    "title": "女友姐姐-日下部加奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20231220/pppe120pl.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-120"
-  },
-  {
-    "id": 87814,
-    "IDcode": "PPPE-121",
-    "title": "スペンス乳腺開発クリニックSpecial 櫻茉日",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "乳交",
-      "无码破解",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "OPPAI",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/303cb666c89a7640d93c6392ac8d0384.jpg",
-    "actress": [
-      "堀北実来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PPPE-121"
   }
 ];

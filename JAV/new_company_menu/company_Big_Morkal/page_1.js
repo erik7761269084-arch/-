@@ -28,7 +28,7 @@ window.PAGE_DATA = [
       "人妻",
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20221005/57jksr00147pl.jpg",
@@ -46,7 +46,7 @@ window.PAGE_DATA = [
       "人妻",
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20221005/57jksr00155pl.jpg",
@@ -61,7 +61,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f7b4727de28f4ede9c1148/poster2.jpg",
@@ -76,12 +76,121 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/10/06/35d60a0569eaba6ca7246542799dfe25.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-244"
+  },
+  {
+    "id": 166656,
+    "IDcode": "JKSR-272",
+    "title": "真實中出！露臉！搭訕人妻in築地",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-272"
+  },
+  {
+    "id": 166584,
+    "IDcode": "JKSR-280",
+    "title": "臉正到太好認正人妻…搭訕16素人妻回去幹4小時不倫特",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-280"
+  },
+  {
+    "id": 166657,
+    "IDcode": "JKSR-291",
+    "title": "狩獵淫亂肉奴人妻肏到連續高潮變性奴隸真緒",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-291"
+  },
+  {
+    "id": 166585,
+    "IDcode": "JKSR-292",
+    "title": "搭訕G罩杯巨乳人妻來幹砲小悠",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-292"
+  },
+  {
+    "id": 166658,
+    "IDcode": "JKSR-293",
+    "title": "老公對不起…我被人睡走了…美來",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-293"
+  },
+  {
+    "id": 166659,
+    "IDcode": "JKSR-294",
+    "title": "G罩杯幸福愛人契約一色小百合",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-294"
   },
   {
     "id": 166660,
@@ -94,7 +203,7 @@ window.PAGE_DATA = [
       "中文字幕",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/2023/02/c33tzt30iw2.jpg",
@@ -111,12 +220,35 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/3cd781b61128dcb5b514de5c16d97576.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-304"
+  },
+  {
+    "id": 98909,
+    "IDcode": "JKSR-369",
+    "title": "「え？これがイ○スタですか！」スマホを触った事がないほど田舎の Gカップ純朴娘に中出し！！ みかちゃんGカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "美少女",
+      "业余",
+      "中出",
+      "制服",
+      "纪录片"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2018-10-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "一宫みかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-369"
   },
   {
     "id": 103150,
@@ -132,7 +264,7 @@ window.PAGE_DATA = [
       "制服",
       "纪录片"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2019-01-26",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/57jksr382/57jksr382pl.jpg",
@@ -140,6 +272,77 @@ window.PAGE_DATA = [
       "藤田莉绪"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-382"
+  },
+  {
+    "id": 70936,
+    "IDcode": "JKSR-384",
+    "title": "露出少な目で清楚！なのに脱いだらスゴイ！メチャクチャHなボディを持つ人妻ばかりをナンパはめ撮り！4時間20人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "4小时以上作品",
+      "中出",
+      "第一人称摄影"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-384"
+  },
+  {
+    "id": 534205,
+    "IDcode": "JKSR-385",
+    "title": "ガチンコ中出し！颜出し！人妻ナンパin池袋",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-385"
+  },
+  {
+    "id": 590592,
+    "IDcode": "JKSR-389",
+    "title": "[]ガチンコ中出し！颜出し！人妻ナンパin品川",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-389"
+  },
+  {
+    "id": 578852,
+    "IDcode": "JKSR-390",
+    "title": "“学校、どうしたの…？”学校に行ったはずの女子○○生が小さなお口もお",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-390"
   },
   {
     "id": 590633,
@@ -151,7 +354,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20220716-1/4da744025a358482a15eb58f1c4c671d.jpg",
@@ -166,7 +369,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/02fbd15c8ff5455ad0b6110520e2aa9d.jpg",
@@ -184,7 +387,7 @@ window.PAGE_DATA = [
       "人妻",
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20221005/57jksr00397pl.jpg",
@@ -206,7 +409,7 @@ window.PAGE_DATA = [
       "制服",
       "美少女电影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2019-05-25",
     "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/57jksr398/57jksr398pl.jpg",
@@ -216,6 +419,49 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-398"
   },
   {
+    "id": 70934,
+    "IDcode": "JKSR-401",
+    "title": "ガチンコ中出し！顔出し！人妻ナンパ 豊洲パチンコ店編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "猎艳",
+      "业余",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-401"
+  },
+  {
+    "id": 70720,
+    "IDcode": "JKSR-402",
+    "title": "中出！露脸！搭讪五十世代 IN 大森",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "猎艳",
+      "业余",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-402"
+  },
+  {
     "id": 595094,
     "IDcode": "JKSR-403",
     "title": "上午十点，怎么没去学校… 发现一个人闲晃在繁华街上的制服女孩。随便聊聊就成功带进旅馆里。抱起小小的肉体，舔著发育途中的奶子，玩弄着白虎小穴。",
@@ -223,7 +469,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/2c92d290acd0cb82741dc31bb7dfc257.jpg",
@@ -240,12 +486,34 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190911-1/d00bdbdcd8daa796f1a2fd31677def57.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-404"
+  },
+  {
+    "id": 86914,
+    "IDcode": "JKSR-405",
+    "title": "ガチンコ中出し！ 顔出し！ 人妻ナンパ 金券交換妻編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "淫妻",
+      "猎艳",
+      "中出",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2019-07-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-405"
   },
   {
     "id": 86919,
@@ -261,7 +529,7 @@ window.PAGE_DATA = [
       "素人作品",
       "美少女电影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2019-07-27",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/YoNfGqek.jpg",
@@ -269,6 +537,27 @@ window.PAGE_DATA = [
       "冬爱琴音"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-406"
+  },
+  {
+    "id": 70716,
+    "IDcode": "JKSR-407",
+    "title": "旦那にはしてもらえないマ○コがふやけるほどのクンニで敏感早漏体質になった奥さんの絶頂イキまくりSEX！！4時間20人2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "舔阴",
+      "业余",
+      "素人作品",
+      "颜射"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-407"
   },
   {
     "id": 98256,
@@ -284,7 +573,7 @@ window.PAGE_DATA = [
       "中出",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/11/13/b24cd6f32858c75d23cd6c93915f73c1.jpg",
@@ -307,7 +596,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20221005/57jksr00413pl.jpg",
@@ -329,7 +618,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20221005/57jksr00414pl.jpg",
@@ -351,12 +640,42 @@ window.PAGE_DATA = [
       "素人作品",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/95b8db912348bdebbc1d85162e610aa6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-421"
+  },
+  {
+    "id": 561241,
+    "IDcode": "JKSR-422",
+    "title": "生のおばさま 五十路-四十路 変态熟女全5名",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-422"
+  },
+  {
+    "id": 530413,
+    "IDcode": "JKSR-423A",
+    "title": "[第1集]午前10时 学校どうしたの…5人の少女が体験した悲剧の快楽 4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-423A"
   },
   {
     "id": 76013,
@@ -374,7 +693,7 @@ window.PAGE_DATA = [
       "巨乳",
       "各种职业"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f5e0b6353346e0d03286d16e28e61dbd.jpg",
@@ -395,7 +714,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2019-12-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241226-1/9661cffa2417fd47f3032cae29223c4e.jpg",
@@ -421,7 +740,7 @@ window.PAGE_DATA = [
       "巨乳",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2019-12-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/a9eaf41809e8c77e41d25f798478a6df.jpg",
@@ -453,12 +772,27 @@ window.PAGE_DATA = [
       "业余",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/dedd1398f75c2cba01a5adfd7e432007.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-428"
+  },
+  {
+    "id": 533531,
+    "IDcode": "JKSR-431",
+    "title": "_A おばさんと呼ばないで 淫乱熟女全集 16人4时间 あなたの",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-431"
   },
   {
     "id": 165882,
@@ -470,7 +804,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20221007/57jksr00433pl.jpg",
@@ -491,12 +825,54 @@ window.PAGE_DATA = [
       "成熟的女人",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2020-02-22",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/7febcabdbe94a68dbb61369618410fd5.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-434"
+  },
+  {
+    "id": 83623,
+    "IDcode": "JKSR-435",
+    "title": "【パパ活の闇】発育中 カラダ おじさん ヤらせた動画 童顔美巨乳12人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "中出",
+      "美少女电影",
+      "素人作品",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2020-02-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-435"
+  },
+  {
+    "id": 82971,
+    "IDcode": "JKSR-436",
+    "title": "ターゲット限定ナンパ 黒パンスト人妻編 黒いヴェールに包まれたエロ尻と美脚に大興奮！ 蒸れ蒸れのおパンツを脱がして生ハメ シロウト妻16人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "猎艳",
+      "素人作品",
+      "连裤袜"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2020-02-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-436"
   },
   {
     "id": 516063,
@@ -506,7 +882,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f86f7edbf24d4ed3429e70/poster2.jpg",
@@ -523,7 +899,7 @@ window.PAGE_DATA = [
     "genres": [
       "4小时以上作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2020-03-28",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20230111-1/37fe6c7b7394e518710a69d522414756.jpg",
@@ -547,12 +923,27 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/2022/09/zmnebkwmmkg.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-440"
+  },
+  {
+    "id": 559962,
+    "IDcode": "JKSR-445",
+    "title": "成切南帕厨师版的职业怎么样",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-445"
   },
   {
     "id": 559892,
@@ -562,7 +953,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/0e5532ecc413a4bd8d84aa1f9baf4fc7.jpg",
@@ -579,7 +970,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://pic24.anzise.com/pic/20220430/1f415adbfb927b029895b8f3af548594/1.jpg",
@@ -594,12 +985,33 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://pic.douimg.cc/upload/vod/20250811-1/aa51d324bbd86812ca9c970a7263a46c.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-506"
+  },
+  {
+    "id": 84901,
+    "IDcode": "JKSR-509",
+    "title": "【流出映像】人妻派遣社員 慰安旅行セックス 酔わせて乱交・夜●い・職場不倫NTRなど。派遣女子を食い潰すブラック企業の実態",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "已婚妇女",
+      "淫妻",
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2021-09-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-509"
   },
   {
     "id": 84897,
@@ -611,7 +1023,7 @@ window.PAGE_DATA = [
     "genres": [
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2021-09-25",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230116-1/869559dac54ae589d26998633ac1c6cf.jpg",
@@ -626,7 +1038,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250713/lNtyLNJ5/1.jpg",
@@ -645,7 +1057,7 @@ window.PAGE_DATA = [
       "中出",
       "美少女电影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2021-11-27",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230116-1/dcd2f0b21d56cf83b41af2fa9f73066e.jpg",
@@ -662,7 +1074,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/e6035b9176c032340bfa40304cd210e8.jpg",
@@ -677,12 +1089,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/118fd12ef413ecc15a7a18d2a132a4fd.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-538"
+  },
+  {
+    "id": 84903,
+    "IDcode": "JKSR-541",
+    "title": "【流出映像】人妻派遣社員 慰安旅行セックス5 酔わせて乱交・夜●い・職場不倫NTRなど。派遣女子を食い潰すブラック企業の実態",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "和服，丧服",
+      "人妻",
+      "NTR",
+      "已婚妇女",
+      "淫妻",
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2022-05-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "立花芽衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-541"
   },
   {
     "id": 87515,
@@ -699,7 +1135,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "乱交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2022-07-23",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/Bb1NeWEs.jpg",
@@ -717,12 +1153,53 @@ window.PAGE_DATA = [
       "乱伦",
       "妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2022-07-23",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230729-1/b8f1b43d0558bdd3f70dbd0412605ed2.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-550"
+  },
+  {
+    "id": 87525,
+    "IDcode": "JKSR-551",
+    "title": "「イライラしたからJ○レ〆プ」12人4時間",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "4小时以上作品",
+      "中出",
+      "魔鬼系",
+      "深喉"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2022-07-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-551"
+  },
+  {
+    "id": 87528,
+    "IDcode": "JKSR-553",
+    "title": "奥さん、一緒に飲みませんか？ 人妻にお酒とザーメン飲ませてみました マ●コも酩酊状態！ チ●ポを欲しがり生セックスも許す人妻4人 東京の路上で人妻をナンパしてみた",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "4小时以上作品",
+      "猎艳",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "Big Morkal",
+    "publish_date": "2022-08-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-553"
   },
   {
     "id": 530646,
@@ -732,7 +1209,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250712/FiEPj2lN/1.jpg",
@@ -754,7 +1231,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "2022-08-27",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230730-1/63e1a9eb7dc4dea522668765a7d091d2.jpg",
@@ -773,7 +1250,7 @@ window.PAGE_DATA = [
       "乱交",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/ca2fb0d4663003cfcd5508859f03c4ec.jpg",
@@ -788,7 +1265,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230630/57jksr562pl.jpg!320x216.jpg",
@@ -807,7 +1284,7 @@ window.PAGE_DATA = [
       "乱交",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b1f274a952acd7aa99dfb1ff19ea7561.jpg",
@@ -822,7 +1299,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9e712ab2b927465cfdbce91b7c5a0f51.jpg",
@@ -837,7 +1314,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230715/pb_e_022jksr-568.jpg!320x216.jpg",
@@ -852,7 +1329,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230821/57jksr578pl.jpg!320x216.jpg",
@@ -871,7 +1348,7 @@ window.PAGE_DATA = [
       "乱交",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230414/UIEaYVvl/1.jpg",
@@ -886,7 +1363,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230414/8guILgk2/1.jpg",
@@ -903,7 +1380,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230506/SJd6F6mU/1.jpg",
@@ -920,7 +1397,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230506/xAtrsPvh/1.jpg",
@@ -935,7 +1412,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230714/DmJAVQds/1.jpg",
@@ -950,7 +1427,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/12/6914051b312f492881572b35/poster2.jpg",
@@ -967,7 +1444,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230714/Fa5cNSew/1.jpg",
@@ -984,7 +1461,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230714/VObPVLmh/1.jpg",
@@ -999,7 +1476,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230714/8hZZpoGR/1.jpg",
@@ -1017,7 +1494,7 @@ window.PAGE_DATA = [
       "人妻",
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230714/hHd7E0Cx/1.jpg",
@@ -1032,7 +1509,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230714/rZ26b0h2/1.jpg",
@@ -1047,7 +1524,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230726/QXFc9dwb/1.jpg",
@@ -1062,7 +1539,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/01/690541b8a837ba289686a5fa/poster2.jpg",
@@ -1079,7 +1556,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230727/AqajjGU8/1.jpg",
@@ -1094,7 +1571,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230727/lRdcECf4/1.jpg",
@@ -1109,7 +1586,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230826/Q8q3lX8J/1.jpg",
@@ -1124,7 +1601,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230826/HA4e9caA/1.jpg",
@@ -1139,7 +1616,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/23/68f9fd47944bbe4ef054c155/poster2.jpg",
@@ -1154,7 +1631,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250713/ZB0rG36c/1.jpg",
@@ -1171,7 +1648,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250713/hhuqNGNR/1.jpg",
@@ -1188,7 +1665,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231024/RQdSvibA/1.jpg",
@@ -1203,7 +1680,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231024/rxMiDL6V/1.jpg",
@@ -1220,7 +1697,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231024/pZVsAuSx/1.jpg",
@@ -1235,7 +1712,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231024/4om0NFRL/1.jpg",
@@ -1250,7 +1727,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231129/JpksNaUY/1.jpg",
@@ -1265,7 +1742,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/22/68f8605bdbf24d4ed3428888/poster2.jpg",
@@ -1280,7 +1757,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231129/PcX1p2TP/1.jpg",
@@ -1297,7 +1774,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231227/DhFMIW6k/1.jpg",
@@ -1312,402 +1789,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Big Morkal",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231227/m9EvUvVF/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-618"
-  },
-  {
-    "id": 516986,
-    "IDcode": "JKSR-619",
-    "title": "不停止愛的女兒是性玩具！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f2155952c12b4e68509a0a/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-619"
-  },
-  {
-    "id": 562569,
-    "IDcode": "JKSR-620",
-    "title": "中出し50人 特制おち○ぽミルク、素人のキツすぎる膣圧で绞られ大量発射スペシャル",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231227/eCXckS7m/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-620"
-  },
-  {
-    "id": 546622,
-    "IDcode": "JKSR-621",
-    "title": "【女子〇生限定】学校サボった马鹿マ〇コに强制中出し指导 孕ませ确定159分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240129/YnJAEGyT/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-621"
-  },
-  {
-    "id": 550356,
-    "IDcode": "JKSR-622",
-    "title": "変态家族 今日も孕ませます！！女子●生 家庭内近亲SEX11",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240129/IS7N5N5b/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-622"
-  },
-  {
-    "id": 546616,
-    "IDcode": "JKSR-623",
-    "title": "即ズボ！人妻ナンパ チョロマ〇コ！饥えているドスケベ人妻12人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240129/XWow5PO1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-623"
-  },
-  {
-    "id": 518078,
-    "IDcode": "JKSR-625",
-    "title": "【OO映像】 女OO 社團集訓做",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd4670944bbe4ef05bc703/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-625"
-  },
-  {
-    "id": 518071,
-    "IDcode": "JKSR-626",
-    "title": "大叔專用肉棒套 對附近某高中班上",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/26/68fd470c944bbe4ef05bc723/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-626"
-  },
-  {
-    "id": 453916,
-    "IDcode": "JKSR-627",
-    "title": "讓我更加開心地服侍我！！充滿愛女的愛情口交和陰道壓力最大的性愛！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/08/68e5f243944bbe4ef0348a30/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-627"
-  },
-  {
-    "id": 561744,
-    "IDcode": "JKSR-628",
-    "title": "熟マ〇コ喰い！！饱きぬ！离さぬ！省みぬ！中出しSEX！エロすぎるフェロモンだだ漏れ！熟女をガチナンパ2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240227/gHuItG3n/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-628"
-  },
-  {
-    "id": 518124,
-    "IDcode": "JKSR-629",
-    "title": "【女OO限定】OO中出指導！！「",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1bcc5ce5a404e9be68aff/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-629"
-  },
-  {
-    "id": 561345,
-    "IDcode": "JKSR-630",
-    "title": "今夜妻が浮気します4 人妻夜●いツアー 心とカラダが相反する人里离れた旅馆の夜更け、アナタごめ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240326/x8wSN9AK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-630"
-  },
-  {
-    "id": 518126,
-    "IDcode": "JKSR-631",
-    "title": "變態小鬼OO 讓討厭的女OO徹底",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1bcb0ce5a404e9be68afd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-631"
-  },
-  {
-    "id": 550395,
-    "IDcode": "JKSR-632",
-    "title": "土下座・放尿・イラマチオ・中出しベチョドロ肉便器 一生逃がさない！レ〆プ 凌●は最上级の爱情表现",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240326/D0AJfiWj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-632"
-  },
-  {
-    "id": 545617,
-    "IDcode": "JKSR-633",
-    "title": "変态家族“今日も犯されて幸せです…”女子〇生家庭内近亲SEX12",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240429/q09Sj7IQ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-633"
-  },
-  {
-    "id": 545612,
-    "IDcode": "JKSR-634",
-    "title": "部活少女 あなたが见たかった女子校生の甘くて切ないねっとり性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240429/B3pgaplF/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-634"
-  },
-  {
-    "id": 545614,
-    "IDcode": "JKSR-635",
-    "title": "恋も学校も一生悬命！！“いっぱいエッチなことしたいの”思春期真っ盛りJ〇のお忍びイチャラブSE",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240429/uksmG1xm/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-635"
-  },
-  {
-    "id": 545611,
-    "IDcode": "JKSR-636",
-    "title": "无差别风吕盗撮2 4时间総势30人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240429/4qlxUaIw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-636"
-  },
-  {
-    "id": 545460,
-    "IDcode": "JKSR-637",
-    "title": "中出し成功率100％！！人妻ナンパ！隙しかないから速攻生ハメSEX！！东京の路上で人妻をナンパ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240528/E8kkAxrK/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-637"
-  },
-  {
-    "id": 545458,
-    "IDcode": "JKSR-638",
-    "title": "新妻、ヒミツのNTR 初级编！ オトナの游びに惹きつけられた美しい人妻20人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240528/6dXWpIJf/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-638"
-  },
-  {
-    "id": 545459,
-    "IDcode": "JKSR-639",
-    "title": "NTRサークル 仆がずーっと好きだったあの子と布団の中で密着せっくちゅ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫妻"
-    ],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240528/4hpehkrA/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-639"
-  },
-  {
-    "id": 545457,
-    "IDcode": "JKSR-640",
-    "title": "AVメーカーがこっそり集めた□リマニア向けポルノビデオ おさげ髪女子10人 完全版4时间",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240528/uoGltPnn/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-640"
-  },
-  {
-    "id": 517061,
-    "IDcode": "JKSR-644",
-    "title": "亂交吧！全員集合！人妻婊子超下流",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "乱交"
-    ],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/08/690f01b22a997527cfd31f46/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-644"
-  },
-  {
-    "id": 560588,
-    "IDcode": "JKSR-645",
-    "title": "家出少女を嬲る 种付け性交の记录 ワタシたち処女じゃないもん！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240729/U7hXeWjG/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-645"
-  },
-  {
-    "id": 545111,
-    "IDcode": "JKSR-646",
-    "title": "おとなのおじさんと4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240730/FJEa6qZj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-646"
-  },
-  {
-    "id": 407927,
-    "IDcode": "JKSR-648",
-    "title": "出來了...讓你感嘆的美女主婦在城裡被撿起來變成○○○...4小時",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "Big Morkal",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d30779d6fbef4e90c1061d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JKSR-648"
   }
 ];

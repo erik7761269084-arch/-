@@ -10,7 +10,7 @@ window.PAGE_DATA = [
       "高清画质",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FalenoTube",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240605/NUTtfPGD/1.jpg",
@@ -27,7 +27,7 @@ window.PAGE_DATA = [
     "genres": [
       "高清画质"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FalenoTube",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240702/vdiPNIPd/1.jpg",

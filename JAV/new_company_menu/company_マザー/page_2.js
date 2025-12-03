@@ -1,5 +1,146 @@
 window.PAGE_DATA = [
   {
+    "id": 18852,
+    "IDcode": "SAN-161",
+    "title": "對婚姻生活不滿意的年輕妻子與前男友重逢，瞬間火冒三丈/Yuka Ichii",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "NTR",
+      "慾求不滿"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-09-01",
+    "cover_url": "https://picture.yoshiclub.xyz/20230901/20230831235916234234.jpg",
+    "actress": [
+      "市井結夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-161"
+  },
+  {
+    "id": 89954,
+    "IDcode": "SAN-162",
+    "title": "【FANZA限定】エアコン修理業者に拉致監禁され行方不明になった巨乳妻 / 美丘さとみ パンティとチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "白天出轨",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://tuaskbgnekr.com/20231122/bsSM70SR/1.jpg",
+    "actress": [
+      "爱花みちる"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-162"
+  },
+  {
+    "id": 89952,
+    "IDcode": "SAN-163",
+    "title": "醜態熟女 ぐちゅぐちゅ大乱舞",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "多P",
+      "内衣",
+      "业余",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2001-01-15",
+    "cover_url": "https://tuaskbgnekr.com/20231122/63fdaAXI/1.jpg",
+    "actress": [
+      "原田なつみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-163"
+  },
+  {
+    "id": 89935,
+    "IDcode": "SAN-164",
+    "title": "【FANZA限定】セックス依存症の熟女人妻は夫に隠れ近所の男性を誘惑してセックスへと導く / 姫川礼子 パンティとチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "白天出轨",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://tuaskbgnekr.com/20231122/cGppfs4q/1.jpg",
+    "actress": [
+      "姫川礼子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-164"
+  },
+  {
+    "id": 89942,
+    "IDcode": "SAN-165",
+    "title": "【FANZA限定】酒に溺れ旦那にも愛想をつかされ隣人男に依存するしかなくなった哀れな女の物語 / 美原すみれ パンティとチェキ付き",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "白天出轨",
+      "成熟的女人",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://tuaskbgnekr.com/20231122/b7T5Qsln/1.jpg",
+    "actress": [
+      "美原すみれ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-165"
+  },
+  {
+    "id": 89947,
+    "IDcode": "SAN-166",
+    "title": "まだまだ現役！レジェンドオブレジェンド小早川怜子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "出轨",
+      "白天出轨",
+      "中出",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/7fd30afb26da38a97f86f1bc092d762e.jpg",
+    "actress": [
+      "小早川怜子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-166"
+  },
+  {
     "id": 89956,
     "IDcode": "SAN-167",
     "title": "美神降臨！これが史上最高峰女優の競演！北条麻妃＆波多野結衣",
@@ -14,7 +155,7 @@ window.PAGE_DATA = [
       "中出",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-08-29",
     "cover_url": "https://xing.sex8sex833.com/20251009/YySniKoX/1.jpg",
@@ -40,7 +181,7 @@ window.PAGE_DATA = [
       "乳房",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-09-30",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/ef72b9615c71f45b3e204cdf7722d665.jpg",
@@ -64,7 +205,7 @@ window.PAGE_DATA = [
       "乳房",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-09-30",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/a34d15ff63f85c2815c440fccb2be1ea.jpg",
@@ -88,7 +229,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-09-30",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/8c66d42615cfd1bdb93c56420730e940.jpg",
@@ -111,7 +252,7 @@ window.PAGE_DATA = [
       "女生",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2001-02-16",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/59da260941b0d16c8d52ac24bb2fb49c.jpg",
@@ -131,7 +272,7 @@ window.PAGE_DATA = [
       "乱伦",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2001-02-16",
     "cover_url": "https://xing.sex8sex833.com/20251009/bfXDl7po/1.jpg",
@@ -149,7 +290,7 @@ window.PAGE_DATA = [
       "校服",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2001-02-16",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/087c9e8fb4cbb428c12483dd4d013482.jpg",
@@ -172,7 +313,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-09-30",
     "cover_url": "https://xing.sex8sex833.com/20251009/otiIfcJQ/1.jpg",
@@ -197,7 +338,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-09-30",
     "cover_url": "https://xing.sex8sex833.com/20251009/4AbBIPeS/1.jpg",
@@ -222,7 +363,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-09-30",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/7dfb359afc739b8a448da8dddad5c336.jpg",
@@ -248,7 +389,7 @@ window.PAGE_DATA = [
       "口交",
       "性感"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-10-31",
     "cover_url": "https://picture.yoshiclub.xyz/20231101/df56e6ad-8b8c-456b-88b7-c0a62ad3385e.jpg",
@@ -275,7 +416,7 @@ window.PAGE_DATA = [
       "口交",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-10-31",
     "cover_url": "https://picture.yoshiclub.xyz/20231101/00291142-9585-464f-bca5-6b464a29f43a.jpg",
@@ -299,7 +440,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-10-31",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/6c1354fbc2b43baefff715505402b3b4.jpg",
@@ -323,7 +464,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-10-31",
     "cover_url": "https://xing.sex8sex833.com/20251009/ngVVoUYT/1.jpg",
@@ -350,7 +491,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-10-31",
     "cover_url": "https://picture.yoshiclub.xyz/20231101/843fc021-2c67-4395-beea-823321e8641a.jpg",
@@ -376,7 +517,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-10-31",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/a829e3026a94bf91e85b60d699eddb9e.jpg",
@@ -398,7 +539,7 @@ window.PAGE_DATA = [
       "女同性恋",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2001-03-15",
     "cover_url": "https://xing.sex8sex833.com/20251009/8CdzmKlH/1.jpg",
@@ -408,6 +549,60 @@ window.PAGE_DATA = [
       "徳井唯"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-183"
+  },
+  {
+    "id": 89906,
+    "IDcode": "SAN-184",
+    "title": "マザーベストセックス6人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "白天出轨",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-10-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "美園和花",
+      "木下日葵",
+      "吉根柚莉爱",
+      "高瀬りな",
+      "瀨名光",
+      "凪泽诗音"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-184"
+  },
+  {
+    "id": 89929,
+    "IDcode": "SAN-185",
+    "title": "息子の性奴●にされた4人の義母",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "出轨",
+      "白天出轨",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "company": "マザー",
+    "publish_date": "2023-10-31",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "青木美空",
+      "音无かおり",
+      "早瀬和香",
+      "仲间丽奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-185"
   },
   {
     "id": 89897,
@@ -427,7 +622,7 @@ window.PAGE_DATA = [
       "故事集",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-10-31",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240110-1/0c452c5e3d2e87121c99fc2d8a861b82.jpg",
@@ -456,7 +651,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e692a6ac8bc3313de6d4a14485e6f81b.jpg",
@@ -481,7 +676,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/d151705200126b28173f7efbf82e6a3e.jpg",
@@ -504,7 +699,7 @@ window.PAGE_DATA = [
       "乳房",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://tuaskbgnekr.com/20231208/TLCNIWKH/1.jpg",
@@ -532,7 +727,7 @@ window.PAGE_DATA = [
       "巨乳",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://picture.yoshiclub.xyz/20231128/fc2c7b69-f309-4a0b-831f-a27afca6f89d.jpg",
@@ -557,7 +752,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/26faaa80eff1503fbe23d72b7f43556e.jpg",
@@ -581,7 +776,7 @@ window.PAGE_DATA = [
       "业余",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2001-04-15",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/3c3ef6add22bd4902c0517605727d6ac.jpg",
@@ -603,7 +798,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/9289d09c70929288d2b8700d515682ad.jpg",
@@ -631,7 +826,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://tuaskbgnekr.com/20231208/dy3snEY0/1.jpg",
@@ -662,7 +857,7 @@ window.PAGE_DATA = [
       "亂交 • 群P",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://picture.yoshiclub.xyz/20231128/9782322e-f3f1-4623-9ad2-91b1bb2bd5c1.jpg",
@@ -688,7 +883,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-11-28",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240105-1/e24da32b55c8b2e11fb51ebeffc577d7.jpg",
@@ -715,7 +910,7 @@ window.PAGE_DATA = [
       "性感",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2023-12-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240101/80655532-1ab7-4a6d-a230-297a9089e5cd.jpg",
@@ -734,7 +929,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/y4yzmv5y/1.jpg",
@@ -751,7 +946,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/8twF8PcD/1.jpg",
@@ -766,7 +961,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/H0j5Y3en/1.jpg",
@@ -783,7 +978,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/bFQX7De4/1.jpg",
@@ -798,7 +993,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/yWB50zjz/1.jpg",
@@ -813,7 +1008,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/gp0aqRnE/1.jpg",
@@ -828,7 +1023,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240103/LTkMfZOV/1.jpg",
@@ -845,7 +1040,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240202/ci0acFxZ/1.jpg",
@@ -860,7 +1055,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240202/2kfPzSPO/1.jpg",
@@ -877,7 +1072,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240202/ekwqsVNW/1.jpg",
@@ -894,7 +1089,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f38f79cf22ae3e04e6f2fe/cover.jpg",
@@ -909,7 +1104,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a4733ac813dc779d96224/cover.jpg",
@@ -924,7 +1119,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240202/8O0QBTLs/1.jpg",
@@ -941,7 +1136,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240202/SCsO7CGe/1.jpg",
@@ -956,7 +1151,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240202/4jIz3MAg/1.jpg",
@@ -971,7 +1166,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240202/Lw6QKrrp/1.jpg",
@@ -989,7 +1184,7 @@ window.PAGE_DATA = [
       "淫妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/1lpxNkBi/1.jpg",
@@ -1006,7 +1201,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/HtWDKKfA/1.jpg",
@@ -1021,7 +1216,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/LEDMipKR/1.jpg",
@@ -1036,7 +1231,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/Xud5feL0/1.jpg",
@@ -1051,7 +1246,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240314/SPGhjEgh/1.jpg",
@@ -1066,7 +1261,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240315/zR0Zaxx7/1.jpg",
@@ -1081,7 +1276,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240315/MlrQuXv7/1.jpg",
@@ -1096,7 +1291,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240315/7s7kW1Xb/1.jpg",
@@ -1138,7 +1333,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-03-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401042935758758.jpg",
@@ -1185,7 +1380,7 @@ window.PAGE_DATA = [
       "無毛",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-03-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401045928951951.jpg",
@@ -1228,7 +1423,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-03-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401045730814814.jpg",
@@ -1269,7 +1464,7 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-03-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401043149443443.jpg",
@@ -1319,7 +1514,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-03-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401042836407407.jpg",
@@ -1336,7 +1531,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240405/DrUbRxnU/1.jpg",
@@ -1351,7 +1546,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240405/GSz9mFcz/1.jpg",
@@ -1366,7 +1561,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240405/Zk4BnafW/1.jpg",
@@ -1391,7 +1586,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-04-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240430/20240430011027996996.jpg",
@@ -1421,7 +1616,7 @@ window.PAGE_DATA = [
       "女同事",
       "不倫"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-04-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240430/20240430011140365365.jpg",
@@ -1448,7 +1643,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-04-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240430/20240430011309232232.jpg",
@@ -1483,7 +1678,7 @@ window.PAGE_DATA = [
       "劇情",
       "不倫"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-04-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240430/20240430045923381381.jpg",
@@ -1513,7 +1708,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-04-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240430/a53b321e-55f9-4b24-9167-192c20786cb6.jpg",
@@ -1530,7 +1725,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/GWxhgfLq/1.jpg",
@@ -1545,7 +1740,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/T2b8LR00/1.jpg",
@@ -1583,7 +1778,7 @@ window.PAGE_DATA = [
       "同學",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528065219831831.jpg",
@@ -1613,7 +1808,7 @@ window.PAGE_DATA = [
       "巨乳",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528070444957957.jpg",
@@ -1633,7 +1828,7 @@ window.PAGE_DATA = [
       "出轨",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-05-28",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241022-1/2c022daa9c8a604893322b283cc66c11.jpg",
@@ -1675,7 +1870,7 @@ window.PAGE_DATA = [
       "劇情",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528065722723723.jpg",
@@ -1722,7 +1917,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528070746626626.jpg",
@@ -1755,7 +1950,7 @@ window.PAGE_DATA = [
       "巨乳",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240528/20240528065052165165.jpg",
@@ -1807,7 +2002,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-06-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240630/20240630085448179179.jpg",
@@ -1851,7 +2046,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-06-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240630/4110b6b1-3ec8-47d2-875d-13c81cbc21b3.jpg",
@@ -1870,7 +2065,7 @@ window.PAGE_DATA = [
     "genres": [
       "痴汉"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2017-07-17",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241024-1/7a5ca5e2f22b27dfcc36c77a9774184e.jpg",
@@ -1913,7 +2108,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-06-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240702/1da96ec3-4903-409d-a50c-5218ed4513e9.jpg",
@@ -1953,7 +2148,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-06-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240702/01a97dbb-6a2e-4d75-b41d-64670ce11782.jpg",
@@ -1974,7 +2169,7 @@ window.PAGE_DATA = [
       "荡妇",
       "放尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-06-30",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/dba91299031bc0067804d6bd7c99f8d2.jpg",
@@ -1995,7 +2190,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-06-30",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241021-1/6a1fae05bc97bb83220022173f5d7eb1.jpg",
@@ -2015,7 +2210,7 @@ window.PAGE_DATA = [
       "淫乱，真实",
       "荡妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-06-30",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241022-1/a972dbdbbccb6065b8aa02746d7b75e8.jpg",
@@ -2041,7 +2236,7 @@ window.PAGE_DATA = [
       "女上位",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-07-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240730/71df17c6-eab5-41e2-9502-b7158d89ebf1.jpg",
@@ -2094,7 +2289,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女祭司"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba708b489841641837f4b6/cover.jpg",
@@ -2124,7 +2319,7 @@ window.PAGE_DATA = [
       "女上位",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-07-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240730/d9fa0b31-d406-483c-b163-6eb815311322.jpg",
@@ -2158,7 +2353,7 @@ window.PAGE_DATA = [
       "苗條",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2001-11-15",
     "cover_url": "https://picture.yoshiclub.xyz/20240730/76c660d9-48a4-4c7a-a162-1e9488cb1906.jpg",
@@ -2194,7 +2389,7 @@ window.PAGE_DATA = [
       "劇情",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-07-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240730/8f7e9cc8-a6e2-427d-82d7-b6e284ad599b.jpg",
@@ -2230,7 +2425,7 @@ window.PAGE_DATA = [
       "劇情",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-07-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240730/1b246f85-7401-4234-b08b-93a967eeef48.jpg",
@@ -2251,7 +2446,7 @@ window.PAGE_DATA = [
       "荡妇",
       "口交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-07-30",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241022-1/3ff3a3a2e0cf18b25c8d71b2e5cb2257.jpg",
@@ -2283,7 +2478,7 @@ window.PAGE_DATA = [
       "性感",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-07-30",
     "cover_url": "https://picture.yoshiclub.xyz/20240730/e09b35d4-f751-4fac-b562-47b27e423f8d.jpg",
@@ -2322,7 +2517,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-08-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240814/928ac61c-054b-44ec-b30b-35f6fc24d910.jpg",
@@ -2368,7 +2563,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "マザー",
     "publish_date": "2024-08-13",
     "cover_url": "https://picture.yoshiclub.xyz/20240814/f33ba1cb-5cdc-4059-aaec-fc8c384d87a5.jpg",
@@ -2377,305 +2572,5 @@ window.PAGE_DATA = [
       "冴島翔子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-268"
-  },
-  {
-    "id": 12307,
-    "IDcode": "SAN-270",
-    "title": "有肛交性癖的變態人妻 ~ 望月綾香",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨尻",
-      "插入異物",
-      "性虐癖",
-      "凌辱",
-      "緊縛",
-      "美腳",
-      "美乳",
-      "變態",
-      "按摩棒",
-      "口交",
-      "跳蛋",
-      "形象俱樂部",
-      "人妻",
-      "淫亂",
-      "中出",
-      "蕩婦",
-      "後入",
-      "美腿",
-      "重口味",
-      "SM",
-      "美臀",
-      "劇情",
-      "美少女電影",
-      "口球",
-      "肛交",
-      "調教",
-      "白眼失神",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "2024-08-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20240901/70214dfe-aecd-4c51-98d9-0b6bc5a7bc60.jpg",
-    "actress": [
-      "望月綾香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-270"
-  },
-  {
-    "id": 12305,
-    "IDcode": "SAN-271",
-    "title": "老婆最近很奇怪！無法停止做愛的兄妹 ~ 瀨名未來",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "亂倫",
-      "肉絲",
-      "美腳",
-      "姐弟・兄妹",
-      "自宅",
-      "美乳",
-      "口交",
-      "熟女",
-      "人妻",
-      "NTR",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "姐姐・妹妹",
-      "美腿",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "2024-08-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901005029397397.jpg",
-    "actress": [
-      "瀬名未来"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-271"
-  },
-  {
-    "id": 12318,
-    "IDcode": "SAN-272",
-    "title": "內向的妻子被寢取NTR，徹底成了蕩婦 ~ 白石桃",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "若妻",
-      "苗條",
-      "同事女友・妻子",
-      "美腳",
-      "癡女",
-      "羞恥",
-      "色白",
-      "口交",
-      "人妻",
-      "NTR",
-      "貧乳",
-      "內衣",
-      "淫妻",
-      "出軌",
-      "中出",
-      "後入",
-      "劇情",
-      "絕頂高潮",
-      "脚控・戀足癖",
-      "美少女電影",
-      "脅迫做愛",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "2024-08-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901001440726726.jpg",
-    "actress": [
-      "白石桃"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-272"
-  },
-  {
-    "id": 12316,
-    "IDcode": "SAN-273",
-    "title": "打電話叫了援交服務，剛架好攝像頭，妹子就來了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "應召・援交",
-      "獵豔",
-      "風俗娘",
-      "美少女",
-      "美腳",
-      "拜金女",
-      "素人",
-      "飯店小姐・援交妹",
-      "色白",
-      "真實拍攝",
-      "黑絲",
-      "中出",
-      "足交",
-      "口罩",
-      "口交",
-      "企畫",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "2024-08-31",
-    "cover_url": "https://picture.yoshiclub.xyz/20240901/20240901001837432432.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-273"
-  },
-  {
-    "id": 544606,
-    "IDcode": "SAN-275",
-    "title": "これが现代のレジェンド浜崎真绪240分",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20241013/y3FNx9bI/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-275"
-  },
-  {
-    "id": 11905,
-    "IDcode": "SAN-276",
-    "title": "漂浮在浴缸中的爆乳！~ 姬咲華",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "4小時以上作品",
-      "美少女",
-      "癡女",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "內衣",
-      "中出",
-      "後入",
-      "企畫",
-      "絕頂高潮",
-      "女優",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "2024-09-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20240918/9453dc1a-e940-4623-9978-a6fa4ef74add.jpg",
-    "actress": [
-      "姫咲華"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-276"
-  },
-  {
-    "id": 11907,
-    "IDcode": "SAN-277",
-    "title": "全民偶像 ~ 高瀬りな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "獵豔",
-      "純粹的慾望",
-      "4小時以上作品",
-      "飯店",
-      "美少女",
-      "癡女",
-      "羞恥",
-      "胸控・戀乳癖",
-      "色白",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "中出",
-      "後入",
-      "劇情",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "2024-09-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20240918/bf1dfdc2-3dcc-4f2c-a28a-24f04d98abc4.jpg",
-    "actress": [
-      "高瀬りな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-277"
-  },
-  {
-    "id": 11562,
-    "IDcode": "SAN-278",
-    "title": "裸族の家庭 鳥楽ひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "3P・4P",
-      "巨尻",
-      "女兒",
-      "亂倫",
-      "美少女",
-      "姐弟・兄妹",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "變態",
-      "亂交 • 群P",
-      "巨乳",
-      "性感",
-      "口交",
-      "兩男一女",
-      "父女",
-      "淫亂",
-      "中出",
-      "姐姐・妹妹",
-      "後入",
-      "美腿",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "美少女電影",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "マザー",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/6159fe32ba9338648daa56ccf2d5da55.jpg",
-    "actress": [
-      "鳥楽ひな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=SAN-278"
   }
 ];

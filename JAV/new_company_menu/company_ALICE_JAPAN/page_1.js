@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/02/30493_cover_2025-10-02_032014.jpg",
@@ -22,12 +22,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231006/53dvaj0014pl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-0014"
+  },
+  {
+    "id": 534236,
+    "IDcode": "DVAJ-0024",
+    "title": "本気汁が出まくり BEST 4时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-0024"
   },
   {
     "id": 155449,
@@ -37,7 +52,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "2024-07-17",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250202-1/fd41a7ba471c719ae8436b7211eb6707.jpg",
@@ -54,7 +69,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231213/53dvaj0029pl.jpg!320x216.jpg",
@@ -75,7 +90,7 @@ window.PAGE_DATA = [
       "內衣",
       "姐姐・妹妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20230407/c6884e4f-8de0-4512-8cf2-17aa2fa822e1.jpg",
@@ -85,6 +100,53 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-0033"
   },
   {
+    "id": 99973,
+    "IDcode": "DVAJ-0041",
+    "title": "最終連続絶頂アクメ 葵つかさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "拘束",
+      "多P",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "2015-05-22",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "葵司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-0041"
+  },
+  {
+    "id": 72410,
+    "IDcode": "DVAJ-005",
+    "title": "只属于我的裸体模特-葵司",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "羞耻",
+      "无码破解",
+      "素人作品",
+      "女上位",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "葵司",
+      "真琴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-005"
+  },
+  {
     "id": 550123,
     "IDcode": "DVAJ-0081",
     "title": "停电中に义父に抱かれる若妻 川上奈々美",
@@ -92,7 +154,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240111/53dvaj0081pl.jpg!320x216.jpg",
@@ -107,12 +169,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf1b357de28f4ede5121f3/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-0109"
+  },
+  {
+    "id": 221694,
+    "IDcode": "DVAJ-011",
+    "title": "见面的四秒钟内结合在一起-彩乃なな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-011"
   },
   {
     "id": 550182,
@@ -122,7 +199,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/53dvaj0112pl.jpg!320x216.jpg",
@@ -137,7 +214,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240124/53dvaj0119pl.jpg!320x216.jpg",
@@ -152,7 +229,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/e1a486101e8c84880a72dd8d4d480959.jpg",
@@ -162,6 +239,51 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-016"
   },
   {
+    "id": 225344,
+    "IDcode": "DVAJ-025",
+    "title": "第一次尝试黑人肉棒-葵つかさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-025"
+  },
+  {
+    "id": 579642,
+    "IDcode": "DVAJ-025B",
+    "title": "つかさが黒人デカチンとSEX！颜射の瞬间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-025B"
+  },
+  {
+    "id": 210996,
+    "IDcode": "DVAJ-030",
+    "title": "癫狂-長澤えりな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-030"
+  },
+  {
     "id": 408078,
     "IDcode": "DVAJ-038",
     "title": "彼此只尋求快樂的無愛性愛長澤惠裡奈-長澤繪里奈",
@@ -169,7 +291,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0d3059bce0063d6091603/cover.jpg",
@@ -184,7 +306,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/2b2d058798e54b27a865529d40542d86.jpg",
@@ -199,12 +321,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/10/68c0d22c9bce0063d6091602/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-081"
+  },
+  {
+    "id": 213770,
+    "IDcode": "DVAJ-114",
+    "title": "本当生中出-夏希みなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-114"
   },
   {
     "id": 579469,
@@ -214,12 +351,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240130/dvaj126sopl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-126"
+  },
+  {
+    "id": 216418,
+    "IDcode": "DVAJ-128",
+    "title": "人間廃業黒人-成宮はるあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-128"
+  },
+  {
+    "id": 216484,
+    "IDcode": "DVAJ-135",
+    "title": "人間廃業-皆野あい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-135"
   },
   {
     "id": 550236,
@@ -229,7 +396,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240206/dvaj136sopl.jpg!320x216.jpg",
@@ -244,7 +411,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/09/60315_cover_2025-09-09_011336.jpg",
@@ -259,12 +426,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240206/dvaj144sopl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-144"
+  },
+  {
+    "id": 589514,
+    "IDcode": "DVAJ-177",
+    "title": "[利润] 一个专注于茜美臀角度的作品。首先，如果你从后面将它插入漂亮的屁股并戳 Mako，",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-177"
   },
   {
     "id": 550359,
@@ -276,12 +458,27 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240305/dvaj180sopl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-180"
+  },
+  {
+    "id": 592537,
+    "IDcode": "DVAJ-183",
+    "title": "Akane Moriya 以合理的价格工作！强与岳父 ● 性。一边抱着熟睡男友的吉宝，",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-183"
   },
   {
     "id": 550445,
@@ -291,12 +488,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240609/dvaj191sopl.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-191"
+  },
+  {
+    "id": 526441,
+    "IDcode": "DVAJ-203",
+    "title": "5つの初体験でいっぱい気持ちよくなっちゃいました…。 佐々波绫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-203"
+  },
+  {
+    "id": 526440,
+    "IDcode": "DVAJ-211",
+    "title": "フェラ嬢王 佐々波绫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-211"
   },
   {
     "id": 556841,
@@ -306,12 +533,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/6395ea5c9c30a55f810a2d2cfa03fa62.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-213"
+  },
+  {
+    "id": 539262,
+    "IDcode": "DVAJ-214A",
+    "title": "佐々木あきが拘束されて犯され、しかも中出",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-214A"
   },
   {
     "id": 539358,
@@ -321,7 +563,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250911-1/f630ffe0109c57c2764a109983289750.jpg",
@@ -336,12 +578,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/8ce17771387cac0fabe73a05085b39af.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-220"
+  },
+  {
+    "id": 180812,
+    "IDcode": "DVAJ-221",
+    "title": "清纯派AV偶像川上奈奈美喝个烂醉后变成了一个眼里只有肉棒的婊子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-221"
+  },
+  {
+    "id": 556759,
+    "IDcode": "DVAJ-224",
+    "title": "不要错过 Mari Rika 被迫进入原始和阴道射精！ - 麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-224"
   },
   {
     "id": 556850,
@@ -353,12 +625,32 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250910-1/238db7c4d81ad697c0776bfaa50b6100.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-226"
+  },
+  {
+    "id": 82511,
+    "IDcode": "DVAJ-227",
+    "title": "回馈性爱给粉丝-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "手淫"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-227"
   },
   {
     "id": 556999,
@@ -368,7 +660,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/ccd56d5772d9a45bc8a0b8147cedf7f1.jpg",
@@ -383,12 +675,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250909-1/fcff1ef78269acff5523d9159b475e8e.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-234"
+  },
+  {
+    "id": 592659,
+    "IDcode": "DVAJ-236",
+    "title": "[优势] 传说中的 I-cup 身体 Mika 与业馀爱好者发生性关系。女牛仔同时晃动大乳房。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-236"
+  },
+  {
+    "id": 556757,
+    "IDcode": "DVAJ-237",
+    "title": "[特价] Lori E-cup“Azuki”-chan！ Ryo 在一间旧公寓的房间里展开。她被丝袜束缚，穿着衣服时被一个男人从背后悄悄捅了一刀。照原样继续对著上位的女人进行性交的小豆。 … - 亚须希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-237"
   },
   {
     "id": 556865,
@@ -398,7 +720,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250911-1/9bcb7a05aa735ff8787ea5c795f26210.jpg",
@@ -413,12 +735,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/752ca31bdd230b83975c1e1050e8e318.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-243"
+  },
+  {
+    "id": 210815,
+    "IDcode": "DVAJ-244",
+    "title": "水野朝陽大満足",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-244"
   },
   {
     "id": 556976,
@@ -428,12 +765,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250902-1/6b67b7db6d0ffae28ac3f3eedd1e89c6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-246"
+  },
+  {
+    "id": 556979,
+    "IDcode": "DVAJ-247",
+    "title": "[Sokunuki] 以F-cup处女身份出道的丰满身材的少女，他妈的第1次！吉婆的胸部按摩起来似乎很舒服，很有嚼劲。握紧，chupachupa！并且第1次吐舌！玛丽亚·奥萨瓦 - 逢泽真里亚",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "出道作"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-247"
   },
   {
     "id": 556967,
@@ -445,7 +799,7 @@ window.PAGE_DATA = [
     "genres": [
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/657b6b25ce2afb81dfe925a491712bcf.jpg",
@@ -460,7 +814,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/204cb3c5ce97ae45f8b26636e929ad3f.jpg",
@@ -477,7 +831,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250901-1/114d7c0260f6968c3622d00a69704d51.jpg",
@@ -494,12 +848,29 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250831-1/e67710cdf5b2c9023e7188b3bb930c07.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-254"
+  },
+  {
+    "id": 591331,
+    "IDcode": "DVAJ-255",
+    "title": "[]媚薬 真梨邑ケイ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-255"
   },
   {
     "id": 526439,
@@ -509,7 +880,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250916-1/3b2d658c50fadd5e0dd3e6fb0a73ba69.jpg",
@@ -530,7 +901,7 @@ window.PAGE_DATA = [
       "女教师",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250318-1/006290cbf0a9d40d53769c72af3f46e6.jpg",
@@ -542,6 +913,213 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-258"
   },
   {
+    "id": 209596,
+    "IDcode": "DVAJ-261",
+    "title": "カンパニー松尾-すみれ美香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-261"
+  },
+  {
+    "id": 591330,
+    "IDcode": "DVAJ-263",
+    "title": "[] 义理の息子に犯されて… ～最爱の人の目の前でイカされ堕ちていく私～ もちづきる美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-263"
+  },
+  {
+    "id": 82507,
+    "IDcode": "DVAJ-269",
+    "title": "射精无戴套-佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐佐木明希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-269"
+  },
+  {
+    "id": 82509,
+    "IDcode": "DVAJ-278",
+    "title": "由男方主导的反向泡泡浴天国-佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "妓女"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "佐佐木明希",
+      "玉木玲"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-278"
+  },
+  {
+    "id": 539359,
+    "IDcode": "DVAJ-281",
+    "title": "佐々波绫 デビュー作からのセックスすべて见",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-281"
+  },
+  {
+    "id": 526438,
+    "IDcode": "DVAJ-288",
+    "title": "Like a Begin 星乃月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-288"
+  },
+  {
+    "id": 216483,
+    "IDcode": "DVAJ-301",
+    "title": "課外性奴-麻里梨夏",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-301"
+  },
+  {
+    "id": 82494,
+    "IDcode": "DVAJ-305",
+    "title": "和秘密情人三原穗花完全不避孕的内射性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "乳交",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "三原穗香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-305"
+  },
+  {
+    "id": 225097,
+    "IDcode": "DVAJ-314",
+    "title": "姐姐擅自跑到被窝里来了-星乃月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-314"
+  },
+  {
+    "id": 526450,
+    "IDcode": "DVAJ-319",
+    "title": "课外性奴 佐々木あき",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-319"
+  },
+  {
+    "id": 214538,
+    "IDcode": "DVAJ-327",
+    "title": "痴女医生-星乃月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-327"
+  },
+  {
+    "id": 82495,
+    "IDcode": "DVAJ-330",
+    "title": "我深爱的老公-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "监禁",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "田渊正浩",
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-330"
+  },
+  {
     "id": 72203,
     "IDcode": "DVAJ-331",
     "title": "誕生日の彼女を驚かせようと部屋にこっそり入って待機してたら、彼女が僕の友人と二人で帰ってきて…僕はとっさにベッドの下に隠れてしまったのです。息を潜めていると、ベッドの上からピチャピチャいやらしい音が聞こえてきて…【最低最悪の寝取られ体験】 高杉麻里",
@@ -551,7 +1129,7 @@ window.PAGE_DATA = [
     "genres": [
       "白天出轨"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/ed2c5bbb84e92e865346a51dfeb6307c.jpg",
@@ -561,6 +1139,43 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-331"
   },
   {
+    "id": 592665,
+    "IDcode": "DVAJ-339",
+    "title": "【优点】攻击米娜娜的恶魔之手。偷窥和攻击沉迷于耳机手淫的她的裤男。",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-339"
+  },
+  {
+    "id": 82527,
+    "IDcode": "DVAJ-345",
+    "title": "要挟姐姐星奈爱和我内射做爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "姐姐",
+      "女上位",
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "星奈爱"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-345"
+  },
+  {
     "id": 566465,
     "IDcode": "DVAJ-349",
     "title": "先っぽ3cmまでは挿入させてくれる姊とのギリギリ相奸未満生活",
@@ -568,7 +1183,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6d5173b492eb368f13e110f754a8dd23.jpg",
@@ -583,12 +1198,72 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/IDv10CxfL.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-350"
+  },
+  {
+    "id": 578400,
+    "IDcode": "DVAJ-353",
+    "title": "制服美少女ハメまくりBEST5时间",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-353"
+  },
+  {
+    "id": 82498,
+    "IDcode": "DVAJ-354",
+    "title": "究极痴女-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "中出",
+      "女上位",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-354"
+  },
+  {
+    "id": 105639,
+    "IDcode": "DVAJ-355",
+    "title": "女友不在家的三天里和她的好朋友做爱不停",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "多P",
+      "女大学生",
+      "立即口交",
+      "白天出轨"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "富田优衣",
+      "麻里梨夏"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-355"
   },
   {
     "id": 82501,
@@ -604,7 +1279,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/13/6785567ef9a2e9b1d49a5970/cover.jpg",
@@ -621,7 +1296,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/f3594ba405ac9136c24256b604f72019.jpg",
@@ -636,12 +1311,34 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/UqjgXxQt.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-362"
+  },
+  {
+    "id": 82510,
+    "IDcode": "DVAJ-364",
+    "title": "同棲生活-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "荡妇",
+      "美少女",
+      "情侣"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-364"
   },
   {
     "id": 197920,
@@ -651,7 +1348,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/678194d189def9b1b8e47775/cover.jpg",
@@ -668,12 +1365,34 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/c0bd934c81d1443445a0d05f4dd9453f.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-371"
+  },
+  {
+    "id": 82514,
+    "IDcode": "DVAJ-375",
+    "title": "错过末班车的前辈-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "美少女电影",
+      "女大学生",
+      "恋爱"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-375"
   },
   {
     "id": 445342,
@@ -685,7 +1404,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/e4af203cbfac78cc96005d65804a2ea0.jpg",
@@ -700,12 +1419,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200717/dvaj377sopl.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-377"
+  },
+  {
+    "id": 550500,
+    "IDcode": "DVAJ-381",
+    "title": "声を出したら中出しすると胁されて…帰省した叔父にサイレント生ハメされまくる女子大生 香坂纱梨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-381"
+  },
+  {
+    "id": 534088,
+    "IDcode": "DVAJ-383",
+    "title": "极上おもてなしソープ嬢10人5时间ローションまみれチ○ポをヌルヌルゴ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-383"
   },
   {
     "id": 589558,
@@ -717,7 +1466,7 @@ window.PAGE_DATA = [
     "genres": [
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/03/39558_cover_2025-07-03_014243.jpg",
@@ -732,12 +1481,36 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/20/78064_cover_2025-09-20_151848.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-386"
+  },
+  {
+    "id": 105063,
+    "IDcode": "DVAJ-390",
+    "title": "对于出轨偷男人的老婆就得狠狠的蹂躏她",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "已婚妇女",
+      "白天出轨",
+      "中出",
+      "素人作品",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-390"
   },
   {
     "id": 87449,
@@ -754,7 +1527,7 @@ window.PAGE_DATA = [
       "巨乳",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "2019-05-13",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230726-1/392417fac6687987a3bf54a3d6624b73.jpg",
@@ -779,7 +1552,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/5cae91d86ba6af084a09fb8bfb75c04f.jpg",
@@ -787,6 +1560,30 @@ window.PAGE_DATA = [
       "川上奈奈美"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-395"
+  },
+  {
+    "id": 74534,
+    "IDcode": "DVAJ-396",
+    "title": "沾满爱液肉棒含入口交后再次迎入小穴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "流汗",
+      "中出",
+      "素人作品",
+      "女上位",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鲛岛",
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-396"
   },
   {
     "id": 74562,
@@ -803,7 +1600,7 @@ window.PAGE_DATA = [
       "素人作品",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/09/67805080c179ffb1db6d762d/cover.jpg",
@@ -811,6 +1608,32 @@ window.PAGE_DATA = [
       "岬梓沙"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-397"
+  },
+  {
+    "id": 74536,
+    "IDcode": "DVAJ-401",
+    "title": "当她被强奸犯袭击时-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "凌辱",
+      "自慰",
+      "无码破解",
+      "药物",
+      "素人作品",
+      "精选，综合",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-401"
   },
   {
     "id": 74501,
@@ -827,7 +1650,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "2019-07-13",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/db19266b5d50d4d0726852714cc35f6a.jpg",
@@ -835,6 +1658,30 @@ window.PAGE_DATA = [
       "渚光希"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-402"
+  },
+  {
+    "id": 74543,
+    "IDcode": "DVAJ-406",
+    "title": "她就像一只新生的小鹿-川上奈々美",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "凌辱",
+      "调教",
+      "中出",
+      "素人作品",
+      "精选，综合"
+    ],
+    "type": "有码",
+    "company": "ALICE JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鲛岛",
+      "川上奈奈美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-406"
   },
   {
     "id": 74559,
@@ -852,7 +1699,7 @@ window.PAGE_DATA = [
       "巨乳",
       "精选，综合"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67818a922a47ebb1a890649d/cover.jpg",
@@ -876,7 +1723,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ALICE JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/8860aa4d8f2fb03ea075cb1ee019ef10.jpg",
@@ -884,981 +1731,5 @@ window.PAGE_DATA = [
       "川上奈奈美"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-411"
-  },
-  {
-    "id": 87444,
-    "IDcode": "DVAJ-412",
-    "title": "唾液和汗水-美谷朱里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "流汗",
-      "中出",
-      "素人作品",
-      "女上位",
-      "精选，综合",
-      "接吻"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/d75baf9f768c7cf83bfc0f9cafe705f9.jpg",
-    "actress": [
-      "美谷朱里",
-      "森林原人",
-      "鲛岛"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-412"
-  },
-  {
-    "id": 87442,
-    "IDcode": "DVAJ-418",
-    "title": "超絶テクで膣内でも口内でもドバドバ男潮吹きさせる無限スプラッシュ性交 永瀬ゆい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "荡妇",
-      "美少女电影",
-      "素人作品",
-      "女上位",
-      "精选，综合"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/24f83b11ff14ad9a52361d7358d271aa.jpg",
-    "actress": [
-      "永瀬ゆい"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-418"
-  },
-  {
-    "id": 469287,
-    "IDcode": "DVAJ-422",
-    "title": "ノーブラで家をウロウロする従姉のお風呂を覗いてるのがバレて精子が枯れるまで説教射精させられた 川上奈奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6783d3c12a47ebb1a8956266/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-422"
-  },
-  {
-    "id": 87447,
-    "IDcode": "DVAJ-423",
-    "title": "不倫相手に夢中で俺をイヤがる妻に何度も中出し【寝取りがえし】夫の特権を利用して妻が出かける直前に強襲FUCK、体舐めまくりセックス、無許可中出しetc. AIKA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "白天出轨",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677d7a2b2a47ebb1a870cfbc/cover.jpg",
-    "actress": [
-      "AIKA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-423"
-  },
-  {
-    "id": 530419,
-    "IDcode": "DVAJ-424B",
-    "title": "[第2集]ひたすら犯す。4时间 川上奈々美vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200129-1/4c5419cfb665de1fd9b8576a71a850a7.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-424B"
-  },
-  {
-    "id": 70843,
-    "IDcode": "DVAJ-427",
-    "title": "明知我在偷窥她做爱却不为所动的嫂子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "荡妇",
-      "白天出轨",
-      "姐姐",
-      "中出"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/3b2cba0a519e627cc38984f046dbefa4.jpg",
-    "actress": [
-      "川上奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-427"
-  },
-  {
-    "id": 78861,
-    "IDcode": "DVAJ-428",
-    "title": "妻を誘拐したレイプ魔から届く12通のビデオレター 今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "晒黑",
-      "白天出轨",
-      "巨乳",
-      "已婚妇女"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2019-12-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-3/05d2f5ba8a71a38065f30fd10122f065.jpg",
-    "actress": [
-      "今井夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-428"
-  },
-  {
-    "id": 78523,
-    "IDcode": "DVAJ-429",
-    "title": "和超可爱的亲妹妹奏音花音约定好只差入三厘米的近亲相奸可欲望却让我们越靠越近直到内射进去",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "乱伦",
-      "妹妹",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/cad4822d515d8231c44a5593a44958e7.jpg",
-    "actress": [
-      "奏音花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-429"
-  },
-  {
-    "id": 454113,
-    "IDcode": "DVAJ-432",
-    "title": "啊,我的耐心已經到極限了！ ！ 5小時頑皮性愛～我和姊姊/我和姊姊～",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1f90fe4a73d4f159b254b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-432"
-  },
-  {
-    "id": 76203,
-    "IDcode": "DVAJ-433",
-    "title": "上司に乳首ハラスメントされ続け、早漏イクイク敏感体質に仕込まれた女子社員 川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "OL",
-      "乳房",
-      "凌辱"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241126-1/3e188d2466c7fc798e84820b5560e6fd.jpg",
-    "actress": [
-      "川上奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-433"
-  },
-  {
-    "id": 70727,
-    "IDcode": "DVAJ-450",
-    "title": "射精寸前-蓮実クレア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "中出",
-      "荡妇",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230918-1/5624e070ef1bab81a3a51517598774f1.jpg",
-    "actress": [
-      "蓮実クレア"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-450"
-  },
-  {
-    "id": 87446,
-    "IDcode": "DVAJ-460",
-    "title": "巨乳お姉-小梅えな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "内衣",
-      "乳交",
-      "巨乳",
-      "荡妇"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240429-1/12c5ea008fdb679e879551516acab1fe.jpg",
-    "actress": [
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-460"
-  },
-  {
-    "id": 87445,
-    "IDcode": "DVAJ-461",
-    "title": "不倫相手-向井藍",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出轨",
-      "中出",
-      "白天出轨",
-      "已婚妇女"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/8ffdfb94b177682e824d5fc9f020d5e0.jpg",
-    "actress": [
-      "向井藍"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-461"
-  },
-  {
-    "id": 212266,
-    "IDcode": "DVAJ-465",
-    "title": "騎乗位-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2024-07-17",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/bcfd31f4789a5ca8775155dcd0245ed3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-465"
-  },
-  {
-    "id": 87461,
-    "IDcode": "DVAJ-474",
-    "title": "風俗店入口-ジューン・ラブジョイ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "流汗",
-      "白人",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/0c16fd083fd90d39fdf7e819675822a5.jpg",
-    "actress": [
-      "瓊·洛夫喬伊"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-474"
-  },
-  {
-    "id": 88322,
-    "IDcode": "DVAJ-478",
-    "title": "人生最高のSEXをくれたワンナイト痴女と5年ぶりに再会 川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "OL",
-      "中出",
-      "荡妇"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/192ce556eb270d75250636c5ac0e7dcb.jpg",
-    "actress": [
-      "川上奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-478"
-  },
-  {
-    "id": 531727,
-    "IDcode": "DVAJ-479",
-    "title": "上司に乳首ハラスメントされ続け早漏イクイク敏感体质桐山结羽",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20240209-1/c1c3930bb49ad5258fb856b445f8ca89.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-479"
-  },
-  {
-    "id": 156709,
-    "IDcode": "DVAJ-483",
-    "title": "与儿子有肉体关系3年老公已经开始怀疑了没办法与恳求肉体的儿子说分手该如何是好",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "中文字幕"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20241009-1/444855ef42496d683b0eaf771e8618d7.jpg",
-    "actress": [
-      "川上奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-483"
-  },
-  {
-    "id": 410390,
-    "IDcode": "DVAJ-484",
-    "title": "不倫相手に夢中で俺をイヤがる妻に何度も中出し【寝取りがえし】夫の特権を利用して妻を強襲FUCK、浮気詫びさせセックス、拘束中出しetc. 辻井穗乃果",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202504/13/67fb5cf9cf22ae3e04198198/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-484"
-  },
-  {
-    "id": 212356,
-    "IDcode": "DVAJ-513",
-    "title": "女上司-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/f3fb121d775f4d2bdbc96f84873697d2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-513"
-  },
-  {
-    "id": 212693,
-    "IDcode": "DVAJ-518",
-    "title": "牛仔女郎的姿势-藤森里穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/394aa44670782e82e365a38ef531ea7f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-518"
-  },
-  {
-    "id": 79102,
-    "IDcode": "DVAJ-533",
-    "title": "她要离开三天-藤森里穂",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "中出",
-      "白天出轨",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/99ab54cb4a14cc76ec35b4eaeb30f28c.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-533"
-  },
-  {
-    "id": 79876,
-    "IDcode": "DVAJ-537",
-    "title": "6轮的性爱-川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "凌辱",
-      "荡妇",
-      "情侣",
-      "中出"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/ffe3f12f80f18bd53eb74cbe955443d3.jpg",
-    "actress": [
-      "タイ",
-      "川上奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-537"
-  },
-  {
-    "id": 79860,
-    "IDcode": "DVAJ-538",
-    "title": "上司に乳首ハラスメントされ続け、早漏イクイク敏感体質に仕込まれた女子社員 朝日奈かれん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "乳房",
-      "中出"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2021-10-12",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/81cb0dc2ae53bea939d3f75636856653.jpg",
-    "actress": [
-      "朝比奈かれん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-538"
-  },
-  {
-    "id": 84330,
-    "IDcode": "DVAJ-548",
-    "title": "留校三次的淫荡女孩-AIKA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "高中女生",
-      "泡泡袜",
-      "女生",
-      "荡妇"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/85a300a44c3a7c61923eaaf0d43fc03a.jpg",
-    "actress": [
-      "AIKA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-548"
-  },
-  {
-    "id": 80199,
-    "IDcode": "DVAJ-557",
-    "title": "行き遅れた三十路女に気のある素振り見せたらマジ惚れされて一発ハメて終わるつもりがカニばさみロックと杭打ちピストンで逃げられず何度も中出しさせられた 川上奈々美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女上位",
-      "OL",
-      "成熟的女人",
-      "荡妇"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230720-1/d7d74bb97289a4e758063de8fcdd1764.jpg",
-    "actress": [
-      "タイ",
-      "川上奈奈美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-557"
-  },
-  {
-    "id": 80200,
-    "IDcode": "DVAJ-558",
-    "title": "【鬼焦らし】射精の瞬間にチ○ポ放置されザーメンお漏らしする‘ルーインドオーガズム’で賢者タイムにもさせてもらえず何度も何度も暴発射精させられる僕【計19発】 北野未奈",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "荡妇",
-      "M男"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-02-08",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20230714-1/2b9f95783f3574111f3d2fa3fac032e8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-558"
-  },
-  {
-    "id": 81090,
-    "IDcode": "DVAJ-563",
-    "title": "上司に乳首ハラスメントされ続け、早漏イクイク敏感体質に仕込まれた女子社員 あおいれな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "凌辱",
-      "平胸",
-      "OL",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-03-08",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/55404d94969c7499ba0862b796aae8dc.jpg",
-    "actress": [
-      "葵玲奈",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-563"
-  },
-  {
-    "id": 560083,
-    "IDcode": "DVAJ-564",
-    "title": "与姐姐乱伦的生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/6e72ab1cc032ae27576614afac66ca6c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-564"
-  },
-  {
-    "id": 217634,
-    "IDcode": "DVAJ-568",
-    "title": "家庭分居中的妻子带来一个男人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/03/683eb3ee0b69f1d8164f614e/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-568"
-  },
-  {
-    "id": 566462,
-    "IDcode": "DVAJ-577",
-    "title": "破麻姊妹含屌对决后用打桩骑乘位对决爆发中出",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e379814eb89687b34058cf63458f3dc2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-577"
-  },
-  {
-    "id": 566460,
-    "IDcode": "DVAJ-579",
-    "title": "叔母因为十多岁倒勾老二而内裤湿到就算被插入也没拒绝",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/609a83a519bd94942751d0759cc2338f.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-579"
-  },
-  {
-    "id": 69115,
-    "IDcode": "DVAJ-582",
-    "title": "在射精的那一刻-小花のん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大阴茎",
-      "荡妇",
-      "M男",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/0abfa0f3fa8ddd103f716c7e41bed3b5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-582"
-  },
-  {
-    "id": 66920,
-    "IDcode": "DVAJ-583",
-    "title": "当我的父母不在城里的时候",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "眼镜",
-      "巨大阴茎",
-      "中出",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/06f3dec97c62f0ad96b785cd84159abe.jpg",
-    "actress": [
-      "鳳美優",
-      "タイ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-583"
-  },
-  {
-    "id": 66815,
-    "IDcode": "DVAJ-587",
-    "title": "3件式性交特技-弥生みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨大屁股",
-      "中出",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230915-1/0206f599add6a3b1d7f6b73b4a6a88ec.jpg",
-    "actress": [
-      "彌生美月",
-      "弥生美月"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-587"
-  },
-  {
-    "id": 84334,
-    "IDcode": "DVAJ-588",
-    "title": "【FANZA限定】朝起きたらキレイなお姉さんが隣にいて…昨夜の出来事を忘れたとも言えず彼女にペースを握られたまま何度も中出しセックスしてるけど未だにどこの誰かわからない 新村あかり パンティと生写真セット",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨大屁股",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-08-10",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/060f09c4bc63a4ab9f252f96c53d487a.jpg",
-    "actress": [
-      "タイ",
-      "新村晶"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-588"
-  },
-  {
-    "id": 84355,
-    "IDcode": "DVAJ-592",
-    "title": "拘束スローピストンでゆっくりチ○ポを抜き挿しされてイヤがる顔が次第にアヘアヘして中出し快楽堕ちする一部始終をじっくり観察されたJ●ちゃん 花狩まい （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "监禁",
-      "魔鬼系",
-      "单体作品",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-09-13",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230108-1/56bee8661c6517597b49c17e49a0d4d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-592"
-  },
-  {
-    "id": 84321,
-    "IDcode": "DVAJ-593",
-    "title": "SEXという言葉も知らなかった頃1か月だけ同じ学校にいてヤリまくった転校生と今日、10年ぶりに再会します 倉本すみれ （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "乳房",
-      "中出",
-      "美少女电影",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-09-13",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a7e612dc448543134f22d9cf1dde20ea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-593"
-  },
-  {
-    "id": 87465,
-    "IDcode": "DVAJ-594",
-    "title": "女子陸上部員が1cmハメ空気椅子ケツ肉プルプルあわや合体の下半身強化合宿で膣奥打ち抜かれピストン騎乗位に溺れた2泊3日10発 天馬ゆい （ブルーレイディスク） （BOD）",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "屁股",
-      "女上位",
-      "运动",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-09-13",
-    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/aad1c11222a8546f87439254822d5df1.jpg",
-    "actress": [
-      "天馬唯"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-594"
-  },
-  {
-    "id": 84326,
-    "IDcode": "DVAJ-597",
-    "title": "【FANZA限定】経費でピンサロ行ったことが経理の女子社員にバレて叱られると思ったら僕に惚れてたみたいで嫉妬のジト目フェラで何度も抜かれまくった 倉本すみれ パンティと生写真セット",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "OL",
-      "美少女电影",
-      "口交",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "2022-10-08",
-    "cover_url": "https://ll.lasha250923.top/20241001/VLlLtLGl/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-597"
-  },
-  {
-    "id": 67236,
-    "IDcode": "DVAJ-598",
-    "title": "已婚妇女通奸的日子-橘メアリー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/29/6860313143d69727165e684a/cover.jpg",
-    "actress": [
-      "橘瑪麗"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-598"
-  },
-  {
-    "id": 66678,
-    "IDcode": "DVAJ-599",
-    "title": "住在对面的大胸姐姐-小花のん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "内衣",
-      "乱伦",
-      "乳交",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250427-1/fc16b474f412aa9f502a88dea0217ae2.jpg",
-    "actress": [
-      "小花暖"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-599"
-  },
-  {
-    "id": 167026,
-    "IDcode": "DVAJ-600",
-    "title": "每次下课后她都会玩弄我的小弟弟",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "http://p.155250718p.com/upload/vod/20230414/dvaj00600pl.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-600"
-  },
-  {
-    "id": 88618,
-    "IDcode": "DVAJ-601",
-    "title": "射了20次精液才能出来-岬さくら",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "凌辱",
-      "已婚妇女",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/687062103ed39b57c0d0191f/cover.jpg",
-    "actress": [
-      "岬櫻",
-      "及川大智"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-601"
-  },
-  {
-    "id": 67679,
-    "IDcode": "DVAJ-603",
-    "title": "治疗师精湛的手艺让她完全勃起-尾崎えりか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/f231ad6c68fc8b6a964165a0e6506f2c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-603"
-  },
-  {
-    "id": 73067,
-    "IDcode": "DVAJ-604",
-    "title": "牛仔女郎的骑行姿势-AIKA",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "女上位",
-      "女生",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250418-1/f101f2b7839f2f3a160ae9b9ffdfdbe0.jpg",
-    "actress": [
-      "AIKA"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-604"
-  },
-  {
-    "id": 68034,
-    "IDcode": "DVAJ-605",
-    "title": "潜伏在家里的小三-斎藤あみり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "出轨",
-      "白天出轨",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250415-1/42ec3ace34b8da7281a56a24098faa87.jpg",
-    "actress": [
-      "斋藤亚美里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-605"
-  },
-  {
-    "id": 88602,
-    "IDcode": "DVAJ-606",
-    "title": "在我妻子睡觉的隔壁房间里",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫语",
-      "荡妇",
-      "中出",
-      "女上位",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "ALICE JAPAN",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/25/685b099243d69727162935c3/cover.jpg",
-    "actress": [
-      "加藤桃香"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DVAJ-606"
   }
 ];

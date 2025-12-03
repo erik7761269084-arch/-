@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231022/zp9RKULO/1.jpg",
@@ -58,7 +58,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "2025-02-25",
     "cover_url": "https://picture.yoshiclub.xyz/20250222/8db4460c-53c3-40ee-bd9e-619ea480deea.jpg",
@@ -110,7 +110,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250806-1/88fcb908029a5c8b5b2b81b9f8bddeac.jpg",
@@ -127,7 +127,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241130/3MNdEnx4/1.jpg",
@@ -180,7 +180,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "2025-03-25",
     "cover_url": "https://picture.yoshiclub.xyz/20250323/5e0809e9-74a8-467e-927f-f57a4fb4a5d5.jpg",
@@ -197,7 +197,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250728-1/f235c79f5fb3d9e21d78743d9f84ac51.jpg",
@@ -233,7 +233,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250703-2/4d9ce727f5317b464b95cd5dbc3587f6.jpg",
@@ -283,7 +283,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250323/926ba0b8-dd01-47d2-b67d-becb192a9830.jpg",
@@ -293,6 +293,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPRJ-001"
   },
   {
+    "id": 190699,
+    "IDcode": "RPRJ-002",
+    "title": "崩壊エアライン学生 吉瀬かすみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "豊彥",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=RPRJ-002"
+  },
+  {
     "id": 546884,
     "IDcode": "SDZS-003",
     "title": "软体妊娠チアリーダー汗臭编",
@@ -300,7 +315,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240111/mZf9TGC8/1.jpg",
@@ -315,7 +330,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240315/IoJpe3OY/1.jpg",
@@ -364,7 +379,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250622/20250622051736544544_thumbnail.webp",
@@ -418,7 +433,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "2025-02-25",
     "cover_url": "https://picture.yoshiclub.xyz/20250226/a915c1a2-37cd-4824-95c3-ca701def4a92.jpg",
@@ -487,7 +502,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250823/20250823085127415415_40311_thumbnail.webp",
@@ -511,7 +526,7 @@ window.PAGE_DATA = [
       "制服",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250715-1/b9a9b525340123d21cc597a3df86156f.jpg",
@@ -562,7 +577,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250824/20250824005921749749_74920_thumbnail.webp",
@@ -579,7 +594,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "豊彥",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/10/897c433d60d1c44625a8f54f389a076f.jpg",

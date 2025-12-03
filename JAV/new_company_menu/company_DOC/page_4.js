@@ -1,5 +1,917 @@
 window.PAGE_DATA = [
   {
+    "id": 144185,
+    "IDcode": "300MAAN-0748",
+    "title": "我爱舔和没有经验的阴道射液我想尝尝阴道射液从手指舔到chi的服务女郎ko到肛门wDopink假阳具插入桌子上的裤子有乳液有Koschen有阴道射精有少女ikeikeplaywww超级少年NO.1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/016186466f80a51e701d154c83436d60.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0748"
+  },
+  {
+    "id": 532962,
+    "IDcode": "300MAAN-0749",
+    "title": "【着物の下は肉欲ソソル悩杀ボディ！ド淫乱女社长がチ○ポを生榨り！ごっくん中出し4连発！！】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20231214/pb_e_300maan-749.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0749"
+  },
+  {
+    "id": 519952,
+    "IDcode": "300MAAN-0750",
+    "title": "情色少女限定枪男珠连接",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/8f05c92a664c53f52d6ffed6ef6761e0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0750"
+  },
+  {
+    "id": 144203,
+    "IDcode": "300MAAN-0751",
+    "title": "19岁ShinseiJD拍照妹子和女友在公园合影发现一个被户外暴露兴奋的隐藏习惯口交也是湿透和色情剃光美容肛门在酒店有很多开放性的性别-我带来了GekiUbu-chan08",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20f66db8c77d79bb69715/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0751"
+  },
+  {
+    "id": 144186,
+    "IDcode": "300MAAN-0752",
+    "title": "GekiKawayariman女神降临在新潟的斜坡上雪魔法幻想不在斜坡上在露天浴池爬上被褥兴奋是MAXTobisioOma这太有名了马上就登高了女大学生的穴位07",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2b204c9501d50ffe16b35092c21ca838.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0752"
+  },
+  {
+    "id": 81011,
+    "IDcode": "300MAAN-0753",
+    "title": "新婚Hcup隱藏巨乳人妻！反覆的乳房折磨",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2022-12-13",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/fdcd7b8817cd7583ad050ddecb4b56bc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0753"
+  },
+  {
+    "id": 144188,
+    "IDcode": "300MAAN-0754",
+    "title": "含糖量200甜蜜的傲娇天使田町站发现的甜蜜派对JD俏丽清新的笑容甜如奶油的舌尖让男人的耳朵乳头栗子都在里面颤抖几乎全身的性感带疯狂奶油大放送4发女大学生的穴位08",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5d03ac87bbe53a0bf92900236bca1555.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0754"
+  },
+  {
+    "id": 468708,
+    "IDcode": "300MAAN-0755",
+    "title": "無套抽插抖音妹 40",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a21006db8c77d79bb69724/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0755"
+  },
+  {
+    "id": 519748,
+    "IDcode": "300MAAN-0756",
+    "title": "尖叫的极致中出面部性爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/c453157dffbb412f18bf4b78242c6c9a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0756"
+  },
+  {
+    "id": 144189,
+    "IDcode": "300MAAN-0757",
+    "title": "I-Cup巨乳Zuri超敏感巨乳和自慰瘾Mutsuri女孩揉洗捏与我杯的大山雀的无限性体验便服泳装Ariskos享受各种色情还有挤奶打手枪大暨3射精SEX超级少女NO.2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/1964d9a472f6d3baa4ae4a406d1e332c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0757"
+  },
+  {
+    "id": 144190,
+    "IDcode": "300MAAN-0761",
+    "title": "GekiEchi中国服装咖啡店员在上野发现的具有熊猫般个性的害羞和害羞的治愈美女在床上肉食去变态可能的变化量女大学生的穴位09",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4e5d7998fa72e127c3bdd1904fb27cf5.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0761"
+  },
+  {
+    "id": 144191,
+    "IDcode": "300MAAN-0765",
+    "title": "华丽的头发剃了巨大的乳房gal在原宿竹下街发现的书生学习新锐文化对时尚敏感的Licca-chan拥有超敏感体质膨胀你的臀部洒潮潮流艺术的前沿就在这里女大学生的穴位十",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/74f40d8eb2440d89607dbd5712ba9a2d.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0765"
+  },
+  {
+    "id": 144192,
+    "IDcode": "300MAAN-0770",
+    "title": "美巨巨乳F杯嚼劲肉体100笑个性100分你想成为她的最爱已经确定了隐藏在紧身衣服中的迷人身体色情卡瓦运动女孩和热情的Munmun超级火辣的SEX女大学生的穴位11-めい大学3年生野球部マネージャー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5d86a6e1937010ec8d24784897ed970e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0770"
+  },
+  {
+    "id": 468415,
+    "IDcode": "300MAAN-0771",
+    "title": "超10代妹子 05",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204dacf22ae3e04a817ed/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0771"
+  },
+  {
+    "id": 468417,
+    "IDcode": "300MAAN-0778",
+    "title": "無套抽插抖音妹 45",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a204dacf22ae3e04a817ee/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0778"
+  },
+  {
+    "id": 144193,
+    "IDcode": "300MAAN-0781",
+    "title": "脸蛋美胸美臀压倒看板妹子涩谷出名的咖啡馆店员是最好用的胶水的可爱超小恶魔工作人员的性欲也很吃力姬宝的心跳不停尽情享受美臀的美臀吧女大学生的穴位12",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b098d5f7f87f038b15a852b9593bbd37.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0781"
+  },
+  {
+    "id": 144194,
+    "IDcode": "300MAAN-0785",
+    "title": "难免火了乳沟曝光婊子在赏花会场喷x撒尿颜射灭火活动太变态的色情科技我什么都擅长所以都是雅尔酒圣水油在淫秽的精子浴中出汗他妈的中出面部护理饮料超激进3射精YarimokuInfluencer02",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20c82db8c77d79bb6966e/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0785"
+  },
+  {
+    "id": 144195,
+    "IDcode": "300MAAN-0786",
+    "title": "lt壮阳药x前站安娜美妻gt用大量壮阳药打破铁壁上贞操观念的初恋性爱Ahegao被一系列面部精液抽搐从整洁干净的脸庞无法想像巨量3投",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2e191e672bd7da5d7ae195b229bd36a0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0786"
+  },
+  {
+    "id": 144196,
+    "IDcode": "300MAAN-0788",
+    "title": "lt模特级美体现役JD少妻现身如果你有一个干净的脸和一个帅哥那是OK的Yariman妻子从婚外情现场的袭击中与Hotain进行了性爱射击从护士cos到超情色油戏不能对我丈夫说的连续3次阴道射精",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/eabce36671c7f63d2be13fa6985f6756.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0788"
+  },
+  {
+    "id": 78739,
+    "IDcode": "300MAAN-0790",
+    "title": "【超白slim身材&amp;蜜桃臀！在下町長大的新卒OL！】～淫蕩博主 #03～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2022-12-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/2e9a0658b8e521c1b569046179785127.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0790"
+  },
+  {
+    "id": 78740,
+    "IDcode": "300MAAN-0793",
+    "title": "今回はAV好きの変態夫婦に密着取材！！憧れのAV男優を前に、我慢できず旦那の目の前でまさかのNTRセックススタート！！レジェンド男優の神業テクに爆乳揺らして絶頂止まらぬ奥様に背徳の3中出し！！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "素人",
+      "淫妻",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-02-06",
+    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/77b2522e1ee4d55851f2acf72c0ca034.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0793"
+  },
+  {
+    "id": 78745,
+    "IDcode": "300MAAN-0794",
+    "title": "【物欲、性欲、肉欲、欲まみれ！銀座ハイクラス美容部員！】【モデル級スレンダー×スリム美長脚】【取扱注意！3本チ○ポを大大大放出！】【初体験！自撮り潮吹き！激量スプラッシュ】【●いどれ淫乱！両手チ○ポでWフェラ】【オイルかけ卑猥尻！寝バック激突き大・絶・叫】～ヤリモクインフルエンサー #04～ミクちゃん 23歳 美容部員(即決系インフルエンサー)",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2022-12-02",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0794"
+  },
+  {
+    "id": 468570,
+    "IDcode": "300MAAN-0799",
+    "title": "做愛目的網紅 5",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20bcecf22ae3e04a81cb8/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0799"
+  },
+  {
+    "id": 78658,
+    "IDcode": "300MAAN-0800",
+    "title": "【ルックスもキャラも最高すぎるッ！ノリとエロを両立したエロ良い女！！】巨乳×くびれ×桃尻スタイル抜群現役モデル！逆ナンまる秘テクでイケメンを現地調達！夜景をバックに露天3P！口とマ○コを同時に犯○れる！多量オイル×淫乱バニーコス！ヌルテカBODYを後ろから快楽スイッチを突きまくる！イキ癖がついちゃうッ快感ピストンで絶頂鬼連SEX！！【なまハメT☆kTok Report.50】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2022-07-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0800"
+  },
+  {
+    "id": 144187,
+    "IDcode": "300MAAN-0802",
+    "title": "lt超性感的maso运动员人妻gt爱运动不输给自己擦亮的超美BODY人妻登场它看起来很酷但有一个deM属性更猛烈地勒住我的脖子Akumeiki从M的请求中扭曲了美丽的脸玩得很开心",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-08-29",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/974a28bd7114c7f330708e45e2166f18.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0802"
+  },
+  {
+    "id": 144197,
+    "IDcode": "300MAAN-0811",
+    "title": "PerfectBODY桑拿女孩x混合浴桑拿超级发情中出GokkunSEXJiPo用舌头乳头刺激射精体验屁股太棒了有吸引力的放样女牛仔极厚的振动器和电动按摩器W狂喜使mako愚蠢汗汁生性超快感YarimokuInfluencer07",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5c95502906000fae1b3782b9721684a1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0811"
+  },
+  {
+    "id": 144198,
+    "IDcode": "300MAAN-0813",
+    "title": "PoolNampa2022IampJ罩杯超巨乳少女降临上天赐予的异次元肉体超情色组合使用具有最大破坏力的Decapai三明治立即提升4P乱舞非标准的奶臀舞大惊小怪7发",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/279c4466b4c1c042547d0745d555b8e2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0813"
+  },
+  {
+    "id": 144199,
+    "IDcode": "300MAAN-0814",
+    "title": "剃光猫巨乳勃起舔公鸡通常为女性制作色情评论视频的水木让我们随心所欲地做爱吧对著妖娆帅气的枪棒我想见你地板被吹出来的潮水浸湿了腰学学wwwPornGirl.5一排生滨馅饼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/9ecfce4ad6d6b88d2aa3f4511921cecd.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0814"
+  },
+  {
+    "id": 144200,
+    "IDcode": "300MAAN-0821",
+    "title": "美籍cosplay女郎热爱宅男文化的美女白皙巨乳大屁股就是男人Paipanma嘴里叼著假阳具挑逗你的翘臀从后面刺穿和打屁股穿著淫秽内衣和眼罩她变得淘气并从里到外乱搞Japanesechi落入KowwwPornGirl.7",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f1e370f730e7367299bb4416ab82b45a.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0821"
+  },
+  {
+    "id": 592075,
+    "IDcode": "300MAAN-0822",
+    "title": "【可爱さMAXSEXは达人级スゴテク美ッ痴】颜面优胜ガチ可爱ランジェリーデザイナー小麦色の美乳をさらけ出し居酒屋で过激プレイクンニ狂いが魅",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0822"
+  },
+  {
+    "id": 572410,
+    "IDcode": "300MAAN-0823",
+    "title": "仕草がいちいちツボに刺さるどこまでも男を沼らせる系な奥様は、人のモノが欲しくなってしまう NTR 上等の肉食妻だった！？インタビューと称して入 new",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "淫妻",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://pic40.anzise.com/pic/20230122/5a3b679cd40279812af43a76cba88df2/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0823"
+  },
+  {
+    "id": 576712,
+    "IDcode": "300MAAN-0826",
+    "title": "服の上からでも圧倒的な存在感を放つマシュマロ神乳妻登场！！一児の母とは思えぬ美BODYに道行く男たちも钉付け！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221205/E7dAfEQL/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0826"
+  },
+  {
+    "id": 576659,
+    "IDcode": "300MAAN-0827",
+    "title": "【モデル体型エロテク重视のヤリマン】待ち合わせの段阶で男にナンパされているモテモテっぷり！！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20221212/WLUO9wXR/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0827"
+  },
+  {
+    "id": 144201,
+    "IDcode": "300MAAN-0829",
+    "title": "大脑和机破可飞升天然G奶x美腿豪华名人身体极度色情科技爆炸Tittyfuckhandjob阴道射精后立即丰富的口交无与伦比的不停FUCK中出奶4连发性逃亡奔跑Yarimoku影响者08",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f5a31a713b25e990a15f5708f8757078.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0829"
+  },
+  {
+    "id": 556316,
+    "IDcode": "300MAAN-0831",
+    "title": "[超黄金比例BODY] 以可爱的声音和可爱的外表吸引男人的主人！ ！另外，款式也很特别！ ！她说自己因为好色而成为了工口声优，还有很多荡妇的情节！ ！ Non-chan的特殊技能是她在工作中训练出来的最棒的脏话！靠耳朵！在大脑里！用身体感受到的极度折磨中的3枪！ ！发生攻击和AD的事件！ ？",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/f3e9649cdb1fc4d05abf515268261990.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0831"
+  },
+  {
+    "id": 556297,
+    "IDcode": "300MAAN-0833",
+    "title": "【用阴道训练爆发灵敏度→估计1.5L和恶魔喷射】拥有健美美体的教练是提起塑料瓶的紧致阴道训练的主人！灵敏度太好了，手男喷不停 w Guppori 喉咙口交糟透了！ ！太紧了，即使插入阴户，潮水也会溢出来！即使射在里面，也会被浪潮卷走，和色情少女一起卷起来！ ！ ！ [PornGirl.9]",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/a6c08c128979c67d27443e03ef0c549e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0833"
+  },
+  {
+    "id": 556283,
+    "IDcode": "300MAAN-0834",
+    "title": "【G罩杯神乳情色体】全身都溢出Iionna气场的巨乳美人纱绫！令人期待值也爆棚的蓬松巨乳吸引了街头男人们的视线！ ！期待已久的火锅在我路过的酒吧的厕所里发生了爆炸，因为我在性欲之前有食欲！ ！多项至尊技法吞噬一人4枪！ ！ ！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230313-1/890d9ba8c5079310729bdeba58bf44c0.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0834"
+  },
+  {
+    "id": 539472,
+    "IDcode": "300MAAN-0835",
+    "title": "【スプラッシュ系インフルエンサー登场】【水泳で锻えた极エロボディ！濡れ巨乳！うねる腰！アスリート级の性欲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/St712LMc.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0835"
+  },
+  {
+    "id": 534569,
+    "IDcode": "300MAAN-0836",
+    "title": "【痉挛絶顶する妖艶美ボディ】旦那のために料理スキルアップに努める献身的美人妻だがパ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230608/pb_e_maan-836.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0836"
+  },
+  {
+    "id": 534608,
+    "IDcode": "300MAAN-0837",
+    "title": "【天然巨乳のスケベ娘】Iカップの淫乱娘とハメ撮りエンジョイ！彼氏が居てもお构いナシで",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20230702/pb_e_maan-837.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0837"
+  },
+  {
+    "id": 534730,
+    "IDcode": "300MAAN-0841",
+    "title": "【日焼け迹がエロい！黒ギャルの巨乳&美尻】见た目も触り心地も最强Gカップを顶きます♪ギャル必修科目の极上",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/Hy34F0k8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0841"
+  },
+  {
+    "id": 534773,
+    "IDcode": "300MAAN-0842",
+    "title": "【ヤリモクインフルエンサー地方远征编】【究极のLUXURY美女を求め、いざ南国リゾートへ！】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/Nt7sgiT8.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0842"
+  },
+  {
+    "id": 468193,
+    "IDcode": "300MAAN-0843",
+    "title": "好色女孩 10",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a2035ddb8c77d79bb694f0/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0843"
+  },
+  {
+    "id": 106003,
+    "IDcode": "300MAAN-0844",
+    "title": "势不可挡的喷水",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "角色扮演",
+      "潮吹",
+      "女大学生",
+      "素人",
+      "娃娃",
+      "街头采访",
+      "业余",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "すみれ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0844"
+  },
+  {
+    "id": 576166,
+    "IDcode": "300MAAN-0847",
+    "title": "【自称“朝7时に処女になる”ヤリマンシンデレラ】エッチな私を见て欲しい！私で射精してほし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20230223/6hcn0WOY/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0847"
+  },
+  {
+    "id": 535057,
+    "IDcode": "300MAAN-0851",
+    "title": "【汤船に浮かぶ敏感巨乳】Gカップすけべ温泉女子による、チ●コが隠れる特盛パイズリ！露天风吕でバレないように",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "http://15.155250922.com/upload/vod/20240107/pb_e_maan-851.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0851"
+  },
+  {
+    "id": 535122,
+    "IDcode": "300MAAN-0853",
+    "title": "【全裸で奏でるピアノ】Gカップピアノ讲师はレッスン中に生徒の股间が気になってしまうスケベお姊さん！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/IEfVrsuG.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0853"
+  },
+  {
+    "id": 535290,
+    "IDcode": "300MAAN-0854",
+    "title": "【隙あらばヤリまくりたい美容ライターインフルエンサー登场】【どエロいBODYで男たちを楽しませる美意识もエロ偏差値",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0854"
+  },
+  {
+    "id": 535289,
+    "IDcode": "300MAAN-0859",
+    "title": "【仕事终わりのOL、乱れる。】デカ乳轮のエロ乳OLがリモート会议で下半身露出商谈开始！絶顶痉挛オナニーを见せ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/XpqLW8hT.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0859"
+  },
+  {
     "id": 468220,
     "IDcode": "300MAAN-0861",
     "title": "淫蕩的照顧 04",
@@ -10,7 +922,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20475db8c77d79bb69568/cover.jpg",
@@ -28,7 +940,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20476db8c77d79bb69569/cover.jpg",
@@ -46,7 +958,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/tUiYAmhC/1.jpg",
@@ -65,7 +977,7 @@ window.PAGE_DATA = [
       "乱交",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/7ZgksZoC/1.jpg",
@@ -83,7 +995,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/YF8gIM9o/1.jpg",
@@ -101,7 +1013,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/BYDPWnGx/1.jpg",
@@ -120,7 +1032,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/VUB0HopN/1.jpg",
@@ -138,12 +1050,31 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230527/ZeYhcium/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0870"
+  },
+  {
+    "id": 529163,
+    "IDcode": "300MAAN-0882",
+    "title": "[] 【强●イラマよだれダラダラ】不伦して女性用风俗にも通い",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0882"
   },
   {
     "id": 541622,
@@ -156,12 +1087,30 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/QYjS3n7I/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0886"
+  },
+  {
+    "id": 564018,
+    "IDcode": "300MAAN-0887",
+    "title": "【“ファンのみんな、ごめんね”チ●ポを舐めながら谢罪フェラ！】探せば见つかるガチ地下アイドル！スベスベ柔らか天然E乳！部屋、风吕、ベッドどこでも潮吹く敏感BODY！ヌル透けバニーコスで电マオナニー！ファンなんて関系ない里切り中出し3连発！！！【なまハメT☆kTok】【みなみ】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0887"
   },
   {
     "id": 541623,
@@ -174,7 +1123,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/cGtX2EFx/1.jpg",
@@ -192,7 +1141,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/tHpp17so/1.jpg",
@@ -210,7 +1159,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/PimSr4fB/1.jpg",
@@ -229,7 +1178,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/08/18921_cover_2025-06-08_221257.jpg",
@@ -248,7 +1197,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240420/vJHEJ7fP/1.jpg",
@@ -266,7 +1215,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/iYr7SMGq/1.jpg",
@@ -284,7 +1233,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/JV5sVghM/1.jpg",
@@ -302,7 +1251,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/7cfa9a4347bede3b8abd773331a6af3a.jpg",
@@ -320,7 +1269,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240502/PiO1XCDd/1.jpg",
@@ -338,12 +1287,112 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/16/684fa53043d6972716bd9613/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0897"
+  },
+  {
+    "id": 579355,
+    "IDcode": "300MAAN-0898",
+    "title": "【10代らしからぬ！敏感GカップJ●ボイン！】宫●パークでT☆kTok撮影中の现役",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0898"
+  },
+  {
+    "id": 541645,
+    "IDcode": "300MAAN-0899",
+    "title": "【自ら腰振るスケベ人妻】结婚3年目の欲求不満！？旦那の仕事中に他人チ●コを堪能するパイパ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0899"
+  },
+  {
+    "id": 541649,
+    "IDcode": "300MAAN-0900",
+    "title": "【超新星！初回からW神乳回SP！】新企画スタートッから奇迹の遭遇！岚を呼ぶ2人のエロ美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0900"
+  },
+  {
+    "id": 541647,
+    "IDcode": "300MAAN-0901",
+    "title": "【ガチ手マンで溢れ出る潮】付き合って一ヶ月で音信不通女にリベ●ジ！ケツが赤くなるまでスパ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0901"
+  },
+  {
+    "id": 100692,
+    "IDcode": "300MAAN-0902",
+    "title": "【むむっ！フェロモンが半端ない！誰もがヤりたくなる女】旦那不在でFULL-TIME欲求不満の過激人妻T☆kT●ker！極上グラマラスなエロエロBODYに、誘惑淫語にチ●ポは暴走モードへ！！変態妻の淫テク、快感ダブル玉吸い手コキ！！ゴリゴリ押し当て&amp;激しく上下運動する悦楽セルフピストン絶頂！！禁断の人妻マ●コに背徳中出し3連発！！！【なまハメT☆kTok Report.70】【あかり】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "人妻",
+      "已婚妇女",
+      "内衣",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-09-09",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "あかり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0902"
   },
   {
     "id": 100691,
@@ -364,12 +1413,91 @@ window.PAGE_DATA = [
       "滥交",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2023-09-10",
     "cover_url": "https://tuaskbgnekr.com/20240504/PerQ5IcT/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0903"
+  },
+  {
+    "id": 103468,
+    "IDcode": "300MAAN-0904",
+    "title": "【巨乳エロ配信者と拘束セックス】彼氏にナイショでエッチな配信中！？今回の裏垢美女は【スタイル抜群で従順な敏感美女！】待ち合わせ→車でホテルへ！待ちきれず車内でもおっぱじめる性欲旺盛w 内ももに「なまOK」記入済のボディを舐め尽くし！バックで奥を集中責め！自前のおもちゃで拘束！中出し！首●め強烈ピストンで蕩け声が鳴り止まないッ！ 【撮影OK #裏垢タダマン FILE02: YUMA】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "素人",
+      "乳交",
+      "街头采访",
+      "拘束",
+      "业余",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-09-16",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "YUMA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0904"
+  },
+  {
+    "id": 103474,
+    "IDcode": "300MAAN-0905",
+    "title": "【絶対に電マを手放さないッ！美麗！神スレンダーOL】モデルと見まがう長身スレンダー美女は電マを愛する快楽狂！？最初から最後まで電マ尽くし！6本の電マが感度抜群のカラダに襲い掛かる！！MAXパワーの電マ刺激にマ●コ決壊→大量スプラッシュ！電マをクリに当てながら生ハメピストン鬼イカセ！完全ノンストップ中出し顔射3連発！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～123発目＞【もえか】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "潮吹",
+      "玩具",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "女优按摩棒"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-09-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "もえか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0905"
+  },
+  {
+    "id": 103475,
+    "IDcode": "300MAAN-0906",
+    "title": "【金モクのはずがッ…快楽堕ちしてチ●ポの虜になったパパ活GALに徹底バック責め！！】『お金大好き』と断言するS級神尻ギャルと金モクSEXのはずが…全身ヌルヌルの激感プレイに大エクスタシー！快感に●いしれながら潮を吹き散らすドすけべBODY！デカすぎる生チンから送り込まれる鬼ピス刺激に銭ゲバGALが完堕ち！性欲大解放の種付け交尾3連発！！！【なまハメT☆kTok Report.71】【あゆ】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "玩具",
+      "素人",
+      "乳液",
+      "街头采访",
+      "业余",
+      "中出",
+      "乳房"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-09-23",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "久須美亜優",
+      "あゆ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0906"
   },
   {
     "id": 103476,
@@ -389,7 +1517,7 @@ window.PAGE_DATA = [
       "中出",
       "母乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2023-09-24",
     "cover_url": "https://tuaskbgnekr.com/20240504/1uLYbeNA/1.jpg",
@@ -412,7 +1540,7 @@ window.PAGE_DATA = [
       "中出",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2023-09-30",
     "cover_url": "https://tuaskbgnekr.com/20240506/oMECIucg/1.jpg",
@@ -420,6 +1548,82 @@ window.PAGE_DATA = [
       "みなみ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0908"
+  },
+  {
+    "id": 103484,
+    "IDcode": "300MAAN-0909",
+    "title": "【人生初の潮吹き】玄関前でフェラ抜き中、ピザ宅配対応！？エッチな撮影後はホテルIN！美尻デカ乳揉みしだき、手マンで潮吹き！！ヨダレだらだら快感フェラ！中出し後も連続二回戦！！濡れシャツセクシーな女子大生を食べ尽くせッ！！【PornGirl.17】【aya】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "女大学生",
+      "玩具",
+      "素人",
+      "乳交",
+      "街头采访",
+      "业余",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-10-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "AYA"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0909"
+  },
+  {
+    "id": 103483,
+    "IDcode": "300MAAN-0910",
+    "title": "【ボイン好き驚愕！食べたモノぜんぶ乳！？Iカップ神乳大食いランカー】ハリ・大きさ・形の全てが100点満点の神オッパイ娘！固定バイブで敏感色白ボディを快楽漬け！怒涛の潮吹きスプラッシュ3連発！巨根にガン突きされながら自分のお乳をベロベロ舐めるセルフ乳しゃぶり！どスケベ確定ッ乳尻乱舞の生パコSEX3連戦！！！【なまハメT☆kTok Report.72】【のあ】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人",
+      "乳交",
+      "街头采访",
+      "业余",
+      "无毛",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-10-07",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "のあ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0910"
+  },
+  {
+    "id": 103482,
+    "IDcode": "300MAAN-0911",
+    "title": "【長身M女とハメ潮パーティー】結婚4年目の性欲発散！デカクリトリスの潮吹き長身美女を徹底責め！野外ロータープレイで●めた後は、ホテルでじっくりアナル観察！！手マンで大量潮吹きするもまだ足りない！立ちバックでピストン毎に溢れるハメ潮！コスチェン二回戦中出し歓迎のやり過ぎイキ過ぎな一部始終を見逃すな！！！【エロのお世話してみましたNO.16】【みき】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "潮吹",
+      "已婚妇女",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "无毛"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-10-08",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0911"
   },
   {
     "id": 103537,
@@ -438,7 +1642,7 @@ window.PAGE_DATA = [
       "中出",
       "乳房"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/29/68b152645f13d063bcc27af9/cover.jpg",
@@ -447,6 +1651,56 @@ window.PAGE_DATA = [
       "つばさ"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0912"
+  },
+  {
+    "id": 103536,
+    "IDcode": "300MAAN-0913",
+    "title": "【サーファー釘付け！江ノ島で出逢った奇跡のデカ乳Hcupモデル！】Tシャツ脱ぎ捨て、爆乳パイスラ悩殺ビキニで海岸散歩！10代の極みスベスベ美白の超敏感BODY！セルフ手マンで蛇口マ●コだだ漏れっ潮出っ放し！強烈ピストンにお乳を振り回しイキまくる！ぬるテカ裸体に白濁ザーメン大量ぶっかけ！中出し乳射FUCK！！！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～124発目＞【りん】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人",
+      "乳液",
+      "乳交",
+      "街头采访",
+      "业余",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-10-15",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0913"
+  },
+  {
+    "id": 103535,
+    "IDcode": "300MAAN-0914",
+    "title": "【ずっと応援していた超有名T☆kT●kerにナマで会って、ナマで挿れる神展開！？】かわエロ花柄ビキニでプール遊泳！たわわ乳×くびれ猥尻の麗しきボディライン！感じすぎるW玩具責めで放水ハメ潮！！出し惜しみは無しだ！ザーメン大量！潮吹き激量！激イカせSEX！【なまハメT☆kTok Report.73】【わか】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "潮吹",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "巨乳",
+      "泳装"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-10-21",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "わか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0914"
   },
   {
     "id": 100900,
@@ -465,7 +1719,7 @@ window.PAGE_DATA = [
       "中出",
       "乳房"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2023-10-22",
     "cover_url": "https://tuaskbgnekr.com/20240507/J3HJOGLm/1.jpg",
@@ -473,6 +1727,33 @@ window.PAGE_DATA = [
       "うた"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0915"
+  },
+  {
+    "id": 100899,
+    "IDcode": "300MAAN-0916",
+    "title": "【W超カワJD降臨！ハチャメチャ乱交SP！】エロ自撮りは当たり前♪ヤリ盛りな美少女JD2人組が登場！！今回の裏垢美女は【経験人数1人のむっつりパイパンgirl&amp;経験人数3桁超えのヤリマン剛毛girl】カフェで我慢できなくなってトイレでWフェラ→2人ともヤル気満々ヤリ基地へ移動♪お酒で乾杯してエンジョイSEX☆ハイになりながら代る代るハメまくる肉欲の宴…快楽の虜になった学生の無計画生ハメ&amp;中出しハイテンション乱交5射精！【撮影OK #裏垢タダマン FILE04: @echi_risu &am",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "女大学生",
+      "多P",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "乱交",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-10-28",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "有栖舞衣"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0916"
   },
   {
     "id": 100898,
@@ -491,12 +1772,71 @@ window.PAGE_DATA = [
       "乳房",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/17/68505f0d3ed39b57c081705c/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0917"
+  },
+  {
+    "id": 100897,
+    "IDcode": "300MAAN-0918",
+    "title": "【ハロウィン2023Wデカ乳柱見参】全てのおっぱい鬼●隊に贈る、最強爆乳コンビ！！隊服からハミ出した破壊力抜群のH×Jカップ！！鬼頭の刃を丸っと包み込むエロ過ぎるパイズリ攻撃、乳の呼吸！！ほとばしる潮、唾液、愛液！！エロ汁が交り合い、乳揺れ狂う！！乳柱と混じれるなら鬼にでもなりたい卍ww今年も大盛り上がりの大乱交ハロウィンナイト編！！【ハロウィンナンパ2023 ゆうみ&amp;りか】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "角色扮演",
+      "多P",
+      "素人",
+      "乳交",
+      "街头采访",
+      "业余",
+      "中出",
+      "巨乳",
+      "乱交",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-03",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "椿莉香",
+      "夕美紫苑",
+      "ゆうみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0918"
+  },
+  {
+    "id": 100896,
+    "IDcode": "300MAAN-0919",
+    "title": "【射精不可避のケツ圧ピストン】ライブハウスで搾精ご奉仕！？柔尻デカ乳のすけべギャルに●●れる素敵展開！パイ圧で潰され、ケツ圧でも潰される圧迫天国！顔面騎乗からのシックスナインで快感が止まらない！！抜群のスタイルから放たれるピストンは絶頂必至！！！【PornGirl.18】【emma】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人",
+      "乳液",
+      "巨大屁股",
+      "乳交",
+      "街头采访",
+      "业余",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-04",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "千鶴えま",
+      "emma"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0919"
   },
   {
     "id": 100992,
@@ -518,12 +1858,62 @@ window.PAGE_DATA = [
       "滥交",
       "女优按摩棒"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2023-11-05",
     "cover_url": "https://tuaskbgnekr.com/20240508/KXhVBXbc/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0920"
+  },
+  {
+    "id": 100993,
+    "IDcode": "300MAAN-0921",
+    "title": "【シリーズ王道ど直球ビッチ！全方位にエロい淫尻お姉さん登場！】誰でも喰いまくる超肉食美女にインタビューその謝礼は金とチ●ポ！？艶やかスレンダー曲線美BODY！SEX経験値カンスト女の極上フェラテク、尻コキ！セルフピストンでもイキ狂う爆潮噴射！全身白濁まみれ尻射中出し顔射FUCK！！！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～125発目＞【さちか】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "潮吹",
+      "荡妇",
+      "美少女",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-11",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "さちか"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0921"
+  },
+  {
+    "id": 100996,
+    "IDcode": "300MAAN-0922",
+    "title": "【魅惑の膣圧トレーナー】すけべな格好で指導する美人トレーナーと出会い股間ムズムズ！引き締まったEカップBODYとゼロ距離で汗だくになった後はホテルで裏トレーニング！？鍛え上げたパイパンマ●コが潮を吹く！涎ローション完備の喉奥フェラで射精寸前！膣トレもしている至高のマ●コに中出しキメちまえッ！www【もしも。】【るい】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "无毛",
+      "巨乳",
+      "讲师"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-12",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0922"
   },
   {
     "id": 541676,
@@ -536,12 +1926,67 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240509/SW9JTYrl/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0923"
+  },
+  {
+    "id": 100997,
+    "IDcode": "300MAAN-0924",
+    "title": "【ゴリゴリ喉奥責め】OLを尾行してホテルでメチャクチャに！スレンダーパイパン美女を手マンで潮吹かせ徹底服●！ 馬乗りイラマで喉奥を責めまくり！寝バック挿入でモッチモチのケツをスパンキング！気絶しても容赦しない腰を緩めない強烈ピストンで中出しフィニッシュ！！【バックの映える美尻】【乗り換え女 まや】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "潮吹",
+      "屁股",
+      "玩具",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "乳房"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "まや"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0924"
+  },
+  {
+    "id": 100998,
+    "IDcode": "300MAAN-0925",
+    "title": "【ゆるカワの極みッめんこい無双】色白PERFECT美乳美尻！その可愛さにドキドキが止まらない！見た目とは裏腹に激ビッチ！叩けば響く(尻)敏感グラドルはイキ潮放出！脱水注意！突けば突くほど濡れまくり快感ピストンまさに沼マ●コ！中出し連発、超エキサイティング乱交！！【なまハメT☆kTok】【しお】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "苗条",
+      "潮吹",
+      "屁股",
+      "素人",
+      "街头采访",
+      "业余",
+      "中出",
+      "按摩棒",
+      "巨乳",
+      "乱交"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2023-11-25",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "しお"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0925"
   },
   {
     "id": 100999,
@@ -561,7 +2006,7 @@ window.PAGE_DATA = [
       "洗澡",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2023-11-26",
     "cover_url": "https://tuaskbgnekr.com/20240509/KrXwVZHc/1.jpg",
@@ -571,1580 +2016,27 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0926"
   },
   {
-    "id": 541686,
-    "IDcode": "300MAAN-0928",
-    "title": "【ノーブラMTGで濡れる美女】巨乳OLがノーブラ＆远隔ローターでお客様とMTG！たっぷり",
+    "id": 103553,
+    "IDcode": "300MAAN-0927",
+    "title": "【男のチ●ポを弄ぶ美しき変態お姉さん】狙った男は逃さない『プレデター美女』降臨！！口だけでイカせる連続バキュームフェラチオ！！激しい腰振りで更に抜かせにかかる必殺グラインド騎乗位！！バニーコスでエチ美ボディをフル活用！！中出ししたのに腰振りが止まらない絶倫淫乱セックス！！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～＞【かな】",
     "year": "",
     "country": "",
     "genre": "",
     "genres": [
-      "素人",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240515/OK9MDFIv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0928"
-  },
-  {
-    "id": 101102,
-    "IDcode": "300MAAN-0929",
-    "title": "【全てが最高な激かわ美少女に中出し5連発】滲み出るガチ彼女感！今回の裏垢美女は【おじを虜にするF乳P活女子】エロ可愛い水着姿でナイトプールを満喫→ホテルで濃密いちゃラブSEX！！ねっとりフェラ&amp;パイズリご奉仕&amp;極テク騎乗位！男を見つめる熱い視線、ひたすら愛くるしい言動に胸キュン必至！神乳&amp;神くびれ完全無欠の究極BODYに大量中出しッ！！【撮影OK #裏垢タダマン】【ringo】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "美少女",
-      "素人",
-      "乳交",
-      "街头采访",
-      "业余",
-      "中出",
-      "巨乳",
-      "泳装"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/60a49aba173d15a70813981154d4aeb2.jpg",
-    "actress": [
-      "ringo"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0929"
-  },
-  {
-    "id": 101106,
-    "IDcode": "300MAAN-0930",
-    "title": "【パイパン美尻アパレル店員】モデル級美女の撮影中に遭遇！ノーパン疑惑のエロ尻・エッチな太ももから目が話せない！ホテルに誘っておっぱいとパイパンマ●コをしゃぶり尽くすッ！チ●コどころかアナル舐め手コキまで！？喉奥もマ●コも開ききった汁ダク敏感イキまくり痙攣体質でトレンド入り確定www【もしも。】【さつき】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "玩具",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "无毛",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/16/684fbb773ed39b57c07f5122/cover.jpg",
-    "actress": [
-      "さつき"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0930"
-  },
-  {
-    "id": 103622,
-    "IDcode": "300MAAN-0935",
-    "title": "【むっちりエロ尻に飽くなきピストン！】美巨乳×美パイパン×健康的肉感BODY！アウトドア女子と真夏のBBQからの、ひたすら生ハメ！オイルをぶっかけ淫獣プレイ！水着で潮吹き悶絶絶頂スプラッシュ！！！【なまハメT☆kTok】【momo】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "乳液",
-      "街头采访",
-      "业余",
-      "中出",
-      "无毛",
-      "巨乳",
-      "泳装"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2023-12-30",
-    "cover_url": "https://tuaskbgnekr.com/20240515/GdfncWiz/1.jpg",
-    "actress": [
-      "百仁花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0935"
-  },
-  {
-    "id": 103630,
-    "IDcode": "300MAAN-0937",
-    "title": "【チ●ポ狂いの淫獣美尻OL】新企画、初回からとんでもないドエロ女登場ww理知的なバリキャリ美女は密室になると誰彼構わずヤリたくなるビョーキだった！？男優の到着が遅れると、スタッフが餌食に､､､彼女と2人きりになった男は必ず●●れる！エリートOLドスケベネキの口とマ●コで濃厚3発射！！【即ヤリゲッチュー】【まいな】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "屁股",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "巨乳",
-      "泳装",
-      "颜射"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/24/6859d61443d69727161e03dc/cover.jpg",
-    "actress": [
-      "まいな"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0937"
-  },
-  {
-    "id": 101231,
-    "IDcode": "300MAAN-0946",
-    "title": "抖音健身美乳網紅無套狂插中出連2發",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "内衣",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "无毛",
-      "乳房"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240227-1/9c1c0c6374eba0531f3ca279dabff2b0.jpg",
-    "actress": [
-      "るいさ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0946"
-  },
-  {
-    "id": 103641,
-    "IDcode": "300MAAN-0948",
-    "title": "【潮吹きまくり乱交カーニバル】デカ乳サンバガールがWチ●コをご奉仕！？強烈パイズリでおっぱいに大量射精！バックで突かれながらもフェラしちゃうすけべっぷり！連続中出しで溢れる精液が止まらないッ！！【Carnivalナンパ】【TSUKKI】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "多P",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "乳房",
-      "巨乳",
-      "乱交"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-02-02",
-    "cover_url": "https://tuaskbgnekr.com/20240519/bDVWj6Tk/1.jpg",
-    "actress": [
-      "TSUKKI"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0948"
-  },
-  {
-    "id": 103642,
-    "IDcode": "300MAAN-0949",
-    "title": "【神スタイルミスコン美女】息抜きで遊びたい！今回の裏垢美女は【可愛いすぎる就活生】清楚で真面目ちゃんタイプなのに、実はデカチン大好きww咥えながら見上げてくるエッチなフェラ顔をたっぷり堪能！！モデル顔負けスタイルの騎乗位も神すぎる！マジックで美ボディに卑猥な落書きをする変態肉便器プレイで淫乱メス化！！ハードにヤリまくる中出し2回戦ッ！！【撮影OK #裏垢タダマン】【HIKARU】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "女大学生",
-      "屁股",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/24/6859ab2c43d697271619f5f8/cover.jpg",
-    "actress": [
-      "HIKARU"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0949"
-  },
-  {
-    "id": 101439,
-    "IDcode": "300MAAN-0953",
-    "title": "【高身長美脚ギャル】経験人数500人(女子100人)オーバー！！チ●コもマ●コもイケるSEX大好き二刀流キャバ嬢！！普段から逆ナンで獲物を確保する超肉食バイセクシャル！お口でチュパチュパ、マ●コでジュボジュボ、自ら確保したチ●コの精子を吸い尽くす！！大量3発射！！【即ヤリゲッチュー】【せいら】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "素人",
-      "街头采访",
-      "业余",
-      "高",
-      "倒追"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-02-16",
-    "cover_url": "https://tuaskbgnekr.com/20240519/8OHJjWNf/1.jpg",
-    "actress": [
-      "セイラ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0953"
-  },
-  {
-    "id": 101474,
-    "IDcode": "300MAAN-0955",
-    "title": "【浴衣の下はびしょ濡れパイパン】居酒屋トイレでサクっと抜いてくるスケベ美女登場！手マン豪快潮吹きをワイングラスに注ぐ！？積極搾精腰振りで暴発注意！中に出しても終わらない濃厚セックス祭り！！【もしも。】【さとみ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "无毛",
-      "乳房",
-      "浴衣"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-02-22",
-    "cover_url": "https://tuaskbgnekr.com/20240519/Yqg8fyHe/1.jpg",
-    "actress": [
-      "爱花みちる",
-      "さとみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0955"
-  },
-  {
-    "id": 101473,
-    "IDcode": "300MAAN-0956",
-    "title": "【142cm笑顔めっかわミニマム美少女はパチン○ス！？小さな敏感マ○コをぶっ壊れガチイキFUCK】小柄なボディに秘められた圧倒的な性欲！この女のエロさ、まさに沼ッ！もち肌BODYを電マ責め×悶絶固定バイブ！！最高過ぎるプルプル美尻が暴れ回って、声が枯れるまで喘ぎつづける！！ジャンジャンバリバリ！生パコしまくりの3本番！！！【なまハメT☆kTok】【みさき】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "美少女",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "乳房"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-02-24",
-    "cover_url": "https://tuaskbgnekr.com/20240519/6fTd52x3/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0956"
-  },
-  {
-    "id": 101475,
-    "IDcode": "300MAAN-0957",
-    "title": "【脅威のIカップ元裏垢女子】キュートなライバーのエロ撮影現場を見学！飛び入り参加でパイズリKO！？潮も吹きまくり絶頂中継！「ゴム付けてするなら帰りますよっ」生セックス要求のとんでもガールに掛けまくり出しまくりwww【PornGirl】【sena】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "素人",
-      "乳液",
-      "乳交",
-      "街头采访",
-      "业余",
-      "中出",
-      "无毛",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-02-25",
-    "cover_url": "https://tuaskbgnekr.com/20240520/PZXiTRyU/1.jpg",
-    "actress": [
-      "星七奈奈美",
-      "sena"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0957"
-  },
-  {
-    "id": 101476,
-    "IDcode": "300MAAN-0958",
-    "title": "【エロだらしないムチムチボディ】彼氏の独りよがりセックスが不満！今回の裏垢美女は【笑顔が魅力的な愛嬌抜群ドすけべ保育士】ボンっボンっボンっの3拍子揃った破壊力抜群の肉感ボディ！！上目遣いでじっくり包み込む至高のパイズリ！！美尻がオイルで艶めかしく光る濃密生中セックスッ！！【撮影OK #裏垢タダマン】【スズ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "胖女人",
-      "乳液",
-      "乳交",
-      "街头采访",
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-03-02",
-    "cover_url": "https://tuaskbgnekr.com/20240520/BcovLha2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0958"
-  },
-  {
-    "id": 101494,
-    "IDcode": "300MAAN-0959",
-    "title": "乳沟太色情可爱的美发师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "玩具",
-      "素人",
-      "自慰",
-      "乳交",
-      "街头采访",
-      "业余",
-      "中出",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240502-1/49e07c098b4633329df0b5d2d876686f.jpg",
-    "actress": [
-      "葵美玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0959"
-  },
-  {
-    "id": 101697,
-    "IDcode": "300MAAN-0964",
-    "title": "【競泳JD×敏感スレンダー飛び跳ねFUCK】責められ願望爆発！極太バイブでイキまくり！ヌルヌル美麗乳首をしゃぶり尽くす！美パイパン&amp;キツマンにデカチン鬼突き！いつものカフェ店員の姿からは想像もつかないエロ顔丸出し生FUCK！！！【なまハメT☆kTok】【ゆず】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "女大学生",
-      "屁股",
-      "素人",
-      "街头采访",
-      "业余",
-      "无毛",
-      "按摩棒",
-      "泳装"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-03-23",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/7bcaee1d668b1df5cb0c08f3c306940d.jpg",
-    "actress": [
-      "ゆず"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0964"
-  },
-  {
-    "id": 101698,
-    "IDcode": "300MAAN-0965",
-    "title": "【溜まっている変態人妻】最近レスな人妻がエロ動画撮影で発散！？カフェで堂々フェラ抜きごっくん！引き締まった身体を責めまくり！バックでガン突き&amp;美尻スパンキング！旦那を忘れさせる中出し絶頂セックス！！【PornGirl】【kanna】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "人妻",
-      "屁股",
-      "已婚妇女",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "乳房",
-      "颜射"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-03-24",
-    "cover_url": "https://tuaskbgnekr.com/20240522/1boniUaO/1.jpg",
-    "actress": [
-      "美咲佳奈",
-      "kanna"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0965"
-  },
-  {
-    "id": 101699,
-    "IDcode": "300MAAN-0966",
-    "title": "【巨乳巨尻エロ神白ギャル】メンヘラが故ゆる～い下半身！誰でもいいから突っ込んで！チ●ポで寂しさを誤魔化すFカップのドMおさせ！求められるがままごっくん&amp;中出し何でもOK！アタシでよければ何発でも出して！！【即ヤリゲッチュー】【らん】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "吞精",
-      "素人",
-      "巨大屁股",
-      "街头采访",
-      "业余",
-      "中出",
-      "巨乳",
-      "颜射"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-03-30",
-    "cover_url": "https://tuaskbgnekr.com/20240522/2rHJm80I/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0966"
-  },
-  {
-    "id": 101700,
-    "IDcode": "300MAAN-0967",
-    "title": "【ボンッと張り出た肉厚巨尻】乳首イキでパン染み大洪水！敏感すぎる美乳を見せつけ勃起を誘うキャバ嬢JDとワンナイ種付けSEX！肉欲そそる豊満BODYは至高の抱き心地♪射精止まらず中出し&amp;顔射！【もしも。】【ルナ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "第一人称摄影",
-      "素人",
-      "巨大屁股",
-      "街头采访",
-      "业余",
-      "中出",
-      "颜射"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/b48c953f8d6e63151802b3c9adf39e35.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0967"
-  },
-  {
-    "id": 101843,
-    "IDcode": "300MAAN-0969",
-    "title": "P活常習のくせして超美顔×神がかりモテBODY！乳首にクリに性感帯ばかり責められ可愛く喘ぎ絶頂ラッシュ！美腹筋の締め付け騎乗位でザーメンを搾り取り中出し3連発！！！【なまハメT☆kTok】【リマ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "美少女",
-      "素人",
-      "乳液",
-      "街头采访",
-      "业余",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-04-06",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/249a1c4417cfe1a552e28e8efd8a55d7.jpg",
-    "actress": [
-      "リマ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0969"
-  },
-  {
-    "id": 101845,
-    "IDcode": "300MAAN-0970",
-    "title": "【清楚系デカ乳おっとり娘】オナニーが好き過ぎる着物娘！屋外で手マン潮吹き！ましゅまろパイでチ●コをすっぽり挟み込む！突くたび揺れる乳に目が離せないwパイパンマ●コに中出し連戦で日頃の性欲を解消しちゃえ！！【PornGirl】【noah】 羽月乃蒼",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-04-14",
-    "cover_url": "https://tuaskbgnekr.com/20240523/bYo12vSh/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0970"
-  },
-  {
-    "id": 101844,
-    "IDcode": "300MAAN-0971",
-    "title": "【魔性のG乳美女】こわ～い人の愛人やってます！束縛彼氏に隠れて…溜まりに溜まった性欲を本日解放！騎乗位の逸材！G カップ揺れる全裸女ジョッキー！お酒飲んだらマ○コも濡れる！いただき女子に命懸けの中出し3連発！【即ヤリゲッチュー】【のぞみ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
+      "角色扮演",
       "荡妇",
       "素人",
-      "乳交",
       "街头采访",
       "业余",
-      "中出",
-      "巨乳"
+      "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
-    "publish_date": "2024-04-12",
-    "cover_url": "https://tuaskbgnekr.com/20240523/X656K6Ew/1.jpg",
+    "publish_date": "2023-11-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
     "actress": [
-      "のぞみ"
+      "かな"
     ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0971"
-  },
-  {
-    "id": 101846,
-    "IDcode": "300MAAN-0972",
-    "title": "【料理教室で生ハメ中出し】生徒をこっそり喰いまくる？！今回の裏垢美女は【料理系イ●スタグラマー】パイパン桃尻×もっちり美乳！癒し効果抜群の美女が潮吹きまくり痙攣しまくり！！色白美ボディをクネらせてデカ●ン激ピスに悶えイキ！！【撮影OK #裏垢タダマン】【meichan】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "角色扮演",
-      "素人",
-      "街头采访",
-      "业余",
-      "中出",
-      "无毛",
-      "放尿"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2024-04-13",
-    "cover_url": "https://tuaskbgnekr.com/20240523/MQtUFBan/1.jpg",
-    "actress": [
-      "meichan"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0972"
-  },
-  {
-    "id": 101850,
-    "IDcode": "300MAAN-0973",
-    "title": "【実はエロいクール系美少女】車を洗浄中のびしょ濡れ美女と服が乾くまでホテルでハメまくり！？手マンで止まらぬ潮吹き！よだれたっぷりフェラが吸い付いて離れないw一度のセックスじゃ満足できない！事後休憩中でも迫っちゃう性欲つよつよガール！！【もしも。】【まい】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "屁股",
-      "玩具",
-      "素人",
-      "街头采访",
-      "业余"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/7a754365fe74049a0d090ca1c337aa39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0973"
-  },
-  {
-    "id": 403769,
-    "IDcode": "300MAAN-0974",
-    "title": "【ミニマムボディのド変態JD☆】品のある美形女子大生と酒飲みヤリ散らし！ミニマンを容",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202506/24/6859d62c43d69727161e03dd/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0974"
-  },
-  {
-    "id": 403765,
-    "IDcode": "300MAAN-0976",
-    "title": "【フェラチオ狂いの淫獣娘】ほぼ処女美少女に人生初の中出しSEXを仕込む！お口とマ●コ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250501-1/eb0baf014d3e3db8c7ea62e537655af2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0976"
-  },
-  {
-    "id": 531911,
-    "IDcode": "300MAAN-0977",
-    "title": "NTR恶趣味在老公面前爆操他的美女老婆高潮喷水兴奋MAX丝袜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250410-1/f194411d370dd4b47066791d238ffc43.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0977"
-  },
-  {
-    "id": 541767,
-    "IDcode": "300MAAN-0981",
-    "title": "【スタイル抜群パイパン美女】ハメ流出がきっかけ！？な全身エロすぎ美女登场！！パイパンマ●",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240601/TXHs3buD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0981"
-  },
-  {
-    "id": 541768,
-    "IDcode": "300MAAN-0982",
-    "title": "【チ●ポに目がないSEX狂いの巨乳教师】学内の関系者を食い散らし処分されたヤリマン先生现",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240601/wwzTDsAB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0982"
-  },
-  {
-    "id": 541769,
-    "IDcode": "300MAAN-0983",
-    "title": "【欲求不満×淫乱スレンダー美女】敏感美女を玩具责め！出张OLとハプバーで一夜限りの解放プ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240601/ain2897u/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0983"
-  },
-  {
-    "id": 541891,
-    "IDcode": "300MAAN-0984",
-    "title": "【透き通る様な美白肌スタイル抜群CA】制服姿の美巨乳CAと潮まみれSEX！お金の为ならマ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240704/uibqf2iY/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0984"
-  },
-  {
-    "id": 541898,
-    "IDcode": "300MAAN-0985",
-    "title": "【ハメ潮止まらぬ巨乳娘】エロ动画界の新星！巨乳を使ってカメラマンを诱惑！即フェラ抜き→続",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240705/16inWaRx/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0985"
-  },
-  {
-    "id": 541895,
-    "IDcode": "300MAAN-0986",
-    "title": "【人生初の生中で孕まされる京美人介护士】“堪忍してぇぇ～～！”激しい手マンで絶叫潮吹き！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240705/2AG1qs17/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0986"
-  },
-  {
-    "id": 541896,
-    "IDcode": "300MAAN-0987",
-    "title": "【バズりたいクビレ巨乳の极上美少女】アイドルの素质アリな激カワ女子大生登场！！脱いだらび",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240705/Y22cGKur/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0987"
-  },
-  {
-    "id": 541897,
-    "IDcode": "300MAAN-0988",
-    "title": "【笔下ろし中出し】モデル体型のお姊さんが视聴者を笔下ろし！？童贞を喰った后に好みの男を捕",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240705/6Jy9RQnO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0988"
-  },
-  {
-    "id": 541920,
-    "IDcode": "300MAAN-0989",
-    "title": "【趣味はチ○ココレクション！？高身长スレンダーJD】美BODY大学生の趣味はヤッた男のチ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240711/oACiWEaC/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0989"
-  },
-  {
-    "id": 517054,
-    "IDcode": "300MAAN-0990",
-    "title": "希望精子提供的人妻代替老公幫忙懷",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202511/09/690fac34165f1917e3c1e1d4/poster2.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0990"
-  },
-  {
-    "id": 583509,
-    "IDcode": "300MAAN-0993",
-    "title": "办公室女士最终成为了肥皂女的副业！她之所以被前男友甩了，就是因为沉迷于性！ 星明日菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240811/UbDuzNnj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0993"
-  },
-  {
-    "id": 541960,
-    "IDcode": "300MAAN-0994",
-    "title": "【猛スプラッシュ酒乱痴女】淑やかそうな美女が酒で豹変！潮と尿をまき散らしSEXを乞うその",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240723/IjRyI2Oe/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0994"
-  },
-  {
-    "id": 583827,
-    "IDcode": "300MAAN-0997",
-    "title": "【特别企划：少女肉便器计划】成长为肉便器，去发现热爱性的女孩！ 七藤优亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240822/8C1lFANw/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0997"
-  },
-  {
-    "id": 542119,
-    "IDcode": "300MAAN-1004",
-    "title": "【パイパン美女による抜きアリ脱毛サロン】脱毛の痛みをエッチな事でごまかしちゃうスケベ美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://tuaskbgnekr.com/20240823/ZJhDn2ly/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1004"
-  },
-  {
-    "id": 542118,
-    "IDcode": "300MAAN-1005",
-    "title": "精子提供を希望する人妻に夫に代わって孕ませ代行3【れみ】",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://tuaskbgnekr.com/20240823/bGHnVIJB/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1005"
-  },
-  {
-    "id": 542117,
-    "IDcode": "300MAAN-1006",
-    "title": "【クンニ狂いFカップ美女】有名ホテル勤务のホテリエ登场！上品なフリしてただのSEX中毒",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://tuaskbgnekr.com/20240823/nKyoRndg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1006"
-  },
-  {
-    "id": 11728,
-    "IDcode": "300MAAN-1012",
-    "title": "精子提供を希望する人妻に夫に代わって孕ませ代行5【ゆい】 柊優衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "巨尻",
-      "若妻",
-      "街头采访",
-      "真實拍攝",
-      "美腳",
-      "色白",
-      "口交",
-      "業餘",
-      "形象俱樂部",
-      "人妻",
-      "中出",
-      "後入",
-      "美腿",
-      "劇情",
-      "奇異的",
-      "清純",
-      "美少女電影",
-      "素人",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20240925/17ff2f9e-8170-48cd-be1f-aa87856508e1.jpg",
-    "actress": [
-      "柊優衣"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-1012"
-  },
-  {
-    "id": 10975,
-    "IDcode": "DAL-001",
-    "title": "【AI寫真集発！】空想制服美少女AI MODEL AV DEBUT 電子寫真書廠生成的AI美少女AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "女學生",
-      "小隻馬",
-      "二次元",
-      "苗條",
-      "AI女優",
-      "美少女",
-      "美腳",
-      "JK校服",
-      "色白",
-      "口交",
-      "形象俱樂部",
-      "高顏值",
-      "明星臉",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "少女",
-      "奇異的",
-      "紀念作",
-      "清純",
-      "美少女電影",
-      "出道作",
-      "蘿莉控",
-      "女上位",
-      "學校",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251020-1/389e4c51d33eeea62cb92d3df8171a43.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-001"
-  },
-  {
-    "id": 565097,
-    "IDcode": "DAL-003",
-    "title": "空想制服美少女 AI MODEL AV DEBUT ちっぱい编＃2 ～电子书籍から生まれた制服美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250124/KNzcrI9V/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-003"
-  },
-  {
-    "id": 8505,
-    "IDcode": "DAL-004",
-    "title": "AI現役女子大生 網絡紅人 AV 出道！ ！ @Yurichan",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "白絲",
-      "女學生",
-      "小隻馬",
-      "純粹的慾望",
-      "慾求不滿",
-      "口爆",
-      "飯店",
-      "苗條",
-      "網路紅人",
-      "AI女優",
-      "美少女",
-      "美腳",
-      "美乳",
-      "清楚系",
-      "口交",
-      "接吻",
-      "形象俱樂部",
-      "潮吹",
-      "深喉",
-      "約炮",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "蠻橫嬌羞",
-      "傲嬌",
-      "特效",
-      "中出",
-      "美人",
-      "企畫",
-      "美腿",
-      "少女",
-      "後入",
-      "美臀",
-      "顏射",
-      "奇異的",
-      "絕頂高潮",
-      "清純",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "出道作",
-      "舔腳",
-      "女上位",
-      "騎乗位",
-      "情趣內衣"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2025-02-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250207/d107e641-a462-4c6d-96d5-8f05e74c94bf.jpg",
-    "actress": [
-      "木下日葵"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-004"
-  },
-  {
-    "id": 7715,
-    "IDcode": "DAL-005",
-    "title": "幻想制服美少女AI MODEL AV DEBUT 職場OL篇",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "小隻馬",
-      "口爆",
-      "苗條",
-      "AI女優",
-      "感官作品",
-      "辦公室",
-      "肉絲",
-      "美腳",
-      "OL",
-      "色白",
-      "美乳",
-      "制服",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "潮吹",
-      "短髮",
-      "高顏值",
-      "明星臉",
-      "極品美人",
-      "蠻橫嬌羞",
-      "特效",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "奇異的",
-      "清純",
-      "舔陰",
-      "脚控・戀足癖",
-      "美少女電影",
-      "手指插入",
-      "無毛",
-      "舔腳",
-      "黑絲",
-      "足交",
-      "女上位",
-      "騎乗位",
-      "女同事"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2025-03-07",
-    "cover_url": "https://picture.yoshiclub.xyz/20250307/20250307001750784784.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-005"
-  },
-  {
-    "id": 5498,
-    "IDcode": "DAL-007",
-    "title": "全新AI智能娃娃 外貌內心一鍵操控超進化！專屬我的完美AI女友同居性福生活",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "巨尻",
-      "女僕",
-      "純粹的慾望",
-      "兔女郎妝扮",
-      "豐滿",
-      "靴子",
-      "辣妹/GAL系",
-      "女僕制服",
-      "AI女優",
-      "4K",
-      "美少女",
-      "癡女",
-      "胸控・戀乳癖",
-      "自宅",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "高顏值",
-      "極品美人",
-      "特效",
-      "中出",
-      "美人",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "性愛娃娃",
-      "清純",
-      "舔陰",
-      "美少女電影",
-      "手指插入",
-      "乳交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2025-06-06",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250605/20250605045117219219_thumbnail.webp",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DAL-007"
-  },
-  {
-    "id": 547359,
-    "IDcode": "DOCD-001",
-    "title": "‘予约半年待ちリピ率100％ 某メンズエステ店 密室×密着 イキ过ぎた禁断サービス 17 ’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231124/jG5HZOXg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-001"
-  },
-  {
-    "id": 547224,
-    "IDcode": "DOCD-002",
-    "title": "素人ネムラセ！！何しても起きない酩酊状态の素人を思うがままにハメまくる！！3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231209/vv3rmNt5/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-002"
-  },
-  {
-    "id": 562529,
-    "IDcode": "DOCD-003",
-    "title": "予约半年待ちリピ率100% 某メンズエステ店 密室×密着 イキ过ぎた禁断サービス 18",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20231230/f9NrTnWS/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-003"
-  },
-  {
-    "id": 546651,
-    "IDcode": "DOCD-006",
-    "title": "‘予约半年待ちリピ率100％ 某メンズエステ店 密室×密着 イキ过ぎた禁断サービス 19’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240127/Ty5Q1gC1/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-006"
-  },
-  {
-    "id": 546431,
-    "IDcode": "DOCD-007",
-    "title": "部屋连れ込み隠し撮りSEX そのまま胜手にAV発売 24",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240210/MxpHl1v6/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-007"
-  },
-  {
-    "id": 546425,
-    "IDcode": "DOCD-008",
-    "title": "素人ネムラセ！！何しても起きない酩酊状态の素人を思うがままにハメまくる！！ 4",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240210/GenboXUR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-008"
-  },
-  {
-    "id": 546305,
-    "IDcode": "DOCD-009",
-    "title": "‘予约半年待ちリピ率100％ 某メンズエステ店 密室×密着 イキ过ぎた禁断サービス 20 ～コ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240224/Pqn1nIaD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-009"
-  },
-  {
-    "id": 546159,
-    "IDcode": "DOCD-010",
-    "title": "部屋连れ込み隠し撮りSEX そのまま胜手にAV発売 25",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240309/r3Dujtcj/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-010"
-  },
-  {
-    "id": 546050,
-    "IDcode": "DOCD-011",
-    "title": "素人ネムラセ！！何しても起きない酩酊状态の素人を思うがままにハメまくる！！5",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240316/jcvmcFsZ/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-011"
-  },
-  {
-    "id": 545828,
-    "IDcode": "DOCD-012",
-    "title": "‘予约半年待ちリピ率100％ 某メンズエステ店 密室×密着 イキ过ぎた禁断サービス 21’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240409/YjvKcXZi/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-012"
-  },
-  {
-    "id": 545692,
-    "IDcode": "DOCD-013",
-    "title": "体の関系 アテンドいたします",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240423/W4ko3MOO/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-013"
-  },
-  {
-    "id": 545787,
-    "IDcode": "DOCD-014",
-    "title": "たちんぼ 夜の街に伫む美女に本気で交渉 Vol.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240413/m5Da6O45/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-014"
-  },
-  {
-    "id": 551260,
-    "IDcode": "DOCD-016",
-    "title": "部屋に连れ込んだ素人との隠し撮りSEX そのままAV発売 Vol.1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250520/SWSxCOQD/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-016"
-  },
-  {
-    "id": 560879,
-    "IDcode": "DOCD-017",
-    "title": "zzZセックス 完全に无防备な素人女子をハメまくる 1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240519/HsZyfAjc/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-017"
-  },
-  {
-    "id": 560839,
-    "IDcode": "DOCD-018",
-    "title": "‘予约半年待ちリピ率100％ 某メンズエステ店 密室×密着 イキ过ぎた禁断サービス 23’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240602/b4TQnpKk/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-018"
-  },
-  {
-    "id": 545335,
-    "IDcode": "DOCD-019",
-    "title": "たちんぼ 夜の街に伫む美女に本気で交渉 Vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240615/f2JIwXLu/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-019"
-  },
-  {
-    "id": 560713,
-    "IDcode": "DOCD-020",
-    "title": "‘予约半年待ちリピ率100％ 某メンズエステ店 密室×密着 イキ过ぎた禁断サービス 24’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240629/Vp8LNLRH/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-020"
-  },
-  {
-    "id": 551243,
-    "IDcode": "DOCD-021",
-    "title": "部屋に连れ込んだ素人との隠し撮りSEX そのままAV発売 Vol.2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/TewEta7M/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-021"
-  },
-  {
-    "id": 551240,
-    "IDcode": "DOCD-022",
-    "title": "引きこもりでこどおば（子供部屋おばさん）予备军の姊贵は、 偶然目にした仆（弟）のデカチンに钉付",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://sex8sex8sex8.com/20250220/001fT5Eg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-022"
-  },
-  {
-    "id": 560619,
-    "IDcode": "DOCD-023",
-    "title": "zzZセックス 完全に无防备な素人女子をハメまくる 2",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240722/8qbjX4Th/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-023"
-  },
-  {
-    "id": 560566,
-    "IDcode": "DOCD-024",
-    "title": "‘イキすぎた射精サービスで噂のリピ率100％ 某メンズエステ店にカメラを仕込みガチ盗撮 01’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240803/l6PivCtt/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-024"
-  },
-  {
-    "id": 545027,
-    "IDcode": "DOCD-025",
-    "title": "部屋に连れ込んだ素人との隠し撮りSEX そのままAV発売 Vol.3",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240818/tUyazfe0/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-025"
-  },
-  {
-    "id": 545021,
-    "IDcode": "DOCD-026",
-    "title": "‘バレたらマズイ…でも谁か见つけて！※心の声’ 公然オナニーを缲り返す性欲モンスター女子にロッ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240819/mf8l5jmR/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-026"
-  },
-  {
-    "id": 525422,
-    "IDcode": "DOCD-027",
-    "title": "‘出张型リフレでカメラを仕込みガチ盗撮！！过剰な里オプも交渉成立01’",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20240926/Hr6Bwhiv/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DOCD-027"
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0927"
   }
 ];

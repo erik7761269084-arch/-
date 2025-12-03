@@ -34,7 +34,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688acb7f98bc99dfddd1749b/cover.jpg",
@@ -85,7 +85,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/31/688acb8998bc99dfddd1749c/cover.jpg",
@@ -126,7 +126,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250729/20250728235629548548_67443_thumbnail.webp",
@@ -183,7 +183,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "三和軟體",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250831/20250831004139799799_38749_thumbnail.webp",
@@ -191,5 +191,61 @@ window.PAGE_DATA = [
       "安堂はるの"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-004"
+  },
+  {
+    "id": 61151,
+    "IDcode": "LABY-005",
+    "title": "幸せな生活に退屈を感じる日々…そんな人妻のハイリスクな男遊び",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "荡妇",
+      "平胸",
+      "出轨",
+      "乳房",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "三和軟體",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "三吉菜々",
+      "新川优里",
+      "広瀬うみ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-005"
+  },
+  {
+    "id": 2369,
+    "IDcode": "LABY-006",
+    "title": "東京の街は不倫妻の巣窟",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "舔陰",
+      "手指插入",
+      "拘束・拷問",
+      "美人",
+      "後入",
+      "女上位",
+      "口交",
+      "騎乗位",
+      "劇情",
+      "不倫"
+    ],
+    "type": "有码",
+    "company": "三和軟體",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "青山未来",
+      "夏目玲香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=LABY-006"
   }
 ];

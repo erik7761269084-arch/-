@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240607/juta066pl.jpg!320x216.jpg",
@@ -22,7 +22,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240607/juta067pl.jpg!320x216.jpg",
@@ -37,7 +37,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/09/02/fd3d2c8cc7aca37f74fc8b07dfbf5b19.jpg",
@@ -58,7 +58,7 @@ window.PAGE_DATA = [
       "中出",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/9d691cc792a0830600b4892d994462bd.jpg",
@@ -66,6 +66,25 @@ window.PAGE_DATA = [
       "石川明日美"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-077"
+  },
+  {
+    "id": 88256,
+    "IDcode": "JUTA-104",
+    "title": "極上！！三十路奥さま初脱ぎAVドキュメント 渡辺千香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "成熟的女人",
+      "已婚妇女"
+    ],
+    "type": "有码",
+    "company": "熟女JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-104"
   },
   {
     "id": 88258,
@@ -81,7 +100,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "首次亮相"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20241113-1/2bbe6c6afea50b4de36533085a87b561.jpg",
@@ -104,7 +123,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/241fb2d13da9b30c22962d7fc9744456.jpg",
@@ -123,7 +142,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/173b1130e641f29d411cdad2598d6eac.jpg",
@@ -144,7 +163,7 @@ window.PAGE_DATA = [
       "中出",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20240820-1/1afce30c7f2d42716603de163dbfb9d0.jpg",
@@ -168,7 +187,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c45260d1ceb0ac2bd047220ead8c284e.jpg",
@@ -185,7 +204,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/28fba5488e1d00845bebf07a25248187.jpg",
@@ -200,7 +219,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/07/21/950780b4836c64d1b0c26a21cccf76ad.jpg",
@@ -215,7 +234,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/FtgxGLYa.jpg",
@@ -230,7 +249,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/ac22fe81507fd6b686dde78a2b9d3bfa.jpg",
@@ -245,7 +264,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-11/d14457074f9f70e33fa405a11cfef98f.jpg",
@@ -260,7 +279,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/fcf69afa4229700ce5b68580316d89d9.jpg",
@@ -275,7 +294,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/9b5fa79c935a7b871d7d30af96661471.jpg",
@@ -298,7 +317,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/8f97a0dc6af5f60380a455767a6262ce.jpg",
@@ -321,7 +340,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240309-1/3cfafb95e138cb6a30632af561f4dedf.jpg",
@@ -346,7 +365,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250601-1/ae16af99ad3b10c039695446ed76a6b4.jpg",
@@ -371,7 +390,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250601-1/49754cd3c7b49c2cdc0d448d38df9419.jpg",
@@ -397,7 +416,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240225-1/cb6e994be73b345bb3809ad3baecc733.jpg",
@@ -422,7 +441,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240327-1/1b56f90b5df2d6f719e4f2c3939b7e9e.jpg",
@@ -447,7 +466,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "2024-04-02",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20240624-1/eaf341a54beabce2334446547f9f85f4.jpg",
@@ -471,7 +490,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240427-1/97596a319c7c053366e6de6c78b651ee.jpg",
@@ -495,7 +514,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240601-1/204d27768b8c4a90e215280470f61f4b.jpg",
@@ -519,7 +538,7 @@ window.PAGE_DATA = [
       "首次亮相",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240609-1/defbb703c600ed88abd2f2af1a007c57.jpg",
@@ -544,7 +563,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240807-1/d915eeebdcb09ac6b1bdc8ce67f463d2.jpg",
@@ -591,7 +610,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240807-1/8a2cde9df5d9f211c81ad8ae2dceaad5.jpg",
@@ -617,7 +636,7 @@ window.PAGE_DATA = [
       "苗條",
       "紀念作"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/21/68cf042c958ac04f27fb6ba6/cover.jpg",
@@ -654,7 +673,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5b393eb67774efbb8ae93/cover.jpg",
@@ -681,7 +700,7 @@ window.PAGE_DATA = [
       "女上位",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240823-1/039e47cfb36d0bbf2c5020f9a9593d73.jpg",
@@ -698,7 +717,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241003/eIUeudpj/1.jpg",
@@ -713,7 +732,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241003/EDF4XdD2/1.jpg",
@@ -728,7 +747,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/6e02a02eb24d4df497c6bb6ed39fd31c.jpg",
@@ -743,7 +762,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251106-1/953947af349d64668efc2ad5616b9c97.jpg",
@@ -766,7 +785,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241129-1/74dddee5ca342d819a9261a2bd6dd4ca.jpg",
@@ -810,7 +829,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241114-1/ffbb65848e4fc5b56402f6afada8dd91.jpg",
@@ -852,7 +871,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241129-1/474bfea03a371d596a78693c60f31e18.jpg",
@@ -893,7 +912,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241129-1/f5b8cd7b273e3daed914be2c4a844198.jpg",
@@ -918,7 +937,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241221-1/68e892a12a80683037753993b7f1d943.jpg",
@@ -961,7 +980,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241227-1/b2b8606cadc37bee5c7aa8f9a06165b3.jpg",
@@ -1002,7 +1021,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250201-1/37513989d8b87089387cdffc910843fc.jpg",
@@ -1026,7 +1045,7 @@ window.PAGE_DATA = [
       "首次亮相",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250202-1/0a5a14c6c643ce4b18433d73226a3047.jpg",
@@ -1053,7 +1072,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-1/a473e85114ad09739a6b7a7d97ca1c99.jpg",
@@ -1100,7 +1119,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250217/41133b30-97a6-4245-930c-103975b7ae83.jpg",
@@ -1150,7 +1169,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250331-1/e9ee42de8c3295b8ee457768d709adc7.jpg",
@@ -1175,7 +1194,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "高"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250408-1/a60628f226622fcaeab110e1ad3b762d.jpg",
@@ -1199,7 +1218,7 @@ window.PAGE_DATA = [
       "首次亮相",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250425-1/4b25a5da068f92d7812bdf11e8584e85.jpg",
@@ -1250,7 +1269,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822cedc9ed5b270bc92129f/cover.jpg",
@@ -1297,7 +1316,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/13/6822cf169ed5b270bc9212a0/cover.jpg",
@@ -1315,7 +1334,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/06/09/151c6421/vod.jpg",
@@ -1364,7 +1383,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612071224857857_thumbnail.webp",
@@ -1388,7 +1407,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-1/7fe00ab5682b5adddb25e3b95ca50588.jpg",
@@ -1413,7 +1432,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250710-2/367cf9751fb186f491da812a2af786fe.jpg",
@@ -1457,7 +1476,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250718-1/78cd4cc556131f036e3dfd052607f4ee.jpg",
@@ -1481,7 +1500,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/27/f3ab4618/vod.jpg",
@@ -1528,7 +1547,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250811-1/1a56294a2809979300dca2463e3971c6.jpg",
@@ -1584,7 +1603,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250811-1/3a43c17e587210f88acf5d389dd483e4.jpg",
@@ -1640,7 +1659,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250814/20250814040309395395_85144_thumbnail.webp",
@@ -1664,7 +1683,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/05/f7d0bc1f/vod.jpg",
@@ -1689,7 +1708,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/07/06e9ec5e2165a65768f5e9c4ffdd5a59.jpg",
@@ -1734,12 +1753,27 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/17/b1c27ec966cff9528b93527742167af9.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-180"
+  },
+  {
+    "id": 175270,
+    "IDcode": "JUTA-181",
+    "title": "極上！！三十路奥さま初脱ぎAVドキュメント 安永れいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "熟女JAPAN",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUTA-181"
   },
   {
     "id": 173838,
@@ -1749,7 +1783,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "熟女JAPAN",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/11/04/01c3ff8e/vod.jpg",

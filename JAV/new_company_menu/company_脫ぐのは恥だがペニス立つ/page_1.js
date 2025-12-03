@@ -34,7 +34,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "2025-03-11",
     "cover_url": "https://picture.yoshiclub.xyz/20250309/74c3b13d-7b93-4277-a790-12210ce3b814.jpg",
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250729-1/cec5e6a5730401dbc18e379f07d7c8b3.jpg",
@@ -93,7 +93,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "2025-03-11",
     "cover_url": "https://picture.yoshiclub.xyz/20250310/c1b8af74-b5f7-40a7-8473-c829bd369215.jpg",
@@ -113,7 +113,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250729-1/e99bf022b6c4edc815ca9f00562bde4e.jpg",
@@ -128,7 +128,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20250729-1/fd746d59f7bdfc5abfe5deea360ae28a.jpg",
@@ -184,7 +184,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "2025-04-08",
     "cover_url": "https://picture.yoshiclub.xyz/20250409/4f42f89e-4afa-4f91-8fe4-435345355fbd.jpg",
@@ -239,7 +239,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "2025-04-08",
     "cover_url": "https://picture.yoshiclub.xyz/20250409/135b75ce-40ad-4908-b6d4-9461858bda15.jpg",
@@ -250,6 +250,27 @@ window.PAGE_DATA = [
       "谷梓"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-007"
+  },
+  {
+    "id": 69454,
+    "IDcode": "NGHJ-008",
+    "title": "男女の友情は性欲に負ける！？友達同士の男女が全身ぬるべちょオイルエステ素股体験 彼氏有り女友達とのエチエチオイルマッサージ意識し合う男女！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乳液",
+      "业余",
+      "中出",
+      "巨乳",
+      "美容院"
+    ],
+    "type": "有码",
+    "company": "脫ぐのは恥だがペニス立つ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-008"
   },
   {
     "id": 6166,
@@ -292,7 +313,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/03/688e6a9198bc99dfdd032b06/cover.jpg",
@@ -317,7 +338,7 @@ window.PAGE_DATA = [
       "中出",
       "企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/beafce688f1fa0e990a59f40690d54de.jpg",
@@ -364,7 +385,7 @@ window.PAGE_DATA = [
       "女上位",
       "公共場所"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/08/68956eaf6ccb447f8c444587/cover.jpg",
@@ -416,7 +437,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250511/20250511030715994994_thumbnail.webp",
@@ -449,7 +470,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "顏射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250607/20250607014349274274_thumbnail.webp",
@@ -475,7 +496,7 @@ window.PAGE_DATA = [
       "中出",
       "企画"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/fef9b2aeb1c3324d9d555b7555ab584b.jpg",
@@ -490,7 +511,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/6d775f92ba5ec3f0d05dc3fc99e3b8d5.jpg",
@@ -511,7 +532,7 @@ window.PAGE_DATA = [
       "巨乳",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250626-1/4fb38b9355c63068bd052530d8b77252.jpg",
@@ -578,7 +599,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "2025-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706095013358358_74946_thumbnail.webp",
@@ -641,7 +662,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "2025-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706095010446446_15863_thumbnail.webp",
@@ -697,7 +718,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "2025-07-05",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/20250706093046769769_70374_thumbnail.webp",
@@ -749,7 +770,7 @@ window.PAGE_DATA = [
       "公共場所",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250706/202507060928388181_61009_thumbnail.webp",
@@ -813,7 +834,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c556dcbf45974ea6db8b5b/cover.jpg",
@@ -854,7 +875,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013751540540_82636_thumbnail.webp",
@@ -914,7 +935,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "公共場所"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/01/68b589ee2cbbe464028013c6/cover.jpg",
@@ -979,7 +1000,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250809/20250809013532957957_83418_thumbnail.webp",
@@ -992,6 +1013,70 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-024"
   },
   {
+    "id": 180697,
+    "IDcode": "NGHJ-025",
+    "title": "働く素人女性限定！黒パンスト素股に挑戦してもらえませんか！？1日中外回りで走り回ったムッレムレの黒パンストにデカチンが擦れて赤面発情！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "脫ぐのは恥だがペニス立つ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-025"
+  },
+  {
+    "id": 180713,
+    "IDcode": "NGHJ-026",
+    "title": "恥ずかしがり屋の清楚な素人女子〇生が「お口だけでコンドーム装着」に挑戦！制限時間内に装着することが出来たら賞金GET！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "脫ぐのは恥だがペニス立つ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-026"
+  },
+  {
+    "id": 180654,
+    "IDcode": "NGHJ-027",
+    "title": "学校帰りのカワイイ女子〇生が早漏絶倫童貞君のオナニーのお手伝いしてくれましたシコシコドピュドピュ射精しちゃうウブなJ●がドキドキ発情ww",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "脫ぐのは恥だがペニス立つ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-027"
+  },
+  {
+    "id": 180694,
+    "IDcode": "NGHJ-028",
+    "title": "現役美人エステティシャンがお口だけでマッサージ！？全身ベロキスリップ＆ノーハンドフェラエステww恥じらいながらも綺麗なベロでアナルもペロペロ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "脫ぐのは恥だがペニス立つ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-028"
+  },
+  {
     "id": 517332,
     "IDcode": "NGHJ-029",
     "title": "躍動！閃耀的汗水和笑容迸發的青春",
@@ -999,12 +1084,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1c5ca52c12b4e68502286/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-029"
+  },
+  {
+    "id": 176693,
+    "IDcode": "NGHJ-030",
+    "title": "極上！母性溢れるSSS級素人清楚妻による人生最初で一番心も体も温まる最高に優しい童貞筆おろし",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "脫ぐのは恥だがペニス立つ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-030"
+  },
+  {
+    "id": 176719,
+    "IDcode": "NGHJ-031",
+    "title": "学園のアイドルみたいな美人先生が童貞学生くんと野球拳対決！勝てば賞金100万円負けたら女性の身体を教えるエチエチ課外授業",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "脫ぐのは恥だがペニス立つ",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=NGHJ-031"
   },
   {
     "id": 517333,
@@ -1014,7 +1131,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/17/68f1c60f52c12b4e68502287/cover.jpg",
@@ -1029,7 +1146,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "脫ぐのは恥だがペニス立つ",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250724-1/6424fd0e814e899cd0cdc86d3c0d2015.jpg",

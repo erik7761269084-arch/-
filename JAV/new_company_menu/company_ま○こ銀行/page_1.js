@@ -1,5 +1,22 @@
 window.PAGE_DATA = [
   {
+    "id": 209595,
+    "IDcode": "BANK-005",
+    "title": "巨乳お姉さんにパイパン粘着",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-005"
+  },
+  {
     "id": 555483,
     "IDcode": "BANK-006",
     "title": "时间贷し性処理女子校生 おっとり天然マイペースな地方在住ツルペタ美少女と拘束中出しSEX",
@@ -7,12 +24,42 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/701d462c95bf7d9fecdf542a76e87893.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-006"
+  },
+  {
+    "id": 102525,
+    "IDcode": "BANK-009",
+    "title": "和完全看不出好色的姊姊去露天溫泉旅行 瘋狂性愛瘋狂高潮 三好凪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-009"
+  },
+  {
+    "id": 202770,
+    "IDcode": "BANK-010",
+    "title": "bank-010 露天温泉10発中出-河奈亜依",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-010"
   },
   {
     "id": 579321,
@@ -22,7 +69,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/4741ad419867ed4e5ebfa1bdd5e9b48f.jpg",
@@ -37,7 +84,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231123/1598626750-h_1495bank012pl.jpg!320x216.jpg",
@@ -52,12 +99,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sex8sex822.com/20250922/8PtT6pmS/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-013"
+  },
+  {
+    "id": 210409,
+    "IDcode": "BANK-014",
+    "title": "哥哥与妹妹发生性关系-平手まな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-014"
   },
   {
     "id": 529965,
@@ -69,7 +133,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240225-1/2b6d657a33383902b0479784778a2500.jpg",
@@ -84,7 +148,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210724-1/aa2e8e6cf60f1be53d1e1a863b28dfea.jpg",
@@ -106,7 +170,7 @@ window.PAGE_DATA = [
       "女生",
       "颜射"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/c286443364ba81d6da19d8e4fffac16d.jpg",
@@ -123,12 +187,29 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/KG3RWY6E.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-023"
+  },
+  {
+    "id": 102130,
+    "IDcode": "BANK-026",
+    "title": "內射露天溫泉 超美巨乳H罩杯很快就高潮的淫亂姊姊",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-026"
   },
   {
     "id": 593875,
@@ -141,7 +222,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/18/57534_cover_2025-09-18_190507.jpg",
@@ -158,12 +239,37 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20eefcf22ae3e04a81f20/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-050"
+  },
+  {
+    "id": 79787,
+    "IDcode": "BANK-051",
+    "title": "巨乳人妻温泉デート 汚されたい願望のHカップ美里25歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "和服，丧服",
+      "人妻",
+      "已婚妇女",
+      "出轨",
+      "乳交",
+      "拘束",
+      "中出",
+      "巨乳",
+      "浴衣"
+    ],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "2021-08-27",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-051"
   },
   {
     "id": 84032,
@@ -184,7 +290,7 @@ window.PAGE_DATA = [
       "性感的",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/c938cd993539c6079e2941e626755f97.jpg",
@@ -204,7 +310,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://pic25.anzise.com/pic/20220512/b10649f93bc50f8ff79764cad7e3cc59/1.jpg",
@@ -228,7 +334,7 @@ window.PAGE_DATA = [
       "颜射",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "2021-12-10",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/7af2af3f435c529c41abd83106478145.jpg",
@@ -251,7 +357,7 @@ window.PAGE_DATA = [
       "巨乳",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "2021-12-10",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/2539ea5365fcfcb285dcd49c92b9b4b6.jpg",
@@ -274,7 +380,7 @@ window.PAGE_DATA = [
       "巨乳",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "2022-02-11",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220904-1/ca9d39ca7f9b9b5bf98f6ac750b94588.jpg",
@@ -293,7 +399,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/685b98a835b3bd00dfff8bbe0fc992a5.jpg",
@@ -311,7 +417,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/839cad2c3ec1ae8cf17976071fdd0a6d.jpg",
@@ -326,7 +432,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230427/h_1495bank086pl.jpg!320x216.jpg",
@@ -343,7 +449,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20c31db8c77d79bb69659/cover.jpg",
@@ -361,7 +467,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/V6wzOfQI.jpg",
@@ -376,7 +482,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/A2wuFrZf.jpg",
@@ -393,7 +499,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/a6298d42f1d1e2243ac49502b3ed57ed.jpg",
@@ -416,7 +522,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-47/efb8fe95224b81efe01024bc05ae90cb.jpg",
@@ -440,7 +546,7 @@ window.PAGE_DATA = [
       "颜射",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "2022-09-09",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7e69e3510ab774a868de9f3b78c7dec5.jpg",
@@ -455,7 +561,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20af2cf22ae3e04a81c1d/cover.jpg",
@@ -473,7 +579,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7022fe64b4a5180c09e31aa15773b3a0.jpg",
@@ -491,7 +597,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1b617d15f3179b7e3d6eff36a9b9b9a8.jpg",
@@ -509,7 +615,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/76ccfc162395739bd5283bd32b9b66be.jpg",
@@ -524,7 +630,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/34d267c083c139a26dac7cf76302bb01.jpg",
@@ -539,7 +645,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1ce6c695f12a19529b3c11985e45b5de.jpg",
@@ -554,7 +660,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230711/h_1495bank102pl.jpg!320x216.jpg",
@@ -572,7 +678,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a208eacf22ae3e04a81b1d/cover.jpg",
@@ -587,7 +693,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230313/oYZ1V7Un/1.jpg",
@@ -605,7 +711,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230313/OOlPmYIc/1.jpg",
@@ -620,7 +726,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230405/XsRNzVRp/1.jpg",
@@ -635,12 +741,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230406/XKIEzC8W/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-115"
+  },
+  {
+    "id": 535407,
+    "IDcode": "BANK-116",
+    "title": "中出し露天温泉 アナウンサー颜の美肌美尻スキモノ淫乱関西弁美女",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-116"
   },
   {
     "id": 579263,
@@ -650,7 +771,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231005/h_1495bank121pl.jpg!320x216.jpg",
@@ -668,7 +789,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230606/OB49Vj95/1.jpg",
@@ -686,7 +807,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230606/hwbmKNmO/1.jpg",
@@ -703,7 +824,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230619/bUHzN3ow/1.jpg",
@@ -718,7 +839,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230629/G9Cy1rqs/1.jpg",
@@ -733,7 +854,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230629/v6ZCn3ex/1.jpg",
@@ -748,7 +869,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/AZywmMPQ/1.jpg",
@@ -765,7 +886,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/F9NxC2IM/1.jpg",
@@ -780,7 +901,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/FAs1PsBU/1.jpg",
@@ -797,7 +918,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230716/6ZNTEXdc/1.jpg",
@@ -815,7 +936,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230729/J326faNM/1.jpg",
@@ -833,7 +954,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230729/eqEWX0ad/1.jpg",
@@ -848,7 +969,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230812/2YPiWERm/1.jpg",
@@ -865,7 +986,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230812/zpsZf4Rk/1.jpg",
@@ -880,7 +1001,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/04/67a20324cf22ae3e04a81682/cover.jpg",
@@ -895,7 +1016,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230826/6qaogOy0/1.jpg",
@@ -910,7 +1031,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230826/2X9JsFbS/1.jpg",
@@ -925,7 +1046,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230909/IVRZwt33/1.jpg",
@@ -940,7 +1061,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230909/SaNmATTp/1.jpg",
@@ -958,7 +1079,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230923/apjMW8SK/1.jpg",
@@ -975,7 +1096,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230923/ikX6OyR4/1.jpg",
@@ -993,7 +1114,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231014/MDjzyjCD/1.jpg",
@@ -1010,7 +1131,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231014/CMICpZM1/1.jpg",
@@ -1025,7 +1146,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231029/Qy8MZ4C5/1.jpg",
@@ -1042,7 +1163,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/QXJ4rNDx/1.jpg",
@@ -1060,7 +1181,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/Dcs77njU/1.jpg",
@@ -1077,7 +1198,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240719/4Nw1Oqwq/1.jpg",
@@ -1095,7 +1216,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231210/9Q8bldx1/1.jpg",
@@ -1112,7 +1233,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231210/tLiu6a03/1.jpg",
@@ -1127,7 +1248,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231224/TkGCPLHZ/1.jpg",
@@ -1145,7 +1266,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/cnSyL9Or/1.jpg",
@@ -1160,7 +1281,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/sHAxtEqO/1.jpg",
@@ -1175,7 +1296,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240114/NvfmiDdI/1.jpg",
@@ -1193,7 +1314,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240128/cuyUoBVn/1.jpg",
@@ -1210,7 +1331,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240211/A8iZKliu/1.jpg",
@@ -1225,7 +1346,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240211/Zu8unoac/1.jpg",
@@ -1240,7 +1361,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240225/Iu1ZfOQF/1.jpg",
@@ -1258,7 +1379,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/0BjKHner/1.jpg",
@@ -1273,7 +1394,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/xWaJjpmB/1.jpg",
@@ -1291,7 +1412,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240324/k97eFDB6/1.jpg",
@@ -1306,7 +1427,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/yffTDDiq/1.jpg",
@@ -1321,7 +1442,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/4zZH1Dae/1.jpg",
@@ -1338,12 +1459,29 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240414/edkhAAn6/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-166"
+  },
+  {
+    "id": 545651,
+    "IDcode": "BANK-167",
+    "title": "いいなり美人妻 地味で小柄なスレンダー童颜妻 茉优27歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "ま○こ銀行",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-167"
   },
   {
     "id": 579659,
@@ -1353,7 +1491,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240512/vxptbAhK/1.jpg",
@@ -1370,7 +1508,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240512/jcuE3sQ4/1.jpg",
@@ -1388,7 +1526,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240512/4sQQY8Ke/1.jpg",
@@ -1403,7 +1541,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240616/7tTDhAO3/1.jpg",
@@ -1420,7 +1558,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240616/NzWVnXGi/1.jpg",
@@ -1435,7 +1573,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/02/6906af6371eb543bb0e0fd57/poster2.jpg",
@@ -1452,7 +1590,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/26/68d5c1d3eb67774efbb8f54b/cover.jpg",
@@ -1467,7 +1605,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/16/68f0ca9b631cc64eb5b33831/cover.jpg",
@@ -1484,7 +1622,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240728/6D5Evmb5/1.jpg",
@@ -1501,7 +1639,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/24/68d314e5ce5a404e9bad0abc/cover.jpg",
@@ -1518,7 +1656,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/TbsuTl08/1.jpg",
@@ -1533,7 +1671,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240923/zpYoLCLw/1.jpg",
@@ -1551,153 +1689,11 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ま○こ銀行",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/19/68cd37882c5ed64ee9ac3ff6/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-181"
-  },
-  {
-    "id": 499256,
-    "IDcode": "BANK-183",
-    "title": "巨乳人妻温泉约会J罩杯性欲裸露丰满身材嘉代46岁 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/a213b29ad50fb6bc9aa4ec930739bc88.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-183"
-  },
-  {
-    "id": 176440,
-    "IDcode": "BANK-184",
-    "title": "Wデカ尻むちむち巨乳姉妹混浴温泉",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/3dc60fe03f6593f1dc541331111846b8.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-184"
-  },
-  {
-    "id": 95570,
-    "IDcode": "BANK-185",
-    "title": "美人姉妹W巨乳露天温泉男喰い",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "潮吹",
-      "乳交",
-      "中出",
-      "制服",
-      "骑乗位",
-      "巨乳",
-      "颜射",
-      "浴衣"
-    ],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/d8785b00ca8dc6f3d98d71129113aeec.jpg",
-    "actress": [
-      "小坂ひまり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-185"
-  },
-  {
-    "id": 462787,
-    "IDcode": "BANK-186",
-    "title": "中出露天溫泉  與美白身體和自然陰毛的女人進行羞恥遊戲",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251027-1/dbcbcbbab62c8a8608142226b81087cb.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-186"
-  },
-  {
-    "id": 499405,
-    "IDcode": "BANK-187",
-    "title": "巨乳人妻温泉约会超可爱丰满身材人妻直子28岁未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251023-1/a9581f71df4c6e03522da0fa959f0588.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-187"
-  },
-  {
-    "id": 439993,
-    "IDcode": "BANK-188",
-    "title": "顺从的美丽人妻 皮肤白皙，苗条，整洁，乳头敏感的妻子，Airi，28岁 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻"
-    ],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251010-1/b7990c2d9328d13f5dae766453e950aa.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-188"
-  },
-  {
-    "id": 411725,
-    "IDcode": "BANK-189",
-    "title": "和两个漂亮学生一起淘气的温泉之旅 未知演员",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251008-1/898d1bfa46ca7e80f082a8ba34da1f05.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-189"
-  },
-  {
-    "id": 550598,
-    "IDcode": "BANK-190",
-    "title": "中出し露天温泉 びんびん乳首の可爱い颜したJカップ女子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "ま○こ銀行",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250122/y8Xngfxg/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=BANK-190"
   }
 ];

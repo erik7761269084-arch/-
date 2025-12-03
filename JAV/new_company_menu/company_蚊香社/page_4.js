@@ -1,5 +1,214 @@
 window.PAGE_DATA = [
   {
+    "id": 552757,
+    "IDcode": "259LUXU-0366",
+    "title": "豪华电视359",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/3aed1bb82cdc37401016e1b5f4b50f7c.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0366"
+  },
+  {
+    "id": 553353,
+    "IDcode": "259LUXU-0367",
+    "title": "豪华电视349",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/67edfef1264e9030b31b6f6bb89fd161.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0367"
+  },
+  {
+    "id": 553320,
+    "IDcode": "259LUXU-0369",
+    "title": "豪华电视364",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/90e9990a32e87a3e0c123a4d79626e57.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0369"
+  },
+  {
+    "id": 552758,
+    "IDcode": "259LUXU-0370",
+    "title": "豪华电视365",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/13137f0155286602c66b90bd367ca3b2.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0370"
+  },
+  {
+    "id": 553321,
+    "IDcode": "259LUXU-0371",
+    "title": "豪华电视366",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/c0e71227d108e9973f5cbdb34a3e8ebf.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0371"
+  },
+  {
+    "id": 553323,
+    "IDcode": "259LUXU-0372",
+    "title": "豪华电视357",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/3c9d9385234cb19ed6f2fee9c9bd31b6.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0372"
+  },
+  {
+    "id": 552759,
+    "IDcode": "259LUXU-0373",
+    "title": "豪华电视367",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/74d89adfa8d50e1276d2522093996507.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0373"
+  },
+  {
+    "id": 552812,
+    "IDcode": "259LUXU-0374",
+    "title": "豪华电视358",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/52e14fdc63855c3b10a24782f4c6e45f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0374"
+  },
+  {
+    "id": 553324,
+    "IDcode": "259LUXU-0375",
+    "title": "豪华电视350",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/de19a1dae3b66c11fdd1b708055b5bb3.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0375"
+  },
+  {
+    "id": 553325,
+    "IDcode": "259LUXU-0376",
+    "title": "豪华电视388",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/6eb2bb3daf30a43718463aa781666c70.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0376"
+  },
+  {
+    "id": 553326,
+    "IDcode": "259LUXU-0377",
+    "title": "豪华电视379",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/376fe7d39659ec3fa45abf87380e6051.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0377"
+  },
+  {
     "id": 552813,
     "IDcode": "259LUXU-0378",
     "title": "豪华电视370",
@@ -11,7 +220,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/31cb71afd302d3dde6c30bd950b9355d.jpg",
@@ -30,7 +239,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/e30fa656a361c9c3a6f5248cd4846571.jpg",
@@ -49,7 +258,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/3fd4422ffe11e6acc65df78098d504cd.jpg",
@@ -88,7 +297,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/4720c46929c12ee68c5b69bf7998e007.jpg",
@@ -107,7 +316,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/d5dd4adc93dcfefe990fffc3037d1473.jpg",
@@ -126,7 +335,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/e4869f49dd502fd0680b3d6416f9056b.jpg",
@@ -145,7 +354,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/f3a48622fd249f8a58f4548f4ece2d4c.jpg",
@@ -164,7 +373,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/86351e316abeb02d1f498c3b2045fed5.jpg",
@@ -183,7 +392,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/07bd1bf1d8b5c8ea93ac96ddcc4af196.jpg",
@@ -202,7 +411,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/420776f41e1595a0068190272f8464ba.jpg",
@@ -221,7 +430,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/31a678e9bfc49017962673d1a9995e0b.jpg",
@@ -240,7 +449,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/8f4d1d0054a6f6255283b597ef0fc76f.jpg",
@@ -259,7 +468,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/c98645d7b80bf3971fba9a08f741bcda.jpg",
@@ -278,7 +487,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/1cc760122c754f6311bf2d35b5caff65.jpg",
@@ -297,7 +506,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/cca8dff4980b66dd5f49e151c4220453.jpg",
@@ -316,7 +525,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/8c6fe3bc205a2126b282c620fa9eaf51.jpg",
@@ -335,7 +544,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/5b53dd9e68eeb43aeef33a312e8b85c3.jpg",
@@ -354,7 +563,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/b8bb4df548fabc2d37aa54767ffb610a.jpg",
@@ -373,7 +582,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/557250f6f30209f225f478eaba47e58f.jpg",
@@ -392,7 +601,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/806ce2da22ab83a3dd85922b63cc8cb6.jpg",
@@ -411,7 +620,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250816-1/7f546396e610f6f5b4978eb4ccd7acc1.jpg",
@@ -430,7 +639,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/955dda639efcf4c20ef97c5c7ca62441.jpg",
@@ -449,7 +658,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/ec3a323e1da7bbff3b4b591f2f68abc7.jpg",
@@ -468,7 +677,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/7937e16b3ab4dcc3ada260763221fe31.jpg",
@@ -487,7 +696,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/e0aacf2b28d13126bd802c0166571404.jpg",
@@ -526,7 +735,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/3c03d64779f1aff81db35fdfebd14687.jpg",
@@ -545,7 +754,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/f79ddd5276975953c6590f02e1040196.jpg",
@@ -564,7 +773,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/db97ab9f7ad58a5446e28a95cc6a9c78.jpg",
@@ -583,7 +792,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/750e500ce4174902961dbe3d284f3783.jpg",
@@ -602,12 +811,31 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/90bcf58367159d2ede6f6e172f293447.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0411"
+  },
+  {
+    "id": 537522,
+    "IDcode": "259LUXU-0412",
+    "title": "ラグジュTV 404",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "素人企画",
+      "高端素人"
+    ],
+    "type": "有码",
+    "company": "蚊香社",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0412"
   },
   {
     "id": 553194,
@@ -621,7 +849,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/ea7e40339b64a8322ecf251e435a6e69.jpg",
@@ -640,7 +868,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/fe2aaf832f86e1660f28eb9710470261.jpg",
@@ -659,7 +887,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/372f88912e03ae183ec22ff621e5da9d.jpg",
@@ -678,7 +906,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/b0d3c94f7b2aeddec6d6036b1468feee.jpg",
@@ -697,7 +925,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250726-1/4f083e325a4ed4dcffaa992d0bb15f0e.jpg",
@@ -716,7 +944,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/010eeffd37e3ec670287e83afb4ac13f.jpg",
@@ -735,7 +963,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/96e4e127e313dff11c91c732293f35e9.jpg",
@@ -754,7 +982,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/d9fdad5d765d9f47503ff8df7df9c3c2.jpg",
@@ -773,7 +1001,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/82ffa27ef3738827ee23f85ada0b3e09.jpg",
@@ -792,7 +1020,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/41d160e5a447538b3eb847b86e6d0131.jpg",
@@ -811,7 +1039,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/3f5e1a649cd2b1f4c1772040fd16e2ff.jpg",
@@ -830,7 +1058,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/0502407243d13a5205e4452326843e8b.jpg",
@@ -849,7 +1077,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/e1465b66620c2820ab17cf4706c35466.jpg",
@@ -868,7 +1096,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/d459edc8bc9107f85950a10fca64d7fe.jpg",
@@ -887,7 +1115,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/7f8e06d755febb769c9a925889a802b0.jpg",
@@ -906,7 +1134,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/dd528082e955f3e46100d5786d9581a3.jpg",
@@ -925,7 +1153,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/33bd540b5968c828fd19733232de2bd1.jpg",
@@ -944,7 +1172,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/c09dacfa07f67e7588ee474fd368f44d.jpg",
@@ -963,7 +1191,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231025/pb_e_259luxu-432.jpg!320x216.jpg",
@@ -982,7 +1210,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/9dbd445a11809d88efb781e4c8f52ca2.jpg",
@@ -1001,7 +1229,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/74ca94a57eec440b2819d2f27522255a.jpg",
@@ -1020,7 +1248,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/2a0994bb3eb7674cc51cae0730edb469.jpg",
@@ -1039,7 +1267,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/04595e17ae8b53e3899fa54a8dddd74c.jpg",
@@ -1058,7 +1286,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/69dd3ff6143aa9b15e26bd9f49a398a0.jpg",
@@ -1077,7 +1305,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/7474a65f734381360fedf35a65e47de9.jpg",
@@ -1096,7 +1324,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/ca306f87d985c519ac7518c519f2a613.jpg",
@@ -1115,7 +1343,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/4d85dc50cfbf060bff77224a30dea60a.jpg",
@@ -1134,7 +1362,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/fb5476b6b0307a296b70375c8f4ed7b0.jpg",
@@ -1153,7 +1381,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/1ca3277e827faee94c61cf3c6f89805f.jpg",
@@ -1172,7 +1400,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/c4a1731884c38586fcd9121af1701f90.jpg",
@@ -1191,7 +1419,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/3a04438face60756e1020cbea71a00c7.jpg",
@@ -1210,7 +1438,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/2b18d7e3b59cae4ba2f490c885fbf864.jpg",
@@ -1229,7 +1457,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/dfb160f5e5334a919b738c3cca1e8ab7.jpg",
@@ -1248,7 +1476,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/953b9386dc6241ecf0c23df8ad3fe241.jpg",
@@ -1267,7 +1495,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/bb1af8e72845173c9474c31be9ba0e78.jpg",
@@ -1286,7 +1514,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/53983a2adbbeb71073db386ed806fe30.jpg",
@@ -1305,7 +1533,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231019/pb_e_259luxu-452.jpg!320x216.jpg",
@@ -1324,7 +1552,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/404e0ee3f854edf6aa771487ecfb5597.jpg",
@@ -1343,7 +1571,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/b911ac3ccbf0e68e19c1d366b8c020eb.jpg",
@@ -1362,7 +1590,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250817-1/b39f84c5954767e5232ccb39f0f5a4ea.jpg",
@@ -1381,7 +1609,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231019/pb_e_259luxu-456.jpg!320x216.jpg",
@@ -1400,7 +1628,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/bad30945c635e1b5c03199f1c01a9bed.jpg",
@@ -1419,7 +1647,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/9172b4d85ab2a205f3fceda0e750d8fa.jpg",
@@ -1438,7 +1666,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/fd1fbb8a459d8de85652cb2808a96f85.jpg",
@@ -1457,7 +1685,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/7836a738162f81a85b168281e7e44748.jpg",
@@ -1476,7 +1704,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/46a64e952a2d1ad2dabe1e8cf3abe993.jpg",
@@ -1495,7 +1723,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/f0e2875546c262c5690ef24c60418c01.jpg",
@@ -1514,7 +1742,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230514-1/8d147d8dbb4cace2c1f4e3dc836a0084.jpg",
@@ -1533,7 +1761,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/ecd61badb6390bf4b6b3019fd6cd007d.jpg",
@@ -1558,7 +1786,7 @@ window.PAGE_DATA = [
       "苗條",
       "業餘"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "2016-10-25",
     "cover_url": "https://picture.yoshiclub.xyz/20230331/ba1811ff-f6fe-4c31-b782-baad3cecc2cb.jpg",
@@ -1579,7 +1807,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/5e17c69a1b15a6b11f59c77d1da3a220.jpg",
@@ -1598,7 +1826,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/04bb3999054d0305fcd0a8f8e5a65462.jpg",
@@ -1617,7 +1845,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/ca4d1c6a7b10e4e295c4903066308cf8.jpg",
@@ -1636,7 +1864,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/15df3076b68200441d4d8b94fb13a3dd.jpg",
@@ -1655,7 +1883,7 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/43b3d333d02cbb8ab4ba0c0e79d816d7.jpg",
@@ -1674,239 +1902,11 @@ window.PAGE_DATA = [
       "素人企画",
       "高端素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "蚊香社",
     "publish_date": "",
     "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/36b85868c8526c8963db8cbf75766cd0.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0473"
-  },
-  {
-    "id": 553281,
-    "IDcode": "259LUXU-0474",
-    "title": "豪华电视463",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/65e80f1d52f768f1242db778aa37d4fd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0474"
-  },
-  {
-    "id": 552769,
-    "IDcode": "259LUXU-0475",
-    "title": "豪华电视465",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/e750e4b46e4abb7e947443d2bfd9bf05.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0475"
-  },
-  {
-    "id": 552770,
-    "IDcode": "259LUXU-0476",
-    "title": "豪华电视469",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/6516b831167c249b1471a6d4fbe83935.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0476"
-  },
-  {
-    "id": 553282,
-    "IDcode": "259LUXU-0477",
-    "title": "豪华电视470",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/323e198792c2185d6f02de269aad4eda.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0477"
-  },
-  {
-    "id": 552771,
-    "IDcode": "259LUXU-0478",
-    "title": "豪华电视461",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/e84406ddf2474743c9ad7a570d4765ea.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0478"
-  },
-  {
-    "id": 552772,
-    "IDcode": "259LUXU-0479",
-    "title": "豪华电视467",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/402988fd4c5d16b8803b8f2136173dbd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0479"
-  },
-  {
-    "id": 537449,
-    "IDcode": "259LUXU-0480",
-    "title": "ラグジュTV 468",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20231017/pb_e_259luxu-480.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0480"
-  },
-  {
-    "id": 552780,
-    "IDcode": "259LUXU-0481",
-    "title": "豪华电视471",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/2034db3c31631af1cd358009075b7226.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0481"
-  },
-  {
-    "id": 553283,
-    "IDcode": "259LUXU-0482",
-    "title": "豪华电视472",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/c53f4ec3504d00a2640e28e1f2dbf81d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0482"
-  },
-  {
-    "id": 552781,
-    "IDcode": "259LUXU-0483",
-    "title": "豪华电视473",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/c60d3bc7f3128c28afc9a9a04c21fbb3.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0483"
-  },
-  {
-    "id": 553284,
-    "IDcode": "259LUXU-0484",
-    "title": "豪华电视474",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250818-1/3c4cf80f594a982b810b028ab9922055.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0484"
-  },
-  {
-    "id": 553285,
-    "IDcode": "259LUXU-0485",
-    "title": "豪华电视537",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "素人企画",
-      "高端素人"
-    ],
-    "type": "",
-    "company": "蚊香社",
-    "publish_date": "",
-    "cover_url": "https://img1.souavzy.org/upload/vod/20250727-1/19c0dfa94e99c84761e698a2eb749b39.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=259LUXU-0485"
   }
 ];

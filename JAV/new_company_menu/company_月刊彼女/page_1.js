@@ -16,7 +16,7 @@ window.PAGE_DATA = [
       "投稿",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20240609/1kano001pl.jpg!320x216.jpg",
@@ -43,7 +43,7 @@ window.PAGE_DATA = [
       "精选，综合",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/e63e8eea123421e6c93b53ec05a43592.jpg",
@@ -60,7 +60,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "http://p.155250718p.com/upload/vod/20240522/1kano003pl.jpg!320x216.jpg",
@@ -80,7 +80,7 @@ window.PAGE_DATA = [
       "第一人称摄影",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240309-1/b29dda4be8faf94d5d0c20f53546a83e.jpg",
@@ -101,7 +101,7 @@ window.PAGE_DATA = [
       "巨乳",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240309-1/c752a0a53fda91cefec017c28aa6255f.jpg",
@@ -124,7 +124,7 @@ window.PAGE_DATA = [
       "第一人称摄影",
       "浴衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/c0328aad60d1af4aafd610b7f99b0ac6.jpg",
@@ -141,7 +141,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230921/L83rF1TZ/1.jpg",
@@ -156,7 +156,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231026/5Sn68us1/1.jpg",
@@ -177,7 +177,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/93cccb210d7c5c4392997b19d91376f8.jpg",
@@ -207,7 +207,7 @@ window.PAGE_DATA = [
       "劇情",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/f27c4ef017baa58de5d265a0d65e009b.jpg",
@@ -230,7 +230,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/9b1f5cc5c9c1fe5a34d47e6cbaae735b.jpg",
@@ -249,7 +249,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231124/tnxbBMCP/1.jpg",
@@ -270,7 +270,7 @@ window.PAGE_DATA = [
       "巨乳",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/d5d8b8a99a0afe807c3a173e09fe97e1.jpg",
@@ -297,7 +297,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240307-1/e364cf9f7341be16724691e2c018e638.jpg",
@@ -316,7 +316,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231223/bpWpbEd2/1.jpg",
@@ -331,7 +331,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/hBAY0Ab9/1.jpg",
@@ -346,7 +346,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/Jp5AeXJI/1.jpg",
@@ -363,7 +363,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/nSiy10M3/1.jpg",
@@ -380,7 +380,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240127/XfGAHssX/1.jpg",
@@ -395,7 +395,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240224/czAkVVoz/1.jpg",
@@ -430,7 +430,7 @@ window.PAGE_DATA = [
       "無毛",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-02-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240222/18b55990-072d-4669-bfaa-6c424cced9fd.jpg",
@@ -472,7 +472,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-02-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240222/af30ae85-cf9e-49f0-9f0c-f399672373fe.jpg",
@@ -491,7 +491,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240224/H14vMV0w/1.jpg",
@@ -530,7 +530,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-02-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240222/55c1e787-ee6c-47c8-9108-faffea7f8b63.jpg",
@@ -547,7 +547,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240323/18KivDS2/1.jpg",
@@ -564,7 +564,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240323/ZYzYUhna/1.jpg",
@@ -579,7 +579,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240323/oQzk7dN3/1.jpg",
@@ -594,7 +594,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240323/VtYaHeOL/1.jpg",
@@ -619,7 +619,7 @@ window.PAGE_DATA = [
       "巨乳",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251111-1/1c063f338ff4bad4f8d423e54a163ede.jpg",
@@ -648,7 +648,7 @@ window.PAGE_DATA = [
       "口交",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240729-1/bc3fe78f433289722f9b5cfa675421f8.jpg",
@@ -670,7 +670,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-04-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240425/ed0ab7e0-dab3-45b4-b454-c90e25582396.jpg",
@@ -693,7 +693,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "素人作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-04-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240425/fc449047-91d5-407f-a51a-67d702daa2fe.jpg",
@@ -725,7 +725,7 @@ window.PAGE_DATA = [
       "黑絲",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240522/202405222251183737.jpg",
@@ -753,7 +753,7 @@ window.PAGE_DATA = [
       "劇情",
       "少女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522232732899899.jpg",
@@ -785,7 +785,7 @@ window.PAGE_DATA = [
       "劇情",
       "辣妹/GAL系"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240523/20240523020304684684.jpg",
@@ -815,7 +815,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-05-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240522/20240522225844160160.jpg",
@@ -848,7 +848,7 @@ window.PAGE_DATA = [
       "口交",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-06-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620012946214214.jpg",
@@ -881,7 +881,7 @@ window.PAGE_DATA = [
       "劇情",
       "辣妹/GAL系"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-06-01",
     "cover_url": "https://picture.yoshiclub.xyz/20240620/20240620014336992992.jpg",
@@ -901,7 +901,7 @@ window.PAGE_DATA = [
       "素人",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/EwPNtlJO/1.jpg",
@@ -918,7 +918,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240621/cOCvKl6o/1.jpg",
@@ -952,7 +952,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-07-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240725/c1a914b2-8b99-43c1-8665-586e48fba382.jpg",
@@ -969,7 +969,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240727/fpPOB35N/1.jpg",
@@ -998,7 +998,7 @@ window.PAGE_DATA = [
       "苗條",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-07-25",
     "cover_url": "https://picture.yoshiclub.xyz/20240725/27043a3a-83ce-4dbf-b90a-fa832e883cba.jpg",
@@ -1037,7 +1037,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "2024-08-22",
     "cover_url": "https://picture.yoshiclub.xyz/20240822/8abcd14d-be2b-4ef2-8938-88bda45d0d2d.jpg",
@@ -1074,7 +1074,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250114-1/3db462d724c0e0c780cd46ab7d2a4c7b.jpg",
@@ -1097,7 +1097,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250114-1/bb36e3c9c61a4dc1b2a9c1cc8ce82d34.jpg",
@@ -1114,7 +1114,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/bff46ea19ce78f2ba7251491a7c1df60.jpg",
@@ -1132,7 +1132,7 @@ window.PAGE_DATA = [
       "素人",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251104-1/cd11e99601a6044ba26ab89e21d8d640.jpg",
@@ -1149,7 +1149,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251109-1/dde188ae297c03c8cd89a1c4f7f95d42.jpg",
@@ -1171,7 +1171,7 @@ window.PAGE_DATA = [
       "女生",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/08/4f6e7faa1174085286871451c06596df.jpg",
@@ -1190,7 +1190,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241130/rO8oREn8/1.jpg",
@@ -1207,7 +1207,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241130/uLFmIyET/1.jpg",
@@ -1224,7 +1224,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241130/8S0nbmtv/1.jpg",
@@ -1239,7 +1239,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/bde44191/vod.jpg",
@@ -1257,7 +1257,7 @@ window.PAGE_DATA = [
       "嫩妹",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/79e16c38c08f9e54333e76fb2fee142f.jpg",
@@ -1272,7 +1272,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/d8eff1bb2c260421a3c5d2e755f3459d.jpg",
@@ -1289,7 +1289,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251004-1/c0d10fff9d941ea53f85c593b23465ec.jpg",
@@ -1304,7 +1304,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/a165e54e480ee2ada9d3e6dd6eb5a680.jpg",
@@ -1319,7 +1319,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/9947ea86b08524bfb8f586f8250b48b5.jpg",
@@ -1334,7 +1334,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/9f9c854f03694e28063763163ecc1f15.jpg",
@@ -1349,7 +1349,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250910-1/2ab19c7a03200627ca6295ca993355c7.jpg",
@@ -1366,7 +1366,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/ef8472beacd85cf80dcbfd46918091cb.jpg",
@@ -1381,7 +1381,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/5b5e690d1876846b296850f4f884fe76.jpg",
@@ -1396,7 +1396,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "月刊彼女",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250822-1/60e6fd9306c269a49ee8163731d3e982.jpg",

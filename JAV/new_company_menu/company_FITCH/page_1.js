@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/30/31958_cover_2025-09-30_124636.jpg",
@@ -24,7 +24,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/01/64075_cover_2025-10-01_025115.jpg",
@@ -41,7 +41,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/02/19407_cover_2025-10-02_025512.jpg",
@@ -56,7 +56,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/02/46394_cover_2025-10-02_025512.jpg",
@@ -109,7 +109,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/25/68aca5c65f03a092cf744f45/cover.jpg",
@@ -172,7 +172,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250731/20250731101430272272_71848_thumbnail.webp",
@@ -198,7 +198,7 @@ window.PAGE_DATA = [
       "少妇",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250724/zPq9hKfj/1.jpg",
@@ -263,7 +263,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250612/20250612055919656656_thumbnail.webp",
@@ -271,6 +271,24 @@ window.PAGE_DATA = [
       "北島愛菜"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DEAB-004"
+  },
+  {
+    "id": 174759,
+    "IDcode": "DEAB-005",
+    "title": "解禁！隠れ巨乳で噂になった元芸能人 紗弥佳 36歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "少妇",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=DEAB-005"
   },
   {
     "id": 17466,
@@ -293,7 +311,7 @@ window.PAGE_DATA = [
       "口交",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2023-12-06",
     "cover_url": "https://picture.yoshiclub.xyz/20231202/40a15201-8bf6-409a-9ff2-2987b3904b38.jpg",
@@ -320,7 +338,7 @@ window.PAGE_DATA = [
       "劇情",
       "職員"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231203/61a14c59-727b-4fe3-bede-f078c4a5a0a7.jpg",
@@ -352,7 +370,7 @@ window.PAGE_DATA = [
       "美臀",
       "小姨子"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-01-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060127824824.jpg",
@@ -391,7 +409,7 @@ window.PAGE_DATA = [
       "劇情",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787c743f9a2e9b1d4a52fb9/cover.jpg",
@@ -418,7 +436,7 @@ window.PAGE_DATA = [
       "口交",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240113/20240113063948646646.jpg",
@@ -447,7 +465,7 @@ window.PAGE_DATA = [
       "口交",
       "酒醉"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240113/2024011306422755.jpg",
@@ -482,7 +500,7 @@ window.PAGE_DATA = [
       "SM",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20231202/428a6697-76ee-4107-9089-e7401aa27b5e.jpg",
@@ -513,7 +531,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "美臀"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-01-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060705959959.jpg",
@@ -539,7 +557,7 @@ window.PAGE_DATA = [
       "巨乳",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060310943943.jpg",
@@ -572,7 +590,7 @@ window.PAGE_DATA = [
       "絕頂高潮",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-02-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205102100132132.jpg",
@@ -609,7 +627,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-02-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218065157350350.jpg",
@@ -639,7 +657,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240102/20240102060352471471.jpg",
@@ -665,7 +683,7 @@ window.PAGE_DATA = [
       "口交",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-02-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205102026946946.jpg",
@@ -695,7 +713,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-02-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205101958768768.jpg",
@@ -732,7 +750,7 @@ window.PAGE_DATA = [
       "劇情",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/09/67cc75d94e7d663df4db8525/cover.jpg",
@@ -768,7 +786,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-02-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240205/20240205101853747747.jpg",
@@ -807,7 +825,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-02-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218065817477477.jpg",
@@ -851,7 +869,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-03-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302041545353353.jpg",
@@ -891,7 +909,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-02-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240218/20240218065730429429.jpg",
@@ -935,7 +953,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240327-1/f3cb7399c283f8568597d9dbfac48833.jpg",
@@ -982,7 +1000,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302041756192192.jpg",
@@ -1025,7 +1043,7 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302041848403403.jpg",
@@ -1071,7 +1089,7 @@ window.PAGE_DATA = [
       "黑絲",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-03-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302042004403403.jpg",
@@ -1118,7 +1136,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-03-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302042059568568.jpg",
@@ -1126,6 +1144,46 @@ window.PAGE_DATA = [
       "北野未奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-026"
+  },
+  {
+    "id": 546032,
+    "IDcode": "FPRE-027",
+    "title": "Fitch専属第2弾でマゾ覚醒！美ボディお天気お姊さんのジョバジョバ失禁イキ狂い3本番",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-027"
+  },
+  {
+    "id": 105413,
+    "IDcode": "FPRE-028",
+    "title": "玩弄朋友爸爸的乳头-桃园怜奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "戏剧",
+      "乱伦",
+      "中出",
+      "巨乳",
+      "口交",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-028"
   },
   {
     "id": 14655,
@@ -1166,7 +1224,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "公共場所"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a14b2ac813dc779d95fe7/cover.jpg",
@@ -1211,7 +1269,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-03-05",
     "cover_url": "https://picture.yoshiclub.xyz/20240302/20240302042201535535.jpg",
@@ -1219,6 +1277,21 @@ window.PAGE_DATA = [
       "天月梓"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-030"
+  },
+  {
+    "id": 518030,
+    "IDcode": "FPRE-032",
+    "title": "黑髪長髮與漂亮臉蛋的她是放學後想",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-032"
   },
   {
     "id": 15402,
@@ -1261,7 +1334,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414071148134134.jpg",
@@ -1309,7 +1382,7 @@ window.PAGE_DATA = [
       "調教",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331024428445445.jpg",
@@ -1361,7 +1434,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331023924802802.jpg",
@@ -1406,7 +1479,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331023821207207.jpg",
@@ -1447,7 +1520,7 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331024031672672.jpg",
@@ -1488,7 +1561,7 @@ window.PAGE_DATA = [
       "手指插入",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240331/20240331023659401401.jpg",
@@ -1522,7 +1595,7 @@ window.PAGE_DATA = [
       "口交",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503083627152152.jpg",
@@ -1573,7 +1646,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-04-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414061805329329.jpg",
@@ -1622,7 +1695,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/17/678a1f76ac813dc779d96069/cover.jpg",
@@ -1630,6 +1703,57 @@ window.PAGE_DATA = [
       "瀬田一花"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-041"
+  },
+  {
+    "id": 14625,
+    "IDcode": "FPRE-042",
+    "title": "一个我爱了很久的大胸女朋友-桃园怜奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女友・妻子",
+      "巨尻",
+      "飯店",
+      "苗條",
+      "美少女",
+      "美腳",
+      "OL",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "亂交 • 群P",
+      "巨乳",
+      "性感",
+      "口交",
+      "潮吹",
+      "大乳暈",
+      "淫亂",
+      "內衣",
+      "中出",
+      "後入",
+      "美腿",
+      "短裙・迷你裙",
+      "少女",
+      "美臀",
+      "劇情",
+      "絕頂高潮",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "無毛",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-042"
   },
   {
     "id": 15020,
@@ -1652,7 +1776,7 @@ window.PAGE_DATA = [
       "劇情",
       "小姨子"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503231859992992.jpg",
@@ -1698,7 +1822,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250611-1/f50ca5c2357c7a0aedd37afbf9bbc198.jpg",
@@ -1747,7 +1871,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a1f54ac813dc779d96066/cover.jpg",
@@ -1792,7 +1916,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-04-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414071050715715.jpg",
@@ -1842,7 +1966,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240414/20240414061945995995.jpg",
@@ -1879,7 +2003,7 @@ window.PAGE_DATA = [
       "抹油",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240504/202405032322286363.jpg",
@@ -1917,7 +2041,7 @@ window.PAGE_DATA = [
       "劇情",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/01/68dcbf5cce5a404e9bc367e7/cover.jpg",
@@ -1962,7 +2086,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-05-07",
     "cover_url": "https://picture.yoshiclub.xyz/20240503/20240503023418212212.jpg",
@@ -2006,7 +2130,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a095504e7d663df4515fd4/cover.jpg",
@@ -2056,7 +2180,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a1673ac813dc779d95ff5/cover.jpg",
@@ -2102,7 +2226,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240517/20240517035317583583.jpg",
@@ -2148,7 +2272,7 @@ window.PAGE_DATA = [
       "劇情",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531021700387387.jpg",
@@ -2183,7 +2307,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "不倫"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a07480846149d7bc4f4531/cover.jpg",
@@ -2241,7 +2365,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a09ace4e7d663df4516027/cover.jpg",
@@ -2283,7 +2407,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-06-18",
     "cover_url": "https://picture.yoshiclub.xyz/20240614/20240614013852836836.jpg",
@@ -2326,7 +2450,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/27/67e4ce8ccf22ae3e0482a026/cover.jpg",
@@ -2371,7 +2495,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0e2fac813dc779d95fa1/cover.jpg",
@@ -2417,7 +2541,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/18/678a0d96ac813dc779d95f9c/cover.jpg",
@@ -2464,7 +2588,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "小姨子"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240614/202406140153305050.jpg",
@@ -2502,7 +2626,7 @@ window.PAGE_DATA = [
       "美少女電影",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240531/20240531035516212212.jpg",
@@ -2535,7 +2659,7 @@ window.PAGE_DATA = [
       "劇情",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202502/03/67a06a98cf22ae3e04a0176a/cover.jpg",
@@ -2553,7 +2677,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240630/F0M6B0Aq/1.jpg",
@@ -2596,7 +2720,7 @@ window.PAGE_DATA = [
       "乳交",
       "丁字裤"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202506/30/6861b7b543d6972716733ad3/cover.jpg",
@@ -2650,7 +2774,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-07-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628003105670670.jpg",
@@ -2669,7 +2793,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628004515354354.jpg",
@@ -2712,7 +2836,7 @@ window.PAGE_DATA = [
       "69",
       "劇情"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240628/20240628002016170170.jpg",
@@ -2730,7 +2854,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250518-1/047d6a8e1bb193b58d935dd723ccd777.jpg",
@@ -2770,7 +2894,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712011302129129.jpg",
@@ -2808,7 +2932,7 @@ window.PAGE_DATA = [
       "劇情",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712005756436436.jpg",
@@ -2846,7 +2970,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/13/68c567e5d6fbef4e90a97257/cover.jpg",
@@ -2894,7 +3018,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712003627635635.jpg",
@@ -2946,7 +3070,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712020835385385.jpg",
@@ -2996,7 +3120,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-07-16",
     "cover_url": "https://picture.yoshiclub.xyz/20240712/20240712022214886886.jpg",
@@ -3040,7 +3164,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815233432967967.jpg",
@@ -3078,7 +3202,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/23/68d1a648e4a73d4f159aa8fa/cover.jpg",
@@ -3118,7 +3242,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240822-1/1220f3ebc22ec401ff33b2f19e1b31e5.jpg",
@@ -3166,7 +3290,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202504/07/67f37cd14e7d663df49382f2/cover.jpg",
@@ -3212,7 +3336,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240816/20240816002519418418.jpg",
@@ -3220,6 +3344,30 @@ window.PAGE_DATA = [
       "南條彩"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-082"
+  },
+  {
+    "id": 95847,
+    "IDcode": "FPRE-083",
+    "title": "学园祭里的模拟店-桃园怜奈",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中出",
+      "口交",
+      "学校作品",
+      "巨乳",
+      "兔女郎",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "桃園怜奈"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-083"
   },
   {
     "id": 12971,
@@ -3251,7 +3399,7 @@ window.PAGE_DATA = [
       "黑絲",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-08-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802002416291291.jpg",
@@ -3303,7 +3451,7 @@ window.PAGE_DATA = [
       "女上位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802022310944944.jpg",
@@ -3349,7 +3497,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-08-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240802/20240802001209504504.jpg",
@@ -3386,7 +3534,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815232659973973.jpg",
@@ -3430,7 +3578,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240816/202408160026072525.jpg",
@@ -3481,7 +3629,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-09-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829235008396396.jpg",
@@ -3524,7 +3672,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912110457141141.jpg",
@@ -3586,7 +3734,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-09-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829232827525525.jpg",
@@ -3621,7 +3769,7 @@ window.PAGE_DATA = [
       "劇情",
       "抹油"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830014556475475.jpg",
@@ -3670,7 +3818,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20240829/20240829230012907907.jpg",
@@ -3723,7 +3871,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240815/20240815230037344344.jpg",
@@ -3761,7 +3909,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-09-03",
     "cover_url": "https://picture.yoshiclub.xyz/20240830/20240830002103627627.jpg",
@@ -3817,7 +3965,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2024-09-17",
     "cover_url": "https://picture.yoshiclub.xyz/20240913/20240913011548695695.jpg",
@@ -3825,227 +3973,5 @@ window.PAGE_DATA = [
       "南條彩"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-096"
-  },
-  {
-    "id": 9027,
-    "IDcode": "FPRE-097",
-    "title": "与穿着制服的漂亮女孩舔性-宇佐见凛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "艷遇",
-      "女學生",
-      "巨尻",
-      "純粹的慾望",
-      "美少女",
-      "癡女",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "NTR",
-      "校花",
-      "蠻橫嬌羞",
-      "出軌",
-      "中出",
-      "美人",
-      "後入",
-      "少女",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "清純",
-      "美少女電影",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/20250116/20250116074805740740.jpg",
-    "actress": [
-      "卯佐美鈴"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-097"
-  },
-  {
-    "id": 11989,
-    "IDcode": "FPRE-098",
-    "title": "把精子都身到她裏面！！長身巨乳賽車女郎完全着衣 ~ 佐野由真",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "靴子",
-      "完全着衣",
-      "苗條",
-      "辣妹/GAL系",
-      "感官作品",
-      "美少女",
-      "美腳",
-      "癡女",
-      "主觀視角",
-      "緊身衣",
-      "賽車女郎",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "中出",
-      "後入",
-      "企畫",
-      "美腿",
-      "女優",
-      "脚控・戀足癖",
-      "美少女電影",
-      "高妹",
-      "高跟鞋",
-      "舔腳",
-      "足交",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2024-09-17",
-    "cover_url": "https://picture.yoshiclub.xyz/20240912/20240912105208791791.jpg",
-    "actress": [
-      "佐野由真"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-098"
-  },
-  {
-    "id": 11627,
-    "IDcode": "FPRE-099",
-    "title": "对女友爆乳母亲中出的第三天-安齐爱结",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "羞恥",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "人妻",
-      "NTR",
-      "出軌",
-      "中出",
-      "後入",
-      "劇情",
-      "不倫",
-      "絕頂高潮",
-      "乱伦",
-      "乳交",
-      "女上位",
-      "騎乗位",
-      "岳母"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/b19a3d7aa1bb0d94b798ebe0b6d9c318.jpg",
-    "actress": [
-      "安斉愛結"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-099"
-  },
-  {
-    "id": 176473,
-    "IDcode": "FPRE-100",
-    "title": "巨乳セレブ痴女に見つめられて犯●れたい 新村あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/32b2a139185a968c9257cf1d035c8e96.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-100"
-  },
-  {
-    "id": 11660,
-    "IDcode": "FPRE-101",
-    "title": "こんな巨乳に埋もれたい 日常の妄想を叶えるHcup堪能パイズリSEX 菊乃らん",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "肉絲",
-      "OL",
-      "主觀視角",
-      "胸控・戀乳癖",
-      "美乳",
-      "家庭教師",
-      "蕩婦",
-      "巨乳",
-      "故事集",
-      "性感",
-      "劇情"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251108-1/31d92b6be9623effa2fe06a532fffc55.jpg",
-    "actress": [
-      "菊乃らん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-101"
-  },
-  {
-    "id": 11635,
-    "IDcode": "FPRE-102",
-    "title": "豪爽露出阴毛的密着诱惑-一色沙罗",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "泳裝",
-      "艷遇",
-      "女學生",
-      "巨尻",
-      "豐滿",
-      "癡女",
-      "JK校服",
-      "勾引・誘惑",
-      "胸控・戀乳癖",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "鬃毛",
-      "短髮",
-      "淫亂",
-      "猥褻穿著",
-      "中出",
-      "後入",
-      "劇情",
-      "校園生活",
-      "乳交",
-      "女上位",
-      "學校",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251105-1/0892a52d1021ef5d88aff19a5e8017d3.jpg",
-    "actress": [
-      "一色さら",
-      "ニック",
-      "岩下たろう"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FPRE-102"
   }
 ];

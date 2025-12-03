@@ -13,7 +13,7 @@ window.PAGE_DATA = [
       "纪录片",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "なまなま",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/5c6bb73c410aee0f83680cb8cdb1e04d.jpg",
@@ -28,7 +28,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "なまなま",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20241105/hQZnDmZF/1.jpg?t=1730854134",
@@ -50,7 +50,7 @@ window.PAGE_DATA = [
       "素人作品",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "なまなま",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241011-1/75787b67215542e55fdd95b05f853260.jpg",
@@ -137,7 +137,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "なまなま",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/10/ef80128c/vod.jpg",

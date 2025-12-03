@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/5e9dc28b5497a67285978ff2e1f4c353.jpg",
@@ -24,7 +24,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202505/07/681b25b5c57e2706697fbf70/cover.jpg",
@@ -41,7 +41,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240324/pb_e_529stcv-004.jpg!320x216.jpg",
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
       "人妻",
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221025-1/d262e94257dba909036b396083ef4b0d.jpg",
@@ -76,12 +76,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220903-7/cc865925ee78ab32f6dd3f5bd06002e9.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-009"
+  },
+  {
+    "id": 519791,
+    "IDcode": "529STCV-012",
+    "title": "【纯真No.1】长得像少女~内容超凡枪男的Roribitchi J系列！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-012"
   },
   {
     "id": 538368,
@@ -93,7 +110,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240329/pb_e_529stcv-016.jpg!320x216.jpg",
@@ -110,7 +127,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240329/pb_e_529stcv-017.jpg!320x216.jpg",
@@ -127,7 +144,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/9889c072dc323243d33711cdbb89e344.jpg",
@@ -145,7 +162,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240318/pb_e_529stcv-038.jpg!320x216.jpg",
@@ -162,7 +179,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://155.sl155cf.com/upload/vod/20240225/STCV047.jpg!320x216.jpg",
@@ -179,7 +196,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/a2857a187931593547f53d0f563546ee.jpg",
@@ -196,7 +213,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/f339adf00f276f392d795304b1f0994c.jpg",
@@ -213,7 +230,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/de903bba8175d78c9bdb7d9541dfb9f4.jpg",
@@ -230,7 +247,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/f1aef8b3e8507d600393fbc246e24e29.jpg",
@@ -247,7 +264,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/991e5a55fafb3d8e34610682531b3b09.jpg",
@@ -265,7 +282,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/e2adf261e97ffb86794a89ddd4ea4abb.jpg",
@@ -282,7 +299,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240130/pb_e_529stcv-081.jpg!320x216.jpg",
@@ -299,7 +316,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240123/pb_e_529stcv-091.jpg!320x216.jpg",
@@ -316,7 +333,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240117/pb_e_529stcv-104.jpg!320x216.jpg",
@@ -333,7 +350,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240109/pb_e_529stcv-114.jpg!320x216.jpg",
@@ -350,7 +367,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231203/STCV139.jpg!320x216.jpg",
@@ -367,7 +384,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/4qDIe95x/1.jpg",
@@ -384,7 +401,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231125/STCV144.jpg!320x216.jpg",
@@ -401,7 +418,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/K6hCzb9t/1.jpg",
@@ -418,7 +435,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231022/STCV176.jpg!320x216.jpg",
@@ -435,7 +452,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230714/STCV190.jpg!320x216.jpg",
@@ -452,7 +469,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221203/6PSHcLai/1.jpg",
@@ -469,7 +486,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221203/jRzLKlhI/1.jpg",
@@ -486,7 +503,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230812/pb_e_529stcv-195.jpg!320x216.jpg",
@@ -503,7 +520,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221228/74KFAdnV/1.jpg",
@@ -520,7 +537,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221228/sCmtm26K/1.jpg",
@@ -537,7 +554,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221203/nMMeT6iS/1.jpg",
@@ -554,7 +571,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221203/pzvu8adg/1.jpg",
@@ -571,7 +588,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221210/cPZauj1I/1.jpg",
@@ -589,7 +606,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230717/STCV204.jpg!320x216.jpg",
@@ -606,7 +623,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230119/RWd7Q6w6/1.jpg",
@@ -623,7 +640,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230120/ed2Woh1E/1.jpg",
@@ -640,7 +657,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230120/EArgo9iE/1.jpg",
@@ -657,7 +674,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230120/fkH2CvbD/1.jpg",
@@ -674,7 +691,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230120/c63cw9k2/1.jpg",
@@ -691,7 +708,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230120/JvTvwZg8/1.jpg",
@@ -708,7 +725,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230608/STCV218.jpg!320x216.jpg",
@@ -725,12 +742,30 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230530/pb_e_529stcv-219.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-219"
+  },
+  {
+    "id": 532815,
+    "IDcode": "529STCV-221",
+    "title": "[] 【豊润美尻×小悪魔妻】イケメン诱うエロカワ妻の最强ボディ！！美味しそうに根本までチ○ポを",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "无码"
+    ],
+    "type": "无码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-221"
   },
   {
     "id": 576500,
@@ -743,7 +778,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230108/HhVfZJrf/1.jpg",
@@ -761,7 +796,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_529stcv-223.jpg!320x216.jpg",
@@ -779,7 +814,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231212/STCV224.jpg!320x216.jpg",
@@ -814,7 +849,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_529stcv-226.jpg!320x216.jpg",
@@ -832,7 +867,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231211/STCV227.jpg!320x216.jpg",
@@ -850,7 +885,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_529stcv-228.jpg!320x216.jpg",
@@ -868,7 +903,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231016/pb_e_529stcv-230.jpg!320x216.jpg",
@@ -886,7 +921,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231015/pb_e_529stcv-232.jpg!320x216.jpg",
@@ -903,7 +938,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230918/STCV233.jpg!320x216.jpg",
@@ -920,7 +955,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231015/pb_e_529stcv-234.jpg!320x216.jpg",
@@ -939,7 +974,7 @@ window.PAGE_DATA = [
       "淫妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231015/pb_e_529stcv-236.jpg!320x216.jpg",
@@ -956,12 +991,117 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20230826/STCV240.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-240"
+  },
+  {
+    "id": 532863,
+    "IDcode": "529STCV-252",
+    "title": "【超乳Jカップ！人気No.1昼キャバ嬢】昼の女王の枕セックスが本気でエロい！！ガッツリ开いた胸元",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-252"
+  },
+  {
+    "id": 533226,
+    "IDcode": "529STCV-257",
+    "title": "ハリすご豊润G乳×ムチムチ肉欲BODYがそそる！デカチン大好き関西GIRLが登场！！极太ディルドをぶっ挿し絶顶潮",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-257"
+  },
+  {
+    "id": 533225,
+    "IDcode": "529STCV-261",
+    "title": "【 ローションの魔术师 の异名を持つ人気No.1泡姫が全部ヌク！】汁も滴るイイ女！オイルでヌルテカパイズリ×お风吕で",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-261"
+  },
+  {
+    "id": 533224,
+    "IDcode": "529STCV-263",
+    "title": "【盗撮】お互いに彼氏・彼女がいるのにも関わらずこっそり密会SEXをしちゃう様子を盗撮。同じ大学のサークル仲间だ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-263"
+  },
+  {
+    "id": 533223,
+    "IDcode": "529STCV-269",
+    "title": "【ドエロ过ぎ&ドイキ过ぎの美スレンダー巨乳美女】泥○で全身くまなく性感体に！？雌堕ちしたシーシャバー店员に",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-269"
+  },
+  {
+    "id": 533222,
+    "IDcode": "529STCV-271",
+    "title": "絶対服●のチンぐり骑乘位にM男覚醒…！？羞耻心をゴリッゴリッに责め立てるアナル舐め手コキ、极上G乳パイズリ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "素人CLOVER",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-271"
   },
   {
     "id": 543519,
@@ -973,7 +1113,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/o9YvscPV/1.jpg",
@@ -990,7 +1130,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20231005/pb_e_529stcv-276.jpg!320x216.jpg",
@@ -1007,7 +1147,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/5Ze7fBna/1.jpg",
@@ -1024,7 +1164,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/3KuxNovn/1.jpg",
@@ -1042,7 +1182,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/RbnQWEvZ/1.jpg",
@@ -1060,7 +1200,7 @@ window.PAGE_DATA = [
       "人妻",
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/XQ538QfD/1.jpg",
@@ -1077,7 +1217,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/yWcBCuh4/1.jpg",
@@ -1094,7 +1234,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250418/ScqKrbwx/1.jpg",
@@ -1111,7 +1251,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/SqeKWsI5/1.jpg",
@@ -1128,7 +1268,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/8cgPzBEf/1.jpg",
@@ -1145,7 +1285,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/8ncVx6Zx/1.jpg",
@@ -1162,7 +1302,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/ZgbuBPRe/1.jpg",
@@ -1179,7 +1319,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/LeEZLvDQ/1.jpg",
@@ -1196,7 +1336,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/86xDKV8s/1.jpg",
@@ -1214,7 +1354,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/FGgsUemq/1.jpg",
@@ -1231,7 +1371,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/HeFzyGhv/1.jpg",
@@ -1248,7 +1388,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/XPANdmv2/1.jpg",
@@ -1265,7 +1405,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250419/ifOVA0QL/1.jpg",
@@ -1282,7 +1422,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/KFAtf15Y/1.jpg",
@@ -1299,7 +1439,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/uuMF54NM/1.jpg",
@@ -1318,7 +1458,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/ePDHT5k4/1.jpg",
@@ -1335,7 +1475,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/KuPCEDYA/1.jpg",
@@ -1353,7 +1493,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/95VT6xSO/1.jpg",
@@ -1370,7 +1510,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/tQQvjjw5/1.jpg",
@@ -1387,7 +1527,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/EOeXtX6s/1.jpg",
@@ -1404,7 +1544,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/UF3W41wX/1.jpg",
@@ -1421,7 +1561,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250420/q0D96kgF/1.jpg",
@@ -1438,7 +1578,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/5b1a75ab3c907ebc9a7848584b53fb3e.jpg",
@@ -1455,7 +1595,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250421/y1xLQJS4/1.jpg",
@@ -1472,7 +1612,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250421/B3UUAXqw/1.jpg",
@@ -1490,7 +1630,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250421/U2DIMFrm/1.jpg",
@@ -1508,7 +1648,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250421/bMfoo23F/1.jpg",
@@ -1525,7 +1665,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250421/haSpJFH5/1.jpg",
@@ -1542,7 +1682,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250421/yBq3jQHP/1.jpg",
@@ -1559,7 +1699,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250421/yhvZb9Cb/1.jpg",
@@ -1576,150 +1716,11 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "素人CLOVER",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250503-1/8107b5b9545c264b97adfdcf52828df9.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-317"
-  },
-  {
-    "id": 543543,
-    "IDcode": "529STCV-318",
-    "title": "中出しOK、ガチ恋NG！正统派美少女のツラしてNTR趣味の小悪魔系强欲コンカフェ嬢が纯情",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "淫妻"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250421/B9fVdREq/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-318"
-  },
-  {
-    "id": 543542,
-    "IDcode": "529STCV-319",
-    "title": "脳トロ必至！极上の甘エロボイスで淫语责め！声优の卵ちゃんにはセックスも演技の幅を広げる人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250421/QZMUPbDp/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-319"
-  },
-  {
-    "id": 576898,
-    "IDcode": "529STCV-320",
-    "title": "【美乳×美尻×美脚の最强三冠ボディ女子大生と円光性交】ありえないくらいの神スペックボディ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/I7zEt4ci/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-320"
-  },
-  {
-    "id": 576899,
-    "IDcode": "529STCV-321",
-    "title": "【爱くるしさ満点！！美くびれ猥尻看护JDと円光性交】思わず抱きしめたくなる淫BODYな看",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/Pp3tCyT2/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-321"
-  },
-  {
-    "id": 537360,
-    "IDcode": "529STCV-322",
-    "title": "【挿入絶対NG黒髪ショートPJ】ガルバ时代に関系を持っていたお客とパパ活交际でやりくりするPJに迫る！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/20230920/STCV322.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-322"
-  },
-  {
-    "id": 576900,
-    "IDcode": "529STCV-323",
-    "title": "《YSPされた女【えりか，20歳，大学生】》配送先で出会った女子大生を○したい配达员がヤ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/qHYc9Fst/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-323"
-  },
-  {
-    "id": 576902,
-    "IDcode": "529STCV-324",
-    "title": "《YSPされた女【ひまり，21歳，大学生】》相席居酒屋で出会った女子大生を眠らせて梦心地",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "嫩妹"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/DajGTT9x/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-324"
-  },
-  {
-    "id": 576903,
-    "IDcode": "529STCV-325",
-    "title": "【2度见必至の神美体×超潮吹き体质】レス気味な美人妻が旦那以外の他人棒にヨガりガチアクメ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "素人"
-    ],
-    "type": "",
-    "company": "素人CLOVER",
-    "publish_date": "",
-    "cover_url": "https://tuaskbgnekr.com/20250422/N211tYBX/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=529STCV-325"
   }
 ];

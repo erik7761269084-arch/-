@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "新日本AV女優名錄",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250803/3DnKB5Cb/1.jpg",

@@ -7,12 +7,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "ANI＋I",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240713/WTZdFfIk/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANAV-003"
+  },
+  {
+    "id": 173570,
+    "IDcode": "ANAV-004",
+    "title": "孕ませシンドローム 排卵日狙い種付け輪● 雅子りな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "ANI＋I",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=ANAV-004"
   },
   {
     "id": 5457,
@@ -71,7 +86,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ANI＋I",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250608/20250608095735851851_thumbnail.webp",
@@ -125,7 +140,7 @@ window.PAGE_DATA = [
       "白眼失神",
       "喝尿"
     ],
-    "type": "",
+    "type": "有码",
     "company": "ANI＋I",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250721/20250721053005575575_53773_thumbnail.webp",

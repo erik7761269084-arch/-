@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce240079f1ac4ec4652b83/cover.jpg",
@@ -33,7 +33,7 @@ window.PAGE_DATA = [
       "素人作品",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240125-1/f0c8e87329def3f0c2e32c47ed82e7a1.jpg",
@@ -59,7 +59,7 @@ window.PAGE_DATA = [
       "单体作品",
       "连裤袜"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "2024-06-26",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/b71d202f208bf79466dffb1b8b08dfa3.jpg",
@@ -84,7 +84,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "2024-07-07",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241017-1/805befd182eda5bb36fe491878155c93.jpg",
@@ -112,7 +112,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/20/68ce240079f1ac4ec4652b83/cover.jpg",
@@ -132,7 +132,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251031-1/507798c65a7339f70aa6f1f689a3758a.jpg",
@@ -147,7 +147,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/08/68bdb0a80069396376797f36/cover.jpg",
@@ -192,7 +192,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/05/68ba94475fdaf263a263fbab/cover.jpg",
@@ -200,6 +200,21 @@ window.PAGE_DATA = [
       "浜崎真緒"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-021"
+  },
+  {
+    "id": 175982,
+    "IDcode": "PJAM-022",
+    "title": "完堕ちマゾ生活から逃げてきた訳あり美女の末路 三岳ゆうな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-022"
   },
   {
     "id": 10380,
@@ -232,7 +247,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202509/07/68bd9b750069396376797894/cover.jpg",
@@ -240,6 +255,21 @@ window.PAGE_DATA = [
       "星乃夏月"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-023"
+  },
+  {
+    "id": 60141,
+    "IDcode": "PJAM-024",
+    "title": "訳あり介護職員 依存症オンナの切ない末路 九井スナオ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-024"
   },
   {
     "id": 408148,
@@ -252,12 +282,29 @@ window.PAGE_DATA = [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/30/68b223b5fbe7fd63de7f8c8e/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-025"
+  },
+  {
+    "id": 188016,
+    "IDcode": "PJAM-027",
+    "title": "ている巨乳自慢の兄嫁が搾乳機レクチャー動画を投稿したらファンに顔バレして巨乳をイジリたおされ中出しまでされてしまいました…羽月乃蒼",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-027"
   },
   {
     "id": 7952,
@@ -304,7 +351,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "2025-02-25",
     "cover_url": "https://picture.yoshiclub.xyz/20250225/bca2abe7-2898-48af-b0fe-e00c52111691.jpg",
@@ -368,7 +415,7 @@ window.PAGE_DATA = [
       "丁字裤",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250311/835a1200-c0d0-428d-b33e-aeb3f9e6fc3c.jpg",
@@ -376,6 +423,30 @@ window.PAGE_DATA = [
       "黑木玲奈"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-029"
+  },
+  {
+    "id": 70012,
+    "IDcode": "PJAM-030",
+    "title": "セミヌードモデルの撮影バイトで中出しされてしまった爆尻妻 藤沢麗央",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "戏剧",
+      "白天出轨",
+      "中出",
+      "素人作品",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "藤沢麗央"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-030"
   },
   {
     "id": 6974,
@@ -423,7 +494,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "2025-04-03",
     "cover_url": "https://picture.yoshiclub.xyz/20250407/2872c878-0683-4578-827b-96f18f4e2a79.jpg",
@@ -485,7 +556,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "身體換業務"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a005df9550e292a776795c/cover.jpg",
@@ -546,7 +617,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a006c905de9f92f0cf08aa/cover.jpg",
@@ -571,7 +642,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/14/689da6dfc49456085437e137/cover.jpg",
@@ -579,6 +650,28 @@ window.PAGE_DATA = [
       "星明日菜"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-034"
+  },
+  {
+    "id": 63479,
+    "IDcode": "PJAM-035",
+    "title": "憧れの秘書課に配属された明るくて可愛い新入社員は、社内肉便器志願の変態女でした。 柏木こなつ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "戏剧",
+      "乳房",
+      "中出",
+      "素人作品",
+      "巨乳",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-035"
   },
   {
     "id": 62691,
@@ -591,7 +684,7 @@ window.PAGE_DATA = [
       "NTR",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896a5098bc99dfddc39fcf/cover.jpg",
@@ -610,7 +703,7 @@ window.PAGE_DATA = [
       "淫妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/68896a6f98bc99dfddc39fd0/cover.jpg",
@@ -627,7 +720,7 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68ae7eb681bce592e9c18c19/cover.jpg",
@@ -642,11 +735,104 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "Purple Jam",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/30/6889f82a98bc99dfddcdd859/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-039"
+  },
+  {
+    "id": 61195,
+    "IDcode": "PJAM-040",
+    "title": "旦那の浮気で怒って一時帰省してきた親友の美人アネキを昔からナイショで大好きだったオレが中出しNTRするまでの話 椿りか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻"
+    ],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-040"
+  },
+  {
+    "id": 59940,
+    "IDcode": "PJAM-042",
+    "title": "快楽の「実験台」にされた美人研究員 社内肉便器 静河",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "玩具",
+      "戏剧",
+      "多P",
+      "乳房",
+      "中出",
+      "素人作品",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-042"
+  },
+  {
+    "id": 59734,
+    "IDcode": "PJAM-043",
+    "title": "同期の男を食い散らかして営業に異動した私ですが、肉便器営業を叩き込まれた結果、誰よりも優秀になりました。天馬ゆい",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "玩具",
+      "戏剧",
+      "多P",
+      "乳房",
+      "中出",
+      "素人作品"
+    ],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-043"
+  },
+  {
+    "id": 175717,
+    "IDcode": "PJAM-045",
+    "title": "優秀な人事課の私が、裏研修でまさかの社内肉便器扱い…快感に屈して自ら腰を振りマゾ開花しました。小野坂ゆいか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-045"
+  },
+  {
+    "id": 173827,
+    "IDcode": "PJAM-047",
+    "title": "地方採用された私は「研修」という名の性奉仕を徹底的に叩き込まれたのち、社用肉便器として本社デビューしました。結月りあ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "Purple Jam",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=PJAM-047"
   }
 ];

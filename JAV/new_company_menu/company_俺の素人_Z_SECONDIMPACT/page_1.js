@@ -1,5 +1,22 @@
 window.PAGE_DATA = [
   {
+    "id": 552120,
+    "IDcode": "230ORE-270",
+    "title": "俺の素人 りあ 26歳 -福里ー",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-270"
+  },
+  {
     "id": 404724,
     "IDcode": "230ORE-401",
     "title": "ヒカルちゃん",
@@ -9,7 +26,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/e6de4bb596ab05f51eea3db3f01b9d02.jpg",
@@ -26,7 +43,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/89b7e9bbff211e4621afd577d5af7e3c.jpg",
@@ -43,7 +60,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240624/1612068790-pb_e_230ore-576.jpg!320x216.jpg",
@@ -60,7 +77,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240603/1616215700-pb_e_230ore-577.jpg!320x216.jpg",
@@ -77,7 +94,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240624/1612948477-pb_e_230ore-578.jpg!320x216.jpg",
@@ -96,7 +113,7 @@ window.PAGE_DATA = [
       "素人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/1922d9b7/vod.jpg",
@@ -113,12 +130,46 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/23/047d147b/vod.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-585"
+  },
+  {
+    "id": 60581,
+    "IDcode": "230ORE-587",
+    "title": "把完美身材的短发美女带回房间用大肉棒好好玩弄这艺术般的小穴",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-587"
+  },
+  {
+    "id": 60579,
+    "IDcode": "230ORE-589",
+    "title": "骗援交学生妹口交就可以赚钱如何耍手段直接拘束SM无套插入就算不愿意也要射满子宫",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-589"
   },
   {
     "id": 406733,
@@ -130,7 +181,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fe99dad411864452ebc3d4328af6e452.jpg",
@@ -147,7 +198,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200810/230ORE-603.jpg",
@@ -164,12 +215,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200810/230ORE-604.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-604"
+  },
+  {
+    "id": 532475,
+    "IDcode": "230ORE-606",
+    "title": "さん",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-606"
   },
   {
     "id": 59661,
@@ -181,7 +249,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/42ca1d06dff9bd2e436085560962fc4e.jpg",
@@ -198,7 +266,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/70c57d330e2bdce0c8709cc08f128bbc.jpg",
@@ -215,7 +283,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200810/230ORE-615.jpg",
@@ -232,7 +300,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/13c79a38d61001cc4224cd049b71f8ee.jpg",
@@ -249,7 +317,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200715/230ORE-617.jpg",
@@ -266,7 +334,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200715/230ORE-618.jpg",
@@ -283,7 +351,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9209757916386abd5ddc1d013b627a52.jpg",
@@ -300,7 +368,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200715/230ORE-620.jpg",
@@ -317,7 +385,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6a136c5458e12a0a33be2bfd196e12a4.jpg",
@@ -334,7 +402,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/42a453d687ebeaa94ec853376b73daa0.jpg",
@@ -351,7 +419,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f22e894e0fbbf1e71d0521e421ee8181.jpg",
@@ -368,7 +436,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fae324fb4c7644d8c77c1d2acf7dbb25.jpg",
@@ -385,7 +453,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/fdd1c510314cdd941754de76b6d9ab62.jpg",
@@ -402,7 +470,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3d9bb227bcf4dca421f2eb67fca216bf.jpg",
@@ -419,7 +487,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7860d313765037048376c0049b17aa0f.jpg",
@@ -436,7 +504,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5841d8692d0d7653f7cfe7e93d5a49ea.jpg",
@@ -453,7 +521,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/723712761316ee4a3ec4f5d49a3d2d1e.jpg",
@@ -470,7 +538,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/9b11521f2bd59fd9b7f1d8b22ef04f9e.jpg",
@@ -487,7 +555,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ee5afda8f65b61e71c71c6ce3e5db30a.jpg",
@@ -504,7 +572,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8e88f16ffc6cb3d26abaedae6cf5fd0a.jpg",
@@ -521,12 +589,114 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5fe3e05e3ff7f374c95e8021db254d35.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-639"
+  },
+  {
+    "id": 157844,
+    "IDcode": "230ORE-646",
+    "title": "ここ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-646"
+  },
+  {
+    "id": 157810,
+    "IDcode": "230ORE-647",
+    "title": "ゆうり 4",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-647"
+  },
+  {
+    "id": 479558,
+    "IDcode": "230ORE-652",
+    "title": "出色的 筱田优 -C",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-652"
+  },
+  {
+    "id": 157831,
+    "IDcode": "230ORE-653",
+    "title": "はるな 2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-653"
+  },
+  {
+    "id": 479865,
+    "IDcode": "230ORE-654",
+    "title": "Mizuki 4 若宫はずき -C",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-654"
+  },
+  {
+    "id": 505629,
+    "IDcode": "230ORE-655",
+    "title": "神奈 2 美咲佳奈 -C",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-655"
   },
   {
     "id": 529849,
@@ -538,7 +708,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/582579cb83cbb68e63eab1b258d68aa6.jpg",
@@ -555,7 +725,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/d76b6074e9cf16d9f41824ef4063df37.jpg",
@@ -572,7 +742,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/1bda653358e137a2b9433a7031221a53.jpg",
@@ -589,7 +759,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/3df440b2f347172262924667ba768126.jpg",
@@ -606,7 +776,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/6dbe579c74f9698b33c43bfcc8d5b01f.jpg",
@@ -623,7 +793,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240211-1/786b037e658d04e6395f14354ad21e19.jpg",
@@ -640,7 +810,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/1d12ecb4198f00d9dd8d204253fc757c.jpg",
@@ -657,7 +827,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/1e8d6ad117fdcd99e59ec75758bf4f8a.jpg",
@@ -674,7 +844,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/7aafbf7fee70a05f3d2e7b3689bdbbf6.jpg",
@@ -691,12 +861,48 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20240210-1/2bf0af71de20e7fce68c07d5cb16e3ba.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-705"
+  },
+  {
+    "id": 176643,
+    "IDcode": "230ORE-706",
+    "title": "巨乳风俗女AIKA得知我被甩了之后竟违反店规让我破例插入",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-706"
+  },
+  {
+    "id": 176632,
+    "IDcode": "230ORE-707",
+    "title": "四十分钟的按摩流程内巨乳技师让我的肉棒体验了帝王级服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-707"
   },
   {
     "id": 176639,
@@ -708,7 +914,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/17/56f08daf/vod.jpg",
@@ -725,12 +931,81 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/17/c6037a239b82ab5be41f8acc4fc8d103.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-709"
+  },
+  {
+    "id": 176851,
+    "IDcode": "230ORE-711",
+    "title": "巨乳美女健身教练滨崎真绪的诱惑教学",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-711"
+  },
+  {
+    "id": 176873,
+    "IDcode": "230ORE-712",
+    "title": "大屁股理性研究员被大肉棒干得发出了一点都不理性的叫床",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-712"
+  },
+  {
+    "id": 176862,
+    "IDcode": "230ORE-714",
+    "title": "邀请美女研究员一起直播睁开眼后出现在眼前的是只穿着内裤的男人",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-714"
+  },
+  {
+    "id": 174614,
+    "IDcode": "230ORE-716",
+    "title": "Mitsuki2",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230ORE-716"
   },
   {
     "id": 578005,
@@ -742,7 +1017,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250513/uIgzwsBT/1.jpg",
@@ -759,7 +1034,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250513/w5wR8hK6/1.jpg",
@@ -776,7 +1051,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230523/ghcrbWSI/1.jpg",
@@ -793,7 +1068,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230427/GQCt3Q0h/1.jpg",
@@ -810,12 +1085,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230708/70Ep0pcV/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREB-005"
+  },
+  {
+    "id": 566986,
+    "IDcode": "230OREBMS-020",
+    "title": "まりあ第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREBMS-020"
   },
   {
     "id": 453640,
@@ -828,12 +1120,29 @@ window.PAGE_DATA = [
       "素人",
       "乱伦"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241201-1/1866e4518457b3d1a192edbd2a7337c7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREBMS-027"
+  },
+  {
+    "id": 569033,
+    "IDcode": "230OREBMS-045",
+    "title": "美织第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREBMS-045"
   },
   {
     "id": 508807,
@@ -845,7 +1154,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/59829fed895b3e1b00b30cbc0e545637.jpg",
@@ -862,12 +1171,29 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/b8d6c3ef71d25567b2c92ec0245bb0c7.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREBMS-048"
+  },
+  {
+    "id": 197029,
+    "IDcode": "230OREBMS-058",
+    "title": "明明是想被男人玩弄的女变态却说是因为钱才拍片",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人"
+    ],
+    "type": "有码",
+    "company": "俺の素人-Z-SECONDIMPACT",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREBMS-058"
   },
   {
     "id": 83051,
@@ -879,7 +1205,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/bfaf8df7fc3377c788cb66fd5cdf1952.jpg",
@@ -896,7 +1222,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d5f83b6d8cc7dfa20b4054ba846c9d27.jpg",
@@ -913,7 +1239,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/307fc40d5a6e5f85d017d7946bff3945.jpg",
@@ -930,7 +1256,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/49d616e2f38a685a74ca44338ffdf189.jpg",
@@ -947,7 +1273,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/77f94e7496863c23698d3255b5272eb1.jpg",
@@ -964,7 +1290,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a57e7c3b52c9ca420943c5535906ad25.jpg",
@@ -981,7 +1307,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b9117d3d1527cfb6a781232237740da4.jpg",
@@ -998,7 +1324,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/2b1410743fd3c84db80879d14b635f01.jpg",
@@ -1015,7 +1341,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/91febb20ed31f73f99a40859a698e050.jpg",
@@ -1032,7 +1358,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/e386268f8c1429f044aefe29c196376d.jpg",
@@ -1049,7 +1375,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/59da415bf50e45b50edeb11a6d4643c4.jpg",
@@ -1066,7 +1392,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/f550863d356caf6f62480d3392379027.jpg",
@@ -1083,7 +1409,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2536582b62583159227a561a1bd6cd65.jpg",
@@ -1100,7 +1426,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/b81a631c22b9e5716e826df42808c1e9.jpg",
@@ -1117,7 +1443,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/22656357899f2f64555dd4036416e603.jpg",
@@ -1134,7 +1460,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ad30a88afe9e7d14793f8c103bf13d82.jpg",
@@ -1151,7 +1477,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d48da89b19f3aed08152bfb1beb28d3d.jpg",
@@ -1168,7 +1494,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d9e2df2ee81b059b476313b4bf4e1ea2.jpg",
@@ -1185,7 +1511,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d2d2cc8781ef7d9e80e5e506b9914292.jpg",
@@ -1202,7 +1528,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c49243c25b42a803fa4753fef97b2c78.jpg",
@@ -1219,7 +1545,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/707e5f1affb7f9b64ae76273e47e943d.jpg",
@@ -1236,7 +1562,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a8abf9c287a7fb95c61321b539a91db6.jpg",
@@ -1253,7 +1579,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5cfbd7248449b73bd18af79642f9c115.jpg",
@@ -1270,7 +1596,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/981d81c34852f4092569b63d4b381751.jpg",
@@ -1287,7 +1613,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d30da8f509d87502c0095177d6bba8ac.jpg",
@@ -1304,7 +1630,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/91141de9ca15c739dabd7f1568df06bf.jpg",
@@ -1321,7 +1647,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221231-1/7dbe40665321f1526bc774ab43d4dfe7.jpg",
@@ -1338,7 +1664,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a7a59295673803f00700f25c20faeba1.jpg",
@@ -1355,7 +1681,7 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/7deaa1c1c11efa8e2c195784548272d1.jpg",
@@ -1372,334 +1698,11 @@ window.PAGE_DATA = [
     "genres": [
       "素人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "俺の素人-Z-SECONDIMPACT",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240523/1617439626-pb_e_230orec-412.jpg!320x216.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-412"
-  },
-  {
-    "id": 509027,
-    "IDcode": "230OREC-426",
-    "title": "まいか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/44f53e894229f8219917e7752e38e4ec.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-426"
-  },
-  {
-    "id": 509276,
-    "IDcode": "230OREC-428",
-    "title": "りく",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e1b7130a5cfb3ebfcc79717387e57990.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-428"
-  },
-  {
-    "id": 508990,
-    "IDcode": "230OREC-429",
-    "title": "つぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/74b501376bdbd00b4f2197e562e4466a.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-429"
-  },
-  {
-    "id": 508896,
-    "IDcode": "230OREC-430",
-    "title": "みづき",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/53b64f4945c7812a55c7578b01d970b1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-430"
-  },
-  {
-    "id": 59890,
-    "IDcode": "230OREC-431",
-    "title": "从乡下来的淳朴二十岁文科女生人生第一次中出让她理性崩溃了",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a6434c22a9e430e84d8d0bb3a918eb41.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-431"
-  },
-  {
-    "id": 509125,
-    "IDcode": "230OREC-432",
-    "title": "ひな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1394e3796c6e3bfb557018cf09137a0b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-432"
-  },
-  {
-    "id": 509006,
-    "IDcode": "230OREC-433",
-    "title": "みくる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3901af17b686766e99013977544ed172.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-433"
-  },
-  {
-    "id": 508811,
-    "IDcode": "230OREC-438",
-    "title": "あい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/175de2e700e94d50df081c23f0a6a30e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-438"
-  },
-  {
-    "id": 509231,
-    "IDcode": "230OREC-439",
-    "title": "りお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/595655f7da2e05a17b08adef238adff9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-439"
-  },
-  {
-    "id": 509000,
-    "IDcode": "230OREC-442",
-    "title": "なお",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/59ca0433143dd019cd06cd9afbc21168.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-442"
-  },
-  {
-    "id": 509039,
-    "IDcode": "230OREC-443",
-    "title": "ましろ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8f0d602531d17aa26d4b54e3fdc9d69e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-443"
-  },
-  {
-    "id": 508619,
-    "IDcode": "230OREC-444",
-    "title": "まい",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/734451bdba53214370cc04273eba55df.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-444"
-  },
-  {
-    "id": 521968,
-    "IDcode": "230OREC-445",
-    "title": "ゆいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/upload/vod/20200727-1/6d4741b2d5c7d4ddfd349b052b17d19c.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-445"
-  },
-  {
-    "id": 509093,
-    "IDcode": "230OREC-450",
-    "title": "弥生アナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/95aedc1045efd54ee8980cef184461ed.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-450"
-  },
-  {
-    "id": 508633,
-    "IDcode": "230OREC-452",
-    "title": "黒川アナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c910ea795bf330e1f19429f103044bc5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-452"
-  },
-  {
-    "id": 509041,
-    "IDcode": "230OREC-454",
-    "title": "ゆり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/44d1116a5086c3f92a10f26c4e5c07d0.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-454"
-  },
-  {
-    "id": 509070,
-    "IDcode": "230OREC-455",
-    "title": "あずさ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/df624ecc8b54232f5b609bd62af6ac91.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-455"
-  },
-  {
-    "id": 508622,
-    "IDcode": "230OREC-459",
-    "title": "つぐみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2b795cf9c8df145aa5be515a76e5e96b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-459"
-  },
-  {
-    "id": 532060,
-    "IDcode": "230OREC-468",
-    "title": "のあ1",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人"
-    ],
-    "type": "",
-    "company": "俺の素人-Z-SECONDIMPACT",
-    "publish_date": "",
-    "cover_url": "https://fm.sl25914.com/upload/vod/20221224-1/798bd6123007fc96c96d9f39e5ebb5ef.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=230OREC-468"
   }
 ];

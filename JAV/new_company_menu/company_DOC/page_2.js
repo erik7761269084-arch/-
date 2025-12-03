@@ -1,5 +1,24 @@
 window.PAGE_DATA = [
   {
+    "id": 144498,
+    "IDcode": "300MAAN-0392",
+    "title": "超美人妻要合同和3阴道射精我很高兴握住Po我正在深喉用不可阻挡的喷射重复抽搐暨一石二鸟消除挫折提高销售业绩为家打工的美人妻是个卖枕头的长矛男变态老婆为了老公的无奈和契约欲望",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://thjpg10.top/upload/vod/20250209-1/10ee0f4ea81892fb908ddf9336a6793e.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0392"
+  },
+  {
     "id": 521603,
     "IDcode": "300MAAN-0393",
     "title": "港区女子ありさちゃん 27歳 街角シロウトナンパ",
@@ -10,7 +29,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/84168200cc701825d16ab4657933ad83.jpg",
@@ -29,7 +48,7 @@ window.PAGE_DATA = [
       "街头采访",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190518-1/120567cf0acce4cab1be40e2e207f259.jpg",
@@ -47,7 +66,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/e9c9a2092f2be27cb7e4201e7e13c748.jpg",
@@ -65,7 +84,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/4316aeeee6720c24b9c8ebaccbb8ebf4.jpg",
@@ -84,7 +103,7 @@ window.PAGE_DATA = [
       "街头采访",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/44fa00f7b283e262b4ab210f6c3d0e55.jpg",
@@ -102,7 +121,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3862872d2b24ccb24af9e6ea4ab34fe1.jpg",
@@ -120,7 +139,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5dc16535b4951640f3243eea77268499.jpg",
@@ -138,7 +157,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/a2c80366000a2a0f8b4a2d3db68dbbc5.jpg",
@@ -156,7 +175,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0be50204b1b413cb9f7ba53542ee376e.jpg",
@@ -175,7 +194,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/42c62e715f7a5100e19491adb890b52a.jpg",
@@ -193,7 +212,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/23b0eb6a5c399edd0214781b3566e0d1.jpg",
@@ -211,7 +230,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/452176cadedcd4e6ef7df1fadc172add.jpg",
@@ -229,7 +248,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/6f06ef8a962075d6d7f798545352f7d4.jpg",
@@ -247,7 +266,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/e997f4f9239853bb1349ce6e4d5514cf.jpg",
@@ -265,7 +284,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/866203d77900e5e2b43b4e4a0e10c21f.jpg",
@@ -283,7 +302,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/3eb2ff6792f596556be759dbbefb4d98.jpg",
@@ -301,7 +320,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/47c4b8593dbeac7abcbbb0e35569b64f.jpg",
@@ -319,7 +338,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/66a4c5adb1424d42aac64b9d2506e601.jpg",
@@ -337,7 +356,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/81af6bc87d9e181dba3dec550b847b20.jpg",
@@ -356,7 +375,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/903b2e375f9f293951f7f7f6e0b406fe.jpg",
@@ -374,7 +393,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/263ced8b5ca958e613ec6c722ea62fec.jpg",
@@ -392,7 +411,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b5f7a5d5517be4002764e970910274d8.jpg",
@@ -412,7 +431,7 @@ window.PAGE_DATA = [
       "巨乳",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d17d1a372a223fcf8852b7227c5ddedd.jpg",
@@ -431,7 +450,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/b62decaad356abaca5b14306ee0053f8.jpg",
@@ -449,7 +468,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2b177c8cd333e98b678e52b75bbc69bf.jpg",
@@ -468,7 +487,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://tuaskbgnekr.com/20221120/Gxfb5Kwx/1.jpg",
@@ -486,7 +505,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/9b4684a12553a2a4f5ba2618eb047029.jpg",
@@ -504,7 +523,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/56ba23f558bf4b6fde605758e8389d5a.jpg",
@@ -522,7 +541,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/bdef7ab253887af10428f99eb33a5b07.jpg",
@@ -540,7 +559,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/31e14c72591297098877a3c6bd3b9e80.jpg",
@@ -559,7 +578,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/824a97b6550f39dde8728af61f30d6d2.jpg",
@@ -578,7 +597,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221120-1/ff7a0d86fba7880917e17c0979dbfa83.jpg",
@@ -597,7 +616,7 @@ window.PAGE_DATA = [
       "街头采访",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/dcfe91aac54ac95b590576136a275a86.jpg",
@@ -616,7 +635,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/658fdee55d578645e7cccf4715afc344.jpg",
@@ -634,7 +653,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/97203a5a2b0f4be5816ded13fe3f370d.jpg",
@@ -652,7 +671,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/3e1047ccc9963f66c04229fabd44c87c.jpg",
@@ -670,7 +689,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20191020-1/136931a4128389a7b1a75bf4bd405e67.jpg",
@@ -688,12 +707,30 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/ef405be59c90cf6a9657585191f4986c.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0434"
+  },
+  {
+    "id": 538758,
+    "IDcode": "300MAAN-0435",
+    "title": "ギャップが凄い！○田空港勤务の清楚系キャリアウーマンから→胸元全开フェロモン丸出し奥様に！男が感じる姿に兴奋する正真正铭のド淫乱！隠语を吐きながら全身爱抚！マン汁で膣内がパンパンになるまで突きまくる！ピストンと同时にぴちゃぴちゃ音が鸣り响く！抜いた瞬间潮喷射！カラッポおマ○コに生ハメ中出し3连注入！1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0435"
   },
   {
     "id": 542205,
@@ -706,7 +743,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://tuaskbgnekr.com/20221120/Xi379VX9/1.jpg",
@@ -724,7 +761,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/3befd4f0a60cc118142bb6c5d5b58b3e.jpg",
@@ -743,7 +780,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b74ee6a9a3c70c8d021c509a38d20334.jpg",
@@ -761,7 +798,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2e2f66438ae99285d03e19fecac9040e.jpg",
@@ -779,7 +816,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/eb1f437bea9e1320df53b953f1918165.jpg",
@@ -798,7 +835,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c0b4b3e7e8e4f0f6befa80723c15711f.jpg",
@@ -816,7 +853,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/7b8d399e10ab2a8af38142ce2fa31d3c.jpg",
@@ -834,7 +871,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/9dd9ae35f6499de1105c0bbcdaf539f0.jpg",
@@ -852,7 +889,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sex8sex811.com/20250801/WoZoVEzo/1.jpg",
@@ -871,7 +908,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/a7f55065580a426658a4aaf4f7414337.jpg",
@@ -889,7 +926,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/167ef4c5b72126ea5d71ca072f267e2f.jpg",
@@ -907,7 +944,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/834998a9e3811698f3538072d924fea8.jpg",
@@ -925,7 +962,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/2552c9504ce0e437ae92bee503e274c3.jpg",
@@ -943,7 +980,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/72c6729f8baf2e22a15aba08f2012094.jpg",
@@ -961,7 +998,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230514-1/5e14f629f0d72a4b8188b67839ac934d.jpg",
@@ -980,7 +1017,7 @@ window.PAGE_DATA = [
       "街头采访",
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/0df2e3e55f75492a0c31f58880b1e54f.jpg",
@@ -998,7 +1035,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/f2903c95f367a909b7d3e0f3ab602257.jpg",
@@ -1016,7 +1053,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sex8sex811.com/20250801/2dFG4VPp/1.jpg",
@@ -1034,7 +1071,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200504-1/714177a777f48ddea74dd51199f01eb3.jpg",
@@ -1052,7 +1089,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/ed586bb27000b21a0f0b654aa8b603e6.jpg",
@@ -1070,7 +1107,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200514-1/e36bf616fc1612331fcf1163ee4e5e64.jpg",
@@ -1089,7 +1126,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c49301853ce997fb6df198b7256bf0af.jpg",
@@ -1107,7 +1144,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/99a2a8e46bfbe6098a0e252539ec5f20.jpg",
@@ -1125,7 +1162,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b807b95f46a82c6aa2d59d3555f7bea3.jpg",
@@ -1144,7 +1181,7 @@ window.PAGE_DATA = [
       "乱交",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200518-1/d13ef7f962d82dda39b6c98dda992a20.jpg",
@@ -1162,7 +1199,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/a92a4f7adb172a7d34fb7c70490bce37.jpg",
@@ -1180,7 +1217,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200521-1/215c46d519882c54503c6d09d662e1ca.jpg",
@@ -1199,7 +1236,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200514-1/7e4e3a2f8b7fd6fecc47782980c19a7a.jpg",
@@ -1217,12 +1254,30 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/506863efd2e721631828d183455f15c0.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0486"
+  },
+  {
+    "id": 59479,
+    "IDcode": "300MAAN-0487",
+    "title": "昼は清楚なカバン持ち-夜は淫らなチ○コ持ち！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0487"
   },
   {
     "id": 144537,
@@ -1235,7 +1290,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/651686d5afa46963c1c7875016ec72ce.jpg",
@@ -1254,7 +1309,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/c97aab04d3947621411253aae2137a68.jpg",
@@ -1272,12 +1327,30 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200515-1/4b753386d3b9d0a3ad763d6b870c0cb9.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0490"
+  },
+  {
+    "id": 526039,
+    "IDcode": "300MAAN-0492",
+    "title": "厳格×美人上司×ビヤク堕ち！いつもは命令口调の彼女が…チ○ポが欲しくて恳愿おねだり！タクシーで我慢できず大开脚オナニー！イキナリ3P突入してかまわずチ○コをしゃぶりまくる！お口とおマ○コ同时に犯され闷絶イキ连発！最后は颜射2连発でぐっちょり大満足【职场のあの子とビヤクで××しませんか？03～美人FPがチ●ポ连呼でイキたくり！！の巻き～】",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0492"
   },
   {
     "id": 103017,
@@ -1290,7 +1363,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://tutu1.space/images/2019/12/28/QQ201912290138399a795.jpg",
@@ -1308,7 +1381,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/5f411b0eb649cd1bb973366af32bfec7.jpg",
@@ -1326,7 +1399,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200513-1/7aeea3cdfc26dc48483ec441aa8794a6.jpg",
@@ -1345,7 +1418,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200530-1/b4cf5fbf3941f2d2bbdd5cbfb0060811.jpg",
@@ -1363,7 +1436,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/126882a780e930692c7cf638c9fc59ff.jpg",
@@ -1382,7 +1455,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sex8sex811.com/20250801/0ONsTYDg/1.jpg",
@@ -1400,7 +1473,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0441b049c336c45e91c3ca1ff7f04a53.jpg",
@@ -1418,7 +1491,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/d81eca5db2e0147f93b499a2f981d574.jpg",
@@ -1438,7 +1511,7 @@ window.PAGE_DATA = [
       "痴汉",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/489fcfe8d33fb710c2c10b048a985a77.jpg",
@@ -1456,7 +1529,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://tuaskbgnekr.com/20220926/dfW7I2Hg/1.jpg",
@@ -1475,7 +1548,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/93177a5c8e971cbea17ce18ea71fd640.jpg",
@@ -1494,7 +1567,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3859b7b4f3ca0c338d744eed85caf1f7.jpg",
@@ -1513,7 +1586,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/0119bfd5370b7c0bce90e83f67dd7360.jpg",
@@ -1532,7 +1605,7 @@ window.PAGE_DATA = [
       "街头采访",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b9030d16431cbb5bd7988dc91099721f.jpg",
@@ -1550,7 +1623,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/5bf794b4a38f1060d9d43fd3bb318ce7.jpg",
@@ -1568,12 +1641,68 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/67cbc3a3d65a52f97ac6138fa7cc94af.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0508"
+  },
+  {
+    "id": 144544,
+    "IDcode": "300MAAN-0509",
+    "title": "Natsuki-chan一个每天都在为成为咖啡师而奋斗的店员为了梦想成真而被抑制的性欲爆发精湛的他妈的包裹在比生奶油更柔软的胸部",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0509"
+  },
+  {
+    "id": 219270,
+    "IDcode": "300MAAN-0510",
+    "title": "为那些欲求不满的人妻解决性欲",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0510"
+  },
+  {
+    "id": 197024,
+    "IDcode": "300MAAN-0511",
+    "title": "以帮助夫妻改善关系的访谈为理由把人妻骗上床内射",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2021-01-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0511"
   },
   {
     "id": 144546,
@@ -1586,7 +1715,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/b55b955bbbc3084471d08b994d7ab216.jpg",
@@ -1605,12 +1734,30 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/99b442154275f6999fe1f775d0b381c1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0513"
+  },
+  {
+    "id": 59506,
+    "IDcode": "300MAAN-0514",
+    "title": "I杯山雀缩身超过100厘米！滚下牛奶底部的牛奶！19岁的人仍在增长乳房！自然丰满的乳沟马●柯！丽岩发生的Paizuri革命！！itch！滚！旋转摇！穿得越多~横冲直撞！大释放到大乳房",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "素人",
+      "街头采访"
+    ],
+    "type": "有码",
+    "company": "DOC",
+    "publish_date": "2024-07-17",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0514"
   },
   {
     "id": 530934,
@@ -1623,7 +1770,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://fh.lbfh2025.com/upload/vod/20200811/300MAAN-515.jpg",
@@ -1642,7 +1789,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://thjpg10.top/upload/vod/20250209-1/7b5d6f9d8abb01a152aee18fb569d052.jpg",
@@ -1661,7 +1808,7 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://lust103.cc/upload/vod/20250512-7/17da6dfee94324b974e00ca11cfcec3f.jpg",
@@ -1679,164 +1826,11 @@ window.PAGE_DATA = [
       "素人",
       "街头采访"
     ],
-    "type": "",
+    "type": "有码",
     "company": "DOC",
     "publish_date": "2021-01-01",
     "cover_url": "https://lust103.cc/upload/vod/20250512-4/147c91b037845098702a54cc0796cba0.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0519"
-  },
-  {
-    "id": 530932,
-    "IDcode": "300MAAN-0520",
-    "title": "胸当て舌络め！客をつまみ食う！ぶりっ子可爱い美容师",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://fh.lbfh2025.com/upload/vod/20200811/300MAAN-520.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0520"
-  },
-  {
-    "id": 407402,
-    "IDcode": "300MAAN-0523",
-    "title": "ドエロい極尻！ヌルヌル尻コキ！強烈杭打ち騎乗位！痛いけど気持ちいい連続スパンキングでマン汁だらだら！密着マキシワンピでローションプレイ！卑猥な潮吹きピストンでイキ狂う！！！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～52発目＞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/6e638d570d9bfad44d90ff19ef4774d5.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0523"
-  },
-  {
-    "id": 407270,
-    "IDcode": "300MAAN-0528",
-    "title": "スプラッシュ爆乳マウンテン！胸元にそびえ立つ偉大なるグランドキャニオン！！まさに絶景！グラマラスボディがオイルでヌルテカ！乳首もチ○ポも勃起ッキ！怒涛の中出し3発！イキ潮、ハメ潮が無尽蔵に溢れ出す！＜エロい娘限定ヤリマン数珠つなぎ！！～あなたよりエロい女性を紹介してください～54発目＞",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/918f68aa6f5b069b906a1fc332efcd2b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0528"
-  },
-  {
-    "id": 407428,
-    "IDcode": "300MAAN-0529",
-    "title": "《頭いい＝変態》美形で知的な医大生がまさかの痴女化！？トイレでも車でもとにかくチ○ポを求める性欲おばけ！！チ○ポがふやけるほどに唾液をねっとり絡ませながら長い舌でじっくり味わう濃厚フェラチオ！超敏感なスレンダーボディをビクつかせ崩壊寸前まで絶頂〈イク〉を繰り返す！！尻射中出し顔射3連発！！",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ea80139ae9cb8805254dcadfd899d844.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0529"
-  },
-  {
-    "id": 64130,
-    "IDcode": "300MAAN-0531",
-    "title": "荡妇大赏第55人身体柔软度拉满的瑜伽教练",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c8bd0eee35b030c1fadfa3d5cd45c0e9.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0531"
-  },
-  {
-    "id": 97513,
-    "IDcode": "300MAAN-0532",
-    "title": "被G乳美女游泳教练藤森里穗盯上射了好多次",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "潮吹",
-      "素人",
-      "街头采访",
-      "业余",
-      "巨乳",
-      "泳装",
-      "颜射"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/283460f6fba94c4157edd2b47529a016.jpg",
-    "actress": [
-      "藤森里穂"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0532"
-  },
-  {
-    "id": 537252,
-    "IDcode": "300MAAN-0560",
-    "title": "电マ[7]刀流！激カワなのに快楽狂いのショップ店员！【三种の电マ】乳首とマ○コを3点责め！性感帯开発プ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "http://15.155250922.com/upload/vod/20230813/1595244644-pb_e_300maan-560.jpg!320x216.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0560"
-  },
-  {
-    "id": 196811,
-    "IDcode": "300MAAN-0598",
-    "title": "滥交女接力第73人可爱的大二女生喝完酒后就变了个人",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "素人",
-      "街头采访"
-    ],
-    "type": "",
-    "company": "DOC",
-    "publish_date": "2021-01-01",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/10/19/8c7f336f/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=300MAAN-0598"
   }
 ];

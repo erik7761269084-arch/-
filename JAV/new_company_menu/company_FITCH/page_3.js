@@ -1,5 +1,570 @@
 window.PAGE_DATA = [
   {
+    "id": 561692,
+    "IDcode": "JFB-333",
+    "title": "巨乳を揺らして美女が一心不乱にお口とマ〇コで肉棒を下品にシャブる究极の性行为PtoM4时间BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20240304/RT4q7Xqn/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-333"
+  },
+  {
+    "id": 176475,
+    "IDcode": "JFB-449",
+    "title": "柔らかGカップボディのベビーフェイス！ 乃々瀬みつは8時間BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251025-1/c157f1862c44017b0a70132e60f1ae98.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-449"
+  },
+  {
+    "id": 412481,
+    "IDcode": "JFB-461",
+    "title": "射精直後の敏感チ○ポをねっとりお掃除フェラで100連射4時間BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/a7082b07fe3a7e0c3ba40c301b362422.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-461"
+  },
+  {
+    "id": 8285,
+    "IDcode": "JFB-463",
+    "title": "相田夢乃導演的淫語FUCK合集4小時最佳 BEST ~ 深田泳美 北裏未奈 筱田優 美園和花 新村朱裏 等全部名女優",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "巨尻",
+      "精選總編集",
+      "M男・M女",
+      "口爆",
+      "慾求不滿",
+      "4小時以上作品",
+      "插入異物",
+      "性虐癖",
+      "故事集",
+      "打屁股",
+      "苗條",
+      "臀控",
+      "局部特寫",
+      "感官作品",
+      "淫語",
+      "美腳",
+      "羞恥",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "形象俱樂部",
+      "人妻",
+      "美人妻",
+      "高顏值",
+      "明星臉",
+      "淫亂",
+      "極品美人",
+      "女王",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "女優",
+      "脚控・戀足癖",
+      "美少女電影",
+      "手指插入",
+      "舔腳",
+      "乳交",
+      "肛交",
+      "足交",
+      "蘿莉控",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2025-02-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250214/20250214134404952952.jpg",
+    "actress": [
+      "美園和花",
+      "新村朱里",
+      "北野未奈",
+      "似鳥日菜",
+      "篠田優",
+      "妃光莉",
+      "本真友里",
+      "菊乃らん",
+      "深田詠美",
+      "風間由美",
+      "永井瑪麗亞",
+      "佐伯由美香",
+      "結白まさき"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-463"
+  },
+  {
+    "id": 412487,
+    "IDcode": "JFB-466",
+    "title": "ヌケるアングル！アナル丸見え巨尻SEX編81発射4時間BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/b0e3487d4a3d597fdf906119ed5e5130.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-466"
+  },
+  {
+    "id": 7510,
+    "IDcode": "JFB-469",
+    "title": "大叔把嫌棄他的援交女學生嫩肉舔得欲罷不能！強制懷孕中出3小時精選！ ~ 皆月光、綾瀨心、琴音華、有棲舞衣、望月蕾、天月梓",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "濕身",
+      "女學生",
+      "獵豔",
+      "小隻馬",
+      "精選總編集",
+      "苗條",
+      "美腳",
+      "精選綜合",
+      "JK校服",
+      "羞恥",
+      "美乳",
+      "形象俱樂部",
+      "美人",
+      "企畫",
+      "美臀",
+      "抹油",
+      "應召・援交",
+      "清純",
+      "脚控・戀足癖",
+      "美少女電影"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2025-03-18",
+    "cover_url": "https://picture.yoshiclub.xyz/20250313/20250313085418141141.jpg",
+    "actress": [
+      "皆月光",
+      "天月梓",
+      "望月蕾",
+      "有栖舞衣",
+      "绫濑心",
+      "琴音華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-469"
+  },
+  {
+    "id": 444850,
+    "IDcode": "JFB-470",
+    "title": "Gカップ以上のパイズリ天国に3分間耐え抜いて3，2，1，0でドッピューンとエクスタシー射精70",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/f96a641eda6668fd3f84b30c8eb6ad2f.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-470"
+  },
+  {
+    "id": 540557,
+    "IDcode": "JFB-476",
+    "title": "ハメ潮大量注意报！あまりの気持ち良さに潮吹きしながらガチイキしまくり40スプラッシュ 240分BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://tuaskbgnekr.com/20250813/TOiiCtZJ/1.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-476"
+  },
+  {
+    "id": 2431,
+    "IDcode": "JFB-480",
+    "title": "地味カワ巨乳卯佐美りん Fitch出演全4タイトル4時間BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "小隻馬",
+      "精選總編集",
+      "口爆",
+      "4小時以上作品",
+      "美腳",
+      "癡女",
+      "精選綜合",
+      "胸控・戀乳癖",
+      "大奶头",
+      "美乳",
+      "制服",
+      "清楚系",
+      "巨乳",
+      "口交",
+      "性感",
+      "接吻",
+      "形象俱樂部",
+      "潮吹",
+      "正統派",
+      "單體作品",
+      "短髮",
+      "高顏值",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "空姐制服",
+      "後入",
+      "美臀",
+      "顏射",
+      "紀念作",
+      "女優",
+      "清純",
+      "舔陰",
+      "美少女電影",
+      "手指插入",
+      "無毛",
+      "乳交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/video/m3u8/2025/10/08/19b59988/vod.jpg",
+    "actress": [
+      "卯佐美鈴"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-480"
+  },
+  {
+    "id": 3521,
+    "IDcode": "JFB-482",
+    "title": "巨乳美女を縛り上げ自由を奪う緊縛調教SEX 14名4時間BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "奇聞趣事",
+      "小隻馬",
+      "吞精",
+      "巨尻",
+      "兩女一男",
+      "M男・M女",
+      "精選總編集",
+      "口爆",
+      "豐滿",
+      "4小時以上作品",
+      "港區女子",
+      "插入異物",
+      "性虐癖",
+      "故事集",
+      "唾液敷面",
+      "打屁股",
+      "蠟燭",
+      "鬼畜片",
+      "苗條",
+      "阪道系",
+      "流汗",
+      "美少女",
+      "緊縛",
+      "精選綜合",
+      "雙飛",
+      "拘束・拷問",
+      "羞恥",
+      "色白",
+      "美腳",
+      "胸控・戀乳癖",
+      "美乳",
+      "按摩棒",
+      "清楚系",
+      "早漏",
+      "芸能人",
+      "性感",
+      "巨乳",
+      "口交",
+      "淫蕩・硬核",
+      "熟女",
+      "形象俱樂部",
+      "寫真女郎",
+      "導尿",
+      "深喉",
+      "高顏值",
+      "野性",
+      "淫亂",
+      "極品美人",
+      "超爆乳",
+      "女主持・主播",
+      "寫真偶像",
+      "中出",
+      "美人",
+      "美腿",
+      "企畫",
+      "少女",
+      "後入",
+      "SM",
+      "美臀",
+      "顏射",
+      "絕頂高潮",
+      "女優",
+      "清純",
+      "舔陰",
+      "女神",
+      "手指插入",
+      "口球",
+      "高妹",
+      "乳交",
+      "御姐系",
+      "黑絲",
+      "調教",
+      "白眼失神",
+      "拳擊交",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/08/23/97363ce60877e79cc358d1cfaf1a6dc3.jpg",
+    "actress": [
+      "美園和花",
+      "都月楓",
+      "吉根柚莉爱",
+      "宮西光",
+      "辻井穗乃果",
+      "宝田萌奈美",
+      "吹石玲奈",
+      "菊乃らん",
+      "春菜华",
+      "三原穗香",
+      "優月真裡奈",
+      "月元彩華",
+      "晶エリー",
+      "桑田みのり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-482"
+  },
+  {
+    "id": 174078,
+    "IDcode": "JFB-486",
+    "title": "54名の美女たちがグチョグチョマ○コを掻きまわしてイキまくる本気の痙攣絶頂オナニー4時間BEST",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://tutu1.space/images/2025/11/05/48e5548ae2960e40769b4df31b26c05b.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JFB-486"
+  },
+  {
+    "id": 207675,
+    "IDcode": "JUFE-002",
+    "title": "臣服于黑人大肉棒的星奈爱",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-002"
+  },
+  {
+    "id": 99129,
+    "IDcode": "JUFE-003",
+    "title": "寸止め淫語巨尻レズビアン 部長の奥さんに焦らされながら禁断の快楽に引きずりこまれて… 篠田れいこ 神ユキ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "荡妇",
+      "巨大屁股",
+      "女同性恋",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-01-01",
+    "cover_url": "https://imgsiwa.com:5278/cvjpg/UzQCDImd.jpg",
+    "actress": [
+      "神ユキ",
+      "宫川ありさ"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-003"
+  },
+  {
+    "id": 70896,
+    "IDcode": "JUFE-004",
+    "title": "僕らの性欲をまるごと飲み干す！剛毛ごっくん女教師 牧村柚希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "吞精",
+      "乳交",
+      "女教师",
+      "学校作品",
+      "口交"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "牧村柚希"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-004"
+  },
+  {
+    "id": 87945,
+    "IDcode": "JUFE-006",
+    "title": "家出娘を自宅に連れ込み朝から晩まで種付け調教 俺専用！爆乳生ハメ奴隷 小栗もなか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "调教",
+      "乳交",
+      "中出",
+      "巨乳",
+      "水手服"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231013-1/70e56347efd5f432c8124bb777f38983.jpg",
+    "actress": [
+      "小栗萌中"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-006"
+  },
+  {
+    "id": 595546,
+    "IDcode": "JUFE-007",
+    "title": "【フィッチ】あなた、本当の私を见て下さい… 夫のいない自宅で爆乳妻と紧缚调教ナマ中出し性交 三岛奈津子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/4e144b4ed426c1cacb62512c3ae6ca12.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-007"
+  },
+  {
+    "id": 70980,
+    "IDcode": "JUFE-008",
+    "title": "アナルひくひく汗汁ぐっちょり！ 男に股がり腰振り乱す下品な痴女の肉尻性交 工藤まなみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "屁股",
+      "荡妇",
+      "流汗",
+      "已婚妇女",
+      "骑乗位"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "永野司"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-008"
+  },
+  {
+    "id": 70836,
+    "IDcode": "JUFE-009",
+    "title": "把高傲的巨尻女社长筱田优一步步调教成公司的肉便器母猪社长",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "调教",
+      "巨大屁股",
+      "中出",
+      "放尿"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "篠田优"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-009"
+  },
+  {
+    "id": 70949,
+    "IDcode": "JUFE-010",
+    "title": "オヤジの濃厚テクでイクイク体質にされた爆乳女子大生 明望萌衣",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "女大学生",
+      "美少女",
+      "自慰",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b373b11c6c2f6badeff0000fc36958f6.jpg",
+    "actress": [
+      "宝生めい"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-010"
+  },
+  {
     "id": 595458,
     "IDcode": "JUFE-013",
     "title": "オヤジの浓厚テクでイクイク体质にされた爆乳女子大生 松本菜奈実",
@@ -9,7 +574,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5bbce765001bf72e680dd1181ffd497a.jpg",
@@ -24,7 +589,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af6a8ed7791f92730e9e7d/cover.jpg",
@@ -39,7 +604,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/5b6f0b60232896f639568e85831e0995.jpg",
@@ -54,7 +619,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/c32ee0cd26691964ecdc8519b65cd5a3.jpg",
@@ -71,7 +636,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/1ab1190cda026ba6fb8423a5c2bac195.jpg",
@@ -86,7 +651,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/27/68af6a24d7791f92730e9e7b/cover.jpg",
@@ -101,7 +666,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b5c8416d437c226ef1e0c53a45ec4d9e.jpg",
@@ -116,12 +681,44 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/02/02/9399c17e4e2181ddd964885b71e19dc6.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-022"
+  },
+  {
+    "id": 193401,
+    "IDcode": "JUFE-023",
+    "title": "对精液贪婪的姐姐们向年幼的弟弟发起不容拒绝的进攻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-023"
+  },
+  {
+    "id": 194972,
+    "IDcode": "JUFE-024",
+    "title": "沾黏着唾液和爱液无套鸡鸡在小穴和喉咙中反覆深插-八乃つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-024"
   },
   {
     "id": 470182,
@@ -131,7 +728,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-03-01",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f7dc6edc101930b3820c2/cover.jpg",
@@ -149,7 +746,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/W0sBXpNR.jpg",
@@ -164,7 +761,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/VgJIbMAc.jpg",
@@ -185,7 +782,7 @@ window.PAGE_DATA = [
       "巨乳",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67802cb8f9a2e9b1d474d3b9/cover.jpg",
@@ -196,6 +793,23 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-028"
   },
   {
+    "id": 595371,
+    "IDcode": "JUFE-029",
+    "title": "肉感タイトスーツ！ デキる长身美人OLの下品な着衣SEX 黒宫えいみ ～职场に复帰した人妻OL・えいみさん～",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-029"
+  },
+  {
     "id": 595370,
     "IDcode": "JUFE-030",
     "title": "おっぱいで犯されたい无能な仆 超优秀なデカ乳女上司の逆セクハラ乳榨りプレス KAORI",
@@ -203,12 +817,122 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/nW90geIt.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-030"
+  },
+  {
+    "id": 208507,
+    "IDcode": "JUFE-031",
+    "title": "無理やり強制射精 篠田ゆう",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-031"
+  },
+  {
+    "id": 204500,
+    "IDcode": "JUFE-032",
+    "title": "紧贴后尽情舔弄的大胆扑上唾液色女飞鸟铃",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-032"
+  },
+  {
+    "id": 70933,
+    "IDcode": "JUFE-034",
+    "title": "想射不给射的焦躁玩弄的风俗店M男的天堂",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "巨大屁股",
+      "礼仪小姐",
+      "中出",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "柳美憂"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-034"
+  },
+  {
+    "id": 534212,
+    "IDcode": "JUFE-035",
+    "title": "射精直后の敏感チ○ポを追撃シェイク！手コキ痴女の强制スプラッシュ～憧れのお嬢",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-035"
+  },
+  {
+    "id": 165799,
+    "IDcode": "JUFE-036",
+    "title": "肉感タイトスーツ！デキる長身美人O",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-036"
+  },
+  {
+    "id": 88246,
+    "IDcode": "JUFE-037",
+    "title": "禁欲生活で性欲が爆発して男を監禁！ W痴女の逆サンドイッチ種搾りSEX 岬あずさ ひなた澪",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "多P",
+      "中出",
+      "巨乳",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "岬梓沙",
+      "日向澪",
+      "蓝井优太"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-037"
   },
   {
     "id": 523611,
@@ -218,7 +942,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/b30e4cdf4b93bc2fabb848e7fcc8abde.jpg",
@@ -233,7 +957,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/16/68a09e7a05de9f92f0d08a10/cover.jpg",
@@ -248,12 +972,27 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/42c7eb9a796939561b8e98d5178a5d24.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-040"
+  },
+  {
+    "id": 595311,
+    "IDcode": "JUFE-041",
+    "title": "美しい巨尻妻の猥亵なパンストの香りと性交 要ゆうな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-041"
   },
   {
     "id": 88245,
@@ -270,7 +1009,7 @@ window.PAGE_DATA = [
       "首次亮相",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/ecb0db895dc7bb62ddd84ca45c2a54d1.jpg",
@@ -289,12 +1028,59 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/cf4805b4e444881e79c6b10fc7816cbe.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-043"
+  },
+  {
+    "id": 71031,
+    "IDcode": "JUFE-044",
+    "title": "爆乳姉-松本菜奈実",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "乱伦",
+      "乳交",
+      "姐姐",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "松本菜奈実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-044"
+  },
+  {
+    "id": 99128,
+    "IDcode": "JUFE-045",
+    "title": "接吻乳首責めレズビアン ～コーチの卑猥なレズキスニップル調教～ 岬あずさ 神納花",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫乱，真实",
+      "调教",
+      "女同接吻",
+      "美少女电影",
+      "女同性恋"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "2019-05-01",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "岬梓沙",
+      "管野静香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-045"
   },
   {
     "id": 595234,
@@ -307,12 +1093,70 @@ window.PAGE_DATA = [
       "乱交",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/cb83501c5d806e17422e0a409f0a71ca.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-046"
+  },
+  {
+    "id": 70834,
+    "IDcode": "JUFE-047",
+    "title": "超绝美丝袜人妻本田岬的高级服务",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "荡妇",
+      "乳液",
+      "礼仪小姐",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "本田岬",
+      "イセドン内村",
+      "戸川夏也"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-047"
+  },
+  {
+    "id": 534556,
+    "IDcode": "JUFE-048",
+    "title": "あなた、本当の私を见て下さい… 夫のいない自宅で爆乳妻と紧缚调教ナマ中出し性交 吹石れな",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-048"
+  },
+  {
+    "id": 218710,
+    "IDcode": "JUFE-049",
+    "title": "変態淫語-大島優香",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-049"
   },
   {
     "id": 566081,
@@ -322,12 +1166,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/b1b34265805c0672f74804f3c1021b78.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-050"
+  },
+  {
+    "id": 74824,
+    "IDcode": "JUFE-051",
+    "title": "美白美女-加藤ももか",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "校服",
+      "巨大阴茎",
+      "白天出轨",
+      "黑人演员",
+      "中出"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "加藤桃香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-051"
   },
   {
     "id": 74484,
@@ -344,7 +1211,7 @@ window.PAGE_DATA = [
       "中出",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e24a32a47ebb1a871da14/cover.jpg",
@@ -367,7 +1234,7 @@ window.PAGE_DATA = [
       "口交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-05-13",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/d80e5eb8355142a1e624ad0c52fef924.jpg",
@@ -390,7 +1257,7 @@ window.PAGE_DATA = [
       "淫语",
       "高"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-05-13",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/8f9f366e2bb5a293c223565f7464daa4.jpg",
@@ -407,7 +1274,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899435355337d7f7bcfa31d/cover.jpg",
@@ -424,7 +1291,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/kZ8K5UBv.jpg",
@@ -439,7 +1306,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/cobVfe0l.jpg",
@@ -460,7 +1327,7 @@ window.PAGE_DATA = [
       "女主播",
       "接吻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/0d899bbd9e375ba0119355aea0bea99d.jpg",
@@ -468,6 +1335,29 @@ window.PAGE_DATA = [
       "本田岬"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-062"
+  },
+  {
+    "id": 71040,
+    "IDcode": "JUFE-063",
+    "title": "爆乳で美人の妻-織田真子",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "已婚妇女",
+      "调教",
+      "白天出轨",
+      "中出",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "織田真子"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-063"
   },
   {
     "id": 468878,
@@ -479,7 +1369,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/67804ba5c179ffb1db6d7612/cover.jpg",
@@ -496,7 +1386,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/wXMdk6OZ.jpg",
@@ -511,7 +1401,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677e4c8ff9a2e9b1d4643a87/cover.jpg",
@@ -532,7 +1422,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://1.15250719pic.com/upload/vod/20240806-1/2ad2289651b329575617327f55bfbf21.jpg",
@@ -556,7 +1446,7 @@ window.PAGE_DATA = [
       "中出",
       "性骚扰"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-07-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/5ae066ce9a0f0841e74bf6bf8287fac9.jpg",
@@ -564,6 +1454,24 @@ window.PAGE_DATA = [
       "柳美憂"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-070"
+  },
+  {
+    "id": 165807,
+    "IDcode": "JUFE-071",
+    "title": "绝対的上から目线で巨乳痴女が淫语コ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-071"
   },
   {
     "id": 74227,
@@ -579,7 +1487,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/07/686bc9543ed39b57c09ecbbe/cover.jpg",
@@ -602,7 +1510,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/6781540bc179ffb1db6d7b78/cover.jpg",
@@ -625,7 +1533,7 @@ window.PAGE_DATA = [
       "巨乳",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-07-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/33f759d420b79d95c6bc4f90b6a407c2.jpg",
@@ -642,7 +1550,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678376182a47ebb1a89494eb/cover.jpg",
@@ -659,12 +1567,37 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/12/689ad6fd55337d7f7be4950f/cover.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-076"
+  },
+  {
+    "id": 70994,
+    "IDcode": "JUFE-077",
+    "title": "全裸NTR授業 DQNな生徒に弱みを握られ羞恥という名の快楽を肉体に教えこまれた女教師 八乃つばさ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "NTR",
+      "淫妻",
+      "白天出轨",
+      "女教师",
+      "中出",
+      "巨乳",
+      "滥交"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "八乃翼"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-077"
   },
   {
     "id": 566078,
@@ -674,7 +1607,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/7916bd86e6a38f7a2e97190d89ef69bd.jpg",
@@ -696,7 +1629,7 @@ window.PAGE_DATA = [
       "巨乳",
       "高"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-08-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/0af91419b88360737d661a1205e3f1fd.jpg",
@@ -719,7 +1652,7 @@ window.PAGE_DATA = [
       "巨乳",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-08-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20250105-1/80e62cc9a72dc82dbea14f03c0e77433.jpg",
@@ -741,7 +1674,7 @@ window.PAGE_DATA = [
       "巨乳",
       "潮吹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-08-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/01cf55d6d481e25f4e4467c6638c5be3.jpg",
@@ -765,7 +1698,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67816ad7c179ffb1db6e46e1/cover.jpg",
@@ -792,7 +1725,7 @@ window.PAGE_DATA = [
       "乱交",
       "滥交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "2019-08-01",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250110-1/9062da64922ba11e65db820627b71d23.jpg",
@@ -818,7 +1751,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/15/689f15b95f03a092cf5e5669/cover.jpg",
@@ -842,7 +1775,7 @@ window.PAGE_DATA = [
       "黑人演员",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/27935e6d45d8b3b333bb7332b470a31f.jpg",
@@ -865,7 +1798,7 @@ window.PAGE_DATA = [
       "妹妹",
       "淫语"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67818b182a47ebb1a89065c5/cover.jpg",
@@ -888,7 +1821,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2d11faeeeefb619e1c2a61b757176819.jpg",
@@ -896,6 +1829,33 @@ window.PAGE_DATA = [
       "永井瑪麗亞"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-088"
+  },
+  {
+    "id": 74487,
+    "IDcode": "JUFE-089",
+    "title": "新人元地方局アナウンサー流田みな実AVデビュー！",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "潮吹",
+      "乳交",
+      "中文字幕",
+      "首次亮相",
+      "巨乳",
+      "女主播"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "鲛岛",
+      "しみけん",
+      "玉木玲",
+      "流田みな実"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-089"
   },
   {
     "id": 74151,
@@ -912,7 +1872,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/07/677d66a289def9b1b8c28cee/cover.jpg",
@@ -939,7 +1899,7 @@ window.PAGE_DATA = [
       "美少女电影",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/11/67819e6989def9b1b8e477bf/cover.jpg",
@@ -962,7 +1922,7 @@ window.PAGE_DATA = [
       "性骚扰",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/09/677f86ec89def9b1b8cf313a/cover.jpg",
@@ -985,7 +1945,7 @@ window.PAGE_DATA = [
       "巨乳",
       "第一人称摄影"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/10/6781a3d289def9b1b8e477db/cover.jpg",
@@ -993,6 +1953,46 @@ window.PAGE_DATA = [
       "三船かれん"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-093"
+  },
+  {
+    "id": 165811,
+    "IDcode": "JUFE-095",
+    "title": "酪農を営む実家を助けるためソープで働いたら半",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-095"
+  },
+  {
+    "id": 82782,
+    "IDcode": "JUFE-096",
+    "title": "被痴女上司勾引内射-深田えいみ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "白天出轨",
+      "中出",
+      "巨乳",
+      "淫语"
+    ],
+    "type": "有码",
+    "company": "FITCH",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "深田詠美"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-096"
   },
   {
     "id": 410039,
@@ -1005,7 +2005,7 @@ window.PAGE_DATA = [
       "乱伦",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/09/689745ab55337d7f7bb6296f/cover.jpg",
@@ -1020,7 +2020,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/49906_cover_2025-06-10_092952.jpg",
@@ -1035,7 +2035,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/06/10/57743_cover_2025-06-10_100225.jpg",
@@ -1057,7 +2057,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678346bfc179ffb1db75ff8b/cover.jpg",
@@ -1076,7 +2076,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/09/68974bc655337d7f7bb62e0a/cover.jpg",
@@ -1093,7 +2093,7 @@ window.PAGE_DATA = [
     "genres": [
       "嫩妹"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/20241027/huh4XmDM/1.jpg",
@@ -1111,7 +2111,7 @@ window.PAGE_DATA = [
       "中文字幕",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/upload/vod/20210806-1/5915f4802df16eb7031c7093c8db9e1b.jpg",
@@ -1126,894 +2126,11 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "FITCH",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/6a00a8ac0767197c8af0f612e94bcf64.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-105"
-  },
-  {
-    "id": 469212,
-    "IDcode": "JUFE-107",
-    "title": "吸着マ○コでゆ～っくり亀頭をコネ回す女上司のガニ股騎乗位 大浦真奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/12/678346d0c179ffb1db75ff8d/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-107"
-  },
-  {
-    "id": 70718,
-    "IDcode": "JUFE-108",
-    "title": "脱いだら凄かった！！19才Hcup 秋葉原で見つけたリアルフィギュアBODY 指原あかねAVデビュー",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "乳交",
-      "首次亮相",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c0b6aeb64ca5dc2c941e0f0455ef9057.jpg",
-    "actress": [
-      "指原あかね"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-108"
-  },
-  {
-    "id": 524395,
-    "IDcode": "JUFE-111",
-    "title": "W肉便器 巨乳の若妻达を同时に変态调教した记录 三船可怜 新村晶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/kK0GOfcW/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-111"
-  },
-  {
-    "id": 78510,
-    "IDcode": "JUFE-112",
-    "title": "CHINASES SUB  新婚の僕が出張先で女上司とまさかの相部屋 朝から晩まで性奴隷にされた逆NTR",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "荡妇",
-      "巨大屁股",
-      "白天出轨",
-      "淫妻",
-      "中出",
-      "淫语"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20240806-1/13de5e819025d281614d9fb00c73ddf6.jpg",
-    "actress": [
-      "望月憧",
-      "Qべぇ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-112"
-  },
-  {
-    "id": 100251,
-    "IDcode": "JUFE-114",
-    "title": "男子は僕一人だけ！ 水泳部の合宿で巨乳の先生と先輩達にたっぷりシゴかれ初体験がドリーム大乱交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "巨乳",
-      "乱交",
-      "滥交",
-      "主观视角"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2019-11-13",
-    "cover_url": "https://pics.dmm.co.jp/mono/movie/adult/jufe114/jufe114pl.jpg",
-    "actress": [
-      "大槻响",
-      "深田詠美",
-      "八乃翼",
-      "佐知子",
-      "稻场流花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-114"
-  },
-  {
-    "id": 94973,
-    "IDcode": "JUFE-115",
-    "title": "第一次接受禁欲男優大量精子超敏感美少女顫抖中出大絶頂！倉田安娜[有碼高清]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中文字幕",
-      "中出",
-      "美少女电影",
-      "巨乳",
-      "高清画质"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/8f71444c76c4d15ab59a4234a720955e.jpg",
-    "actress": [
-      "しいなのあ",
-      "玉木玲"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-115"
-  },
-  {
-    "id": 76488,
-    "IDcode": "JUFE-116",
-    "title": "研修旅行NTR乱交会社の研修旅行で酒と媚薬を",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "OL",
-      "白天出轨",
-      "淫妻",
-      "中文字幕",
-      "中出",
-      "巨乳",
-      "乱交",
-      "滥交"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/43aff27aeb7876c1f0f5ab83ae3f0f6a.jpg",
-    "actress": [
-      "小田切ジュン",
-      "真琴",
-      "丸千香子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-116"
-  },
-  {
-    "id": 76486,
-    "IDcode": "JUFE-117",
-    "title": "すぐそばに彼女がいるのに美乳を密着させて",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中文字幕",
-      "中出",
-      "妹妹",
-      "淫语",
-      "高"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/d37cd708bd1e14e5959080713fadb502.jpg",
-    "actress": [
-      "奏音花音",
-      "中尾芽衣子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-117"
-  },
-  {
-    "id": 524390,
-    "IDcode": "JUFE-118",
-    "title": "絶対的上から目线で爆乳痴女が淫语コントロール 射精を支配される究极主観JOI 永井玛丽亚",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://ll.lasha250923.top/20241027/sso5iZ5e/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-118"
-  },
-  {
-    "id": 78537,
-    "IDcode": "JUFE-119",
-    "title": "妻子去旅游的时候我下药侵犯了她可爱的巨乳妹妹根尾朱里连续五天的内射调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "调教",
-      "乱伦",
-      "白天出轨",
-      "中出",
-      "美少女电影",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/05/677a6cbd2a47ebb1a85c1485/cover.jpg",
-    "actress": [
-      "根尾朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-119"
-  },
-  {
-    "id": 70717,
-    "IDcode": "JUFE-122",
-    "title": "自豪奇蹟完美肉體的高個美腿時尚模特兒本能下的潮吹連續高潮[有碼高清]",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "潮吹",
-      "中文字幕",
-      "模特儿",
-      "中出",
-      "巨乳",
-      "高清画质",
-      "高"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://1.15250719pic.com/upload/vod/20221013/jufe00122pl.jpg",
-    "actress": [
-      "鲛岛",
-      "イセドン内村",
-      "前田いろは"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-122"
-  },
-  {
-    "id": 165830,
-    "IDcode": "JUFE-123",
-    "title": "絶品風俗-倉田アンナ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/80fc0545d0471730dcfcd82dfbc1104e.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-123"
-  },
-  {
-    "id": 94986,
-    "IDcode": "JUFE-124",
-    "title": "在出差的温泉酒店我的女朋友被黑人的大肉棒爆操内射",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨大阴茎",
-      "白天出轨",
-      "黑人演员",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2c1255428b2cecc14241aad44e0b4481.jpg",
-    "actress": [
-      "美園和花"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-124"
-  },
-  {
-    "id": 100204,
-    "IDcode": "JUFE-125",
-    "title": "ボディコン女教師痴漢卑猥な肉体を強調させる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "痴汉",
-      "中文字幕",
-      "女教师",
-      "中出",
-      "性骚扰",
-      "巨乳",
-      "滥交"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/df6679a1396ef70f0c1dc3b802bbd0a5.jpg",
-    "actress": [
-      "森本つぐみ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-125"
-  },
-  {
-    "id": 77355,
-    "IDcode": "JUFE-126",
-    "title": "摄像机记录下油腻的大叔对巨乳美女内射调教的一天由被动到主动索取的转变",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "第一人称摄影",
-      "流汗",
-      "中出",
-      "巨乳",
-      "高"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/eb6700f035708f0bc06c878e649d8b4d.jpg",
-    "actress": [
-      "奏音花音"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-126"
-  },
-  {
-    "id": 78508,
-    "IDcode": "JUFE-127",
-    "title": "第一人称视角感受长腿痴女淫语控制主观支配射精",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "恋腿癖",
-      "主观视角",
-      "淫语",
-      "高"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/3341fe9d28eb9536607321cf5ad3f9b3.jpg",
-    "actress": [
-      "佐藤爱琉"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-127"
-  },
-  {
-    "id": 94992,
-    "IDcode": "JUFE-128",
-    "title": "合租的小男生遇到两个很久没做爱的小姐姐室友真的是羊入虎口",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "多P",
-      "乱伦",
-      "中出",
-      "巨乳",
-      "淫语"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2024-11-22",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/751162294ad83642a5c7badf987bf9eb.jpg",
-    "actress": [
-      "小森美久露",
-      "高坂あいり"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-128"
-  },
-  {
-    "id": 78509,
-    "IDcode": "JUFE-129",
-    "title": "身为巨乳女主播的搭档唯一的要求就是肉棒必须时刻做好准备以便玩弄调教",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "中出",
-      "巨乳",
-      "女主播",
-      "接吻"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1faaa9ed0638189db78a56ba12d29175.jpg",
-    "actress": [
-      "流田みな実"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-129"
-  },
-  {
-    "id": 63518,
-    "IDcode": "JUFE-130",
-    "title": "密室性交-佐山愛",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "流汗",
-      "已婚妇女",
-      "胖女人",
-      "中出",
-      "巨乳",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/1601cb205a38b3419fbc633a678c80fb.jpg",
-    "actress": [
-      "佐山爱"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-130"
-  },
-  {
-    "id": 75727,
-    "IDcode": "JUFE-131",
-    "title": "憋了很久尿的巨乳人妻到家就去上厕所没想到一屁股坐在小叔的肉棒上被射满精液",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "淫乱，真实",
-      "人妻",
-      "已婚妇女",
-      "胖女人",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/d1e83ddc7d9aec05620fc1e0267be974.jpg",
-    "actress": [
-      "小梅惠奈"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-131"
-  },
-  {
-    "id": 75516,
-    "IDcode": "JUFE-132",
-    "title": "老婆去旅行的五天我强奸她的美女巨乳姐姐每天都疯狂内射逐渐蚕食她的理智",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "乱伦",
-      "白天出轨",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/18005033db71a92dbf8ee93bb6738608.jpg",
-    "actress": [
-      "新井爱丽"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-132"
-  },
-  {
-    "id": 470779,
-    "IDcode": "JUFE-133",
-    "title": "W肉便器 巨乳の若妻達を同時に変態調教した記録 葉月桃 大浦真奈美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/05/677a6ed12a47ebb1a85c149c/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-133"
-  },
-  {
-    "id": 77991,
-    "IDcode": "JUFE-134",
-    "title": "汗液流淌腰部乱扭下流的痴女肉臀内射性交",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "屁股",
-      "荡妇",
-      "中出",
-      "晒黑",
-      "讲师"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20241104-1/20b6fc59f74f58208b4bd4ef61b33118.jpg",
-    "actress": [
-      "イセドン内村",
-      "今井夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-134"
-  },
-  {
-    "id": 406539,
-    "IDcode": "JUFE-135",
-    "title": "新人 G罩杯現役國際線空姐 瀨崎彩音AV出道",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/41e830d8d07e6b742c6e816e0f0bbb0d.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-135"
-  },
-  {
-    "id": 76842,
-    "IDcode": "JUFE-137",
-    "title": "新婚の僕が出張先で女上司とまさかの相部屋 朝から晩まで性奴●にされた逆NTR 根尾あかり",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "NTR",
-      "荡妇",
-      "巨大屁股",
-      "白天出轨",
-      "淫妻",
-      "中出",
-      "淫语"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/2f88a884e304cc44c7bcc0fd5dde3673.jpg",
-    "actress": [
-      "根尾朱里"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-137"
-  },
-  {
-    "id": 76843,
-    "IDcode": "JUFE-138",
-    "title": "社長が出張で不在中に爆尻の社長夫人に誘惑され杭打ち騎乗位で中出しを強●されまくった3日間の話 永井マリア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "已婚妇女",
-      "巨大屁股",
-      "中出",
-      "女上位"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/b240c8ee6858082ee1ef306bc6f8cb0e.jpg",
-    "actress": [
-      "永井瑪麗亞"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-138"
-  },
-  {
-    "id": 75517,
-    "IDcode": "JUFE-139",
-    "title": "オヤジの濃厚テクでイクイク体質にされた爆乳女子大生 佐藤ゆか",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "女大学生",
-      "自慰",
-      "乳交",
-      "中出",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/9b696414e75c0bcc48066baeed67266c.jpg",
-    "actress": [
-      "结々萌奈実"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-139"
-  },
-  {
-    "id": 75634,
-    "IDcode": "JUFE-140",
-    "title": "心もカラダも解放され濃密に交わる素顔の中出し旅行 流田みな実",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "纪录片",
-      "中出",
-      "巨乳",
-      "女主播",
-      "第一人称摄影"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/bc8afb07a3c952eb81483e5d11bd7bd8.jpg",
-    "actress": [
-      "流田みな実"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-140"
-  },
-  {
-    "id": 465080,
-    "IDcode": "JUFE-143",
-    "title": "妻との妊活のために1ヶ月頑張って溜めたのに… 自分の夫とは仕事の都合でSEX出来ないからと乳首が浮き立つノーブラ爆乳で僕の精子を横取りする妻の姉 目黒惠",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677de7bc89def9b1b8c76135/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-143"
-  },
-  {
-    "id": 533527,
-    "IDcode": "JUFE-144",
-    "title": "家出娘を自宅に连れ込み朝から晩まで种付け调教 俺専用！爆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "http://15.155250922.com/upload/vod/2022/09/bc4vu0ur1pd.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-144"
-  },
-  {
-    "id": 465087,
-    "IDcode": "JUFE-145",
-    "title": "超絶倫弟にハメられまくる無防備な爆乳姉 童貞弟を誘惑したつもりが…まさかの逆転！ 長瀨麻美",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677deb9f89def9b1b8c7613b/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-145"
-  },
-  {
-    "id": 100200,
-    "IDcode": "JUFE-146",
-    "title": "ボディコン女教師痴● 卑猥な肉体を強調させる服を選んだばかりに田舎のDQNな生徒達に狙われて… 織田真子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "中出",
-      "滥交",
-      "巨乳",
-      "女教师"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677de9f889def9b1b8c7613a/cover.jpg",
-    "actress": [
-      "織田真子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-146"
-  },
-  {
-    "id": 83617,
-    "IDcode": "JUFE-147",
-    "title": "密会スイートルーム 欲望のまま貪り合う10発中出しSEX 流田みな実",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乳交",
-      "姐姐",
-      "中出",
-      "巨乳",
-      "女主播"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "2020-03-01",
-    "cover_url": "https://fmtu.sl2025p.com/upload/vod/20221229-1/c49fc181e6553f9a0a7f41270eb3d447.jpg",
-    "actress": [
-      "流田みな実"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-147"
-  },
-  {
-    "id": 220279,
-    "IDcode": "JUFE-148",
-    "title": "带巨乳老婆去温泉旅游-河北はるな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/77bd0e44db4190b45570ba2bfe97dc31.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-148"
-  },
-  {
-    "id": 75777,
-    "IDcode": "JUFE-149",
-    "title": "密着して舐め尽くす むしゃぶり唾液痴女 今井夏帆",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨大屁股",
-      "中出",
-      "接吻",
-      "高中女生"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg2.com:3519/upload/vod/20241129-1/cffa46fe76c639b656a55dfa5a199293.jpg",
-    "actress": [
-      "しみけん",
-      "今井夏帆"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-149"
-  },
-  {
-    "id": 220278,
-    "IDcode": "JUFE-151",
-    "title": "欲求不满的巨乳人妻-春菜はな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "人妻",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-7/686894ec65dcae55b960fd39cce52fe4.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-151"
-  },
-  {
-    "id": 220663,
-    "IDcode": "JUFE-152",
-    "title": "关西H罩杯美女-月森ゆの",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/efa8aeb4afafa9ffa3f9fa016d6f3156.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-152"
-  },
-  {
-    "id": 220901,
-    "IDcode": "JUFE-153",
-    "title": "巨臀外围美女AV出道-美波沙耶",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "出道作"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202501/08/677e2dbe89def9b1b8c77702/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-153"
-  },
-  {
-    "id": 220857,
-    "IDcode": "JUFE-154",
-    "title": "巨乳文学系痴女妹妹-深田えいみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "乱伦",
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20231003-1/c5462f5272a615a27a5450b78b7c555b.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-154"
-  },
-  {
-    "id": 220662,
-    "IDcode": "JUFE-155",
-    "title": "巨乳痴女-永井マリア",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-6/ecb3277f093735c6b709b6b55871c243.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-155"
-  },
-  {
-    "id": 83631,
-    "IDcode": "JUFE-156",
-    "title": "慢慢转动龟头的女总裁",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "荡妇",
-      "巨大屁股",
-      "中出",
-      "巨乳",
-      "女上位"
-    ],
-    "type": "",
-    "company": "FITCH",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20240427-1/c2d1e4d69372e48d58b7f36c51121ffb.jpg",
-    "actress": [
-      "玉木玲",
-      "三船かれん"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JUFE-156"
   }
 ];

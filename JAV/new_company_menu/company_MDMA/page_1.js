@@ -9,7 +9,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MDMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250223/62a9e32e-0502-4762-8bef-492ec8891d51.jpg",
@@ -76,7 +76,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MDMA",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/08/17/215b17d9/vod.jpg",
@@ -115,7 +115,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MDMA",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250309/88f164bd-3f62-4f4e-8a34-40b5faf8bcae.jpg",

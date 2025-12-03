@@ -7,7 +7,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/09/29/47504_cover_2025-09-29_120636.jpg",
@@ -25,12 +25,59 @@ window.PAGE_DATA = [
       "人妻",
       "淫妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/10/02/93076_cover_2025-10-02_145642.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=888NKKD-A292"
+  },
+  {
+    "id": 83572,
+    "IDcode": "FFFS-012",
+    "title": "熟女連れ込み！ 他人棒と遊ぶ人妻 盗撮ドキュメントのすべて9 ～清楚系・痴女熟女編～ 秋子さん（39・長身170cm）Eカップ 美紀子さん（40・美人）Eカップ",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "偷窥",
+      "白天出轨",
+      "成熟的女人",
+      "巨乳",
+      "高"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "2019-12-19",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-012"
+  },
+  {
+    "id": 81674,
+    "IDcode": "FFFS-015",
+    "title": "熟女連れ込み！ 他人棒と遊ぶ人妻 盗撮ドキュメントのすべて12 ～超爆Iカップ熟女が理性失い中出し懇願編～ 美波さん・Iカップ・39歳・コンビ二パート妻→中出し 希さん・Iカップ・44歳・スーパー勤務妻→中出し",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "偷窥",
+      "巨大屁股",
+      "超乳",
+      "中出",
+      "成熟的女人"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "2020-03-13",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "原田千晶",
+      "朝仓凪"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-015"
   },
   {
     "id": 521020,
@@ -42,7 +89,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://xing.sex8sex833.com/20250926/1OXZ2ELG/1.jpg",
@@ -59,7 +106,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202507/29/68886d9f98bc99dfdda8679b/cover.jpg",
@@ -76,7 +123,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://sex8sex8sex8.com/20250601/ZC2CRre3/1.jpg",
@@ -93,7 +140,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230521/r19uOuwq/1.jpg",
@@ -111,7 +158,7 @@ window.PAGE_DATA = [
       "人妻",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230627/LKVDEB5s/1.jpg",
@@ -128,7 +175,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230815/hegDak3o/1.jpg",
@@ -145,7 +192,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230909/1tGxt7pE/1.jpg",
@@ -162,7 +209,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231111/n6AiawDb/1.jpg",
@@ -179,7 +226,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231210/MioWHTdk/1.jpg",
@@ -196,7 +243,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240211/w43Th6rL/1.jpg",
@@ -213,7 +260,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240310/4myypsTM/1.jpg",
@@ -230,7 +277,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240512/vAqh8WFN/1.jpg",
@@ -247,7 +294,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240609/sSq1nO3Y/1.jpg",
@@ -262,7 +309,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/20/68f65731eb67774efbf631ad/poster2.jpg",
@@ -279,7 +326,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240813/oktolDIm/1.jpg",
@@ -296,7 +343,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240927/i1qJM14u/1.jpg",
@@ -311,7 +358,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251112-1/0fe7cdf52f1ca8d5e3e6cac03624521c.jpg",
@@ -364,7 +411,7 @@ window.PAGE_DATA = [
       "偷窺",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2024-12-10",
     "cover_url": "https://picture.yoshiclub.xyz/20241207/42dfa0b1-9b39-4ac7-b1f7-8bc7de720322.jpg",
@@ -417,7 +464,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "少妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250112/807339eb-436a-4153-b565-505caf5ddd76.jpg",
@@ -438,7 +485,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/11/6899466a55337d7f7bcfa526/cover.jpg",
@@ -486,7 +533,7 @@ window.PAGE_DATA = [
       "偷窺",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2025-04-08",
     "cover_url": "https://picture.yoshiclub.xyz/20250405/e0583f02-1015-416e-b573-b2d74641c345.jpg",
@@ -506,12 +553,29 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/06/13/982bb4dff959a8b09b61e8c1b05b5b05.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-062"
+  },
+  {
+    "id": 449848,
+    "IDcode": "FFFS-063",
+    "title": "熟女連れ込み他人棒と遊ぶ人妻盗撮ドキュメントのすべて55蒸れたセクシーな黒パンストを履",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-063"
   },
   {
     "id": 4623,
@@ -538,7 +602,7 @@ window.PAGE_DATA = [
       "口交",
       "不倫"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250718-1/463b689f1744f4610c620fe31057bc10.jpg",
@@ -562,7 +626,7 @@ window.PAGE_DATA = [
       "白天出轨",
       "高"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250816-1/c837228abf73fae4a830120c42568d75.jpg",
@@ -570,6 +634,106 @@ window.PAGE_DATA = [
       "ひょこり"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-065"
+  },
+  {
+    "id": 2964,
+    "IDcode": "FFFS-066",
+    "title": "盗撮ドキュメントのすべて58 あり余る性欲が我慢できず年下に手を出した若妻編 結花さん・Hカップ・30歳・アソコが疼いてオナニーばかりの若妻 朱里さん・Dカップ・33歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "巨尻",
+      "若妻",
+      "口爆",
+      "慾求不滿",
+      "真實拍攝",
+      "豐滿",
+      "素人作品",
+      "綠茶婊",
+      "偷拍・盜撮",
+      "臀控",
+      "美腳",
+      "癡女",
+      "胸控・戀乳癖",
+      "色白",
+      "美乳",
+      "巨乳",
+      "口交",
+      "性感",
+      "熟女",
+      "形象俱樂部",
+      "人妻",
+      "NTR",
+      "美人妻",
+      "約炮",
+      "高顏值",
+      "極品美人",
+      "蠻橫嬌羞",
+      "超爆乳",
+      "出軌",
+      "中出",
+      "美人",
+      "企畫",
+      "美腿",
+      "後入",
+      "美臀",
+      "絕頂高潮",
+      "不倫",
+      "舔陰",
+      "脚控・戀足癖",
+      "手指插入",
+      "自慰",
+      "高妹",
+      "無毛",
+      "黑絲",
+      "女上位",
+      "騎乗位"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "皆瀨明里",
+      "小野坂唯香"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-066"
+  },
+  {
+    "id": 176708,
+    "IDcode": "FFFS-067",
+    "title": "熟女連れ込み！ 他人棒と遊ぶ人妻 盗撮ドキュメントのすべて59 勃起チ●ポを欲しがる巨乳若妻編 未央さんGカップ33歳 臭いチ●ポほど萌える若妻 野々花さんHカップ32歳",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-067"
+  },
+  {
+    "id": 567355,
+    "IDcode": "FFFS-07",
+    "title": "熟熟连れ込み！他人棒と游ぶ人妻盗撮ドキュメントのすべて4第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-07"
   },
   {
     "id": 567354,
@@ -581,12 +745,29 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://fm.lbtup2025.com/upload/vod/2020/05-21/18/qjqgt1jeeim1801qjqgt1jeeim392307.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-08"
+  },
+  {
+    "id": 567363,
+    "IDcode": "FFFS-09",
+    "title": "熟熟连れ込み！他人棒と游ぶ人妻盗撮ドキュメントのすべて6～长身！第01集",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=FFFS-09"
   },
   {
     "id": 589561,
@@ -598,7 +779,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/03/21744_cover_2025-07-03_023017.jpg",
@@ -615,7 +796,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://xing.sex8sex833.com/20250929/4ZQtTGhP/1.jpg",
@@ -630,7 +811,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202508/08/6895db8455337d7f7ba4a095/cover.jpg",
@@ -652,12 +833,34 @@ window.PAGE_DATA = [
       "已婚妇女",
       "中出"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2022-08-16",
     "cover_url": "https://fm.sl25914.com/upload/vod/20230729-1/585b5bdf840061962d5d86f7013bab45.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJBK-058"
+  },
+  {
+    "id": 87516,
+    "IDcode": "JJBK-059",
+    "title": "熟女限定 熟女が部屋にやって来た お持ち帰り盗撮 そのままAV発売へ57 幼気な年下に性的興奮をおぼえる人妻編 未奈代さん/Hカップ/43才/バイトの年下にSEXをせがまれる人妻 佳奈さん/Fカップ/43才/息子の友達にせまられその気になる人妻",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "人妻",
+      "偷窥",
+      "已婚妇女",
+      "巨大屁股",
+      "超乳",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "2022-09-20",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJBK-059"
   },
   {
     "id": 563985,
@@ -667,7 +870,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230718/sPnSGF98/1.jpg",
@@ -682,7 +885,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230917/Zn7a9pDB/1.jpg",
@@ -697,7 +900,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231119/joADrphh/1.jpg",
@@ -712,7 +915,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231217/k4h0FuLg/1.jpg",
@@ -729,7 +932,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240218/VMygBCKG/1.jpg",
@@ -746,7 +949,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240317/9bX9DNgT/1.jpg",
@@ -761,7 +964,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240521/2hIHhPoD/1.jpg",
@@ -776,7 +979,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/11/69127ef86b81af1f85474db0/poster2.jpg",
@@ -791,7 +994,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202510/12/68ea96d42c5ed64ee9e6549f/cover.jpg",
@@ -808,7 +1011,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240819/uiwJmWvQ/1.jpg",
@@ -823,7 +1026,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241002/utqnbJ8a/1.jpg",
@@ -840,7 +1043,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20241029/VyEgn1Lf/1.jpg?t=1730255404",
@@ -875,7 +1078,7 @@ window.PAGE_DATA = [
       "偷窺",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2024-12-17",
     "cover_url": "https://picture.yoshiclub.xyz/20241214/35fc5875-5f32-4c1b-9a62-74d54b893c11.jpg",
@@ -932,7 +1135,7 @@ window.PAGE_DATA = [
       "偷窺",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2025-01-21",
     "cover_url": "https://picture.yoshiclub.xyz/20250122/4f6dc1d1-8304-4d42-a89e-7db508e52afa.jpg",
@@ -950,7 +1153,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250820-1/5ba4822175396fc0d9c28a7d3e0617fb.jpg",
@@ -965,7 +1168,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250716-1/81730a5e8c45ab9b44966225a17a40e4.jpg",
@@ -980,7 +1183,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250620-1/dd77b8612d2efcc417536dd901f671f7.jpg",
@@ -995,12 +1198,35 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20250813/sEf6eTzZ/1.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJBK-079"
+  },
+  {
+    "id": 61567,
+    "IDcode": "JJBK-081",
+    "title": "熟女限定 熟女が部屋にやって来た お持ち帰り盗撮 そのままAV発売へ79 旦那より不倫快楽を優先する妻たち編",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "偷窥",
+      "出轨",
+      "白天出轨",
+      "巨乳"
+    ],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [
+      "ひょこり"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJBK-081"
   },
   {
     "id": 180611,
@@ -1012,7 +1238,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/20/25291cb9/vod.jpg",
@@ -1029,7 +1255,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/10/23/0a2123d1/vod.jpg",
@@ -1050,7 +1276,7 @@ window.PAGE_DATA = [
       "成熟的女人",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2020-01-01",
     "cover_url": "https://sex8sex8sex8.com/20250510/huDISNBd/1.jpg",
@@ -1061,6 +1287,21 @@ window.PAGE_DATA = [
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-001"
   },
   {
+    "id": 533532,
+    "IDcode": "JJDA-003",
+    "title": "_A 邻の奥さんからのおすそわけ Part 1",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [],
+    "type": "有码",
+    "company": "卍GROUP",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-003"
+  },
+  {
     "id": 547924,
     "IDcode": "JJDA-006",
     "title": "兄贵に揉まれた弟嫁 若月みいな",
@@ -1068,7 +1309,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20200919-1/83587d74313b5fa0d6a3b6501f9ff2a2.jpg",
@@ -1083,7 +1324,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/20240105/1601209648-jjda010pl.jpg!320x216.jpg",
@@ -1098,7 +1339,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-9/0a349d81d819774c5900a0cf77f33fbf.jpg",
@@ -1119,7 +1360,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/f6f9302a42baf2719329695786372c8e.jpg",
@@ -1143,7 +1384,7 @@ window.PAGE_DATA = [
       "中出",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2021-05-01",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-1/98083bd3ffec1657fbd5cabef988cb4b.jpg",
@@ -1166,7 +1407,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-2/189458165ab50f4eb06117fe9d10b1cf.jpg",
@@ -1189,7 +1430,7 @@ window.PAGE_DATA = [
       "巨乳",
       "处男"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2021-12-07",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/59938d439350c76313a0b796f654b567.jpg",
@@ -1214,7 +1455,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2022-02-01",
     "cover_url": "https://fm.sl25914.com/upload/vod/20220904-1/3ad6317ca21aad3a901fd6d61f469dff.jpg",
@@ -1231,7 +1472,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/487aa517061e4c4e0a70bfcc816aa191.jpg",
@@ -1248,7 +1489,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/57ceacd74b3bc60c90f39042d71ba0ac.jpg",
@@ -1270,7 +1511,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2022-08-02",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/f6dc68ba6a2e649d78b3b0899bf21df2.jpg",
@@ -1294,7 +1535,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2022-09-06",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20230729-1/2c6896d86725fedcaed3b869e83f145d.jpg",
@@ -1311,7 +1552,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/dc522cb7b53a9e82cd2a569d77acd66a.jpg",
@@ -1333,7 +1574,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2022-11-01",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/e1236d9beed5af71e9c3896aa7536fb3.jpg",
@@ -1348,7 +1589,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20221207/1h4IRuUT/1.jpg",
@@ -1363,7 +1604,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230714/pJuVwaAi/1.jpg",
@@ -1380,7 +1621,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230731/Yzn5b3En/1.jpg",
@@ -1402,7 +1643,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-1/9925ccbf8d76b26bd59019f8de664ba9.jpg",
@@ -1421,7 +1662,7 @@ window.PAGE_DATA = [
     "genres": [
       "人妻"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230906/WmIGG46h/1.jpg",
@@ -1436,7 +1677,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230930/pGxKtEuU/1.jpg",
@@ -1451,7 +1692,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231104/dvNYkvl9/1.jpg",
@@ -1466,7 +1707,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231203/soHAONA8/1.jpg",
@@ -1481,7 +1722,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240101/x3uetnCR/1.jpg",
@@ -1496,7 +1737,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://sex8sex811.com/20250712/jgZbc9Zm/1.jpg",
@@ -1511,7 +1752,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240304/zjUHmoWn/1.jpg",
@@ -1526,7 +1767,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240402/mS8f2PBb/1.jpg",
@@ -1541,7 +1782,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240505/WqI8GuC5/1.jpg",
@@ -1580,7 +1821,7 @@ window.PAGE_DATA = [
       "劇情",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2024-05-31",
     "cover_url": "https://picture.yoshiclub.xyz/20240602/20240602024808209209.jpg",
@@ -1622,7 +1863,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2024-07-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240628/661f30a0-5d60-4681-bb6c-21b2a03bedda.jpg",
@@ -1665,7 +1906,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "2024-08-06",
     "cover_url": "https://picture.yoshiclub.xyz/20240807/15e7b8ea-2a9f-43d0-9d9b-ded05814a762.jpg",
@@ -1682,7 +1923,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20241002/T5zZWcw7/1.jpg",
@@ -1697,7 +1938,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/27/585ec23e3fe5fd2d7d0b39233fe2b409.jpg",
@@ -1739,7 +1980,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/10/16/4690fba855d586b9709ccb85157220ec.jpg",
@@ -1756,7 +1997,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/23/7a4b624b/vod.jpg",
@@ -1778,7 +2019,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/09/02/a7bbd3a4da15f4d84a9ae693cc5ea337.jpg",
@@ -1831,7 +2072,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/20250130/202501300838219999.jpg",
@@ -1848,7 +2089,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250801-1/0cfc1140ed569d09bb18ee5d0f6c8ed7.jpg",
@@ -1870,7 +2111,7 @@ window.PAGE_DATA = [
       "巨乳",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "卍GROUP",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/6b1fcce1c82a111137f9a27ac434521a.jpg",
@@ -1878,320 +2119,5 @@ window.PAGE_DATA = [
       "小早川怜子"
     ],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-059"
-  },
-  {
-    "id": 6430,
-    "IDcode": "JJDA-060",
-    "title": "上司の奥方様 平岡里枝子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "慾求不滿",
-      "羞恥",
-      "自宅",
-      "寢取",
-      "巨乳",
-      "口交",
-      "熟女",
-      "單體作品",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "四十路",
-      "中出",
-      "蕩婦",
-      "後入",
-      "劇情",
-      "不倫",
-      "上司女友・妻子",
-      "酒後亂性",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250501/20250501043959956956_thumbnail.webp",
-    "actress": [
-      "平岡里枝子",
-      "トミフミ",
-      "平冈里枝子"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-060"
-  },
-  {
-    "id": 5651,
-    "IDcode": "JJDA-061",
-    "title": "慾求不滿的嫂子勾搭小叔 哥哥養病中我用硬挺挺的小弟之力讓她爽翻天 ~ 多田有花",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "艷遇",
-      "慾求不滿",
-      "三十路",
-      "苗條",
-      "嫂嫂",
-      "美腳",
-      "勾引・誘惑",
-      "大奶头",
-      "美乳",
-      "口交",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "淫亂",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "不倫",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "御姐系",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://picture.yoshiclub.xyz/compressed/20250529/20250529173148423423_thumbnail.webp",
-    "actress": [
-      "多田有花",
-      "じゅうもんじ"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-061"
-  },
-  {
-    "id": 62449,
-    "IDcode": "JJDA-062",
-    "title": "親方の巨根でねとられた妻 今井栞菜",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "苗条",
-      "已婚妇女",
-      "白天出轨",
-      "乳房",
-      "中出",
-      "单体作品"
-    ],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250710-1/f937ed7127060e586417e10b567c6275.jpg",
-    "actress": [
-      "今井栞菜"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-062"
-  },
-  {
-    "id": 3885,
-    "IDcode": "JJDA-063",
-    "title": "加害者の嫁 恥辱の性処理ご奉仕謝罪 夏川あゆみ",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "奇聞趣事",
-      "巨尻",
-      "豐滿",
-      "羞恥",
-      "胸控・戀乳癖",
-      "自宅",
-      "謝罪",
-      "美乳",
-      "巨乳",
-      "口交",
-      "性感",
-      "形象俱樂部",
-      "單體作品",
-      "人妻",
-      "NTR",
-      "美人妻",
-      "短髮",
-      "內衣",
-      "中出",
-      "美人",
-      "美腿",
-      "後入",
-      "劇情",
-      "舔陰",
-      "手指插入",
-      "無毛",
-      "乳交",
-      "脅迫做愛",
-      "金髮",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250811-1/52443ed575eae51cdaf24050f2929b4a.jpg",
-    "actress": [
-      "夏川步美"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-063"
-  },
-  {
-    "id": 3142,
-    "IDcode": "JJDA-064",
-    "title": "お義兄さん、健二さんのより太くて硬くて大きいです…巨根義兄にねとられた弟の嫁 宮西ひかる",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "濕身",
-      "純粹的慾望",
-      "慾求不滿",
-      "豐滿",
-      "綠茶婊",
-      "嫂嫂",
-      "臀控",
-      "阪道系",
-      "胸控・戀乳癖",
-      "自宅",
-      "色白",
-      "美乳",
-      "清楚系",
-      "巨乳",
-      "口交",
-      "性感",
-      "熟女",
-      "形象俱樂部",
-      "單體作品",
-      "NTR",
-      "人妻",
-      "美人妻",
-      "高顏值",
-      "淫亂",
-      "極品美人",
-      "出軌",
-      "中出",
-      "蕩婦",
-      "美人",
-      "美腿",
-      "後入",
-      "美臀",
-      "劇情",
-      "絕頂高潮",
-      "不倫",
-      "清純",
-      "舔陰",
-      "手指插入",
-      "乳交",
-      "偷竊",
-      "御姐系",
-      "家庭主妇",
-      "女上位",
-      "騎乗位"
-    ],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/images/2025/09/05/1cc7302ccec6efde0bcb4a9ac0bc7311.jpg",
-    "actress": [
-      "宮西光"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-064"
-  },
-  {
-    "id": 173809,
-    "IDcode": "JJDA-065",
-    "title": "無職で堕落したナマポ暮らしを送る典型的ダメ人間の俺がマジメに働いてちゃんと納税してる 波多野結衣",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://tutu1.space/video/m3u8/2025/11/04/ef920e1d/vod.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JJDA-065"
-  },
-  {
-    "id": 215887,
-    "IDcode": "JYMA-003",
-    "title": "jyma-003 K杯和大屁股的妻子",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "巨乳"
-    ],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250512-12/da2b06a3e55800d3139599e58935ca45.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-003"
-  },
-  {
-    "id": 221110,
-    "IDcode": "JYMA-006",
-    "title": "性爱怪物-若月みいな",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://voddadaizi.com:52866/videos/202507/11/6870545143d69727160f6ef7/cover.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-006"
-  },
-  {
-    "id": 162154,
-    "IDcode": "JYMA-006-C",
-    "title": "自宅に男を連れ込んで犯し犯されのエンドレスSEX 性欲モンスター肉感ボディM痴女妻 バスト",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [],
-    "type": "",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://sex8sex811.com/20250626/vuV0aI4u/1.jpg",
-    "actress": [],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-006-C"
-  },
-  {
-    "id": 63417,
-    "IDcode": "JYMA-011",
-    "title": "男に迫られると股間を開いてヤラれる 断りきれない肉感ボディ巨乳マゾ妻 Gカップとデカ尻を責められイキまくるM奥様",
-    "year": "",
-    "country": "",
-    "genre": "",
-    "genres": [
-      "已婚妇女",
-      "巨大屁股",
-      "白天出轨",
-      "中出",
-      "巨乳",
-      "无码"
-    ],
-    "type": "无码",
-    "company": "卍GROUP",
-    "publish_date": "",
-    "cover_url": "https://lust103.cc/upload/vod/20250703-2/5bc881cf976da12613ddb5146670550e.jpg",
-    "actress": [
-      "田中寧寧"
-    ],
-    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=JYMA-011"
   }
 ];

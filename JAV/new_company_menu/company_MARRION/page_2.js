@@ -1,5 +1,152 @@
 window.PAGE_DATA = [
   {
+    "id": 68496,
+    "IDcode": "MMUS-072",
+    "title": "小悪魔挑発美少女-琴音華",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫语",
+      "内衣",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-4/b0547d693379bf8ed7505d45c81e4748.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-072"
+  },
+  {
+    "id": 68495,
+    "IDcode": "MMUS-073",
+    "title": "小悪魔挑発美少女-五十嵐美月",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫语",
+      "内衣",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-4/b6f42e6f023341639f1bac57ab6661b5.jpg",
+    "actress": [
+      "五十嵐美月"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-073"
+  },
+  {
+    "id": 92374,
+    "IDcode": "MMUS-074",
+    "title": "小悪魔挑発美少女-円井萌华",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "瘦小身型",
+      "校服",
+      "恶作剧",
+      "内衣",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/e65c34176f55b3a784bf83758229f387.jpg",
+    "actress": [
+      "円井萌華"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-074"
+  },
+  {
+    "id": 92373,
+    "IDcode": "MMUS-075",
+    "title": "小恶魔辣妹-斋藤艾米丽",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "荡妇",
+      "内衣",
+      "恋物癖",
+      "女生",
+      "单体作品"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-3/d304eef23363567dc97a6615983a0784.jpg",
+    "actress": [
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-075"
+  },
+  {
+    "id": 168408,
+    "IDcode": "MMUS-076",
+    "title": "小悪魔挑発ギャル 皆瀬あかり",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://1.15250719pic.com/upload/vod/20240131/mmus076pl.jpg!320x216.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-076"
+  },
+  {
+    "id": 107376,
+    "IDcode": "MMUS-077",
+    "title": "小恶魔调情美少-逢月日葵",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "淫语",
+      "内衣",
+      "单体作品",
+      "高中女生"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/ec81123f8cb92669c8014388f32b3a13.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-077"
+  },
+  {
+    "id": 107455,
+    "IDcode": "MMUS-078",
+    "title": "撩拨走光",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "内衣",
+      "OL",
+      "荡妇",
+      "4K"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://lust103.cc/upload/vod/20250512-2/8f7d3565d93bac2defab6368cb47b8eb.jpg",
+    "actress": [
+      "斋藤亚美里"
+    ],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMUS-078"
+  },
+  {
     "id": 448109,
     "IDcode": "MMUS-079",
     "title": "小悪魔挑発美少女",
@@ -7,7 +154,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/d71ec9987de934511cf2c497be73581a.jpg",
@@ -28,7 +175,7 @@ window.PAGE_DATA = [
       "短裙・迷你裙",
       "學校"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/48ad8bf978d8a2234e2d6097ec0a84a1.jpg",
@@ -50,7 +197,7 @@ window.PAGE_DATA = [
       "蕩婦",
       "猥褻穿著"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-1/6fff6da7db915e77fd7370af3e1fa449.jpg",
@@ -72,7 +219,7 @@ window.PAGE_DATA = [
       "单体作品",
       "高中女生"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20240214-1/4be342c410924ca921ed6e5c0382b24d.jpg",
@@ -104,7 +251,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "女同事"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240219-1/206d6bfce775018946e1e6ca932f74f0.jpg",
@@ -121,7 +268,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202511/03/6907b820e264e6282dfd2802/poster2.jpg",
@@ -174,7 +321,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-04-02",
     "cover_url": "https://picture.yoshiclub.xyz/20240401/20240401093244553553.jpg",
@@ -228,7 +375,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240819-1/7103abf0f5060189d54e204eb19d025e.jpg",
@@ -271,7 +418,7 @@ window.PAGE_DATA = [
       "乳交",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240819-1/52015e4f30182c3ffb8002b083296abd.jpg",
@@ -288,7 +435,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-06-29",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20241008-1/083590164fe750643ebc9a6db580814e.jpg",
@@ -318,7 +465,7 @@ window.PAGE_DATA = [
       "短裙・迷你裙",
       "少女"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240921-1/907ac09e0a1396f710f092a0e8e8d80c.jpg",
@@ -364,7 +511,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20250612-1/5d41b0508d2a19648b293226c89d360c.jpg",
@@ -386,7 +533,7 @@ window.PAGE_DATA = [
       "自慰",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/3e9b328e8a0b13293f12b96f75bc04bd.jpg",
@@ -425,7 +572,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20241227-1/2e451a34ca48a0fb815deb34b64215d2.jpg",
@@ -471,7 +618,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202501/15/6787b9e05d57b64bfd00e137/cover.jpg",
@@ -518,7 +665,7 @@ window.PAGE_DATA = [
       "黑絲",
       "足交"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250209-1/0e4f3a73488bbcc71649b324fe748fd8.jpg",
@@ -539,7 +686,7 @@ window.PAGE_DATA = [
       "内衣",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://voddadaizi.com:52866/videos/202503/08/67cc521b4e7d663df4db83a2/cover.jpg",
@@ -560,7 +707,7 @@ window.PAGE_DATA = [
       "内衣",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250511-2/83eae08d64a8fb14115641b1dd3c3a8e.jpg",
@@ -608,7 +755,7 @@ window.PAGE_DATA = [
       "高跟鞋",
       "教學"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2025-06-07",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250517/20250517020831981981_thumbnail.webp",
@@ -675,7 +822,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/06/23/045de7fcb7a8ddeb577ffadaf5d68f97.jpg",
@@ -736,7 +883,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250703-1/cadf6bdad3a8c3473c89caab24432978.jpg",
@@ -795,7 +942,7 @@ window.PAGE_DATA = [
       "騎乗位",
       "情趣內衣"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250802/20250802032137311311_97861_thumbnail.webp",
@@ -859,7 +1006,7 @@ window.PAGE_DATA = [
       "學校",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/07/e34b1d88/vod.jpg",
@@ -876,7 +1023,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2025/11/05/cd382f8fc04591564ed0f6ce28c40102.jpg",
@@ -893,12 +1040,29 @@ window.PAGE_DATA = [
     "genres": [
       "中文字幕"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20221001-1/467aa974868105dff0cc56e2bc90dd5d.jpg",
     "actress": [],
     "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMYM-006"
+  },
+  {
+    "id": 591486,
+    "IDcode": "MMYM-007",
+    "title": "[] 空前絶后のモノ凄いWフェラ～枢木みかん＆早川瑞希",
+    "year": "",
+    "country": "",
+    "genre": "",
+    "genres": [
+      "中文字幕"
+    ],
+    "type": "有码",
+    "company": "MARRION",
+    "publish_date": "",
+    "cover_url": "https://yunvgong.com/cover.jpg",
+    "actress": [],
+    "title_play_url": "https://yunvgong.com/JAV/player_template.html?series=MMYM-007"
   },
   {
     "id": 99845,
@@ -911,7 +1075,7 @@ window.PAGE_DATA = [
       "巨大屁股",
       "制服"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2017-06-01",
     "cover_url": "http://15.155250922.com/upload/vod/2022/09/lgmpwf2cmpn.jpg",
@@ -928,7 +1092,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/ErDZL7BJ.jpg",
@@ -943,7 +1107,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/BilYN0Ty.jpg",
@@ -958,7 +1122,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190517-1/afe15c208255e52820487e3f53bc6f30.jpg",
@@ -973,7 +1137,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/O1jytAlu.jpg",
@@ -988,7 +1152,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://img.xxibaocdn.com/video/m3u8/2025/07/06/98602_cover_2025-07-06_041725.jpg",
@@ -1003,7 +1167,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://ll.lasha250923.top/upload/vod/20190916-1/ac441df0dd85a863d0a40dcbbec2d82d.jpg",
@@ -1023,7 +1187,7 @@ window.PAGE_DATA = [
       "中文字幕",
       "自慰"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/b0c555660c5c18c263a1dea052d3b4a6.jpg",
@@ -1043,7 +1207,7 @@ window.PAGE_DATA = [
       "淫语",
       "成熟的女人"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230923-1/0a6e883deabaa2dee214b16405cfe5e8.jpg",
@@ -1060,7 +1224,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "http://15.155250922.com/upload/vod/2022/09/3y4wm3n1twg.jpg",
@@ -1078,7 +1242,7 @@ window.PAGE_DATA = [
       "淫语",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2020-03-19",
     "cover_url": "https://fm.sl25914.com/upload/vod/20221230-1/286c87843fbfffe1d54108800fb2638b.jpg",
@@ -1093,7 +1257,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2020/10/02/762638aada9f0ae45da41cf01e077df9.jpg",
@@ -1111,7 +1275,7 @@ window.PAGE_DATA = [
       "淫语",
       "荡妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2021-08-19",
     "cover_url": "https://fmtu.sl2025p.com/upload/vod/20220903-7/24c1ecba34aec0d115daba79d573c3c7.jpg",
@@ -1129,7 +1293,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tutu1.space/images/2021/12/26/922b77fa032de29c139fd7ae1083c76d.jpg",
@@ -1147,7 +1311,7 @@ window.PAGE_DATA = [
       "淫语",
       "荡妇"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-12/e24e93e4fa49615ebcd5260290f33eec.jpg",
@@ -1169,7 +1333,7 @@ window.PAGE_DATA = [
       "荡妇",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-10/44c33d2f0cd9b5fdddb3447c493f7990.jpg",
@@ -1190,7 +1354,7 @@ window.PAGE_DATA = [
       "荡妇",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20230924-46/e3966bc4a4b777802a9662b28a10aa9a.jpg",
@@ -1209,7 +1373,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://imgsiwa.com:5278/cvjpg/p3e475WR.jpg",
@@ -1226,7 +1390,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://www.jkuntp.com/upload/vod/20230314-1/68bece6bdc053879cc50b1fc088dae21.jpg",
@@ -1241,7 +1405,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230125/VhJpACpi/1.jpg",
@@ -1261,7 +1425,7 @@ window.PAGE_DATA = [
       "荡妇",
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-4/c2531f523dbc3645a43a3d4dfe5fa3b7.jpg",
@@ -1278,7 +1442,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250512-3/c4ef5a505d393efa756f5cf62f3968b2.jpg",
@@ -1293,7 +1457,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20230827/0EpqqAOq/1.jpg",
@@ -1308,7 +1472,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20231017/7B5ZydpM/1.jpg",
@@ -1325,7 +1489,7 @@ window.PAGE_DATA = [
     "genres": [
       "巨乳"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://guzwiayz.com/20231219/5gkVQ35F/1.jpg?t=1702926939",
@@ -1340,7 +1504,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240116/IMJik80K/1.jpg",
@@ -1380,7 +1544,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-02-21",
     "cover_url": "https://picture.yoshiclub.xyz/20240222/e3d55e51-8dae-4959-ac31-b527a0e49313.jpg",
@@ -1397,7 +1561,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tuaskbgnekr.com/20240321/dRlkovuZ/1.jpg",
@@ -1435,7 +1599,7 @@ window.PAGE_DATA = [
       "黑絲",
       "女上位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20240819-1/a4bbdc2e03b473dbfa4bd02dff800698.jpg",
@@ -1456,7 +1620,7 @@ window.PAGE_DATA = [
       "荡妇",
       "单体作品"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-06-18",
     "cover_url": "https://tuaskbgnekr.com/20240618/xcdpBr3T/1.jpg",
@@ -1492,7 +1656,7 @@ window.PAGE_DATA = [
       "劇情",
       "絕頂高潮"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "2024-08-20",
     "cover_url": "https://picture.yoshiclub.xyz/20240818/4a219bbd-dc3e-4c93-9054-855064e6563d.jpg",
@@ -1509,7 +1673,7 @@ window.PAGE_DATA = [
     "country": "",
     "genre": "",
     "genres": [],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://sbzytpimg1.com:3519/upload/vod/20251103-1/709cc112e85fb012ab4c465a9e7ee8d7.jpg",
@@ -1542,7 +1706,7 @@ window.PAGE_DATA = [
       "情趣內衣",
       "女優"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250703-1/9aa3f3d923c3134c49ef775a6f722c42.jpg",
@@ -1594,7 +1758,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://picture.yoshiclub.xyz/compressed/20250614/20250614095449816816_thumbnail.webp",
@@ -1649,7 +1813,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://lust103.cc/upload/vod/20250723-1/d5209699ba53a2b72de73951dc77a5db.jpg",
@@ -1717,7 +1881,7 @@ window.PAGE_DATA = [
       "女上位",
       "騎乗位"
     ],
-    "type": "",
+    "type": "有码",
     "company": "MARRION",
     "publish_date": "",
     "cover_url": "https://tutu1.space/video/m3u8/2025/09/17/bde66fbb/vod.jpg",
